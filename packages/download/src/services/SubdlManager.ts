@@ -43,6 +43,8 @@ export class SubdlManager {
   }
 
   private async getSubtitleInfo(subtitle: Subtitle) {
+    fs.mkdirSync(this.stagingDir, { recursive: true });
+
     const basename = path.basename(subtitle.url);
     const id = path.parse(basename).name;
     const zipFilePath = path.resolve(this.stagingDir, basename);
