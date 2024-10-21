@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Click and Drag on Mobile</title>
+  <style>
+    #draggable {
+      width: 100px;
+      height: 100px;
+      background-color: blue;
+      position: absolute;
+    }
+  </style>
+</head>
+<body>
+  <div id="draggable"></div>
+
+  <script>
+    const draggable = document.getElementById('draggable');
+    let isDragging = false;
+    let startX, startY, offsetX, offsetY;
+
+    // Helper function to set the position
+    const setPosition = (x, y) => {
+      draggable.style.left = `${x}px`;
+      draggable.style.top = `${y}px`;
+    };
+
+    // Mouse down / Touch start
+    const startDrag = (event) => {
+      isDragging = true;
+      
+      // Determine if it's a touch or mouse event
+      if (event.type === 'touchstart') {
+        startX = event.touches[0].clientX;
+        startY = event.touches[0].clientY;
+      } else {
+        startX = event.clientX;
+        startY = event.clientY;
+      }
+
+      // Calculate offset between mouse/touch position and element position
+      offsetX = startX - draggable.offsetLeft;
+      offsetY = startY - draggable.offsetTop;
+    };
+
+    // Mouse move / Touch move
+    const drag = (event) => {
+      if (!isDragging) return;
+
+      let clientX, clientY;
+
+      // Check if it's a touch or mouse event
+      if (event.type === 'touchmove') {
+        clientX = event.touches[0].clientX;
+        clientY = event.touches[0].clientY;
+      } else {
+        clientX = event.clientX;
+        clientY = event.clientY;
+      }
+
+      // Set new position based on movement
+      const newX = clientX - offsetX;
+      const newY = clientY - offsetY;
+      setPosition(newX, newY);
+
+      // Prevent scrolling on touch devices while dragging
+      event.preventDefault();
+    };
+
+    // Mouse up / Touch end
+    const endDrag = () => {
+      isDragging = false;
+    };
+
+    // Add event listeners for mouse events
+    draggable.addEventListener('mousedown', startDrag);
+    window.addEventListener('mousemove', drag);
+    window.addEventListener('mouseup', endDrag);
+
+    // Add event listeners for touch events
+    draggable.addEventListener('touchstart', startDrag);
+    window.addEventListener('touchmove', drag);
+    window.addEventListener('touchend', endDrag);
+  </script>
+</body>
+</html>

@@ -1,0 +1,5 @@
+# See https://help.gitHub.com/articles/ignoring-files/ for more about ignoring files.
+__zip__
+coverage
+dist
+node_modules
