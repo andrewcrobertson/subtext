@@ -9,6 +9,9 @@ jobs:
   download:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -32,19 +35,5 @@ jobs:
       - name: Run 'download' script from package.json
         run: pnpm run script:download
 
-      - name: Configure Git for committing changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-      - name: Check if there are any changes
-        run: |
-          git status
-          if git diff --quiet; then
-            echo "No changes to commit"
-          else
-            echo "Changes detected"
-            git add .
-            git commit -m "Process issue #${{ github.event.issue.number }}: ${{ github.event.issue.title }}"
-            git push
-          fi
+      - name: Commit any changes
+        uses: stefanzweifel/git-auto-commit-action@v5
