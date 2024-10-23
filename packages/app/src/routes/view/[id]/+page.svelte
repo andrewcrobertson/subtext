@@ -30,7 +30,7 @@
   const subtitleStream = new SubtitleStream(convertSubtitles(data.subtitles));
 
   const handleProgressClick = ({ detail }: CustomEvent<ProgressEventDetail>) => subtitleStream.goTo(detail.progress);
-  const handleBackClick = () => goto(`${base}/`);
+  const handleBackClick = () => goto(`${base}/`, {replaceState: true});
   const handleSkipBackClick = () => subtitleStream.skipToPrevious();
   const handleSkipForwardClick = () => subtitleStream.skipToNext();
   const handleFontSmallClick = () => (fontSize = FontSizeEnum.Small);
