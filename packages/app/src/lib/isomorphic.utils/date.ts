@@ -1,5 +1,5 @@
-export const getSixMonthsAgo = () => {
+export const getThreeMonthsAgo = () => {
   const date = new Date();
-  date.setMonth(date.getMonth() - 6);
+  date.setMonth(date.getMonth() - 3);
   return date;
 };
