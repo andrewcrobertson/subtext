@@ -1,7 +1,7 @@
 import type { Movie } from '$lib/isomorphic.types/Movie';
 import { getSixMonthsAgo } from '$lib/isomorphic.utils/date';
 import fs from 'fs';
-import { filter, find, orderBy } from 'lodash-es';
+import { filter, find, map, orderBy } from 'lodash-es';
 import path from 'path';
 
 export class DataAccess {
@@ -13,7 +13,7 @@ export class DataAccess {
     const sixMonthsAgo = getSixMonthsAgo();
     const movies = this.getMovies();
     const recent = filter(movies, (m) => m.releaseDate !== null && m.releaseDate > sixMonthsAgo.toISOString());
-    return recent;
+    return map(recent, ({ imdbId, title, posterFileName }) => ({ id: imdbId, title, posterFileName }));
   }
 
   public getView(id: string) {
