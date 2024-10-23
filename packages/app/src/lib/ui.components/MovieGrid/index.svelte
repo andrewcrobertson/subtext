@@ -5,8 +5,8 @@
 </script>
 
 <h1 class="text-white">{title}</h1>
-<!-- Responsive grid layout -->
-<div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-2 pr-2 overflow-y-auto scrollbar-hide">
+  <!-- Note: scrollbar-hide is a Tailwind custom utility -->
+  <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-2 pr-2 overflow-y-auto scrollbar-hide">
   {#each movies as { id, title, posterFileName }}
     <a href={`${base}/view/${id}`} class="group block relative">
       <img src={`${base}/posters/${posterFileName}`} alt={title} class="w-full h-full object-cover" />
