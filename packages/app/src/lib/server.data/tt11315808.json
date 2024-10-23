@@ -5,8 +5,16 @@
   "releaseYear": 2024,
   "posterFileName": "tt11315808.jpg",
   "rated": "R",
-  "genres": ["Crime,", "Drama,", "Musical"],
-  "actors": ["Joaquin Phoenix", "Zazie Beetz", "Lady Gaga"],
+  "genres": [
+    "Crime,",
+    "Drama,",
+    "Musical"
+  ],
+  "actors": [
+    "Joaquin Phoenix",
+    "Zazie Beetz",
+    "Lady Gaga"
+  ],
   "runTime": 138,
   "plot": "Arthur Fleck is institutionalized at Arkham, awaiting trial for his crimes as Joker. While struggling with his dual identity, Arthur not only stumbles upon true love, but also finds the music that's always been inside him.",
   "subtitles": [
