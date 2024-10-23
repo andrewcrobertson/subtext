@@ -5,6 +5,7 @@
   import { FontSizeEnum } from '$lib/isomorphic.types/FontSizeEnum';
   import { SubtitleStreamStateEnum } from '$lib/isomorphic.types/SubtitleStreamStateEnum';
   import { formatMsAsTime } from '$lib/isomorphic.utils/formatMsAsTime';
+  import { convertSubtitles } from '$lib/isomorphic.utils/convertSubtitles';  
   import BottomBar from '$lib/ui.components/BottomBar';
   import Overlay from '$lib/ui.components/Overlay';
   import TopBar from '$lib/ui.components/TopBar';
@@ -26,7 +27,7 @@
 
   const inactivityDelay = 3000;
   const overlayDelay = 6000;
-  const subtitleStream = new SubtitleStream(data.subtitles);
+  const subtitleStream = new SubtitleStream(convertSubtitles(data.subtitles));
 
   const handleProgressClick = ({ detail }: CustomEvent<ProgressEventDetail>) => subtitleStream.goTo(detail.progress);
   const handleBackClick = () => goto(`${base}/`);

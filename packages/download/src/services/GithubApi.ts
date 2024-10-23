@@ -4,15 +4,15 @@ const titlePrefix = 'Add: ';
 
 export class GithubApi {
   public constructor(
-    private readonly url: string,
+    private readonly apiUrlBase: string,
     private readonly token: string
   ) {}
 
   public async getOpenIssues(label: string) {
-    const issuesRaw = await this.get(`/issues?state=open&labels=${label}`);
+    const issuesRaw: any = await this.get(`/issues?state=open&labels=${label}`);
     const issues = chain(issuesRaw)
-      .filter((i) => startsWith(i.title, titlePrefix))
-      .map((i) => ({ gitHubIssueNumber: i.number, imdbId: trim(i.title.substring(titlePrefix.length)) }))
+      .filter((i: any) => startsWith(i.title, titlePrefix))
+      .map((i: any) => ({ gitHubIssueNumber: i.number, imdbId: trim(i.title.substring(titlePrefix.length)) }))
       .value();
 
     return issues;
@@ -31,7 +31,7 @@ export class GithubApi {
   }
 
   private async get(urlPath: string) {
-    const url = `${this.url}${urlPath}`;
+    const url = `${this.apiUrlBase}${urlPath}`;
     const headers = { Authorization: `token ${this.token}`, Accept: 'application/vnd.gitHub.v3+json' };
     const response = await fetch(url, { headers });
     const json = await response.json();
@@ -39,7 +39,7 @@ export class GithubApi {
   }
 
   private async patch(urlPath: string, body: any) {
-    const url = `${this.url}${urlPath}`;
+    const url = `${this.apiUrlBase}${urlPath}`;
     const headers = { Authorization: `token ${this.token}`, Accept: 'application/vnd.gitHub.v3+json' };
     const response = await fetch(url, { method: 'PATCH', headers, body: JSON.stringify(body) });
     const json = await response.json();
@@ -47,7 +47,7 @@ export class GithubApi {
   }
 
   private async post(urlPath: string, body: any) {
-    const url = `${this.url}${urlPath}`;
+    const url = `${this.apiUrlBase}${urlPath}`;
     const headers = { Authorization: `token ${this.token}`, Accept: 'application/vnd.gitHub.v3+json' };
     const response = await fetch(url, { method: 'POST', headers, body: JSON.stringify(body) });
     const json = await response.json();

@@ -2,8 +2,13 @@ export const verboseName = 'verbose';
 export const verboseAlias = 'v';
 export const verboseDescribe = 'Run with verbose logging';
 
-export const process = 'process';
-export const processDescribe = 'Process a file';
-export const processoutputDirName = 'output';
-export const processoutputDirAlias = 'o';
-export const processoutputDirDescribe = 'Output file';
+export const download = 'download';
+export const downloadDescribe = 'Download movie info';
+
+export const downloadDataDirName = 'data-dir';
+export const downloadDataDirAlias = 'd';
+export const downloadDataDirDescribe = 'Data directory';
+
+export const downloadPosterDirName = 'poster-dir';
+export const downloadPosterDirAlias = 'p';
+export const downloadPosterDirDescribe = 'Poster directory';

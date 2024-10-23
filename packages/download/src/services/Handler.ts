@@ -9,11 +9,11 @@ export class Handler {
     private readonly logger: Logger
   ) {}
 
-  public async run(outputDir?: string) {
+  public async run(dataDir?: string, posterDir?: string) {
     this.logger.infoBlank();
-    const args = this.argParser.parse(outputDir);
+    const args = this.argParser.parse(dataDir, posterDir);
     if (args.continue) {
-      await this.downloader.run(args.outputDir);
+      await this.downloader.run(args.dataDir, args.posterDir);
     } else {
       this.logger.infoBlank();
     }

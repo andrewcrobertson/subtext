@@ -10,9 +10,9 @@
 
   <!-- Note: scrollbar-hide is a Tailwind custom utility -->
   <div class="mt-20 grid grid-cols-2 gap-4 pr-2 overflow-y-auto scrollbar-hide">
-    {#each data.titles as { id, title, poster }}
+    {#each data.movies as { id, title, posterFileName }}
       <a href={`${base}/view/${id}`} class="group block relative">
-        <img src={`${base}/${poster}`} alt={title} class="w-full h-full object-cover rounded-lg" />
+        <img src={`${base}/posters/${posterFileName}`} alt={title} class="w-full h-full object-cover rounded-lg" />
         <div class="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity">
           <span class="text-white text-lg font-semibold">{title}</span>
         </div>

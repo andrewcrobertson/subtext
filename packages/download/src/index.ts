@@ -8,7 +8,8 @@ Promise.resolve()
     yargs(hideBin(process.argv))
       .usage('Usage: process [options]')
       .options(strings.verboseName, { alias: strings.verboseAlias, describe: strings.verboseDescribe, type: 'boolean', default: false })
-      .option(strings.processoutputDirName, { alias: strings.processoutputDirAlias, describe: strings.processoutputDirDescribe, type: 'string' })
+      .option(strings.downloadDataDirName, { alias: strings.downloadDataDirAlias, describe: strings.downloadDataDirDescribe, type: 'string' })
+      .option(strings.downloadPosterDirName, { alias: strings.downloadPosterDirAlias, describe: strings.downloadPosterDirDescribe, type: 'string' })
       .parse()
   )
-  .then((argv) => handler(argv.verbose).run(argv.output));
+  .then((argv) => handler(argv.verbose).run(argv.dataDir, argv.posterDir));

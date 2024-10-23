@@ -18,40 +18,57 @@ export class Logger {
     this.logInfo(magenta('=== Starting ==='));
   }
 
-  public infoOpenGitHubIssuesNotFound() {
-    this.logInfo(`No open issues found`);
-  }
-
   public infoOpenGitHubIssuesFound(openIssueCount: number) {
-    this.logInfo(`${green(openIssueCount)} open issues found`);
+    const issueP11n = openIssueCount === 1 ? 'issue' : 'issues';
+    this.logInfo(`${green(openIssueCount)} open ${issueP11n} found`);
   }
 
-  public infoProcessingOpenGitHubIssue(gitHubIssueNumber: number, imdbId: string) {
-    this.logInfo(`Processing GitHub Issue ${green(gitHubIssueNumber)} / IMDB Id ${green(imdbId)} `);
+  public infoTitle(title: string) {
+    this.logInfo(magenta(`=== ${title} ===`));
   }
 
-  public infoMovieMetadataFound(imdbId: string, title: string) {
-    this.logInfo(`Found movie metadata for IMDB Id ${green(imdbId)}: ${green(title)}`);
+  public infoProcessing(gitHubIssueNumber: number, imdbId: string) {
+    this.logInfo(`GitHub issue ${green(gitHubIssueNumber)}, IMDB id ${green(imdbId)}`);
   }
 
-  public infoMovieMetadataNotFound(imdbId: string) {
-    this.logWarn(`Could not find movie metadata with IMDB Id ${green(imdbId)}`);
+  public infoMovieMetadataFound() {
+    this.logInfo(`Metadata found`);
   }
 
-  public infoMovieSubtitlesFound(imdbId: string) {
-    this.logInfo(`Found movie subtitles for IMDB Id ${green(imdbId)}`);
+  public infoMovieMetadataNotFound() {
+    this.logWarn(`Metadata not found`);
   }
 
-  public infoMovieSubtitlesNotFound(imdbId: string) {
-    this.logWarn(`Could not find movie subtitles for IMDB Id ${green(imdbId)}`);
+  public infoMovieSubtitlesFound() {
+    this.logInfo(`Subtitles found`);
   }
 
-  // public errorInvalidFileArgsInputFileNotExist(inputFile: string) {
-  //   this.logError(`Could not find input file ${this.formatPath(inputFile)}`);
-  // }
+  public infoMovieSubtitlesNotFound() {
+    this.logWarn(`Subtitles not found`);
+  }
 
-  public errorInvalidFileArgsOutput() {
-    this.logError(`Please pass in an output`);
+  public infoSavedPosterFile(posterFile: string) {
+    this.logInfo(`Saved poster file ${this.formatPath(posterFile)}`);
+  }
+
+  public infoSavedDataFile(dataFile: string) {
+    this.logInfo(`Saved data file ${this.formatPath(dataFile)}`);
+  }
+
+  public errorMessage(message: string) {
+    this.logError(message);
+  }
+
+  public errorInvalidDataDirAndPosterDirArgsOutput() {
+    this.logError(`Please include ${green('data-dir')} and ${green('poster-dir')} args`);
+  }
+
+  public errorInvalidDataDirArgsOutput() {
+    this.logError(`Please include a ${green('data-dir')} arg`);
+  }
+
+  public errorInvalidPosterDirArgsOutput() {
+    this.logError(`Please include a ${green('poster-dir')} arg`);
   }
 
   public infoFinished() {

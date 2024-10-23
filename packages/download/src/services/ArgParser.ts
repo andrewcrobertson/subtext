@@ -4,22 +4,34 @@ import type { Logger } from './Logger';
 export class ArgParser {
   public constructor(private readonly logger: Logger) {}
 
-  public parse(outputDir?: string) {
-    const sanitisedFiles = this.sanitiseFiles(outputDir);
+  public parse(dataDir?: string, posterDir?: string) {
+    const sanitisedFiles = this.sanitiseFiles(dataDir, posterDir);
     return {
       continue: sanitisedFiles.continue,
-      outputDir: sanitisedFiles.outputDir,
+      dataDir: sanitisedFiles.dataDir,
+      posterDir: sanitisedFiles.posterDir,
     };
   }
 
-  private sanitiseFiles(outputDir?: string) {
-    const outputDirHasValue = !isNil(outputDir);
+  private sanitiseFiles(dataDir?: string, posterDir?: string) {
+    const dataDirHasValue = !isNil(dataDir);
+    const posterDirHasValue = !isNil(posterDir);
 
-    if (!outputDirHasValue) {
-      this.logger.errorInvalidFileArgsOutput();
-      return { continue: false, outputDir: '' };
+    if (!dataDirHasValue && !dataDirHasValue) {
+      this.logger.errorInvalidDataDirAndPosterDirArgsOutput();
+      return { continue: false, dataDir: '', posterDir: '' };
     }
 
-    return { continue: true, outputDir };
+    if (!dataDirHasValue) {
+      this.logger.errorInvalidDataDirArgsOutput();
+      return { continue: false, dataDir: '', posterDir: '' };
+    }
+
+    if (!posterDirHasValue) {
+      this.logger.errorInvalidPosterDirArgsOutput();
+      return { continue: false, dataDir: '', posterDir: '' };
+    }
+
+    return { continue: true, dataDir, posterDir };
   }
 }
