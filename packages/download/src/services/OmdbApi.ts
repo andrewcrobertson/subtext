@@ -64,7 +64,7 @@ export class OmdbApi {
       if (!endsWith(runTime, 'min')) throw new Error(`Invalid run time: ${runTime}`);
       return parseInt(runTime, 10);
     } catch (err) {
-      console.error(`Could not parse release year: '${runTime}'`, err);
+      console.error(`Could not parse run time: '${runTime}'`, err);
       return null;
     }
   }
