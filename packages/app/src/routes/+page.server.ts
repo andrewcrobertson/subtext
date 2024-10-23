@@ -2,6 +2,6 @@ import { dataAccess } from '$lib/server.composition/dataAccess';
 import type { PageServerLoad } from './$types';
 
 export const load: PageServerLoad = async (event) => {
-  const movies = dataAccess.getIndex();
-  return { movies };
+  const data = dataAccess.getIndex();
+  return data;
 };

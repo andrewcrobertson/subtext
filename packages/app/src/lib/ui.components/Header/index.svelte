@@ -19,7 +19,7 @@
 
 </script>
 
-<div class={twMerge('flex justify-between items-center p-2 bg-gray-900 z-10 border-b-2 border-yellow-500', _class)}>
+<div class={twMerge('flex justify-between items-center p-2 z-10 border-b-2 border-yellow-500', _class)}>
   <div class="flex items-center">
     <ChatBubbleLeftRightIcon class="text-yellow-500 size-8 mr-2" />
     <p class="font-bold text-xl text-yellow-500">SubText</p>
