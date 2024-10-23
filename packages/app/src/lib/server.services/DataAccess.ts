@@ -15,8 +15,9 @@ export class DataAccess {
 
   public getView(id: string) {
     const movies = this.getMovies();
-    const movie = find(movies, (m) => m.imdbId === id);
-    return { title: movie!.title, subtitles: movie!.subtitles[0].lines };
+    const movie = find(movies, (m) => m.imdbId === id)!;
+    const subtitles = movie.subtitles.length === 0 ? [] : movie.subtitles[0].lines;
+    return { title: movie!.title, subtitles };
   }
 
   private getMovies() {
