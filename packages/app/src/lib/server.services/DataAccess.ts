@@ -43,7 +43,8 @@ export class DataAccess {
       for (let i = 0; i < files.length; i++) {
         const file = files[i];
         if (path.extname(file) === '.json') {
-          moviesRaw.push(JSON.parse(fs.readFileSync(path.join(this.dirPath, file), 'utf-8')));
+          const movie: Movie = JSON.parse(fs.readFileSync(path.join(this.dirPath, file), 'utf-8'));
+          if (movie.subtitles.length > 0) moviesRaw.push(movie);
         }
       }
 

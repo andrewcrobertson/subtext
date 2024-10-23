@@ -1,7 +1,7 @@
 <script lang="ts">
   import { base } from '$app/paths';  
   import MapPinIcon from '$lib/ui.icons/MapPinIcon.svelte';
-  import type{ PinMovieEventDetail } from '$lib/ui.types/PinMovieEventDetail';
+  import type{ StarMovieEventDetail } from '$lib/ui.types/StarMovieEventDetail';
   import { createEventDispatcher } from 'svelte';
   export let title: string;
   export let movies: { id: string, title: string, posterFileName: string, hasSubtitles: boolean }[] = [];
@@ -9,7 +9,7 @@
   const dispatch = createEventDispatcher();
 
   const onPinClick = (id: string) => {
-    const eventDetail: PinMovieEventDetail = { id }
+    const eventDetail: StarMovieEventDetail = { id }
     dispatch('pinclick', eventDetail);
   };
 </script>
