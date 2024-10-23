@@ -17,11 +17,11 @@ export class DataAccess {
 
     for (let i = 0; i < movies.length; i++) {
       const movie = movies[i];
-      const x = { id: movie.imdbId, title: movie.title!, posterFileName: movie.posterFileName! };
-      recentMovies.push(x);
+      const movieBasic = { id: movie.imdbId, title: movie.title!, posterFileName: movie.posterFileName!, hasSubtitles: movie.subtitles.length > 0 };
       if (movie.releaseDate !== null && movie.releaseDate > sixMonthsAgo) {
+        recentMovies.push(movieBasic);
       } else {
-        olderMovies.push(x);
+        olderMovies.push(movieBasic);
       }
     }
 
