@@ -1,14 +1,13 @@
 <script lang="ts">
   let _class = '';
   import { twMerge } from 'tailwind-merge';
-  export { _class as class };
-
   import PlayIcon from '$lib/ui.icons/PlayIcon.svelte';
   import BackwardIcon from '$lib/ui.icons/BackwardIcon.svelte';
   import ForwardIcon from '$lib/ui.icons/ForwardIcon.svelte';
   import PauseIcon from '$lib/ui.icons/PauseIcon.svelte';
   import { createEventDispatcher } from 'svelte';
   import BottomBarButton from './Button.svelte';
+  export { _class as class };
   export let isPlaying = false;
 
   const dispatch = createEventDispatcher();
