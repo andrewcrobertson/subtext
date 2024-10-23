@@ -18,8 +18,8 @@ export class DataAccess {
     for (let i = 0; i < movies.length; i++) {
       const movie = movies[i];
       const x = { id: movie.imdbId, title: movie.title!, posterFileName: movie.posterFileName! };
+      recentMovies.push(x);
       if (movie.releaseDate !== null && movie.releaseDate > sixMonthsAgo) {
-        recentMovies.push(x);
       } else {
         olderMovies.push(x);
       }
