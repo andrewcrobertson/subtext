@@ -1,4 +1,5 @@
 <script lang="ts">
+  import { base } from '$app/paths';  
   import { onMount } from 'svelte';
 
   // Props: list of movies to display
@@ -62,9 +63,9 @@
   >
     {#each movies as { id, title, posterFileName }}
       <div class="shrink-0 w-40 md:w-52">
-        <a href={`/movie/${id}`} class="block">
+        <a href={`${base}/view/${id}`} class="block">
           <img
-            src={`/posters/${posterFileName}`}
+            src={`${base}/posters/${posterFileName}`}
             alt={title}
             class="w-full h-full object-cover rounded-lg shadow-md"
           />
