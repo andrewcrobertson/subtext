@@ -1,8 +1,6 @@
 <script lang="ts">
   import Header from '$lib/ui.components/Header';
   import MovieGrid from '$lib/ui.components/MovieGrid';
-  import MovieCarousel from '$lib/ui.components/MovieCarousel';
-  
   import type { PageData } from './$types';
   export let data: PageData;
 </script>
