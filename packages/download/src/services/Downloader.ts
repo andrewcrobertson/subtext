@@ -19,11 +19,11 @@ export class Downloader {
   ) {}
 
   public async run(metaDir: string, subtitleDir: string, posterDir: string) {
-    console.log({ metaDir, subtitleDir, posterDir });
     fs.mkdirSync(metaDir, { recursive: true });
     fs.mkdirSync(subtitleDir, { recursive: true });
     fs.mkdirSync(posterDir, { recursive: true });
 
+    this.logger.infoBlank();
     this.logger.infoStarting();
     const openIssues = await this.gitHubApi.getOpenIssues('add');
 
@@ -45,7 +45,6 @@ export class Downloader {
     const errorText = map(errors, (error) => (isError(error) ? error.message : (<any>error).toString()));
     const title = omdbSearchRes.data?.title ?? subdlSearchRes.data?.title ?? 'Unknown Title';
 
-    this.logger.infoBlank();
     this.logger.infoTitle(title);
     this.logger.infoProcessing(gitHubIssueNumber, imdbId);
     gitHubComments.push(`**${title}**`);
@@ -99,8 +98,6 @@ export class Downloader {
       fs.writeFileSync(subtitleFile, subtitleText);
       this.logger.infoSavedSubtitleFile(subtitleFile);
     }
-
-    this.logger.infoBlank();
 
     await this.gitHubApi.addComment(gitHubIssueNumber, join(gitHubComments, '\n'));
     await this.gitHubApi.close(gitHubIssueNumber);
