@@ -9,18 +9,5 @@
   "actors": ["Will Ferrell", "Tina Fey", "Will Forte"],
   "runTime": 114,
   "plot": "In this intimate portrayal of friendship, transition, and America, Will Ferrell and his close friend of thirty years decide to go on a cross-country road trip to explore a new chapter in their relationship.",
-  "subtitles": [
-    {
-      "author": "tedi",
-      "zipFileName": "3409636-8333046.zip",
-      "subtitleFileName": "Will.and.Harper.2024.WEBRip.NF.en.srt",
-      "shaFileName": "9397635a424ea652a6014d7a3189b9bb3ca7322575f5fda6b17c2103cf69fc28.srt"
-    },
-    {
-      "author": "tedi",
-      "zipFileName": "3409634-8333044.zip",
-      "subtitleFileName": "Will.and.Harper.2024.WEBRip.NF.en[cc].srt",
-      "shaFileName": "9d65c8b2840ea953f8564a93adddf476bc4d373c6adbf16da46e43fc5c7e194a.srt"
-    }
-  ]
+  "subtitles": []
 }

@@ -1,7 +1,7 @@
 import AdmZip from 'adm-zip';
 import { get, toPairs } from 'lodash';
 import path from 'path';
-import { ApiSearchResponse, ApiSearchResponseSubtitle, SearchResponse } from '../../types/SubdlApi';
+import { ApiSearchResponse, SearchResponse } from '../../types/SubdlApi';
 
 export class SubdlApi {
   public constructor(
@@ -21,8 +21,9 @@ export class SubdlApi {
       const zipFile = path.basename(subtitle.url);
 
       try {
-        const fetchZipRes = await this.fetchZip(subtitle);
-        const extractZipRes = await this.extractZip(fetchZipRes);
+        const url = `${this.subdlZipUrlBase}${subtitle.url}`;
+        const fetchZipRes = await this.fetchZip(url);
+        const extractZipRes = await this.extractZip(url, fetchZipRes);
         const srtFilePairs = toPairs(extractZipRes);
         for (let i = 0; i < srtFilePairs.length; i++) {
           const [subtitleFileName, subtitleFileText] = srtFilePairs[i];
@@ -59,9 +60,8 @@ export class SubdlApi {
     }
   }
 
-  private async fetchZip(subtitle: ApiSearchResponseSubtitle): Promise<ArrayBuffer> {
+  private async fetchZip(url: string): Promise<ArrayBuffer> {
     try {
-      const url = `${this.subdlZipUrlBase}${subtitle.url}`;
       const response = await fetch(url);
       if (!response.ok) throw new Error(`Subdl Error: zip fetch returned ${response.status}`);
 
@@ -74,7 +74,7 @@ export class SubdlApi {
     }
   }
 
-  private async extractZip(arrayBuffer: ArrayBuffer): Promise<Record<string, string>> {
+  private async extractZip(url: string, arrayBuffer: ArrayBuffer): Promise<Record<string, string>> {
     const data: Record<string, string> = {};
     try {
       const zip = new AdmZip(Buffer.from(arrayBuffer));
@@ -87,7 +87,7 @@ export class SubdlApi {
       return data;
     } catch (cause) {
       const causeMessage = get(cause, ['message'], null);
-      const message = 'Subdl Error: extract zip unexpected error ' + (causeMessage === null ? '' : `: '${causeMessage}'`);
+      const message = `Subdl Error: extract '${url}' unexpected error ` + (causeMessage === null ? '' : `: '${causeMessage}'`);
       throw new Error(message, { cause });
     }
   }
