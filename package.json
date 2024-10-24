@@ -15,7 +15,7 @@
     "prepare": "husky",
     "script:download": "run-s script:download:*",
     "script:download:01": "pnpm --filter \"download\" dev:local --meta-dir ../../__data__/meta --subtitle-dir ../../__data__/subtitles --poster-dir ../../__data__/posters",
-    "script:download:02": "shx cp ./__data__/posters ./packages/app/static/posters",
+    "script:download:02": "shx cp -r ./__data__/posters ./packages/app/static",
     "test": "pnpm run -r --workspace-concurrency 1 test"
   },
   "devDependencies": {
