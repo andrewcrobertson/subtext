@@ -1,50 +1,50 @@
 <script lang="ts">
   import Header from '$lib/ui.components/Header';
   import MovieGrid from '$lib/ui.components/MovieGrid';
-  import { StarManager } from '$lib/ui.services/StarManager';
-  import type{ StarMovieEventDetail } from '$lib/ui.types/StarMovieEventDetail';
+  import { BookmarkManager } from '$lib/ui.services/BookmarkManager';
+  import type{ BookmarkedMovieEventDetail } from '$lib/ui.types/BookmarkedMovieEventDetail';
   import { onMount } from 'svelte';
   import type { PageData } from './$types';
     import { includes } from 'lodash-es';
   export let data: PageData;
 
-  let starredMovies: any[] = [];
-  const starManager = new StarManager()
+  let BookmarkedMovies: any[] = [];
+  const bookmarkManager = new BookmarkManager()
 
-  const handleStarClick = ({ detail }: CustomEvent<StarMovieEventDetail>) => {
-    starManager.starMovie(detail.id)
-    loadStarredMovies();
+  const handleBookmarkClick = ({ detail }: CustomEvent<BookmarkedMovieEventDetail>) => {
+    bookmarkManager.bookmarkMovie(detail.id)
+    loadBookmarkedMovies();
   }
 
-  const handleUnstarClick = ({ detail }: CustomEvent<StarMovieEventDetail>) => {
-    starManager.unstarMovie(detail.id)
-    loadStarredMovies();
+  const handleUnbookmarkClick = ({ detail }: CustomEvent<BookmarkedMovieEventDetail>) => {
+    bookmarkManager.unbookmarkMovie(detail.id)
+    loadBookmarkedMovies();
   }
 
-  const loadStarredMovies = () => {
-    let tempStarredMovies: any[] = [];
-    const starredMovieIds = starManager.getAllStarredMovies()
+  const loadBookmarkedMovies = () => {
+    let tempBookmarkedMovies: any[] = [];
+    const BookmarkedMovieIds = bookmarkManager.getAllBookmarkedMovies()
 
     for(let i = 0; i < data.recentMovies.length; i++) {
       const movie = data.recentMovies[i];
-      if(includes(starredMovieIds, movie.id)) tempStarredMovies.push(movie)
+      if(includes(BookmarkedMovieIds, movie.id)) tempBookmarkedMovies.push(movie)
     }
 
     for(let i = 0; i < data.olderMovies.length; i++) {
       const movie = data.olderMovies[i];
-      if(includes(starredMovieIds, movie.id)) tempStarredMovies.push(movie)
+      if(includes(BookmarkedMovieIds, movie.id)) tempBookmarkedMovies.push(movie)
     }
 
-    starredMovies = tempStarredMovies
+    BookmarkedMovies = tempBookmarkedMovies
   }
 
-  onMount(() => loadStarredMovies());
+  onMount(() => loadBookmarkedMovies());
 </script>
 
 <div class="relative">
   <Header class="fixed top-0 left-0 right-0" />
   <div class="mt-16"></div>
-  <MovieGrid title="Starred" movies={starredMovies} on:pinclick={(e) => handleUnstarClick(e)} />
-    <MovieGrid title="Recent" movies={data.recentMovies} on:pinclick={(e) => handleStarClick(e)} />
-      <MovieGrid title="Older" movies={data.olderMovies} on:pinclick={(e) => handleStarClick(e)} />
+  <MovieGrid title="Bookmarked" movies={BookmarkedMovies} on:pinclick={(e) => handleUnbookmarkClick(e)} />
+    <MovieGrid title="Recent" movies={data.recentMovies} on:pinclick={(e) => handleBookmarkClick(e)} />
+      <MovieGrid title="Older" movies={data.olderMovies} on:pinclick={(e) => handleBookmarkClick(e)} />
 </div>

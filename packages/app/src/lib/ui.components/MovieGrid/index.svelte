@@ -1,7 +1,7 @@
 <script lang="ts">
   import { base } from '$app/paths';  
   import StarIcon from '$lib/ui.icons/StarIcon.svelte';
-  import type{ StarMovieEventDetail } from '$lib/ui.types/StarMovieEventDetail';
+  import type{ BookmarkedMovieEventDetail } from '$lib/ui.types/BookmarkedMovieEventDetail';
   import { createEventDispatcher } from 'svelte';
   export let title: string;
   export let movies: { id: string, title: string, posterFileName: string, hasSubtitles: boolean }[] = [];
@@ -9,7 +9,7 @@
   const dispatch = createEventDispatcher();
 
   const onPinClick = (id: string) => {
-    const eventDetail: StarMovieEventDetail = { id }
+    const eventDetail: BookmarkedMovieEventDetail = { id }
     dispatch('pinclick', eventDetail);
   };
 </script>
