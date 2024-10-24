@@ -6,7 +6,7 @@ import * as strings from './constants/strings';
 Promise.resolve()
   .then(() =>
     yargs(hideBin(process.argv))
-      .usage('Usage: process [options]')
+      .usage('Usage: download [options]')
       .options(strings.verboseName, { alias: strings.verboseAlias, describe: strings.verboseDescribe, type: 'boolean', default: false })
       .option(strings.downloadMetaDirName, {
         alias: strings.downloadMetaDirAlias,
