@@ -1,6 +1,6 @@
 <script lang="ts">
   import { base } from '$app/paths';  
-  import StarIcon from '$lib/ui.icons/StarIcon.svelte';
+  import BookmarkIcon from '$lib/ui.icons/BookmarkIcon.svelte';
   import type{ BookmarkedMovieEventDetail } from '$lib/ui.types/BookmarkedMovieEventDetail';
   import { createEventDispatcher } from 'svelte';
   export let title: string;
@@ -30,7 +30,7 @@
       <!-- svelte-ignore a11y_click_events_have_key_events -->
       <!-- svelte-ignore a11y_no_static_element_interactions -->
       <div class="absolute top-2 right-2 opacity-0 group-hover:opacity-100 transition-opacity duration-300" on:click|preventDefault={(event) => onPinClick(id)}>
-        <StarIcon class="size-10 text-black fill-yellow-500" />
+        <BookmarkIcon class="size-10 text-black fill-yellow-500" />
       </div>
     </a>
   {/each}
