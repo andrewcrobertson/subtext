@@ -31,10 +31,11 @@ export interface SubdlSearchResponseData {
   releaseDate: string | null;
   releaseYear: number | null;
   subtitles: {
-    lines: string[];
     author: string | null;
-    zipFileName: string | null;
-    srtFileName: string | null;
+    zipFileName: string;
+    subtitleFileName: string;
+    sha: string | null;
+    subtitleFileText: string;
   }[];
 }
 
@@ -55,8 +56,8 @@ export type SubdlSearchResponse = SubdlSearchResponseOk | SubdlSearchResponseFai
 export interface ToMovieResponseSubtitle {
   author: string | null;
   zipFileName: string | null;
-  srtFileName: string | null;
-  lines: string[];
+  subtitleFileName: string | null;
+  shaFileName: string | null;
 }
 
 export interface ToMovieResponse {
@@ -71,4 +72,5 @@ export interface ToMovieResponse {
   runTime: number | null;
   plot: string | null;
   subtitles: ToMovieResponseSubtitle[];
+  files: Record<string, string>;
 }

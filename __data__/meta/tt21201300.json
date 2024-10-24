@@ -1,0 +1,26 @@
+{
+  "imdbId": "tt21201300",
+  "title": "Bagman",
+  "releaseDate": "2024-09-27T00:00:00.000Z",
+  "releaseYear": 2024,
+  "posterFileName": "tt21201300.jpg",
+  "rated": "PG-13",
+  "genres": ["Horror"],
+  "actors": ["Sam Claflin", "Steven Cree", "Antonia Thomas"],
+  "runTime": 93,
+  "plot": "When a sinister threat from his childhood returns to haunt him, a father desperately struggles against his deepest inner fear. Only this time, the fight isn't for himself; it's for his family.",
+  "subtitles": [
+    {
+      "author": "VikramJS",
+      "zipFileName": "3412441-8335888.zip",
+      "subtitleFileName": "Bagman.2024.1080p.AMZN.WEB-DL.DDP5.1.H.264 (SDH).srt",
+      "shaFileName": "c3b958a3b6bf62b924bd420d4b10685353445c4fa85e086584ee17c0eedfec98.srt"
+    },
+    {
+      "author": "VikramJS",
+      "zipFileName": "3412440-8335887.zip",
+      "subtitleFileName": "Bagman.2024.1080p.AMZN.WEB-DL.DDP5.1.H.264.srt",
+      "shaFileName": "80ac3a082ccc21692a3b68abef34af22d9f0ed5d152e82a139a19908f84d1cf9.srt"
+    }
+  ]
+}

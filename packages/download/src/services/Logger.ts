@@ -1,4 +1,5 @@
 import { blue, cyan, green, magenta, red, yellow } from 'colorette';
+import { join, map } from 'lodash';
 import path from 'path';
 import { ensureForwardSlash } from '../utils/ensureForwardSlash';
 
@@ -51,24 +52,22 @@ export class Logger {
     this.logInfo(`Saved poster file ${this.formatPath(posterFile)}`);
   }
 
-  public infoSavedDataFile(dataFile: string) {
-    this.logInfo(`Saved data file ${this.formatPath(dataFile)}`);
+  public infoSavedMetaFile(metaFile: string) {
+    this.logInfo(`Saved meta file ${this.formatPath(metaFile)}`);
+  }
+
+  public infoSavedSubtitleFile(subtitleFile: string) {
+    this.logInfo(`Saved subtitle file ${this.formatPath(subtitleFile)}`);
   }
 
   public errorMessage(message: string) {
     this.logError(message);
   }
 
-  public errorInvalidDataDirAndPosterDirArgsOutput() {
-    this.logError(`Please include ${green('data-dir')} and ${green('poster-dir')} args`);
-  }
-
-  public errorInvalidDataDirArgsOutput() {
-    this.logError(`Please include a ${green('data-dir')} arg`);
-  }
-
-  public errorInvalidPosterDirArgsOutput() {
-    this.logError(`Please include a ${green('poster-dir')} arg`);
+  public errorInvalidmetaDirAndPosterDirArgsOutput(missingArgs: string[]) {
+    const argMissingP11n = missingArgs.length === 1 ? 'arg is missing' : 'args are missing';
+    const args = map(missingArgs, (a) => green(a));
+    this.logError(`The following required ${argMissingP11n}: ${join(args, ', ')}`);
   }
 
   public infoFinished() {

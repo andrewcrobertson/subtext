@@ -1,10 +1,10 @@
+import { createHash } from 'crypto';
 import fs from 'fs';
-import { concat, filter, flattenDeep, get, isError, join, map } from 'lodash';
+import { concat, filter, flattenDeep, get, isError, join, map, toPairs } from 'lodash';
 import path from 'path';
 import { pipeline } from 'stream';
 import { promisify } from 'util';
-import { OmdbSearchResponse, SubdlSearchResponse, ToMovieResponse } from '../../types/Downloader';
-import { parseSrt } from '../utils/parseSrt';
+import { OmdbSearchResponse, SubdlSearchResponse, ToMovieResponse, ToMovieResponseSubtitle } from '../../types/Downloader';
 import { GithubApi } from './GithubApi';
 import type { Logger } from './Logger';
 import type { OmdbApi } from './OmdbApi';
@@ -18,8 +18,10 @@ export class Downloader {
     private readonly logger: Logger
   ) {}
 
-  public async run(dataDir: string, posterDir: string) {
-    fs.mkdirSync(dataDir, { recursive: true });
+  public async run(metaDir: string, subtitleDir: string, posterDir: string) {
+    console.log({ metaDir, subtitleDir, posterDir });
+    fs.mkdirSync(metaDir, { recursive: true });
+    fs.mkdirSync(subtitleDir, { recursive: true });
     fs.mkdirSync(posterDir, { recursive: true });
 
     this.logger.infoStarting();
@@ -28,13 +30,13 @@ export class Downloader {
     this.logger.infoOpenGitHubIssuesFound(openIssues.length);
     for (let i = 0; i < openIssues.length; i++) {
       const issue = openIssues[i];
-      await this.process(dataDir, posterDir, issue.gitHubIssueNumber, issue.imdbId);
+      await this.process(metaDir, subtitleDir, posterDir, issue.gitHubIssueNumber, issue.imdbId);
     }
 
     this.logger.infoBlank();
   }
 
-  private async process(dataDir: string, posterDir: string, gitHubIssueNumber: number, imdbId: string) {
+  private async process(metaDir: string, subtitleDir: string, posterDir: string, gitHubIssueNumber: number, imdbId: string) {
     const gitHubComments: string[] = [];
 
     const [omdbSearchRes, subdlSearchRes] = await Promise.all([this.omdbSearch(imdbId), this.subdlSearch(imdbId)]);
@@ -43,6 +45,7 @@ export class Downloader {
     const errorText = map(errors, (error) => (isError(error) ? error.message : (<any>error).toString()));
     const title = omdbSearchRes.data?.title ?? subdlSearchRes.data?.title ?? 'Unknown Title';
 
+    this.logger.infoBlank();
     this.logger.infoTitle(title);
     this.logger.infoProcessing(gitHubIssueNumber, imdbId);
     gitHubComments.push(`**${title}**`);
@@ -83,10 +86,21 @@ export class Downloader {
       this.logger.infoSavedPosterFile(posterFile);
     }
 
-    const dataFile = path.resolve(dataDir, `${imdbId}.json`);
-    const movie = this.toMovie(imdbId, omdbSearchRes, subdlSearchRes);
-    fs.writeFileSync(dataFile, JSON.stringify(movie, null, 2));
-    this.logger.infoSavedDataFile(dataFile);
+    const { files, ...meta } = this.toMovie(imdbId, omdbSearchRes, subdlSearchRes);
+
+    const metaFile = path.resolve(metaDir, `${imdbId}.json`);
+    fs.writeFileSync(metaFile, JSON.stringify(meta, null, 2));
+    this.logger.infoSavedMetaFile(metaFile);
+
+    const filePairs = toPairs(files);
+    for (let i = 0; i < filePairs.length; i++) {
+      const [subtitleFileName, subtitleText] = filePairs[i];
+      const subtitleFile = path.resolve(subtitleDir, subtitleFileName);
+      fs.writeFileSync(subtitleFile, subtitleText);
+      this.logger.infoSavedSubtitleFile(subtitleFile);
+    }
+
+    this.logger.infoBlank();
 
     await this.gitHubApi.addComment(gitHubIssueNumber, join(gitHubComments, '\n'));
     await this.gitHubApi.close(gitHubIssueNumber);
@@ -95,6 +109,17 @@ export class Downloader {
   private toMovie(imdbId: string, omdbSearchRes: OmdbSearchResponse, subdlSearchRes: SubdlSearchResponse): ToMovieResponse {
     const posterUrl = omdbSearchRes.data?.posterUrl ?? null;
     const posterFileName = posterUrl === null ? null : `${imdbId}${path.parse(path.basename(posterUrl)).ext}`;
+
+    const subtitlesRaw = subdlSearchRes.data?.subtitles ?? [];
+    const subtitles: ToMovieResponseSubtitle[] = [];
+    const files: Record<string, string> = {};
+    for (let i = 0; i < subtitlesRaw.length; i++) {
+      const { sha, subtitleFileText, ...subtitleRaw } = subtitlesRaw[i];
+      const ext = path.parse(path.basename(subtitleRaw.subtitleFileName)).ext;
+      const shaFileName = `${sha}${ext}`;
+      files[shaFileName] = subtitleFileText;
+      subtitles.push({ ...subtitleRaw, shaFileName });
+    }
 
     return {
       imdbId,
@@ -107,12 +132,8 @@ export class Downloader {
       actors: omdbSearchRes.data?.actors ?? [],
       runTime: omdbSearchRes.data?.runTimeMins ?? null,
       plot: omdbSearchRes.data?.plot ?? null,
-      subtitles: map(subdlSearchRes.data?.subtitles, (s) => ({
-        author: s.author,
-        zipFileName: s.zipFileName,
-        srtFileName: s.srtFileName,
-        lines: s.lines,
-      })),
+      subtitles,
+      files,
     };
   }
 
@@ -132,8 +153,8 @@ export class Downloader {
       const { subtitles: subtitlesAll, ...dataRaw } = await this.subdlApi.search(imdbId);
       const errorsRaw = map(subtitlesAll, (s) => s.errors);
       const errors = flattenDeep(errorsRaw);
-      const subtitlesRaw = filter(subtitlesAll, (s) => s.data !== null);
-      const subtitles = map(subtitlesRaw, (s) => ({ ...s.data, lines: parseSrt(s.data.srtFileText) }));
+      const subtitlesRaw = filter(subtitlesAll, (s) => s.success);
+      const subtitles = map(subtitlesRaw, (s) => ({ ...s.data, sha: this.generateHashFromText(s.data.subtitleFileText) }));
       const data = { ...dataRaw, subtitles };
       return { success: true, data, errors };
     } catch (cause) {
@@ -141,5 +162,11 @@ export class Downloader {
       const message = 'Subdl Error: api fetch unexpected error ' + (causeMessage === null ? '' : `: '${causeMessage}'`);
       return { success: false, data: null, errors: [new Error(message, { cause })] };
     }
+  }
+
+  private generateHashFromText(fileContent: string, algorithm: 'sha256' | 'sha1' | 'sha512' = 'sha256'): string {
+    const hash = createHash(algorithm);
+    hash.update(fileContent);
+    return hash.digest('hex');
   }
 }

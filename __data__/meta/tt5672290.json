@@ -1,0 +1,68 @@
+{
+  "imdbId": "tt5672290",
+  "title": "The First Omen",
+  "releaseDate": "2024-04-05T00:00:00.000Z",
+  "releaseYear": 2024,
+  "posterFileName": "tt5672290.jpg",
+  "rated": "R",
+  "genres": ["Horror"],
+  "actors": ["Nell Tiger Free", "Ralph Ineson", "Sonia Braga"],
+  "runTime": 119,
+  "plot": "A young American woman is sent to Rome to begin a life of service to the church, but encounters a darkness that causes her to question her faith and uncovers a terrifying conspiracy that hopes to bring about the birth of evil inca...",
+  "subtitles": [
+    {
+      "author": "Moudy0007",
+      "zipFileName": "3318347-8307293.zip",
+      "subtitleFileName": "English.srt",
+      "shaFileName": "7f57240f9c833f717e562fb1174c8852de13c2a61993a98c12c1fb23cbf3b112.srt"
+    },
+    {
+      "author": "Moudy0007",
+      "zipFileName": "3318347-8307293.zip",
+      "subtitleFileName": "SDH.eng.HI.srt",
+      "shaFileName": "9452a39fd573bb457d9191282ad554e7d9f5cae4e25d947300ea2ed4c0f9a605.srt"
+    },
+    {
+      "author": "VikramJS",
+      "zipFileName": "3316348-10005159.zip",
+      "subtitleFileName": "The.First.Omen.2024.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264 (SDH).srt",
+      "shaFileName": "ef03567f46a8d5db881cec65d262310c327d69e0dd8c35795d795005a2f0ee20.srt"
+    },
+    {
+      "author": "VikramJS",
+      "zipFileName": "3316347-10005158.zip",
+      "subtitleFileName": "The.First.Omen.2024.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264.srt",
+      "shaFileName": "6d04e42e1b6332d09e37352ac755dae24bf735a4e9312e6c35ea74b342a7ec8d.srt"
+    },
+    {
+      "author": "tbs2002",
+      "zipFileName": "3310239-3333357.zip",
+      "subtitleFileName": "English.HI.www.RapidMovieZ.com.srt",
+      "shaFileName": "e58356ed95ccec0959d39e965734572ef7cd9e4a67a3509f3100316c06f58867.srt"
+    },
+    {
+      "author": "tbs2002",
+      "zipFileName": "3310239-3333357.zip",
+      "subtitleFileName": "English.www.RapidMovieZ.com.srt",
+      "shaFileName": "777265c98acc3a7eb5bf6eef47c68723579375a80273b398233cb5172f395f9a.srt"
+    },
+    {
+      "author": "tbs2002",
+      "zipFileName": "3310239-3333357.zip",
+      "subtitleFileName": "The.First.Omen.2024.1080p.WEBRip.x264.AAC5.1-YTS.MX_.www.RapidMovieZ.com.srt",
+      "shaFileName": "e58356ed95ccec0959d39e965734572ef7cd9e4a67a3509f3100316c06f58867.srt"
+    },
+    {
+      "author": "makoto77",
+      "zipFileName": "3298616-3321174.zip",
+      "subtitleFileName": "The First Omen.ass",
+      "shaFileName": "1398ea3397213250059465e9be0827615172ad3d149ffbf40214e2490c92379b.ass"
+    },
+    {
+      "author": "makoto77",
+      "zipFileName": "3298087-3320612.zip",
+      "subtitleFileName": "The First Omen.srt",
+      "shaFileName": "949a85307d0e4ac00109bfcaba87c434424df04db6c80aaabb515792cbb52be5.srt"
+    }
+  ]
+}

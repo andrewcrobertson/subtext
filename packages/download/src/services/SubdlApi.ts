@@ -25,8 +25,8 @@ export class SubdlApi {
         const extractZipRes = await this.extractZip(fetchZipRes);
         const srtFilePairs = toPairs(extractZipRes);
         for (let i = 0; i < srtFilePairs.length; i++) {
-          const [srtFileName, srtFileText] = srtFilePairs[i];
-          output.subtitles.push({ success: true, data: { author, zipFileName: zipFile, srtFileName, srtFileText }, errors: [] });
+          const [subtitleFileName, subtitleFileText] = srtFilePairs[i];
+          output.subtitles.push({ success: true, data: { author, zipFileName: zipFile, subtitleFileName, subtitleFileText }, errors: [] });
         }
       } catch (err) {
         output.subtitles.push({ success: false, data: null, errors: [<any>err] });
@@ -81,9 +81,7 @@ export class SubdlApi {
       const entries = zip.getEntries();
       for (let i = 0; i < entries.length; i++) {
         const entry = entries[i];
-        if (!entry.isDirectory && path.extname(entry.entryName) === '.srt') {
-          data[entry.entryName] = entry.getData().toString();
-        }
+        data[entry.entryName] = entry.getData().toString();
       }
 
       return data;

@@ -1,0 +1,74 @@
+{
+  "imdbId": "tt12349832",
+  "title": "Cuckoo",
+  "releaseDate": "2024-08-09T00:00:00.000Z",
+  "releaseYear": 2024,
+  "posterFileName": "tt12349832.jpg",
+  "rated": "R",
+  "genres": ["Horror,", "Mystery,", "Thriller"],
+  "actors": ["Hunter Schafer", "Jan Bluthardt", "Marton Csokas"],
+  "runTime": 102,
+  "plot": "A 17-year-old girl is forced to move with her family to a resort where things are not what they seem.",
+  "subtitles": [
+    {
+      "author": "ReMaster",
+      "zipFileName": "3415104-8338573.zip",
+      "subtitleFileName": "Cuckoo.2024.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX.sub",
+      "shaFileName": "4504a15017afc833ff42b9708326506311d2875f7afc512c9bd14637eb747d0d.sub"
+    },
+    {
+      "author": "NOLLIE DRGB",
+      "zipFileName": "3411204-8334640.zip",
+      "subtitleFileName": "Cuckoo.2024.2160p.AMZN.WEB-DL.DDP5.1.HDR.H.265-FLUX.srt",
+      "shaFileName": "0a36a4395aa71f0ba98a5c6b21445b5ad01108880aac0c8d10cd3afe7c7d1642.srt"
+    },
+    {
+      "author": "ALL SUB",
+      "zipFileName": "3409339-8332746.zip",
+      "subtitleFileName": "Cuckoo.2024.REPACK.1080p.WEBRip.x264.AAC5.1-[YTS.MX].srt",
+      "shaFileName": "4b82883843991f9e3a1f4db9559a064e290ea36096945753a352b8efcab8d721.srt"
+    },
+    {
+      "author": "ALL SUB",
+      "zipFileName": "3409339-8332746.zip",
+      "subtitleFileName": "Cuckoo.2024.REPACK.720p.WEBRip.x264.AAC-[YTS.MX].srt",
+      "shaFileName": "4b82883843991f9e3a1f4db9559a064e290ea36096945753a352b8efcab8d721.srt"
+    },
+    {
+      "author": "Heimdall77",
+      "zipFileName": "3407637-8331024.zip",
+      "subtitleFileName": "Cuckoo.2024.2160p.AMZN.WEB-DL.DDP5.1.HDR.H.265-FLUX.en.srt",
+      "shaFileName": "2b922e4e737747ebbe2e1e13e19f1ff14cc32af94c189adb1b2647be8026427e.srt"
+    },
+    {
+      "author": "none",
+      "zipFileName": "3407487-8330865.zip",
+      "subtitleFileName": "Cuckoo.2024.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX.en.srt",
+      "shaFileName": "1f0b6762e87f04f92ca7263a34f506033c7da25dd0a912ec57860d7cd6f23427.srt"
+    },
+    {
+      "author": "bubbazanetti",
+      "zipFileName": "3407482-8330860.zip",
+      "subtitleFileName": "Cuckoo.2024.1080p.WEB-DL.DDP5.1.H.264-FLUX.srt",
+      "shaFileName": "c21ecc22e74a1e29f54385fbd4096187dda6dac678fd94af445f0b79aea8c3cb.srt"
+    },
+    {
+      "author": "bubbazanetti",
+      "zipFileName": "3405925-8329285.zip",
+      "subtitleFileName": "Cuckoo.2024.1080p.WEB-DL.x264-EniaHD.srt",
+      "shaFileName": "573bd80d8f8627c04731798447c2cd756905d4efe610a578c5c038efb85ad3fb.srt"
+    },
+    {
+      "author": "VikramJS",
+      "zipFileName": "3405725-8329082.zip",
+      "subtitleFileName": "Cuckoo.2024.1080p.AMZN.WEB-DL.DDP5.1.H.264 (SDH).srt",
+      "shaFileName": "65320f5111dd9ad4561c70774ce0c3d08cd62560029af7467db9188a57000ef7.srt"
+    },
+    {
+      "author": "VikramJS",
+      "zipFileName": "3405724-8329081.zip",
+      "subtitleFileName": "Cuckoo.2024.1080p.AMZN.WEB-DL.DDP5.1.H.264.srt",
+      "shaFileName": "7a270261900401b0ceec42f1223aaf0643625ab90ef930e584dcc331a9a3c191.srt"
+    }
+  ]
+}

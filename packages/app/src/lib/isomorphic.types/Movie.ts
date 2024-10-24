@@ -1,7 +1,7 @@
 export interface MovieSubtitle {
   author: string | null;
   zipFileName: string | null;
-  srtFileName: string | null;
+  subtitleFileName: string | null;
   lines: string[];
 }
 

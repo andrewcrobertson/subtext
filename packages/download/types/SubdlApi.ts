@@ -42,8 +42,8 @@ export interface SearchResponse {
 export interface SearchResponseSubtitleFileData {
   author: string | null;
   zipFileName: string | null;
-  srtFileName: string | null;
-  srtFileText: string;
+  subtitleFileName: string | null;
+  subtitleFileText: string;
 }
 
 export interface SearchResponseSubtitleFileOk {

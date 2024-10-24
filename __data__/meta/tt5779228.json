@@ -1,0 +1,50 @@
+{
+  "imdbId": "tt5779228",
+  "title": "The Garfield Movie",
+  "releaseDate": "2024-05-24T00:00:00.000Z",
+  "releaseYear": 2024,
+  "posterFileName": "tt5779228.jpg",
+  "rated": "PG",
+  "genres": ["Animation,", "Adventure,", "Comedy"],
+  "actors": ["Chris Pratt", "Samuel L. Jackson", "Hannah Waddingham"],
+  "runTime": 101,
+  "plot": "After Garfield's unexpected reunion with his long-lost father, ragged alley cat Vic, he and his canine friend Odie are forced from their perfectly pampered lives to join Vic on a risky heist.",
+  "subtitles": [
+    {
+      "author": "tedi",
+      "zipFileName": "3395467-8318662.zip",
+      "subtitleFileName": "The.Garfield.Movie.2024.BluRay.x264.AAC5.1-[YTS.MX].en[sdh].srt",
+      "shaFileName": "1d0b9c6a93247e3093bb263c7ea74d382e568d669bf91f607298458ea74d82e6.srt"
+    },
+    {
+      "author": "Arad119",
+      "zipFileName": "3391903-8315023.zip",
+      "subtitleFileName": "The Garfield Movie (2024) [1080p] [WEBRip] [5.1] [YTS.MX].srt",
+      "shaFileName": "3c7d0e3d894f7ffa125a3612646de127585389ae27fd617f5c5bd373c087b385.srt"
+    },
+    {
+      "author": "BarryTheBee",
+      "zipFileName": "3391196-8314298.zip",
+      "subtitleFileName": "The.Garfield.Movie.2024.1080p.AMZN.WEB-DL.DDP5.1.H.264-BEEM0V1E.srt",
+      "shaFileName": "10846884d4547eeb4809223f6c097ea8cec314ba450c334bdef56e2ec02e9aeb.srt"
+    },
+    {
+      "author": "VikramJS",
+      "zipFileName": "3390756-8313845.zip",
+      "subtitleFileName": "The.Garfield.Movie.2024.1080p.AMZN.WEB-DL.DDP5.1.H.264 (SDH).srt",
+      "shaFileName": "ea6c42bfa4dcd81066bbce1dd6f31fd6c88ad2577b54a5c338199f18b98f7a4d.srt"
+    },
+    {
+      "author": "VikramJS",
+      "zipFileName": "3390755-8313844.zip",
+      "subtitleFileName": "The.Garfield.Movie.2024.1080p.AMZN.WEB-DL.DDP5.1.H.264.srt",
+      "shaFileName": "3c7d0e3d894f7ffa125a3612646de127585389ae27fd617f5c5bd373c087b385.srt"
+    },
+    {
+      "author": "YJB",
+      "zipFileName": "3321344-8310375.zip",
+      "subtitleFileName": "The.Garfield.Movie.2024.AC3.2160p.TELESYNC.HDR.x265-COLLECTiVE_auto.srt",
+      "shaFileName": "3b79a8135085b45a7243d9002eaad652761d5da0fd807ef9f1664477ade6c8d9.srt"
+    }
+  ]
+}

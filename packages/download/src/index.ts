@@ -8,8 +8,24 @@ Promise.resolve()
     yargs(hideBin(process.argv))
       .usage('Usage: process [options]')
       .options(strings.verboseName, { alias: strings.verboseAlias, describe: strings.verboseDescribe, type: 'boolean', default: false })
-      .option(strings.downloadDataDirName, { alias: strings.downloadDataDirAlias, describe: strings.downloadDataDirDescribe, type: 'string' })
-      .option(strings.downloadPosterDirName, { alias: strings.downloadPosterDirAlias, describe: strings.downloadPosterDirDescribe, type: 'string' })
+      .option(strings.downloadMetaDirName, {
+        alias: strings.downloadMetaDirAlias,
+        describe: strings.downloadMetaDirDescribe,
+        type: 'string',
+        demandOption: true,
+      })
+      .option(strings.downloadSubtitleDirName, {
+        alias: strings.downloadSubtitleDirAlias,
+        describe: strings.downloadSubtitleDirDescribe,
+        type: 'string',
+        demandOption: true,
+      })
+      .option(strings.downloadPosterDirName, {
+        alias: strings.downloadPosterDirAlias,
+        describe: strings.downloadPosterDirDescribe,
+        type: 'string',
+        demandOption: true,
+      })
       .parse()
   )
-  .then((argv) => handler(argv.verbose).run(argv.dataDir, argv.posterDir));
+  .then((argv) => handler(argv.verbose).run(argv.metaDir, argv.subtitleDir, argv.posterDir));
