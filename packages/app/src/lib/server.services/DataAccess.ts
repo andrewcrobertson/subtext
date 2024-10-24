@@ -12,8 +12,8 @@ export class DataAccess {
   public getIndex() {
     const sixMonthsAgo = getThreeMonthsAgo().toISOString();
     const movies = this.getMovies();
-    const recentMovies: { id: string; title: string; posterFileName: string }[] = [];
-    const olderMovies: { id: string; title: string; posterFileName: string }[] = [];
+    const recentMovies: { id: string; title: string; posterFileName: string; hasSubtitles: boolean }[] = [];
+    const olderMovies: { id: string; title: string; posterFileName: string; hasSubtitles: boolean }[] = [];
 
     for (let i = 0; i < movies.length; i++) {
       const movie = movies[i];
