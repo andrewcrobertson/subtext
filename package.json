@@ -13,7 +13,9 @@
     "dev:app": "pnpm  --filter \"app\" dev",
     "format": "prettier --write \"**/*.{ts,tsx,md,json}\"",
     "prepare": "husky",
-    "script:download": "pnpm --filter \"download\" dev:local --meta-dir ../../__data__/meta --subtitle-dir ../../__data__/subtitles --poster-dir ../../__data__/posters",
+    "script:download": "run-s script:download:*",
+    "script:download:01": "pnpm --filter \"download\" dev:local --meta-dir ../../__data__/meta --subtitle-dir ../../__data__/subtitles --poster-dir ../../__data__/posters",
+    "script:download:02": "shx cp ./__data__/posters ./packages/app/static/posters",
     "test": "pnpm run -r --workspace-concurrency 1 test"
   },
   "devDependencies": {
