@@ -8,17 +8,17 @@
     registration.addEventListener('updatefound', () => {
       const newSW = registration.installing;
       newSW?.addEventListener('statechange', () => {
-        if(newSW.state === 'installed') {
-          if(confirm('Update available. Install?')) {
-            newSW.postMessage({ type: 'SKIP_WAITING' })
-            window.location.reload()
+        if (newSW.state === 'installed') {
+          if (confirm('Update available. Install?')) {
+            newSW.postMessage({ type: 'SKIP_WAITING' });
+            window.location.reload();
           }
         }
-      })
-    })
-  }
+      });
+    });
+  };
 
-  onMount(() => detectSWUpdate())
+  onMount(() => detectSWUpdate());
 </script>
 
 <slot />

@@ -1,13 +1,13 @@
 <script lang="ts">
-  import { base } from '$app/paths';  
+  import { base } from '$app/paths';
   import Header from '$lib/ui.components/Header';
   import { MyListManager } from '$lib/ui.services/MyListManager';
   import { formatRunTime, formatTextArray, formatIsoDate, formatText } from '$lib/ui.utils/format';
-    import { onMount } from 'svelte';
+  import { onMount } from 'svelte';
   import type { PageData } from './$types';
   import { includes } from 'lodash-es';
   import { fade } from 'svelte/transition';
-  
+
   export let data: PageData;
 
   let myListMovies: any[] = [];
@@ -16,13 +16,13 @@
   onMount(async () => {
     let tempAllMovies: any[] = [];
 
-    for(let i = 0; i < data.movies.length; i++) {
+    for (let i = 0; i < data.movies.length; i++) {
       const movie = data.movies[i];
-      tempAllMovies.push(movie)
+      tempAllMovies.push(movie);
     }
 
-    myListMovies = tempAllMovies
-    loaded = true
+    myListMovies = tempAllMovies;
+    loaded = true;
   });
 </script>
 

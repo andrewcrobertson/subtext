@@ -1,31 +1,31 @@
 <script lang="ts">
-  import { base } from '$app/paths';  
+  import { base } from '$app/paths';
   import Header from '$lib/ui.components/Header';
   import { MyListManager } from '$lib/ui.services/MyListManager';
   import { formatRunTime, formatTextArray, formatIsoDate, formatText } from '$lib/ui.utils/format';
-    import { onMount } from 'svelte';
+  import { onMount } from 'svelte';
   import type { PageData } from './$types';
   import { includes } from 'lodash-es';
   import { fade } from 'svelte/transition';
-  
+
   export let data: PageData;
 
   let myListMovies: any[] = [];
   let loaded = false;
 
-  const myListManager = new MyListManager()
+  const myListManager = new MyListManager();
 
   onMount(async () => {
     let tempMyListMovies: any[] = [];
-    const myListMovieIds = myListManager.get()
+    const myListMovieIds = myListManager.get();
 
-    for(let i = 0; i < data.movies.length; i++) {
+    for (let i = 0; i < data.movies.length; i++) {
       const movie = data.movies[i];
-      if(includes(myListMovieIds, movie.id)) tempMyListMovies.push(movie)
+      if (includes(myListMovieIds, movie.id)) tempMyListMovies.push(movie);
     }
 
-    myListMovies = tempMyListMovies
-    loaded = true
+    myListMovies = tempMyListMovies;
+    loaded = true;
   });
 </script>
 

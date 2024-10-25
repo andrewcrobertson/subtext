@@ -1,12 +1,12 @@
 <script lang="ts">
   import { goto } from '$app/navigation';
-  import { base } from '$app/paths';  
+  import { base } from '$app/paths';
   import { SubtitleStream } from '$lib/isomorphic.services/SubtitleStream';
   import { FontSizeEnum } from '$lib/isomorphic.types/FontSizeEnum';
   import { SubtitleStreamStateEnum } from '$lib/isomorphic.types/SubtitleStreamStateEnum';
   import { formatMsAsTime } from '$lib/isomorphic.utils/formatMsAsTime';
-  import { convertSubtitles } from '$lib/isomorphic.utils/convertSubtitles';  
-  import { parseSrt } from '$lib/isomorphic.utils/parseSrt';    
+  import { convertSubtitles } from '$lib/isomorphic.utils/convertSubtitles';
+  import { parseSrt } from '$lib/isomorphic.utils/parseSrt';
   import BottomBar from '$lib/ui.components/BottomBar';
   import Overlay from '$lib/ui.components/Overlay';
   import TopBar from '$lib/ui.components/TopBar';
@@ -68,7 +68,7 @@
     controlsTimeout = setTimeout(() => (controlsVisible = false), inactivityDelay);
   };
 
-  const scheduleShowOverlay = () => overlayTimeout = setTimeout(() => (overlayVisible = true), overlayDelay);
+  const scheduleShowOverlay = () => (overlayTimeout = setTimeout(() => (overlayVisible = true), overlayDelay));
 
   const hideOverlay = () => {
     clearTimeout(overlayTimeout);

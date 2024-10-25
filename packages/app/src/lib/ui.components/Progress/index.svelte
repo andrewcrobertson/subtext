@@ -11,15 +11,15 @@
   const dispatch = createEventDispatcher();
 
   const handleMouseDown = (event: MouseEvent) => setProgress(event.clientX);
-  const handleMove = (event: MouseEvent) => (event.buttons === 1) && setProgress(event.clientX);
+  const handleMove = (event: MouseEvent) => event.buttons === 1 && setProgress(event.clientX);
   const handleTouchMove = (event: TouchEvent) => setProgress(event.touches[0].clientX);
 
   const setProgress = (mouseOrTouchX: number) => {
-    if(slider === undefined) return;
+    if (slider === undefined) return;
     const sliderRect = slider.getBoundingClientRect();
     const offsetX = mouseOrTouchX - sliderRect.left;
     const progress = Math.min(100, Math.max(0, (offsetX / sliderRect.width) * 100));
-    const eventDetail: ProgressEventDetail = { progress }
+    const eventDetail: ProgressEventDetail = { progress };
     dispatch('progressclick', eventDetail);
   };
 </script>

@@ -7,6 +7,10 @@ settings:
 importers:
 
   .:
+    dependencies:
+      prettier-plugin-svelte:
+        specifier: ^3.2.7
+        version: 3.2.7(prettier@3.3.3)(svelte@5.1.1)
     devDependencies:
       '@tsconfig/recommended':
         specifier: ^1.0.7
@@ -2453,6 +2457,12 @@ packages:
     resolution: {integrity: sha512-UnNke3IQb6sgarcZIDU3gbMeTp/9SSU1DAIkil7PrqG1vZlBtY5msYccSKSHDqa3hNg436IXK+SNImReuA1wEQ==}
     engines: {node: '>=10'}
     hasBin: true
+
+  prettier-plugin-svelte@3.2.7:
+    resolution: {integrity: sha512-/Dswx/ea0lV34If1eDcG3nulQ63YNr5KPDfMsjbdtpSWOxKKJ7nAc2qlVuYwEvCr4raIuredNoR7K4JCkmTGaQ==}
+    peerDependencies:
+      prettier: ^3.0.0
+      svelte: ^3.2.0 || ^4.0.0-next.0 || ^5.0.0-next.0
 
   prettier@3.3.3:
     resolution: {integrity: sha512-i2tDNA0O5IrMO757lfrdQZCc2jPNDVntV0m/+4whiDfWaTKfMNgR7Qz0NAeGz/nRqF4m5/6CLzbP4/liHt12Ew==}
@@ -5575,6 +5585,11 @@ snapshots:
       simple-get: 4.0.1
       tar-fs: 2.1.1
       tunnel-agent: 0.6.0
+
+  prettier-plugin-svelte@3.2.7(prettier@3.3.3)(svelte@5.1.1):
+    dependencies:
+      prettier: 3.3.3
+      svelte: 5.1.1
 
   prettier@3.3.3: {}
 
