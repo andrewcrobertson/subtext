@@ -57,7 +57,7 @@
   {#if recentMovies.length > 0}
       <div class="flex justify-between items-center py-4 px-2 md:px-4">
         <h2 class="text-white text-xl md:text-2xl lg:text-3xl font-semibold">Recent</h2>
-        <a href={`${base}/recent`} class="flex items-center text-white text-xl md:text-2xl lg:text-3xl font-semibold">
+        <a href={`${base}/search`} class="flex items-center text-white text-xl md:text-2xl lg:text-3xl font-semibold">
           View All
           <ChevronRightIcon class="font-semibold" />
         </a>

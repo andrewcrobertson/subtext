@@ -1,56 +1,56 @@
 <script lang="ts">
   import { base } from '$app/paths';  
   import Header from '$lib/ui.components/Header';
+  import { MyListManager } from '$lib/ui.services/MyListManager';
+  import { formatRunTime, formatTextArray, formatIsoDate, formatText } from '$lib/ui.utils/format';
+    import { onMount } from 'svelte';
   import type { PageData } from './$types';
+  import { includes } from 'lodash-es';
+  import { fade } from 'svelte/transition';
+  
   export let data: PageData;
 
-  let expandedId: string | null = null;
+  let myListMovies: any[] = [];
+  let loaded = false;
 
-  function toggleExpand(id: string) {
-    expandedId = expandedId === id ? null : id;
-  }
+  onMount(async () => {
+    let tempAllMovies: any[] = [];
 
-  function handleTouchStart(event: TouchEvent, id: string) {
-    event.preventDefault();
-    toggleExpand(id);
-  }
+    for(let i = 0; i < data.movies.length; i++) {
+      const movie = data.movies[i];
+      tempAllMovies.push(movie)
+    }
+
+    myListMovies = tempAllMovies
+    loaded = true
+  });
 </script>
 
 <div class="relative">
   <Header class="fixed top-0 left-0 right-0" />
   <div class="mt-16"></div>
-  {#if data.movies.length > 0}
-    <div class="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 lg:grid-cols-6 xl:grid-cols-7 gap-2 pr-2 overflow-y-auto scrollbar-hide -my-10 py-10">
-      {#each data.movies as { id, title, posterFileName, hasSubtitles }}
-        <!-- svelte-ignore a11y_click_events_have_key_events -->
-        <!-- svelte-ignore a11y_no_static_element_interactions -->
-        <div 
-          on:touchstart={(e) => handleTouchStart(e, id)}
-          on:click|stopPropagation={() => toggleExpand(id)}
-          class={`relative group cursor-pointer transition-transform duration-300 ease-in-out shadow-lg ${
-            expandedId === id ? 'scale-[1.15] z-30' : 'z-0'
-          }`}
-        >
-          <img src={`${base}/posters/${posterFileName}`} alt={title} class="w-full h-full object-cover transition-transform duration-300 ease-in-out" />
-          {#if !hasSubtitles}
-            <div class="absolute bottom-0 left-0 right-0 bg-red-500 bg-opacity-70 text-white text-center py-1 text-sm">
-              No subtitles
+  {#if loaded}
+    <div transition:fade={{ duration: 500 }}>
+      {#if myListMovies.length > 0}
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 pr-2 overflow-y-auto">
+          {#each myListMovies as { id, title, releaseDate, posterFileName, rated, genres, actors, runTime, plot }}
+            <div class="flex items-start overflow-hidden">
+              <a href={`${base}/subtitles/${id}`}>
+                <img src={`${base}/posters/${posterFileName}`} alt={title} />
+              </a>
+              <div class="pl-4">
+                <h3 class="text-lg font-semibold text-white">{title}</h3>
+                <!-- <p class="text-sm  text-white">{plot}</p> -->
+                <p class="text-sm text-gray-400">Released: {formatIsoDate(releaseDate, 'Unknown')}</p>
+                <p class="text-sm text-gray-400">Rated: {formatText(rated, 'Unknown')}</p>
+                <p class="text-sm text-gray-400">Genres: {formatTextArray(genres, 'Unknown')}</p>
+                <p class="text-sm text-gray-400">Actors: {formatTextArray(actors, 'Unknown')}</p>
+                <p class="text-sm text-gray-400">Runtime: {formatRunTime(runTime, 'Unknown')}</p>
+              </div>
             </div>
-          {/if}
-          {#if expandedId === id}
-            <div on:click|stopPropagation={() => alert(`Bookmarked movie: ${title}`)} class="absolute top-0 w-full bg-black bg-opacity-60 text-white py-2 flex justify-center items-center transition-opacity duration-300">
-              <button 
-                class="text-lg font-semibold text-white bg-transparent  cursor-pointer z-40"
-                on:click|stopPropagation={() => alert(`Bookmarked movie: ${title}`)}
-              >
-                Bookmark
-              </button>
-            </div>
-          {/if}
+          {/each}
         </div>
-      {/each}
+      {/if}
     </div>
-  {:else}
-    <p class="text-white">Could not find any movies.</p>
   {/if}
 </div>

@@ -38,10 +38,10 @@
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 pr-2 overflow-y-auto">
           {#each myListMovies as { id, title, releaseDate, posterFileName, rated, genres, actors, runTime, plot }}
             <div class="flex items-start overflow-hidden">
-              <a href={`${base}/subtitles/${id}`} class="flex-shrink-0">
-                <img src={`${base}/posters/${posterFileName}`} alt={title} class="w-32 h-auto object-cover" />
+              <a href={`${base}/subtitles/${id}`}>
+                <img src={`${base}/posters/${posterFileName}`} alt={title} />
               </a>
-              <div class="pl-4 flex-1">
+              <div class="pl-4">
                 <h3 class="text-lg font-semibold text-white">{title}</h3>
                 <!-- <p class="text-sm  text-white">{plot}</p> -->
                 <p class="text-sm text-gray-400">Released: {formatIsoDate(releaseDate, 'Unknown')}</p>
