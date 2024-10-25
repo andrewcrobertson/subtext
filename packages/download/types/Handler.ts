@@ -83,7 +83,7 @@ export type SubdlSearchResponse = SubdlSearchResponseOk | SubdlSearchResponseFai
 
 export interface ToMovieResponseSubtitle {
   author: string | null;
-  zipFileName: string;
+  zipFileName: string | null;
   subtitleFileName: string;
   shaFileName: string;
 }

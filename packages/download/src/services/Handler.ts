@@ -1,10 +1,11 @@
 import { createHash } from 'crypto';
 import fs from 'fs';
-import { isError, join, map } from 'lodash';
+import { isError, join, map, toPairs } from 'lodash';
 import path from 'path';
 import { pipeline } from 'stream';
 import { promisify } from 'util';
-import { Downloader } from '../../types/Downloader';
+import { Downloader, DownloadResponseData } from '../../types/Downloader';
+import { ToMovieResponse } from '../../types/Handler';
 import { GithubApi } from './GithubApi';
 import type { Logger } from './Logger';
 
@@ -102,25 +103,51 @@ export class Handler {
       this.logger.infoSavedPosterFile(posterFile);
     }
 
-    const { subtitles, ...meta } = downloadRes.data ?? { subtitles: [] };
+    const { files, ...meta } = this.toMovie(imdbId, downloadRes.data!);
 
     fs.writeFileSync(metaFile, JSON.stringify(meta, null, 2));
     this.logger.infoSavedMetaFile(metaFile);
 
-    for (let i = 0; i < subtitles.length; i++) {
-      const subtitle = subtitles[i];
-      const sha = this.generateHashFromText(subtitle.subtitleFileText);
-      const ext = path.parse(path.basename(subtitle.subtitleFileName)).ext;
-      const shaFileName = `${sha}${ext}`;
-
-      const subtitleFile = path.resolve(subtitleDir, shaFileName);
-      fs.writeFileSync(subtitleFile, subtitle.subtitleFileText);
+    const filePairs = toPairs(files);
+    for (let i = 0; i < filePairs.length; i++) {
+      const [subtitleFileName, subtitleText] = filePairs[i];
+      const subtitleFile = path.resolve(subtitleDir, subtitleFileName);
+      fs.writeFileSync(subtitleFile, subtitleText);
       this.logger.infoSavedSubtitleFile(subtitleFile);
     }
 
     await this.gitHubApi.addComment(gitHubIssueNumber, join(gitHubComments, '\n'));
     await this.gitHubApi.close(gitHubIssueNumber);
     this.logger.infoClosedGitHubIssues();
+  }
+
+  private toMovie(imdbId: string, data: DownloadResponseData): ToMovieResponse {
+    const output: ToMovieResponse = {
+      imdbId,
+      title: data.title,
+      releaseDate: data.releaseDate,
+      releaseYear: data.releaseYear,
+      posterFileName: data.posterUrl === null ? null : `${imdbId}${path.parse(path.basename(data.posterUrl)).ext}`,
+      rated: data.rated,
+      genres: data.genres,
+      actors: data.actors,
+      runTime: data.runTimeMins,
+      plot: data.plot,
+      subtitles: [],
+      files: {},
+    };
+
+    const subtitlesRaw = data.subtitles ?? [];
+    for (let i = 0; i < subtitlesRaw.length; i++) {
+      const { subtitleFileText, ...subtitleRaw } = subtitlesRaw[i];
+      const sha = this.generateHashFromText(subtitleFileText);
+      const ext = path.parse(path.basename(subtitleRaw.subtitleFileName)).ext;
+      const shaFileName = `${sha}${ext}`;
+      output.files[shaFileName] = subtitleFileText;
+      output.subtitles.push({ ...subtitleRaw, shaFileName });
+    }
+
+    return output;
   }
 
   private generateHashFromText(fileContent: string): string {
