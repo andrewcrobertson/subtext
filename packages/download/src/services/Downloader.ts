@@ -28,14 +28,11 @@ export class Downloader {
     const openIssues = await this.gitHubApi.getOpenIssues('add');
 
     this.logger.infoOpenGitHubIssuesFound(openIssues.length);
-    if (openIssues.length === 0) {
+    this.logger.infoBlank();
+    for (let i = 0; i < openIssues.length; i++) {
+      const issue = openIssues[i];
+      await this.process(metaDir, subtitleDir, posterDir, issue.gitHubIssueNumber, issue.imdbId);
       this.logger.infoBlank();
-    } else {
-      for (let i = 0; i < openIssues.length; i++) {
-        const issue = openIssues[i];
-        await this.process(metaDir, subtitleDir, posterDir, issue.gitHubIssueNumber, issue.imdbId);
-        this.logger.infoBlank();
-      }
     }
   }
 
