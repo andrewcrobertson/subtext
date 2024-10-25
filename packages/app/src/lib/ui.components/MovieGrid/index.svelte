@@ -3,7 +3,6 @@
   import BookmarkIcon from '$lib/ui.icons/BookmarkIcon.svelte';
   import type{ BookmarkedMovieEventDetail } from '$lib/ui.types/BookmarkedMovieEventDetail';
   import { createEventDispatcher } from 'svelte';
-  export let title: string;
   export let movies: { id: string, title: string, posterFileName: string, hasSubtitles: boolean }[] = [];
 
   const dispatch = createEventDispatcher();
@@ -14,8 +13,6 @@
   };
 </script>
 
-{#if movies.length > 0}
-<h1 class="text-white text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-bold pl-1 pt-3 pb-1">{title}</h1>
 <div class="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 lg:grid-cols-6 xl:grid-cols-7 gap-2 pr-2 overflow-y-auto scrollbar-hide">
   {#each movies as { id, title, posterFileName, hasSubtitles }}
     <a href={`${base}/view/${id}`} class="group block relative">
@@ -35,5 +32,4 @@
     </a>
   {/each}
 </div>
-{/if}
 
