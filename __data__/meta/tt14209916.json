@@ -1,0 +1,28 @@
+{
+  "imdbId": "tt14209916",
+  "title": "Cocaine Bear",
+  "releaseDate": "2023-02-24T00:00:00.000Z",
+  "releaseYear": 2023,
+  "posterFileName": "tt14209916.jpg",
+  "rated": "R",
+  "genres": [],
+  "actors": [],
+  "runTime": 95,
+  "plot": "An oddball group of cops, criminals, tourists and teens converge on a Georgia forest where a huge black bear goes on a murderous rampage after unintentionally ingesting cocaine.",
+  "subtitles": [
+    {
+      "source": "OpenSubtitles",
+      "author": "Anonymous",
+      "zipFileName": null,
+      "subtitleFileName": "COCAINE BEAR 2023-engcp.srt",
+      "shaFileName": "acd5ddca100ec111f7be57f061c0fdb5fd711e26ea7fc7a7060a64e99e4e5f14.srt"
+    },
+    {
+      "source": "OpenSubtitles",
+      "author": "os-auto",
+      "zipFileName": null,
+      "subtitleFileName": "Cocaine.Bear.2023.2160p.UHD.Blu-ray.Remux.HEVC.HDR.DTS-HD.MA.7.1-HDT.srt",
+      "shaFileName": "8894a418f67a234edf27717e64c90334a3c3ea16198649e62444a27c131aa34a.srt"
+    }
+  ]
+}
