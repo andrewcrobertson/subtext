@@ -39,20 +39,22 @@ export class Downloader {
   private async process(metaDir: string, subtitleDir: string, posterDir: string, gitHubIssueNumber: number, imdbId: string) {
     const gitHubComments: string[] = [];
     const metaFile = path.resolve(metaDir, `${imdbId}.json`);
+    const gitHubIssueUrl = this.gitHubApi.getIssueUrl(gitHubIssueNumber);
 
     if (fs.existsSync(metaFile)) {
       const data = JSON.parse(fs.readFileSync(metaFile, 'utf-8'));
       const title = data.title;
 
-      this.logger.infoTitle(title);
-      this.logger.infoProcessing(gitHubIssueNumber, imdbId);
-      gitHubComments.push(`**${title}**`);
+      this.logger.infoTitle(title, imdbId);
+      this.logger.infoReadGithubIssue(gitHubIssueUrl);
+      gitHubComments.push(`:clapper: **${title}**`);
 
       this.logger.infoMovieAlreadyDownloaded();
-      gitHubComments.push(`:heavy_check_mark: Already downloaded`);
+      gitHubComments.push(`- Already downloaded`);
 
       await this.gitHubApi.addComment(gitHubIssueNumber, join(gitHubComments, '\n'));
       await this.gitHubApi.close(gitHubIssueNumber);
+      this.logger.infoClosedGitHubIssues();
 
       return;
     }
@@ -63,9 +65,9 @@ export class Downloader {
     const errorText = map(errors, (error) => (isError(error) ? error.message : (<any>error).toString()));
     const title = omdbSearchRes.data?.title ?? subdlSearchRes.data?.title ?? 'Unknown Title';
 
-    this.logger.infoTitle(title);
-    this.logger.infoProcessing(gitHubIssueNumber, imdbId);
-    gitHubComments.push(`**${title}**`);
+    this.logger.infoTitle(title, imdbId);
+    this.logger.infoReadGithubIssue(gitHubIssueUrl);
+    gitHubComments.push(`:clapper: **${title}**`);
 
     for (let i = 0; i < errorText.length; i++) {
       this.logger.errorMessage(errorText[i]);
@@ -73,23 +75,24 @@ export class Downloader {
 
     if (omdbSearchRes.success) {
       this.logger.infoMovieMetadataFound();
-      gitHubComments.push(`:heavy_check_mark: Metadata found`);
+      gitHubComments.push(`- Metadata found`);
     } else {
       this.logger.infoMovieMetadataNotFound();
-      gitHubComments.push(`:heavy_multiplication_x: Metadata not found`);
+      gitHubComments.push(`- Metadata not found`);
     }
 
     if (subdlSearchRes.success && subdlSearchRes.data.subtitles.length > 0) {
       this.logger.infoMovieSubtitlesFound();
-      gitHubComments.push(`:heavy_check_mark: Subtitles found`);
+      gitHubComments.push(`- Subtitles found`);
     } else {
       this.logger.infoMovieSubtitlesNotFound();
-      gitHubComments.push(`:heavy_multiplication_x: Subtitles not found`);
+      gitHubComments.push(`- Subtitles not found`);
     }
 
     if (errorText.length > 0) {
-      gitHubComments.push(`**Errors**`);
-      gitHubComments.push(join(errorText, '\n'));
+      gitHubComments.push(``);
+      gitHubComments.push(`:no_entry: **Errors**`);
+      gitHubComments.push('- ' + join(errorText, '\n- '));
       gitHubComments.push(``);
     }
 
@@ -118,6 +121,7 @@ export class Downloader {
 
     await this.gitHubApi.addComment(gitHubIssueNumber, join(gitHubComments, '\n'));
     await this.gitHubApi.close(gitHubIssueNumber);
+    this.logger.infoClosedGitHubIssues();
   }
 
   private toMovie(imdbId: string, omdbSearchRes: OmdbSearchResponse, subdlSearchRes: SubdlSearchResponse): ToMovieResponse {

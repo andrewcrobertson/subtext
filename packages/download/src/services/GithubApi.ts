@@ -5,8 +5,13 @@ const titlePrefix = 'Add: ';
 export class GithubApi {
   public constructor(
     private readonly apiUrlBase: string,
+    private readonly uiUrlBase: string,
     private readonly token: string
   ) {}
+
+  public getIssueUrl(issueNumber: number) {
+    return `${this.uiUrlBase}/issues/${issueNumber}`;
+  }
 
   public async getOpenIssues(label: string) {
     const issuesRaw: any = await this.get(`/issues?state=open&labels=${label}`);

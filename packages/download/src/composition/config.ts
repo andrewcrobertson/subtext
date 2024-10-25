@@ -5,6 +5,7 @@ export const config: Config = {
   gitHub: {
     token: environment.REPO_TOKEN,
     apiUrlBase: 'https://api.gitHub.com/repos/andrewcrobertson/subtext',
+    uiUrlBase: 'https://github.com/andrewcrobertson/subtext',
   },
   omdb: {
     token: environment.OMDB_TOKEN,

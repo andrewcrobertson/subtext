@@ -13,6 +13,7 @@ const logPrefix = <string>last(split(pkgMeta.name, '/'));
 
 const gitHubPublicToken = config.gitHub.token;
 const gitHubApiUrlBase = config.gitHub.apiUrlBase;
+const gitHubUiUrlBase = config.gitHub.uiUrlBase;
 const omdbToken = config.omdb.token;
 const omdbApiUrlBase = config.omdb.apiUrlBase;
 const subdlToken = config.subdl.token;
@@ -20,7 +21,7 @@ const subdlApiUrlBase = config.subdl.apiUrlBase;
 const subdlZipUrlBase = config.subdl.zipUrlBase;
 
 export const makeLogger = (verbose: boolean) => new Logger(logPrefix, verbose);
-export const gitHubApi = new GithubApi(gitHubApiUrlBase, gitHubPublicToken);
+export const gitHubApi = new GithubApi(gitHubApiUrlBase, gitHubUiUrlBase, gitHubPublicToken);
 export const omdbApi = new OmdbApi(omdbApiUrlBase, omdbToken);
 export const subdlApi = new SubdlApi(subdlApiUrlBase, subdlZipUrlBase, subdlToken);
 

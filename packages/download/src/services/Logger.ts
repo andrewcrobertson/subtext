@@ -24,12 +24,16 @@ export class Logger {
     this.logInfo(`${green(openIssueCount)} open ${issueP11n} found`);
   }
 
-  public infoTitle(title: string) {
-    this.logInfo(magenta(`=== ${title} ===`));
+  public infoClosedGitHubIssues() {
+    this.logInfo(`Closed GitHub issue`);
   }
 
-  public infoProcessing(gitHubIssueNumber: number, imdbId: string) {
-    this.logInfo(`GitHub issue ${green(gitHubIssueNumber)}, IMDB id ${green(imdbId)}`);
+  public infoTitle(title: string, imdbId: string) {
+    this.logInfo(magenta(`=== ${title} (${imdbId}) ===`));
+  }
+
+  public infoReadGithubIssue(gitHubIssueUrl: string) {
+    this.logInfo(`Read GitHub issue '${green(gitHubIssueUrl)}'`);
   }
 
   public infoMovieMetadataFound() {
