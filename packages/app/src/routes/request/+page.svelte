@@ -1,6 +1,7 @@
 <script lang="ts">
   import { join } from 'lodash-es';
   import { writable } from 'svelte/store';
+  import { PUBLIC_REPO_TOKEN } from '$env/static/public';
 
   const id = writable('');
 
@@ -30,7 +31,7 @@
     const response = await fetch('https://api.github.com/repos/andrewcrobertson/subtext/issues', {
       method: 'POST',
       headers: {
-        'Authorization': `token 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`,
+        'Authorization': `token ${PUBLIC_REPO_TOKEN}`,
         'Accept': 'application/vnd.github+json',
         'Content-Type': 'application/json',
       },
