@@ -1,4 +1,5 @@
 <script lang="ts">
+  import ArrowLeftIcon from '$lib/ui.icons/ArrowLeftIcon.svelte';
   import { base } from '$app/paths';
   import Header from '$lib/ui.components/Header';
   import { MyListManager } from '$lib/ui.services/MyListManager';
@@ -15,6 +16,8 @@
 
   const myListManager = new MyListManager();
 
+  const onBackClick = (event: MouseEvent) => history.back();
+
   onMount(async () => {
     let tempMyListMovies: any[] = [];
     const myListMovieIds = myListManager.get();
@@ -30,7 +33,13 @@
 </script>
 
 <div class="relative">
-  <Header class="fixed top-0 left-0 right-0" />
+  <div class="fixed top-0 left-0 right-0 flex items-center justify-between text-white p-2 z-10 bg-black bg-opacity-70 border-b-2 border-yellow-500">
+    <div class="flex space-x-2">
+      <button class="btn btn-square text-white" on:click={onBackClick}>
+        <ArrowLeftIcon class="size-8" />
+      </button>
+    </div>
+  </div>
   <div class="mt-16"></div>
   {#if loaded}
     <div transition:fade={{ duration: 500 }}>
