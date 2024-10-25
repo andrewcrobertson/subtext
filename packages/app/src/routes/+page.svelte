@@ -25,13 +25,8 @@
     let tempBookmarkedMovies: any[] = [];
     const BookmarkedMovieIds = bookmarkManager.getAllBookmarkedMovies()
 
-    for(let i = 0; i < data.recentMovies.length; i++) {
-      const movie = data.recentMovies[i];
-      if(includes(BookmarkedMovieIds, movie.id)) tempBookmarkedMovies.push(movie)
-    }
-
-    for(let i = 0; i < data.olderMovies.length; i++) {
-      const movie = data.olderMovies[i];
+    for(let i = 0; i < data.movies.length; i++) {
+      const movie = data.movies[i];
       if(includes(BookmarkedMovieIds, movie.id)) tempBookmarkedMovies.push(movie)
     }
 
