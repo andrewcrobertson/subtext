@@ -15,8 +15,14 @@ export interface SubdlConfig {
   zipUrlBase: string;
 }
 
+export interface OpenSubtitlesConfig {
+  token: string;
+  apiUrlBase: string;
+}
+
 export interface Config {
   gitHub: GitHubConfig;
   omdb: OmdbConfig;
   subdl: SubdlConfig;
+  openSubtitles: OpenSubtitlesConfig;
 }

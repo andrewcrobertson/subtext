@@ -53,7 +53,7 @@ export class SubdlApi {
       if (!response.ok) throw new Error(`Subdl: fetch '${logUrl}' returned status '${response.status}'`);
 
       const data = (await response.json()) as ApiSearchResponse;
-      if (!response.ok) throw new Error(`Subdl: fetch '${logUrl}' returned status 'false'`);
+      if (!data.status) throw new Error(`Subdl: fetch '${logUrl}' returned status 'false'`);
 
       return data;
     } catch (cause) {

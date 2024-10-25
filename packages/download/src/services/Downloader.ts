@@ -8,12 +8,14 @@ import { OmdbSearchResponse, SubdlSearchResponse, ToMovieResponse, ToMovieRespon
 import { GithubApi } from './GithubApi';
 import type { Logger } from './Logger';
 import type { OmdbApi } from './OmdbApi';
+import { OpenSubtitlesApi } from './OpenSubtitlesApi';
 import { SubdlApi } from './SubdlApi';
 
 export class Downloader {
   public constructor(
     private readonly gitHubApi: GithubApi,
     private readonly omdbApi: OmdbApi,
+    private readonly openSubtitlesApi: OpenSubtitlesApi,
     private readonly subdlApi: SubdlApi,
     private readonly logger: Logger
   ) {}
