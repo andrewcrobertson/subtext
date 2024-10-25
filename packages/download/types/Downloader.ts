@@ -25,6 +25,34 @@ export interface OmdbSearchResponseFail {
 
 export type OmdbSearchResponse = OmdbSearchResponseOk | OmdbSearchResponseFail;
 
+export interface OpenSubtitlesSearchResponseData {
+  imdbId: string;
+  title: string | null;
+  posterUrl: string | null;
+  releaseDate: string | null;
+  releaseYear: number | null;
+  subtitles: {
+    author: string | null;
+    subtitleFileName: string;
+    sha: string | null;
+    subtitleFileText: string;
+  }[];
+}
+
+export interface OpenSubtitlesSearchResponseOk {
+  success: true;
+  data: OpenSubtitlesSearchResponseData;
+  errors: Error[];
+}
+
+export interface OpenSubtitlesSearchResponseFail {
+  success: false;
+  data: null;
+  errors: Error[];
+}
+
+export type OpenSubtitlesSearchResponse = OpenSubtitlesSearchResponseOk | OpenSubtitlesSearchResponseFail;
+
 export interface SubdlSearchResponseData {
   imdbId: string;
   title: string | null;

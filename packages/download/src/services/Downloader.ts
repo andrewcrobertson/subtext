@@ -4,7 +4,7 @@ import { concat, filter, flattenDeep, isError, join, map, toPairs } from 'lodash
 import path from 'path';
 import { pipeline } from 'stream';
 import { promisify } from 'util';
-import { OmdbSearchResponse, SubdlSearchResponse, ToMovieResponse, ToMovieResponseSubtitle } from '../../types/Downloader';
+import { OmdbSearchResponse, OpenSubtitlesSearchResponse, SubdlSearchResponse, ToMovieResponse, ToMovieResponseSubtitle } from '../../types/Downloader';
 import { GithubApi } from './GithubApi';
 import type { Logger } from './Logger';
 import type { OmdbApi } from './OmdbApi';
@@ -61,11 +61,15 @@ export class Downloader {
       return;
     }
 
-    const [omdbSearchRes, subdlSearchRes] = await Promise.all([this.omdbSearch(imdbId), this.subdlSearch(imdbId)]);
+    const [omdbSearchRes, openSubtitleSearchRes, subdlSearchRes] = await Promise.all([
+      this.omdbSearch(imdbId),
+      this.openSubtitleSearch(imdbId),
+      this.subdlSearch(imdbId),
+    ]);
 
-    const errors = concat(omdbSearchRes.errors, subdlSearchRes.errors);
+    const errors = concat(omdbSearchRes.errors, openSubtitleSearchRes.errors, subdlSearchRes.errors);
     const errorText = map(errors, (error) => (isError(error) ? error.message : (<any>error).toString()));
-    const title = omdbSearchRes.data?.title ?? subdlSearchRes.data?.title ?? 'Unknown Title';
+    const title = omdbSearchRes.data?.title ?? openSubtitleSearchRes.data?.title ?? subdlSearchRes.data?.title ?? 'Unknown Title';
 
     this.logger.infoTitle(title, imdbId);
     this.logger.infoReadGithubIssue(gitHubIssueUrl);
@@ -83,7 +87,10 @@ export class Downloader {
       gitHubComments.push(`- Metadata not found`);
     }
 
-    if (subdlSearchRes.success && subdlSearchRes.data.subtitles.length > 0) {
+    if (
+      (openSubtitleSearchRes.success && openSubtitleSearchRes.data.subtitles.length > 0) ||
+      (subdlSearchRes.success && subdlSearchRes.data.subtitles.length > 0)
+    ) {
       this.logger.infoMovieSubtitlesFound();
       gitHubComments.push(`- Subtitles found`);
     } else {
@@ -98,7 +105,7 @@ export class Downloader {
       gitHubComments.push(``);
     }
 
-    const posterUrl = omdbSearchRes.data?.posterUrl ?? null;
+    const posterUrl = omdbSearchRes.data?.posterUrl ?? openSubtitleSearchRes.data?.posterUrl ?? null;
     if (posterUrl !== null) {
       const ext = path.parse(path.basename(posterUrl)).ext;
       const posterFile = path.resolve(posterDir, `${imdbId}${ext}`);
@@ -163,6 +170,21 @@ export class Downloader {
       return { success: true, data, errors: [] };
     } catch (cause) {
       const message = 'Omdb Error: api fetch unexpected error';
+      return { success: false, data: null, errors: [new Error(message, { cause })] };
+    }
+  }
+
+  private async openSubtitleSearch(imdbId: string): Promise<OpenSubtitlesSearchResponse> {
+    try {
+      const { subtitles: subtitlesAll, ...dataRaw } = await this.openSubtitlesApi.search(imdbId);
+      const errorsRaw = map(subtitlesAll, (s) => s.errors);
+      const errors = flattenDeep(errorsRaw);
+      const subtitlesRaw = filter(subtitlesAll, (s) => s.success);
+      const subtitles = map(subtitlesRaw, (s) => ({ ...s.data, sha: this.generateHashFromText(s.data.subtitleFileText) }));
+      const data = { ...dataRaw, subtitles };
+      return { success: true, data, errors };
+    } catch (cause) {
+      const message = 'OpenSubtitle Error: api fetch unexpected error';
       return { success: false, data: null, errors: [new Error(message, { cause })] };
     }
   }
