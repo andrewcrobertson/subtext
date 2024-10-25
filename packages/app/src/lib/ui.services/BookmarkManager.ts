@@ -21,7 +21,6 @@ export class BookmarkManager {
   unbookmarkMovie(movieId: string): void {
     const movies = this.getBookmarkedMovies();
     const updatedMovies = movies.filter((id) => id !== movieId);
-    console.log({ movies, updatedMovies });
     this.saveBookmarkedMovies(updatedMovies);
   }
 

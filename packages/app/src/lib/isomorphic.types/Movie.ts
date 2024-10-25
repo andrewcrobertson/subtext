@@ -1,8 +1,9 @@
 export interface MovieSubtitle {
+  source: string;
   author: string | null;
   zipFileName: string | null;
-  subtitleFileName: string | null;
-  lines: string[];
+  subtitleFileName: string;
+  shaFileName: string;
 }
 
 export interface Movie {

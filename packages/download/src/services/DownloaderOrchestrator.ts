@@ -39,7 +39,6 @@ export class DownloaderOrchestrator implements Downloader {
       for (let i = 0; i < downloadResList.length; i++) {
         const downloadRes = downloadResList[i];
         output.errors.push(...downloadRes.errors);
-        if (i === 1) console.log(downloadRes.errors);
         if (downloadRes.success) {
           output.data.title = output.data.title ?? downloadRes.data.title ?? null;
           output.data.posterUrl = output.data.posterUrl ?? downloadRes.data.posterUrl ?? null;
