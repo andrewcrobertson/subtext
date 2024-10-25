@@ -30,7 +30,7 @@
     const response = await fetch('https://api.github.com/repos/andrewcrobertson/subtext/issues', {
       method: 'POST',
       headers: {
-        'Authorization': `token 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`,
+        'Authorization': `token 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`,
         'Accept': 'application/vnd.github+json',
         'Content-Type': 'application/json',
       },

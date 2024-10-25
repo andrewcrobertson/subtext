@@ -43,6 +43,8 @@ export class DataAccess {
       const moviesRaw: Movie[] = [];
 
       const metaDir = path.resolve(this.dirPath, 'meta');
+      fs.mkdirSync(metaDir, { recursive: true });
+
       const files = fs.readdirSync(metaDir);
       for (let i = 0; i < files.length; i++) {
         const file = files[i];
@@ -62,6 +64,8 @@ export class DataAccess {
   private getSubtitles() {
     if (isEmpty(this.subtitles)) {
       const subtitlesDir = path.resolve(this.dirPath, 'subtitles');
+      fs.mkdirSync(subtitlesDir, { recursive: true });
+
       const files = fs.readdirSync(subtitlesDir);
       for (let i = 0; i < files.length; i++) {
         const file = files[i];

@@ -1,0 +1,56 @@
+{
+  "imdbId": "tt3908142",
+  "title": "The Love Witch",
+  "releaseDate": "2017-03-10T00:00:00.000Z",
+  "releaseYear": 2016,
+  "posterFileName": "tt3908142.jpg",
+  "rated": "Unrated",
+  "genres": [],
+  "actors": [],
+  "runTime": 120,
+  "plot": "A modern-day witch uses spells and magic to get men to fall in love with her, with deadly consequences.",
+  "subtitles": [
+    {
+      "source": "OpenSubtitles",
+      "author": "JOKER74AHMED",
+      "zipFileName": null,
+      "subtitleFileName": "The.Love.Witch.2016.PROPER.BDRip.x264-PSYCHD.SDH.srt",
+      "shaFileName": "b6f6979a7a2d5c524391e6939e4efbd30153afb648558d2002612a486ebf69c5.srt"
+    },
+    {
+      "source": "OpenSubtitles",
+      "author": "JOKER74AHMED",
+      "zipFileName": null,
+      "subtitleFileName": "The.Love.Witch.2016.PROPER.BDRip.x264-PSYCHD.srt",
+      "shaFileName": "4c58fb89dadbcba5a64d20a1beaa24410a859f0e35b0d96b7a391aedce4df587.srt"
+    },
+    {
+      "source": "OpenSubtitles",
+      "author": "JOKER74AHMED",
+      "zipFileName": null,
+      "subtitleFileName": "The.Love.Witch.2016.1080p.WEB-DL.DD5.1.H264-FGT.srt",
+      "shaFileName": "4e0de741af43aa23b40024ded6246ad50956665c831fa250f681137bc312efa5.srt"
+    },
+    {
+      "source": "OpenSubtitles",
+      "author": "GoldenBeard",
+      "zipFileName": null,
+      "subtitleFileName": "The.Love.Witch.2016.PROPER.720p.BluRay.x264-PSYCHD.srt",
+      "shaFileName": "ae37cd1240e07f2f9d34f6ae5d5c78f0009bd80dadf7f91d27695385959bc396.srt"
+    },
+    {
+      "source": "OpenSubtitles",
+      "author": "GoldenBeard",
+      "zipFileName": null,
+      "subtitleFileName": "The.Love.Witch.2016.PROPER.720p.BluRay.x264-PSYCHD.HI.srt",
+      "shaFileName": "9475293c320a56a7d3e3aad539c734f3413e0c540a96b43440f3d00fc4434632.srt"
+    },
+    {
+      "source": "OpenSubtitles",
+      "author": "Luis-subs",
+      "zipFileName": null,
+      "subtitleFileName": "The.Love.Witch.2016.LiMiTED.720p.BluRay.x264-EiDER.srt",
+      "shaFileName": "394fc6a3aa35544529438e392f3b55a8b8093e75b8043cef40fff7de7b1cf52a.srt"
+    }
+  ]
+}
