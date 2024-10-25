@@ -4,7 +4,7 @@ import { environment } from '../config/environment';
 export const config: Config = {
   gitHub: {
     token: environment.REPO_TOKEN,
-    apiUrlBase: 'https://api.gitHub.com/repos/andrewcrobertson/subtext.data',
+    apiUrlBase: 'https://api.gitHub.com/repos/andrewcrobertson/subtext',
   },
   omdb: {
     token: environment.OMDB_TOKEN,

@@ -1,6 +1,6 @@
 import { createHash } from 'crypto';
 import fs from 'fs';
-import { concat, filter, flattenDeep, get, isError, join, map, toPairs } from 'lodash';
+import { concat, filter, flattenDeep, isError, join, map, toPairs } from 'lodash';
 import path from 'path';
 import { pipeline } from 'stream';
 import { promisify } from 'util';
@@ -28,16 +28,37 @@ export class Downloader {
     const openIssues = await this.gitHubApi.getOpenIssues('add');
 
     this.logger.infoOpenGitHubIssuesFound(openIssues.length);
-    for (let i = 0; i < openIssues.length; i++) {
-      const issue = openIssues[i];
-      await this.process(metaDir, subtitleDir, posterDir, issue.gitHubIssueNumber, issue.imdbId);
+    if (openIssues.length === 0) {
+      this.logger.infoBlank();
+    } else {
+      for (let i = 0; i < openIssues.length; i++) {
+        const issue = openIssues[i];
+        await this.process(metaDir, subtitleDir, posterDir, issue.gitHubIssueNumber, issue.imdbId);
+        this.logger.infoBlank();
+      }
     }
-
-    this.logger.infoBlank();
   }
 
   private async process(metaDir: string, subtitleDir: string, posterDir: string, gitHubIssueNumber: number, imdbId: string) {
     const gitHubComments: string[] = [];
+    const metaFile = path.resolve(metaDir, `${imdbId}.json`);
+
+    if (fs.existsSync(metaFile)) {
+      const data = JSON.parse(fs.readFileSync(metaFile, 'utf-8'));
+      const title = data.title;
+
+      this.logger.infoTitle(title);
+      this.logger.infoProcessing(gitHubIssueNumber, imdbId);
+      gitHubComments.push(`**${title}**`);
+
+      this.logger.infoMovieAlreadyDownloaded();
+      gitHubComments.push(`:heavy_check_mark: Already downloaded`);
+
+      await this.gitHubApi.addComment(gitHubIssueNumber, join(gitHubComments, '\n'));
+      await this.gitHubApi.close(gitHubIssueNumber);
+
+      return;
+    }
 
     const [omdbSearchRes, subdlSearchRes] = await Promise.all([this.omdbSearch(imdbId), this.subdlSearch(imdbId)]);
 
@@ -48,6 +69,10 @@ export class Downloader {
     this.logger.infoTitle(title);
     this.logger.infoProcessing(gitHubIssueNumber, imdbId);
     gitHubComments.push(`**${title}**`);
+
+    for (let i = 0; i < errorText.length; i++) {
+      this.logger.errorMessage(errorText[i]);
+    }
 
     if (omdbSearchRes.success) {
       this.logger.infoMovieMetadataFound();
@@ -66,13 +91,9 @@ export class Downloader {
     }
 
     if (errorText.length > 0) {
-      gitHubComments.push(``);
       gitHubComments.push(`**Errors**`);
       gitHubComments.push(join(errorText, '\n'));
-
-      for (let i = 0; i < errorText.length; i++) {
-        this.logger.errorMessage(errorText[i]);
-      }
+      gitHubComments.push(``);
     }
 
     const posterUrl = omdbSearchRes.data?.posterUrl ?? null;
@@ -87,7 +108,6 @@ export class Downloader {
 
     const { files, ...meta } = this.toMovie(imdbId, omdbSearchRes, subdlSearchRes);
 
-    const metaFile = path.resolve(metaDir, `${imdbId}.json`);
     fs.writeFileSync(metaFile, JSON.stringify(meta, null, 2));
     this.logger.infoSavedMetaFile(metaFile);
 
@@ -139,8 +159,7 @@ export class Downloader {
       const data = await this.omdbApi.search(imdbId);
       return { success: true, data, errors: [] };
     } catch (cause) {
-      const causeMessage = get(cause, ['message'], null);
-      const message = 'Omdb Error: api fetch unexpected error ' + (causeMessage === null ? '' : `: '${causeMessage}'`);
+      const message = 'Omdb Error: api fetch unexpected error';
       return { success: false, data: null, errors: [new Error(message, { cause })] };
     }
   }
@@ -155,14 +174,13 @@ export class Downloader {
       const data = { ...dataRaw, subtitles };
       return { success: true, data, errors };
     } catch (cause) {
-      const causeMessage = get(cause, ['message'], null);
-      const message = 'Subdl Error: api fetch unexpected error ' + (causeMessage === null ? '' : `: '${causeMessage}'`);
+      const message = 'Subdl Error: api fetch unexpected error';
       return { success: false, data: null, errors: [new Error(message, { cause })] };
     }
   }
 
-  private generateHashFromText(fileContent: string, algorithm: 'sha256' | 'sha1' | 'sha512' = 'sha256'): string {
-    const hash = createHash(algorithm);
+  private generateHashFromText(fileContent: string): string {
+    const hash = createHash('sha256');
     hash.update(fileContent);
     return hash.digest('hex');
   }

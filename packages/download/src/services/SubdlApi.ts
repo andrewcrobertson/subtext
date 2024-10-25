@@ -1,5 +1,5 @@
 import AdmZip from 'adm-zip';
-import { get, toPairs } from 'lodash';
+import { toPairs } from 'lodash';
 import path from 'path';
 import { ApiSearchResponse, SearchResponse } from '../../types/SubdlApi';
 
@@ -18,16 +18,16 @@ export class SubdlApi {
     for (let i = 0; i < fetchSearchRes.subtitles.length; i++) {
       const subtitle = fetchSearchRes.subtitles[i];
       const author = subtitle.author ?? null;
-      const zipFile = path.basename(subtitle.url);
+      const zipFileName = path.basename(subtitle.url);
+      const url = `${this.subdlZipUrlBase}${subtitle.url}`;
 
       try {
-        const url = `${this.subdlZipUrlBase}${subtitle.url}`;
         const fetchZipRes = await this.fetchZip(url);
         const extractZipRes = await this.extractZip(url, fetchZipRes);
-        const srtFilePairs = toPairs(extractZipRes);
-        for (let i = 0; i < srtFilePairs.length; i++) {
-          const [subtitleFileName, subtitleFileText] = srtFilePairs[i];
-          output.subtitles.push({ success: true, data: { author, zipFileName: zipFile, subtitleFileName, subtitleFileText }, errors: [] });
+        const subtitleFilePairs = toPairs(extractZipRes);
+        for (let i = 0; i < subtitleFilePairs.length; i++) {
+          const [subtitleFileName, subtitleFileText] = subtitleFilePairs[i];
+          output.subtitles.push({ success: true, data: { author, zipFileName, subtitleFileName, subtitleFileText }, errors: [] });
         }
       } catch (err) {
         output.subtitles.push({ success: false, data: null, errors: [<any>err] });
@@ -45,32 +45,32 @@ export class SubdlApi {
   }
 
   private async fetchSearch(imdbId: string): Promise<ApiSearchResponse> {
+    const logUrl = `${this.apiUrlBase}?imdb_id=${imdbId}&type=movie&languages=EN&api_key=*****`;
+
     try {
-      const response = await fetch(`${this.apiUrlBase}?api_key=${this.apiKey}&imdb_id=${imdbId}&type=movie&languages=EN`);
-      if (!response.ok) throw new Error(`Subdl Error: api fetch returned ${response.status}`);
+      const url = `${this.apiUrlBase}?imdb_id=${imdbId}&type=movie&languages=EN&api_key=${this.apiKey}`;
+      const response = await fetch(url);
+      if (!response.ok) throw new Error(`Subdl: fetch '${logUrl}' returned status '${response.status}'`);
 
       const data = (await response.json()) as ApiSearchResponse;
-      if (!data.status) throw new Error(`Subdl Error: api fetch returned a status of 'false'`);
+      if (!response.ok) throw new Error(`Subdl: fetch '${logUrl}' returned status 'false'`);
 
       return data;
     } catch (cause) {
-      const causeMessage = get(cause, ['message'], null);
-      const message = 'Subdl Error: api fetch unexpected error ' + (causeMessage === null ? '' : `: '${causeMessage}'`);
-      throw new Error(message, { cause });
+      throw new Error(`Subdl: fetch '${logUrl}' failed`, { cause });
     }
   }
 
   private async fetchZip(url: string): Promise<ArrayBuffer> {
     try {
       const response = await fetch(url);
-      if (!response.ok) throw new Error(`Subdl Error: zip fetch returned ${response.status}`);
+      if (!response.ok) throw new Error(`Subdl: fetch '${url}' returned status '${response.status}'`);
 
       const data = await response.arrayBuffer();
       return data;
     } catch (cause) {
-      const causeMessage = get(cause, ['message'], null);
-      const message = 'Subdl Error: zip fetch unexpected error ' + (causeMessage === null ? '' : `: '${causeMessage}'`);
-      throw new Error(message, { cause });
+      const message = 'Subdl Error: zip fetch unexpected error';
+      throw new Error(`Subdl: fetch '${url}' failed`, { cause });
     }
   }
 
@@ -86,9 +86,7 @@ export class SubdlApi {
 
       return data;
     } catch (cause) {
-      const causeMessage = get(cause, ['message'], null);
-      const message = `Subdl Error: extract '${url}' unexpected error ` + (causeMessage === null ? '' : `: '${causeMessage}'`);
-      throw new Error(message, { cause });
+      throw new Error(`Subdl: extracting zip from '${url}' failed`, { cause });
     }
   }
 }

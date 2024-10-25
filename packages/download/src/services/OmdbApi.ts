@@ -1,4 +1,4 @@
-import { endsWith, get, map, parseInt, split, trim } from 'lodash';
+import { endsWith, map, parseInt, split, trim } from 'lodash';
 import type { ApiSearchResponse, SearchResponse } from '../../types/OmdbApi';
 
 export class OmdbApi {
@@ -27,17 +27,16 @@ export class OmdbApi {
   }
 
   private async fetchSearch(imdbId: string) {
+    const logUrl = `${this.apiUrlBase}/?i=${imdbId}&apikey=*****`;
     try {
       const url = `${this.apiUrlBase}/?i=${imdbId}&apikey=${this.apiKey}`;
       const response = await fetch(url);
-      if (!response.ok) throw new Error(`Omdb Error: api fetch returned ${response.status}`);
+      if (!response.ok) throw new Error(`Omdb: fetch '${logUrl}' returned status '${response.status}'`);
 
       const data = (await response.json()) as ApiSearchResponse;
       return data;
     } catch (cause) {
-      const causeMessage = get(cause, ['message'], null);
-      const message = 'Omdb Error: api fetch unexpected error ' + (causeMessage === null ? '' : `: '${causeMessage}'`);
-      throw new Error(message, { cause });
+      throw new Error(`Omdb: fetch '${logUrl}' failed`, { cause });
     }
   }
 

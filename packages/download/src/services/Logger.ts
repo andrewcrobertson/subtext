@@ -36,6 +36,10 @@ export class Logger {
     this.logInfo(`Metadata found`);
   }
 
+  public infoMovieAlreadyDownloaded() {
+    this.logInfo(`Already downloaded`);
+  }
+
   public infoMovieMetadataNotFound() {
     this.logWarn(`Metadata not found`);
   }
