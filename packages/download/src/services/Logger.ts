@@ -48,8 +48,9 @@ export class Logger {
     this.logWarn(`Metadata not found`);
   }
 
-  public infoMovieSubtitlesFound() {
-    this.logInfo(`Subtitles found`);
+  public infoMovieSubtitlesFound(subtitleCount: number) {
+    const subtitleP11n = subtitleCount === 1 ? 'subtitle' : 'subtitles';
+    this.logInfo(`${green(subtitleCount)} ${subtitleP11n} found`);
   }
 
   public infoMovieSubtitlesNotFound() {

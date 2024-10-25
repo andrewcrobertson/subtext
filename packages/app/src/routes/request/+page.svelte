@@ -1,18 +1,16 @@
 <script lang="ts">
-    import { join } from 'lodash-es';
-  import { onMount } from 'svelte';
+  import { join } from 'lodash-es';
   import { writable } from 'svelte/store';
 
   const id = writable('');
-  const url = writable('');
 
   const xorObfuscate = (text: string, key: string): string => {
-    const ipBytes = new TextEncoder().encode(text); // Convert the IP string to bytes
-  const keyBytes = new TextEncoder().encode(key); // Convert the key string to bytes
+  const ipBytes = new TextEncoder().encode(text);
+  const keyBytes = new TextEncoder().encode(key);
   const result = ipBytes.map((byte, i) => byte ^ keyBytes[i % keyBytes.length]);
   return Array.from(result)
-    .map(byte => byte.toString(16).padStart(2, '0')) // Convert each byte to a hex string
-    .join(''); // Join all the hex strings together
+    .map(byte => byte.toString(16).padStart(2, '0'))
+    .join('');
 }
 
   const  handleSubmit = async(event: SubmitEvent) => {
@@ -22,16 +20,12 @@
     const data = await res.text();
 
     const lines = [
+      `:id: ${xorObfuscate(data, 'ipaddress')}`,
       ':robot: This issue is automated.',
       ':pray: Please don\'t edit this issue.',
-      '',
-      '===',
-      '',
-      `id: ${xorObfuscate(data, 'ipaddress')}`,
-      `url: ${$url}`,
     ]
 
-    const issueData = { title: $id, body: join(lines, '\n'), labels: ['add', 'zip'] };
+    const issueData = { title: $id, body: join(lines, '\n'), labels: ['add'] };
     
     const response = await fetch('https://api.github.com/repos/andrewcrobertson/subtext/issues', {
       method: 'POST',
@@ -52,7 +46,6 @@
   </div>
   <div>
     <label for="url">URL:</label>
-    <input type="url" id="url" bind:value={$url} required />
   </div>
   <button type="submit">Submit</button>
 </form>

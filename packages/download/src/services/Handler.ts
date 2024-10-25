@@ -70,21 +70,10 @@ export class Handler {
       this.logger.errorMessage(errorText[i]);
     }
 
-    if (downloadRes.success) {
-      this.logger.infoMovieMetadataFound();
-      gitHubComments.push(`- Metadata found`);
-    } else {
-      this.logger.infoMovieMetadataNotFound();
-      gitHubComments.push(`- Metadata not found`);
-    }
-
-    if (downloadRes.success && downloadRes.data.subtitles.length > 0) {
-      this.logger.infoMovieSubtitlesFound();
-      gitHubComments.push(`- Subtitles found`);
-    } else {
-      this.logger.infoMovieSubtitlesNotFound();
-      gitHubComments.push(`- Subtitles not found`);
-    }
+    const subtitleCount = downloadRes.data?.subtitles.length ?? 0;
+    const subtitleP11n = subtitleCount === 1 ? 'subtitle' : 'subtitles';
+    this.logger.infoMovieSubtitlesFound(subtitleCount);
+    gitHubComments.push(`- ${subtitleCount} ${subtitleP11n} found`);
 
     if (errorText.length > 0) {
       gitHubComments.push(``);

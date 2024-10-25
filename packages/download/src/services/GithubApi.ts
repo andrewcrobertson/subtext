@@ -1,6 +1,4 @@
-import { chain, startsWith, trim } from 'lodash';
-
-const titlePrefix = 'Add: ';
+import { chain } from 'lodash';
 
 export class GithubApi {
   public constructor(
@@ -14,10 +12,10 @@ export class GithubApi {
   }
 
   public async getOpenIssues(label: string) {
-    const issuesRaw: any = await this.get(`/issues?state=closed&labels=${label}`);
+    const issuesRaw: any = await this.get(`/issues?state=open&labels=${label}`);
     const issues = chain(issuesRaw)
-      .filter((i: any) => startsWith(i.title, titlePrefix))
-      .map((i: any) => ({ gitHubIssueNumber: i.number, imdbId: trim(i.title.substring(titlePrefix.length)) }))
+      .sortBy('number')
+      .map((i: any) => ({ gitHubIssueNumber: i.number, imdbId: i.title }))
       .value();
 
     return issues;
