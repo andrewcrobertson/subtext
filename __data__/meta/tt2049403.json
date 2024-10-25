@@ -1,0 +1,49 @@
+{
+  "imdbId": "tt2049403",
+  "title": "Beetlejuice Beetlejuice",
+  "releaseDate": "2024-09-06T00:00:00.000Z",
+  "releaseYear": 2024,
+  "posterFileName": "tt2049403.jpg",
+  "rated": "PG-13",
+  "genres": [],
+  "actors": [],
+  "runTime": 105,
+  "plot": "After a family tragedy, three generations of the Deetz family return home to Winter River. Still haunted by Beetlejuice, Lydia's life is turned upside down when her teenage daughter, Astrid, accidentally opens the portal to the Af...",
+  "subtitles": [
+    {
+      "source": "Subdl",
+      "author": "GonzoDon",
+      "zipFileName": "3412239-8335683.zip",
+      "subtitleFileName": "Beetlejuice.Beetlejuice.2024.1080p.WEBRip.x264.AAC5.1-[YTS.MX].srt",
+      "shaFileName": "00db72c5168595f17dc42825a6097ba7f9917b53f16cae4455391bf2b4b15bfc.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "GonzoDon",
+      "zipFileName": "3412238-8335682.zip",
+      "subtitleFileName": "Beetlejuice.Beetlejuice.2024.1080p.WEBRip.x264.AAC5.1-[YTS.MX].srt",
+      "shaFileName": "a2119eb115de10fd8a1bcd16b8614ef438808521ccb1d908411a8b5417d7c8dc.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "bisounours",
+      "zipFileName": "3412124-8335566.zip",
+      "subtitleFileName": "Beetlejuice.Beetlejuice.2024.HDR.2160p.WEB.H265-BEETLEJUICE.srt",
+      "shaFileName": "0324d6637e86636d4e4d46e2742e77d8bf24ba89971a65b6bdb2d35cd9e27f88.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "VikramJS",
+      "zipFileName": "3410055-8333469.zip",
+      "subtitleFileName": "Beetlejuice.Beetlejuice.2024.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264 (SDH).srt",
+      "shaFileName": "31c97fcb6fc4c20767a287c60ec05f627c80381edf99402e5083d46dab9c0442.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "VikramJS",
+      "zipFileName": "3410054-8333468.zip",
+      "subtitleFileName": "Beetlejuice.Beetlejuice.2024.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264.srt",
+      "shaFileName": "ea8d9333d91914decce8a9e4ee89685ab3ae3434c83f32dd3c3fb902aeec7d6a.srt"
+    }
+  ]
+}

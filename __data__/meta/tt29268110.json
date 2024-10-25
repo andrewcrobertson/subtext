@@ -1,0 +1,35 @@
+{
+  "imdbId": "tt29268110",
+  "title": "Smile 2",
+  "releaseDate": "2024-10-18T00:00:00.000Z",
+  "releaseYear": 2024,
+  "posterFileName": "tt29268110.jpg",
+  "rated": "R",
+  "genres": [],
+  "actors": [],
+  "runTime": 132,
+  "plot": "About to embark on a world tour, global pop sensation Skye Riley begins experiencing increasingly terrifying and inexplicable events. Overwhelmed by the escalating horrors and the pressures of fame, Skye is forced to face her past.",
+  "subtitles": [
+    {
+      "source": "OpenSubtitles",
+      "author": "Anonymous",
+      "zipFileName": null,
+      "subtitleFileName": "Smile.2.2024.1080p.TeleSync.x264.COLLECTiVE.srt",
+      "shaFileName": "5b61a100c767ab686e734088e9485ab816a3a62ab5b82ff9f217ee083b65807d.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "Ice",
+      "zipFileName": "3415272-8338743.zip",
+      "subtitleFileName": "Smile.2.2024.1080p.TeleSync.X264.COLLECTiVE.srt",
+      "shaFileName": "6fb361dde604e2849d087ecafeca6cf6139307d63fd8d3174d365d2c6fd9cdbe.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "Ice",
+      "zipFileName": "3415272-8338743.zip",
+      "subtitleFileName": "Smile.2.2024.1080p.TeleSync.X264.COLLECTiVE+.srt",
+      "shaFileName": "ad87f9705c16c8ae101a06c884263a93440d554dc11f68a67acde5595b1162bb.srt"
+    }
+  ]
+}
