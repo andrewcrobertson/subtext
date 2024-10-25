@@ -45,6 +45,5 @@
   <Header class="fixed top-0 left-0 right-0" />
   <div class="mt-16"></div>
   <MovieGrid title="Bookmarked" movies={BookmarkedMovies} on:pinclick={(e) => handleUnbookmarkClick(e)} />
-    <MovieGrid title="Recent" movies={data.recentMovies} on:pinclick={(e) => handleBookmarkClick(e)} />
-      <MovieGrid title="Older" movies={data.olderMovies} on:pinclick={(e) => handleBookmarkClick(e)} />
+  <MovieGrid title="Movies" movies={data.movies} on:pinclick={(e) => handleBookmarkClick(e)} />
 </div>

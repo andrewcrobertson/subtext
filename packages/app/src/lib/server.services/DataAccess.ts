@@ -12,21 +12,16 @@ export class DataAccess {
 
   public getIndex() {
     const sixMonthsAgo = getThreeMonthsAgo().toISOString();
-    const movies = this.getMovies();
-    const recentMovies: { id: string; title: string; posterFileName: string; hasSubtitles: boolean }[] = [];
-    const olderMovies: { id: string; title: string; posterFileName: string; hasSubtitles: boolean }[] = [];
+    const moviesRaw = this.getMovies();
+    const movies: { id: string; title: string; posterFileName: string; hasSubtitles: boolean }[] = [];
 
-    for (let i = 0; i < movies.length; i++) {
-      const movie = movies[i];
+    for (let i = 0; i < moviesRaw.length; i++) {
+      const movie = moviesRaw[i];
       const movieBasic = { id: movie.imdbId, title: movie.title!, posterFileName: movie.posterFileName!, hasSubtitles: movie.subtitles.length > 0 };
-      if (movie.releaseDate !== null && movie.releaseDate > sixMonthsAgo) {
-        recentMovies.push(movieBasic);
-      } else {
-        olderMovies.push(movieBasic);
-      }
+      movies.push(movieBasic);
     }
 
-    return { recentMovies, olderMovies };
+    return { movies };
   }
 
   public getView(id: string) {
