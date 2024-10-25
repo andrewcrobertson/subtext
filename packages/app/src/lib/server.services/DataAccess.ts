@@ -24,12 +24,31 @@ export class DataAccess {
 
   public getMyList() {
     const moviesRaw = this.getMovies();
-    const movies: { id: string; title: string; posterFileName: string; hasSubtitles: boolean }[] = [];
+    const movies: {
+      id: string;
+      title: string;
+      releaseDate: string;
+      posterFileName: string;
+      rated: string;
+      genres: string[];
+      actors: string[];
+      runTime: number;
+      plot: string;
+    }[] = [];
 
     for (let i = 0; i < moviesRaw.length; i++) {
       const movie = moviesRaw[i];
-      const movieBasic = { id: movie.imdbId, title: movie.title!, posterFileName: movie.posterFileName!, hasSubtitles: movie.subtitles.length > 0 };
-      movies.push(movieBasic);
+      movies.push({
+        id: movie.imdbId,
+        title: movie.title!,
+        releaseDate: movie.releaseDate!,
+        posterFileName: movie.posterFileName!,
+        rated: movie.rated!,
+        genres: movie.genres,
+        actors: movie.actors,
+        runTime: movie.runTime!,
+        plot: movie.plot!,
+      });
     }
 
     return { movies };
