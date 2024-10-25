@@ -44,7 +44,7 @@
   {#if loaded}
     <div transition:fade={{ duration: 500 }}>
       {#if myListMovies.length > 0}
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 pr-2 overflow-y-auto">
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 pr-2 overflow-y-auto py-4">
           {#each myListMovies as { id, title, releaseDate, posterFileName, rated, genres, actors, runTime, plot }}
             <div class="flex items-start overflow-hidden">
               <a href={`${base}/subtitles/${id}`}>

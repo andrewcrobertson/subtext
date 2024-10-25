@@ -41,7 +41,7 @@
   {#if loaded}
     <div transition:fade={{ duration: 500 }}>
       {#if myListMovies.length > 0}
-        <div class="flex justify-between items-center py-4 px-2 md:px-4">
+        <div class="flex justify-between items-center py-4 px-2">
           <h2 class="text-white text-xl md:text-2xl lg:text-3xl font-semibold">My List</h2>
           <a href={`${base}/my-list`} class="flex items-center text-white text-xl md:text-2xl lg:text-3xl font-semibold">
             View All
@@ -55,7 +55,7 @@
         </div>
       {/if}
       {#if recentMovies.length > 0}
-        <div class="flex justify-between items-center py-4 px-2 md:px-4">
+        <div class="flex justify-between items-center py-4 px-2">
           <h2 class="text-white text-xl md:text-2xl lg:text-3xl font-semibold">Recent</h2>
           <a href={`${base}/search`} class="flex items-center text-white text-xl md:text-2xl lg:text-3xl font-semibold">
             View All
