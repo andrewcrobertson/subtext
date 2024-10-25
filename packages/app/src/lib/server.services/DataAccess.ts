@@ -1,5 +1,4 @@
 import type { Movie } from '$lib/isomorphic.types/Movie';
-import { getThreeMonthsAgo } from '$lib/isomorphic.utils/date';
 import fs from 'fs';
 import { find, first, get, isEmpty, orderBy } from 'lodash-es';
 import path from 'path';
@@ -11,7 +10,6 @@ export class DataAccess {
   public constructor(private readonly dirPath: string) {}
 
   public getIndex() {
-    const sixMonthsAgo = getThreeMonthsAgo().toISOString();
     const moviesRaw = this.getMovies();
     const movies: { id: string; title: string; posterFileName: string; hasSubtitles: boolean }[] = [];
 

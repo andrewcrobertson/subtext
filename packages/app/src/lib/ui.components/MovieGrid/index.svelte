@@ -1,14 +1,14 @@
 <script lang="ts">
   import { base } from '$app/paths';  
   import BookmarkIcon from '$lib/ui.icons/BookmarkIcon.svelte';
-  import type{ BookmarkedMovieEventDetail } from '$lib/ui.types/BookmarkedMovieEventDetail';
+  import type{ MyListEventDetail } from '$lib/ui.types/MyListEventDetail';
   import { createEventDispatcher } from 'svelte';
   export let movies: { id: string, title: string, posterFileName: string, hasSubtitles: boolean }[] = [];
 
   const dispatch = createEventDispatcher();
 
   const onPinClick = (id: string) => {
-    const eventDetail: BookmarkedMovieEventDetail = { id }
+    const eventDetail: MyListEventDetail = { id }
     dispatch('pinclick', eventDetail);
   };
 </script>
