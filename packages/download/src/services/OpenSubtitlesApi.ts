@@ -10,7 +10,6 @@ export class OpenSubtitlesApi {
     const output: SearchResponse = { imdbId, title: null, posterUrl: null, releaseDate: null, releaseYear: null, subtitles: [] };
 
     const fetchSearchRes = await this.fetchSearch(imdbId);
-
     for (let i = 0; i < fetchSearchRes.data.length; i++) {
       const data = fetchSearchRes.data[i];
       if (data.attributes.language !== 'en') continue;

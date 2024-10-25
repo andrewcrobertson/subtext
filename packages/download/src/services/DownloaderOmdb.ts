@@ -1,10 +1,10 @@
-import { SearchResponse } from '../../types/StandardDownloader';
+import { Downloader, DownloadResponse } from '../../types/Downloader';
 import { OmdbApi } from './OmdbApi';
 
-export class DownloaderOmdb {
+export class DownloaderOmdb implements Downloader {
   public constructor(private readonly omdbApi: OmdbApi) {}
 
-  public async search(imdbId: string): Promise<SearchResponse> {
+  public async download(imdbId: string): Promise<DownloadResponse> {
     try {
       const searchRes = await this.omdbApi.search(imdbId);
       return {

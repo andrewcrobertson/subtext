@@ -1,7 +1,11 @@
 import { last, split } from 'lodash';
 import { rootDir } from '../rootDir';
-import { Downloader } from '../services/Downloader';
+import { DownloaderOmdb } from '../services/DownloaderOmdb';
+import { DownloaderOpenSubtitles } from '../services/DownloaderOpenSubtitles';
+import { DownloaderOrchestrator } from '../services/DownloaderOrchestrator';
+import { DownloaderSubdl } from '../services/DownloaderSubdl';
 import { GithubApi } from '../services/GithubApi';
+import { Handler } from '../services/Handler';
 import { Logger } from '../services/Logger';
 import { OmdbApi } from '../services/OmdbApi';
 import { OpenSubtitlesApi } from '../services/OpenSubtitlesApi';
@@ -29,7 +33,12 @@ export const omdbApi = new OmdbApi(omdbApiUrlBase, omdbToken);
 export const openSubtitlesApi = new OpenSubtitlesApi(openSubtitlesApiUrlBase, openSubtitlesToken);
 export const subdlApi = new SubdlApi(subdlApiUrlBase, subdlZipUrlBase, subdlToken);
 
+export const downloaderOmdb = new DownloaderOmdb(omdbApi);
+export const downloaderOpenSubtitles = new DownloaderOpenSubtitles(openSubtitlesApi);
+export const downloaderSubdl = new DownloaderSubdl(subdlApi);
+export const downloaderOrchestrator = new DownloaderOrchestrator(downloaderOmdb, downloaderOpenSubtitles, downloaderSubdl);
+
 export const handler = (verbose: boolean) => {
   const logger = makeLogger(verbose);
-  return new Downloader(gitHubApi, omdbApi, openSubtitlesApi, subdlApi, logger);
+  return new Handler(gitHubApi, downloaderOrchestrator, logger);
 };

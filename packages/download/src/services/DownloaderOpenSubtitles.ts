@@ -1,13 +1,13 @@
-import { SearchResponse } from '../../types/StandardDownloader';
+import { Downloader, DownloadResponse } from '../../types/Downloader';
 import { OpenSubtitlesApi } from './OpenSubtitlesApi';
 
-export class DownloaderOpenSubtitles {
+export class DownloaderOpenSubtitles implements Downloader {
   public constructor(private readonly openSubtitlesApi: OpenSubtitlesApi) {}
 
-  public async search(imdbId: string): Promise<SearchResponse> {
+  public async download(imdbId: string): Promise<DownloadResponse> {
     try {
       const searchRes = await this.openSubtitlesApi.search(imdbId);
-      const output: SearchResponse = {
+      const output: DownloadResponse = {
         success: true,
         data: {
           imdbId,

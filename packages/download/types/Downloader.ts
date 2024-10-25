@@ -1,4 +1,11 @@
-export interface OmdbSearchResponseData {
+export interface DownloadResponseDataSubtitles {
+  author: string | null;
+  zipFileName: string | null;
+  subtitleFileName: string;
+  subtitleFileText: string;
+}
+
+export interface DownloadResponseData {
   imdbId: string;
   title: string | null;
   posterUrl: string | null;
@@ -9,96 +16,23 @@ export interface OmdbSearchResponseData {
   actors: string[];
   runTimeMins: number | null;
   plot: string | null;
+  subtitles: DownloadResponseDataSubtitles[];
 }
 
-export interface OmdbSearchResponseOk {
+export interface DownloadResponseOk {
   success: true;
-  data: OmdbSearchResponseData;
+  data: DownloadResponseData;
   errors: Error[];
 }
 
-export interface OmdbSearchResponseFail {
+export interface DownloadResponseFail {
   success: false;
   data: null;
   errors: Error[];
 }
 
-export type OmdbSearchResponse = OmdbSearchResponseOk | OmdbSearchResponseFail;
+export type DownloadResponse = DownloadResponseOk | DownloadResponseFail;
 
-export interface OpenSubtitlesSearchResponseData {
-  imdbId: string;
-  title: string | null;
-  posterUrl: string | null;
-  releaseDate: string | null;
-  releaseYear: number | null;
-  subtitles: {
-    author: string | null;
-    subtitleFileName: string;
-    sha: string | null;
-    subtitleFileText: string;
-  }[];
-}
-
-export interface OpenSubtitlesSearchResponseOk {
-  success: true;
-  data: OpenSubtitlesSearchResponseData;
-  errors: Error[];
-}
-
-export interface OpenSubtitlesSearchResponseFail {
-  success: false;
-  data: null;
-  errors: Error[];
-}
-
-export type OpenSubtitlesSearchResponse = OpenSubtitlesSearchResponseOk | OpenSubtitlesSearchResponseFail;
-
-export interface SubdlSearchResponseData {
-  imdbId: string;
-  title: string | null;
-  releaseDate: string | null;
-  releaseYear: number | null;
-  subtitles: {
-    author: string | null;
-    zipFileName: string;
-    subtitleFileName: string;
-    sha: string | null;
-    subtitleFileText: string;
-  }[];
-}
-
-export interface SubdlSearchResponseOk {
-  success: true;
-  data: SubdlSearchResponseData;
-  errors: Error[];
-}
-
-export interface SubdlSearchResponseFail {
-  success: false;
-  data: null;
-  errors: Error[];
-}
-
-export type SubdlSearchResponse = SubdlSearchResponseOk | SubdlSearchResponseFail;
-
-export interface ToMovieResponseSubtitle {
-  author: string | null;
-  zipFileName: string;
-  subtitleFileName: string;
-  shaFileName: string;
-}
-
-export interface ToMovieResponse {
-  imdbId: string;
-  title: string | null;
-  releaseDate: string | null;
-  releaseYear: number | null;
-  posterFileName: string | null;
-  rated: string | null;
-  genres: string[];
-  actors: string[];
-  runTime: number | null;
-  plot: string | null;
-  subtitles: ToMovieResponseSubtitle[];
-  files: Record<string, string>;
+export interface Downloader {
+  download: (imdbId: string) => Promise<DownloadResponse>;
 }

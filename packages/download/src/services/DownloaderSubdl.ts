@@ -1,13 +1,13 @@
-import { SearchResponse } from '../../types/StandardDownloader';
+import { Downloader, DownloadResponse } from '../../types/Downloader';
 import { SubdlApi } from './SubdlApi';
 
-export class DownloaderSubdl {
+export class DownloaderSubdl implements Downloader {
   public constructor(private readonly subdlApi: SubdlApi) {}
 
-  public async search(imdbId: string): Promise<SearchResponse> {
+  public async download(imdbId: string): Promise<DownloadResponse> {
     try {
       const searchRes = await this.subdlApi.search(imdbId);
-      const output: SearchResponse = {
+      const output: DownloadResponse = {
         success: true,
         data: {
           imdbId,
