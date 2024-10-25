@@ -26,10 +26,12 @@ jobs:
       - name: Install dependencies
         run: pnpm install
 
-      - name: build
+      - name: Build
         env:
+          REPO_TOKEN: ${{ secrets.REPO_TOKEN }}
           BASE_PATH: '/${{ github.event.repository.name }}'
         run: |
+          echo "PUBLIC_REPO_TOKEN=\"$REPO_TOKEN\"" > ./packages/app/.env
           pnpm run build
 
       - name: Upload Artifacts

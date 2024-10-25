@@ -53,8 +53,11 @@ jobs:
 
       - name: Build
         env:
+          REPO_TOKEN: ${{ secrets.REPO_TOKEN }}
           BASE_PATH: '/${{ github.event.repository.name }}'
-        run: pnpm run build
+        run: |
+          echo "PUBLIC_REPO_TOKEN=\"$REPO_TOKEN\"" > ./packages/app/.env
+          pnpm run build
 
       - name: Upload Artifacts
         uses: actions/upload-pages-artifact@v3
