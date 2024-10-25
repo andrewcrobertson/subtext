@@ -22,6 +22,19 @@ export class DataAccess {
     return { movies };
   }
 
+  public getMyList() {
+    const moviesRaw = this.getMovies();
+    const movies: { id: string; title: string; posterFileName: string; hasSubtitles: boolean }[] = [];
+
+    for (let i = 0; i < moviesRaw.length; i++) {
+      const movie = moviesRaw[i];
+      const movieBasic = { id: movie.imdbId, title: movie.title!, posterFileName: movie.posterFileName!, hasSubtitles: movie.subtitles.length > 0 };
+      movies.push(movieBasic);
+    }
+
+    return { movies };
+  }
+
   public getView(id: string) {
     const movies = this.getMovies();
     const movie = find(movies, (m) => m.imdbId === id)!;
