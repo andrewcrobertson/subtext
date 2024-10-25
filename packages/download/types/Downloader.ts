@@ -1,4 +1,5 @@
 export interface DownloadResponseDataSubtitles {
+  source: string;
   author: string | null;
   zipFileName: string | null;
   subtitleFileName: string;

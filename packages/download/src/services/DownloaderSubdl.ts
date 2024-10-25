@@ -30,6 +30,7 @@ export class DownloaderSubdl implements Downloader {
         output.errors.push(...subtitle.errors);
         if (subtitle.success) {
           output.data.subtitles.push({
+            source: 'Subdl',
             author: subtitle.data.author,
             zipFileName: subtitle.data.zipFileName,
             subtitleFileName: subtitle.data.subtitleFileName,

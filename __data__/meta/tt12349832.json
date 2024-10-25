@@ -5,9 +5,52 @@
   "releaseYear": 2024,
   "posterFileName": "tt12349832.jpg",
   "rated": "R",
-  "genres": ["Horror,", "Mystery,", "Thriller"],
-  "actors": ["Hunter Schafer", "Jan Bluthardt", "Marton Csokas"],
+  "genres": [],
+  "actors": [],
   "runTime": 102,
   "plot": "A 17-year-old girl is forced to move with her family to a resort where things are not what they seem.",
-  "subtitles": []
+  "subtitles": [
+    {
+      "source": "OpenSubtitles",
+      "author": "hadilan",
+      "zipFileName": null,
+      "subtitleFileName": "Cuckoo.2024.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX-en-forced.srt",
+      "shaFileName": "9984909edbab7327c7b4894e2c88a6bb0b5a039580a1c75970d19ef3472e0c33.srt"
+    },
+    {
+      "source": "OpenSubtitles",
+      "author": "hadilan",
+      "zipFileName": null,
+      "subtitleFileName": "Cuckoo.2024.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.srt",
+      "shaFileName": "5e676183c1a195b6a3af9b86b082f28f1df6bd5e1a0ee9d0351afcb758d06b43.srt"
+    },
+    {
+      "source": "OpenSubtitles",
+      "author": "hadilan",
+      "zipFileName": null,
+      "subtitleFileName": "Cuckoo.2024.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.srt",
+      "shaFileName": "3859e74c918553c089544a7f18aae558310315d9e1482032006b4b6089def404.srt"
+    },
+    {
+      "source": "OpenSubtitles",
+      "author": "os-auto",
+      "zipFileName": null,
+      "subtitleFileName": "Cuckoo.2024.2160p.AMZN.WEB-DL.DDP5.1.HDR.H.srt",
+      "shaFileName": "8914da9abb72ed06dc17804bb2ac475eb60561903919337b979cdd643a48edc2.srt"
+    },
+    {
+      "source": "OpenSubtitles",
+      "author": "os-auto",
+      "zipFileName": null,
+      "subtitleFileName": "Cuckoo.2024.REPACK.720p.WEBRip.x264.AAC-[YTS.srt",
+      "shaFileName": "7696a82cd9296e79245da0b1eb28b3db29eb279dba8e0ac48a3e965eb7452840.srt"
+    },
+    {
+      "source": "OpenSubtitles",
+      "author": "os-auto",
+      "zipFileName": null,
+      "subtitleFileName": "Cuckoo.2024.REPACK.720p.WEBRip.x264.AAC-[YTS.srt",
+      "shaFileName": "ebc45568e4257a05344da206ac6c5c0fcf5d1700f065930defe4c0ba2cf3beec.srt"
+    }
+  ]
 }

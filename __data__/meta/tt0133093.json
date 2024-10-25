@@ -5,9 +5,52 @@
   "releaseYear": 1999,
   "posterFileName": "tt0133093.jpg",
   "rated": "R",
-  "genres": ["Action,", "Sci-Fi"],
-  "actors": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"],
+  "genres": [],
+  "actors": [],
   "runTime": 136,
   "plot": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
-  "subtitles": []
+  "subtitles": [
+    {
+      "source": "OpenSubtitles",
+      "author": "shwalamazula",
+      "zipFileName": null,
+      "subtitleFileName": "The Matrix (1999) - UHD.en.srt",
+      "shaFileName": "74aadc0e15eefa66d4c513c67b360c3d420eb9a0194ba94dbd393a03e1ad5028.srt"
+    },
+    {
+      "source": "OpenSubtitles",
+      "author": "Anonymous",
+      "zipFileName": null,
+      "subtitleFileName": "The.Matrix.1999.WEB-DL.TUBI.srt",
+      "shaFileName": "bae39a010fb72d3d2f86216b32e042be79d8564bf5fec05fa35baf694102bbbf.srt"
+    },
+    {
+      "source": "OpenSubtitles",
+      "author": "Anonymous",
+      "zipFileName": null,
+      "subtitleFileName": "Rihanna - Cheers (Drink To That).srt",
+      "shaFileName": "b79f57487f3f49d6799236f5663710e16a66cd19ec2bfbc81325b00f177df4eb.srt"
+    },
+    {
+      "source": "OpenSubtitles",
+      "author": "Anonymous",
+      "zipFileName": null,
+      "subtitleFileName": "Cher Lloyd ft. Mike Posner - With Ur Love.srt",
+      "shaFileName": "03b322127411092b897333a634c0201def263bbdc971d8e36eab734e50c21a8d.srt"
+    },
+    {
+      "source": "OpenSubtitles",
+      "author": "Anonymous",
+      "zipFileName": null,
+      "subtitleFileName": "Katy Perry ft. Kanye West - E.T.srt",
+      "shaFileName": "b2fa9e91cbfb2547445ed614be5165c62f66ba9a1444a3dd936d43da6574c41c.srt"
+    },
+    {
+      "source": "OpenSubtitles",
+      "author": "Anonymous",
+      "zipFileName": null,
+      "subtitleFileName": "the lonely island I Just Had Sex (feat. Akon)_x264_sujaidr.srt",
+      "shaFileName": "2a5fdbd43a8275615ad0d782bc163159b98b2d244fe806608f61d0943f82bc23.srt"
+    }
+  ]
 }

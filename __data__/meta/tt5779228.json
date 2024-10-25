@@ -5,9 +5,31 @@
   "releaseYear": 2024,
   "posterFileName": "tt5779228.jpg",
   "rated": "PG",
-  "genres": ["Animation,", "Adventure,", "Comedy"],
-  "actors": ["Chris Pratt", "Samuel L. Jackson", "Hannah Waddingham"],
+  "genres": [],
+  "actors": [],
   "runTime": 101,
   "plot": "After Garfield's unexpected reunion with his long-lost father, ragged alley cat Vic, he and his canine friend Odie are forced from their perfectly pampered lives to join Vic on a risky heist.",
-  "subtitles": []
+  "subtitles": [
+    {
+      "source": "OpenSubtitles",
+      "author": "Anonymous",
+      "zipFileName": null,
+      "subtitleFileName": "The.Garfield.Movie.2024.2160p.4K.WEB.x265.10bit.AAC5.1-[YTS.MX].en-HI.srt",
+      "shaFileName": "f44c53f6ee9ce963d65f720f07fc6b84084e8fb601e7d4a57b2a63062823ac8b.srt"
+    },
+    {
+      "source": "OpenSubtitles",
+      "author": "Anonymous",
+      "zipFileName": null,
+      "subtitleFileName": "The.Garfield.Movie.2024.BDRip.x264-KNiVES.srt",
+      "shaFileName": "9d462f85443a5871348a67c183e5c627c3e8fdbad5ac0e0659c05043a9f482d7.srt"
+    },
+    {
+      "source": "OpenSubtitles",
+      "author": "tedi",
+      "zipFileName": null,
+      "subtitleFileName": "The.Garfield.Movie.2024.BluRay.x264.AAC5.1-[YTS.MX].en[sdh].srt",
+      "shaFileName": "7dab59d84ac78494bf8eb7fbc18371e9277ced150368ea277cae4c0fd828ae56.srt"
+    }
+  ]
 }

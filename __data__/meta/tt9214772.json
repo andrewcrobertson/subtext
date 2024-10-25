@@ -5,9 +5,17 @@
   "releaseYear": 2024,
   "posterFileName": "tt9214772.jpg",
   "rated": "R",
-  "genres": ["Action,", "Crime,", "Thriller"],
-  "actors": ["Dev Patel", "Sharlto Copley", "Pitobash"],
+  "genres": [],
+  "actors": [],
   "runTime": 121,
   "plot": "An anonymous young man unleashes a campaign of vengeance against the corrupt leaders who murdered his mother and continue to systematically victimize the poor and powerless.",
-  "subtitles": []
+  "subtitles": [
+    {
+      "source": "OpenSubtitles",
+      "author": "Anonymous",
+      "zipFileName": null,
+      "subtitleFileName": "Monkey.Man.2024.1080p.10bit.BluRay.8CH.x265.HEVC-PSA.srt",
+      "shaFileName": "e6fad12cd0be4f92e13c904a33ea6bcc47dc0c5c533603d57fc0e4457bfa8714.srt"
+    }
+  ]
 }

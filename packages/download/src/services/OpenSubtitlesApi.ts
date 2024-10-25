@@ -41,8 +41,10 @@ export class OpenSubtitlesApi {
 
   private async fetchSearch(imdbId: string): Promise<ApiSearchResponse> {
     const url = `${this.apiUrlBase}/subtitles?imdb_id=${imdbId}`;
+    const headers = { Accept: 'application/json', 'Api-Key': this.apiKey, 'Content-Type': 'application/json', 'User-Agent': 'SubText v0' };
+
     try {
-      const response = await fetch(url);
+      const response = await fetch(url, { headers });
       if (!response.ok) throw new Error(`OpenSubtitles: fetch '${url}' returned status '${response.status}'`);
 
       const data = (await response.json()) as ApiSearchResponse;

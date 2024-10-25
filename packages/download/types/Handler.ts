@@ -82,6 +82,7 @@ export interface SubdlSearchResponseFail {
 export type SubdlSearchResponse = SubdlSearchResponseOk | SubdlSearchResponseFail;
 
 export interface ToMovieResponseSubtitle {
+  source: string;
   author: string | null;
   zipFileName: string | null;
   subtitleFileName: string;

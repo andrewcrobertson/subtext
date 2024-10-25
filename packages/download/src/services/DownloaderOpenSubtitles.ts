@@ -30,6 +30,7 @@ export class DownloaderOpenSubtitles implements Downloader {
         output.errors.push(...subtitle.errors);
         if (subtitle.success) {
           output.data.subtitles.push({
+            source: 'OpenSubtitles',
             author: subtitle.data.author,
             zipFileName: null,
             subtitleFileName: subtitle.data.subtitleFileName,

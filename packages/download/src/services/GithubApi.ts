@@ -14,7 +14,7 @@ export class GithubApi {
   }
 
   public async getOpenIssues(label: string) {
-    const issuesRaw: any = await this.get(`/issues?state=open&labels=${label}`);
+    const issuesRaw: any = await this.get(`/issues?state=closed&labels=${label}`);
     const issues = chain(issuesRaw)
       .filter((i: any) => startsWith(i.title, titlePrefix))
       .map((i: any) => ({ gitHubIssueNumber: i.number, imdbId: trim(i.title.substring(titlePrefix.length)) }))

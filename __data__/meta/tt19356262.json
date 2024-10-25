@@ -5,9 +5,31 @@
   "releaseYear": 2024,
   "posterFileName": "tt19356262.jpg",
   "rated": "R",
-  "genres": ["Action,", "Comedy,", "Thriller"],
-  "actors": ["Margaret Qualley", "Geraldine Viswanathan", "Beanie Feldstein"],
+  "genres": [],
+  "actors": [],
   "runTime": 84,
   "plot": "Jamie regrets her breakup with her girlfriend, while Marian needs to relax. In search of a fresh start, they embark on an unexpected road trip to Tallahassee. Things quickly go awry when they cross paths with a group of inept crim...",
-  "subtitles": []
+  "subtitles": [
+    {
+      "source": "OpenSubtitles",
+      "author": "os-auto",
+      "zipFileName": null,
+      "subtitleFileName": "Drive-Away Dolls 2024 1080p Blu-ray Remux AVC TrueHD 7.1-HDT.srt",
+      "shaFileName": "a625a3d292b7ce55a8fede85095bd67a58570424543afb1d8515ed2637a6e7f9.srt"
+    },
+    {
+      "source": "OpenSubtitles",
+      "author": "os-auto",
+      "zipFileName": null,
+      "subtitleFileName": "Drive-Away.Dolls.2024.720p.BluRay.x264.AAC-[YTS.MX].srt",
+      "shaFileName": "956e60a9b5d477ffac2d5d701a9ae43ac286df8f17e4c52ab8061c20f441c881.srt"
+    },
+    {
+      "source": "OpenSubtitles",
+      "author": "os-auto",
+      "zipFileName": null,
+      "subtitleFileName": "Drive-Away.Dolls.2024.720p.BluRay.x264.AAC-[YTS.MX].srt",
+      "shaFileName": "b9a77fec7a940c7769c8ab69928bc1d89fc5b4e5b99641e5d240f3af10a13f7e.srt"
+    }
+  ]
 }

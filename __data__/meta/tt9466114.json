@@ -5,9 +5,17 @@
   "releaseYear": 2024,
   "posterFileName": "tt9466114.jpg",
   "rated": "R",
-  "genres": ["Comedy,", "Drama,", "Romance"],
-  "actors": ["Anne Hathaway", "Nicholas Galitzine", "Ella Rubin"],
+  "genres": [],
+  "actors": [],
   "runTime": 115,
   "plot": "Solène, a 40-year-old single mom, begins an unexpected romance with 24-year-old Hayes Campbell, the lead singer of August Moon, the hottest boy band on the planet.",
-  "subtitles": []
+  "subtitles": [
+    {
+      "source": "OpenSubtitles",
+      "author": "dreamer1800",
+      "zipFileName": null,
+      "subtitleFileName": "The.Idea.Of.You.2024.720p.WEBRip.x264.AAC-[YTS.MX].srt",
+      "shaFileName": "10b3e2337357cff82b7997cc57e42aa45abf0fccd130d59ded777e689b33b035.srt"
+    }
+  ]
 }
