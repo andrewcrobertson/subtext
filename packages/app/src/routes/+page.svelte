@@ -2,7 +2,7 @@
   import { base } from '$app/paths';
   import Header from '$lib/ui.components/Header';
   import TransitionWhenLoaded from '$lib/ui.components/TransitionWhenLoaded';
-  import { myListManager } from '$lib/ui.composition/_myListManager';
+  import { myListManager } from '$lib/ui.composition/myListManager';
   import { onMount } from 'svelte';
   import type { PageData } from './$types';
   import { includes } from 'lodash-es';

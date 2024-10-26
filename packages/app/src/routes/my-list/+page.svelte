@@ -1,7 +1,7 @@
 <script lang="ts">
   import ArrowLeftIcon from '$lib/ui.icons/ArrowLeftIcon.svelte';
   import TransitionWhenLoaded from '$lib/ui.components/TransitionWhenLoaded';
-  import { myListManager } from '$lib/ui.composition/_myListManager';
+  import { myListManager } from '$lib/ui.composition/myListManager';
   import type { MyListEventDetail } from '$lib/ui.types/MyListEventDetail';
   import { onMount } from 'svelte';
   import type { PageData } from './$types';

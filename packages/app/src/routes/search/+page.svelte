@@ -2,7 +2,7 @@
   import { base } from '$app/paths';
   import ArrowLeftIcon from '$lib/ui.icons/ArrowLeftIcon.svelte';
   import TransitionWhenLoaded from '$lib/ui.components/TransitionWhenLoaded';
-  import { myListManager } from '$lib/ui.composition/_myListManager';
+  import { myListManager } from '$lib/ui.composition/myListManager';
   import type { MyListEventDetail } from '$lib/ui.types/MyListEventDetail';
   import { includes, findIndex } from 'lodash-es';
   import { onMount } from 'svelte';
