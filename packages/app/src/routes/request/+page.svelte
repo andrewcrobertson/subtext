@@ -1,15 +1,18 @@
 <script lang="ts">
+  import { base } from '$app/paths';
   import ArrowLeftIcon from '$lib/ui.icons/ArrowLeftIcon.svelte';
   import { gitHubService } from '$lib/ui.composition/gitHubService';
   import { writable } from 'svelte/store';
+  import { goto } from '$app/navigation';
 
   const id = writable('');
 
   const onBackClick = ({}: MouseEvent) => history.back();
 
   const handleSubmit = async (event: SubmitEvent) => {
-    event.preventDefault();
-    await gitHubService.submitIssie($id);
+    const submitIssueRes = await gitHubService.submitIssue($id);
+    const link = base + (submitIssueRes ? '/request/ok' : '/request/err');
+    goto(link, { replaceState: true });
   };
 </script>
 
@@ -21,8 +24,8 @@
   </div>
 </div>
 <div class="mt-16"></div>
-<div class="p-4 text-white text-xl mx-auto max-w-screen-md">
-  <div class="pb-10">
+<div class="p-4 text-xl mx-auto max-w-screen-md">
+  <div class="pb-10 text-white">
     <p class="pb-4">To request subtitles for a movie, submit the movie's IMDb id below.</p>
     <p>Here is some information on IMDb ids:</p>
     <ul class="list-inside list-disc">
@@ -30,9 +33,8 @@
       <li>Google search "<a class="font-bold text-yellow-500" href="https://www.google.com/search?q=how+to+find+an+IMDb+id">how to find an IMDb id</a>".</li>
     </ul>
   </div>
-
-  <form on:submit={handleSubmit}>
-    <input type="text" class="h-8 p-2" />
-    <button type="submit">Submit</button>
+  <form on:submit|preventDefault={handleSubmit}>
+    <input type="text" class="h-8 p-2" bind:value={$id} />
+    <button class="text-white" type="submit">Submit</button>
   </form>
 </div>

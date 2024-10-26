@@ -7,7 +7,7 @@ export class GitHubService {
     private readonly myIdService: MyIdService
   ) {}
 
-  public async submitIssie(imdbId: string) {
+  public async submitIssue(imdbId: string) {
     try {
       const myId = await this.myIdService.getId();
       const lines = [`:id: ${myId}`, ':robot: This issue is automated.', ":pray: Please don't edit this issue."];
@@ -18,6 +18,8 @@ export class GitHubService {
         headers: { Authorization: `token ${this.token}`, Accept: 'application/vnd.github+json', 'Content-Type': 'application/json' },
         body: JSON.stringify(issueData),
       });
+
+      return response.ok;
     } catch {}
 
     return false;
