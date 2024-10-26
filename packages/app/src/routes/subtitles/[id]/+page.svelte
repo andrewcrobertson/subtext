@@ -89,7 +89,7 @@
   });
 </script>
 
-<svelte:window on:mousemove|stopPropagation={onInteraction} on:click|stopPropagation={onInteraction} />
+<svelte:window on:mousemove|preventDefault|stopPropagation={onInteraction} on:click|preventDefault|stopPropagation={onInteraction} />
 
 <div class="flex items-center justify-center h-screen">
   <p
