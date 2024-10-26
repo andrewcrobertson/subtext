@@ -28,6 +28,8 @@ export class DownloaderOrchestrator implements T.Downloader {
           releaseYear: null,
           rated: null,
           genres: [],
+          directors: [],
+          writers: [],
           actors: [],
           runTimeMins: null,
           plot: null,
@@ -46,6 +48,8 @@ export class DownloaderOrchestrator implements T.Downloader {
           output.data.releaseYear = output.data.releaseYear ?? downloadRes.data.releaseYear ?? null;
           output.data.rated = output.data.rated ?? downloadRes.data.rated ?? null;
           output.data.genres = output.data.genres.length === 0 ? downloadRes.data.genres : output.data.genres;
+          output.data.directors = output.data.directors.length === 0 ? downloadRes.data.directors : output.data.directors;
+          output.data.writers = output.data.writers.length === 0 ? downloadRes.data.writers : output.data.writers;
           output.data.actors = output.data.actors.length === 0 ? downloadRes.data.actors : output.data.actors;
           output.data.runTimeMins = output.data.runTimeMins ?? downloadRes.data.runTimeMins ?? null;
           output.data.plot = output.data.plot ?? downloadRes.data.plot ?? null;
