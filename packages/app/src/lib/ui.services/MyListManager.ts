@@ -41,6 +41,7 @@ export class MyListManager {
   }
 
   private hasLocalStorage() {
-    return global !== undefined && global.localStorage !== undefined;
+    const isBrowser = typeof window !== 'undefined';
+    return isBrowser && global !== undefined && global.localStorage !== undefined;
   }
 }
