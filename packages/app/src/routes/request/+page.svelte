@@ -35,7 +35,7 @@
 <div class="p-4 text-xl mx-auto max-w-screen-md">
   <div class="pb-10 text-white">
     <p class="pb-4">
-      To request subtitles for a movie, <a class="font-bold text-yellow-500" href="https://www.imdb.com/find/?q={query}&s=tt&ref_=subtext"
+      To request subtitles for a movie, <a class="font-bold text-yellow-500" href="https://www.imdb.com/find/?q={query}&s=tt&ttype=ft&ref_=subtext"
         >search for the movie in IMDb</a
       > and submit it's url or id below.
     </p>
