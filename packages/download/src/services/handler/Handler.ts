@@ -7,7 +7,7 @@ import { isError, join, map, toPairs } from 'lodash';
 import path from 'path';
 import { pipeline } from 'stream';
 import { promisify } from 'util';
-import type { RunInput, ToMovieResponse } from './Handler.types';
+import type * as T from './Handler.types';
 
 export class Handler {
   public constructor(
@@ -16,7 +16,7 @@ export class Handler {
     private readonly logger: Logger
   ) {}
 
-  public async run({ metaDir, subtitleDir, posterDir }: RunInput) {
+  public async run({ metaDir, subtitleDir, posterDir }: T.RunInput) {
     fs.mkdirSync(metaDir, { recursive: true });
     fs.mkdirSync(subtitleDir, { recursive: true });
     fs.mkdirSync(posterDir, { recursive: true });
@@ -110,8 +110,8 @@ export class Handler {
     this.logger.infoClosedGitHubIssues();
   }
 
-  private toMovie(imdbId: string, data: DownloadResponseData): ToMovieResponse {
-    const output: ToMovieResponse = {
+  private toMovie(imdbId: string, data: DownloadResponseData): T.ToMovieResponse {
+    const output: T.ToMovieResponse = {
       imdbId,
       title: data.title,
       releaseDate: data.releaseDate,

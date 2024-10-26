@@ -1,16 +1,16 @@
 import type { DownloaderOmdb } from '$services/omdb/DownloaderOmdb';
 import type { DownloaderOpenSubtitles } from '$services/openSubtitles/DownloaderOpenSubtitles';
 import type { DownloaderSubdl } from '$services/subdl/DownloaderSubdl';
-import type { Downloader, DownloadResponse } from './Downloader.types';
+import type * as T from './Downloader.types';
 
-export class DownloaderOrchestrator implements Downloader {
+export class DownloaderOrchestrator implements T.Downloader {
   public constructor(
     private readonly downloaderOmdb: DownloaderOmdb,
     private readonly downloaderOpenSubtitles: DownloaderOpenSubtitles,
     private readonly downloaderSubdl: DownloaderSubdl
   ) {}
 
-  public async download(imdbId: string): Promise<DownloadResponse> {
+  public async download(imdbId: string): Promise<T.DownloadResponse> {
     try {
       const downloadResList = await Promise.all([
         this.downloaderOmdb.download(imdbId),
@@ -18,7 +18,7 @@ export class DownloaderOrchestrator implements Downloader {
         this.downloaderSubdl.download(imdbId),
       ]);
 
-      const output: DownloadResponse = {
+      const output: T.DownloadResponse = {
         success: true,
         data: {
           imdbId,

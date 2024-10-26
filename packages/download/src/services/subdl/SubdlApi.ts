@@ -1,7 +1,7 @@
 import AdmZip from 'adm-zip';
 import { toPairs } from 'lodash';
 import path from 'path';
-import type { ApiSearchResponse, SearchResponse } from './SubdlApi.types';
+import type * as T from './SubdlApi.types';
 
 export class SubdlApi {
   public constructor(
@@ -10,8 +10,8 @@ export class SubdlApi {
     private readonly apiKey: string
   ) {}
 
-  public async search(imdbId: string): Promise<SearchResponse> {
-    const output: SearchResponse = { imdbId, title: null, releaseDate: null, releaseYear: null, subtitles: [] };
+  public async search(imdbId: string): Promise<T.SearchResponse> {
+    const output: T.SearchResponse = { imdbId, title: null, releaseDate: null, releaseYear: null, subtitles: [] };
 
     const fetchSearchRes = await this.fetchSearch(imdbId);
 
@@ -44,7 +44,7 @@ export class SubdlApi {
     return output;
   }
 
-  private async fetchSearch(imdbId: string): Promise<ApiSearchResponse> {
+  private async fetchSearch(imdbId: string): Promise<T.ApiSearchResponse> {
     const logUrl = `${this.apiUrlBase}?imdb_id=${imdbId}&type=movie&languages=EN&api_key=*****`;
 
     try {
@@ -52,7 +52,7 @@ export class SubdlApi {
       const response = await fetch(url);
       if (!response.ok) throw new Error(`Subdl: fetch '${logUrl}' returned status '${response.status}'`);
 
-      const data = (await response.json()) as ApiSearchResponse;
+      const data = (await response.json()) as T.ApiSearchResponse;
       if (!data.status) throw new Error(`Subdl: fetch '${logUrl}' returned status 'false'`);
 
       return data;

@@ -1,5 +1,5 @@
 import { endsWith, map, parseInt, split, trim } from 'lodash';
-import type { ApiSearchResponse, SearchResponse } from './OmdbApi.types';
+import type * as T from './OmdbApi.types';
 
 export class OmdbApi {
   public constructor(
@@ -7,7 +7,7 @@ export class OmdbApi {
     private readonly apiKey: string
   ) {}
 
-  public async search(imdbId: string): Promise<SearchResponse> {
+  public async search(imdbId: string): Promise<T.SearchResponse> {
     const fetchSearchRes = await this.fetchSearch(imdbId);
 
     const output = {
@@ -33,7 +33,7 @@ export class OmdbApi {
       const response = await fetch(url);
       if (!response.ok) throw new Error(`Omdb: fetch '${logUrl}' returned status '${response.status}'`);
 
-      const data = (await response.json()) as ApiSearchResponse;
+      const data = (await response.json()) as T.ApiSearchResponse;
       return data;
     } catch (cause) {
       throw new Error(`Omdb: fetch '${logUrl}' failed`, { cause });

@@ -1,4 +1,4 @@
-import { ApiSearchResponse, ApiUrlResponse, SearchResponse } from './OpenSubtitlesApi.types';
+import * as T from './OpenSubtitlesApi.types';
 
 export class OpenSubtitlesApi {
   public constructor(
@@ -6,8 +6,8 @@ export class OpenSubtitlesApi {
     private readonly apiKey: string
   ) {}
 
-  public async search(imdbId: string): Promise<SearchResponse> {
-    const output: SearchResponse = { imdbId, title: null, posterUrl: null, releaseDate: null, releaseYear: null, subtitles: [] };
+  public async search(imdbId: string): Promise<T.SearchResponse> {
+    const output: T.SearchResponse = { imdbId, title: null, posterUrl: null, releaseDate: null, releaseYear: null, subtitles: [] };
 
     const fetchSearchRes = await this.fetchSearch(imdbId);
     for (let i = 0; i < fetchSearchRes.data.length; i++) {
@@ -39,7 +39,7 @@ export class OpenSubtitlesApi {
     return output;
   }
 
-  private async fetchSearch(imdbId: string): Promise<ApiSearchResponse> {
+  private async fetchSearch(imdbId: string): Promise<T.ApiSearchResponse> {
     const url = `${this.apiUrlBase}/subtitles?imdb_id=${imdbId}`;
     const headers = { Accept: 'application/json', 'Api-Key': this.apiKey, 'Content-Type': 'application/json', 'User-Agent': 'SubText v0' };
 
@@ -47,14 +47,14 @@ export class OpenSubtitlesApi {
       const response = await fetch(url, { headers });
       if (!response.ok) throw new Error(`OpenSubtitles: fetch '${url}' returned status '${response.status}'`);
 
-      const data = (await response.json()) as ApiSearchResponse;
+      const data = (await response.json()) as T.ApiSearchResponse;
       return data;
     } catch (cause) {
       throw new Error(`OpenSubtitles: fetch '${url}' failed`, { cause });
     }
   }
 
-  private async fetchUrl(fileId: number): Promise<ApiUrlResponse> {
+  private async fetchUrl(fileId: number): Promise<T.ApiUrlResponse> {
     const url = `${this.apiUrlBase}/download`;
     const body = { file_id: fileId, sub_format: 'srt' };
     const headers = { Accept: 'application/json', 'Api-Key': this.apiKey, 'Content-Type': 'application/json', 'User-Agent': 'SubText v0' };
@@ -63,7 +63,7 @@ export class OpenSubtitlesApi {
       const response = await fetch(url, { method: 'POST', headers, body: JSON.stringify(body) });
       if (!response.ok) throw new Error(`OpenSubtitles: fetch '${url}' returned status '${response.status}'`);
 
-      const data = (await response.json()) as ApiUrlResponse;
+      const data = (await response.json()) as T.ApiUrlResponse;
       return data;
     } catch (cause) {
       throw new Error(`OpenSubtitles: fetch '${url}' failed`, { cause });
