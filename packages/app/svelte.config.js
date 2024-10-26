@@ -21,7 +21,7 @@ const config = {
       base: process.argv.includes('dev') ? '' : process.env.BASE_PATH,
     },
     prerender: {
-      entries: ['/', '/my-list', '/request', '/search', ...movieIds.map((id) => `/subtitles/${id}`)],
+      entries: ['/', '/my-list', '/request', '/request/err', '/request/ok', '/search', ...movieIds.map((id) => `/subtitles/${id}`)],
     },
   },
 };
