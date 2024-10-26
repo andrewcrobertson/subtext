@@ -25,15 +25,18 @@ export class MyListManager {
   }
 
   public clear(): void {
-    localStorage.removeItem(this.storageKey);
+    if (global.localStorage === undefined) return;
+    global.localStorage.removeItem(this.storageKey);
   }
 
   private getFromStorage(): string[] {
-    const BookmarkedMovies = localStorage.getItem(this.storageKey);
+    if (global.localStorage === undefined) return [];
+    const BookmarkedMovies = global.localStorage.getItem(this.storageKey);
     return BookmarkedMovies ? JSON.parse(BookmarkedMovies) : [];
   }
 
   private saveToStorage(movies: string[]): void {
-    localStorage.setItem(this.storageKey, JSON.stringify(movies));
+    if (global.localStorage === undefined) return;
+    global.localStorage.setItem(this.storageKey, JSON.stringify(movies));
   }
 }
