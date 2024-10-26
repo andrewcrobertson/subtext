@@ -1,7 +1,7 @@
 <script lang="ts">
   import { base } from '$app/paths';
   import Header from '$lib/ui.components/Header';
-  import TransitionLoad from '$lib/ui.components/TransitionLoad';
+  import TransitionWhenLoaded from '$lib/ui.components/TransitionWhenLoaded';
   import { MyListManager } from '$lib/ui.services/MyListManager';
   import { onMount } from 'svelte';
   import type { PageData } from './$types';
@@ -38,7 +38,7 @@
 
 <Header class="fixed top-0 left-0 right-0" />
 <div class="mt-16"></div>
-<TransitionLoad {loaded}>
+<TransitionWhenLoaded {loaded}>
   {#if myListMovies.length > 0}
     <div class="flex justify-between items-center py-4 px-2">
       <h2 class="text-white text-xl md:text-2xl lg:text-3xl font-semibold">My List</h2>
@@ -67,4 +67,4 @@
       {/each}
     </div>
   {/if}
-</TransitionLoad>
+</TransitionWhenLoaded>

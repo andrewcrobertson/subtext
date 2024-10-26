@@ -1,8 +1,7 @@
 <script lang="ts">
   let _class = '';
-  import { base } from '$app/paths';
   import ChatBubbleLeftRightIcon from '$lib/ui.icons/ChatBubbleLeftRightIcon.svelte';
-  import QuestionMarkCircleIcon from '$lib/ui.icons/QuestionMarkCircleIcon.svelte';
+  import CursorArrowRippleIcon from '$lib/ui.icons/CursorArrowRippleIcon.svelte';
   import { onMount } from 'svelte';
   import { twMerge } from 'tailwind-merge';
   export { _class as class };
@@ -24,7 +23,9 @@
     <ChatBubbleLeftRightIcon class="text-yellow-500 size-8 mr-2" />
     <p class="font-bold text-xl text-yellow-500">SubText</p>
   </div>
-  <a href={`${base}/help`} class="text-white text-xl md:text-2xl lg:text-3xl font-semibold">
-    <QuestionMarkCircleIcon class="text-white size-8" />
-  </a>
+  {#if canInstall}
+    <button class="btn btn-square text-white transition transform hover:scale-150" on:click={handleInstallClick}>
+      <CursorArrowRippleIcon class="text-yellow-500 size-8 mr-2" />
+    </button>
+  {/if}
 </div>

@@ -1,6 +1,6 @@
 <script lang="ts">
   import ArrowLeftIcon from '$lib/ui.icons/ArrowLeftIcon.svelte';
-  import TransitionLoad from '$lib/ui.components/TransitionLoad';
+  import TransitionWhenLoaded from '$lib/ui.components/TransitionWhenLoaded';
   import { MyListManager } from '$lib/ui.services/MyListManager';
   import type { MyListEventDetail } from '$lib/ui.types/MyListEventDetail';
   import { includes, findIndex } from 'lodash-es';
@@ -56,10 +56,10 @@
   </div>
 </div>
 <div class="mt-16"></div>
-<TransitionLoad {loaded}>
+<TransitionWhenLoaded {loaded}>
   {#if filteredMovies.length > 0}
     <MovieDetailPanelGrid movies={filteredMovies} on:addclick={handleAddClick} on:removeclick={handleRemoveClick} />
   {:else}
     <p class="text-white text-center mt-4">No movies found.</p>
   {/if}
-</TransitionLoad>
+</TransitionWhenLoaded>
