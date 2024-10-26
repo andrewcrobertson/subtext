@@ -1,16 +1,19 @@
 <script lang="ts">
   import ArrowLeftIcon from '$lib/ui.icons/ArrowLeftIcon.svelte';
-  import MovieDetailPanel from '$lib/ui.components/MovieDetailPanel';
   import TransitionLoad from '$lib/ui.components/TransitionLoad';
   import { MyListManager } from '$lib/ui.services/MyListManager';
   import type { MyListEventDetail } from '$lib/ui.types/MyListEventDetail';
   import { includes, findIndex } from 'lodash-es';
   import { onMount } from 'svelte';
   import type { PageData } from './$types';
+  import MagnifyingGlassIcon from '$lib/ui.icons/MagnifyingGlassIcon.svelte';
+  import MovieDetailPanelGrid from '$lib/ui.components/MovieDetailPanelGrid';
+
   export let data: PageData;
 
   let movies: any[] = [];
   let loaded = false;
+  let searchQuery = ''; // New variable for search input
   const myListManager = new MyListManager();
 
   const handleBackClick = ({}: MouseEvent) => history.back();
@@ -40,22 +43,24 @@
     movies = tempMovies;
     loaded = true;
   });
+
+  $: filteredMovies = movies.filter((movie) => movie.title.toLowerCase().includes(searchQuery.toLowerCase()));
 </script>
 
-<div class="fixed top-0 left-0 right-0 flex items-center justify-between text-white p-2 z-10 bg-black bg-opacity-70 border-b-2 border-yellow-500">
-  <div class="flex space-x-2">
-    <button class="btn btn-square text-white" on:click={handleBackClick}>
-      <ArrowLeftIcon class="size-8" />
-    </button>
+<div class="fixed top-0 left-0 right-0 flex items-center justify-between p-2 z-10 bg-black bg-opacity-70 border-b-2 border-yellow-500">
+  <button class="btn btn-square text-white" on:click={handleBackClick}>
+    <ArrowLeftIcon class="size-8" />
+  </button>
+  <div class="flex items-center">
+    <MagnifyingGlassIcon class="text-white size-8 mr-1" />
+    <input type="text" class="h-8 p-2" bind:value={searchQuery} />
   </div>
 </div>
 <div class="mt-16"></div>
 <TransitionLoad {loaded}>
-  {#if movies.length > 0}
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 pr-2 overflow-y-auto py-4">
-      {#each movies as movie}
-        <MovieDetailPanel {movie} on:addclick={handleAddClick} on:removeclick={handleRemoveClick} />
-      {/each}
-    </div>
+  {#if filteredMovies.length > 0}
+    <MovieDetailPanelGrid movies={filteredMovies} on:addclick={handleAddClick} on:removeclick={handleRemoveClick} />
+  {:else}
+    <p class="text-white text-center mt-4">No movies found.</p>
   {/if}
 </TransitionLoad>
