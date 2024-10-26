@@ -1,16 +1,16 @@
+import { DownloaderOmdb } from '$services/DownloaderOmdb';
+import { DownloaderOpenSubtitles } from '$services/DownloaderOpenSubtitles';
+import { DownloaderOrchestrator } from '$services/DownloaderOrchestrator';
+import { DownloaderSubdl } from '$services/DownloaderSubdl';
+import { GithubApi } from '$services/GithubApi';
+import { Handler } from '$services/Handler';
+import { Logger } from '$services/Logger';
+import { OmdbApi } from '$services/OmdbApi';
+import { OpenSubtitlesApi } from '$services/OpenSubtitlesApi';
+import { SubdlApi } from '$services/SubdlApi';
+import { getPkgMeta } from '$utils/getPkgMeta';
 import { last, split } from 'lodash';
 import { rootDir } from '../rootDir';
-import { DownloaderOmdb } from '../services/DownloaderOmdb';
-import { DownloaderOpenSubtitles } from '../services/DownloaderOpenSubtitles';
-import { DownloaderOrchestrator } from '../services/DownloaderOrchestrator';
-import { DownloaderSubdl } from '../services/DownloaderSubdl';
-import { GithubApi } from '../services/GithubApi';
-import { Handler } from '../services/Handler';
-import { Logger } from '../services/Logger';
-import { OmdbApi } from '../services/OmdbApi';
-import { OpenSubtitlesApi } from '../services/OpenSubtitlesApi';
-import { SubdlApi } from '../services/SubdlApi';
-import { getPkgMeta } from '../utils/getPkgMeta';
 import { config } from './config';
 
 const pkgMeta = getPkgMeta(rootDir);

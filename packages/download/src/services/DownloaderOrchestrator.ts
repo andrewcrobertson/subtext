@@ -1,4 +1,4 @@
-import { Downloader, DownloadResponse } from '../../types/Downloader';
+import { Downloader, DownloadResponse } from './Downloader.types';
 import { DownloaderOmdb } from './DownloaderOmdb';
 import { DownloaderOpenSubtitles } from './DownloaderOpenSubtitles';
 import { DownloaderSubdl } from './DownloaderSubdl';

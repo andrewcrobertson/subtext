@@ -1,4 +1,4 @@
-import { Downloader, DownloadResponse } from '../../types/Downloader';
+import { Downloader, DownloadResponse } from './Downloader.types';
 import { OpenSubtitlesApi } from './OpenSubtitlesApi';
 
 export class DownloaderOpenSubtitles implements Downloader {

@@ -1,5 +1,5 @@
 import { endsWith, map, parseInt, split, trim } from 'lodash';
-import type { ApiSearchResponse, SearchResponse } from '../../types/OmdbApi';
+import type { ApiSearchResponse, SearchResponse } from './OmdbApi.types';
 
 export class OmdbApi {
   public constructor(

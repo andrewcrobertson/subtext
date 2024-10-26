@@ -1,7 +1,7 @@
+import { handler } from '$composition/services';
+import * as strings from '$constants/strings';
 import yargs from 'yargs';
 import { hideBin } from 'yargs/helpers';
-import { handler } from './composition/services';
-import * as strings from './constants/strings';
 
 Promise.resolve()
   .then(() =>

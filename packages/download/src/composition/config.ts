@@ -1,5 +1,5 @@
-import { Config } from '../../types/Config';
-import { environment } from '../config/environment';
+import { environment } from '$config/environment';
+import { Config } from './config.types';
 
 export const config: Config = {
   gitHub: {

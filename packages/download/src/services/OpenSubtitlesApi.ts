@@ -1,4 +1,4 @@
-import { ApiSearchResponse, ApiUrlResponse, SearchResponse } from '../../types/OpenSubtitlesApi';
+import { ApiSearchResponse, ApiUrlResponse, SearchResponse } from './OpenSubtitlesApi.types';
 
 export class OpenSubtitlesApi {
   public constructor(

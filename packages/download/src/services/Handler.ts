@@ -4,9 +4,9 @@ import { isError, join, map, toPairs } from 'lodash';
 import path from 'path';
 import { pipeline } from 'stream';
 import { promisify } from 'util';
-import { Downloader, DownloadResponseData } from '../../types/Downloader';
-import { ToMovieResponse } from '../../types/Handler';
+import { Downloader, DownloadResponseData } from './Downloader.types';
 import { GithubApi } from './GithubApi';
+import { ToMovieResponse } from './Handler.types';
 import type { Logger } from './Logger';
 
 export class Handler {

@@ -1,7 +1,7 @@
+import { ensureForwardSlash } from '$utils/ensureForwardSlash';
 import { blue, cyan, green, magenta, red, yellow } from 'colorette';
 import { join, map } from 'lodash';
 import path from 'path';
-import { ensureForwardSlash } from '../utils/ensureForwardSlash';
 
 const quote = (value: string) => `'${value}'`;
 
