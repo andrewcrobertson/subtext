@@ -9,15 +9,33 @@
   import type { PageData } from './$types';
   import MagnifyingGlassIcon from '$lib/ui.icons/MagnifyingGlassIcon.svelte';
   import MovieDetailPanelGrid from '$lib/ui.components/MovieDetailPanelGrid';
-
+  import type { Movie } from '$lib/ui.components/MovieDetailPanelGrid/types';
   export let data: PageData;
 
-  let recentMovies: any[] = [];
+  let recentMovies: Movie[] = [];
   let loaded = false;
   const showNMovies = 10;
 
   let searchQuery = '';
-  $: filteredMovies = data.movies.filter((movie) => movie.title.toLowerCase().includes(searchQuery.toLowerCase()));
+  $: filteredMovies = getFilteredMovies(searchQuery);
+
+  const getFilteredMovies = (searchQuery: string) => {
+    const matches = data.movies.filter((movie) => movie.title.toLowerCase().includes(searchQuery.toLowerCase()));
+    const filteredMovies = mapMovies(matches);
+    return filteredMovies;
+  };
+
+  const mapMovies = (movies: Omit<Movie, 'isOnMyList'>[]) => {
+    const filteredMovies: Movie[] = [];
+    const myListMovieIds = myListManager.get();
+    for (let i = 0; i < movies.length; i++) {
+      const movie = movies[i];
+      const isOnMyList = includes(myListMovieIds, movie.id);
+      filteredMovies.push({ ...movie, isOnMyList });
+    }
+
+    return filteredMovies;
+  };
 
   const handleBackClick = ({}: MouseEvent) => history.back();
 
@@ -34,18 +52,13 @@
   };
 
   onMount(async () => {
-    let tempRecentMovies: any[] = [];
-    const myListMovieIds = myListManager.get();
-
+    let tempRecentMovies: Omit<Movie, 'isOnMyList'>[] = [];
     for (let i = 0; i < data.movies.length; i++) {
       const movie = data.movies[i];
-      if (i < showNMovies) {
-        const isOnMyList = includes(myListMovieIds, movie.id);
-        tempRecentMovies.push({ ...movie, isOnMyList });
-      }
+      if (i < showNMovies) tempRecentMovies.push(movie);
     }
 
-    recentMovies = tempRecentMovies;
+    recentMovies = mapMovies(tempRecentMovies);
     loaded = true;
   });
 </script>

@@ -1,32 +1,21 @@
 <script lang="ts">
   import { base } from '$app/paths';
-  import { formatRunTime, formatTextArray, formatIsoDate, formatText } from '$lib/ui.utils/format';
-  import PlusCircleIcon from '$lib/ui.icons/PlusCircleIcon.svelte';
   import MinusCircleIcon from '$lib/ui.icons/MinusCircleIcon.svelte';
+  import PlusCircleIcon from '$lib/ui.icons/PlusCircleIcon.svelte';
+  import { formatRunTime, formatTextArray, formatIsoDate, formatText } from '$lib/ui.utils/format';
   import { createEventDispatcher } from 'svelte';
-  import type { MyListEventDetail } from '$lib/ui.types/MyListEventDetail';
-  export let movie: {
-    id: string;
-    title: string;
-    releaseDate: string;
-    posterFileName: string;
-    rated: string;
-    genres: string[];
-    actors: string[];
-    runTime: number;
-    plot: string;
-    isOnMyList: boolean;
-  };
+  import type * as T from './types';
+  export let movie: T.Movie;
 
   const dispatch = createEventDispatcher();
 
   const onAddToListClick = (id: string) => {
-    const eventDetail: MyListEventDetail = { id };
+    const eventDetail: T.MyListEventDetail = { id };
     dispatch('addclick', eventDetail);
   };
 
   const onRemoveFromListClick = (id: string) => {
-    const eventDetail: MyListEventDetail = { id };
+    const eventDetail: T.MyListEventDetail = { id };
     dispatch('removeclick', eventDetail);
   };
 </script>

@@ -8,9 +8,10 @@
   import { includes, findIndex } from 'lodash-es';
   import { tick } from 'svelte';
   import MovieDetailPanelGrid from '$lib/ui.components/MovieDetailPanelGrid';
+  import type { Movie } from '$lib/ui.components/MovieDetailPanelGrid/types';
   export let data: PageData;
 
-  let movies: any[] = [];
+  let movies: Movie[] = [];
   let loaded = false;
 
   const onBackClick = (event: MouseEvent) => history.back();
