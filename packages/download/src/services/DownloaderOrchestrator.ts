@@ -45,8 +45,8 @@ export class DownloaderOrchestrator implements Downloader {
           output.data.releaseDate = output.data.releaseDate ?? downloadRes.data.releaseDate ?? null;
           output.data.releaseYear = output.data.releaseYear ?? downloadRes.data.releaseYear ?? null;
           output.data.rated = output.data.rated ?? downloadRes.data.rated ?? null;
-          output.data.genres = output.data.genres.length === 0 ? downloadRes.data.genres : [];
-          output.data.actors = output.data.actors.length === 0 ? downloadRes.data.actors : [];
+          output.data.genres = output.data.genres.length === 0 ? downloadRes.data.genres : output.data.genres;
+          output.data.actors = output.data.actors.length === 0 ? downloadRes.data.actors : output.data.actors;
           output.data.runTimeMins = output.data.runTimeMins ?? downloadRes.data.runTimeMins ?? null;
           output.data.plot = output.data.plot ?? downloadRes.data.plot ?? null;
           output.data.subtitles.push(...downloadRes.data.subtitles);

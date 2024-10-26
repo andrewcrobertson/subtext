@@ -131,7 +131,7 @@ export class Handler {
       const { subtitleFileText, ...subtitleRaw } = subtitlesRaw[i];
       const sha = this.generateHashFromText(subtitleFileText);
       const ext = path.parse(path.basename(subtitleRaw.subtitleFileName)).ext;
-      const shaFileName = `${sha}${ext}`;
+      const shaFileName = `${imdbId}.${sha}${ext}`;
       output.files[shaFileName] = subtitleFileText;
       output.subtitles.push({ ...subtitleRaw, shaFileName });
     }
