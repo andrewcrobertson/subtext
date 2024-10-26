@@ -5,4 +5,4 @@ export const formatText = (text: string | null, dflt = ''): string => (text === 
 
 export const formatTextArray = (text: string[], dflt = ''): string => (text.length === 0 ? dflt : text.join(', '));
 
-export const formatRunTime = (runTime: number, dflt = ''): string => (runTime === null ? dflt : `${runTime} min`);
+export const formatRunTime = (runTime: number, dflt = ''): string => (runTime === null ? dflt : `${runTime} mins`);

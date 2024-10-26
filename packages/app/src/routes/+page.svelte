@@ -44,7 +44,7 @@
         <div class="flex justify-between items-center py-4 px-2">
           <h2 class="text-white text-xl md:text-2xl lg:text-3xl font-semibold">My List</h2>
           <a href={`${base}/my-list`} class="flex items-center text-white text-xl md:text-2xl lg:text-3xl font-semibold">
-            View All
+            Edit
             <ChevronRightIcon class="font-semibold" />
           </a>
         </div>
