@@ -8,7 +8,6 @@
   import { includes } from 'lodash-es';
   import ChevronRightIcon from '$lib/ui.icons/ChevronRightIcon.svelte';
   import PosterLink from '$lib/ui.components/PosterLink';
-  import { fade } from 'svelte/transition';
   export let data: PageData;
 
   let myListMovies: any[] = [];
