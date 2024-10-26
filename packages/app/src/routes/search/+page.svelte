@@ -83,6 +83,9 @@
     {/if}
   {:else if filteredMovies.length > 0}
     <MovieDetailPanelGrid movies={filteredMovies} on:addclick={handleAddClick} on:removeclick={handleRemoveClick} />
+    <p class="text-white text-center mt-4">
+      Not what you were looking for? Would you like to <a class="font-bold text-yellow-500" href={`${base}/request?q=${searchQuery}`}>request</a> it?
+    </p>
   {:else}
     <p class="text-white text-center mt-4">
       Sorry, we couldn't find a matching movie in the database. Would you like to <a class="font-bold text-yellow-500" href={`${base}/request?q=${searchQuery}`}
