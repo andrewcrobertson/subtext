@@ -1,8 +1,8 @@
 <script lang="ts">
   let _class = '';
-  import type { ProgressEventDetail } from '$lib/ui.types/ProgressEventDetail';
   import { createEventDispatcher } from 'svelte';
   import { twMerge } from 'tailwind-merge';
+  import type * as T from './types';
   export { _class as class };
   export let progress = 0;
   export let elapsedTime = '';
@@ -19,7 +19,7 @@
     const sliderRect = slider.getBoundingClientRect();
     const offsetX = mouseOrTouchX - sliderRect.left;
     const progress = Math.min(100, Math.max(0, (offsetX / sliderRect.width) * 100));
-    const eventDetail: ProgressEventDetail = { progress };
+    const eventDetail: T.ProgressEventDetail = { progress };
     dispatch('progressclick', eventDetail);
   };
 </script>

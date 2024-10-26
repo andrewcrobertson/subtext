@@ -5,9 +5,9 @@
   import { formatMsAsTime } from '$lib/isomorphic.utils/formatMsAsTime';
   import { parseSrt } from '$lib/isomorphic.utils/parseSrt';
   import BottomBar from '$lib/ui.components/BottomBar';
+  import type { ProgressEventDetail } from '$lib/ui.components/BottomBar/types';
   import Overlay from '$lib/ui.components/Overlay';
   import TopBar from '$lib/ui.components/TopBar';
-  import type { ProgressEventDetail } from '$lib/ui.types/ProgressEventDetail';
   import { onMount } from 'svelte';
   import { fade } from 'svelte/transition';
   import type { PageData } from './$types';
