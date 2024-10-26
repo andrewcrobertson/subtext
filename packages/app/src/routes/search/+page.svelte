@@ -82,12 +82,12 @@
               </div>
               {#if isOnMyList}
                 <button class="btn btn-square text-white w-full flex items-center" on:click={() => onRemoveFromListClick(id)}>
-                  <span>Remove from List&nbsp;</span>
+                  <span>My List&nbsp;</span>
                   <MinusCircleIcon class="text-lg text-white size-8" />
                 </button>
               {:else}
                 <button class="btn btn-square text-white w-full flex items-center" on:click={() => onAddToListClick(id)}>
-                  <span>Add to List&nbsp;</span>
+                  <span>My List&nbsp;</span>
                   <PlusCircleIcon class="text-lg text-white size-8" />
                 </button>
               {/if}

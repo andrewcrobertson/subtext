@@ -32,17 +32,28 @@
   };
 
   const onRemoveFromListClick = (id: string) => {
-    document.startViewTransition(async () => {
+    try {
+      document.startViewTransition(async () => {
+        myListManager.remove(id);
+        for (let i = 0; i < myListMovies.length; i++) {
+          if (myListMovies[i].id === id) {
+            myListMovies.splice(i, 1);
+            myListMovies = myListMovies;
+            await tick();
+            break;
+          }
+        }
+      });
+    } catch {
       myListManager.remove(id);
       for (let i = 0; i < myListMovies.length; i++) {
         if (myListMovies[i].id === id) {
           myListMovies.splice(i, 1);
           myListMovies = myListMovies;
-          await tick();
           break;
         }
       }
-    });
+    }
   };
 
   onMount(async () => {
@@ -88,12 +99,12 @@
               </div>
               {#if isOnMyList}
                 <button class="btn btn-square text-white w-full flex items-center" on:click={() => onRemoveFromListClick(id)}>
-                  <span>Remove from List&nbsp;</span>
+                  <span>My List&nbsp;</span>
                   <MinusCircleIcon class="text-lg text-white size-8" />
                 </button>
               {:else}
                 <button class="btn btn-square text-white w-full flex items-center" on:click={() => onAddToListClick(id)}>
-                  <span>Add to List&nbsp;</span>
+                  <span>My List&nbsp;</span>
                   <PlusCircleIcon class="text-lg text-white size-8" />
                 </button>
               {/if}
