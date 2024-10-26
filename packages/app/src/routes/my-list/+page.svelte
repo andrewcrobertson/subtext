@@ -37,16 +37,16 @@
   };
 
   onMount(async () => {
-    let tempAllMovies: any[] = [];
+    let tempMovies: any[] = [];
     const myListMovieIds = myListManager.get();
 
     for (let i = 0; i < data.movies.length; i++) {
       const movie = data.movies[i];
       const isOnMyList = includes(myListMovieIds, movie.id);
-      if (isOnMyList) tempAllMovies.push({ ...movie, isOnMyList });
+      if (isOnMyList) tempMovies.push({ ...movie, isOnMyList });
     }
 
-    movies = tempAllMovies;
+    movies = tempMovies;
     loaded = true;
   });
 </script>
