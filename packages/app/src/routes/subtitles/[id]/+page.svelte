@@ -27,11 +27,7 @@
   const overlayDelay = 6000;
   const subtitleStream = new SubtitleStream(parseSrt(data.subtitles));
 
-  const handleProgressClick = ({ detail }: CustomEvent<ProgressEventDetail>) => {
-    if (controlsVisible) subtitleStream.goTo(detail.progress);
-  };
-
-  // const handleBackClick = () => goto(`${base}/`, {replaceState: true});
+  const handleProgressClick = ({ detail }: CustomEvent<ProgressEventDetail>) => subtitleStream.goTo(detail.progress);
   const handleBackClick = () => history.back();
   const handleSkipBackClick = () => subtitleStream.skipToPrevious();
   const handleSkipForwardClick = () => subtitleStream.skipToNext();

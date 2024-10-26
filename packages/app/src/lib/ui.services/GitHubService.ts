@@ -7,8 +7,9 @@ export class GitHubService {
     private readonly myIdService: MyIdService
   ) {}
 
-  public async submitIssue(imdbId: string) {
+  public async submitIssue(imdbIdOrUrl: string) {
     try {
+      const imdbId = this.parseImdbIdOrUrl(imdbIdOrUrl) ?? 'Unknown';
       const myId = await this.myIdService.getId();
       const lines = [`:id: ${myId}`, ':robot: This issue is automated.', ":pray: Please don't edit this issue."];
       const issueData = { title: imdbId, body: join(lines, '\n'), labels: ['add'] };
@@ -23,5 +24,10 @@ export class GitHubService {
     } catch {}
 
     return false;
+  }
+
+  private parseImdbIdOrUrl(value: string) {
+    const match = value.match(/tt\d{7,8}/);
+    return match ? match[0] : null;
   }
 }

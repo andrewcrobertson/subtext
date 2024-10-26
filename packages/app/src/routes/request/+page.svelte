@@ -5,12 +5,12 @@
   import { writable } from 'svelte/store';
   import { goto } from '$app/navigation';
 
-  const id = writable('');
+  const idOrUrl = writable('');
 
   const onBackClick = ({}: MouseEvent) => history.back();
 
   const handleSubmit = async (event: SubmitEvent) => {
-    const submitIssueRes = await gitHubService.submitIssue($id);
+    const submitIssueRes = await gitHubService.submitIssue($idOrUrl);
     const link = base + (submitIssueRes ? '/request/ok' : '/request/err');
     goto(link, { replaceState: true });
   };
@@ -26,15 +26,17 @@
 <div class="mt-16"></div>
 <div class="p-4 text-xl mx-auto max-w-screen-md">
   <div class="pb-10 text-white">
-    <p class="pb-4">To request subtitles for a movie, submit the movie's IMDb id below.</p>
-    <p>Here is some information on IMDb ids:</p>
-    <ul class="list-inside list-disc">
-      <li>IMDb <a class="font-bold text-yellow-500" href="https://developer.imdb.com/documentation/key-concepts">data key concepts</a>.</li>
-      <li>Google search "<a class="font-bold text-yellow-500" href="https://www.google.com/search?q=how+to+find+an+IMDb+id">how to find an IMDb id</a>".</li>
-    </ul>
+    <p class="pb-4">
+      To request subtitles for a movie, submit the movie's <a class="font-bold text-yellow-500" href="https://www.imdb.com/">IMDb</a> url or id below.
+    </p>
+    <p>
+      To find out more, you can read about IMDb <a class="font-bold text-yellow-500" href="https://developer.imdb.com/documentation/key-concepts"
+        >data key concepts</a
+      >.
+    </p>
   </div>
   <form on:submit|preventDefault={handleSubmit}>
-    <input type="text" class="h-8 p-2" bind:value={$id} />
+    <input type="text" class="h-8 p-2" bind:value={$idOrUrl} />
     <button class="text-white" type="submit">Submit</button>
   </form>
 </div>
