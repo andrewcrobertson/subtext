@@ -16,7 +16,7 @@
 
   const myListManager = new MyListManager();
 
-  const onBackClick = (event: MouseEvent) => history.back();
+  const onBackClick = () => history.back();
 
   onMount(async () => {
     let tempMyListMovies: any[] = [];
