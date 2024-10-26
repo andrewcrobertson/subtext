@@ -1,0 +1,92 @@
+{
+  "imdbId": "tt1877830",
+  "title": "The Batman",
+  "releaseDate": "2022-03-04T00:00:00.000Z",
+  "releaseYear": 2022,
+  "posterFileName": "tt1877830.jpg",
+  "rated": "PG-13",
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "actors": [
+    "Robert Pattinson",
+    "Zoë Kravitz",
+    "Jeffrey Wright"
+  ],
+  "runTime": 176,
+  "plot": "When a sadistic serial killer begins murdering key political figures in Gotham, The Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+  "subtitles": [
+    {
+      "source": "Subdl",
+      "author": "ChristopherCavco",
+      "zipFileName": "3305070-3327962.zip",
+      "subtitleFileName": "The.Batman.2022.WEB-DL.TUBI.srt",
+      "shaFileName": "tt1877830.58ff9571f850d3d2237f0c9515195f3216fc528e0a755f713b02f18f6bfc2f94.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "ChristopherCavco",
+      "zipFileName": "3150211-3164622.zip",
+      "subtitleFileName": "The.Batman.2022.WEBRip.Amazon.srt",
+      "shaFileName": "tt1877830.8bede4ff3d23fbe69d8e88769610c4fc0828decf3d072ab7779551de3493a1d6.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "KingDong",
+      "zipFileName": "2599272-2762936.zip",
+      "subtitleFileName": "The Batman_KingDong.srt",
+      "shaFileName": "tt1877830.a7c9e9b0da9eced82cf435694b9a542342828ec7b3c483ec8a12f420b58b6dd8.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "Penguin2359",
+      "zipFileName": "2599242-2783464.zip",
+      "subtitleFileName": "The Batman (2022).eng.SDH.srt",
+      "shaFileName": "tt1877830.2ab6e15f98adb28ccb4d646fe1d6d6884f8f6e64df82251eea0bf3c8db9969d3.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "sealtan",
+      "zipFileName": "2599241-2801933.zip",
+      "subtitleFileName": "The Batman (2022).srt",
+      "shaFileName": "tt1877830.7924b2a1c318863daa8e74da213340df581756638b1ee4de55002c254cedb53b.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "atulo50",
+      "zipFileName": "2599240-2774676.zip",
+      "subtitleFileName": "The.Batman.2022.1080p.Bluray.Atmos.TrueHD.7.1.x264-EVO.srt",
+      "shaFileName": "tt1877830.61b8bd9f542327d28e9468c187aab9164948d29d039d14911f6699ad46a269a0.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "myvideolinksnet",
+      "zipFileName": "2599239-2776921.zip",
+      "subtitleFileName": "The.Batman.2022.1080p.BluRay.H264.AAC-RARBG.srt",
+      "shaFileName": "tt1877830.f14ec5361a8070f7d565e716a6a639c31b20b20943e402f18ba18bf8eb4666be.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "RandySubs",
+      "zipFileName": "2599238-2776081.zip",
+      "subtitleFileName": "The Batman.srt",
+      "shaFileName": "tt1877830.7478d2a03cc182af895bfaa70a85c456cabb09a617dc450d5e18bf771d3ef72d.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "morgancreate",
+      "zipFileName": "2599237-2775136.zip",
+      "subtitleFileName": "The.Batman.2022.1080p.CEE.Blu-ray.AVC.TrueHD.7.1-HDO_eng.srt",
+      "shaFileName": "tt1877830.cdf5751009bc998a82abc99dbb1acc9ea8ba9b79f4de03a14c8f2e6d95bcbf56.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "morgancreate",
+      "zipFileName": "2599236-2775135.zip",
+      "subtitleFileName": "The.Batman.2022.1080p.CEE.Blu-ray.AVC.TrueHD.7.1-HDO_eng.sdh.srt",
+      "shaFileName": "tt1877830.a978b818e7ac6c7576ba827fef240014f3b9eccf6a40c9c7f1b4d96bab13d53e.srt"
+    }
+  ]
+}
