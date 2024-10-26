@@ -1,7 +1,7 @@
 import AdmZip from 'adm-zip';
 import { toPairs } from 'lodash';
 import path from 'path';
-import { ApiSearchResponse, SearchResponse } from './SubdlApi.types';
+import type { ApiSearchResponse, SearchResponse } from './SubdlApi.types';
 
 export class SubdlApi {
   public constructor(

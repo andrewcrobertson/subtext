@@ -1,13 +1,13 @@
+import type { Downloader, DownloadResponseData } from '$services/downloader/Downloader.types';
+import type { GithubApi } from '$services/github/GithubApi';
+import type { Logger } from '$services/logger/Logger';
 import { createHash } from 'crypto';
 import fs from 'fs';
 import { isError, join, map, toPairs } from 'lodash';
 import path from 'path';
 import { pipeline } from 'stream';
 import { promisify } from 'util';
-import { Downloader, DownloadResponseData } from './Downloader.types';
-import { GithubApi } from './GithubApi';
-import { ToMovieResponse } from './Handler.types';
-import type { Logger } from './Logger';
+import type { ToMovieResponse } from './Handler.types';
 
 export class Handler {
   public constructor(

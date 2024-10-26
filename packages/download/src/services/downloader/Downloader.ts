@@ -1,7 +1,7 @@
-import { Downloader, DownloadResponse } from './Downloader.types';
-import { DownloaderOmdb } from './DownloaderOmdb';
-import { DownloaderOpenSubtitles } from './DownloaderOpenSubtitles';
-import { DownloaderSubdl } from './DownloaderSubdl';
+import type { DownloaderOmdb } from '$services/omdb/DownloaderOmdb';
+import type { DownloaderOpenSubtitles } from '$services/openSubtitles/DownloaderOpenSubtitles';
+import type { DownloaderSubdl } from '$services/subdl/DownloaderSubdl';
+import type { Downloader, DownloadResponse } from './Downloader.types';
 
 export class DownloaderOrchestrator implements Downloader {
   public constructor(

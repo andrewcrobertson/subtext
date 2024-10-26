@@ -1,18 +1,18 @@
-import { Downloader, DownloadResponse } from './Downloader.types';
-import { OpenSubtitlesApi } from './OpenSubtitlesApi';
+import type { Downloader, DownloadResponse } from '$services/downloader/Downloader.types';
+import { SubdlApi } from './SubdlApi';
 
-export class DownloaderOpenSubtitles implements Downloader {
-  public constructor(private readonly openSubtitlesApi: OpenSubtitlesApi) {}
+export class DownloaderSubdl implements Downloader {
+  public constructor(private readonly subdlApi: SubdlApi) {}
 
   public async download(imdbId: string): Promise<DownloadResponse> {
     try {
-      const searchRes = await this.openSubtitlesApi.search(imdbId);
+      const searchRes = await this.subdlApi.search(imdbId);
       const output: DownloadResponse = {
         success: true,
         data: {
           imdbId,
           title: searchRes.title,
-          posterUrl: searchRes.posterUrl,
+          posterUrl: null,
           releaseDate: searchRes.releaseDate,
           releaseYear: searchRes.releaseYear,
           rated: null,
@@ -30,9 +30,9 @@ export class DownloaderOpenSubtitles implements Downloader {
         output.errors.push(...subtitle.errors);
         if (subtitle.success) {
           output.data.subtitles.push({
-            source: 'OpenSubtitles',
+            source: 'Subdl',
             author: subtitle.data.author,
-            zipFileName: null,
+            zipFileName: subtitle.data.zipFileName,
             subtitleFileName: subtitle.data.subtitleFileName,
             subtitleFileText: subtitle.data.subtitleFileText,
           });
