@@ -1,0 +1,86 @@
+{
+  "imdbId": "tt3829266",
+  "title": "The Predator",
+  "releaseDate": "2018-09-14T00:00:00.000Z",
+  "releaseYear": 2018,
+  "posterFileName": "tt3829266.jpg",
+  "rated": "R",
+  "genres": ["Action", "Adventure", "Sci-Fi"],
+  "directors": ["Shane Black"],
+  "writers": ["Fred Dekker", "Shane Black", "Jim Thomas"],
+  "actors": ["Boyd Holbrook", "Trevante Rhodes", "Jacob Tremblay"],
+  "runTime": 107,
+  "plot": "When a young boy accidentally triggers the universe's most lethal hunters' return to Earth, only a ragtag crew of ex-soldiers and a disgruntled scientist can prevent the end of the human race.",
+  "subtitles": [
+    {
+      "source": "Subdl",
+      "author": "ZaffyGSi",
+      "zipFileName": "3156972-3171630.zip",
+      "subtitleFileName": "The.Predator.2018.1080p.DSNP.WEB-DL.DDP5.1.H264-GSi.eng.en.forced.srt",
+      "shaFileName": "tt3829266.5f4eb991244e256ac5728fe44d9a4f9879d79794380992750090967ef77d7a0c.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "ZaffyGSi",
+      "zipFileName": "3156967-3171605.zip",
+      "subtitleFileName": "The.Predator.2018.1080p.DSNP.WEB-DL.DDP5.1.H264-GSi.eng.en.forced.srt",
+      "shaFileName": "tt3829266.e579dc108a02ecf295bda1c1b1bda44d0a46830d19e3ea5ccc11d352d78d5abe.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "ZaffyGSi",
+      "zipFileName": "3156966-3171606.zip",
+      "subtitleFileName": "The.Predator.2018.1080p.DSNP.WEB-DL.DDP5.1.H264-GSi.eng.en.SDH..srt",
+      "shaFileName": "tt3829266.32e12b40f25231863622d95582b152239bd11da7f48c940f96f33cf8c4270e92.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "ChristopherCavco",
+      "zipFileName": "3103262-3114680.zip",
+      "subtitleFileName": "THE.PREDATOR.2018.WEB-DL.TUBI.srt",
+      "shaFileName": "tt3829266.9376eb777ec90f9c78366b76a3f5cc70965782b9980088f348e7597e7da0cbc7.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "WarbossMork",
+      "zipFileName": "2976285-2970351.zip",
+      "subtitleFileName": "The Predator (2018) REMUX UHD 4K.eng.srt",
+      "shaFileName": "tt3829266.0c745679c820be35f957bbd7ae37bcb29981f7d4d97203c797fd20c87e38c8a6.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "lesaigneur",
+      "zipFileName": "2785287-2813532.zip",
+      "subtitleFileName": "Predator IV (2018).srt",
+      "shaFileName": "tt3829266.c2a90ad78ee14e8ab3b85b3a76c45bf3eae80be7ffc544066ab696c09233cf1b.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "lesaigneur",
+      "zipFileName": "2785286-2813533.zip",
+      "subtitleFileName": "Predator IV (2018).srt",
+      "shaFileName": "tt3829266.c2a90ad78ee14e8ab3b85b3a76c45bf3eae80be7ffc544066ab696c09233cf1b.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "ChristopherCavco",
+      "zipFileName": "2785252-2776806.zip",
+      "subtitleFileName": "The.Predator.2018.WEBRip.iTunes.srt",
+      "shaFileName": "tt3829266.efb98b1d99b994ca12985ace6fab258f09d1c09016481baa51c5f5ad228d0a9e.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "ChristopherCavco",
+      "zipFileName": "2785251-2776807.zip",
+      "subtitleFileName": "The.Predator.2018.WEBRip.iTunes.srt",
+      "shaFileName": "tt3829266.5a696ebf29da49fad885d686b2ecfb7b6301f7f7c51447417c2d143d41896246.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "JMGacho",
+      "zipFileName": "2359837-2592619.zip",
+      "subtitleFileName": "The Predator (2018).srt",
+      "shaFileName": "tt3829266.0f9b075cd3c63be6c34175ae13d0675eaf00b9deae5d8385a095b4aada771635.srt"
+    }
+  ]
+}

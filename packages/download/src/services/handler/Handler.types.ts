@@ -20,6 +20,8 @@ export interface ToMovieResponse {
   posterFileName: string | null;
   rated: string | null;
   genres: string[];
+  directors: string[];
+  writers: string[];
   actors: string[];
   runTime: number | null;
   plot: string | null;

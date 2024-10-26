@@ -17,6 +17,8 @@ export class DownloaderOpenSubtitles implements Downloader {
           releaseYear: searchRes.releaseYear,
           rated: null,
           genres: [],
+          directors: [],
+          writers: [],
           actors: [],
           runTimeMins: null,
           plot: null,

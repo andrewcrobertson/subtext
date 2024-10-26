@@ -58,6 +58,7 @@ export class Handler {
     }
 
     const downloadRes = await this.downloader.download(imdbId);
+    console.log(downloadRes);
 
     const errorText = map(downloadRes.errors, (error) => (isError(error) ? error.message : (<any>error).toString()));
     const title = downloadRes.data?.title ?? 'Unknown Title';
@@ -119,6 +120,8 @@ export class Handler {
       posterFileName: data.posterUrl === null ? null : `${imdbId}${path.parse(path.basename(data.posterUrl)).ext}`,
       rated: data.rated,
       genres: data.genres,
+      directors: data.directors,
+      writers: data.writers,
       actors: data.actors,
       runTime: data.runTimeMins,
       plot: data.plot,

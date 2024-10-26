@@ -17,6 +17,8 @@ export class DownloaderOmdb implements Downloader {
           releaseYear: searchRes.releaseYear,
           rated: searchRes.rated,
           genres: searchRes.genres,
+          directors: searchRes.directors,
+          writers: searchRes.writers,
           actors: searchRes.actors,
           runTimeMins: searchRes.runTimeMins,
           plot: searchRes.plot,
