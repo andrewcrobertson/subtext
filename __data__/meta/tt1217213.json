@@ -1,0 +1,43 @@
+{
+  "imdbId": "tt1217213",
+  "title": "Secret of the Wings",
+  "releaseDate": "2012-08-16T00:00:00.000Z",
+  "releaseYear": 2012,
+  "posterFileName": "tt1217213.jpg",
+  "rated": "G",
+  "genres": [
+    "Animation,",
+    "Family,",
+    "Fantasy"
+  ],
+  "actors": [
+    "Mae Whitman",
+    "Lucy Hale",
+    "Timothy Dalton"
+  ],
+  "runTime": 75,
+  "plot": "Tinkerbell wanders into the forbidden Winter woods and meets Periwinkle. Together they learn the secret of their wings and try to unite the warm fairies and the winter fairies to help Pixie Hollow.",
+  "subtitles": [
+    {
+      "source": "OpenSubtitles",
+      "author": "os-auto",
+      "zipFileName": null,
+      "subtitleFileName": "Secret.of.the.Wings.2012.WEBRip.iTunes.srt",
+      "shaFileName": "tt1217213.947ec8e7f85cc59c478992387111cc88b5cd2a8181cf518d1a0aa6845b4a374e.srt"
+    },
+    {
+      "source": "OpenSubtitles",
+      "author": "os-auto",
+      "zipFileName": null,
+      "subtitleFileName": "Secret.of.The.Wings.2012.WEB-DL.DSNP.srt",
+      "shaFileName": "tt1217213.cbd49b6b614789c1cdc231fb946dadfc074f361c87e01446e22cf0d3259bcd8d.srt"
+    },
+    {
+      "source": "OpenSubtitles",
+      "author": "os-auto",
+      "zipFileName": null,
+      "subtitleFileName": "Tinker Bell Secret of the Wings 2012 720p AC3 XViD-RemixHD-eng.srt",
+      "shaFileName": "tt1217213.13ad86f8ccfb8a7c3d676cdba71a6c466a46a171900987189eab4fc15bc1da9a.srt"
+    }
+  ]
+}

@@ -1,0 +1,10174 @@
+﻿1
+00:00:24,358 --> 00:00:27,986
+["Django Theme Song"
+by Luis Bacalov and Rocky Roberts playing]
+
+2
+00:00:31,573 --> 00:00:33,367
+♪ <i>Django ♪</i>
+
+3
+00:00:33,450 --> 00:00:38,372
+♪ <i>Django</i>
+<i>Have you always been alone? ♪</i>
+
+4
+00:00:39,039 --> 00:00:40,666
+♪ <i>Django ♪</i>
+
+5
+00:00:40,832 --> 00:00:45,504
+♪ <i>Django</i>
+<i>Have you never loved again? ♪</i>
+
+6
+00:00:45,712 --> 00:00:49,258
+♪ <i>Love will live on</i>
+<i>Oh, oh ♪</i>
+
+7
+00:00:49,424 --> 00:00:53,053
+♪ <i>Life must go on</i>
+<i>Oh, oh ♪</i>
+
+8
+00:00:53,220 --> 00:00:59,393
+♪ <i>For you cannot</i>
+<i>Spend your life regretting ♪</i>
+
+9
+00:01:00,978 --> 00:01:02,813
+♪ <i>Django ♪</i>
+
+10
+00:01:02,938 --> 00:01:08,402
+♪ <i>Django</i>
+<i>You must face another day ♪</i>
+
+11
+00:01:08,610 --> 00:01:10,237
+♪ <i>Django ♪</i>
+
+12
+00:01:10,445 --> 00:01:15,242
+♪ <i>Django</i>
+<i>Now your love has gone away ♪</i>
+
+13
+00:01:15,409 --> 00:01:18,996
+♪ <i>Once you loved her</i>
+<i>Oh, oh ♪</i>
+
+14
+00:01:19,204 --> 00:01:22,708
+♪ <i>Now you've lost her</i>
+<i>Oh, oh ♪</i>
+
+15
+00:01:22,958 --> 00:01:29,131
+♪ <i>But you've lost her forever</i>
+<i>Django ♪</i>
+
+16
+00:01:31,800 --> 00:01:34,469
+♪ <i>When there are clouds</i>
+<i>In the skies ♪</i>
+
+17
+00:01:34,553 --> 00:01:38,307
+♪ <i>And they are gray ♪</i>
+
+18
+00:01:39,016 --> 00:01:45,105
+♪ <i>You may be sad but remember</i>
+<i>Love will pass away ♪</i>
+
+19
+00:01:45,188 --> 00:01:48,233
+♪ <i>Oh, Django ♪</i>
+
+20
+00:01:48,317 --> 00:01:52,404
+♪ <i>After the showers</i>
+<i>The sun ♪</i>
+
+21
+00:01:53,030 --> 00:01:58,869
+♪ <i>Will be shining ♪</i>
+
+22
+00:02:14,551 --> 00:02:18,055
+♪ <i>Once you loved her</i>
+<i>Oh, oh ♪</i>
+
+23
+00:02:18,138 --> 00:02:21,892
+♪ <i>Now you've lost her</i>
+<i>Oh, oh ♪</i>
+
+24
+00:02:21,975 --> 00:02:28,357
+♪ <i>But you've lost her forever</i>
+<i>Django ♪</i>
+
+25
+00:02:30,901 --> 00:02:33,528
+♪ <i>When there are clouds</i>
+<i>In the skies ♪</i>
+
+26
+00:02:33,695 --> 00:02:37,157
+♪ <i>And they are gray ♪</i>
+
+27
+00:02:38,158 --> 00:02:44,081
+♪ <i>You may be sad but remember</i>
+<i>Love will pass away ♪</i>
+
+28
+00:02:44,206 --> 00:02:47,167
+♪ <i>Oh, Django ♪</i>
+
+29
+00:02:47,626 --> 00:02:51,463
+♪ <i>After the showers</i>
+<i>The sun ♪</i>
+
+30
+00:02:52,005 --> 00:02:57,594
+♪ <i>Will be shining ♪</i>
+
+31
+00:02:59,221 --> 00:03:01,682
+♪ <i>Django ♪</i>
+
+32
+00:03:01,973 --> 00:03:05,435
+♪ <i>Oh, Django ♪</i>
+
+33
+00:03:05,602 --> 00:03:08,730
+♪ <i>You must go on ♪</i>
+
+34
+00:03:08,814 --> 00:03:14,695
+♪ <i>Oh, Django ♪</i>
+
+35
+00:03:15,821 --> 00:03:20,826
+[chains clanking]
+
+36
+00:03:33,130 --> 00:03:34,715
+[slave grunting]
+
+37
+00:03:55,377 --> 00:03:56,461
+Whoa.
+
+38
+00:04:03,991 --> 00:04:04,995
+Whoa.
+
+39
+00:04:19,801 --> 00:04:22,554
+Who's that stumbling around in the dark?
+
+40
+00:04:23,488 --> 00:04:26,600
+State your business,
+or prepare to get winged.
+
+41
+00:04:27,684 --> 00:04:31,229
+Calm yourselves, gentlemen.
+I mean you no harm.
+
+42
+00:04:32,564 --> 00:04:35,275
+I'm simply a fellow weary traveler.
+
+43
+00:04:35,358 --> 00:04:36,443
+Whoa!
+
+44
+00:04:38,737 --> 00:04:40,489
+Good, cold evening, gentlemen.
+
+45
+00:04:40,572 --> 00:04:44,785
+I'm looking for a pair of slave traders
+that go by the name of the Speck Brothers.
+
+46
+00:04:44,910 --> 00:04:45,994
+Might that be you?
+
+47
+00:04:47,996 --> 00:04:50,248
+-[Ace] Who wants to know?
+-Well, I do.
+
+48
+00:04:50,832 --> 00:04:53,126
+I'm Dr. King Schultz.
+This is my horse, Fritz.
+
+49
+00:04:54,544 --> 00:04:57,506
+-What kind of doctor?
+-[Schultz] Dentist.
+
+50
+00:04:58,173 --> 00:04:59,466
+Now, are you the Speck Brothers,
+
+51
+00:04:59,591 --> 00:05:02,469
+and did you purchase those men
+at the Greenville slave auction?
+
+52
+00:05:02,594 --> 00:05:05,347
+-So what?
+-So, I wish to parley with you.
+
+53
+00:05:05,428 --> 00:05:06,328
+Speak English.
+
+54
+00:05:06,515 --> 00:05:08,225
+[chuckling] I'm sorry.
+
+55
+00:05:08,934 --> 00:05:11,061
+Please forgive me.
+It is a second language.
+
+56
+00:05:11,144 --> 00:05:14,648
+Now, amongst your inventory,
+I've been led to believe,
+
+57
+00:05:14,731 --> 00:05:16,900
+is a specimen I'm keen to acquire.
+
+58
+00:05:17,275 --> 00:05:18,777
+Hello, you poor devils.
+
+59
+00:05:20,111 --> 00:05:25,408
+Is there one amongst you who was formerly
+a resident of the Carrucan plantation?
+
+60
+00:05:26,952 --> 00:05:28,578
+[Django] I'm from the Carrucan plantation.
+
+61
+00:05:30,872 --> 00:05:31,960
+Who said that?
+
+62
+00:06:19,296 --> 00:06:20,297
+What's your name?
+
+63
+00:06:24,968 --> 00:06:25,975
+Django.
+
+64
+00:06:27,178 --> 00:06:29,222
+Then you are exactly
+the one I'm looking for.
+
+65
+00:06:31,474 --> 00:06:33,226
+Do you know who the Brittle brothers are?
+
+66
+00:06:37,376 --> 00:06:38,398
+Who are they?
+
+67
+00:06:40,901 --> 00:06:41,981
+Big John.
+
+68
+00:06:43,111 --> 00:06:44,165
+Ellis.
+
+69
+00:06:45,697 --> 00:06:46,781
+Roger.
+
+70
+00:06:47,198 --> 00:06:49,284
+Sometime they call him Little Raj.
+
+71
+00:06:51,202 --> 00:06:53,246
+They was overseers
+at the Carrucan plantation.
+
+72
+00:06:53,622 --> 00:06:54,623
+Not anymore.
+
+73
+00:06:58,001 --> 00:07:02,297
+Tell me, if you were to see any
+of these three gentlemen again,
+
+74
+00:07:02,380 --> 00:07:04,090
+-would you recognize them?
+-[Ace] Hey.
+
+75
+00:07:05,342 --> 00:07:07,761
+-Stop talking to him like that.
+-Like what?
+
+76
+00:07:08,178 --> 00:07:09,212
+Like that.
+
+77
+00:07:09,471 --> 00:07:11,973
+My good man,
+I'm simply trying to ascertain--
+
+78
+00:07:12,057 --> 00:07:13,475
+Speak English, goddamn it.
+
+79
+00:07:14,225 --> 00:07:20,315
+Everybody calm down. I'm simply a customer
+trying to conduct a transaction.
+
+80
+00:07:20,398 --> 00:07:22,984
+I don't care. No sale. Now, off with you.
+
+81
+00:07:23,193 --> 00:07:26,154
+Don't be ridiculous.
+Of course they're for sale.
+
+82
+00:07:27,197 --> 00:07:28,208
+[Ace] Move it.
+
+83
+00:07:28,907 --> 00:07:33,745
+My good man, did you simply get
+carried away with your dramatic gesture,
+
+84
+00:07:33,828 --> 00:07:36,998
+or are you pointing your weapon at me
+with lethal intention?
+
+85
+00:07:37,207 --> 00:07:38,260
+[cocks gun]
+
+86
+00:07:39,000 --> 00:07:40,377
+Last chance, fancy pants.
+
+87
+00:07:41,920 --> 00:07:43,546
+Oh, very well.
+
+88
+00:07:47,550 --> 00:07:49,803
+[Dicky screaming]
+
+89
+00:08:00,939 --> 00:08:01,982
+[Dicky groaning]
+
+90
+00:08:08,405 --> 00:08:11,992
+[Dicky screaming]
+
+91
+00:08:13,201 --> 00:08:17,747
+I'm sorry to put a bullet in your beast,
+but I didn't want you to do anything rash
+
+92
+00:08:17,831 --> 00:08:20,041
+before you had a moment
+to come to your senses.
+
+93
+00:08:20,291 --> 00:08:23,420
+You goddamn son of a bitch!
+
+94
+00:08:23,962 --> 00:08:25,964
+-You shot Roscoe!
+-[Schultz] Well...
+
+95
+00:08:26,840 --> 00:08:28,133
+[Dicky] And you killed Ace!
+
+96
+00:08:28,508 --> 00:08:31,386
+I only shot your brother
+once he threatened to shoot me.
+
+97
+00:08:31,553 --> 00:08:34,472
+And I do believe I have...
+One, two, three, four...
+
+98
+00:08:34,556 --> 00:08:37,517
+Five witnesses who can
+attest to that fact.
+
+99
+00:08:37,726 --> 00:08:40,478
+-Damn leg's busted.
+-No doubt.
+
+100
+00:08:40,562 --> 00:08:43,398
+Now, if you could keep your caterwauling
+down to a minimum,
+
+101
+00:08:43,481 --> 00:08:46,401
+I'd like to finish my line of inquiry
+with young Django.
+
+102
+00:08:46,818 --> 00:08:50,030
+[Dicky screaming]
+
+103
+00:08:50,822 --> 00:08:53,450
+-[Dicky] God-fucking-damn it!
+-As I was saying...
+
+104
+00:08:54,409 --> 00:08:56,578
+if you were to see
+the Brittle brothers again,
+
+105
+00:08:56,828 --> 00:08:58,079
+you could recognize them?
+
+106
+00:08:58,705 --> 00:08:59,721
+Yeah.
+
+107
+00:09:00,623 --> 00:09:03,043
+Sold American! So, Mr. Speck?
+
+108
+00:09:03,334 --> 00:09:05,545
+Mr. Speck, how much
+for young Django, here?
+
+109
+00:09:11,384 --> 00:09:13,470
+That iron is nasty business.
+
+110
+00:09:19,392 --> 00:09:20,852
+Could you hold this for a moment?
+
+111
+00:09:23,075 --> 00:09:24,147
+Thank you.
+
+112
+00:09:24,481 --> 00:09:26,441
+Django, get up on that horse.
+
+113
+00:09:27,358 --> 00:09:28,818
+Also, if I were you,
+
+114
+00:09:29,110 --> 00:09:32,781
+I'd take that winter coat
+the dear, departed Speck left behind.
+
+115
+00:09:47,253 --> 00:09:50,423
+Nigger! Don't you touch my brother's coat.
+
+116
+00:09:59,933 --> 00:10:02,393
+[screams]
+
+117
+00:10:02,477 --> 00:10:04,062
+[Dicky] Goddamn it!
+
+118
+00:10:04,896 --> 00:10:06,564
+[Dicky groans]
+
+119
+00:10:08,858 --> 00:10:13,279
+One hundred, ten, twenty,
+
+120
+00:10:14,030 --> 00:10:15,365
+and five...
+
+121
+00:10:17,117 --> 00:10:20,411
+for young Django, here. And since
+he won't be needing it anymore,
+
+122
+00:10:20,495 --> 00:10:22,789
+I'd like to purchase your brother's nag.
+
+123
+00:10:23,623 --> 00:10:25,792
+Also, Mr. Speck,
+
+124
+00:10:26,042 --> 00:10:29,379
+I'm afraid I will require a bill of sale.
+Do you have one?
+
+125
+00:10:30,969 --> 00:10:32,841
+You go to hell, dentist!
+
+126
+00:10:33,842 --> 00:10:35,009
+I thought not.
+
+127
+00:10:35,802 --> 00:10:38,763
+No worries. I come prepared.
+
+128
+00:10:43,601 --> 00:10:44,725
+Thank you.
+
+129
+00:10:45,395 --> 00:10:48,690
+This will serve nicely as a bill of sale.
+
+130
+00:11:01,233 --> 00:11:02,287
+Whoa.
+
+131
+00:11:06,499 --> 00:11:09,065
+Now, as to you poor devils...
+
+132
+00:11:10,503 --> 00:11:11,754
+So, as I see it,
+
+133
+00:11:12,338 --> 00:11:15,008
+when it comes to the subject
+of what to do next,
+
+134
+00:11:15,383 --> 00:11:17,886
+you gentlemen have two choices.
+
+135
+00:11:18,469 --> 00:11:20,597
+One. Once I'm gone,
+
+136
+00:11:21,097 --> 00:11:23,641
+you could lift that beast
+off the remaining Speck,
+
+137
+00:11:23,725 --> 00:11:25,351
+then carry him to the nearest town.
+
+138
+00:11:25,810 --> 00:11:28,813
+Which would be at least 37 miles
+back the way you came.
+
+139
+00:11:29,522 --> 00:11:30,669
+Or, two.
+
+140
+00:11:31,691 --> 00:11:33,234
+You could unshackle yourselves...
+
+141
+00:11:33,985 --> 00:11:35,069
+take that rifle,
+
+142
+00:11:35,445 --> 00:11:38,114
+put a bullet in his head,
+bury the two of them deep,
+
+143
+00:11:38,323 --> 00:11:41,367
+and then make your way to a more
+enlightened area of this country.
+
+144
+00:11:42,577 --> 00:11:43,578
+Choice is yours.
+
+145
+00:11:43,953 --> 00:11:45,663
+Oh, and on the off chance
+
+146
+00:11:45,747 --> 00:11:48,416
+there are any astronomy aficionados
+amongst you,
+
+147
+00:11:48,499 --> 00:11:50,919
+the North Star is that one.
+
+148
+00:11:52,749 --> 00:11:53,755
+Ta-ta!
+
+149
+00:11:55,050 --> 00:11:56,132
+[clicks tongue]
+
+150
+00:12:09,062 --> 00:12:10,605
+[chains clanking]
+
+151
+00:12:10,980 --> 00:12:14,234
+Now, wait a minute, fellas.
+Let's talk about this.
+
+152
+00:12:18,655 --> 00:12:21,741
+You gotta be reasonable
+in a situation like this.
+
+153
+00:12:23,409 --> 00:12:26,412
+I'm not a bad guy. I'm just doing my job.
+
+154
+00:12:26,788 --> 00:12:29,958
+Blueberry, didn't I give you
+my last apple?
+
+155
+00:12:30,625 --> 00:12:31,751
+Tell you what, boys.
+
+156
+00:12:31,834 --> 00:12:34,879
+Take me to the doc in El Paso, I'll get
+you your freedom.
+
+157
+00:12:35,338 --> 00:12:37,423
+-[gun cocks]
+-[Dicky] No. No, please.
+
+158
+00:13:24,743 --> 00:13:25,763
+All right, now.
+
+159
+00:13:26,556 --> 00:13:28,558
+I'd like you to take
+two of these, tonight.
+
+160
+00:13:28,641 --> 00:13:30,476
+-[coughs]
+-And then, in the morning...
+
+161
+00:13:33,104 --> 00:13:34,355
+There's a nigger on the horse!
+
+162
+00:14:00,340 --> 00:14:01,716
+What's everybody staring at?
+
+163
+00:14:02,508 --> 00:14:04,469
+They ain't never seen no nigger
+on no horse, before.
+
+164
+00:14:06,721 --> 00:14:09,515
+[goats bleating]
+
+165
+00:14:16,962 --> 00:14:18,024
+Whoa.
+
+166
+00:14:28,076 --> 00:14:29,786
+Good morning, innkeeper.
+
+167
+00:14:31,704 --> 00:14:33,915
+Two beers for two weary travelers.
+
+168
+00:14:34,123 --> 00:14:38,044
+It's still a bit early.
+We won't be open for another hour.
+
+169
+00:14:38,795 --> 00:14:40,380
+By then, we'll be serving breakfast.
+
+170
+00:14:41,714 --> 00:14:43,091
+Whoa, whoa, whoa, whoa!
+
+171
+00:14:44,008 --> 00:14:45,802
+What the hell you think you're doing, boy?
+
+172
+00:14:46,219 --> 00:14:47,720
+Get that nigger out of here.
+
+173
+00:14:53,309 --> 00:14:54,977
+[innkeeper] Help! Help!
+
+174
+00:14:55,061 --> 00:14:55,978
+[Schultz] Innkeeper!
+
+175
+00:14:56,396 --> 00:14:59,315
+Remember, get the sheriff,
+not the marshal.
+
+176
+00:14:59,941 --> 00:15:01,359
+[innkeeper] <i>Sheriff! Help!</i>
+
+177
+00:15:01,734 --> 00:15:02,735
+Alas.
+
+178
+00:15:04,612 --> 00:15:06,697
+Now, we must act as our own bartender.
+
+179
+00:15:09,492 --> 00:15:10,785
+Sit down, my boy.
+
+180
+00:15:21,087 --> 00:15:23,047
+-What kind of dentist are you?
+-[chuckles]
+
+181
+00:15:24,924 --> 00:15:29,053
+Despite that cart, I haven't
+practiced dentistry in five years.
+
+182
+00:15:33,975 --> 00:15:36,310
+But these days,
+I practice a new profession.
+
+183
+00:15:39,439 --> 00:15:40,487
+Bounty hunter.
+
+184
+00:15:47,321 --> 00:15:48,739
+Do you know what a bounty hunter is?
+
+185
+00:15:49,529 --> 00:15:50,533
+No.
+
+186
+00:15:50,950 --> 00:15:51,951
+Well...
+
+187
+00:15:53,786 --> 00:15:57,582
+The way the slave trade
+deals in human lives for cash,
+
+188
+00:15:58,040 --> 00:16:00,001
+a bounty hunter deals in corpses.
+
+189
+00:16:00,877 --> 00:16:02,378
+[clicking tongue] Hat.
+
+190
+00:16:06,674 --> 00:16:07,675
+<i>Prost.</i>
+
+191
+00:16:16,434 --> 00:16:18,978
+The state places a bounty on a man's head.
+
+192
+00:16:19,103 --> 00:16:22,106
+I track that man, I find that man,
+I kill that man.
+
+193
+00:16:22,190 --> 00:16:26,068
+After I've killed him, I transport
+that man's corpse back to the authorities.
+
+194
+00:16:26,360 --> 00:16:28,613
+Sometimes that's easier said than done.
+
+195
+00:16:28,946 --> 00:16:31,949
+I show that corpse to the authorities,
+proving yes, indeed,
+
+196
+00:16:32,033 --> 00:16:36,204
+I truly have killed him, at which point,
+the authorities pay me the bounty.
+
+197
+00:16:36,871 --> 00:16:40,291
+So, like slavery,
+it's a flesh-for-cash business.
+
+198
+00:16:41,840 --> 00:16:42,919
+What's a bounty?
+
+199
+00:16:46,881 --> 00:16:48,132
+It's like a reward.
+
+200
+00:16:48,883 --> 00:16:51,302
+You kill people
+and they give you a reward?
+
+201
+00:16:52,303 --> 00:16:53,638
+Certain people, yeah.
+
+202
+00:16:54,222 --> 00:16:55,848
+-Bad people?
+-Ah!
+
+203
+00:16:56,432 --> 00:16:58,309
+Badder they are, bigger the reward.
+
+204
+00:16:59,477 --> 00:17:00,770
+Which brings me to you.
+
+205
+00:17:01,854 --> 00:17:05,107
+And I must admit, I'm at a bit
+of a quandary when it comes to you.
+
+206
+00:17:06,526 --> 00:17:08,694
+On one hand, I despise slavery.
+
+207
+00:17:08,986 --> 00:17:12,114
+On the other hand, I need your help.
+
+208
+00:17:12,198 --> 00:17:14,742
+If you're not in a position
+to refuse, all the better.
+
+209
+00:17:16,410 --> 00:17:20,498
+So for the time being, I'm gonna make
+this slavery malarkey work to my benefit.
+
+210
+00:17:21,457 --> 00:17:23,709
+Still, having said that...
+
+211
+00:17:25,002 --> 00:17:26,066
+I feel guilty.
+
+212
+00:17:28,047 --> 00:17:32,969
+So, I would like the two of us
+to enter into an agreement.
+
+213
+00:17:40,309 --> 00:17:41,936
+I'm looking for the Brittle brothers.
+
+214
+00:17:46,816 --> 00:17:50,027
+However, at this endeavor,
+I'm at a slight disadvantage,
+
+215
+00:17:50,861 --> 00:17:52,738
+insofar as I don't know
+what they look like.
+
+216
+00:17:54,740 --> 00:17:57,243
+But you do. Don't you?
+
+217
+00:17:57,994 --> 00:17:59,495
+I know what they look like, all right.
+
+218
+00:18:00,162 --> 00:18:01,202
+Good.
+
+219
+00:18:01,706 --> 00:18:02,957
+So, here's my agreement.
+
+220
+00:18:03,916 --> 00:18:05,876
+You travel with me until we find them.
+
+221
+00:18:05,960 --> 00:18:07,211
+-Where we going?
+-Ah,
+
+222
+00:18:07,295 --> 00:18:10,089
+I hear at least two of them
+are overseeing up in Gatlinburg,
+
+223
+00:18:10,172 --> 00:18:11,299
+but I don't know where.
+
+224
+00:18:12,466 --> 00:18:16,929
+That means we visit every plantation
+in Gatlinburg till we find them.
+
+225
+00:18:17,054 --> 00:18:18,180
+And when we find them...
+
+226
+00:18:19,390 --> 00:18:21,726
+you point them out, and I kill them.
+
+227
+00:18:23,436 --> 00:18:24,500
+You do that?
+
+228
+00:18:25,187 --> 00:18:29,275
+I agree to give you your freedom.
+25 dollars per Brittle brother,
+
+229
+00:18:29,358 --> 00:18:31,152
+-that's 75 dollars.
+-[chatter outside]
+
+230
+00:18:31,235 --> 00:18:34,739
+And, as if on cue, here comes the sheriff.
+
+231
+00:18:42,496 --> 00:18:45,416
+Okay, boys. Fun's over.
+
+232
+00:18:46,890 --> 00:18:47,918
+Come on out.
+
+233
+00:18:50,504 --> 00:18:51,547
+[indistinct chatter]]
+
+234
+00:18:51,631 --> 00:18:54,884
+All right, folks. Calm down.
+
+235
+00:18:56,260 --> 00:18:57,595
+Go about your business.
+
+236
+00:18:59,096 --> 00:19:00,806
+These jokers'll be gone, soon.
+
+237
+00:19:03,267 --> 00:19:07,688
+Now, why y'all wanna come
+into my town and start trouble?
+
+238
+00:19:09,565 --> 00:19:11,859
+Scare all these nice people!
+
+239
+00:19:13,152 --> 00:19:15,446
+You ain't got nothing better to do
+
+240
+00:19:16,155 --> 00:19:21,911
+than to come into Bill Sharp's town
+and show your ass?
+
+241
+00:19:22,620 --> 00:19:24,372
+-[gunshot]
+-[sheriff screams]
+
+242
+00:19:24,497 --> 00:19:26,540
+[Sheriff groans]
+
+243
+00:19:26,624 --> 00:19:27,875
+[woman screams]
+
+244
+00:19:30,169 --> 00:19:31,962
+[man] What'd you just do to our sheriff?
+
+245
+00:19:36,634 --> 00:19:38,177
+-[gunshot]
+-[woman gasps]
+
+246
+00:19:38,386 --> 00:19:40,763
+[crowd screaming]
+
+247
+00:19:45,393 --> 00:19:46,936
+Now, you can get the marshal.
+
+248
+00:19:49,146 --> 00:19:51,524
+[innkeeper] Marshal! Marshal!
+
+249
+00:19:51,607 --> 00:19:53,734
+-[Schultz] Should we wait inside?
+-Can't we just leave?
+
+250
+00:19:53,859 --> 00:19:54,898
+After you.
+
+251
+00:19:57,571 --> 00:20:00,991
+Move that buckboard a long ways
+across the street from the saloon.
+
+252
+00:20:01,992 --> 00:20:04,161
+I want six men, six rifles behind it.
+
+253
+00:20:04,954 --> 00:20:07,331
+I want two men, two rifles
+up on this roof,
+
+254
+00:20:07,415 --> 00:20:09,041
+two men, two rifles on that roof.
+
+255
+00:20:09,750 --> 00:20:11,877
+All the barrels aimed at that front door.
+
+256
+00:20:13,170 --> 00:20:15,840
+Somebody get poor Bill out of the goddamn
+street.
+
+257
+00:20:16,924 --> 00:20:18,134
+You, in the saloon!
+
+258
+00:20:19,635 --> 00:20:22,346
+We got 100 rifles aimed
+at every way out of that building.
+
+259
+00:20:23,597 --> 00:20:26,058
+You got one chance
+to get out of this alive.
+
+260
+00:20:27,560 --> 00:20:30,438
+You and your nigger come out, right now,
+with your hands over your head
+
+261
+00:20:30,521 --> 00:20:31,605
+and I mean right now!
+
+262
+00:20:33,107 --> 00:20:36,736
+[Schultz] <i>Is this the marshal</i>
+<i>I have the pleasure of addressing?</i>
+
+263
+00:20:37,234 --> 00:20:38,279
+Yes, it is.
+
+264
+00:20:39,029 --> 00:20:40,823
+This is U.S. Marshal Gill Tatum.
+
+265
+00:20:41,282 --> 00:20:42,950
+[Schultz] Na, wunderbar, <i>marshal.</i>
+
+266
+00:20:43,993 --> 00:20:47,288
+I have relieved myself of all weapons,
+
+267
+00:20:47,997 --> 00:20:53,419
+and, just as you have instructed,
+I am ready to step outside
+
+268
+00:20:53,794 --> 00:20:57,298
+with my hands raised above my head.
+
+269
+00:20:58,841 --> 00:21:01,427
+<i>I trust, as a representative</i>
+
+270
+00:21:01,510 --> 00:21:04,889
+of the criminal justice system
+of the United States of America,
+
+271
+00:21:05,097 --> 00:21:10,853
+I shan't be shot down in the street
+by either you or your deputies
+
+272
+00:21:11,061 --> 00:21:13,522
+before I've had my day in court.
+
+273
+00:21:14,148 --> 00:21:15,691
+You mean, like you did our sheriff?
+
+274
+00:21:16,317 --> 00:21:18,277
+Shot him down like a dog in the street!
+
+275
+00:21:18,444 --> 00:21:20,571
+Yes, that's exactly what I mean.
+
+276
+00:21:20,905 --> 00:21:22,907
+Do I have your word, as a lawman,
+
+277
+00:21:22,990 --> 00:21:26,327
+not to shoot me down
+like a dog in the street?
+
+278
+00:21:29,872 --> 00:21:33,375
+Well, much as we'd all enjoy
+seeing something like that,
+
+279
+00:21:33,459 --> 00:21:35,961
+ain't nobody gonna cheat
+the hangman in my town.
+
+280
+00:21:37,421 --> 00:21:39,673
+Fair enough, marshal. Here we come.
+
+281
+00:21:42,218 --> 00:21:43,969
+They're a little tense out there,
+
+282
+00:21:44,470 --> 00:21:47,723
+so don't make any quick movements
+and let me do the talking.
+
+283
+00:21:49,517 --> 00:21:51,018
+-[door opening, closing]
+-Come ahead.
+
+284
+00:21:58,067 --> 00:22:00,486
+-You unarmed?
+-[Schultz] Yes, indeed we are.
+
+285
+00:22:01,862 --> 00:22:04,114
+Marshal Tatum, may I address you
+
+286
+00:22:04,198 --> 00:22:07,576
+and your deputies, and apparently
+the entire town of Daughtrey,
+
+287
+00:22:07,660 --> 00:22:09,578
+as to the incident that just occurred?
+
+288
+00:22:11,247 --> 00:22:12,261
+Go on.
+
+289
+00:22:12,665 --> 00:22:13,679
+Thank you.
+
+290
+00:22:14,041 --> 00:22:16,210
+My name is Dr. King Schultz.
+
+291
+00:22:16,293 --> 00:22:19,338
+Like yourself, marshal,
+I'm a servant of the court.
+
+292
+00:22:19,672 --> 00:22:23,008
+The man lying dead in the dirt,
+who the good people of Daughtrey
+
+293
+00:22:23,092 --> 00:22:27,304
+saw fit to elect as their sheriff,
+who went by the name of Bill Sharp,
+
+294
+00:22:27,471 --> 00:22:31,433
+is actually a wanted outlaw
+by the name of Willard Peck
+
+295
+00:22:32,142 --> 00:22:34,687
+with a price on his head of 200 dollars.
+
+296
+00:22:34,937 --> 00:22:37,398
+Now, that's 200 dollars, dead or alive.
+
+297
+00:22:38,107 --> 00:22:39,191
+The hell you say?
+
+298
+00:22:39,859 --> 00:22:43,279
+I'm aware this is probably
+disconcerting news,
+
+299
+00:22:43,779 --> 00:22:45,239
+but I'm willing to wager
+
+300
+00:22:45,322 --> 00:22:49,118
+this man was elected sheriff
+at some time in the past two years?
+
+301
+00:22:50,828 --> 00:22:52,288
+-Yeah.
+-[Schultz] I know this
+
+302
+00:22:52,371 --> 00:22:55,082
+because three years ago,
+he was rustling cattle
+
+303
+00:22:55,165 --> 00:22:58,627
+from the B.C. Corrigan Cattle Company
+of Lubbock, Texas.
+
+304
+00:22:59,128 --> 00:23:01,630
+Now, this is a warrant
+
+305
+00:23:02,006 --> 00:23:08,095
+made out by circuit court judge
+Henry Allen Laudermilk of Austin, Texas.
+
+306
+00:23:08,721 --> 00:23:10,389
+You're encouraged to wire him.
+
+307
+00:23:10,598 --> 00:23:15,436
+He'll back up who I am
+and who your dear departed sheriff was.
+
+308
+00:23:23,694 --> 00:23:25,070
+In other words, marshal...
+
+309
+00:23:25,946 --> 00:23:27,281
+you owe me 200 dollars.
+
+310
+00:23:28,198 --> 00:23:32,912
+["Lo Chiamavano King (His Name Is King)"
+by Luis Bacalov & Edda Dell'Orso playing]
+
+311
+00:23:36,415 --> 00:23:37,416
+I'll be damned.
+
+312
+00:23:37,875 --> 00:23:42,463
+♪ <i>His name was King</i>
+<i>He had a horse ♪</i>
+
+313
+00:23:43,005 --> 00:23:47,301
+♪ <i>Along the countryside</i>
+<i>I saw him ride ♪</i>
+
+314
+00:23:47,968 --> 00:23:52,264
+♪ <i>He had a gun</i>
+<i>I knew him well ♪</i>
+
+315
+00:23:52,723 --> 00:23:57,895
+♪ <i>Oh, I heard him singing</i>
+<i>I knew he loved someone ♪</i>
+
+316
+00:24:06,028 --> 00:24:08,364
+[Schultz] After this Brittle business
+is behind us...
+
+317
+00:24:09,740 --> 00:24:11,033
+you'll be a free man.
+
+318
+00:24:11,742 --> 00:24:15,120
+With a horse,
+75 dollars in your back pocket...
+
+319
+00:24:17,998 --> 00:24:19,291
+What's your plan after that?
+
+320
+00:24:21,752 --> 00:24:22,753
+Find my wife...
+
+321
+00:24:24,254 --> 00:24:25,255
+and buy her freedom.
+
+322
+00:24:27,800 --> 00:24:28,884
+Django!
+
+323
+00:24:30,094 --> 00:24:32,221
+I had no idea you were a married man.
+
+324
+00:24:33,430 --> 00:24:35,265
+Do most slaves believe in marriage?
+
+325
+00:24:36,892 --> 00:24:38,018
+Me and my wife do.
+
+326
+00:24:39,395 --> 00:24:43,065
+Old Man Carrucan didn't.
+That's why we... ran off.
+
+327
+00:24:44,817 --> 00:24:45,943
+[Carrucan] Django...
+
+328
+00:24:46,819 --> 00:24:48,946
+Django, Django...
+
+329
+00:24:49,697 --> 00:24:51,824
+You got sand, Django.
+
+330
+00:24:53,158 --> 00:24:54,785
+The boy's got sand.
+
+331
+00:24:56,912 --> 00:24:59,832
+I got no use for a nigger with sand.
+
+332
+00:25:01,583 --> 00:25:04,628
+I want you to burn a runaway "R"
+right here on his cheek.
+
+333
+00:25:05,421 --> 00:25:06,463
+And the girl, too.
+
+334
+00:25:06,714 --> 00:25:07,965
+[Django sighs]
+
+335
+00:25:08,382 --> 00:25:12,970
+And I want you to take them
+to the Greenville auction and sell them.
+
+336
+00:25:13,918 --> 00:25:15,014
+Both of them.
+
+337
+00:25:16,348 --> 00:25:17,516
+Separately.
+
+338
+00:25:20,477 --> 00:25:21,478
+And this one...
+
+339
+00:25:24,189 --> 00:25:26,567
+You will sell him cheap.
+
+340
+00:25:29,111 --> 00:25:30,154
+[Schultz] In Greenville...
+
+341
+00:25:33,198 --> 00:25:35,743
+there should be some sort
+of a records office.
+
+342
+00:25:43,292 --> 00:25:44,960
+You know, when she was sold...
+
+343
+00:25:46,962 --> 00:25:48,714
+you know where she came from...
+
+344
+00:25:50,174 --> 00:25:51,341
+and you know her name.
+
+345
+00:25:52,760 --> 00:25:53,849
+What is her name?
+
+346
+00:25:54,720 --> 00:25:55,763
+Broomhilda.
+
+347
+00:25:57,723 --> 00:25:58,724
+What?
+
+348
+00:25:58,849 --> 00:26:00,017
+Broomhilda.
+
+349
+00:26:01,143 --> 00:26:02,269
+Broomhilda?
+
+350
+00:26:05,355 --> 00:26:06,565
+Were her owners German?
+
+351
+00:26:07,024 --> 00:26:08,088
+Yeah, how you know?
+
+352
+00:26:09,109 --> 00:26:10,819
+She wasn't born
+on the Carrucan plantation.
+
+353
+00:26:10,903 --> 00:26:13,238
+She was raised
+by a German mistress. The Von Shafts.
+
+354
+00:26:13,405 --> 00:26:14,740
+She speak a little German, too.
+
+355
+00:26:15,574 --> 00:26:17,910
+-Your wife?
+-Mm-hmm. When she was little,
+
+356
+00:26:17,993 --> 00:26:20,662
+her mistress taught her, so she'd have
+someone to speak German with.
+
+357
+00:26:22,581 --> 00:26:24,041
+Well, let me get this straight.
+
+358
+00:26:25,334 --> 00:26:29,963
+Your slave wife speaks German
+and her name is Broomhilda Von Shaft?
+
+359
+00:26:30,047 --> 00:26:31,061
+Yep.
+
+360
+00:26:35,511 --> 00:26:36,678
+They call me Hildi.
+
+361
+00:26:46,522 --> 00:26:48,607
+[rooster crowing]
+
+362
+00:26:54,863 --> 00:27:00,077
+When we gain access to these plantations,
+we'll be putting on an act.
+
+363
+00:27:01,787 --> 00:27:03,997
+You'll be playing a character.
+
+364
+00:27:11,252 --> 00:27:12,256
+Huh?
+
+365
+00:27:13,271 --> 00:27:14,299
+No?
+
+366
+00:27:21,682 --> 00:27:25,727
+Now, during the act,
+you can never break character.
+
+367
+00:27:27,396 --> 00:27:28,419
+Do you understand?
+
+368
+00:27:29,481 --> 00:27:31,525
+Yeah. Don't break character.
+
+369
+00:27:34,403 --> 00:27:37,739
+And your character is that of the valet.
+
+370
+00:27:38,866 --> 00:27:39,867
+What that is?
+
+371
+00:27:41,493 --> 00:27:43,203
+That's a fancy word for servant.
+
+372
+00:27:44,037 --> 00:27:45,289
+-Valet?
+-Mm-hmm.
+
+373
+00:27:45,372 --> 00:27:46,436
+[Django chuckles]
+
+374
+00:27:46,874 --> 00:27:50,752
+And now, Django, you may choose
+your character's costume.
+
+375
+00:27:53,630 --> 00:27:55,549
+Youse gonna let me pick out
+my own clothes?
+
+376
+00:27:55,688 --> 00:27:56,758
+But of course.
+
+377
+00:27:57,426 --> 00:28:00,929
+["Lo Chiamavano King (His Name Is King)"
+by Luis Bacalov & Edda Dell'Orso playing]
+
+378
+00:28:01,013 --> 00:28:03,807
+-♪ <i>His name was King ♪</i>
+-♪ <i>His name was King ♪</i>
+
+379
+00:28:03,891 --> 00:28:06,310
+-♪ <i>He had a horse ♪</i>
+-♪ <i>He had a brother ♪</i>
+
+380
+00:28:06,393 --> 00:28:11,231
+♪ <i>Along the countryside</i>
+<i>I saw him ride ♪</i>
+
+381
+00:28:11,815 --> 00:28:15,903
+♪ <i>He had a gun</i>
+<i>Oh, I knew him well ♪</i>
+
+382
+00:28:16,570 --> 00:28:18,655
+♪ <i>And when he shot ♪</i>
+
+383
+00:28:19,281 --> 00:28:23,202
+♪ <i>Oh, that man, he never missed ♪</i>
+
+384
+00:28:23,660 --> 00:28:25,412
+♪ <i>Ride on, King, ride ♪</i>
+
+385
+00:28:25,495 --> 00:28:26,413
+[Schultz] Whoa.
+
+386
+00:28:26,538 --> 00:28:29,124
+♪ <i>You get your man ♪</i>
+
+387
+00:28:30,751 --> 00:28:34,546
+It's against the law for niggers
+to ride horses in this territory.
+
+388
+00:28:34,838 --> 00:28:37,382
+This is my valet. My valet does not walk.
+
+389
+00:28:38,300 --> 00:28:40,594
+I said, niggers on horses--
+
+390
+00:28:40,677 --> 00:28:44,890
+His name is Django. He's a free man.
+He can ride what he pleases.
+
+391
+00:28:45,224 --> 00:28:48,477
+Not on my property.
+Not around my niggers, he can't.
+
+392
+00:28:49,561 --> 00:28:50,687
+My good sir!
+
+393
+00:28:51,980 --> 00:28:53,815
+Perhaps we got off on the wrong boot.
+
+394
+00:28:54,441 --> 00:28:56,735
+Allow me to unring this bell.
+
+395
+00:28:57,194 --> 00:29:00,948
+My name is Dr. King Schultz,
+this is my valet, Django,
+
+396
+00:29:01,156 --> 00:29:03,408
+and these are our horses, Tony and Fritz.
+
+397
+00:29:03,492 --> 00:29:05,327
+-[Fritz snorts]
+-[women laughing]
+
+398
+00:29:07,162 --> 00:29:13,335
+Mr. Bennett, I've been led to believe
+that you're a gentleman and a businessman.
+
+399
+00:29:13,418 --> 00:29:17,005
+And it is for these attributes
+we've ridden from Texas to Tennessee
+
+400
+00:29:17,089 --> 00:29:18,632
+to parley with you, now.
+
+401
+00:29:20,092 --> 00:29:23,345
+I wish to purchase
+one of your nigger gals.
+
+402
+00:29:25,555 --> 00:29:29,101
+You and your Jimmie
+rode from Texas to Tennessee
+
+403
+00:29:29,184 --> 00:29:30,769
+to buy one of my nigger gals?
+
+404
+00:29:30,978 --> 00:29:32,229
+No appointment, no nothing?
+
+405
+00:29:33,021 --> 00:29:34,314
+Oh, I'm afraid so.
+
+406
+00:29:35,148 --> 00:29:37,317
+Well, what if I was to say
+I don't like you
+
+407
+00:29:37,693 --> 00:29:41,238
+or your fancy-pants nigger,
+and I wouldn't sell you a tinker's damn?
+
+408
+00:29:42,030 --> 00:29:43,490
+Now, what you got to say about that?
+
+409
+00:29:46,994 --> 00:29:48,203
+Mr. Bennett...
+
+410
+00:29:49,329 --> 00:29:52,374
+if you are the businessman
+I've been led to believe you to be,
+
+411
+00:29:52,749 --> 00:29:57,296
+I have 5,000 things I might say
+that could change your mind.
+
+412
+00:29:58,920 --> 00:29:59,965
+[chuckles]
+
+413
+00:30:01,925 --> 00:30:05,262
+Well, come on inside
+and get yourself something cool to drink.
+
+414
+00:30:06,555 --> 00:30:07,973
+Huh! Mm-hmm.
+
+415
+00:30:10,017 --> 00:30:11,018
+[chuckles]
+
+416
+00:30:17,774 --> 00:30:19,735
+[indistinct chatter]
+
+417
+00:30:19,818 --> 00:30:21,903
+Maybe while we discuss business,
+
+418
+00:30:21,987 --> 00:30:24,531
+you could provide
+one of your loveliest black creatures
+
+419
+00:30:24,614 --> 00:30:27,367
+to escort Django, here,
+around your magnificent grounds.
+
+420
+00:30:27,451 --> 00:30:29,536
+[Big Daddy] Oh, well, absolutely. Betina?
+
+421
+00:30:29,661 --> 00:30:32,914
+-Yes, sir, Big Daddy?
+-Uh... What's your Jimmie's name, again?
+
+422
+00:30:33,457 --> 00:30:34,833
+-Django.
+-Django!
+
+423
+00:30:35,125 --> 00:30:37,544
+Betina, sugar, could you take Django there
+
+424
+00:30:37,627 --> 00:30:40,797
+and take him around the grounds, here,
+and show him all the pretty stuff?
+
+425
+00:30:41,006 --> 00:30:43,175
+-As you please, Big Daddy.
+-Oh, Mr. Bennett.
+
+426
+00:30:43,884 --> 00:30:48,430
+I must remind you, Django is a free man.
+He cannot be treated like a slave.
+
+427
+00:30:48,555 --> 00:30:50,015
+Within the bounds of good taste,
+
+428
+00:30:50,098 --> 00:30:52,309
+he must be treated
+as an extension of myself.
+
+429
+00:30:52,851 --> 00:30:54,686
+[Big Daddy] Understood, Schultz.
+Betina, sugar?
+
+430
+00:30:54,770 --> 00:30:57,647
+-Yes'm?
+-Django isn't a slave.
+
+431
+00:30:58,315 --> 00:31:00,400
+Django is a free man, you understand?
+
+432
+00:31:01,651 --> 00:31:04,154
+You can't treat him like any
+of the other niggers around here,
+
+433
+00:31:04,237 --> 00:31:07,074
+because he ain't like any of the other
+niggers around here. You got it?
+
+434
+00:31:07,366 --> 00:31:09,993
+You want I should treat him
+like white folks?
+
+435
+00:31:10,369 --> 00:31:11,383
+No.
+
+436
+00:31:12,079 --> 00:31:13,246
+That's not what I said.
+
+437
+00:31:13,580 --> 00:31:15,457
+Then I don't know
+what you want, Big Daddy.
+
+438
+00:31:16,416 --> 00:31:19,878
+[Big Daddy] Yes, I can see that. Uh...
+
+439
+00:31:21,463 --> 00:31:23,715
+What's the name of that
+peckawood boy from town
+
+440
+00:31:23,799 --> 00:31:25,092
+that works with the glass?
+
+441
+00:31:26,009 --> 00:31:27,761
+His mama work over at the lumberyard.
+
+442
+00:31:28,220 --> 00:31:30,889
+-Oh, you mean Jerry.
+-That's the boy's name. Jerry.
+
+443
+00:31:31,098 --> 00:31:33,683
+-You know Jerry, don't you, sugar?
+-Yes'm, Big Daddy.
+
+444
+00:31:34,101 --> 00:31:35,268
+Well, that's it, then!
+
+445
+00:31:36,061 --> 00:31:38,313
+You just treat him like you would Jerry.
+
+446
+00:31:38,980 --> 00:31:45,320
+[plays classical violin]
+
+447
+00:31:45,570 --> 00:31:48,532
+That house we just left from
+is the Big House.
+
+448
+00:31:48,782 --> 00:31:51,243
+Big Daddy call it that because it's big.
+
+449
+00:31:52,702 --> 00:31:54,955
+That there is the pantry.
+
+450
+00:31:55,205 --> 00:31:57,791
+That's where Big Daddy
+hang all his dead meat.
+
+451
+00:31:58,750 --> 00:32:00,210
+Poor little squirrels.
+
+452
+00:32:02,421 --> 00:32:04,089
+What you do for your master?
+
+453
+00:32:05,173 --> 00:32:07,008
+Didn't you hear him tell you
+I ain't no slave?
+
+454
+00:32:07,092 --> 00:32:09,386
+-So, you really free?
+-Yes, I's free.
+
+455
+00:32:09,594 --> 00:32:11,596
+You mean you wanna dress like that?
+
+456
+00:32:13,932 --> 00:32:16,393
+-Betina, I need to ask something.
+-What you want?
+
+457
+00:32:16,476 --> 00:32:19,688
+I'm looking for three white men.
+Three brothers. Overseers.
+
+458
+00:32:19,771 --> 00:32:22,149
+-Their name is Brittle. You know them?
+-Brittle?
+
+459
+00:32:22,232 --> 00:32:24,860
+Yes, Brittle.
+John Brittle, Ellis Brittle...
+
+460
+00:32:25,277 --> 00:32:27,779
+Roger Brittle, sometime called Little Raj.
+
+461
+00:32:28,113 --> 00:32:29,114
+I don't know them.
+
+462
+00:32:30,282 --> 00:32:31,825
+They could be using a different name.
+
+463
+00:32:32,159 --> 00:32:35,787
+-They would've come this past year.
+-You mean the Shaffers?
+
+464
+00:32:36,288 --> 00:32:38,165
+Maybe. Three brothers?
+
+465
+00:32:38,498 --> 00:32:40,250
+-Uh-huh.
+-They here?
+
+466
+00:32:40,584 --> 00:32:43,086
+-Uh-huh.
+-Could you point one of them out to me?
+
+467
+00:32:43,670 --> 00:32:45,714
+Well, one's over in that field.
+
+468
+00:32:50,844 --> 00:32:53,722
+["Freedom" by Anthony Hamilton
+& Elayna Boynton playing]
+
+469
+00:32:54,014 --> 00:32:55,265
+♪ <i>Ooh ♪</i>
+
+470
+00:32:59,311 --> 00:33:01,605
+[Django] Old Man Carrucan
+ain't gonna appreciate this, now.
+
+471
+00:33:01,730 --> 00:33:04,149
+She work in the house, John.
+You mess the skin up,
+
+472
+00:33:04,399 --> 00:33:06,818
+you gonna mess her up,
+she ain't gonna be worth a damn thing.
+
+473
+00:33:07,068 --> 00:33:08,195
+Now, your Bible say...
+
+474
+00:33:09,070 --> 00:33:14,075
+♪ <i>Felt like the weight of the</i>
+<i>World was on my shoulders ♪</i>
+
+475
+00:33:14,159 --> 00:33:15,702
+[Django] I told you, I made her do it.
+
+476
+00:33:16,119 --> 00:33:18,872
+-You ready?
+-She didn't wanna run off with me.
+
+477
+00:33:18,955 --> 00:33:21,750
+If anybody should be getting whupped,
+it should be me, John.
+
+478
+00:33:21,833 --> 00:33:24,628
+I've been here long enough.
+You've known me a long time, now.
+
+479
+00:33:25,059 --> 00:33:26,087
+[dogs barking]
+
+480
+00:33:26,171 --> 00:33:31,885
+♪ <i>Facing the fear that</i>
+<i>The truth I discover ♪</i>
+
+481
+00:33:34,221 --> 00:33:36,348
+You know, Master Carrucan
+ain't gonna appreciate this.
+
+482
+00:33:37,098 --> 00:33:38,141
+She's a house slave.
+
+483
+00:33:39,601 --> 00:33:41,728
+-[whipping]
+-[screams]
+
+484
+00:33:41,811 --> 00:33:46,149
+♪ <i>I'm looking for freedom ♪</i>
+
+485
+00:33:46,441 --> 00:33:48,652
+♪ <i>Looking for freedom ♪</i>
+
+486
+00:33:48,902 --> 00:33:50,862
+♪ <i>Oh, oh, oh ♪</i>
+
+487
+00:33:50,987 --> 00:33:53,949
+♪ <i>And to find it</i>
+<i>Cost me everything I have ♪</i>
+
+488
+00:33:54,032 --> 00:33:56,743
+-[whipping]
+-[screams]
+
+489
+00:33:58,537 --> 00:34:00,330
+♪ <i>Well, I am looking for freedom ♪</i>
+
+490
+00:34:00,747 --> 00:34:02,624
+-[whipping]
+-[Django] I'm asking you, please.
+
+491
+00:34:02,832 --> 00:34:05,627
+Ain't this what you want? I'm keeping it
+funny for you. Now, John, please.
+
+492
+00:34:05,710 --> 00:34:07,087
+-[whipping]
+-[groans]
+
+493
+00:34:07,170 --> 00:34:09,965
+-♪ <i>Oh, and to find it ♪</i>
+-Oh, God, oh, God, oh, God...
+
+494
+00:34:11,466 --> 00:34:12,676
+I's on my knees, John.
+
+495
+00:34:13,176 --> 00:34:14,886
+I like the way you beg, boy.
+
+496
+00:34:18,890 --> 00:34:20,517
+Is that who you was looking for?
+
+497
+00:34:22,725 --> 00:34:23,770
+Yep.
+
+498
+00:34:25,313 --> 00:34:26,398
+Where the other two at?
+
+499
+00:34:26,731 --> 00:34:30,694
+They by the stable,
+punishing Little Jody for breaking eggs.
+
+500
+00:34:30,944 --> 00:34:32,070
+They whipping Little Jody?
+
+501
+00:34:33,029 --> 00:34:34,406
+Point me in that direction.
+
+502
+00:34:35,407 --> 00:34:38,326
+You go to that tree
+and keep going thattaway.
+
+503
+00:34:43,290 --> 00:34:45,000
+Go get that white man I came here with.
+
+504
+00:34:47,002 --> 00:34:49,004
+-[Little Raj] Come on, now.
+-[Jody] No, no, please!
+
+505
+00:34:49,087 --> 00:34:50,547
+[Little Raj] Come on, girlie. Come on.
+
+506
+00:34:50,630 --> 00:34:52,716
+-[Jody sobs]
+-[Little Raj] Get you set up, now.
+
+507
+00:34:53,049 --> 00:34:56,052
+-And the Lord said, "The fear of ye..."
+-[whipping]
+
+508
+00:34:56,511 --> 00:35:00,932
+"...and the dread of ye
+shall be on every beast of the earth."
+
+509
+00:35:01,016 --> 00:35:01,975
+[whipping]
+
+510
+00:35:02,100 --> 00:35:04,227
+-[Little Raj] Hey, give me that arm!
+-[Jody] Please, no!
+
+511
+00:35:04,311 --> 00:35:07,022
+[Little Raj] You better give me that arm.
+You better give me that arm!
+
+512
+00:35:23,788 --> 00:35:25,290
+Okay, she ready!
+
+513
+00:35:26,875 --> 00:35:28,793
+[Jody whimpers]
+
+514
+00:35:39,929 --> 00:35:40,930
+And after this...
+
+515
+00:35:41,723 --> 00:35:43,725
+we'll see if you break eggs again.
+
+516
+00:35:47,228 --> 00:35:48,229
+John Brittle!
+
+517
+00:36:09,751 --> 00:36:10,794
+You remember me?
+
+518
+00:36:15,162 --> 00:36:16,216
+[girl gasps]
+
+519
+00:36:23,723 --> 00:36:25,433
+I like the way you die, boy.
+
+520
+00:36:31,439 --> 00:36:33,817
+Goddamn son of a bitch!
+
+521
+00:36:41,574 --> 00:36:42,742
+[grunts]
+
+522
+00:36:52,001 --> 00:36:53,336
+Keep it funny!
+
+523
+00:36:57,340 --> 00:36:59,008
+[screams]
+
+524
+00:37:08,268 --> 00:37:09,561
+[Little Raj groans]
+
+525
+00:37:19,112 --> 00:37:20,196
+Y'all wanna see something?
+
+526
+00:37:20,953 --> 00:37:22,031
+[cocks gun]
+
+527
+00:37:23,199 --> 00:37:24,743
+[Little Raj groans] No!
+
+528
+00:37:25,243 --> 00:37:26,619
+-[groans]
+-[gunfire]
+
+529
+00:37:30,206 --> 00:37:31,416
+[cocks gun]
+
+530
+00:37:35,879 --> 00:37:36,943
+Who were they?
+
+531
+00:37:38,298 --> 00:37:40,633
+That's Big John, that's Little Raj.
+
+532
+00:37:41,301 --> 00:37:42,415
+Where's Ellis?
+
+533
+00:37:42,886 --> 00:37:45,263
+He's the one hightailing it
+across that field right now.
+
+534
+00:37:50,185 --> 00:37:51,436
+-You sure that's him?
+-Yeah.
+
+535
+00:37:51,811 --> 00:37:53,438
+-Positive?
+-I don't know.
+
+536
+00:37:53,897 --> 00:37:56,191
+-If you're positive?
+-I don't know what "positive" mean.
+
+537
+00:37:56,274 --> 00:37:57,692
+-It means you're sure.
+-Yes.
+
+538
+00:37:57,817 --> 00:37:59,819
+-"Yes," what?
+-Yes, I'm sure that's Ellis Brittle.
+
+539
+00:38:13,124 --> 00:38:14,417
+I'm positive he dead.
+
+540
+00:38:19,628 --> 00:38:20,715
+Django!
+
+541
+00:38:22,801 --> 00:38:27,222
+Everybody calm down.
+We mean no-one else any harm.
+
+542
+00:38:27,680 --> 00:38:28,932
+Who are you two jokers?
+
+543
+00:38:29,516 --> 00:38:32,352
+I am Dr. King Schultz,
+a legal representative
+
+544
+00:38:32,477 --> 00:38:35,814
+of the criminal justice system
+of the United States of America.
+
+545
+00:38:35,897 --> 00:38:39,275
+The man to my left is Django Freeman.
+He's my deputy.
+
+546
+00:38:40,068 --> 00:38:41,986
+In my pocket is a warrant
+
+547
+00:38:42,237 --> 00:38:46,491
+signed by circuit court judge
+Henry Allen Laudermilk of Austin, Texas
+
+548
+00:38:46,699 --> 00:38:50,370
+for the arrest and capture, dead or alive,
+
+549
+00:38:50,620 --> 00:38:55,375
+of John Brittle,
+Roger Brittle and Ellis Brittle.
+
+550
+00:38:55,583 --> 00:38:57,126
+They were going by the name Shaffer.
+
+551
+00:38:59,170 --> 00:39:02,257
+[Schultz] You know them by the name
+of Shaffer, but the butchers' real name
+
+552
+00:39:02,340 --> 00:39:03,354
+was Brittle.
+
+553
+00:39:03,550 --> 00:39:06,886
+These are wanted men.
+The law wants them for murder.
+
+554
+00:39:07,095 --> 00:39:08,304
+Now, I reiterate.
+
+555
+00:39:08,721 --> 00:39:11,391
+The warrant states "dead or alive,"
+
+556
+00:39:11,474 --> 00:39:14,769
+so when Mr. Freeman and myself
+executed these men on sight,
+
+557
+00:39:14,978 --> 00:39:18,106
+we were operating
+within our legal boundaries.
+
+558
+00:39:19,148 --> 00:39:22,944
+I realize passions are high...
+
+559
+00:39:24,028 --> 00:39:25,446
+but I must warn you,
+
+560
+00:39:26,155 --> 00:39:29,284
+the penalty for taking deadly force
+against an officer of the court
+
+561
+00:39:29,367 --> 00:39:31,119
+in the performance of his duty is...
+
+562
+00:39:32,036 --> 00:39:33,955
+you'll be hung by the neck
+until you're dead.
+
+563
+00:39:37,709 --> 00:39:42,046
+Now, may I please remove the warrant
+from my pocket so you may examine it?
+
+564
+00:39:44,465 --> 00:39:45,466
+Gimme.
+
+565
+00:40:02,066 --> 00:40:03,067
+Satisfied?
+
+566
+00:40:10,199 --> 00:40:11,826
+May I have that back, please?
+
+567
+00:40:17,749 --> 00:40:18,958
+Get off my land.
+
+568
+00:40:19,459 --> 00:40:20,877
+Posthaste.
+
+569
+00:40:21,669 --> 00:40:25,632
+Load up the bodies as quickly as you can,
+and let's get out of here.
+
+570
+00:40:29,135 --> 00:40:31,387
+[Schultz whistles]
+
+571
+00:40:51,783 --> 00:40:54,911
+Yeah, that's them sons of bitches.
+
+572
+00:41:20,937 --> 00:41:23,856
+[men shouting and whooping]
+
+573
+00:41:35,523 --> 00:41:36,619
+[man 1] Come on, men!
+
+574
+00:41:38,705 --> 00:41:40,289
+[man 2] We're coming for you, nigger!
+
+575
+00:41:51,801 --> 00:41:55,430
+[Big Daddy] Now, unless they start
+shooting first, nobody shoot them.
+
+576
+00:41:56,556 --> 00:41:58,349
+That's way too simple for these jokers.
+
+577
+00:41:59,225 --> 00:42:01,853
+We're gonna whup
+that nigger-lover to death.
+
+578
+00:42:02,103 --> 00:42:06,357
+And I'm gonna personally strip and clip
+that garboon myself.
+
+579
+00:42:10,945 --> 00:42:11,990
+Damn...
+
+580
+00:42:13,531 --> 00:42:15,742
+I can't see fucking shit
+out of this thing!
+
+581
+00:42:16,701 --> 00:42:18,161
+[Randy] We ready or what?
+
+582
+00:42:18,786 --> 00:42:20,872
+[Big Daddy] Hold on,
+I'm fucking with my eyeholes.
+
+583
+00:42:21,330 --> 00:42:23,374
+Oh. Oh, shit.
+
+584
+00:42:23,875 --> 00:42:25,793
+I just made it worse.
+
+585
+00:42:25,877 --> 00:42:29,047
+-[Harry] Who made this goddam shit?
+-[O.B.] Willard's wife.
+
+586
+00:42:29,130 --> 00:42:31,090
+[Willard] Well, make your own
+goddamn masks!
+
+587
+00:42:31,174 --> 00:42:34,886
+Look, nobody's saying they don't
+appreciate what Jenny did.
+
+588
+00:42:34,969 --> 00:42:37,555
+[Redfish] If all I had to do
+was cut a hole in a bag,
+
+589
+00:42:37,722 --> 00:42:39,474
+I could've cut it better than this.
+
+590
+00:42:39,682 --> 00:42:41,893
+[Randy] What about you, Robert?
+Can you see?
+
+591
+00:42:42,351 --> 00:42:43,644
+[Robert] Not too good.
+
+592
+00:42:44,062 --> 00:42:48,191
+I mean, if I don't move my head,
+I can see you pretty good, more or less,
+
+593
+00:42:48,441 --> 00:42:51,861
+but when I start riding, the bag's
+moving all over, and I'm riding blind.
+
+594
+00:42:52,028 --> 00:42:52,904
+Shit.
+
+595
+00:42:54,655 --> 00:42:56,157
+I just made mine worse.
+
+596
+00:42:58,451 --> 00:42:59,911
+Anybody bring any extra bags?
+
+597
+00:43:00,161 --> 00:43:03,164
+[Redfish] No, nobody brought an extra bag!
+
+598
+00:43:03,456 --> 00:43:04,916
+I'm just asking.
+
+599
+00:43:05,208 --> 00:43:07,001
+[O.B.] Do we have to wear them
+when we ride?
+
+600
+00:43:07,126 --> 00:43:08,252
+Well, shitfire!
+
+601
+00:43:08,628 --> 00:43:11,589
+If you don't wear them as you ride up,
+that defeats the purpose!
+
+602
+00:43:11,672 --> 00:43:13,508
+[Redfish] Well, I can't see
+in this fucking thing!
+
+603
+00:43:13,716 --> 00:43:16,427
+I can't breathe and I can't ride
+in this fucking thing.
+
+604
+00:43:16,636 --> 00:43:18,638
+[Willard] Well, fuck all y'all.
+I'm going home.
+
+605
+00:43:19,263 --> 00:43:21,557
+Now, I've watched my wife work all day,
+
+606
+00:43:21,641 --> 00:43:25,394
+getting 30 bags together for you
+ungrateful sons of bitches,
+
+607
+00:43:25,478 --> 00:43:28,940
+and all I can hear is criticize,
+criticize, criticize.
+
+608
+00:43:29,357 --> 00:43:32,276
+From now on, don't ask me
+or mine for nothing.
+
+609
+00:43:33,903 --> 00:43:36,781
+Now, look. Let's not forget
+why we're here.
+
+610
+00:43:36,948 --> 00:43:39,492
+We got a killer nigger
+over that hill, there.
+
+611
+00:43:40,159 --> 00:43:41,702
+And we gotta make a lesson out of him.
+
+612
+00:43:41,786 --> 00:43:44,956
+Okay, I'm confused.
+Are the bags on or off?
+
+613
+00:43:45,706 --> 00:43:50,711
+[Robert] I think we all think
+the bag was a nice idea.
+
+614
+00:43:50,837 --> 00:43:53,589
+-[Randy] Yeah.
+-[Robert] But, not pointing any fingers...
+
+615
+00:43:54,507 --> 00:43:55,716
+they could have been done better.
+
+616
+00:43:56,968 --> 00:44:00,012
+So, how about no bags this time...
+
+617
+00:44:00,888 --> 00:44:05,768
+but next time, we do the bags right,
+and then we go full regalia.
+
+618
+00:44:05,852 --> 00:44:08,229
+-[man 1] I like that idea.
+-[man 2] You get my vote, brother.
+
+619
+00:44:08,312 --> 00:44:10,982
+Wait a minute! I didn't say no bags.
+
+620
+00:44:11,649 --> 00:44:13,234
+But nobody can see.
+
+621
+00:44:14,068 --> 00:44:16,779
+-So?
+-So, it'd be nice to see.
+
+622
+00:44:17,363 --> 00:44:22,076
+Goddamn it, this is a raid!
+I can't see, you can't see.
+
+623
+00:44:22,285 --> 00:44:25,413
+So what? All that matters is,
+can the fucking horse see?
+
+624
+00:44:25,746 --> 00:44:26,789
+That's a raid!
+
+625
+00:44:27,373 --> 00:44:29,959
+-[men shouting]
+-[Harry] Sons of bitches!
+
+626
+00:44:31,043 --> 00:44:32,420
+I can't see shit!
+
+627
+00:44:33,004 --> 00:44:36,382
+[Big Daddy] There he is.
+Get that nigger out from under that wagon.
+
+628
+00:44:37,425 --> 00:44:39,343
+And get that nigger-lover
+out of the wagon!
+
+629
+00:44:39,552 --> 00:44:41,929
+-That nigger ain't down here, Big Daddy!
+-What?
+
+630
+00:44:42,054 --> 00:44:43,764
+-They tricked us.
+-Where are they?
+
+631
+00:44:44,432 --> 00:44:45,433
+<i>Auf Wiedersehen!</i>
+
+632
+00:44:51,189 --> 00:44:53,816
+-Oh! [laughs]
+-Bullseye.
+
+633
+00:44:54,609 --> 00:44:56,485
+[men screaming]
+
+634
+00:44:57,069 --> 00:44:58,196
+[Django] Look at them run.
+
+635
+00:45:03,326 --> 00:45:05,328
+Yeah, cowards tend to do that.
+
+636
+00:45:14,045 --> 00:45:15,087
+[Big Daddy] Goddamn it!
+
+637
+00:45:19,884 --> 00:45:20,968
+Would you care to?
+
+638
+00:45:28,351 --> 00:45:29,977
+[Big Daddy] Can't see shit out of this!
+
+639
+00:45:30,978 --> 00:45:32,521
+-He's getting away.
+-I got him.
+
+640
+00:45:34,899 --> 00:45:36,609
+[Schultz] Big Daddy's getting away.
+
+641
+00:45:36,692 --> 00:45:37,751
+I got him.
+
+642
+00:45:41,697 --> 00:45:43,366
+[bullet whistling]
+
+643
+00:45:43,449 --> 00:45:44,742
+[Big Daddy grunts]
+
+644
+00:45:53,125 --> 00:45:54,156
+Got him.
+
+645
+00:45:56,462 --> 00:45:58,965
+[horse neighing]
+
+646
+00:45:59,112 --> 00:46:00,132
+[chuckles]
+
+647
+00:46:00,216 --> 00:46:01,676
+The kid's a natural.
+
+648
+00:46:12,979 --> 00:46:15,106
+How you know Broomhilda's
+first masters was German?
+
+649
+00:46:16,941 --> 00:46:18,359
+Broomhilda's a German name.
+
+650
+00:46:19,068 --> 00:46:21,487
+If they named her, it stands
+to reason they'd be German.
+
+651
+00:46:22,238 --> 00:46:24,073
+Lots of gals where you're from
+named Broomhilda?
+
+652
+00:46:25,199 --> 00:46:27,827
+Broomhilda is the name of a character
+
+653
+00:46:28,244 --> 00:46:31,455
+in the most popular
+of all the German legends.
+
+654
+00:46:32,415 --> 00:46:33,791
+There's a story about Broomhilda?
+
+655
+00:46:34,417 --> 00:46:35,543
+Oh, yes, there is.
+
+656
+00:46:42,216 --> 00:46:43,252
+Do you know it?
+
+657
+00:46:43,551 --> 00:46:45,344
+Oh, every German knows that story.
+
+658
+00:46:52,101 --> 00:46:53,352
+Would you like me to tell you?
+
+659
+00:46:54,760 --> 00:46:55,771
+Well...
+
+660
+00:46:57,148 --> 00:47:00,776
+Broomhilda was a... princess.
+
+661
+00:47:02,737 --> 00:47:06,657
+She was a daughter of Wotan,
+god of all gods.
+
+662
+00:47:07,908 --> 00:47:10,995
+Anyway, her father is really mad at her.
+
+663
+00:47:11,287 --> 00:47:12,289
+What she do?
+
+664
+00:47:13,664 --> 00:47:17,168
+I can't exactly remember.
+She disobeys him in some way.
+
+665
+00:47:18,127 --> 00:47:20,838
+So, he puts her on top of the mountain.
+
+666
+00:47:21,672 --> 00:47:22,798
+Broomhilda's on a mountain?
+
+667
+00:47:23,299 --> 00:47:26,635
+It's a German legend, there's always going
+to be a mountain in there somewhere.
+
+668
+00:47:27,511 --> 00:47:31,015
+And he puts a fire-breathing dragon there,
+to guard the mountain.
+
+669
+00:47:33,059 --> 00:47:37,855
+And he surrounds her
+in a circle of hellfire.
+
+670
+00:47:39,857 --> 00:47:43,694
+And there, Broomhilda shall remain...
+
+671
+00:47:45,363 --> 00:47:50,368
+unless a hero arises
+brave enough to save her.
+
+672
+00:47:51,577 --> 00:47:52,912
+Does a fella arise?
+
+673
+00:47:53,662 --> 00:47:56,123
+Yes, Django. As a matter of fact, he does.
+
+674
+00:47:56,707 --> 00:47:58,501
+A fella named Siegfried.
+
+675
+00:47:59,293 --> 00:48:00,378
+Does Siegfried save her?
+
+676
+00:48:03,005 --> 00:48:04,632
+Quite spectacularly so.
+
+677
+00:48:06,258 --> 00:48:10,179
+He scales the mountain
+because he's not afraid of it.
+
+678
+00:48:11,180 --> 00:48:14,141
+He slays the dragon
+because he's not afraid of him.
+
+679
+00:48:15,559 --> 00:48:17,561
+And he walks through hellfire...
+
+680
+00:48:20,189 --> 00:48:22,024
+because Broomhilda's worth it.
+
+681
+00:48:26,695 --> 00:48:27,822
+I know how he feel.
+
+682
+00:48:29,824 --> 00:48:32,284
+I think I'm just starting to realize that.
+
+683
+00:48:38,165 --> 00:48:42,086
+Now, look... Django...
+
+684
+00:48:45,464 --> 00:48:48,926
+I don't doubt that, one day,
+you'll save your lady love.
+
+685
+00:48:50,344 --> 00:48:53,472
+But I can't let you go to Greenville
+in a good conscience.
+
+686
+00:48:55,266 --> 00:48:59,228
+A slave auction town in Mississippi
+isn't a place for you to visit.
+
+687
+00:48:59,770 --> 00:49:02,022
+Free or not, it's just too dangerous.
+
+688
+00:49:05,693 --> 00:49:07,111
+But let me ask you a question.
+
+689
+00:49:15,077 --> 00:49:17,079
+How do you like
+the bounty hunting business?
+
+690
+00:49:19,290 --> 00:49:21,041
+Kill white folks and they pay you for it?
+
+691
+00:49:22,418 --> 00:49:23,419
+What's not to like?
+
+692
+00:49:23,794 --> 00:49:25,880
+Now, I have to admit, we make a good team.
+
+693
+00:49:26,464 --> 00:49:29,008
+I thought you was mad at me
+for killing Big John and Little Raj.
+
+694
+00:49:29,425 --> 00:49:31,635
+Yeah, on that occasion,
+you were a tad overzealous,
+
+695
+00:49:31,719 --> 00:49:33,179
+but normally, that's a good thing.
+
+696
+00:49:34,638 --> 00:49:36,432
+How'd you like to partner up
+for the winter?
+
+697
+00:49:36,974 --> 00:49:38,184
+What you mean, "partner up"?
+
+698
+00:49:39,185 --> 00:49:42,730
+You work with me through the winter
+till the snow melts...
+
+699
+00:49:44,315 --> 00:49:46,317
+I give you a third of my bounties.
+
+700
+00:49:47,526 --> 00:49:51,155
+So, we make some money this winter,
+and when the snow melts...
+
+701
+00:49:52,072 --> 00:49:53,991
+I'll take you to Greenville myself...
+
+702
+00:49:54,992 --> 00:49:57,369
+and we'll find where they sent your wife.
+
+703
+00:50:02,249 --> 00:50:03,584
+Why you care what happen to me?
+
+704
+00:50:05,711 --> 00:50:07,171
+Why you care if I find my wife?
+
+705
+00:50:07,922 --> 00:50:08,957
+Frankly...
+
+706
+00:50:10,716 --> 00:50:14,595
+I've never given anybody
+their freedom before, and now that I have,
+
+707
+00:50:14,678 --> 00:50:17,014
+I feel vaguely responsible for you.
+
+708
+00:50:18,557 --> 00:50:20,684
+Plus, when a German meets
+a real-life Siegfried,
+
+709
+00:50:20,768 --> 00:50:21,977
+that's kind of a big deal.
+
+710
+00:50:24,855 --> 00:50:26,982
+As a German, I'm obliged to help you
+
+711
+00:50:27,066 --> 00:50:29,902
+on your quest to rescue
+your beloved Broomhilda.
+
+712
+00:50:37,535 --> 00:50:40,246
+["I Got a Name" by Jim Croce playing]
+
+713
+00:50:43,541 --> 00:50:46,877
+♪ <i>Like the pine trees</i>
+<i>Lining the winding road ♪</i>
+
+714
+00:50:47,878 --> 00:50:52,341
+♪ <i>I've got a name</i>
+<i>I've got a name ♪</i>
+
+715
+00:50:52,925 --> 00:50:54,802
+[indistinct chatter]
+
+716
+00:50:54,885 --> 00:50:58,055
+♪ <i>Like the singin' bird</i>
+<i>And the croakin' toad ♪</i>
+
+717
+00:50:58,931 --> 00:51:03,686
+♪ <i>I've got a name</i>
+<i>I've got a name ♪</i>
+
+718
+00:51:05,938 --> 00:51:09,483
+♪ <i>And I carry it with me</i>
+<i>Like my daddy did ♪</i>
+
+719
+00:51:10,150 --> 00:51:15,030
+♪ <i>But I'm livin' the dream</i>
+<i>That he kept hid ♪</i>
+
+720
+00:51:16,907 --> 00:51:19,034
+<i>♪ Movin' me down the highway ♪</i>
+
+721
+00:51:19,577 --> 00:51:21,620
+<i>♪ Rollin' me down the highway ♪</i>
+
+722
+00:51:22,121 --> 00:51:25,666
+♪ <i>Movin' ahead</i>
+<i>So life won't pass me by ♪</i>
+
+723
+00:51:30,796 --> 00:51:34,049
+♪ <i>Like the north wind</i>
+<i>Whistlin' down the sky ♪</i>
+
+724
+00:51:35,092 --> 00:51:39,305
+♪ <i>I've got a song</i>
+<i>I've got a song ♪</i>
+
+725
+00:51:41,849 --> 00:51:45,060
+♪ <i>Like the whip-poor-will</i>
+<i>And the baby's cry ♪</i>
+
+726
+00:51:46,103 --> 00:51:50,441
+♪ <i>I've got a song</i>
+<i>I've got a song ♪</i>
+
+727
+00:51:52,985 --> 00:51:56,614
+♪ <i>And I carry it with me</i>
+<i>And I sing it loud ♪</i>
+
+728
+00:51:57,197 --> 00:52:01,785
+♪ <i>If it gets me nowhere</i>
+<i>I'll go there proud ♪</i>
+
+729
+00:52:03,829 --> 00:52:08,626
+♪ <i>Movin' me down the highway</i>
+<i>Rollin' me down the highway ♪</i>
+
+730
+00:52:09,168 --> 00:52:12,588
+♪ <i>Movin' ahead</i>
+<i>So life won't pass me by ♪</i>
+
+731
+00:52:39,704 --> 00:52:40,824
+[man] You got her.
+
+732
+00:52:41,033 --> 00:52:42,159
+[sighs]
+
+733
+00:52:47,665 --> 00:52:51,835
+Ooh! What happened to Mr. "I Wanna
+Shoot White Folks for Money"?
+
+734
+00:52:52,901 --> 00:52:53,921
+His son's with him.
+
+735
+00:52:54,254 --> 00:52:57,091
+Well, good. He'll have
+a loved one with him.
+
+736
+00:52:57,549 --> 00:52:59,385
+Maybe even share a last word.
+
+737
+00:53:01,845 --> 00:53:03,263
+That's better than most of them get.
+
+738
+00:53:04,056 --> 00:53:05,724
+Damn sight better than he deserves.
+
+739
+00:53:14,483 --> 00:53:15,484
+Put down the rifle.
+
+740
+00:53:18,987 --> 00:53:20,239
+Don't worry, I'm not mad at you.
+
+741
+00:53:21,490 --> 00:53:23,492
+Let's take out Smitty Bacall's handbill.
+
+742
+00:53:27,746 --> 00:53:28,914
+Now, read it aloud.
+
+743
+00:53:29,957 --> 00:53:31,500
+Consider that today's lesson.
+
+744
+00:53:34,294 --> 00:53:36,422
+"Wanted, dead or alive.
+
+745
+00:53:38,132 --> 00:53:40,968
+Smitty Bacall and the Smitty Bacall G..."
+
+746
+00:53:41,969 --> 00:53:43,262
+-Gang.
+-"...Gang...
+
+747
+00:53:44,388 --> 00:53:47,891
+for murder and stagecoach ro...
+
+748
+00:53:49,407 --> 00:53:50,519
+robbery.
+
+749
+00:53:51,186 --> 00:53:53,772
+-Seven, zero, zero, zero--"
+-Seven thousand.
+
+750
+00:53:53,856 --> 00:53:55,023
+-Seven?
+-Thousand.
+
+751
+00:53:55,899 --> 00:53:59,570
+"Seven thousand dollars
+for Smitty Bacall,
+
+752
+00:54:00,028 --> 00:54:06,285
+One thousand, five hundred dollars
+for each of his gang..."
+
+753
+00:54:07,494 --> 00:54:09,705
+-Mem...
+-"...members.
+
+754
+00:54:10,789 --> 00:54:15,169
+Known members of the Smitty Bacall Gang
+are as follas."
+
+755
+00:54:15,377 --> 00:54:16,920
+-Follows.
+-"Follows.
+
+756
+00:54:17,755 --> 00:54:20,382
+Dandy Michaels, Gerald Nash, and..."
+
+757
+00:54:22,551 --> 00:54:23,594
+Crazy Craig Koons.
+
+758
+00:54:25,304 --> 00:54:27,639
+That is who Smitty Bacall is.
+
+759
+00:54:28,223 --> 00:54:30,809
+If Smitty Bacall wanted
+to start a farm at 22,
+
+760
+00:54:30,893 --> 00:54:32,311
+they would never have printed that.
+
+761
+00:54:33,437 --> 00:54:36,690
+But Smitty Bacall wanted
+to rob stagecoaches,
+
+762
+00:54:37,232 --> 00:54:39,318
+and he didn't mind
+killing people to do it.
+
+763
+00:54:40,527 --> 00:54:43,238
+Do you want to save your wife
+by doing what I do?
+
+764
+00:54:44,823 --> 00:54:45,908
+This is what I do.
+
+765
+00:54:46,450 --> 00:54:49,745
+I kill people and sell
+their corpses for cash.
+
+766
+00:54:50,913 --> 00:54:53,874
+This corpse is worth 7,000 dollars.
+
+767
+00:54:54,666 --> 00:54:56,502
+Now, quit your pussyfooting and shoot him.
+
+768
+00:55:01,882 --> 00:55:03,258
+[horse neighs]
+
+769
+00:55:05,177 --> 00:55:06,191
+[boy chuckles]
+
+770
+00:55:07,010 --> 00:55:08,013
+[boy] Pa?
+
+771
+00:55:08,378 --> 00:55:09,431
+Pa!
+
+772
+00:55:18,565 --> 00:55:22,236
+Here. You need to keep
+this Smitty Bacall handbill.
+
+773
+00:55:22,528 --> 00:55:24,238
+-Why?
+-It's good luck.
+
+774
+00:55:24,988 --> 00:55:27,115
+You always keep the handbill
+of your first bounty.
+
+775
+00:56:15,455 --> 00:56:16,832
+That's accurate.
+
+776
+00:57:25,275 --> 00:57:27,903
+[Gus] Doctor, Django,
+how the hell are you?
+
+777
+00:57:29,404 --> 00:57:30,989
+Who the hell have you got there?
+
+778
+00:57:31,615 --> 00:57:33,450
+[Schultz] The Wilson-Lowe Gang.
+
+779
+00:57:34,117 --> 00:57:36,745
+Who the hell is the Wilson-Lowe Gang?
+
+780
+00:57:37,788 --> 00:57:42,125
+Bad Chuck Wilson and meaner Bobby Lowe
+and three of their acolytes.
+
+781
+00:57:42,459 --> 00:57:46,046
+Huh. Well, just leave them out here.
+They ain't going nowhere.
+
+782
+00:57:46,296 --> 00:57:48,215
+Why don't you come in
+out of the snowy snow
+
+783
+00:57:48,298 --> 00:57:50,008
+and get yourselves some coffee?
+
+784
+00:57:50,592 --> 00:57:53,178
+We had a birthday, yesterday.
+Got some cake.
+
+785
+00:57:53,762 --> 00:57:54,876
+Pretty good.
+
+786
+00:58:17,077 --> 00:58:18,954
+[man 1] Move along! Can't hide!
+
+787
+00:58:28,171 --> 00:58:31,216
+[man 2] Keep moving. Get on up to that
+auction block.
+
+788
+00:58:33,093 --> 00:58:35,429
+Don't let that mud
+slow you down. Keep going.
+
+789
+00:58:38,849 --> 00:58:39,850
+[man 3] Come on.
+
+790
+00:58:51,945 --> 00:58:52,988
+[man 4] Keep going.
+
+791
+00:58:55,907 --> 00:58:58,994
+[Schultz] "Broomhilda Von Shaft. Age 27.
+
+792
+00:58:59,578 --> 00:59:01,079
+'R' on right cheek.
+
+793
+00:59:03,040 --> 00:59:04,916
+Calvin Candie."
+
+794
+00:59:05,292 --> 00:59:09,546
+He owns the fourth biggest cotton
+plantation in Mississippi. Candyland.
+
+795
+00:59:09,963 --> 00:59:11,002
+Candyland?
+
+796
+00:59:11,465 --> 00:59:14,384
+-Oh, you've heard of it!
+-Ain't no slave ever heard of Candyland.
+
+797
+00:59:14,885 --> 00:59:17,054
+Well, apparently,
+that's where your wife is...
+
+798
+00:59:17,846 --> 00:59:20,599
+and that's the repellant gentleman
+who owns her.
+
+799
+00:59:20,724 --> 00:59:23,143
+Let's just hope she works in the house,
+not the field.
+
+800
+00:59:23,351 --> 00:59:24,686
+Oh, no. She ain't no field nigger.
+
+801
+00:59:25,729 --> 00:59:27,105
+She... She pretty.
+
+802
+00:59:28,356 --> 00:59:29,691
+And she talk good, too.
+
+803
+00:59:31,568 --> 00:59:33,487
+But when they tore her back up,
+and then they...
+
+804
+00:59:34,821 --> 00:59:36,531
+burned that runaway "R" on her cheek...
+
+805
+00:59:38,200 --> 00:59:39,409
+they goddamned her.
+
+806
+00:59:39,993 --> 00:59:42,954
+[screams]
+
+807
+00:59:43,955 --> 00:59:47,125
+She ain't no field nigger, but she ain't
+good enough for the house no more, either.
+
+808
+00:59:47,834 --> 00:59:51,129
+-They'll try to make her a comfort girl.
+-What's a comfort...? Oh.
+
+809
+00:59:52,130 --> 00:59:53,465
+Not while I got freedom.
+
+810
+00:59:55,092 --> 00:59:56,384
+Not while I got my gun.
+
+811
+00:59:59,721 --> 01:00:01,264
+So, do we offer to buy her?
+
+812
+01:00:04,309 --> 01:00:05,310
+So...
+
+813
+01:00:07,270 --> 01:00:08,355
+say...
+
+814
+01:00:11,066 --> 01:00:13,527
+a man wants to buy a horse.
+
+815
+01:00:14,236 --> 01:00:15,737
+Needs to buy a horse.
+
+816
+01:00:17,572 --> 01:00:21,243
+He walks up to the farmer's farm,
+knocks on the door and asks the farmer
+
+817
+01:00:21,326 --> 01:00:24,121
+to buy his horse. And you know
+what the farmer says?
+
+818
+01:00:24,371 --> 01:00:26,206
+The farmer says, "No."
+
+819
+01:00:28,125 --> 01:00:32,254
+Well, I say, fuck that farmer.
+And I'm stealing that horse.
+
+820
+01:00:33,130 --> 01:00:35,632
+Fair enough.
+But now, you're a horse thief,
+
+821
+01:00:35,715 --> 01:00:38,760
+and they hang horse thieves.
+Not to mention, the horse goes back
+
+822
+01:00:38,844 --> 01:00:41,513
+to its original owner,
+because the horse is still his property.
+
+823
+01:00:41,763 --> 01:00:45,308
+We need her and we need a bill of sale.
+
+824
+01:00:45,475 --> 01:00:47,769
+If we ain't gonna try to buy her,
+how we gonna get her?
+
+825
+01:00:49,187 --> 01:00:52,691
+May I offer an alternative plan of action?
+
+826
+01:00:52,980 --> 01:00:54,025
+Go ahead.
+
+827
+01:00:54,693 --> 01:00:55,757
+So...
+
+828
+01:00:56,361 --> 01:01:00,782
+The man walks up to the farmer's farm,
+he knocks on the farmer's door...
+
+829
+01:01:01,616 --> 01:01:06,538
+and asks not to buy the horse,
+but the farm.
+
+830
+01:01:06,663 --> 01:01:10,250
+-Mm-hmm.
+-And makes an offer so ridiculous,
+
+831
+01:01:10,417 --> 01:01:12,919
+the farmer is forced to say, "Yes."
+
+832
+01:01:13,837 --> 01:01:16,882
+-We gonna offer to buy Candyland?
+-No, it's far too big.
+
+833
+01:01:16,965 --> 01:01:19,759
+But apparently, this farmer
+ain't all about the farm.
+
+834
+01:01:21,595 --> 01:01:23,597
+How much do you know
+about Mandingo fighting?
+
+835
+01:01:23,847 --> 01:01:24,861
+What?
+
+836
+01:01:25,048 --> 01:01:29,642
+Can you convincingly masquerade as someone
+who is an expert on Mandingo fighting?
+
+837
+01:01:29,792 --> 01:01:30,812
+Why?
+
+838
+01:01:31,146 --> 01:01:34,900
+[Schultz] <i>Because my character is that</i>
+<i>of a big money buyer from Dusseldorf</i>
+
+839
+01:01:34,983 --> 01:01:38,278
+<i>here in Greenville to buy my way</i>
+<i>into the Mandingo fight game.</i>
+
+840
+01:01:38,403 --> 01:01:42,324
+<i>And your character is a Mandingo expert</i>
+<i>I hired to help me do it.</i>
+
+841
+01:01:42,407 --> 01:01:44,034
+[Django] <i>They call that "One-Eyed Charly."</i>
+
+842
+01:01:47,537 --> 01:01:48,705
+<i>Bonjour!</i>
+
+843
+01:01:49,080 --> 01:01:52,209
+<i>Bonsoir, mon petite femme noire!</i>
+
+844
+01:01:52,292 --> 01:01:54,544
+We're here to see Mr. Calvin Candie.
+
+845
+01:01:55,128 --> 01:01:56,421
+<i>Entrer.</i>
+
+846
+01:01:59,216 --> 01:02:00,217
+[Schultz] Thank you.
+
+847
+01:02:01,593 --> 01:02:03,511
+You want me to play a black slaver?
+
+848
+01:02:04,596 --> 01:02:06,473
+Ain't nothing lower than a black slaver.
+
+849
+01:02:07,557 --> 01:02:10,435
+A black slaver is lower
+than the head house nigger.
+
+850
+01:02:11,436 --> 01:02:13,104
+And buddy, that's pretty fucking low.
+
+851
+01:02:14,856 --> 01:02:16,816
+Then play him that way.
+
+852
+01:02:16,900 --> 01:02:20,779
+Give me your black slaver.
+
+853
+01:02:21,071 --> 01:02:23,365
+[all]
+<i>♪ His heart was all a-flutter ♪</i>
+
+854
+01:02:23,615 --> 01:02:27,035
+<i>♪ Along came the 2:19 ♪</i>
+<i>Toot, toot ♪</i>
+
+855
+01:02:27,244 --> 01:02:32,499
+<i>♪ Peanut butter fare thee well</i>
+<i>Fare thee well, fare thee well ♪</i>
+
+856
+01:02:32,582 --> 01:02:33,833
+Dr. Schultz!
+
+857
+01:02:34,334 --> 01:02:37,212
+-Good to see you again.
+-Mr. Moguy!
+
+858
+01:02:37,545 --> 01:02:41,383
+Thank you for your assistance in creating
+the opportunity for this appointment.
+
+859
+01:02:41,466 --> 01:02:43,093
+[Leo] Nonsense, it's my job.
+
+860
+01:02:43,635 --> 01:02:46,513
+So, this is the One-Eyed Charly
+I've heard so much about!
+
+861
+01:02:46,596 --> 01:02:48,848
+Yes, this is Django Freeman.
+
+862
+01:02:49,307 --> 01:02:52,060
+Django, this is Mr. Candie's lawyer,
+Leonide Moguy.
+
+863
+01:02:52,143 --> 01:02:53,603
+Just call me Leo.
+
+864
+01:02:53,895 --> 01:02:57,148
+Calvin's in the Julius Caesar room.
+You all wanna follow me?
+
+865
+01:02:57,649 --> 01:03:00,068
+[Schultz] How long have you been
+associated with Mr. Candie?
+
+866
+01:03:00,151 --> 01:03:02,654
+[Leo] Oh, Calvin's father and I
+were about 11
+
+867
+01:03:02,737 --> 01:03:04,364
+when we went to boarding school together.
+
+868
+01:03:04,781 --> 01:03:07,659
+Calvin's father's father
+put me through law school.
+
+869
+01:03:07,742 --> 01:03:10,829
+One could almost say I was raised
+to be Calvin's lawyer.
+
+870
+01:03:10,912 --> 01:03:12,664
+One could almost say youse a nigger.
+
+871
+01:03:13,623 --> 01:03:14,708
+What did you say?
+
+872
+01:03:15,292 --> 01:03:17,836
+-I said--
+-Nothing, he's just being cheeky.
+
+873
+01:03:18,503 --> 01:03:22,924
+Now, anything else about Mr. Candie
+that I should know before I meet him?
+
+874
+01:03:23,008 --> 01:03:27,137
+-Yes, he is a bit of a Francophile.
+-[laughs] What civilized people aren't?
+
+875
+01:03:27,220 --> 01:03:29,597
+{\an8}And he prefers Monsieur Candie
+to Mr. Candie.
+
+876
+01:03:29,681 --> 01:03:31,808
+{\an8}[speaks in French]
+
+877
+01:03:31,891 --> 01:03:34,728
+{\an8}He doesn't speak French.
+Don't speak French to him,
+
+878
+01:03:34,811 --> 01:03:35,895
+it'll embarrass him.
+
+879
+01:03:37,564 --> 01:03:38,982
+[men grunting]
+
+880
+01:03:39,065 --> 01:03:42,610
+[Candie] Get back on top, now.
+Turn around. There you go.
+
+881
+01:03:43,361 --> 01:03:44,529
+There you go.
+
+882
+01:03:46,698 --> 01:03:49,034
+Why do you want to get
+in the Mandingo business?
+
+883
+01:03:51,703 --> 01:03:55,373
+You don't intend to allow your second
+to make the proper introductions?
+
+884
+01:03:56,374 --> 01:03:59,669
+[Candie] Quit stalling, now.
+Answer the question.
+
+885
+01:04:00,170 --> 01:04:01,880
+[men continue grunting]
+
+886
+01:04:02,297 --> 01:04:03,590
+The awful truth?
+
+887
+01:04:04,466 --> 01:04:07,719
+I'm bored. This seems
+like a good bit of fun.
+
+888
+01:04:13,391 --> 01:04:15,310
+Well, come on over.
+
+889
+01:04:15,643 --> 01:04:17,979
+We got us a fight going on
+that's a good bit of fun.
+
+890
+01:04:20,065 --> 01:04:21,566
+[Amerigo speaking in Italian]
+
+891
+01:04:22,025 --> 01:04:23,777
+Won't you accompany me to the bar?
+
+892
+01:04:32,869 --> 01:04:35,538
+You don't wear a hat in the house,
+white man. Even I know that.
+
+893
+01:04:35,705 --> 01:04:38,750
+[men grunting]
+
+894
+01:04:40,752 --> 01:04:42,087
+[pool balls clacking]
+
+895
+01:04:44,547 --> 01:04:46,007
+-Dr. Schultz.
+-What a rare pleasure.
+
+896
+01:04:46,091 --> 01:04:49,302
+-[Candie] Keep fighting, niggers!
+-And, I might add, an honor.
+
+897
+01:04:49,719 --> 01:04:52,680
+Honor to meet you. Please, have a seat.
+The pleasure's all mine.
+
+898
+01:04:52,764 --> 01:04:55,600
+Get free man Django, here,
+whatever he wants.
+
+899
+01:04:56,393 --> 01:04:58,311
+And I'll have sweet tea and bourbon.
+
+900
+01:05:16,162 --> 01:05:17,872
+[both yelling]
+
+901
+01:05:18,289 --> 01:05:20,875
+[Candie] Use your weight, boy,
+use your weight! There you go.
+
+902
+01:05:21,584 --> 01:05:23,628
+He's much bigger and stronger!
+
+903
+01:05:24,129 --> 01:05:25,338
+Come on, now!
+
+904
+01:05:25,672 --> 01:05:28,299
+Ah, he's not doing what I told him,
+for God's sake!
+
+905
+01:05:28,758 --> 01:05:29,759
+Bravo! Bravo, Luigi!
+
+906
+01:05:29,843 --> 01:05:32,178
+[speaking in Italian]
+
+907
+01:05:32,429 --> 01:05:34,931
+[Candie] Come on, now, boy!
+It's a fight to the death!
+
+908
+01:05:36,558 --> 01:05:38,309
+You either hit him or are you ain't?
+
+909
+01:05:38,560 --> 01:05:42,772
+[men grunting and roaring]
+
+910
+01:05:42,856 --> 01:05:45,567
+[speaking in Italian]
+
+911
+01:05:46,526 --> 01:05:48,611
+Big Fred, come on!
+
+912
+01:05:49,487 --> 01:05:51,322
+[Candie] Turn him around! Now, come...
+
+913
+01:05:54,826 --> 01:05:56,494
+Use your strength, boy!
+
+914
+01:05:57,203 --> 01:05:58,997
+Come on, now! Use your strength!
+
+915
+01:06:01,291 --> 01:06:02,417
+There you go.
+
+916
+01:06:04,419 --> 01:06:05,587
+There you go!
+
+917
+01:06:05,962 --> 01:06:06,963
+Look at that.
+
+918
+01:06:07,922 --> 01:06:10,175
+See, I told you to put
+some more power in there.
+
+919
+01:06:11,176 --> 01:06:12,677
+Do what I told you, boy.
+
+920
+01:06:13,428 --> 01:06:14,762
+There you go.
+
+921
+01:06:14,971 --> 01:06:16,014
+No.
+
+922
+01:06:16,306 --> 01:06:19,017
+[Candie] Do what I told you!
+Blind him black, boy!
+
+923
+01:06:19,225 --> 01:06:20,518
+Blind him black!
+
+924
+01:06:20,977 --> 01:06:22,729
+[Luigi screams]
+
+925
+01:06:22,896 --> 01:06:24,230
+Oh, no, Luigi.
+
+926
+01:06:24,439 --> 01:06:26,274
+[Luigi screams]
+
+927
+01:06:26,566 --> 01:06:27,567
+[Candie] Yeah!
+
+928
+01:06:28,693 --> 01:06:32,113
+[whoops]
+
+929
+01:06:33,072 --> 01:06:34,157
+[sighs]
+
+930
+01:06:34,449 --> 01:06:37,285
+[panting]
+
+931
+01:06:39,537 --> 01:06:41,539
+[Luigi screaming]
+
+932
+01:06:45,102 --> 01:06:46,169
+Finish him.
+
+933
+01:06:46,628 --> 01:06:50,006
+[Luigi continues screaming]
+
+934
+01:06:50,798 --> 01:06:52,050
+Go on, boy, finish him.
+
+935
+01:06:53,885 --> 01:06:55,386
+-[hammer thuds]
+-[Luigi is silent]
+
+936
+01:06:56,721 --> 01:07:00,350
+[Leo] That's why they call him Big Fred.
+Worth every penny.
+
+937
+01:07:00,433 --> 01:07:02,143
+Well, <i>arrivederci, </i>Luigi!
+
+938
+01:07:02,352 --> 01:07:07,190
+Come on up, now, boy. Get yourself a rest.
+You did a fine job. A real fine job.
+
+939
+01:07:08,191 --> 01:07:09,275
+Mercedes.
+
+940
+01:07:23,206 --> 01:07:24,999
+[music box playing distantly]
+
+941
+01:07:30,838 --> 01:07:31,879
+Tequila.
+
+942
+01:07:35,176 --> 01:07:37,095
+[indistinct chatter]
+
+943
+01:07:42,183 --> 01:07:43,268
+What's your name?
+
+944
+01:07:46,020 --> 01:07:47,059
+Django.
+
+945
+01:07:49,732 --> 01:07:50,942
+Can you spell it?
+
+946
+01:07:53,486 --> 01:07:57,615
+D-J-A-N-G-O.
+
+947
+01:07:59,284 --> 01:08:00,451
+The D is silent.
+
+948
+01:08:01,202 --> 01:08:02,224
+I know.
+
+949
+01:08:09,252 --> 01:08:10,545
+[Amerigo speaking in Italian]
+
+950
+01:08:10,628 --> 01:08:13,965
+[Candie] Mr. Moguy, I want you
+to take care of my new boy, here.
+
+951
+01:08:14,132 --> 01:08:18,219
+You find him a room with a soft bed,
+then bring him up a pony to lick his pole.
+
+952
+01:08:18,761 --> 01:08:21,598
+But you be ready to travel to Candyland
+tomorrow morning, now, you hear?
+
+953
+01:08:21,681 --> 01:08:24,183
+-Yes, sir, Monsieur Candie.
+-Before you go... Roscoe,
+
+954
+01:08:24,350 --> 01:08:26,352
+get Fred here a tall beer.
+
+955
+01:08:30,648 --> 01:08:33,359
+You enjoy that, boy. You've earned it.
+
+956
+01:08:33,735 --> 01:08:34,744
+Yes, sir.
+
+957
+01:08:44,370 --> 01:08:45,788
+What's your name, boy?
+
+958
+01:08:46,164 --> 01:08:48,166
+His name is Django Freeman.
+
+959
+01:08:48,374 --> 01:08:49,423
+[Candie chuckles]
+
+960
+01:08:51,836 --> 01:08:53,129
+Where'd you dig him up?
+
+961
+01:08:53,546 --> 01:08:56,716
+A fortuitous turn of events
+brought Django and myself together.
+
+962
+01:08:58,635 --> 01:09:00,094
+I've heard tell about you.
+
+963
+01:09:01,346 --> 01:09:04,474
+I heard you been telling everybody
+them Mandingos ain't no damn good,
+
+964
+01:09:04,557 --> 01:09:07,602
+ain't nothing nobody is selling
+is worth buying. I'm curious.
+
+965
+01:09:08,353 --> 01:09:10,355
+What makes you such a Mandingo expert?
+
+966
+01:09:12,899 --> 01:09:15,026
+I'm curious what makes you so curious.
+
+967
+01:09:18,571 --> 01:09:20,448
+-What did you say, boy?
+-Calm down, Butch.
+
+968
+01:09:21,699 --> 01:09:22,909
+No offense given.
+
+969
+01:09:23,660 --> 01:09:24,674
+None taken.
+
+970
+01:09:24,994 --> 01:09:26,204
+[Schultz] Monsieur Candie,
+
+971
+01:09:26,788 --> 01:09:30,583
+I'd appreciate if you could
+direct your line of inquiry toward me.
+
+972
+01:09:30,750 --> 01:09:31,798
+One...
+
+973
+01:09:32,794 --> 01:09:35,963
+you do not have anything to drink.
+Can I get you a tasty refreshment?
+
+974
+01:09:36,047 --> 01:09:38,841
+-Yes. I'll have a beer.
+-Wonder-bar!
+
+975
+01:09:39,092 --> 01:09:43,179
+Roscoe, a beer for the man with the beard,
+and I will have a Polynesian Pearl Diver.
+
+976
+01:09:43,262 --> 01:09:44,555
+Do not spare the rum.
+
+977
+01:09:45,181 --> 01:09:46,195
+Doc...
+
+978
+01:09:47,433 --> 01:09:50,978
+I am a seasoned slaver.
+You are... Well, you are a neophyte.
+
+979
+01:09:51,062 --> 01:09:55,566
+I'm simply trying to ascertain if this
+cowboy, here, is taking advantage of you.
+
+980
+01:09:57,443 --> 01:10:00,363
+With all due respect, Monsieur Candie...
+
+981
+01:10:01,406 --> 01:10:03,116
+I didn't seek you out for your advice.
+
+982
+01:10:03,491 --> 01:10:05,660
+I sought you out to purchase
+a fighting nigger
+
+983
+01:10:05,743 --> 01:10:07,704
+at above top-dollar market price.
+
+984
+01:10:08,413 --> 01:10:11,165
+I was under the impression,
+when you granted me an audience,
+
+985
+01:10:11,249 --> 01:10:13,126
+it would be to discuss business.
+
+986
+01:10:16,421 --> 01:10:18,131
+Well, we weren't talking business yet.
+
+987
+01:10:18,923 --> 01:10:21,050
+We were discussing my curiosity.
+
+988
+01:10:23,383 --> 01:10:24,429
+Thank you.
+
+989
+01:10:24,512 --> 01:10:27,098
+[Candie] Roscoe, Coco,
+go outside and play.
+
+990
+01:10:29,350 --> 01:10:32,019
+Sheba, you stay right there.
+
+991
+01:10:33,020 --> 01:10:34,522
+I know you didn't mean me.
+
+992
+01:10:36,357 --> 01:10:37,358
+<i>Prost!</i>
+
+993
+01:10:37,984 --> 01:10:39,002
+German.
+
+994
+01:10:39,736 --> 01:10:41,070
+Now, according to Moguy,
+
+995
+01:10:41,654 --> 01:10:45,533
+if I do business with you,
+I'm doing business with both y'all.
+
+996
+01:10:46,033 --> 01:10:48,327
+He does the eyeballing,
+you the billfold? Is that it?
+
+997
+01:10:48,703 --> 01:10:52,331
+[chuckling] Well, you don't make it sound
+too flattering, but more or less, yeah.
+
+998
+01:10:52,623 --> 01:10:53,655
+Hmm.
+
+999
+01:10:54,834 --> 01:10:55,850
+So...
+
+1000
+01:10:56,502 --> 01:11:00,339
+Bright Boy, Moguy tells me
+you looked over my African flesh
+
+1001
+01:11:00,423 --> 01:11:02,091
+and you was none too impressed, huh?
+
+1002
+01:11:02,633 --> 01:11:03,760
+Not for top dollar.
+
+1003
+01:11:06,429 --> 01:11:08,139
+Then we got nothing more to talk about.
+
+1004
+01:11:08,514 --> 01:11:10,808
+You see, you wanna buy
+a beat-ass nigger from me,
+
+1005
+01:11:10,892 --> 01:11:12,977
+those are the beat-ass niggers
+I wanna sell, so...
+
+1006
+01:11:13,186 --> 01:11:15,146
+He don't wanna buy the niggers
+you wanna sell.
+
+1007
+01:11:16,063 --> 01:11:18,941
+He wants the nigger you don't wanna sell.
+
+1008
+01:11:19,484 --> 01:11:23,488
+Well, I don't sell the niggers
+I don't wanna sell.
+
+1009
+01:11:26,073 --> 01:11:29,410
+Well, you won't sell your best.
+
+1010
+01:11:29,827 --> 01:11:31,746
+You won't even sell your second best.
+
+1011
+01:11:32,413 --> 01:11:35,750
+But your third best? You don't want
+to sell him either,
+
+1012
+01:11:36,334 --> 01:11:39,879
+but if I made you an offer so ridiculous
+you'd be forced to consider it...
+
+1013
+01:11:40,797 --> 01:11:42,965
+[laughing] ...who knows what could happen?
+
+1014
+01:11:45,510 --> 01:11:47,386
+And what do you consider ridiculous?
+
+1015
+01:11:48,721 --> 01:11:52,475
+For a truly talented specimen?
+The right nigger?
+
+1016
+01:11:54,602 --> 01:11:56,103
+How much would you say, Django?
+
+1017
+01:11:59,941 --> 01:12:01,275
+Twelve thousand dollars.
+
+1018
+01:12:02,318 --> 01:12:03,528
+[Candie slurps]
+
+1019
+01:12:06,364 --> 01:12:09,617
+Well, gentlemen, you had my curiosity,
+
+1020
+01:12:10,326 --> 01:12:11,702
+but now, you have my attention.
+
+1021
+01:12:26,050 --> 01:12:28,010
+[Candie] Willie? Willie.
+
+1022
+01:12:28,469 --> 01:12:30,012
+Hold up. Hold up.
+
+1023
+01:12:30,638 --> 01:12:32,974
+-Ah.
+-Good morning, gentlemen.
+
+1024
+01:12:33,057 --> 01:12:36,018
+Good Dr. Schultz.
+Beautiful morning, isn't it?
+
+1025
+01:12:36,602 --> 01:12:38,104
+You couldn't have picked a better one.
+
+1026
+01:12:38,437 --> 01:12:41,357
+Please, won't you take a ride with us
+here in the victoria?
+
+1027
+01:12:41,566 --> 01:12:43,067
+[Schultz] Oh, thank you very much.
+
+1028
+01:12:43,150 --> 01:12:45,069
+[Candie] You can tie
+your horse up back there.
+
+1029
+01:12:53,536 --> 01:12:54,577
+Django?
+
+1030
+01:12:59,417 --> 01:13:03,129
+Where I part company from many
+of my phrenologist colleagues
+
+1031
+01:13:03,421 --> 01:13:05,965
+is I believe there is
+a level above bright...
+
+1032
+01:13:06,924 --> 01:13:12,054
+above talented, above loyal,
+that a nigger can aspire to.
+
+1033
+01:13:13,180 --> 01:13:17,143
+Say, one nigger
+that just pops up in 10,000.
+
+1034
+01:13:17,852 --> 01:13:19,103
+The exceptional nigger.
+
+1035
+01:13:20,438 --> 01:13:22,148
+Bright day, huh, Bright Boy?
+
+1036
+01:13:23,524 --> 01:13:24,609
+The sun is up.
+
+1037
+01:13:25,860 --> 01:13:27,486
+It's shining on all of us.
+
+1038
+01:13:32,575 --> 01:13:33,618
+Have a seat, doc.
+
+1039
+01:13:34,744 --> 01:13:36,704
+Thank you. Quite an honor.
+
+1040
+01:13:36,954 --> 01:13:38,706
+The honor is all ours. Thank you.
+
+1041
+01:13:38,956 --> 01:13:40,917
+-[Schultz] Thank you.
+-[Candie] <i>But I do believe that,</i>
+
+1042
+01:13:41,000 --> 01:13:42,168
+<i>given time,</i>
+
+1043
+01:13:42,460 --> 01:13:45,046
+exceptional niggers
+like Bright Boy, here...
+
+1044
+01:13:46,297 --> 01:13:47,965
+become, if not frequent...
+
+1045
+01:13:49,383 --> 01:13:50,551
+more frequent.
+
+1046
+01:13:52,929 --> 01:13:53,964
+Right, boy?
+
+1047
+01:13:55,097 --> 01:13:57,016
+You are that one in 10,000.
+
+1048
+01:13:57,600 --> 01:14:00,436
+The name of the game is keep up,
+not catch up, nigger.
+
+1049
+01:14:01,062 --> 01:14:02,271
+[men laughing]
+
+1050
+01:14:13,199 --> 01:14:14,659
+-Whoa!
+-[horse neighs]
+
+1051
+01:14:16,577 --> 01:14:19,163
+-Touch your guns, you die.
+-[Candie] Everybody calm down.
+
+1052
+01:14:19,872 --> 01:14:21,999
+Now, I saw the whole thing. No harm done.
+
+1053
+01:14:22,083 --> 01:14:25,252
+-Are you kidding me? This nigger just--
+-I said, no harm done!
+
+1054
+01:14:25,461 --> 01:14:27,338
+Now, take your hand off your pistol!
+
+1055
+01:14:28,923 --> 01:14:31,509
+Butch, that means you, too.
+
+1056
+01:14:33,010 --> 01:14:35,221
+Everybody stop antagonizing my guest.
+
+1057
+01:14:37,390 --> 01:14:39,725
+Hoot, get back up on your horse.
+
+1058
+01:14:40,518 --> 01:14:42,019
+[Hoot] He broke my collarbone.
+
+1059
+01:14:42,103 --> 01:14:44,689
+For God's sake,
+somebody please help Hoot, here,
+
+1060
+01:14:44,772 --> 01:14:46,524
+back up on his goddamn horse.
+
+1061
+01:14:46,857 --> 01:14:49,652
+-[Nick] Yes, sir, boss.
+-Oh, you are one lucky nigger.
+
+1062
+01:14:51,028 --> 01:14:52,905
+You better listen to your boss, white boy.
+
+1063
+01:14:52,989 --> 01:14:55,116
+Oh, I'm gonna go walking
+in the moonlight with you.
+
+1064
+01:14:55,574 --> 01:14:56,784
+You wanna hold my hand?
+
+1065
+01:14:57,535 --> 01:14:59,704
+[chuckles]
+
+1066
+01:15:00,913 --> 01:15:03,457
+["100 Black Coffins" by Rick Ross playing]
+
+1067
+01:15:03,541 --> 01:15:06,043
+[Candie] Willie, take us home.
+
+1068
+01:15:08,546 --> 01:15:10,047
+[Jessie] Here we go. Start moving.
+
+1069
+01:15:16,929 --> 01:15:17,930
+[Billy] Head them out.
+
+1070
+01:15:26,313 --> 01:15:30,192
+♪ <i>I need a hundred black</i>
+<i>Coffins for a hundred bad men ♪</i>
+
+1071
+01:15:30,276 --> 01:15:33,362
+♪ <i>A hundred black graves</i>
+<i>So I can lay they ass in ♪</i>
+
+1072
+01:15:33,446 --> 01:15:36,866
+♪ <i>I need a hundred black preachers</i>
+<i>With a black sermon to tell ♪</i>
+
+1073
+01:15:36,949 --> 01:15:39,952
+<i>♪ From a hundred black Bibles</i>
+<i>While we send them all to hell ♪</i>
+
+1074
+01:15:40,036 --> 01:15:42,246
+♪ <i>I need a hundred black coffins ♪</i>
+
+1075
+01:15:42,538 --> 01:15:45,916
+♪ <i>Black coffins</i>
+<i>Black coffins ♪</i>
+
+1076
+01:15:46,834 --> 01:15:49,253
+♪ <i>I need a hundred black coffins ♪</i>
+
+1077
+01:15:49,420 --> 01:15:52,423
+♪ <i>Black coffins, oh, Lord ♪</i>
+
+1078
+01:15:52,673 --> 01:15:55,092
+♪ <i>Black coffins</i>
+<i>I need a hundred ♪</i>
+
+1079
+01:16:03,726 --> 01:16:05,394
+You got a problem with your eyeball, boy?
+
+1080
+01:16:05,728 --> 01:16:08,314
+-No, sir.
+-You want a boot heel in it?
+
+1081
+01:16:09,571 --> 01:16:10,649
+No, sir.
+
+1082
+01:16:10,816 --> 01:16:13,110
+Then you keep
+your goddamn eyeballs off me.
+
+1083
+01:16:14,153 --> 01:16:17,156
+Flash that bad look at me again,
+I'll give you a reason not to like me.
+
+1084
+01:16:17,323 --> 01:16:18,407
+Now, move, nigger!
+
+1085
+01:16:20,951 --> 01:16:23,037
+You niggers are gonna understand
+something about me.
+
+1086
+01:16:23,162 --> 01:16:25,039
+I'm worse than any
+of these white men here.
+
+1087
+01:16:25,331 --> 01:16:28,459
+You get the molasses out your ass,
+you keep your goddamn eyeballs off me.
+
+1088
+01:16:28,959 --> 01:16:32,129
+He is a rambunctious sort,
+ain't he? [chuckles]
+
+1089
+01:16:32,213 --> 01:16:33,422
+Indeed!
+
+1090
+01:16:36,092 --> 01:16:39,345
+May we stop for a moment so I may
+put a word in my man's ear?
+
+1091
+01:16:39,887 --> 01:16:43,349
+I'm expecting to fall in love
+once I see the specimens at Candyland,
+
+1092
+01:16:43,474 --> 01:16:46,644
+so before that moment,
+it would be good if I could have
+
+1093
+01:16:46,727 --> 01:16:50,815
+a confidential strategy meeting
+with my confidant.
+
+1094
+01:16:54,193 --> 01:16:55,903
+You mind telling me
+what the hell you doing?
+
+1095
+01:16:56,028 --> 01:16:57,863
+I confirmed that Broomhilda's
+at Candyland.
+
+1096
+01:17:02,201 --> 01:17:04,870
+-You're sure it's her?
+-He didn't call her by name,
+
+1097
+01:17:04,954 --> 01:17:07,248
+but she's a young lady,
+whip marks on her back
+
+1098
+01:17:07,331 --> 01:17:10,376
+and speaks German.
+Now, while it's not wise to assume,
+
+1099
+01:17:10,459 --> 01:17:13,963
+in this instance, I think
+it's pretty safe. Point being...
+
+1100
+01:17:14,839 --> 01:17:17,424
+don't get so carried away
+with your retribution.
+
+1101
+01:17:18,050 --> 01:17:19,718
+You lose sight of why we're here.
+
+1102
+01:17:19,927 --> 01:17:23,931
+-You think I lost sight of that?
+-Yes, I do. Stop antagonizing Candie.
+
+1103
+01:17:24,640 --> 01:17:29,645
+You're going to blow this whole charade,
+or, more than likely, get us both killed.
+
+1104
+01:17:29,728 --> 01:17:34,567
+And I, for one, don't intend to die
+in Chickasaw County, Mississippi, U.S.A.
+
+1105
+01:17:34,900 --> 01:17:37,611
+I'm not antagonizing him.
+I'm intriguing him.
+
+1106
+01:17:38,154 --> 01:17:40,322
+You're yelling abuse at these poor slaves.
+
+1107
+01:17:41,365 --> 01:17:42,575
+I recall the man...
+
+1108
+01:17:43,701 --> 01:17:46,620
+who had me kill another man
+in front of his son,
+
+1109
+01:17:47,121 --> 01:17:48,330
+and he didn't bat a eye.
+
+1110
+01:17:50,121 --> 01:17:51,167
+You remember that?
+
+1111
+01:17:53,627 --> 01:17:54,795
+Yeah, of course I remember.
+
+1112
+01:17:54,879 --> 01:17:57,840
+What you said was that this is my world.
+
+1113
+01:17:59,508 --> 01:18:01,135
+And in my world, you gotta get dirty.
+
+1114
+01:18:02,553 --> 01:18:05,014
+So, that's what I'm doing.
+I'm getting dirty.
+
+1115
+01:18:09,143 --> 01:18:12,146
+Well, you're paraphrasing a tad, but...
+
+1116
+01:18:13,647 --> 01:18:15,024
+that was the general gist.
+
+1117
+01:18:19,612 --> 01:18:20,779
+See you at Candyland.
+
+1118
+01:18:28,662 --> 01:18:30,998
+[Django] All right, niggers. Back at it.
+
+1119
+01:18:32,583 --> 01:18:34,168
+That means you too, Moonlight.
+
+1120
+01:18:54,855 --> 01:18:56,774
+[dogs barking]
+
+1121
+01:19:21,715 --> 01:19:22,841
+[Candie] I'll be.
+
+1122
+01:19:23,300 --> 01:19:24,301
+D'Artagnan!
+
+1123
+01:19:25,219 --> 01:19:28,180
+Now, boy, why do a fool thing
+like run off?
+
+1124
+01:19:28,472 --> 01:19:30,766
+I can't fight no more, Monsieur Candie.
+
+1125
+01:19:30,849 --> 01:19:32,101
+[Candie] Yes, you can.
+
+1126
+01:19:32,434 --> 01:19:34,812
+You might not be able to win,
+but your ass can fight.
+
+1127
+01:19:35,896 --> 01:19:38,399
+Mr. Stonesipher, would you please
+shut these goddamn dogs up?
+
+1128
+01:19:38,524 --> 01:19:39,817
+I cannot hear myself think!
+
+1129
+01:19:39,900 --> 01:19:42,152
+Quieten down, Marsha! Marsha, hush up!
+
+1130
+01:19:42,236 --> 01:19:44,280
+-[Marsha barks]
+-[Stonesipher] Marsha! Hush up!
+
+1131
+01:19:44,697 --> 01:19:47,825
+Hey! Get these goddamn dogs
+away from this nigger!
+
+1132
+01:19:48,409 --> 01:19:50,577
+[dogs whimpering]
+
+1133
+01:19:57,251 --> 01:19:58,502
+Well, now, boy...
+
+1134
+01:19:59,712 --> 01:20:01,797
+-get on out that tree.
+-[D'Artagnan] Yes, sir.
+
+1135
+01:20:02,965 --> 01:20:06,302
+[dogs barking]
+
+1136
+01:20:25,070 --> 01:20:26,447
+How long was he loose?
+
+1137
+01:20:27,573 --> 01:20:29,658
+A night. Day.
+
+1138
+01:20:30,826 --> 01:20:31,994
+Half the other night.
+
+1139
+01:20:33,579 --> 01:20:35,039
+How far he get off the property?
+
+1140
+01:20:35,456 --> 01:20:36,915
+About 20 miles off prop.
+
+1141
+01:20:37,458 --> 01:20:39,626
+Pretty far, considering that limp he got.
+
+1142
+01:20:42,254 --> 01:20:45,341
+Mr. Moguy, who was D'Artagnan
+supposed to fight on Friday?
+
+1143
+01:20:45,549 --> 01:20:46,884
+One of this new lot.
+
+1144
+01:20:48,552 --> 01:20:51,305
+Way he looks now, a blind Indian
+wouldn't bet a bead on him.
+
+1145
+01:20:51,472 --> 01:20:54,141
+[D'Artagnan] Please, Monsieur Candie,
+I ain't got it in me no more.
+
+1146
+01:20:54,224 --> 01:20:57,227
+Now, now, now. Now, no begging.
+
+1147
+01:20:58,479 --> 01:21:00,314
+No playing on my soft heart.
+
+1148
+01:21:04,276 --> 01:21:06,487
+-You in trouble now, son.
+-Yes, sir.
+
+1149
+01:21:09,615 --> 01:21:12,701
+You know, I done paid 500 dollars for you.
+
+1150
+01:21:13,410 --> 01:21:15,621
+When I pay 500 dollars,
+
+1151
+01:21:16,246 --> 01:21:18,332
+I expect to get five fights
+out of a nigger
+
+1152
+01:21:18,415 --> 01:21:20,626
+-before he roll over and play dead.
+-Sir...
+
+1153
+01:21:21,126 --> 01:21:23,921
+You got to understand,
+I'm running a business here.
+
+1154
+01:21:25,089 --> 01:21:28,008
+-You fought three fights.
+-But I won every one!
+
+1155
+01:21:28,092 --> 01:21:30,511
+Yes, you did. Yes, you did.
+But that last one,
+
+1156
+01:21:30,594 --> 01:21:32,679
+you muddled the line
+between winning and losing.
+
+1157
+01:21:36,392 --> 01:21:37,893
+Still, the fact remains.
+
+1158
+01:21:38,644 --> 01:21:41,939
+I pay 500 dollars,
+I want five goddamn fights.
+
+1159
+01:21:42,773 --> 01:21:44,525
+So, what about my 500 dollars, huh?
+
+1160
+01:21:46,944 --> 01:21:48,404
+What about my 500 dollars?
+
+1161
+01:21:50,364 --> 01:21:51,615
+You gonna reimburse me?
+
+1162
+01:21:58,038 --> 01:21:59,832
+You even know what "reimburse" means?
+
+1163
+01:21:59,915 --> 01:22:02,376
+[all laughing]
+
+1164
+01:22:08,590 --> 01:22:10,092
+[Schultz] I'll reimburse you.
+
+1165
+01:22:14,263 --> 01:22:15,263
+You will?
+
+1166
+01:22:16,354 --> 01:22:17,391
+Yep.
+
+1167
+01:22:20,769 --> 01:22:22,896
+You'll pay 500 dollars...
+
+1168
+01:22:23,689 --> 01:22:27,234
+for practically a one-eyed old Joe
+ain't fit to push a broom?
+
+1169
+01:22:27,484 --> 01:22:28,485
+No, he won't.
+
+1170
+01:22:30,821 --> 01:22:32,573
+He just tired of you
+toying with him, is all.
+
+1171
+01:22:33,907 --> 01:22:35,159
+Matter of fact, so am I.
+
+1172
+01:22:36,326 --> 01:22:38,203
+But we ain't paying a penny
+for that piccaninny.
+
+1173
+01:22:38,537 --> 01:22:40,372
+Ain't got no use for him.
+Ain't that right, doc?
+
+1174
+01:22:42,207 --> 01:22:43,250
+You heard him.
+
+1175
+01:22:52,801 --> 01:22:56,638
+You're gonna have to excuse
+Mr. Stonesipher's slack-jawed gaze.
+
+1176
+01:22:57,556 --> 01:23:00,058
+He ain't never seen a nigger like you
+ever in his life.
+
+1177
+01:23:00,934 --> 01:23:02,561
+Ain't that right, Mr. Stonesipher?
+
+1178
+01:23:05,230 --> 01:23:06,275
+That's right.
+
+1179
+01:23:07,524 --> 01:23:08,692
+[Candie] For that matter...
+
+1180
+01:23:10,224 --> 01:23:11,361
+nor have I.
+
+1181
+01:23:17,826 --> 01:23:18,952
+Now,
+
+1182
+01:23:20,078 --> 01:23:23,123
+seeing as you won't pay a penny
+for this piccaninny, here...
+
+1183
+01:23:25,959 --> 01:23:28,795
+you won't mind me handling this nigger
+any way I see fit?
+
+1184
+01:23:30,339 --> 01:23:31,507
+He's your nigger.
+
+1185
+01:23:35,594 --> 01:23:37,346
+Mr. Stonesipher?
+
+1186
+01:23:38,764 --> 01:23:41,725
+Let Marsha and her bitches
+send D'Artagnan to nigger heaven.
+
+1187
+01:23:42,392 --> 01:23:44,186
+[Stonesipher] Marsha!
+
+1188
+01:23:44,645 --> 01:23:46,230
+Marsha, get him!
+
+1189
+01:23:46,522 --> 01:23:49,024
+[dogs barking]
+
+1190
+01:23:49,274 --> 01:23:50,484
+Get him, get him!
+
+1191
+01:23:52,069 --> 01:23:54,404
+[all whooping]
+
+1192
+01:24:01,370 --> 01:24:02,788
+[D'Artagnan screaming]
+
+1193
+01:24:11,338 --> 01:24:13,257
+[screaming continues]
+
+1194
+01:24:24,726 --> 01:24:26,979
+Your boss looks a little green
+around the gills
+
+1195
+01:24:27,062 --> 01:24:28,981
+for a blood sport like nigger-fighting.
+
+1196
+01:24:29,147 --> 01:24:30,190
+No.
+
+1197
+01:24:30,732 --> 01:24:33,777
+He just ain't used to seeing a man
+ripped apart by dogs, is all.
+
+1198
+01:24:34,570 --> 01:24:35,637
+Mm.
+
+1199
+01:24:36,738 --> 01:24:37,781
+You are used to it?
+
+1200
+01:24:38,407 --> 01:24:41,076
+I'm just a little more used
+to Americans than he is.
+
+1201
+01:24:41,410 --> 01:24:43,245
+-[Candie] Huh.
+-Now,
+
+1202
+01:24:43,745 --> 01:24:45,581
+[in French accent] Monsieur Candie...
+
+1203
+01:24:46,231 --> 01:24:47,549
+[in normal voice] whenever you're ready.
+
+1204
+01:24:48,250 --> 01:24:50,419
+We rode five hours
+so you could show off your stock.
+
+1205
+01:24:51,545 --> 01:24:52,796
+Let's get to it.
+
+1206
+01:24:54,631 --> 01:24:56,425
+Because as of now, if he's an example...
+
+1207
+01:24:57,426 --> 01:24:58,468
+I ain't impressed.
+
+1208
+01:25:01,060 --> 01:25:02,097
+Follow me.
+
+1209
+01:25:22,659 --> 01:25:23,666
+[clicks tongue]
+
+1210
+01:27:00,006 --> 01:27:02,092
+[Jessie] Line them up
+to the left here, now, boy.
+
+1211
+01:27:04,177 --> 01:27:05,387
+Stand up straight, now!
+
+1212
+01:27:06,596 --> 01:27:07,618
+Get up there.
+
+1213
+01:27:08,098 --> 01:27:10,308
+Get up there, boy. Come on.
+
+1214
+01:27:10,559 --> 01:27:12,519
+I said give me a line! Give me a line!
+
+1215
+01:27:12,602 --> 01:27:14,563
+Get in line, there! Straighten up!
+
+1216
+01:28:09,951 --> 01:28:12,245
+[Candie and Leo speaking indistinctly]
+
+1217
+01:28:14,289 --> 01:28:16,792
+-[Candie] Hello! Stephen, my boy!
+-Yeah, yeah, yeah.
+
+1218
+01:28:17,209 --> 01:28:18,502
+Hello, my ass.
+
+1219
+01:28:19,002 --> 01:28:21,922
+Who this nigger up on that nag?
+
+1220
+01:28:22,005 --> 01:28:23,882
+Oh, Stephen, you have
+nails for breakfast?
+
+1221
+01:28:24,299 --> 01:28:26,051
+What's the matter? Why you so ornery?
+
+1222
+01:28:26,134 --> 01:28:28,094
+-You miss me, huh?
+-[laughing] Oh, yes, sir.
+
+1223
+01:28:28,220 --> 01:28:31,681
+I miss you like a hog miss slop.
+
+1224
+01:28:31,848 --> 01:28:35,936
+-Like a baby miss mammy's titty.
+-[both laugh]
+
+1225
+01:28:36,019 --> 01:28:39,856
+I miss you like I misses
+a rock in my shoe.
+
+1226
+01:28:39,940 --> 01:28:41,900
+[laughs]
+
+1227
+01:28:42,275 --> 01:28:46,822
+Now, I asked you,
+who this nigger on that nag?
+
+1228
+01:28:46,905 --> 01:28:47,977
+Hey, Snowball.
+
+1229
+01:28:49,908 --> 01:28:53,161
+Wanna know my name
+or the name of my horse, you ask me.
+
+1230
+01:28:53,495 --> 01:28:56,373
+[Stephen] Just who the hell
+you calling "Snowball," horse boy?
+
+1231
+01:28:56,456 --> 01:28:59,501
+I'll snatch your black ass off that nag
+down here in the mud so fast,
+
+1232
+01:28:59,584 --> 01:29:02,045
+-make your head spin.
+-Whoa, whoa! Stephen, Stephen, Stephen.
+
+1233
+01:29:02,254 --> 01:29:05,632
+Let's keep it funny. Django here's a
+Freeman.
+
+1234
+01:29:06,633 --> 01:29:08,552
+-This nigger here?
+-That nigger there.
+
+1235
+01:29:08,885 --> 01:29:12,305
+Let me at least introduce
+the two of you. Django?
+
+1236
+01:29:12,472 --> 01:29:15,350
+This is another cheeky black bugger
+like yourself, Stephen.
+
+1237
+01:29:15,475 --> 01:29:17,060
+Stephen, this here's Django.
+
+1238
+01:29:17,310 --> 01:29:18,770
+You two ought to hate each other.
+
+1239
+01:29:18,854 --> 01:29:23,024
+Calvin, just who the hell is this nigger
+you feels the need to entertain?
+
+1240
+01:29:23,108 --> 01:29:27,028
+Django and his friend in gray here,
+Dr. Schultz, are customers.
+
+1241
+01:29:27,195 --> 01:29:28,738
+And they are our guests, Stephen.
+
+1242
+01:29:28,822 --> 01:29:32,409
+And you, you old, decrepit bastard,
+ought to show them hospitality.
+
+1243
+01:29:32,492 --> 01:29:34,911
+-You understand that?
+-[Stephen] Yes, sir. Him, I understand.
+
+1244
+01:29:34,995 --> 01:29:37,247
+But I don't know why I got to take
+lip off this nigger.
+
+1245
+01:29:37,330 --> 01:29:39,374
+You don't have to know why.
+Do you understand?
+
+1246
+01:29:40,542 --> 01:29:43,003
+-Yes, sir. I understand.
+-Well, good.
+
+1247
+01:29:43,753 --> 01:29:46,673
+They're spending the night. Go up
+in the guest bedrooms and get two ready.
+
+1248
+01:29:47,883 --> 01:29:49,509
+He gonna stay in the Big House?
+
+1249
+01:29:49,759 --> 01:29:52,262
+Stephen, he's a slaver. It's different.
+
+1250
+01:29:52,345 --> 01:29:54,931
+-In the Big House?
+-You got a problem with that?
+
+1251
+01:29:55,015 --> 01:29:57,475
+No, I ain't got no problem with it.
+
+1252
+01:29:57,559 --> 01:29:59,686
+If you ain't got no problem
+burning the bed, the sheets
+
+1253
+01:29:59,769 --> 01:30:02,105
+and everything else
+when this black-ass motherfucker's gone!
+
+1254
+01:30:02,188 --> 01:30:04,357
+That is my problem. They are mine to burn.
+
+1255
+01:30:04,524 --> 01:30:06,943
+Now, your problem, right now,
+is making a good impression.
+
+1256
+01:30:07,027 --> 01:30:09,112
+I want you to start
+solving that problem, right now,
+
+1257
+01:30:09,195 --> 01:30:10,530
+and get them goddamn rooms ready!
+
+1258
+01:30:12,908 --> 01:30:14,242
+Yes, sir, Monsieur Candie.
+
+1259
+01:30:15,994 --> 01:30:17,065
+[Candie] Go on, now.
+
+1260
+01:30:18,246 --> 01:30:20,582
+[Stephen] Can't believe you brought
+a nigger to stay in the Big House.
+
+1261
+01:30:20,874 --> 01:30:23,710
+-Your daddy rolling over in his grave.
+-Man, the lip on him.
+
+1262
+01:30:23,793 --> 01:30:26,880
+-[Stephen muttering indistinctly]
+-Phew! He's getting worse and worse. Now!
+
+1263
+01:30:27,213 --> 01:30:31,593
+[screaming] Where is my beautiful sister?
+
+1264
+01:30:32,218 --> 01:30:33,470
+There she is!
+
+1265
+01:30:33,678 --> 01:30:35,555
+[Candie whooping]
+
+1266
+01:30:35,680 --> 01:30:39,100
+Dr. Schultz,
+this attractive Southern belle
+
+1267
+01:30:39,184 --> 01:30:40,477
+is my widowed sister.
+
+1268
+01:30:40,769 --> 01:30:44,397
+Darling, you are a tonic for tired eyes.
+
+1269
+01:30:45,815 --> 01:30:49,361
+May I present to you
+Lara Lee Candie-Fitzwilly?
+
+1270
+01:30:49,527 --> 01:30:52,906
+Chester, Rodney, Chicken Charly.
+Y'all get over by that pen.
+
+1271
+01:30:52,989 --> 01:30:55,575
+-[Tommy] Come on, Charly. Go on.
+-[Bill] Let's go. Come on, now.
+
+1272
+01:30:55,659 --> 01:30:57,702
+You know where it is. Like you on a rope.
+
+1273
+01:30:59,329 --> 01:31:01,831
+[Tommy] Niggers don't walk
+around here, niggers run.
+
+1274
+01:31:02,624 --> 01:31:04,000
+[Schultz] Ah, Monsieur Candie?
+
+1275
+01:31:04,167 --> 01:31:05,177
+[Candie] Mm?
+
+1276
+01:31:07,087 --> 01:31:09,696
+About that matter, about the nigger girl
+you were talking about?
+
+1277
+01:31:09,921 --> 01:31:10,966
+Nigger gal?
+
+1278
+01:31:11,049 --> 01:31:14,344
+Yeah, I believe you mentioned
+she spoke German.
+
+1279
+01:31:14,636 --> 01:31:16,805
+Ah, yes, Hildi! What about her?
+
+1280
+01:31:17,222 --> 01:31:21,518
+Do you think, before the demonstration,
+you could send her around to my room?
+
+1281
+01:31:21,935 --> 01:31:25,855
+You little dickens, you! [laughs]
+I don't see why not.
+
+1282
+01:31:25,939 --> 01:31:28,400
+Stephen, when you get through
+showing them to their rooms,
+
+1283
+01:31:28,483 --> 01:31:31,361
+go fetch Hildi, get her cleaned up
+and smelling real nice,
+
+1284
+01:31:31,444 --> 01:31:34,823
+-and sent over to Dr. Schultz's room here.
+-[laughs] Actually, Monsieur Candie, sir,
+
+1285
+01:31:34,948 --> 01:31:37,325
+there's something I ain't
+told you about, yet.
+
+1286
+01:31:37,701 --> 01:31:41,162
+-What?
+-Uh... Hildi in the hot box.
+
+1287
+01:31:43,039 --> 01:31:45,917
+-[Candie] What's she doing there?
+-[Stephen] What you think she doing there
+
+1288
+01:31:46,001 --> 01:31:47,919
+in the hot box? She being punished.
+
+1289
+01:31:48,586 --> 01:31:50,714
+-[Candie] What she do?
+-[Stephen] She run off again.
+
+1290
+01:31:51,131 --> 01:31:54,092
+Jesus Christ, Stephen!
+How many people ran away while I was gone?
+
+1291
+01:31:54,175 --> 01:31:56,553
+-Two.
+-When did she go?
+
+1292
+01:31:56,636 --> 01:31:59,014
+Last night.
+They brung her back this morning.
+
+1293
+01:31:59,931 --> 01:32:02,475
+How bad did Stonesipher's dogs
+tear her up?
+
+1294
+01:32:03,143 --> 01:32:06,521
+[Stephen] Lucky for her, they was out
+chasing D'Artagnan's ass.
+
+1295
+01:32:06,730 --> 01:32:09,858
+Bill and Cody went looking for her,
+found her, brung her back.
+
+1296
+01:32:11,067 --> 01:32:12,444
+-Now, she a little beat up.
+-Mm.
+
+1297
+01:32:12,527 --> 01:32:15,405
+But she done that to her own damn self,
+running through them bushes.
+
+1298
+01:32:15,488 --> 01:32:17,115
+[Candie] How long she been in the box?
+
+1299
+01:32:17,240 --> 01:32:20,201
+[Stephen] How long do you think
+she been in there? All damn day.
+
+1300
+01:32:20,452 --> 01:32:23,079
+And the little bitch got
+10 more days be in there.
+
+1301
+01:32:23,747 --> 01:32:26,291
+-Still, take her out.
+-Take her out? Why?
+
+1302
+01:32:26,458 --> 01:32:28,334
+Because I said so, that's why.
+
+1303
+01:32:28,460 --> 01:32:31,588
+Dr. Schultz is my guest.
+Hildi is my nigger.
+
+1304
+01:32:31,671 --> 01:32:34,841
+Southern hospitality dictates
+I make her available to him.
+
+1305
+01:32:34,924 --> 01:32:38,094
+-But Monsieur Candie, she run off.
+-Jesus Christ, Stephen.
+
+1306
+01:32:38,178 --> 01:32:40,889
+What is the point of having a nigger
+that speaks German
+
+1307
+01:32:40,972 --> 01:32:43,433
+if you can't wheel them out when you have
+a German guest?
+
+1308
+01:32:43,516 --> 01:32:45,727
+-I...
+-Now, I realize it is inconvenient,
+
+1309
+01:32:45,852 --> 01:32:47,604
+but still, you take her ass out.
+
+1310
+01:32:47,812 --> 01:32:48,843
+Yes, sir.
+
+1311
+01:32:50,273 --> 01:32:52,942
+[Candie] Lara Lee, will you
+and Cora be responsible
+
+1312
+01:32:53,026 --> 01:32:56,613
+for getting Hildi cleaned up
+and presentable for Dr. Schultz, here?
+
+1313
+01:32:56,988 --> 01:32:59,866
+-[Lara] Of course, darling.
+-Now, gentlemen, I do apologize,
+
+1314
+01:32:59,949 --> 01:33:03,078
+but I am weary from our travels
+beyond words.
+
+1315
+01:33:03,203 --> 01:33:05,663
+It is time for me to rest my tired eyes.
+
+1316
+01:33:08,625 --> 01:33:09,876
+[clicking tongue]
+
+1317
+01:33:10,877 --> 01:33:13,546
+Y'all done heard the man!
+Get her ass up out of there!
+
+1318
+01:33:13,963 --> 01:33:15,590
+Cora, come here.
+
+1319
+01:33:16,591 --> 01:33:19,844
+Get over there, get her cleaned up,
+bring her back over here to Dr....
+
+1320
+01:33:19,928 --> 01:33:22,347
+-What'd you say your name is? Shoots?
+-Schultz.
+
+1321
+01:33:22,430 --> 01:33:24,891
+Schultz. Get her back
+over here. Hurry up, girl.
+
+1322
+01:33:24,974 --> 01:33:26,049
+Yes, sir.
+
+1323
+01:34:09,144 --> 01:34:11,646
+[Broomhilda screaming]
+
+1324
+01:34:12,021 --> 01:34:14,440
+[Hoot] Come on, girl. Stand up.
+
+1325
+01:34:15,692 --> 01:34:16,901
+[Broomhilda] No!
+
+1326
+01:34:17,527 --> 01:34:18,820
+[gasping]
+
+1327
+01:34:25,869 --> 01:34:26,995
+[screams]
+
+1328
+01:34:27,745 --> 01:34:29,956
+[Broomhilda screaming]
+
+1329
+01:34:44,637 --> 01:34:48,016
+Is you coming with me, or is you gonna
+sleep in that little box over yonder?
+
+1330
+01:34:51,019 --> 01:34:53,938
+["Ancora Qui" by Elisa playing]
+
+1331
+01:36:15,520 --> 01:36:16,620
+[Lara exhales]
+
+1332
+01:36:23,278 --> 01:36:24,654
+Hello, ladies.
+
+1333
+01:36:24,904 --> 01:36:28,116
+Dr. Schultz.
+May I introduce to you Broomhilda?
+
+1334
+01:36:32,495 --> 01:36:34,289
+Hildi, this is Dr. Schultz.
+
+1335
+01:36:36,374 --> 01:36:38,251
+It's a pleasure to meet you, Broomhilda.
+
+1336
+01:36:39,752 --> 01:36:41,838
+I've heard a lot of good things about you.
+
+1337
+01:36:42,130 --> 01:36:45,008
+Well, it's not every nigger
+speaks German, don't you know.
+
+1338
+01:36:45,300 --> 01:36:46,592
+[both chuckle]
+
+1339
+01:36:48,261 --> 01:36:50,179
+[Schultz] As I look
+at you now, Broomhilda,
+
+1340
+01:36:50,722 --> 01:36:54,851
+I can see all the passions you inspire
+are completely justified.
+
+1341
+01:36:58,771 --> 01:37:00,690
+The doctor here speaks German.
+
+1342
+01:37:03,026 --> 01:37:04,902
+And I've been informed you do as well?
+
+1343
+01:37:06,487 --> 01:37:08,323
+Go ahead, girl. Speak a little German.
+
+1344
+01:37:10,700 --> 01:37:14,370
+{\an8}[speaking in German]
+
+1345
+01:37:15,288 --> 01:37:17,290
+[Lara laughs]
+
+1346
+01:37:17,373 --> 01:37:18,624
+Astonishing.
+
+1347
+01:37:19,083 --> 01:37:20,585
+{\an8}[speaking in German]
+
+1348
+01:37:26,007 --> 01:37:27,884
+-And I shall bring--
+-[Schultz] Much obliged.
+
+1349
+01:37:34,182 --> 01:37:36,059
+{\an8}[speaking in German]
+
+1350
+01:37:37,560 --> 01:37:38,654
+<i>Ja.</i>
+
+1351
+01:37:59,457 --> 01:38:00,917
+[speaking in German]
+
+1352
+01:38:02,210 --> 01:38:03,294
+Don't be afraid.
+
+1353
+01:38:06,922 --> 01:38:07,965
+{\an8}[speaking in German]
+
+1354
+01:38:41,749 --> 01:38:42,821
+Hmm.
+
+1355
+01:38:43,042 --> 01:38:44,061
+<i>Pardon.</i>
+
+1356
+01:38:47,630 --> 01:38:48,798
+{\an8}[speaking in German]
+
+1357
+01:38:51,926 --> 01:38:53,005
+<i>Danke.</i>
+
+1358
+01:39:02,145 --> 01:39:05,565
+{\an8}[speaking in German]
+
+1359
+01:39:36,554 --> 01:39:37,930
+{\an8}[laughs]
+
+1360
+01:40:21,349 --> 01:40:23,309
+<i>Ich verspreche es.</i>
+
+1361
+01:40:38,699 --> 01:40:39,951
+Hey, Little Trouble Maker.
+
+1362
+01:40:40,451 --> 01:40:41,452
+[gasps]
+
+1363
+01:40:44,705 --> 01:40:45,873
+[sighs]
+
+1364
+01:40:49,252 --> 01:40:51,712
+You silver-tongued devil, you.
+
+1365
+01:40:53,548 --> 01:40:55,258
+-Hurry up, girl.
+-These ready, Miss Cora.
+
+1366
+01:40:55,341 --> 01:40:56,842
+No, no, no. They drinking, tonight.
+
+1367
+01:40:56,926 --> 01:40:59,679
+Go downstairs, get the big jug
+with the red stuff Monsieur Candie like.
+
+1368
+01:40:59,762 --> 01:41:02,848
+Get your pretty ass out the way. You know
+you like it.
+
+1369
+01:41:02,974 --> 01:41:05,726
+That's because you knows
+what I like. [laughs]
+
+1370
+01:41:05,810 --> 01:41:07,812
+[Cora] Ooh! Come on
+with these biscuits, girl.
+
+1371
+01:41:07,937 --> 01:41:11,691
+Look, Monsieur Candie,
+they were all fine specimens,
+
+1372
+01:41:11,774 --> 01:41:12,900
+no doubt about it.
+
+1373
+01:41:13,818 --> 01:41:17,697
+But the best three by far were Samson...
+
+1374
+01:41:19,115 --> 01:41:20,700
+-What's that other one's name?
+-Goldie.
+
+1375
+01:41:21,158 --> 01:41:22,261
+Goldie,
+
+1376
+01:41:22,451 --> 01:41:23,953
+and Eskimo Joe.
+
+1377
+01:41:24,704 --> 01:41:27,123
+By the way, why is he called "Eskimo" Joe?
+
+1378
+01:41:27,498 --> 01:41:30,459
+You never know how these
+nigger nicknames get started.
+
+1379
+01:41:30,710 --> 01:41:33,838
+His name was Joe, maybe one day
+he said he was cold. Who knows?
+
+1380
+01:41:33,921 --> 01:41:35,881
+[all laughing]
+
+1381
+01:41:37,216 --> 01:41:40,094
+Well, regardless, Samson's your best.
+
+1382
+01:41:40,803 --> 01:41:41,971
+We all know that.
+
+1383
+01:41:42,597 --> 01:41:44,932
+You will never sell him,
+and I can see why.
+
+1384
+01:41:45,099 --> 01:41:46,392
+He's a champion.
+
+1385
+01:41:46,475 --> 01:41:49,645
+Mm-mm-mm. All three are champions.
+
+1386
+01:41:50,813 --> 01:41:51,856
+Samson's the champion.
+
+1387
+01:41:53,065 --> 01:41:54,150
+Them other two pretty good.
+
+1388
+01:41:56,152 --> 01:41:58,946
+-Calvin, what's this nigger you let--?
+-It's all right, it's all right.
+
+1389
+01:41:59,030 --> 01:42:00,823
+You have to understand, Monsieur Candie,
+
+1390
+01:42:01,157 --> 01:42:04,785
+while admittedly a neophyte
+in the nigger-fight game,
+
+1391
+01:42:04,910 --> 01:42:09,206
+I do have a little bit of a background
+in the European traveling circus.
+
+1392
+01:42:09,290 --> 01:42:10,309
+Is that right?
+
+1393
+01:42:10,583 --> 01:42:14,545
+[Schultz] Hence, I have big ideas when it
+comes to presentation.
+
+1394
+01:42:15,212 --> 01:42:16,964
+-Mm.
+-[Schultz] I need something more
+
+1395
+01:42:17,048 --> 01:42:18,215
+than just a big nigger.
+
+1396
+01:42:20,468 --> 01:42:22,470
+Yeah, he needs to have panache.
+
+1397
+01:42:22,637 --> 01:42:24,972
+-Need to have what? What?
+-Panache. Uh...
+
+1398
+01:42:26,015 --> 01:42:28,601
+-A sense of showmanship.
+-Showmanship, yes.
+
+1399
+01:42:28,684 --> 01:42:32,063
+I want to be able to bill him
+as the Black Hercules.
+
+1400
+01:42:32,146 --> 01:42:33,731
+[all laughing]
+
+1401
+01:42:33,814 --> 01:42:36,567
+-The Black Hercules! Isn't that clever?
+-More like Nigger-les.
+
+1402
+01:42:36,651 --> 01:42:38,694
+[all laughing]
+
+1403
+01:42:39,028 --> 01:42:40,613
+I said, and I quote...
+
+1404
+01:42:41,530 --> 01:42:46,827
+"I would pay top dollar
+for the right nigger."
+
+1405
+01:42:47,703 --> 01:42:50,998
+Now, I'm not saying that Eskimo Joe
+is the wrong nigger, per se.
+
+1406
+01:42:52,124 --> 01:42:54,418
+But is he right as rain?
+
+1407
+01:42:56,170 --> 01:43:01,467
+Oh, Dr. Schultz, I will have you know
+there is no-one in the nigger-fight game
+
+1408
+01:43:01,550 --> 01:43:05,471
+that appreciates the value of showmanship
+more than Monsieur Calvin J. Candie.
+
+1409
+01:43:05,554 --> 01:43:06,593
+Nobody.
+
+1410
+01:43:06,847 --> 01:43:08,891
+But one must not forget
+the most important thing
+
+1411
+01:43:08,974 --> 01:43:10,476
+-in the nigger-fight game.
+-Mm-hmm.
+
+1412
+01:43:10,559 --> 01:43:13,479
+-And that is a nigger that can win fights.
+-Mm-hmm.
+
+1413
+01:43:13,854 --> 01:43:18,025
+Now, that should be your first,
+second, third, fourth and fifth concern.
+
+1414
+01:43:18,442 --> 01:43:20,736
+Now, after you have that,
+and you know you have that,
+
+1415
+01:43:20,820 --> 01:43:23,739
+then you can start to implement
+a grand design.
+
+1416
+01:43:24,657 --> 01:43:27,368
+In other words, first thing is first.
+
+1417
+01:43:27,451 --> 01:43:28,828
+First thing's first.
+
+1418
+01:43:33,874 --> 01:43:35,835
+[whispering in German]
+
+1419
+01:43:36,001 --> 01:43:39,505
+-[chuckles]
+-Ooh! I see you two getting on.
+
+1420
+01:43:40,589 --> 01:43:41,632
+Famously!
+
+1421
+01:43:42,967 --> 01:43:44,802
+Oh, Monsieur Candie, you cannot imagine
+
+1422
+01:43:44,885 --> 01:43:48,848
+what it's like not to hear
+your native tongue in four years.
+
+1423
+01:43:48,931 --> 01:43:51,100
+Well, hell, I can't imagine
+two weeks in Boston!
+
+1424
+01:43:51,183 --> 01:43:53,269
+-[all laughing]
+-[Stephen howls with laughter]
+
+1425
+01:43:53,394 --> 01:43:56,897
+Two weeks in Boston!
+[laughs] Monsieur Candie, you a mess.
+
+1426
+01:43:56,981 --> 01:43:59,859
+[laughs] Two weeks in Boston!
+
+1427
+01:44:00,276 --> 01:44:05,573
+[Schultz] I can't express the joy I felt
+conversing in my mother tongue.
+
+1428
+01:44:05,698 --> 01:44:09,910
+And Hildi is a charming
+conversation companion.
+
+1429
+01:44:10,077 --> 01:44:11,954
+[Candie] Well, be careful, now,
+Dr. Schultz.
+
+1430
+01:44:12,413 --> 01:44:14,915
+You might've caught yourself
+a little dose of nigger-love.
+
+1431
+01:44:15,291 --> 01:44:17,626
+-Nigger-love's a powerful emotion, boy.
+-[Stephen] Mm!
+
+1432
+01:44:17,710 --> 01:44:21,130
+It's like a pool of black tar.
+Once it catches your ass, you caught.
+
+1433
+01:44:21,213 --> 01:44:24,091
+Yes, sir, you stuck. [chuckles]
+
+1434
+01:44:24,258 --> 01:44:25,509
+[Lara] I don't know, doctor.
+
+1435
+01:44:26,051 --> 01:44:28,763
+You can lay on all the German
+sweet talk you want, but...
+
+1436
+01:44:29,096 --> 01:44:32,683
+it looks like this pony's
+got big eyes for Django.
+
+1437
+01:44:33,392 --> 01:44:34,935
+[Lara chuckles]
+
+1438
+01:44:35,394 --> 01:44:37,938
+Well, naturally!
+
+1439
+01:44:38,105 --> 01:44:43,110
+It is the soaring eagle that attracts
+her attention, not the plucked chicken.
+
+1440
+01:44:43,235 --> 01:44:44,653
+[all chuckling]
+
+1441
+01:44:44,820 --> 01:44:47,531
+[Candie] Dr. Schultz, don't be
+so down on yourself.
+
+1442
+01:44:47,615 --> 01:44:49,450
+You are quite
+the dapper European gentleman.
+
+1443
+01:44:49,533 --> 01:44:52,953
+[Cora] You got to clean these dishes.
+Put your elbow in these dishes, you hear?
+
+1444
+01:44:53,037 --> 01:44:54,663
+You know that nigger, don't you?
+
+1445
+01:44:56,081 --> 01:44:57,333
+-Who?
+-"Who?"
+
+1446
+01:44:57,458 --> 01:44:59,919
+Don't "who" me, bitch.
+You know who I'm talking about.
+
+1447
+01:45:02,463 --> 01:45:03,464
+At the table?
+
+1448
+01:45:04,423 --> 01:45:05,591
+I don't know him.
+
+1449
+01:45:05,966 --> 01:45:07,384
+You don't know him.
+
+1450
+01:45:07,885 --> 01:45:09,887
+-No.
+-"No," what?
+
+1451
+01:45:10,679 --> 01:45:11,701
+No, sir.
+
+1452
+01:45:14,058 --> 01:45:15,643
+[chuckles]
+
+1453
+01:45:16,727 --> 01:45:18,437
+You wouldn't lie to me, now, would you?
+
+1454
+01:45:22,525 --> 01:45:24,068
+[tuts] Okay.
+
+1455
+01:45:25,903 --> 01:45:28,614
+Yeah. If you say so.
+
+1456
+01:45:35,037 --> 01:45:38,332
+Eskimo Joe's a quality nigger,
+no doubt about it.
+
+1457
+01:45:40,125 --> 01:45:41,335
+But if it was my money...
+
+1458
+01:45:43,212 --> 01:45:45,256
+I wouldn't pay no 12,000 dollars for him.
+
+1459
+01:45:45,548 --> 01:45:47,091
+What would your price be?
+
+1460
+01:45:48,008 --> 01:45:49,885
+Well, if I was inclined to be generous,
+
+1461
+01:45:49,969 --> 01:45:53,055
+and I don't know why
+I would be inclined to be generous...
+
+1462
+01:45:54,515 --> 01:45:55,558
+nine thousand.
+
+1463
+01:45:57,059 --> 01:45:58,143
+Maybe.
+
+1464
+01:45:58,864 --> 01:45:59,895
+[Candie] Dr. Schultz.
+
+1465
+01:46:00,938 --> 01:46:04,650
+Let me re-clarify how this whole
+negotiation came about.
+
+1466
+01:46:05,234 --> 01:46:07,314
+It wasn't me who came to you
+to sell a nigger.
+
+1467
+01:46:07,414 --> 01:46:08,237
+Sure wasn't.
+
+1468
+01:46:08,320 --> 01:46:11,073
+-It was you who approached me to buy one.
+-Sure was.
+
+1469
+01:46:11,282 --> 01:46:14,118
+[Candie] That 9,000 dollars Bright Boy's
+been bandying about
+
+1470
+01:46:14,201 --> 01:46:17,246
+ain't too far off. If I wanted to sell
+Eskimo Joe for that
+
+1471
+01:46:17,329 --> 01:46:19,540
+-I could do so any day of the week.
+-Any day.
+
+1472
+01:46:20,207 --> 01:46:23,836
+But like you said in Greenville, doctor,
+I don't wanna sell him.
+
+1473
+01:46:24,837 --> 01:46:29,133
+It was only your ridiculous offer
+of 12,000 dollars
+
+1474
+01:46:29,216 --> 01:46:31,385
+-that made me even consider it.
+-Mm-hm.
+
+1475
+01:46:40,185 --> 01:46:44,231
+You know, Monsieur Candie,
+you do possess the power of persuasion.
+
+1476
+01:46:44,732 --> 01:46:45,733
+[chuckles]
+
+1477
+01:46:47,857 --> 01:46:48,944
+[Schultz bangs table]
+
+1478
+01:46:49,028 --> 01:46:53,073
+Why not? Monsieur Candie, you have a deal.
+Eskimo Joe, 12,000 dollars.
+
+1479
+01:46:53,157 --> 01:46:56,452
+Hooray, doctor. Hooray.
+And a wise decision that is.
+
+1480
+01:46:56,535 --> 01:46:59,914
+However, that is a tremendous
+amount of money.
+
+1481
+01:47:00,247 --> 01:47:03,417
+And the way you have your Mr. Moguy,
+I have a lawyer.
+
+1482
+01:47:03,584 --> 01:47:05,336
+Persnickety man named Tuttle.
+
+1483
+01:47:05,628 --> 01:47:08,839
+And I would need my Mr. Tuttle
+to draw up a legal contract
+
+1484
+01:47:08,923 --> 01:47:12,384
+before I'd feel comfortable exchanging
+that amount of money for flesh.
+
+1485
+01:47:12,468 --> 01:47:15,137
+-Mm-hmm.
+-Not to mention having Eskimo Joe examined
+
+1486
+01:47:15,220 --> 01:47:16,555
+by a physician of my choosing.
+
+1487
+01:47:16,639 --> 01:47:21,727
+-[Candie] Naturally.
+-So, say I return in about...
+
+1488
+01:47:24,772 --> 01:47:26,815
+-five days' time.
+-Five days?
+
+1489
+01:47:27,149 --> 01:47:28,525
+With my Mr. Tuttle.
+
+1490
+01:47:28,651 --> 01:47:30,819
+And then my Mr. Tuttle and your Mr. Moguy
+
+1491
+01:47:30,903 --> 01:47:33,197
+can hash out the finer details
+between themselves.
+
+1492
+01:47:34,657 --> 01:47:37,326
+I say splendid, doctor. Splendid.
+
+1493
+01:47:38,369 --> 01:47:39,476
+Gentlemen...
+
+1494
+01:47:40,663 --> 01:47:42,289
+may I propose a toast?
+
+1495
+01:47:44,917 --> 01:47:46,377
+To Eskimo Joe.
+
+1496
+01:47:46,543 --> 01:47:50,130
+Or shall we call him the Black Hercules?
+
+1497
+01:47:50,214 --> 01:47:52,716
+-[all laughing]
+-[Schultz] To the Black Hercules.
+
+1498
+01:47:52,841 --> 01:47:55,886
+-[Stephen] The Black Hercules!
+-The Black Hercules.
+
+1499
+01:47:55,970 --> 01:47:58,931
+You was right, doctor.
+That name do have pan-ass.
+
+1500
+01:47:59,014 --> 01:48:00,140
+[chuckles]
+
+1501
+01:48:00,224 --> 01:48:04,311
+Mm. Hildi? Top my drink off.
+
+1502
+01:48:07,940 --> 01:48:11,819
+So, Hildi, how you like serving
+at the big table in the Big House, huh?
+
+1503
+01:48:12,987 --> 01:48:15,447
+When Monsieur Candie
+talk to you, you answers.
+
+1504
+01:48:16,448 --> 01:48:18,617
+-I like it a lot, Monsieur Candie.
+-[Candie] Mm-hmm!
+
+1505
+01:48:19,326 --> 01:48:21,245
+It's better than sizzling in that hot box
+
+1506
+01:48:21,328 --> 01:48:23,580
+or dragging your ass
+through a bramble bush.
+
+1507
+01:48:23,872 --> 01:48:27,042
+Maybe not quite as much fun as getting
+to pleasure all them Mandingos,
+
+1508
+01:48:27,126 --> 01:48:28,919
+-huh, sugar bear?
+-She like them niggers.
+
+1509
+01:48:29,003 --> 01:48:30,963
+-Like Samson? Huh?
+-[Broomhilda] No, sir.
+
+1510
+01:48:31,880 --> 01:48:35,759
+You know, Monsieur Candie, the doctor here
+might be interested in seeing
+
+1511
+01:48:35,968 --> 01:48:39,138
+Hildi's peeled back, seeing as how
+they don't have many niggers
+
+1512
+01:48:39,221 --> 01:48:40,222
+where he come from.
+
+1513
+01:48:40,556 --> 01:48:42,975
+Dr. Schultz, when you was alone
+with Hildi, here,
+
+1514
+01:48:43,058 --> 01:48:46,311
+did you just speak German,
+or did you get to take her clothes off?
+
+1515
+01:48:46,395 --> 01:48:50,065
+-No, we just talked, and--
+-[Candie] So you haven't seen her back?
+
+1516
+01:48:50,352 --> 01:48:51,400
+I haven't.
+
+1517
+01:48:51,692 --> 01:48:54,695
+No, no, no. Stephen's right,
+you might find this interesting.
+
+1518
+01:48:54,778 --> 01:48:58,532
+Hildi, take off your dress.
+Show Dr. Schultz your back, here. Go on.
+
+1519
+01:48:58,615 --> 01:49:02,536
+[Lara] Uh... Calvin! I just got her
+all dressed up and looking nice.
+
+1520
+01:49:02,619 --> 01:49:05,748
+[Candie] But, Lara Lee,
+Dr. Schultz is from Dusseldorf!
+
+1521
+01:49:05,831 --> 01:49:08,792
+They don't got niggers there.
+He is a man of medicine.
+
+1522
+01:49:08,876 --> 01:49:11,503
+I'm sure it would fascinate him,
+the nigger's endurance for pain.
+
+1523
+01:49:11,795 --> 01:49:15,132
+These niggers are tough,
+Dr. Schultz, no doubt about it.
+
+1524
+01:49:15,257 --> 01:49:17,760
+Hildi's got something like
+four lashes on her back.
+
+1525
+01:49:17,843 --> 01:49:20,095
+Lara Lee just get one,
+she'd lose her goddamn mind.
+
+1526
+01:49:20,179 --> 01:49:22,181
+Look at that, doctor.
+It's like a painting.
+
+1527
+01:49:22,306 --> 01:49:23,348
+[shouting] Calvin!
+
+1528
+01:49:24,349 --> 01:49:27,227
+[whispering] We are eating. Ain't no-one
+wanna look at her whipped-up back.
+
+1529
+01:49:29,313 --> 01:49:30,981
+Fine. Fine, fine, fine.
+
+1530
+01:49:31,690 --> 01:49:33,984
+After dinner, then, Stephen. After dinner.
+
+1531
+01:49:35,319 --> 01:49:36,987
+During the brandies, gentlemen. Hmm?
+
+1532
+01:49:43,285 --> 01:49:44,995
+[Lara] Cora, come get this girl.
+
+1533
+01:49:48,499 --> 01:49:50,375
+-She a mess.
+-Yes, ma'am.
+
+1534
+01:49:51,043 --> 01:49:55,422
+Oh. Why are you all undone?
+I just got you done up. Come on in here.
+
+1535
+01:50:02,262 --> 01:50:06,183
+Baby, you on Stephen bad side,
+and you need to be on his blind side.
+
+1536
+01:50:06,266 --> 01:50:08,018
+You say you ain't know him.
+
+1537
+01:50:09,645 --> 01:50:11,605
+-[Broomhilda] Huh?
+-I said...
+
+1538
+01:50:12,564 --> 01:50:15,567
+you said you ain't know him.
+
+1539
+01:50:17,486 --> 01:50:18,490
+[Broomhilda] I don't.
+
+1540
+01:50:19,446 --> 01:50:20,489
+Yes, you do.
+
+1541
+01:50:23,075 --> 01:50:24,118
+Mr. Stephen...
+
+1542
+01:50:25,559 --> 01:50:26,578
+I don't.
+
+1543
+01:50:27,037 --> 01:50:28,789
+Why is you lying to me?
+
+1544
+01:50:31,708 --> 01:50:32,748
+I ain't.
+
+1545
+01:50:33,418 --> 01:50:34,586
+Then why is you crying?
+
+1546
+01:50:36,255 --> 01:50:37,464
+You scaring me.
+
+1547
+01:50:38,090 --> 01:50:39,466
+Why is I'm scaring you?
+
+1548
+01:50:40,175 --> 01:50:41,635
+Because you scary.
+
+1549
+01:50:43,846 --> 01:50:49,184
+[Schultz] <i>To speak German this afternoon</i>
+<i>with Hildi was positively soul-enriching.</i>
+
+1550
+01:50:49,643 --> 01:50:52,729
+[Candie chuckles] Doctor, that warms
+my heart to hear that.
+
+1551
+01:50:53,313 --> 01:50:55,691
+You stay right here.
+
+1552
+01:51:01,613 --> 01:51:06,118
+[Schultz] You indicated earlier
+you'd be willing to part with Hildi.
+
+1553
+01:51:06,368 --> 01:51:08,662
+Why, yes. Yessirree Bob, I did.
+
+1554
+01:51:11,039 --> 01:51:12,291
+In that case,
+
+1555
+01:51:13,041 --> 01:51:16,670
+allow me to propose another proposition.
+
+1556
+01:51:17,171 --> 01:51:18,255
+I'm all ears.
+
+1557
+01:51:18,505 --> 01:51:19,923
+Hurry up, goddamn it!
+
+1558
+01:51:21,133 --> 01:51:22,509
+-Monsieur Candie--
+-[Candie] Stephen.
+
+1559
+01:51:22,593 --> 01:51:25,679
+[bangs table] You just
+interrupted Dr. Schultz, here.
+
+1560
+01:51:27,181 --> 01:51:29,433
+[Stephen] I'm sorry, Dr. Schultz.
+
+1561
+01:51:29,516 --> 01:51:32,102
+My ears ain't worth a damn, these days.
+
+1562
+01:51:32,227 --> 01:51:33,312
+Excuse him.
+
+1563
+01:51:33,562 --> 01:51:36,273
+Monsieur Candie, could I get
+a word with you in the kitchen?
+
+1564
+01:51:37,566 --> 01:51:39,234
+You mean get up out of my chair?
+
+1565
+01:51:39,693 --> 01:51:41,486
+If'n you could manage it.
+
+1566
+01:51:41,862 --> 01:51:45,032
+-Why?
+-It's about dessert.
+
+1567
+01:51:45,115 --> 01:51:46,158
+What about dessert?
+
+1568
+01:51:47,034 --> 01:51:49,620
+I'd rather discuss that in private.
+
+1569
+01:51:49,912 --> 01:51:51,830
+[chuckling] We're having white cake!
+
+1570
+01:51:52,122 --> 01:51:54,458
+What sort of melodrama
+could be brewing, back there?
+
+1571
+01:51:54,750 --> 01:51:59,087
+You right, Monsieur Candie, you right.
+I'll handle it myself. [chuckles]
+
+1572
+01:51:59,254 --> 01:52:00,672
+[whispering] Meet me in the library.
+
+1573
+01:52:00,839 --> 01:52:04,218
+[speaking] I just can't understand
+why you won't come talk to these niggers.
+
+1574
+01:52:04,301 --> 01:52:06,220
+Shit get fucked up around here,
+you blame me.
+
+1575
+01:52:06,303 --> 01:52:11,016
+Fine, fine. Friend Stephen,
+I... will be along momentarily.
+
+1576
+01:52:11,558 --> 01:52:12,685
+Yes, sir.
+
+1577
+01:52:13,332 --> 01:52:14,394
+[Candie] Well...
+
+1578
+01:52:15,520 --> 01:52:19,316
+Gentlemen, as you can see, talented
+as they are, no doubt, in the kitchen,
+
+1579
+01:52:19,399 --> 01:52:23,028
+from time to time,
+adult supervision is required.
+
+1580
+01:52:23,320 --> 01:52:24,905
+[all chuckling]
+
+1581
+01:52:25,948 --> 01:52:27,282
+If you'll excuse me a moment.
+
+1582
+01:52:33,914 --> 01:52:35,582
+You may clear the dinner service.
+
+1583
+01:52:37,167 --> 01:52:40,837
+[Cora] <i>You heard him.</i>
+<i>Go on, get. Hurry up, girl.</i>
+
+1584
+01:52:40,921 --> 01:52:42,089
+So, Dr. Schultz...
+
+1585
+01:52:43,006 --> 01:52:45,676
+why don't you regale us
+with a tale of the circus?
+
+1586
+01:52:46,385 --> 01:52:48,637
+-The circus? [laughs]
+-Yes.
+
+1587
+01:52:55,394 --> 01:52:56,645
+What is the matter?
+
+1588
+01:53:02,526 --> 01:53:07,114
+Them motherfuckers ain't here
+to buy no Mandingos.
+
+1589
+01:53:07,739 --> 01:53:09,074
+They wants that girl.
+
+1590
+01:53:09,366 --> 01:53:10,826
+[chuckles]
+
+1591
+01:53:11,535 --> 01:53:14,288
+Stephen, what the hell
+are you talking about? Hmm?
+
+1592
+01:53:14,413 --> 01:53:17,332
+They playing your ass for a fool,
+is what I'm talking about.
+
+1593
+01:53:17,958 --> 01:53:21,378
+They ain't here
+for no muscle-bound Jimmie.
+
+1594
+01:53:22,004 --> 01:53:23,297
+They here for that girl.
+
+1595
+01:53:23,839 --> 01:53:26,383
+What... What girl? What, Hildi?
+
+1596
+01:53:26,633 --> 01:53:30,262
+Yeah, Hildi. Her and Django?
+Them niggers know each other.
+
+1597
+01:53:32,097 --> 01:53:35,058
+-He just bought Eskimo Joe, I--
+-Did he give you any money?
+
+1598
+01:53:35,309 --> 01:53:37,561
+-No, not yet, but--
+-Then he ain't bought diddly.
+
+1599
+01:53:37,644 --> 01:53:40,981
+Not yet, no how.
+But he's just about to buy...
+
+1600
+01:53:41,481 --> 01:53:44,026
+who he come here to buy
+when I interrupted him.
+
+1601
+01:53:44,776 --> 01:53:47,529
+"Thank you, Stephen."
+"You're welcome, Calvin."
+
+1602
+01:53:53,160 --> 01:53:54,870
+Where you getting all this?
+
+1603
+01:53:56,371 --> 01:53:59,541
+Why would they go through all that trouble
+for a nigger with a chewed-up back
+
+1604
+01:53:59,624 --> 01:54:00,876
+ain't worth 300 dollars?
+
+1605
+01:54:01,335 --> 01:54:04,755
+They doing it 'cause that nigger Django's
+in love with Hildi.
+
+1606
+01:54:05,339 --> 01:54:06,465
+She probably his wife.
+
+1607
+01:54:07,341 --> 01:54:10,344
+Now, why that German gives a fuck
+who that uppity son of a bitch
+
+1608
+01:54:10,427 --> 01:54:12,971
+is in love with, I'm sure I don't know.
+
+1609
+01:54:16,183 --> 01:54:17,434
+If she's who they want...
+
+1610
+01:54:18,477 --> 01:54:22,606
+why this whole snake oil pitch
+about Mandingos, then?
+
+1611
+01:54:22,981 --> 01:54:25,984
+You wouldn't pay no never mind
+to no 300 dollar.
+
+1612
+01:54:26,777 --> 01:54:28,278
+But that 12,000?
+
+1613
+01:54:29,529 --> 01:54:31,573
+That made you real friendly,
+now, didn't it?
+
+1614
+01:54:34,701 --> 01:54:36,078
+Yes, it did.
+
+1615
+01:54:39,915 --> 01:54:40,955
+His wife, huh?
+
+1616
+01:54:45,629 --> 01:54:48,799
+If it had been a snake,
+it would've bit me.
+
+1617
+01:54:49,049 --> 01:54:50,384
+[chuckles]
+
+1618
+01:54:52,552 --> 01:54:54,012
+Those lying...
+
+1619
+01:54:55,347 --> 01:55:00,977
+goddamn time-wasting sons of bitches.
+
+1620
+01:55:02,646 --> 01:55:04,481
+[claps] Sons of bitches!
+
+1621
+01:55:05,023 --> 01:55:07,901
+[Lara] ...out of New Orleans,
+so I have quite a bit of practice
+
+1622
+01:55:08,026 --> 01:55:10,570
+with theater types. [chuckles]
+
+1623
+01:55:11,321 --> 01:55:14,616
+Oh, there you are! I was beginning
+to think that you and that old crow
+
+1624
+01:55:14,699 --> 01:55:17,744
+-run off together.
+-[all chuckling]
+
+1625
+01:55:17,828 --> 01:55:19,538
+That'd be a hell of a note, wouldn't it?
+
+1626
+01:55:20,288 --> 01:55:23,041
+Lara Lee, I was just looking
+out the big window.
+
+1627
+01:55:23,250 --> 01:55:26,253
+Billy Crash is out there
+dealing with some shady slaver
+
+1628
+01:55:26,336 --> 01:55:27,754
+trying to sell a passel of ponies.
+
+1629
+01:55:27,838 --> 01:55:30,757
+Would you be a dear, go out there
+and give them gals an eyeball?
+
+1630
+01:55:31,174 --> 01:55:32,551
+-Hmm?
+-Of course, brother.
+
+1631
+01:55:32,684 --> 01:55:33,987
+-Thank you, darling.
+-[giggles]
+
+1632
+01:55:47,149 --> 01:55:50,485
+-Yeah. Business never sleeps.
+-Mm-hmm.
+
+1633
+01:55:52,904 --> 01:55:57,409
+Apropos, before your exit,
+we were discussing
+
+1634
+01:55:57,492 --> 01:56:00,078
+the possibility
+of my purchasing Broomhilda.
+
+1635
+01:56:00,162 --> 01:56:02,747
+Ah, yes. Yes, we were, doctor.
+
+1636
+01:56:03,165 --> 01:56:05,292
+And we will again, in a moment.
+
+1637
+01:56:21,766 --> 01:56:23,226
+Who's your little friend?
+
+1638
+01:56:26,271 --> 01:56:27,272
+[clears throat]
+
+1639
+01:56:28,940 --> 01:56:29,983
+This is Ben.
+
+1640
+01:56:31,735 --> 01:56:35,906
+He's a old Joe that lived around here
+for a long time.
+
+1641
+01:56:36,781 --> 01:56:38,533
+And I do mean a long damn time.
+
+1642
+01:56:40,494 --> 01:56:43,747
+Old Ben here took care of my daddy...
+
+1643
+01:56:44,998 --> 01:56:46,374
+and my daddy's daddy.
+
+1644
+01:56:47,334 --> 01:56:49,294
+Till he up and keeled over, one day...
+
+1645
+01:56:52,714 --> 01:56:53,924
+Old Ben took care of me.
+
+1646
+01:56:56,760 --> 01:57:00,805
+Growing up the son
+of a huge plantation owner in Mississippi
+
+1647
+01:57:00,889 --> 01:57:06,394
+puts a white man in contact
+with a whole lot of black faces.
+
+1648
+01:57:08,605 --> 01:57:13,235
+I spent my whole life here,
+right here in Candyland...
+
+1649
+01:57:14,945 --> 01:57:18,281
+surrounded by black faces.
+
+1650
+01:57:20,825 --> 01:57:23,537
+Now, seeing them every day,
+day in, day out, I...
+
+1651
+01:57:24,412 --> 01:57:25,956
+I only had one question.
+
+1652
+01:57:30,168 --> 01:57:33,213
+-Why don't they kill us?
+-[laughs]
+
+1653
+01:57:35,757 --> 01:57:37,676
+Now, right out there on that porch,
+
+1654
+01:57:38,301 --> 01:57:40,428
+three times a week for 50 years,
+
+1655
+01:57:40,971 --> 01:57:45,016
+Old Ben here would shave my daddy
+with a straight razor.
+
+1656
+01:57:46,268 --> 01:57:51,231
+Now, if I was Old Ben, I would've
+cut my daddy's goddamn throat
+
+1657
+01:57:51,398 --> 01:57:54,442
+and it wouldn't have taken me
+no 50 years to do it, neither.
+
+1658
+01:57:57,487 --> 01:57:58,488
+But he never did.
+
+1659
+01:58:00,657 --> 01:58:01,691
+Why not?
+
+1660
+01:58:03,410 --> 01:58:06,913
+You see, the science of phrenology...
+
+1661
+01:58:08,290 --> 01:58:10,000
+is crucial to understanding
+
+1662
+01:58:10,625 --> 01:58:13,211
+the separation of our two species.
+
+1663
+01:58:15,130 --> 01:58:17,340
+In the skull of the African, here...
+
+1664
+01:58:19,134 --> 01:58:21,428
+the area associated with submissiveness
+
+1665
+01:58:21,636 --> 01:58:26,683
+is larger than any human or any other
+subhuman species on planet Earth.
+
+1666
+01:58:27,934 --> 01:58:29,728
+[sawing]
+
+1667
+01:58:33,857 --> 01:58:35,775
+[sawing]
+
+1668
+01:58:42,616 --> 01:58:43,783
+[Candie] If you examine...
+
+1669
+01:58:45,744 --> 01:58:47,537
+this piece of skull, here...
+
+1670
+01:58:52,709 --> 01:58:53,856
+[blowing]
+
+1671
+01:58:54,252 --> 01:58:57,672
+[Candie] ...you will notice
+three distinct dimples.
+
+1672
+01:59:01,301 --> 01:59:04,596
+Here, here and here.
+
+1673
+01:59:05,388 --> 01:59:11,269
+Now, if I was holding the skull
+of an... Isaac Newton or Galileo,
+
+1674
+01:59:11,811 --> 01:59:14,439
+these three dimples would be found
+in the area of the skull
+
+1675
+01:59:14,522 --> 01:59:17,317
+most associated with creativity.
+
+1676
+01:59:18,443 --> 01:59:19,819
+But this is the skull of Old Ben.
+
+1677
+01:59:21,071 --> 01:59:22,572
+And in the skull of Old Ben,
+
+1678
+01:59:23,073 --> 01:59:24,991
+unburdened by genius,
+
+1679
+01:59:25,784 --> 01:59:29,788
+these three dimples exist in the area
+of the skull most associated with...
+
+1680
+01:59:31,039 --> 01:59:32,153
+servility.
+
+1681
+01:59:33,541 --> 01:59:34,542
+Now, Bright Boy.
+
+1682
+01:59:35,877 --> 01:59:37,921
+I will admit you are pretty clever.
+
+1683
+01:59:40,799 --> 01:59:42,592
+But if I took this hammer here...
+
+1684
+01:59:44,844 --> 01:59:46,971
+and I bashed in your skull with it...
+
+1685
+01:59:48,306 --> 01:59:50,475
+you would have the same three dimples...
+
+1686
+01:59:51,476 --> 01:59:53,061
+in the same place...
+
+1687
+01:59:54,562 --> 01:59:56,189
+-[wand chimes]
+-[Candie] ...as Old Ben.
+
+1688
+01:59:57,399 --> 01:59:58,608
+[roaring] Hey!
+
+1689
+01:59:58,733 --> 02:00:00,860
+Now, lay your palms flat on that tabletop!
+
+1690
+02:00:01,236 --> 02:00:04,072
+If you lift those palms
+off that turtle shell tabletop,
+
+1691
+02:00:04,155 --> 02:00:06,658
+Mr. Pooch is gonna let loose
+with both barrels of that sawed-off.
+
+1692
+02:00:08,618 --> 02:00:11,955
+There have been a lot of lies
+said around this dinner table tonight,
+
+1693
+02:00:12,038 --> 02:00:13,707
+but that, you can believe!
+
+1694
+02:00:14,749 --> 02:00:17,711
+Mr. Moguy, would you be so kind
+as to collect the pistols
+
+1695
+02:00:17,794 --> 02:00:19,337
+hanging off these boys' hips, here?
+
+1696
+02:00:24,551 --> 02:00:26,845
+-Thank you ever so much.
+-[Leo] Doctor.
+
+1697
+02:00:31,558 --> 02:00:32,559
+Where were we?
+
+1698
+02:00:37,522 --> 02:00:38,548
+Jackass!
+
+1699
+02:00:42,694 --> 02:00:43,695
+Ah, yes!
+
+1700
+02:00:44,362 --> 02:00:46,740
+I do believe you were just getting ready
+
+1701
+02:00:46,823 --> 02:00:49,117
+to make me a proposition
+to buy Broomhilda.
+
+1702
+02:00:49,909 --> 02:00:50,911
+Am I right?
+
+1703
+02:00:55,415 --> 02:00:56,466
+Right.
+
+1704
+02:00:58,960 --> 02:01:00,128
+Bring out Hildi!
+
+1705
+02:01:03,423 --> 02:01:04,758
+[Stephen] Get over there yonder.
+
+1706
+02:01:06,092 --> 02:01:08,595
+-Sit your ass in that goddamn chair!
+-[screams]
+
+1707
+02:01:08,678 --> 02:01:10,388
+[Stephen] Lay your hands flat
+on that tabletop.
+
+1708
+02:01:10,472 --> 02:01:11,639
+[Candie] Now, shut your mouth!
+
+1709
+02:01:15,643 --> 02:01:16,853
+Dr. Schultz,
+
+1710
+02:01:17,395 --> 02:01:21,441
+in Greenville, you yourself said
+that for the right nigger,
+
+1711
+02:01:21,524 --> 02:01:25,653
+you'd be willing to pay what some
+may consider is a ridiculous amount.
+
+1712
+02:01:26,196 --> 02:01:29,407
+To which me myself said,
+"What is your definition of ridiculous?"
+
+1713
+02:01:29,491 --> 02:01:32,994
+To which you said, "12,000 dollars."
+
+1714
+02:01:34,162 --> 02:01:37,707
+Now, considering y'all have ridden
+a whole lot of miles,
+
+1715
+02:01:37,999 --> 02:01:42,170
+went through a whole lot of trouble
+and done spread a whole lot of bull
+
+1716
+02:01:42,295 --> 02:01:44,631
+to purchase this lovely lady right here,
+
+1717
+02:01:44,714 --> 02:01:47,967
+it would appear
+that Broomhilda is, in fact,
+
+1718
+02:01:48,301 --> 02:01:50,053
+the right nigger.
+
+1719
+02:01:51,137 --> 02:01:53,765
+And if y'all wanna leave
+Candyland with Broomhilda...
+
+1720
+02:01:55,099 --> 02:02:00,522
+the price is 12,000 dollars.
+
+1721
+02:02:00,730 --> 02:02:04,400
+And I take it you prefer the "take it
+or leave it" style of negotiation?
+
+1722
+02:02:06,736 --> 02:02:08,071
+Yes, I do, doctor.
+
+1723
+02:02:09,072 --> 02:02:11,449
+You see, under the laws
+of Chickasaw County,
+
+1724
+02:02:12,283 --> 02:02:14,994
+Broomhilda here is my property.
+
+1725
+02:02:15,870 --> 02:02:20,917
+And I can choose to do
+with my property whatever I so desire.
+
+1726
+02:02:22,252 --> 02:02:24,212
+And if y'all think my price...
+
+1727
+02:02:25,171 --> 02:02:28,758
+-for this nigger, here, is too steep...
+-[yelps]
+
+1728
+02:02:28,925 --> 02:02:31,177
+...what I'm gonna desire to do is...
+
+1729
+02:02:35,265 --> 02:02:38,643
+take this goddamn hammer here
+and beat her ass to death with it!
+
+1730
+02:02:38,810 --> 02:02:41,145
+-Right in front of both y'all!
+-Easy, big fella.
+
+1731
+02:02:41,229 --> 02:02:45,400
+Then, we can examine the three dimples
+inside Broomhilda's skull!
+
+1732
+02:02:45,859 --> 02:02:49,487
+Now, what's it gonna be, doc? Huh?
+
+1733
+02:02:50,113 --> 02:02:51,614
+-[Broomhilda sobs]
+-What's it gonna be?
+
+1734
+02:02:51,698 --> 02:02:54,909
+May I lift the hands off the tabletop
+in order to remove my billfold?
+
+1735
+02:02:56,786 --> 02:02:57,875
+Yes, you may.
+
+1736
+02:03:02,458 --> 02:03:03,543
+[Broomhilda sobs]
+
+1737
+02:03:11,885 --> 02:03:12,933
+That 12.
+
+1738
+02:03:16,973 --> 02:03:18,933
+-Sold!
+-[screams]
+
+1739
+02:03:19,183 --> 02:03:21,603
+[Candie] To the man
+with the exceptional beard
+
+1740
+02:03:22,061 --> 02:03:24,689
+and his unexceptional nigger.
+
+1741
+02:03:30,945 --> 02:03:32,780
+-Mr. Moguy.
+-Yes, Calvin?
+
+1742
+02:03:33,907 --> 02:03:37,076
+Will you make these gentlemen a receipt
+for 12,000 dollars, please?
+
+1743
+02:03:37,285 --> 02:03:38,870
+Twelve thousand dollars.
+
+1744
+02:03:42,206 --> 02:03:44,250
+It was a pleasure
+doing business with y'all.
+
+1745
+02:03:45,168 --> 02:03:46,196
+Now, gentlemen...
+
+1746
+02:03:48,129 --> 02:03:49,756
+if you care to join me in the parlor...
+
+1747
+02:03:50,965 --> 02:03:52,842
+we will be serving white cake.
+
+1748
+02:03:54,218 --> 02:03:57,138
+["Für Elise" by Ludwig van Beethoven
+playing on harp]
+
+1749
+02:05:09,210 --> 02:05:10,586
+[D'Artagnan screaming]
+
+1750
+02:05:21,597 --> 02:05:23,558
+Well done, Calvin. [chuckles]
+
+1751
+02:05:25,643 --> 02:05:26,652
+Excuse me.
+
+1752
+02:05:27,145 --> 02:05:28,187
+Excuse me, ma'am?
+
+1753
+02:05:29,605 --> 02:05:31,607
+Could you please stop playing Beethoven?
+
+1754
+02:05:32,358 --> 02:05:34,027
+Take your hands off the harp.
+
+1755
+02:05:37,655 --> 02:05:38,740
+[Stephen] Doctor.
+
+1756
+02:05:39,574 --> 02:05:42,076
+-Doctor, you can't go in there.
+-Stephen, Stephen--
+
+1757
+02:05:42,160 --> 02:05:44,370
+-He ain't got no business going in there.
+-Let it be.
+
+1758
+02:05:44,787 --> 02:05:47,790
+He's just a little upset,
+that's all. I'll handle this.
+
+1759
+02:06:14,192 --> 02:06:15,265
+White cake?
+
+1760
+02:06:16,194 --> 02:06:18,446
+[Schultz] I don't go in
+for sweets. Thank you.
+
+1761
+02:06:19,906 --> 02:06:20,968
+Hmm.
+
+1762
+02:06:25,551 --> 02:06:26,579
+[Candie chuckles]
+
+1763
+02:06:28,581 --> 02:06:30,875
+You brooding about me
+getting the best of you, huh?
+
+1764
+02:06:32,126 --> 02:06:36,547
+[Schultz] Actually, I was thinking of that
+poor devil you fed to the dogs today.
+
+1765
+02:06:37,006 --> 02:06:38,091
+D'Artagnan.
+
+1766
+02:06:39,634 --> 02:06:42,303
+And I was wondering what Dumas
+would make of all this.
+
+1767
+02:06:43,554 --> 02:06:44,604
+Come again?
+
+1768
+02:06:48,226 --> 02:06:51,687
+Alexandre Dumas.
+He wrote <i>The Three Musketeers.</i>
+
+1769
+02:06:52,355 --> 02:06:53,981
+[Candie] Yes, of course, doctor.
+
+1770
+02:06:54,148 --> 02:06:55,900
+I figured you must be an admirer.
+
+1771
+02:06:55,983 --> 02:06:59,445
+You named your slave
+after his novel's lead character.
+
+1772
+02:07:00,571 --> 02:07:04,117
+Now, if Alexandre Dumas
+had been there today,
+
+1773
+02:07:04,200 --> 02:07:05,993
+I wonder what he would've made of it.
+
+1774
+02:07:08,538 --> 02:07:09,914
+You doubt he'd approve, huh?
+
+1775
+02:07:12,291 --> 02:07:17,130
+Yes. His approval would be a dubious
+proposition at best.
+
+1776
+02:07:17,630 --> 02:07:18,696
+[chuckles]
+
+1777
+02:07:19,799 --> 02:07:21,092
+Soft-hearted Frenchie.
+
+1778
+02:07:23,594 --> 02:07:25,304
+Alexandre Dumas is black.
+
+1779
+02:07:29,642 --> 02:07:32,478
+-Are these Broomhilda's papers?
+-[Candie] Yes, they are.
+
+1780
+02:07:32,728 --> 02:07:34,188
+-May I?
+-[Candie] Of course.
+
+1781
+02:07:34,355 --> 02:07:35,419
+Thank you.
+
+1782
+02:07:38,025 --> 02:07:40,903
+That is her bill of sale,
+her ownership history,
+
+1783
+02:07:40,987 --> 02:07:43,156
+and of course, her freedom papers, doctor.
+
+1784
+02:07:43,406 --> 02:07:45,449
+Would you have ink and pen for me?
+
+1785
+02:07:46,868 --> 02:07:49,453
+-Right over there on that little table.
+-[Schultz] Thank you.
+
+1786
+02:08:11,140 --> 02:08:12,165
+Thank you.
+
+1787
+02:08:15,980 --> 02:08:17,607
+Broomhilda Von Shaft.
+
+1788
+02:08:20,359 --> 02:08:22,236
+Consider yourself a free woman.
+
+1789
+02:08:34,707 --> 02:08:36,209
+Mr. Candie.
+
+1790
+02:08:38,586 --> 02:08:42,048
+Normally, I would say <i>auf Wiedersehen.</i>
+
+1791
+02:08:42,632 --> 02:08:46,802
+But since what <i>auf Wiedersehen</i>
+actually means is "till I see you again,"
+
+1792
+02:08:47,553 --> 02:08:50,556
+and since I never wish
+to see you again, to you, sir...
+
+1793
+02:08:51,390 --> 02:08:53,851
+I say goodbye.
+
+1794
+02:08:58,231 --> 02:08:59,296
+Let's go.
+
+1795
+02:09:00,733 --> 02:09:01,767
+Come on.
+
+1796
+02:09:03,986 --> 02:09:05,696
+[Candie] One more moment, doctor.
+
+1797
+02:09:07,621 --> 02:09:08,658
+What?
+
+1798
+02:09:13,537 --> 02:09:15,331
+It's a custom here, in the South...
+
+1799
+02:09:16,290 --> 02:09:19,168
+once a business deal is concluded,
+that the two parties...
+
+1800
+02:09:20,002 --> 02:09:21,087
+shake hands.
+
+1801
+02:09:22,505 --> 02:09:25,508
+-It implies good faith.
+-I'm not from the South.
+
+1802
+02:09:25,590 --> 02:09:26,634
+But you are...
+
+1803
+02:09:27,760 --> 02:09:29,345
+in my house, doctor.
+
+1804
+02:09:30,888 --> 02:09:32,556
+So I'm afraid I must insist.
+
+1805
+02:09:32,765 --> 02:09:33,793
+Insist?
+
+1806
+02:09:34,058 --> 02:09:36,143
+On what? That I shake your hand?
+
+1807
+02:09:36,227 --> 02:09:39,272
+Oh, then I'm afraid I must insist
+in the opposite direction.
+
+1808
+02:09:40,106 --> 02:09:43,192
+-You know what I think you are?
+-What you think I am?
+
+1809
+02:09:43,276 --> 02:09:44,527
+No, I don't.
+
+1810
+02:09:46,487 --> 02:09:48,447
+I think you are a bad loser.
+
+1811
+02:09:49,073 --> 02:09:51,659
+And I think you're an abysmal winner.
+
+1812
+02:09:52,285 --> 02:09:53,341
+[Candie] Nevertheless...
+
+1813
+02:09:54,161 --> 02:09:56,872
+here in Chickasaw County,
+a deal ain't done
+
+1814
+02:09:57,415 --> 02:09:59,667
+until the two parties have shook hands.
+
+1815
+02:10:00,584 --> 02:10:03,254
+Even after all that paper signing,
+don't mean shit...
+
+1816
+02:10:04,588 --> 02:10:07,675
+you don't shake my hand.
+
+1817
+02:10:08,926 --> 02:10:14,181
+If I don't shake your hand,
+you're gonna throw away 12,000 dollars?
+
+1818
+02:10:14,890 --> 02:10:15,933
+I don't think so.
+
+1819
+02:10:17,566 --> 02:10:18,644
+Mr. Pooch?
+
+1820
+02:10:20,730 --> 02:10:24,483
+If she tries to leave here before this
+nigger-loving German shakes my hand...
+
+1821
+02:10:25,609 --> 02:10:26,777
+you cut her ass down.
+
+1822
+02:10:30,031 --> 02:10:31,188
+[cocks gun]
+
+1823
+02:10:49,258 --> 02:10:52,136
+You really want me to shake your hand?
+
+1824
+02:10:54,096 --> 02:10:55,556
+I insist.
+
+1825
+02:10:57,016 --> 02:10:58,893
+If you insist!
+
+1826
+02:11:16,035 --> 02:11:18,954
+[screaming] No! Calvin!
+
+1827
+02:11:20,498 --> 02:11:21,874
+Calvin!
+
+1828
+02:11:28,089 --> 02:11:30,424
+I'm sorry. I couldn't resist.
+
+1829
+02:11:33,511 --> 02:11:35,513
+[sobbing]
+
+1830
+02:11:43,145 --> 02:11:44,814
+Nigger's gone crazy! Help!
+
+1831
+02:11:45,231 --> 02:11:47,316
+-[screams]
+-Help, he's killing everyone!
+
+1832
+02:11:47,400 --> 02:11:48,734
+[screams]
+
+1833
+02:11:52,780 --> 02:11:54,073
+[groaning]
+
+1834
+02:11:58,869 --> 02:12:01,038
+[Leo screams]
+
+1835
+02:12:04,208 --> 02:12:05,918
+-[man 1] Holy--!
+-[Maynard] Shit!
+
+1836
+02:12:06,335 --> 02:12:07,795
+-[man 2] Son of a--!
+-[Maynard] Bitch!
+
+1837
+02:12:08,546 --> 02:12:11,382
+-[gunfire]
+-[men yelling]
+
+1838
+02:12:11,757 --> 02:12:14,176
+-[man 3] Damn it!
+-[Maynard] Fucking... Get the...
+
+1839
+02:12:14,510 --> 02:12:16,720
+[Jessie groaning]
+
+1840
+02:12:17,680 --> 02:12:19,473
+[Maynard] Damn it,
+son of a bitch! What...?
+
+1841
+02:12:19,765 --> 02:12:22,393
+What the... Fucking... Goddamn it!
+
+1842
+02:12:23,727 --> 02:12:26,063
+-What the fuck is going on?
+-[screams]
+
+1843
+02:12:26,814 --> 02:12:29,817
+You shot me! You stupid son of a...
+
+1844
+02:12:29,984 --> 02:12:31,235
+[Maynard] Sorry, Jessie!
+
+1845
+02:12:31,569 --> 02:12:35,739
+Who the fuck gave a nigger a goddamn gun?
+
+1846
+02:12:47,751 --> 02:12:49,170
+[whimpering]
+
+1847
+02:12:52,465 --> 02:12:54,758
+[screaming]
+
+1848
+02:13:05,186 --> 02:13:06,604
+[Maynard] Aim low!
+
+1849
+02:13:09,231 --> 02:13:11,025
+Nigger gonna kill!
+
+1850
+02:13:11,901 --> 02:13:14,236
+[screams] God! Oh, my God!
+
+1851
+02:13:14,320 --> 02:13:16,530
+Ow! Motherfucker!
+
+1852
+02:13:20,743 --> 02:13:22,620
+[woman screaming]
+
+1853
+02:13:22,703 --> 02:13:25,194
+<i>♪ Am I wrong 'cause I wanna</i>
+<i>Get it on till I die ♪</i>
+
+1854
+02:13:25,294 --> 02:13:26,165
+[Maynard] Shit!
+
+1855
+02:13:26,457 --> 02:13:28,959
+♪ <i>Get it on till I die</i>
+<i>Get it on till I die ♪</i>
+
+1856
+02:13:29,043 --> 02:13:31,337
+♪ <i>Get it on till I die</i>
+<i>Y'all remember me ♪</i>
+
+1857
+02:13:31,629 --> 02:13:33,095
+♪ <i>I like the way you die ♪</i>
+
+1858
+02:13:33,172 --> 02:13:35,633
+<i>♪ Am I wrong 'cause I wanna</i>
+<i>Get it on till I die ♪</i>
+
+1859
+02:13:35,716 --> 02:13:38,219
+♪ <i>Am I wrong 'cause I wanna</i>
+<i>Get it on till I die ♪</i>
+
+1860
+02:13:38,427 --> 02:13:40,846
+♪ <i>Get it on till I die</i>
+<i>Get it on till I die ♪</i>
+
+1861
+02:13:40,930 --> 02:13:43,516
+♪ <i>Y'all remember me</i>
+<i>I like the way you die ♪</i>
+
+1862
+02:13:43,682 --> 02:13:46,435
+♪ <i>I only wish to breed I explode</i>
+<i>Into a million seeds ♪</i>
+
+1863
+02:13:46,602 --> 02:13:48,854
+♪ <i>Y'all remember me</i>
+<i>Legendary, live eternally ♪</i>
+
+1864
+02:13:49,230 --> 02:13:51,565
+♪ <i>Bury me in pieces, 'cause</i>
+<i>They fear reincarnation ♪</i>
+
+1865
+02:13:51,649 --> 02:13:54,109
+<i>♪ Niggas screaming peace</i>
+<i>'cause they fear when my squad face 'em ♪</i>
+
+1866
+02:13:54,193 --> 02:13:56,403
+♪ <i>Take them to places</i>
+<i>Stake they face then erase them ♪</i>
+
+1867
+02:13:56,487 --> 02:13:58,489
+♪ <i>Brake 'em</i>
+<i>Murder motherfuckers at a rate ♪</i>
+
+1868
+02:13:58,572 --> 02:14:01,575
+♪ <i>Quicken the pace</i>
+<i>Blast me, but never ask me live a lie ♪</i>
+
+1869
+02:14:01,700 --> 02:14:04,328
+<i>♪ Am I wrong 'cause I wanna</i>
+<i>Get it on till I die? ♪</i>
+
+1870
+02:14:04,411 --> 02:14:07,039
+<i>♪ Now, even if you die</i>
+<i>You still see my prophecy ♪</i>
+
+1871
+02:14:07,122 --> 02:14:08,624
+<i>♪ My destiny to overcome... ♪</i>
+
+1872
+02:14:08,791 --> 02:14:11,585
+[2pac] <i>Expect me, nigga,</i>
+<i>like you expect Jesus to come back.</i>
+
+1873
+02:14:11,752 --> 02:14:13,837
+<i>Expect me, nigga. I'm comin'</i>.
+
+1874
+02:14:23,222 --> 02:14:24,245
+Shit.
+
+1875
+02:14:36,527 --> 02:14:37,653
+[Stephen] Hold your fire!
+
+1876
+02:14:41,490 --> 02:14:42,783
+Hold your fire!
+
+1877
+02:14:44,827 --> 02:14:46,370
+Stop shooting, goddamn it!
+
+1878
+02:14:48,414 --> 02:14:50,040
+[gunfire ceases]
+
+1879
+02:14:55,421 --> 02:14:56,562
+Django!
+
+1880
+02:14:57,254 --> 02:14:58,257
+What?
+
+1881
+02:14:58,728 --> 02:14:59,800
+[grunts]
+
+1882
+02:15:01,427 --> 02:15:02,678
+We got your woman.
+
+1883
+02:15:04,513 --> 02:15:07,266
+Billy Crash, here, got his pistol
+upside her head.
+
+1884
+02:15:07,349 --> 02:15:09,476
+-[Broomhilda gasps]
+-[Stephen] You don't stop all that
+
+1885
+02:15:09,560 --> 02:15:12,104
+carrying on, he gonna blow
+her goddamn brains out.
+
+1886
+02:15:12,980 --> 02:15:14,648
+Now, that ain't no threat, horse boy.
+
+1887
+02:15:15,608 --> 02:15:16,900
+That there is a promise.
+
+1888
+02:15:18,777 --> 02:15:22,865
+Or you can give up, throw your gun out.
+
+1889
+02:15:24,116 --> 02:15:25,232
+We won't kill Hildi.
+
+1890
+02:15:25,407 --> 02:15:26,410
+Horseshit!
+
+1891
+02:15:27,244 --> 02:15:29,830
+Honest Injun, Django. I swear 'fore God.
+
+1892
+02:15:31,332 --> 02:15:32,436
+You give up?
+
+1893
+02:15:33,250 --> 02:15:35,836
+Ain't no harm gonna come to her.
+
+1894
+02:15:37,463 --> 02:15:39,340
+And I'm supposed
+to believe your black ass?
+
+1895
+02:15:39,840 --> 02:15:42,843
+[Stephen] I don't give a good goddamn
+what you believe or don't believe!
+
+1896
+02:15:43,010 --> 02:15:46,138
+I believe if you don't give up
+in the next ten seconds,
+
+1897
+02:15:46,221 --> 02:15:49,516
+we gonna blow this bitch's
+brains out. Believe that!
+
+1898
+02:15:52,394 --> 02:15:55,397
+[sobbing] Don't do it. You give me up.
+
+1899
+02:15:56,148 --> 02:15:57,524
+-[Stephen] Six!
+-Just let me go.
+
+1900
+02:15:58,150 --> 02:15:59,735
+-[Stephen] Seven!
+-They got too much.
+
+1901
+02:16:00,027 --> 02:16:01,570
+-[Broomhilda] Django...
+-[Stephen] Eight!
+
+1902
+02:16:01,695 --> 02:16:04,031
+-I love you.
+-Nine!
+
+1903
+02:16:04,365 --> 02:16:06,116
+-[Django] Hold it!
+-No!
+
+1904
+02:16:08,410 --> 02:16:09,411
+I give up.
+
+1905
+02:16:10,663 --> 02:16:12,748
+I can't hear you, nigger.
+
+1906
+02:16:13,624 --> 02:16:15,501
+I said, I give up.
+
+1907
+02:16:26,387 --> 02:16:29,306
+["Freedom" by Richie Havens playing]
+
+1908
+02:16:35,396 --> 02:16:39,775
+♪ <i>Freedom, freedom</i>
+<i>Freedom ♪</i>
+
+1909
+02:16:39,858 --> 02:16:42,403
+[sobbing] No.
+
+1910
+02:16:43,028 --> 02:16:44,279
+No.
+
+1911
+02:16:44,863 --> 02:16:49,743
+♪ <i>Freedom, freedom</i>
+<i>Freedom ♪</i>
+
+1912
+02:16:50,244 --> 02:16:53,747
+♪ <i>Sometimes I feel ♪</i>
+
+1913
+02:16:54,373 --> 02:16:56,959
+♪ <i>Like a motherless child ♪</i>
+
+1914
+02:16:58,168 --> 02:17:01,338
+♪ <i>Sometimes I feel ♪</i>
+
+1915
+02:17:01,588 --> 02:17:04,633
+♪ <i>Like a motherless child ♪</i>
+
+1916
+02:17:05,634 --> 02:17:08,887
+♪ <i>Sometimes I feel ♪</i>
+
+1917
+02:17:09,054 --> 02:17:12,141
+♪ <i>Like a motherless child ♪</i>
+
+1918
+02:17:13,100 --> 02:17:14,476
+♪ <i>A long ♪</i>
+
+1919
+02:17:14,560 --> 02:17:16,979
+[man coughing]
+
+1920
+02:17:17,104 --> 02:17:18,313
+♪ <i>Way ♪</i>
+
+1921
+02:17:20,607 --> 02:17:22,609
+♪ <i>From my home ♪</i>
+
+1922
+02:17:22,860 --> 02:17:26,321
+♪ <i>Yeah, yeah, yeah ♪</i>
+
+1923
+02:17:51,430 --> 02:17:54,516
+[door opening]
+
+1924
+02:17:54,725 --> 02:17:59,813
+[footsteps approaching]
+
+1925
+02:18:16,079 --> 02:18:17,873
+Cock-a-doodle-doo, nigger.
+
+1926
+02:18:23,337 --> 02:18:25,130
+So, y'all bounty hunters, huh?
+
+1927
+02:18:26,673 --> 02:18:28,884
+I knew there was something fishy
+about y'all.
+
+1928
+02:18:30,469 --> 02:18:32,179
+We found your wanted posters.
+
+1929
+02:18:33,055 --> 02:18:35,224
+And a book of figures in your saddlebags.
+
+1930
+02:18:36,975 --> 02:18:38,143
+I got to say...
+
+1931
+02:18:39,520 --> 02:18:41,688
+I ain't never heard
+of no black bounty hunter before.
+
+1932
+02:18:42,606 --> 02:18:45,567
+Black boy paid to kill white men?
+How'd you like that line of work?
+
+1933
+02:18:46,693 --> 02:18:48,904
+Probably pretty good while it lasted, huh?
+
+1934
+02:18:55,536 --> 02:18:57,538
+[Django grunting]
+
+1935
+02:18:59,039 --> 02:19:02,251
+Time to say good night
+to them nuts, blackie. On three.
+
+1936
+02:19:02,918 --> 02:19:04,670
+-One...
+-[Django screams]
+
+1937
+02:19:04,837 --> 02:19:05,926
+I got you.
+
+1938
+02:19:06,630 --> 02:19:07,714
+-Two...
+-[Django screams]
+
+1939
+02:19:07,965 --> 02:19:09,967
+Calm down, now. Here it comes.
+
+1940
+02:19:10,175 --> 02:19:11,760
+-[Django screams]
+-[Stephen] Captain?
+
+1941
+02:19:12,803 --> 02:19:14,304
+Miss Lara want to see you.
+
+1942
+02:19:15,556 --> 02:19:18,350
+Something to do
+with the Old Man's funeral.
+
+1943
+02:19:18,934 --> 02:19:22,896
+[clears throat] Oh, and she changed
+her mind about snipping Django.
+
+1944
+02:19:24,147 --> 02:19:26,775
+She gonna give him to the LeQuint Dickey
+people.
+
+1945
+02:19:27,025 --> 02:19:28,026
+[Django whimpers]
+
+1946
+02:19:28,861 --> 02:19:30,863
+Well, she didn't waste
+a minute telling me.
+
+1947
+02:19:38,161 --> 02:19:39,580
+How disappointing.
+
+1948
+02:19:46,378 --> 02:19:47,713
+[knife sizzles]
+
+1949
+02:19:48,338 --> 02:19:50,549
+-[laughs]
+-[horse neighing]
+
+1950
+02:20:02,895 --> 02:20:04,027
+[Stephen] You leaving.
+
+1951
+02:20:06,106 --> 02:20:08,609
+This, here, what you take with you.
+
+1952
+02:20:12,362 --> 02:20:16,074
+Your black ass has been all them
+motherfuckers at the Big House
+
+1953
+02:20:16,158 --> 02:20:18,785
+could talk about for the last few hours.
+
+1954
+02:20:19,578 --> 02:20:23,415
+Seem like white folk ain't never had
+a bright idea in they life
+
+1955
+02:20:23,498 --> 02:20:26,043
+was coming up with all kinds of ways
+to kill your ass.
+
+1956
+02:20:26,251 --> 02:20:31,089
+Now, mind you, most of them ideas had
+to do with fucking with your fun parts.
+
+1957
+02:20:31,798 --> 02:20:35,260
+Now, that may seem like a good idea,
+
+1958
+02:20:35,636 --> 02:20:36,887
+but truth is...
+
+1959
+02:20:38,847 --> 02:20:41,350
+when you snip a nigger's nuts,
+
+1960
+02:20:41,433 --> 02:20:45,812
+most of them bleed out in,
+oh, about, hmm, seven minutes.
+
+1961
+02:20:45,896 --> 02:20:46,919
+Most of them.
+
+1962
+02:20:47,211 --> 02:20:48,273
+[chuckles]
+
+1963
+02:20:48,482 --> 02:20:50,359
+Oh. More than most.
+
+1964
+02:20:51,401 --> 02:20:52,486
+Then I says...
+
+1965
+02:20:54,404 --> 02:20:55,989
+"Shitfire!
+
+1966
+02:20:57,366 --> 02:21:01,078
+The niggers we sells to LeQuint Dickey
+got it worse than that."
+
+1967
+02:21:02,454 --> 02:21:05,207
+And they still saying,
+"Let's whip him to death,"
+
+1968
+02:21:05,290 --> 02:21:08,460
+or, "Throw him to the Mandingos,"
+"Feed him to Stonesipher's dogs."
+
+1969
+02:21:08,794 --> 02:21:11,838
+And I said, "What's so special about that?
+
+1970
+02:21:12,255 --> 02:21:15,384
+We do that shit
+all the time. Hell's bells,
+
+1971
+02:21:15,509 --> 02:21:20,263
+the niggers we sell to LeQuint Dickey
+got it worse than that."
+
+1972
+02:21:21,640 --> 02:21:23,725
+Lo and behold,
+
+1973
+02:21:24,434 --> 02:21:28,313
+out of nowhere, Miss Lara
+come up with the bright idea...
+
+1974
+02:21:29,272 --> 02:21:32,567
+of giving your ass
+to the LeQuint Dickey Mining Company.
+
+1975
+02:21:35,445 --> 02:21:39,324
+And as a slave
+of the LeQuint Dickey Mining Company...
+
+1976
+02:21:40,492 --> 02:21:43,453
+henceforth, till the day you die...
+
+1977
+02:21:44,287 --> 02:21:46,790
+all day, every day...
+
+1978
+02:21:47,541 --> 02:21:49,751
+you will be swinging a sledgehammer...
+
+1979
+02:21:50,502 --> 02:21:54,172
+turning big rocks into little rocks.
+
+1980
+02:21:55,590 --> 02:21:59,094
+Now, when you get there,
+they gonna take away your name...
+
+1981
+02:22:00,053 --> 02:22:02,597
+give you a number and a sledgehammer...
+
+1982
+02:22:03,306 --> 02:22:04,933
+and say, "Get to work."
+
+1983
+02:22:05,892 --> 02:22:08,353
+And one word of sass,
+they cuts out your tongue.
+
+1984
+02:22:08,437 --> 02:22:10,439
+And they good at it, too.
+You won't bleed out.
+
+1985
+02:22:10,856 --> 02:22:13,525
+Oh, they does that real good.
+
+1986
+02:22:14,401 --> 02:22:15,736
+They gonna work you,
+
+1987
+02:22:16,319 --> 02:22:20,657
+all day, every day,
+till your back give out.
+
+1988
+02:22:21,616 --> 02:22:23,994
+Then they're gonna hit you
+in the head with a hammer,
+
+1989
+02:22:24,244 --> 02:22:25,996
+throw your ass down the nigger-hole.
+
+1990
+02:22:26,913 --> 02:22:31,960
+And that will be the story of you, Django.
+
+1991
+02:22:32,836 --> 02:22:36,757
+{\an8}["Ain't No Grave (Black Opium Remix)"
+by Johnny Cash playing]
+
+1992
+02:22:44,931 --> 02:22:49,644
+♪ <i>There ain't no grave</i>
+<i>Can hold my body down ♪</i>
+
+1993
+02:22:51,104 --> 02:22:55,776
+♪ <i>There ain't no grave</i>
+<i>Can hold my body down ♪</i>
+
+1994
+02:23:10,624 --> 02:23:12,918
+[Floyd] And what's the golden rule,
+Frankie, eh?
+
+1995
+02:23:13,794 --> 02:23:15,796
+You don't root abos.
+
+1996
+02:23:21,009 --> 02:23:22,040
+Hey, white boy.
+
+1997
+02:23:23,845 --> 02:23:25,263
+I said, hey, white boy.
+
+1998
+02:23:26,640 --> 02:23:29,226
+Shut up, black. You ain't got
+nothing to say I wanna hear.
+
+1999
+02:23:29,351 --> 02:23:31,061
+How'd you like to make 11,000 dollars?
+
+2000
+02:23:31,853 --> 02:23:32,878
+Do what, now?
+
+2001
+02:23:33,188 --> 02:23:35,899
+I said, how'd you like
+to make 11,000 dollars?
+
+2002
+02:23:36,942 --> 02:23:38,568
+11,500, actually.
+
+2003
+02:23:39,236 --> 02:23:40,862
+What the fuck you talking about?
+
+2004
+02:23:41,530 --> 02:23:46,243
+Back there at that plantation, Candyland,
+there was an 11,500-dollar fortune.
+
+2005
+02:23:46,368 --> 02:23:48,745
+Just sitting there.
+And y'all rode right past it.
+
+2006
+02:23:49,663 --> 02:23:51,540
+You be damned, blackie.
+We're not bandits.
+
+2007
+02:23:51,623 --> 02:23:52,624
+I ain't saying that.
+
+2008
+02:23:52,833 --> 02:23:55,669
+Nice thing about this fortune
+is it ain't illegal.
+
+2009
+02:23:56,294 --> 02:23:59,089
+You can't steal it.
+You got to earn it, white boy.
+
+2010
+02:24:00,382 --> 02:24:02,175
+You got something to say, mate,
+you say it.
+
+2011
+02:24:02,467 --> 02:24:05,887
+The 11,500-dollar fortune
+waiting for you back at Candyland
+
+2012
+02:24:05,971 --> 02:24:08,390
+is in the form
+of a "wanted, dead or alive" bounty
+
+2013
+02:24:08,473 --> 02:24:10,475
+on Smitty Bacall and the Bacall Gang.
+
+2014
+02:24:10,684 --> 02:24:12,435
+Who the fuck is Smitty Bacall?
+
+2015
+02:24:12,519 --> 02:24:14,855
+Smitty Bacall is the leader
+of this murderous gang
+
+2016
+02:24:14,938 --> 02:24:16,982
+of stagecoach robbers,
+the Bacall Gang.
+
+2017
+02:24:17,691 --> 02:24:20,610
+There's a 7,000-dollar
+"wanted, dead or alive" bounty on him,
+
+2018
+02:24:20,986 --> 02:24:24,322
+1,500 dollars for each
+of his three accomplices,
+
+2019
+02:24:24,528 --> 02:24:25,574
+Dandy Michaels,
+
+2020
+02:24:26,408 --> 02:24:29,786
+Gerald Nash and Crazy Craig Koons.
+
+2021
+02:24:30,871 --> 02:24:33,623
+All four of them gentlemen,
+they back there at Candyland
+
+2022
+02:24:33,707 --> 02:24:35,458
+laughing their ass off. You know why?
+
+2023
+02:24:36,126 --> 02:24:37,711
+Because they just got away with murder.
+
+2024
+02:24:38,545 --> 02:24:41,047
+But it ain't got to be that way.
+You and your mates?
+
+2025
+02:24:41,298 --> 02:24:43,550
+Y'all can ride back there
+and y'all can get that money.
+
+2026
+02:24:43,675 --> 02:24:44,885
+What'd these jokers do, again?
+
+2027
+02:24:45,010 --> 02:24:47,637
+These sons of bitches,
+they killed innocent people.
+
+2028
+02:24:48,555 --> 02:24:50,891
+Stagecoach robbery. Innocent white people.
+
+2029
+02:24:53,059 --> 02:24:55,896
+I got the handbill right here
+in my pocket, if you let me get it.
+
+2030
+02:24:56,104 --> 02:24:57,109
+Get it out.
+
+2031
+02:24:59,149 --> 02:25:02,360
+[Roy] "Wanted, dead or alive.
+Smitty Bacall
+
+2032
+02:25:02,444 --> 02:25:05,155
+-and the Smitty Bacall Gang."
+-[Frank] But you're a slave.
+
+2033
+02:25:05,238 --> 02:25:08,617
+-[Django] I ain't no goddam slave!
+-[Roy] "Murder and stagecoach robbery."
+
+2034
+02:25:08,700 --> 02:25:10,035
+Do I sound like a fucking slave?
+
+2035
+02:25:10,118 --> 02:25:12,829
+-[Roy] "7,000 dollars for Smitty Bacall."
+-[Frank] That's a shitload.
+
+2036
+02:25:12,913 --> 02:25:13,983
+I'm a bounty hunter.
+
+2037
+02:25:15,957 --> 02:25:18,126
+Yesterday, as a free man,
+
+2038
+02:25:18,877 --> 02:25:23,131
+I rode into Candyland on a horse
+with my German, white partner,
+
+2039
+02:25:23,590 --> 02:25:24,674
+Dr. King Schultz.
+
+2040
+02:25:25,258 --> 02:25:28,094
+We tracked the Bacall Gang
+all the way from Texas
+
+2041
+02:25:28,386 --> 02:25:29,721
+to Chickasaw County.
+
+2042
+02:25:30,263 --> 02:25:32,849
+We finally found their ass
+laying low in Candyland.
+
+2043
+02:25:33,225 --> 02:25:35,977
+We went in there to get them,
+things went sour...
+
+2044
+02:25:36,937 --> 02:25:39,814
+my partner got killed,
+Calvin Candie got shot,
+
+2045
+02:25:40,440 --> 02:25:43,944
+then everybody there decided to blame me,
+so here I am.
+
+2046
+02:25:46,613 --> 02:25:48,240
+But y'all know I ain't on that manifest.
+
+2047
+02:25:48,698 --> 02:25:51,034
+And all y'all know I ain't
+supposed to be on this trip.
+
+2048
+02:25:51,743 --> 02:25:54,537
+But them four men is still back there,
+they're still wanted,
+
+2049
+02:25:55,121 --> 02:25:57,874
+and that 11,500 is up for grabs,
+and the last thing
+
+2050
+02:25:57,958 --> 02:26:00,293
+they'd expect is y'all
+riding back in there and getting it.
+
+2051
+02:26:01,002 --> 02:26:02,087
+[Roy] Well, what's the deal?
+
+2052
+02:26:03,046 --> 02:26:06,633
+You tell us who they are
+and we turn you loose?
+
+2053
+02:26:06,716 --> 02:26:08,760
+No, no, no. I ain't gonna
+tell you who they are.
+
+2054
+02:26:09,552 --> 02:26:12,764
+But you give me a pistol,
+one of them horses,
+
+2055
+02:26:13,181 --> 02:26:17,560
+and 500 dollars of that 11,500?
+And I'll point them out to you.
+
+2056
+02:26:17,978 --> 02:26:19,354
+[Roy] <i>This is a real handbill.</i>
+
+2057
+02:26:19,896 --> 02:26:23,191
+Just because it's a real handbill, doesn't
+mean that other bunch of malarkey is.
+
+2058
+02:26:23,400 --> 02:26:25,694
+Now, why would a slave
+
+2059
+02:26:25,777 --> 02:26:29,364
+have a "wanted, dead or alive" handbill
+in his pocket?
+
+2060
+02:26:34,077 --> 02:26:36,705
+Did that black ride into Candyland
+yesterday?
+
+2061
+02:26:43,169 --> 02:26:46,798
+-All right, I'm gonna ask you again.
+-[cocks gun]
+
+2062
+02:26:48,508 --> 02:26:50,635
+I want you to remember,
+I don't like liars.
+
+2063
+02:26:51,678 --> 02:26:53,471
+Is he a Candyland slave,
+
+2064
+02:26:53,555 --> 02:26:57,142
+or did he ride in with a white man
+on a horse, yesterday?
+
+2065
+02:26:57,268 --> 02:26:58,293
+Yeah.
+
+2066
+02:26:59,602 --> 02:27:01,688
+They walked us
+from the Greenville auction
+
+2067
+02:27:01,771 --> 02:27:03,732
+and he rode in on a horse
+with a white man.
+
+2068
+02:27:04,858 --> 02:27:08,570
+Now, this white man...
+Was the black his slave?
+
+2069
+02:27:09,195 --> 02:27:10,405
+He wasn't no slave.
+
+2070
+02:27:10,947 --> 02:27:12,615
+You fucking sure about that?
+
+2071
+02:27:12,949 --> 02:27:13,992
+Damn sure.
+
+2072
+02:27:16,077 --> 02:27:17,120
+Uh-huh.
+
+2073
+02:27:18,663 --> 02:27:20,373
+What happened over in Candyland?
+
+2074
+02:27:20,498 --> 02:27:23,043
+Bunch of shooting. Master got shot.
+
+2075
+02:27:24,210 --> 02:27:25,837
+-Who shot him?
+-The German.
+
+2076
+02:27:26,463 --> 02:27:27,550
+Why'd he do that?
+
+2077
+02:27:28,173 --> 02:27:31,009
+Nigger and the German was acting like
+they were slavers, but they wasn't.
+
+2078
+02:27:32,052 --> 02:27:34,637
+-[Roy] Well, what were they?
+-Bounty hunters.
+
+2079
+02:27:36,014 --> 02:27:38,808
+Fuck me, Roy. I mean,
+this could be big, mate!
+
+2080
+02:27:40,310 --> 02:27:43,438
+Well, smoke, you got a deal.
+
+2081
+02:27:45,065 --> 02:27:46,191
+I got one more condition.
+
+2082
+02:27:46,964 --> 02:27:48,068
+[Roy] What's that?
+
+2083
+02:27:48,234 --> 02:27:50,528
+When we get there, when time come...
+
+2084
+02:27:53,239 --> 02:27:56,368
+-you let me help you kill them.
+-Hey? [laughs]
+
+2085
+02:27:56,451 --> 02:27:58,161
+You're a funny bugger! [laughs]
+
+2086
+02:27:58,244 --> 02:28:00,121
+-Cut him loose.
+-[Floyd] Yeah, yeah.
+
+2087
+02:28:00,705 --> 02:28:02,374
+You got yourself a deal, blackie.
+
+2088
+02:28:02,874 --> 02:28:04,751
+[in Australian accent]
+Got yourself a deal, mate.
+
+2089
+02:28:04,834 --> 02:28:06,378
+Hey? [laughs]
+
+2090
+02:28:06,753 --> 02:28:09,005
+You're all right
+for a black fella. Oh, yeah.
+
+2091
+02:28:10,131 --> 02:28:11,800
+[men chuckling]
+
+2092
+02:28:14,636 --> 02:28:16,721
+There we go. There you go, mate.
+
+2093
+02:28:16,805 --> 02:28:17,832
+Yeah.
+
+2094
+02:28:18,431 --> 02:28:20,600
+[Roy] We're gonna give you
+that packhorse over there.
+
+2095
+02:28:21,184 --> 02:28:23,895
+-What the saddlebags got in them?
+-[Floyd] Dynamite.
+
+2096
+02:28:24,479 --> 02:28:26,940
+I ain't riding no horse
+with no goddamn dynamite on its back.
+
+2097
+02:28:27,315 --> 02:28:28,650
+I can understand that.
+
+2098
+02:28:29,359 --> 02:28:32,070
+Frankie, why don't you take
+them sticks off that horse
+
+2099
+02:28:32,153 --> 02:28:33,947
+and stick them in the nigger-cage?
+
+2100
+02:28:36,032 --> 02:28:40,328
+A little dynamite for you black fellas
+to play with! [laughs]
+
+2101
+02:28:49,712 --> 02:28:52,590
+Here, Floyd, you got that rifle
+up on the wagon, don't you?
+
+2102
+02:28:52,674 --> 02:28:53,555
+Yeah, right.
+
+2103
+02:28:53,633 --> 02:28:55,677
+Why don't you give him
+your gun and gun belt?
+
+2104
+02:28:56,344 --> 02:28:57,371
+Righto.
+
+2105
+02:28:57,887 --> 02:29:00,515
+Now, don't drop
+the fucking thing, all right?
+
+2106
+02:29:01,099 --> 02:29:03,935
+I just had the sights fixed and they're
+perfect.
+
+2107
+02:29:04,144 --> 02:29:05,235
+Oh, that's good to know.
+
+2108
+02:29:09,983 --> 02:29:11,568
+[horses neighing]
+
+2109
+02:29:12,193 --> 02:29:15,113
+["Who Did That to You?"
+by John Legend playing]
+
+2110
+02:29:27,542 --> 02:29:29,419
+♪ <i>Yeah ♪</i>
+
+2111
+02:29:31,129 --> 02:29:35,008
+♪ <i>Now I'm not afraid</i>
+<i>To do the Lord's work ♪</i>
+
+2112
+02:29:35,467 --> 02:29:39,262
+♪ <i>You said vengeance is his</i>
+<i>But I'mma do it first ♪</i>
+
+2113
+02:29:39,971 --> 02:29:45,018
+♪ <i>I'm gon' handle my business</i>
+<i>In the name of the law ♪</i>
+
+2114
+02:29:45,268 --> 02:29:48,062
+♪ <i>Oh ♪</i>
+
+2115
+02:29:48,980 --> 02:29:53,109
+♪ <i>Now if he made you cry</i>
+<i>Oh, I gotta know ♪</i>
+
+2116
+02:29:53,193 --> 02:29:57,614
+♪ <i>If he's not ready to die</i>
+<i>He best prepare for it ♪</i>
+
+2117
+02:29:58,323 --> 02:29:59,991
+♪ <i>My judgment's divine ♪</i>
+
+2118
+02:30:00,074 --> 02:30:03,286
+♪ <i>I'll tell you who you can call ♪</i>
+
+2119
+02:30:03,453 --> 02:30:05,580
+♪ <i>You can call ♪</i>
+
+2120
+02:30:05,788 --> 02:30:11,044
+♪ <i>You better call the police</i>
+<i>Call the coroner ♪</i>
+
+2121
+02:30:11,503 --> 02:30:15,673
+♪ <i>Call up your priest</i>
+<i>Have him warn ya ♪</i>
+
+2122
+02:30:16,090 --> 02:30:22,222
+♪ <i>Won't be no peace</i>
+<i>When I find that fool ♪</i>
+
+2123
+02:30:23,389 --> 02:30:27,644
+♪ <i>Who did that to you</i>
+<i>Yeah ♪</i>
+
+2124
+02:30:27,894 --> 02:30:32,357
+♪ <i>Who did that to you</i>
+<i>My baby ♪</i>
+
+2125
+02:30:32,607 --> 02:30:35,568
+♪ <i>Who did that to you ♪</i>
+
+2126
+02:30:37,904 --> 02:30:39,155
+Throw me up that dynamite.
+
+2127
+02:30:41,658 --> 02:30:43,451
+♪ <i>Who did that to you ♪</i>
+
+2128
+02:30:43,576 --> 02:30:47,413
+♪ <i>Now I don't take pleasure</i>
+<i>In a man's pain ♪</i>
+
+2129
+02:30:47,956 --> 02:30:51,876
+♪ <i>But my wrath will come down</i>
+<i>Like the cold rain ♪</i>
+
+2130
+02:30:52,460 --> 02:30:57,924
+<i>♪ And there won't be no shelter</i>
+<i>No place you can go ♪</i>
+
+2131
+02:30:58,216 --> 02:31:00,885
+♪ <i>Hey, hey, hey ♪</i>
+
+2132
+02:31:01,386 --> 02:31:05,682
+♪ <i>It's time put your hands up</i>
+<i>Time for surrender ♪</i>
+
+2133
+02:31:06,224 --> 02:31:10,144
+♪ <i>I'm a vigilante</i>
+<i>My love's defender ♪</i>
+
+2134
+02:31:10,603 --> 02:31:16,067
+♪ <i>You're a wanted man</i>
+<i>Here everybody knows ♪</i>
+
+2135
+02:31:16,276 --> 02:31:17,986
+♪ <i>Yeah ♪</i>
+
+2136
+02:31:18,152 --> 02:31:23,283
+♪ <i>You better call the police</i>
+<i>Call the coroner ♪</i>
+
+2137
+02:31:23,992 --> 02:31:27,829
+♪ <i>Call up your priest</i>
+<i>Have him warn ya ♪</i>
+
+2138
+02:31:28,288 --> 02:31:30,206
+♪ <i>Won't be no peace... ♪</i>
+
+2139
+02:31:33,387 --> 02:31:34,502
+[locks door]
+
+2140
+02:31:34,669 --> 02:31:37,797
+["Too Old to Die Young"
+by Brother Dege playing]
+
+2141
+02:31:47,056 --> 02:31:49,017
+[dogs barking distantly]
+
+2142
+02:32:00,570 --> 02:32:04,907
+♪ <i>Round and round</i>
+<i>Round we go ♪</i>
+
+2143
+02:32:05,116 --> 02:32:09,120
+♪ <i>Where it stops?</i>
+<i>Nobody knows it ♪</i>
+
+2144
+02:32:09,954 --> 02:32:11,414
+-[Stonesipher] Jake.
+-Yeah?
+
+2145
+02:32:11,539 --> 02:32:14,834
+Get out there and see what's wrong
+with them goddamn dogs.
+
+2146
+02:32:16,741 --> 02:32:17,795
+Get them.
+
+2147
+02:32:17,879 --> 02:32:19,672
+♪ <i>Side to side, baby ♪</i>
+
+2148
+02:32:19,756 --> 02:32:21,424
+[Django] D'Artagnan, motherfuckers!
+
+2149
+02:32:34,979 --> 02:32:39,108
+♪ <i>You got your reasons</i>
+<i>And I got my wants ♪</i>
+
+2150
+02:32:39,233 --> 02:32:44,197
+♪ <i>Still got that feeling, but</i>
+<i>I'm too old to die young now ♪</i>
+
+2151
+02:32:45,323 --> 02:32:48,451
+♪ <i>Too old to die young now ♪</i>
+
+2152
+02:32:49,661 --> 02:32:52,830
+♪ <i>Above or below the ground ♪</i>
+
+2153
+02:32:53,331 --> 02:32:57,126
+♪ <i>Just too old</i>
+<i>To die young now ♪</i>
+
+2154
+02:32:57,627 --> 02:33:01,089
+♪ <i>Still the good Lord might lay me down ♪</i>
+
+2155
+02:33:01,172 --> 02:33:02,173
+[horse neighing]
+
+2156
+02:33:51,347 --> 02:33:52,432
+[Django] <i>Auf Wiedersehen.</i>
+
+2157
+02:34:19,834 --> 02:34:21,753
+[horse approaching]
+
+2158
+02:34:23,463 --> 02:34:24,714
+[horse neighing]
+
+2159
+02:34:53,117 --> 02:34:54,452
+[Django] It's me, baby.
+
+2160
+02:35:43,167 --> 02:35:49,841
+[Stephen] <i>♪ In the sweet by-and-by ♪</i>
+
+2161
+02:35:51,801 --> 02:35:53,553
+<i>♪ We will meet ♪</i>
+
+2162
+02:35:54,428 --> 02:35:58,266
+<i>♪ On that beautiful shore ♪</i>
+
+2163
+02:36:00,601 --> 02:36:02,812
+[Stephen humming]
+
+2164
+02:36:02,895 --> 02:36:07,066
+<i>♪ By-and-by</i>
+<i>By-and-by ♪</i>
+
+2165
+02:36:07,358 --> 02:36:11,195
+<i>♪ By-and-by we will meet ♪</i>
+
+2166
+02:36:11,737 --> 02:36:13,489
+<i>♪ We will meet by-and-by ♪</i>
+
+2167
+02:36:13,573 --> 02:36:16,075
+Cora, would you prepare us some coffee?
+
+2168
+02:36:17,118 --> 02:36:18,703
+Sheba, you help her.
+
+2169
+02:36:19,036 --> 02:36:20,105
+Come on.
+
+2170
+02:36:22,456 --> 02:36:25,501
+[Stephen] <i>♪ In the sweet-- ♪</i>
+
+2171
+02:36:25,835 --> 02:36:29,839
+[Django] <i>♪ By-and-by, oh ♪</i>
+
+2172
+02:36:30,840 --> 02:36:33,759
+Y'all gonna be together with Calvin
+in the by-and-by.
+
+2173
+02:36:40,683 --> 02:36:42,602
+Just a bit sooner
+than y'all was expecting.
+
+2174
+02:36:46,731 --> 02:36:48,399
+[Lora screams]
+
+2175
+02:36:48,482 --> 02:36:51,110
+[screams]
+
+2176
+02:36:51,444 --> 02:36:53,905
+Billy Crash. Now, where were we?
+
+2177
+02:36:54,989 --> 02:36:56,741
+Oh, that's right.
+
+2178
+02:36:57,575 --> 02:37:01,996
+Last time I seen you,
+you had your hands on my...
+
+2179
+02:37:03,039 --> 02:37:04,248
+[screams]
+
+2180
+02:37:04,457 --> 02:37:07,543
+[screams]
+
+2181
+02:37:12,006 --> 02:37:13,925
+-Sweet Jesus.
+-[Billy continues screaming]
+
+2182
+02:37:14,634 --> 02:37:18,137
+Django! You black son of a bitch!
+
+2183
+02:37:18,304 --> 02:37:19,472
+The D is silent, hillbilly.
+
+2184
+02:37:19,972 --> 02:37:21,974
+[Lara sobbing] Oh, no!
+
+2185
+02:37:24,018 --> 02:37:26,729
+Now, all you black folks,
+
+2186
+02:37:27,063 --> 02:37:29,982
+I suggest you get away
+from all these white folks.
+
+2187
+02:37:31,317 --> 02:37:32,360
+Not you, Stephen.
+
+2188
+02:37:33,945 --> 02:37:35,279
+You right where you belong.
+
+2189
+02:37:37,990 --> 02:37:41,577
+Uh... Cora, before you go,
+will you tell Miss Lara goodbye?
+
+2190
+02:37:42,484 --> 02:37:43,496
+Do what now?
+
+2191
+02:37:44,205 --> 02:37:47,124
+I said, tell Miss Lara goodbye.
+
+2192
+02:37:49,210 --> 02:37:51,337
+-Bye, Miss Lara.
+-[Lara shrieks]
+
+2193
+02:37:55,091 --> 02:37:56,300
+Y'all two run along, now.
+
+2194
+02:38:05,476 --> 02:38:06,489
+[door closing]
+
+2195
+02:38:15,069 --> 02:38:18,990
+Stephen! How you like my new duds?
+
+2196
+02:38:20,199 --> 02:38:22,660
+You know, before now, I didn't know
+that burgundy was my color.
+
+2197
+02:38:34,505 --> 02:38:36,257
+I count six shots, nigger.
+
+2198
+02:38:38,009 --> 02:38:39,301
+I count two guns, nigger.
+
+2199
+02:38:43,556 --> 02:38:45,516
+You said, in 76 years on this plantation,
+
+2200
+02:38:45,599 --> 02:38:47,643
+you seen all manner of shit
+done to niggers.
+
+2201
+02:38:48,519 --> 02:38:51,355
+But I notice, you didn't mention
+kneecapping.
+
+2202
+02:38:51,939 --> 02:38:55,276
+Oh, God! Motherfucker! Damn it!
+
+2203
+02:38:55,359 --> 02:38:57,319
+-Seventy-six years, Stephen.
+-[Stephen] Shit!
+
+2204
+02:38:57,403 --> 02:39:01,949
+How many niggers you think you see
+come and go, huh? 7,000? 8,000?
+
+2205
+02:39:02,992 --> 02:39:04,035
+9,000?
+
+2206
+02:39:04,744 --> 02:39:06,746
+9,999?
+
+2207
+02:39:07,705 --> 02:39:10,291
+Every single word that came out
+of Calvin Candie's mouth
+
+2208
+02:39:10,374 --> 02:39:13,085
+was nothing but horseshit.
+But he was right about one thing.
+
+2209
+02:39:13,586 --> 02:39:15,463
+I am that one nigger in 10,000.
+
+2210
+02:39:16,047 --> 02:39:18,299
+[Stephen screams]
+
+2211
+02:39:18,382 --> 02:39:20,217
+You son of a bitch!
+
+2212
+02:39:20,593 --> 02:39:22,636
+Oh, you motherfucker!
+
+2213
+02:39:23,304 --> 02:39:25,514
+Oh, sweet Jesus, let me kill this nigger!
+
+2214
+02:39:27,016 --> 02:39:29,477
+You ain't gonna
+get away with this, Django.
+
+2215
+02:39:30,186 --> 02:39:32,104
+They gonna catch your black ass.
+
+2216
+02:39:32,438 --> 02:39:34,857
+You gonna be
+on the wanted posters now, nigger.
+
+2217
+02:39:34,940 --> 02:39:37,401
+The bounty hunters
+gonna be looking for you!
+
+2218
+02:39:38,235 --> 02:39:41,947
+You can run, nigger,
+but they gonna find your ass!
+
+2219
+02:39:42,239 --> 02:39:46,035
+And when they do, oh, Lord,
+what they gonna do to your ass!
+
+2220
+02:39:46,494 --> 02:39:50,790
+They ain't gonna just kill you, nigger.
+You done fucked up!
+
+2221
+02:39:51,165 --> 02:39:55,711
+This Candyland, nigger.
+You can't destroy Candyland!
+
+2222
+02:39:56,253 --> 02:39:59,840
+We been here! There's always gonna be a
+Candyland.
+
+2223
+02:40:03,219 --> 02:40:06,889
+["Trinity: Titoli" by Annibale
+e I Cantori Moderni playing]
+
+2224
+02:40:10,893 --> 02:40:14,605
+[Stephen] Can't no nigger gunfighter
+kill all the white folks in the world!
+
+2225
+02:40:14,688 --> 02:40:16,982
+<i>They gonna find your black ass!</i>
+
+2226
+02:40:17,441 --> 02:40:20,277
+[Stephen laughing]
+
+2227
+02:40:21,946 --> 02:40:24,198
+Django!
+
+2228
+02:40:24,615 --> 02:40:26,784
+You uppity son of a--
+
+2229
+02:40:32,665 --> 02:40:36,544
+♪ <i>He's the guy</i>
+<i>Who's the talk of the town ♪</i>
+
+2230
+02:40:36,961 --> 02:40:39,839
+♪ <i>With the restless gun ♪</i>
+
+2231
+02:40:40,464 --> 02:40:44,385
+♪ <i>Don't shoot broad out</i>
+<i>To fool him around ♪</i>
+
+2232
+02:40:44,593 --> 02:40:48,180
+<i>♪ Keeps the varmints on the run, boy ♪</i>
+
+2233
+02:40:48,389 --> 02:40:51,517
+♪ <i>Keeps the varmints on the run ♪</i>
+
+2234
+02:40:53,727 --> 02:40:57,356
+♪ <i>You may think he's a sleepy, tired guy ♪</i>
+
+2235
+02:40:58,065 --> 02:41:01,068
+♪ <i>Always takes his time ♪</i>
+
+2236
+02:41:01,610 --> 02:41:02,820
+Hey, Little Trouble Maker.
+
+2237
+02:41:03,821 --> 02:41:05,531
+Hey, Big Trouble Maker.
+
+2238
+02:41:05,823 --> 02:41:09,451
+♪ <i>When you've seen him use a gun, boy ♪</i>
+
+2239
+02:41:09,702 --> 02:41:12,955
+♪ <i>When you've seen him use a gun ♪</i>
+
+2240
+02:41:14,081 --> 02:41:17,626
+♪ <i>He's the top of the West ♪</i>
+
+2241
+02:41:18,377 --> 02:41:21,672
+♪ <i>Always cool, he's the best ♪</i>
+
+2242
+02:41:21,964 --> 02:41:28,846
+♪ <i>He keeps alive with his Colt .45 ♪</i>
+
+2243
+02:41:32,892 --> 02:41:34,852
+[Schultz] You know what they
+are going to call you?
+
+2244
+02:41:35,519 --> 02:41:37,271
+"The fastest gun in the South."
+
+2245
+02:41:38,689 --> 02:41:42,067
+♪ <i>You won't bother to fool him around ♪</i>
+
+2246
+02:41:43,110 --> 02:41:45,571
+♪ <i>When you've seen him use a gun, boy ♪</i>
+
+2247
+02:41:45,654 --> 02:41:46,697
+Let's get out of here.
+
+2248
+02:41:46,780 --> 02:41:49,575
+♪ <i>When you've seen him use a gun ♪</i>
+
+2249
+02:41:51,118 --> 02:41:54,663
+♪ <i>He's the top of the West ♪</i>
+
+2250
+02:41:55,331 --> 02:41:58,459
+♪ <i>Always cool, he's the best ♪</i>
+
+2251
+02:41:58,918 --> 02:42:05,716
+♪ <i>He keeps alive with his Colt .45 ♪</i>
+
+2252
+02:42:11,472 --> 02:42:15,267
+♪ <i>Who's the guy who's riding into town ♪</i>
+
+2253
+02:42:15,809 --> 02:42:19,021
+♪ <i>In the prairie sun? ♪</i>
+
+2254
+02:42:19,355 --> 02:42:23,275
+<i>♪ You won't bother to fool him around ♪</i>
+
+2255
+02:42:23,484 --> 02:42:27,112
+♪ <i>When you've seen him use a gun, boy ♪</i>
+
+2256
+02:42:27,404 --> 02:42:32,159
+♪ <i>When you've seen him use his gun ♪</i>
+
+2257
+02:42:50,052 --> 02:42:52,763
+["Ode to Django (The 'D' Is Silent)"
+by RZA playing]
+
+2258
+02:42:52,846 --> 02:42:55,849
+♪ <i>In the eyes of the sparrow</i>
+<i>Every father would love ♪</i>
+
+2259
+02:42:55,933 --> 02:42:58,894
+♪ <i>To overthrow a tyrant</i>
+<i>This is simple science ♪</i>
+
+2260
+02:42:59,103 --> 02:43:00,771
+♪ <i>Jack overthrows the giant ♪</i>
+
+2261
+02:43:00,854 --> 02:43:04,858
+♪ <i>Neither snow, rain mountain, or ice</i>
+<i>Can block my path of vengeance ♪</i>
+
+2262
+02:43:04,984 --> 02:43:07,945
+♪ <i>There's no repentin',</i>
+<i>I'm giving you the death sentence ♪</i>
+
+2263
+02:43:08,028 --> 02:43:11,407
+♪ <i>Blood stains on the cotton field</i>
+<i>In the cotton mill ♪</i>
+
+2264
+02:43:11,532 --> 02:43:14,660
+<i>♪ Cold steel heat your body up</i>
+<i>May you rot in hell ♪</i>
+
+2265
+02:43:14,868 --> 02:43:17,788
+<i>♪ Thirty-six lashes on my back</i>
+<i>Left gashes ♪</i>
+
+2266
+02:43:17,997 --> 02:43:21,208
+♪ <i>For every crack of the whip</i>
+<i>I felt mental flashes ♪</i>
+
+2267
+02:43:21,417 --> 02:43:24,670
+♪ <i>Interrupt my baby-making</i>
+<i>Have my ladies taken ♪</i>
+
+2268
+02:43:24,795 --> 02:43:28,132
+♪ <i>To a place far up north</i>
+<i>And more forsaken ♪</i>
+
+2269
+02:43:28,257 --> 02:43:31,552
+♪ <i>Lord, help this fool</i>
+<i>He's a dead man ♪</i>
+
+2270
+02:43:32,052 --> 02:43:35,014
+♪ <i>'Bout to put another hole</i>
+<i>In his Klan headband ♪</i>
+
+2271
+02:43:35,681 --> 02:43:38,809
+♪ <i>The good Dr. Schultz</i>
+<i>Check the dental records ♪</i>
+
+2272
+02:43:39,101 --> 02:43:41,854
+♪ <i>The slug'll make</i>
+<i>His whole mug disconnected ♪</i>
+
+2273
+02:43:42,396 --> 02:43:45,149
+♪ <i>I learned to shoot the dead man</i>
+<i>With a tango ♪</i>
+
+2274
+02:43:45,316 --> 02:43:46,734
+[audio from 1966 film <i>Django </i>plays]
+
+2275
+02:43:46,817 --> 02:43:48,152
+[man 1] <i>Yeah, his name is Django.</i>
+
+2276
+02:43:48,652 --> 02:43:49,945
+[Maria] <i>I love you, Django.</i>
+
+2277
+02:43:51,280 --> 02:43:53,365
+[man 2] <i>Django, I think</i>
+<i>you should make a last request.</i>
+
+2278
+02:43:54,825 --> 02:43:56,118
+[Maria] <i>I love you, Django.</i>
+
+2279
+02:43:56,201 --> 02:43:58,327
+[man 2] <i>I'll be glad to oblige you</i>
+<i>any way I can.</i>
+
+2280
+02:43:59,121 --> 02:44:01,206
+[man 2] <i>Start praying if you like</i>
+<i>I don't mind.</i>
+
+2281
+02:44:02,458 --> 02:44:05,336
+<i>It's a smart thing to do when you know</i>
+<i>that death is coming for you.</i>
+
+2282
+02:44:07,671 --> 02:44:10,132
+<i>How come you haven't got</i>
+<i>your burial suit with you?</i>
+
+2283
+02:44:12,551 --> 02:44:15,220
+<i>-We'll have to leave you to the vultures.</i>
+-[Maria] <i>I love you, Django.</i>
+
+2284
+02:44:15,304 --> 02:44:19,016
+[man 1] <i>Where life has little value</i>
+<i>compared to death.</i>
+
+2285
+02:44:26,148 --> 02:44:27,566
+[Maria] <i>I love you, Django.</i>
+
+2286
+02:44:36,075 --> 02:44:38,535
+[woman] <i>Maria, it's terrible.</i>
+<i>He enjoys killing.</i>
+
+2287
+02:45:03,852 --> 02:45:05,354
+[Maria] <i>I love you, Django.</i>
+
+2288
+02:45:10,150 --> 02:45:11,735
+<i>I love you, Django.</i>
+
+2289
+02:45:15,906 --> 02:45:17,074
+Who was that nigger?
+
