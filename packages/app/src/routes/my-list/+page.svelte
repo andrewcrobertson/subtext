@@ -1,6 +1,5 @@
 <script lang="ts">
   import ArrowLeftIcon from '$lib/ui.icons/ArrowLeftIcon.svelte';
-  import MovieDetailPanel from '$lib/ui.components/MovieDetailPanel';
   import TransitionLoad from '$lib/ui.components/TransitionLoad';
   import { MyListManager } from '$lib/ui.services/MyListManager';
   import type { MyListEventDetail } from '$lib/ui.types/MyListEventDetail';
@@ -8,6 +7,7 @@
   import type { PageData } from './$types';
   import { includes, findIndex } from 'lodash-es';
   import { tick } from 'svelte';
+  import MovieDetailPanelGrid from '$lib/ui.components/MovieDetailPanelGrid';
   export let data: PageData;
 
   let movies: any[] = [];
@@ -61,10 +61,6 @@
 <div class="mt-16"></div>
 <TransitionLoad {loaded}>
   {#if movies.length > 0}
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 pr-2 overflow-y-auto py-4">
-      {#each movies as movie (movie.id)}
-        <MovieDetailPanel {movie} on:addclick={handleAddClick} on:removeclick={handleRemoveClick} />
-      {/each}
-    </div>
+    <MovieDetailPanelGrid {movies} on:addclick={handleAddClick} on:removeclick={handleRemoveClick} />
   {/if}
 </TransitionLoad>

@@ -13,7 +13,8 @@
 
   let movies: any[] = [];
   let loaded = false;
-  let searchQuery = ''; // New variable for search input
+  let searchQuery = '';
+  $: filteredMovies = movies.filter((movie) => movie.title.toLowerCase().includes(searchQuery.toLowerCase()));
   const myListManager = new MyListManager();
 
   const handleBackClick = ({}: MouseEvent) => history.back();
@@ -43,8 +44,6 @@
     movies = tempMovies;
     loaded = true;
   });
-
-  $: filteredMovies = movies.filter((movie) => movie.title.toLowerCase().includes(searchQuery.toLowerCase()));
 </script>
 
 <div class="fixed top-0 left-0 right-0 flex items-center justify-between p-2 z-10 bg-black bg-opacity-70 border-b-2 border-yellow-500">
