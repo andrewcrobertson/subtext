@@ -1,6 +1,6 @@
 <script lang="ts">
-  import BottomBarStd from './BottomBarStd.svelte';
   import BottomBarSm from './BottomBarSm.svelte';
+  import BottomBarStd from './BottomBarStd.svelte';
   export let isPlaying = false;
   export let title = '';
   export let progress = 0;

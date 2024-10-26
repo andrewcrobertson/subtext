@@ -1,14 +1,12 @@
 <script lang="ts">
-  import ArrowLeftIcon from '$lib/ui.icons/ArrowLeftIcon.svelte';
+  import MovieDetailPanelGrid from '$lib/ui.components/MovieDetailPanelGrid';
+  import type { Movie, MyListEventDetail } from '$lib/ui.components/MovieDetailPanelGrid/types';
   import TransitionWhenLoaded from '$lib/ui.components/TransitionWhenLoaded';
   import { myListManager } from '$lib/ui.composition/myListManager';
-  import type { MyListEventDetail } from '$lib/ui.types/MyListEventDetail';
-  import { onMount } from 'svelte';
-  import type { PageData } from './$types';
+  import ArrowLeftIcon from '$lib/ui.icons/ArrowLeftIcon.svelte';
   import { includes, findIndex } from 'lodash-es';
-  import { tick } from 'svelte';
-  import MovieDetailPanelGrid from '$lib/ui.components/MovieDetailPanelGrid';
-  import type { Movie } from '$lib/ui.components/MovieDetailPanelGrid/types';
+  import { onMount, tick } from 'svelte';
+  import type { PageData } from './$types';
   export let data: PageData;
 
   let movies: Movie[] = [];

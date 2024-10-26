@@ -1,6 +1,6 @@
 <script lang="ts">
-  import { SubtitleStream } from '$lib/isomorphic.services/SubtitleStream';
   import { FontSizeEnum } from '$lib/isomorphic.types/FontSizeEnum';
+  import { SubtitleStream } from '$lib/isomorphic.services/SubtitleStream';
   import { SubtitleStreamStateEnum } from '$lib/isomorphic.types/SubtitleStreamStateEnum';
   import { formatMsAsTime } from '$lib/isomorphic.utils/formatMsAsTime';
   import { parseSrt } from '$lib/isomorphic.utils/parseSrt';

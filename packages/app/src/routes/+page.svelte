@@ -1,13 +1,13 @@
 <script lang="ts">
   import { base } from '$app/paths';
   import Header from '$lib/ui.components/Header';
+  import PosterLink from '$lib/ui.components/PosterLink';
   import TransitionWhenLoaded from '$lib/ui.components/TransitionWhenLoaded';
   import { myListManager } from '$lib/ui.composition/myListManager';
+  import ChevronRightIcon from '$lib/ui.icons/ChevronRightIcon.svelte';
+  import { includes } from 'lodash-es';
   import { onMount } from 'svelte';
   import type { PageData } from './$types';
-  import { includes } from 'lodash-es';
-  import ChevronRightIcon from '$lib/ui.icons/ChevronRightIcon.svelte';
-  import PosterLink from '$lib/ui.components/PosterLink';
   export let data: PageData;
 
   let myListMovies: any[] = [];

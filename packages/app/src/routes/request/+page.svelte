@@ -1,9 +1,9 @@
 <script lang="ts">
-  import { base } from '$app/paths';
-  import ArrowLeftIcon from '$lib/ui.icons/ArrowLeftIcon.svelte';
-  import { gitHubService } from '$lib/ui.composition/gitHubService';
-  import { writable } from 'svelte/store';
   import { goto } from '$app/navigation';
+  import { base } from '$app/paths';
+  import { gitHubService } from '$lib/ui.composition/gitHubService';
+  import ArrowLeftIcon from '$lib/ui.icons/ArrowLeftIcon.svelte';
+  import { writable } from 'svelte/store';
 
   const idOrUrl = writable('');
 

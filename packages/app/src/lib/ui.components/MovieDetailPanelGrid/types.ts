@@ -1,3 +1,5 @@
+export type { MyListEventDetail } from '$lib/ui.components/MovieDetailPanel/types';
+
 export interface Movie {
   id: string;
   title: string;

@@ -1,15 +1,14 @@
 <script lang="ts">
   import { base } from '$app/paths';
-  import ArrowLeftIcon from '$lib/ui.icons/ArrowLeftIcon.svelte';
+  import MovieDetailPanelGrid from '$lib/ui.components/MovieDetailPanelGrid';
+  import type { Movie, MyListEventDetail } from '$lib/ui.components/MovieDetailPanelGrid/types';
   import TransitionWhenLoaded from '$lib/ui.components/TransitionWhenLoaded';
   import { myListManager } from '$lib/ui.composition/myListManager';
-  import type { MyListEventDetail } from '$lib/ui.types/MyListEventDetail';
+  import ArrowLeftIcon from '$lib/ui.icons/ArrowLeftIcon.svelte';
+  import MagnifyingGlassIcon from '$lib/ui.icons/MagnifyingGlassIcon.svelte';
   import { includes, findIndex } from 'lodash-es';
   import { onMount } from 'svelte';
   import type { PageData } from './$types';
-  import MagnifyingGlassIcon from '$lib/ui.icons/MagnifyingGlassIcon.svelte';
-  import MovieDetailPanelGrid from '$lib/ui.components/MovieDetailPanelGrid';
-  import type { Movie } from '$lib/ui.components/MovieDetailPanelGrid/types';
   export let data: PageData;
 
   let recentMovies: Movie[] = [];
