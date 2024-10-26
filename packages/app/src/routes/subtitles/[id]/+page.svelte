@@ -1,11 +1,8 @@
 <script lang="ts">
-  import { goto } from '$app/navigation';
-  import { base } from '$app/paths';
   import { SubtitleStream } from '$lib/isomorphic.services/SubtitleStream';
   import { FontSizeEnum } from '$lib/isomorphic.types/FontSizeEnum';
   import { SubtitleStreamStateEnum } from '$lib/isomorphic.types/SubtitleStreamStateEnum';
   import { formatMsAsTime } from '$lib/isomorphic.utils/formatMsAsTime';
-  import { convertSubtitles } from '$lib/isomorphic.utils/convertSubtitles';
   import { parseSrt } from '$lib/isomorphic.utils/parseSrt';
   import BottomBar from '$lib/ui.components/BottomBar';
   import Overlay from '$lib/ui.components/Overlay';
@@ -92,7 +89,7 @@
   });
 </script>
 
-<svelte:window on:mousemove={onInteraction} on:click={onInteraction} />
+<svelte:window on:mousemove|stopPropagation={onInteraction} on:click|stopPropagation={onInteraction} />
 
 <div class="flex items-center justify-center h-screen">
   <p
