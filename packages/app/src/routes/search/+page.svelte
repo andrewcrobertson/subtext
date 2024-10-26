@@ -2,7 +2,7 @@
   import { base } from '$app/paths';
   import ArrowLeftIcon from '$lib/ui.icons/ArrowLeftIcon.svelte';
   import TransitionWhenLoaded from '$lib/ui.components/TransitionWhenLoaded';
-  import { MyListManager } from '$lib/ui.services/MyListManager';
+  import { myListManager } from '$lib/ui.composition/myListManager';
   import type { MyListEventDetail } from '$lib/ui.types/MyListEventDetail';
   import { includes, findIndex } from 'lodash-es';
   import { onMount } from 'svelte';
@@ -18,7 +18,6 @@
 
   let searchQuery = '';
   $: filteredMovies = data.movies.filter((movie) => movie.title.toLowerCase().includes(searchQuery.toLowerCase()));
-  const myListManager = new MyListManager();
 
   const handleBackClick = ({}: MouseEvent) => history.back();
 

@@ -1,7 +1,7 @@
 <script lang="ts">
   import ArrowLeftIcon from '$lib/ui.icons/ArrowLeftIcon.svelte';
   import TransitionWhenLoaded from '$lib/ui.components/TransitionWhenLoaded';
-  import { MyListManager } from '$lib/ui.services/MyListManager';
+  import { myListManager } from '$lib/ui.composition/myListManager';
   import type { MyListEventDetail } from '$lib/ui.types/MyListEventDetail';
   import { onMount } from 'svelte';
   import type { PageData } from './$types';
@@ -12,7 +12,6 @@
 
   let movies: any[] = [];
   let loaded = false;
-  const myListManager = new MyListManager();
 
   const onBackClick = (event: MouseEvent) => history.back();
 
