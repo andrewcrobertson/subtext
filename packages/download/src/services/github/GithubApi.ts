@@ -29,13 +29,9 @@ export class GithubApi {
     await this.patch(`/issues/${issueNumber}`, { state: 'closed' });
   }
 
-  public async tagAsDuplicate(issueNumber: number) {
-    await this.patch(`/issues/${issueNumber}`, { labels: ['duplicate'] });
-  }
-
   private async get(urlPath: string) {
     const url = `${this.apiUrlBase}${urlPath}`;
-    const headers = { Authorization: `token ${this.token}`, Accept: 'application/vnd.gitHub.v3+json' };
+    const headers = this.getHeaders();
     const response = await fetch(url, { headers });
     const json = await response.json();
     return json;
@@ -43,7 +39,7 @@ export class GithubApi {
 
   private async patch(urlPath: string, body: any) {
     const url = `${this.apiUrlBase}${urlPath}`;
-    const headers = { Authorization: `token ${this.token}`, Accept: 'application/vnd.gitHub.v3+json' };
+    const headers = this.getHeaders();
     const response = await fetch(url, { method: 'PATCH', headers, body: JSON.stringify(body) });
     const json = await response.json();
     return json;
@@ -51,9 +47,14 @@ export class GithubApi {
 
   private async post(urlPath: string, body: any) {
     const url = `${this.apiUrlBase}${urlPath}`;
-    const headers = { Authorization: `token ${this.token}`, Accept: 'application/vnd.gitHub.v3+json' };
+    const headers = this.getHeaders();
     const response = await fetch(url, { method: 'POST', headers, body: JSON.stringify(body) });
     const json = await response.json();
     return json;
+  }
+
+  private getHeaders() {
+    const headers = { Authorization: `token ${this.token}`, Accept: 'application/vnd.gitHub.v3+json' };
+    return headers;
   }
 }

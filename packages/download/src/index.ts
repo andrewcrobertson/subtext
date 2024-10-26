@@ -28,4 +28,4 @@ Promise.resolve()
       })
       .parse()
   )
-  .then((argv) => handler(argv.verbose).run(argv.metaDir, argv.subtitleDir, argv.posterDir));
+  .then((argv) => handler(argv.verbose).run(argv));

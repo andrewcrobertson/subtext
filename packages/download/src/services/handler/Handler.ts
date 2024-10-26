@@ -7,7 +7,7 @@ import { isError, join, map, toPairs } from 'lodash';
 import path from 'path';
 import { pipeline } from 'stream';
 import { promisify } from 'util';
-import type { ToMovieResponse } from './Handler.types';
+import type { RunInput, ToMovieResponse } from './Handler.types';
 
 export class Handler {
   public constructor(
@@ -16,7 +16,7 @@ export class Handler {
     private readonly logger: Logger
   ) {}
 
-  public async run(metaDir: string, subtitleDir: string, posterDir: string) {
+  public async run({ metaDir, subtitleDir, posterDir }: RunInput) {
     fs.mkdirSync(metaDir, { recursive: true });
     fs.mkdirSync(subtitleDir, { recursive: true });
     fs.mkdirSync(posterDir, { recursive: true });
