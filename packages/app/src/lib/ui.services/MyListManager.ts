@@ -1,3 +1,5 @@
+import { browser } from '$app/environment';
+
 export class MyListManager {
   constructor(private readonly storageKey: string = 'MyListMovies') {}
 
@@ -26,22 +28,21 @@ export class MyListManager {
 
   public clear(): void {
     if (!this.hasLocalStorage()) return;
-    global.localStorage.removeItem(this.storageKey);
+    localStorage.removeItem(this.storageKey);
   }
 
   private getFromStorage(): string[] {
     if (!this.hasLocalStorage()) return [];
-    const BookmarkedMovies = global.localStorage.getItem(this.storageKey);
+    const BookmarkedMovies = localStorage.getItem(this.storageKey);
     return BookmarkedMovies ? JSON.parse(BookmarkedMovies) : [];
   }
 
   private saveToStorage(movies: string[]): void {
     if (!this.hasLocalStorage()) return;
-    global.localStorage.setItem(this.storageKey, JSON.stringify(movies));
+    localStorage.setItem(this.storageKey, JSON.stringify(movies));
   }
 
   private hasLocalStorage() {
-    const isBrowser = typeof window !== 'undefined';
-    return isBrowser && global !== undefined && global.localStorage !== undefined;
+    return browser && localStorage !== undefined;
   }
 }
