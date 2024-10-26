@@ -5,8 +5,8 @@
   "releaseYear": 2023,
   "posterFileName": "tt5112584.jpg",
   "rated": "R",
-  "genres": [],
-  "actors": [],
+  "genres": ["Biography,", "Drama,", "History"],
+  "actors": ["Kate Winslet", "Andy Samberg", "Alexander Skarsgård"],
   "runTime": 116,
   "plot": "The story of American photographer Lee Miller, a fashion model who became an acclaimed war correspondent for Vogue magazine during World War II.",
   "subtitles": [
@@ -15,63 +15,63 @@
       "author": "imam00",
       "zipFileName": null,
       "subtitleFileName": "Lee.2024.1080p.AMZN.WEB-DL.DDP5.1.H.264-BYNDR.srt",
-      "shaFileName": "33f5d723f825e89fdfe51699726fa66c427b30e45ff6ec5f7752a084231b0ed3.srt"
+      "shaFileName": "tt5112584.33f5d723f825e89fdfe51699726fa66c427b30e45ff6ec5f7752a084231b0ed3.srt"
     },
     {
       "source": "OpenSubtitles",
       "author": "hadilan",
       "zipFileName": null,
       "subtitleFileName": "Lee.2023.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX-HI.srt",
-      "shaFileName": "5a34337d823fc66b1ff2bee8ecc4842d646664ba6b672fd8ec9831ec7c7e2c2c.srt"
+      "shaFileName": "tt5112584.5a34337d823fc66b1ff2bee8ecc4842d646664ba6b672fd8ec9831ec7c7e2c2c.srt"
     },
     {
       "source": "OpenSubtitles",
       "author": "Anonymous",
       "zipFileName": null,
       "subtitleFileName": "Lee.2023.1080p.AMZN.WEB-DL.DDP5.1.H.srt",
-      "shaFileName": "b90dad3243756bc10eb0909673c74e1b5f35d1b8f6f1075964d27eab675fe30c.srt"
+      "shaFileName": "tt5112584.b90dad3243756bc10eb0909673c74e1b5f35d1b8f6f1075964d27eab675fe30c.srt"
     },
     {
       "source": "OpenSubtitles",
       "author": "Anonymous",
       "zipFileName": null,
       "subtitleFileName": "Lee.2023.1080p.AMZN.WEB-DL.DDP5.1.H.srt",
-      "shaFileName": "e2b466ac126b2a40323576b619c0e4944d6204dc10e177edf5b3420d11398e7b.srt"
+      "shaFileName": "tt5112584.e2b466ac126b2a40323576b619c0e4944d6204dc10e177edf5b3420d11398e7b.srt"
     },
     {
       "source": "Subdl",
       "author": "ALL SUB",
       "zipFileName": "3415693-8339172.zip",
       "subtitleFileName": "Lee.2023.1080p.WEBRip.x264.AAC5.1-[YTS.MX].srt",
-      "shaFileName": "f3343744d98f054cd25fae800c0dc4f71c2c7d13accaa780985063148cff604a.srt"
+      "shaFileName": "tt5112584.f3343744d98f054cd25fae800c0dc4f71c2c7d13accaa780985063148cff604a.srt"
     },
     {
       "source": "Subdl",
       "author": "ALL SUB",
       "zipFileName": "3415692-8339171.zip",
       "subtitleFileName": "Lee.2023.720p.WEBRip.x264.AAC-[YTS.MX].srt",
-      "shaFileName": "f3343744d98f054cd25fae800c0dc4f71c2c7d13accaa780985063148cff604a.srt"
+      "shaFileName": "tt5112584.f3343744d98f054cd25fae800c0dc4f71c2c7d13accaa780985063148cff604a.srt"
     },
     {
       "source": "Subdl",
       "author": "server",
       "zipFileName": "3415018-8338487.zip",
       "subtitleFileName": "Lee.2024.1080p.AMZN.WEB-DL.DDP5.1.H.264-BYNDR.srt",
-      "shaFileName": "9838f7e7446eb64ff15774f051ba3ae36eab11b1bf1359ef6de4cbb61896ff40.srt"
+      "shaFileName": "tt5112584.9838f7e7446eb64ff15774f051ba3ae36eab11b1bf1359ef6de4cbb61896ff40.srt"
     },
     {
       "source": "Subdl",
       "author": "VikramJS",
       "zipFileName": "3410964-8334395.zip",
       "subtitleFileName": "Lee.2023.1080p.AMZN.WEB-DL.DDP5.1.H.264 (SDH).srt",
-      "shaFileName": "fe5d354369a312d9e579d6ece52a17dca23e497398ad582b0edbe964355ef1f1.srt"
+      "shaFileName": "tt5112584.fe5d354369a312d9e579d6ece52a17dca23e497398ad582b0edbe964355ef1f1.srt"
     },
     {
       "source": "Subdl",
       "author": "VikramJS",
       "zipFileName": "3410963-8334394.zip",
       "subtitleFileName": "Lee.2023.1080p.AMZN.WEB-DL.DDP5.1.H.264.srt",
-      "shaFileName": "f88704beda99988abc3d956ceae2282155b086763b2f5ba5de386039538fa96d.srt"
+      "shaFileName": "tt5112584.f88704beda99988abc3d956ceae2282155b086763b2f5ba5de386039538fa96d.srt"
     }
   ]
 }

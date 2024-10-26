@@ -5,8 +5,8 @@
   "releaseYear": 2010,
   "posterFileName": "tt1375666.jpg",
   "rated": "PG-13",
-  "genres": [],
-  "actors": [],
+  "genres": ["Action,", "Adventure,", "Sci-Fi"],
+  "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
   "runTime": 148,
   "plot": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
   "subtitles": [
@@ -15,77 +15,77 @@
       "author": "Anonymous",
       "zipFileName": null,
       "subtitleFileName": "Inception - 2010.srt",
-      "shaFileName": "863952364cb904c6e5b002af07d4f42df84cef9ac69387621fbc3cb797b61e2c.srt"
+      "shaFileName": "tt1375666.863952364cb904c6e5b002af07d4f42df84cef9ac69387621fbc3cb797b61e2c.srt"
     },
     {
       "source": "Subdl",
       "author": "bliztor",
       "zipFileName": "3396378-8319592.zip",
       "subtitleFileName": "Inception.2010.1080p.10bit.BluRay.6CH.x265.HEVC-PSA.srt",
-      "shaFileName": "4e7c92bb820a2a27b94f380b6a7b417bab2d02564035094fc07666ac3328f49a.srt"
+      "shaFileName": "tt1375666.4e7c92bb820a2a27b94f380b6a7b417bab2d02564035094fc07666ac3328f49a.srt"
     },
     {
       "source": "Subdl",
       "author": "lesaigneur",
       "zipFileName": "3368153-2858986.zip",
       "subtitleFileName": "Inception (2010).srt",
-      "shaFileName": "b240fe1e3981d383061dd056bcbdc8ebcf36e9ba7ea6e14413e22c1940f23d4f.srt"
+      "shaFileName": "tt1375666.b240fe1e3981d383061dd056bcbdc8ebcf36e9ba7ea6e14413e22c1940f23d4f.srt"
     },
     {
       "source": "Subdl",
       "author": "lesaigneur",
       "zipFileName": "3368152-2858987.zip",
       "subtitleFileName": "Inception (2010).srt",
-      "shaFileName": "b240fe1e3981d383061dd056bcbdc8ebcf36e9ba7ea6e14413e22c1940f23d4f.srt"
+      "shaFileName": "tt1375666.b240fe1e3981d383061dd056bcbdc8ebcf36e9ba7ea6e14413e22c1940f23d4f.srt"
     },
     {
       "source": "Subdl",
       "author": "lesaigneur",
       "zipFileName": "3368151-2858988.zip",
       "subtitleFileName": "Inception (2010).srt",
-      "shaFileName": "b240fe1e3981d383061dd056bcbdc8ebcf36e9ba7ea6e14413e22c1940f23d4f.srt"
+      "shaFileName": "tt1375666.b240fe1e3981d383061dd056bcbdc8ebcf36e9ba7ea6e14413e22c1940f23d4f.srt"
     },
     {
       "source": "Subdl",
       "author": "SeriousSub",
       "zipFileName": "3083120-3093214.zip",
       "subtitleFileName": "Inception.2010.BluRay.1080p.DTS-HD.MA.5.1.VC-1.REMUX-FraMeSToR.English.srt",
-      "shaFileName": "07c3ad3001b24b8764904501df0a7222820599dfef052d04a748fb21aa6ae3f8.srt"
+      "shaFileName": "tt1375666.07c3ad3001b24b8764904501df0a7222820599dfef052d04a748fb21aa6ae3f8.srt"
     },
     {
       "source": "Subdl",
       "author": "Movie_download_99",
       "zipFileName": "3023332-3027220.zip",
       "subtitleFileName": "Inception 2010 1080p BluRay 265 HEVC 10bit.srt",
-      "shaFileName": "bcb6b34b31b3dea425acec1ecf75abca50cfcae4a2843adfc6bed48644205e40.srt"
+      "shaFileName": "tt1375666.bcb6b34b31b3dea425acec1ecf75abca50cfcae4a2843adfc6bed48644205e40.srt"
     },
     {
       "source": "Subdl",
       "author": "Movie_download_99",
       "zipFileName": "3023330-3027222.zip",
       "subtitleFileName": "Inception 2010 1080p BluRay 265 HEVC 10bit HI.srt",
-      "shaFileName": "49bfeb95e70d46ee5284d9edc2c4f3f2ff947dc2a7283f0b9dabb88b38b09729.srt"
+      "shaFileName": "tt1375666.49bfeb95e70d46ee5284d9edc2c4f3f2ff947dc2a7283f0b9dabb88b38b09729.srt"
     },
     {
       "source": "Subdl",
       "author": "Penguin2359",
       "zipFileName": "2812134-2788648.zip",
       "subtitleFileName": "Inception (2010).eng.SDH.srt",
-      "shaFileName": "35cf739771dbb868469b1accf1999599319cc2ea5daa0c0182bc581c8c1e10f5.srt"
+      "shaFileName": "tt1375666.35cf739771dbb868469b1accf1999599319cc2ea5daa0c0182bc581c8c1e10f5.srt"
     },
     {
       "source": "Subdl",
       "author": "TheFlamboyant",
       "zipFileName": "2812133-2714566.zip",
       "subtitleFileName": "Inception.2010.Bluray.1080p.DTS-HD.x264-Grym..eng.srt",
-      "shaFileName": "92787c19d32de57428a5941324eb9c1457b1dae2edc7b7cd76b22079dfeba267.srt"
+      "shaFileName": "tt1375666.92787c19d32de57428a5941324eb9c1457b1dae2edc7b7cd76b22079dfeba267.srt"
     },
     {
       "source": "Subdl",
       "author": "zonkzelda",
       "zipFileName": "1503991-2542923.zip",
       "subtitleFileName": "Inception - Directors Cut 2010 Eng Ita Multi-Subs 4K 1080p [H264-mp4].srt",
-      "shaFileName": "d0c177310058f6927eacd9c2b3f71d1daffc8da1fd1e4f2521a56a7d6557af23.srt"
+      "shaFileName": "tt1375666.d0c177310058f6927eacd9c2b3f71d1daffc8da1fd1e4f2521a56a7d6557af23.srt"
     }
   ]
 }

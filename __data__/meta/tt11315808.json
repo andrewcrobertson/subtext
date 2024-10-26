@@ -5,8 +5,8 @@
   "releaseYear": 2024,
   "posterFileName": "tt11315808.jpg",
   "rated": "R",
-  "genres": [],
-  "actors": [],
+  "genres": ["Crime,", "Drama,", "Musical"],
+  "actors": ["Joaquin Phoenix", "Zazie Beetz", "Lady Gaga"],
   "runTime": 138,
   "plot": "Arthur Fleck is institutionalized at Arkham, awaiting trial for his crimes as Joker. While struggling with his dual identity, Arthur not only stumbles upon true love, but also finds the music that's always been inside him.",
   "subtitles": [
@@ -15,35 +15,35 @@
       "author": "Anonymous",
       "zipFileName": null,
       "subtitleFileName": "Joker.Folie.a.Deux.2024.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264 (SDH).srt",
-      "shaFileName": "e3dc26707905825ef4bbadde0a5c3469ce3691b7e14faa7fe6c8654ea168bf12.srt"
+      "shaFileName": "tt11315808.e3dc26707905825ef4bbadde0a5c3469ce3691b7e14faa7fe6c8654ea168bf12.srt"
     },
     {
       "source": "OpenSubtitles",
       "author": "Anonymous",
       "zipFileName": null,
       "subtitleFileName": "Joker.Folie.a.Deux.2024.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264.srt",
-      "shaFileName": "433c203e5a28a924c5a4a37a55517c923922bee32baadb285d32d8a77b974e7c.srt"
+      "shaFileName": "tt11315808.433c203e5a28a924c5a4a37a55517c923922bee32baadb285d32d8a77b974e7c.srt"
     },
     {
       "source": "Subdl",
       "author": "VikramJS",
       "zipFileName": "3415047-8338516.zip",
       "subtitleFileName": "Joker.Folie.a.Deux.2024.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264 (SDH).srt",
-      "shaFileName": "15663c2dc1a2232396267da7e83d2983984375d9488f139e29655a54ca1027b2.srt"
+      "shaFileName": "tt11315808.15663c2dc1a2232396267da7e83d2983984375d9488f139e29655a54ca1027b2.srt"
     },
     {
       "source": "Subdl",
       "author": "VikramJS",
       "zipFileName": "3415046-8338515.zip",
       "subtitleFileName": "Joker.Folie.a.Deux.2024.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264.srt",
-      "shaFileName": "e0b91b027b57ef32e084347059c4c57a24ad63cd2ace561f9897d6901d66eda9.srt"
+      "shaFileName": "tt11315808.e0b91b027b57ef32e084347059c4c57a24ad63cd2ace561f9897d6901d66eda9.srt"
     },
     {
       "source": "Subdl",
       "author": "ALL SUB",
       "zipFileName": "3411769-8335210.zip",
       "subtitleFileName": "Joker.Folie.Ã .Deux.2024.1080p.TELESYNC.x264.COLLECTiVE-en.srt",
-      "shaFileName": "4fad88f70d8c7335a1b4bc6b8c05e8260f7569339da1610c576fdfef21c843ed.srt"
+      "shaFileName": "tt11315808.4fad88f70d8c7335a1b4bc6b8c05e8260f7569339da1610c576fdfef21c843ed.srt"
     }
   ]
 }

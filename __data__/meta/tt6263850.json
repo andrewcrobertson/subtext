@@ -5,8 +5,8 @@
   "releaseYear": 2024,
   "posterFileName": "tt6263850.jpg",
   "rated": "R",
-  "genres": [],
-  "actors": [],
+  "genres": ["Action,", "Adventure,", "Comedy"],
+  "actors": ["Ryan Reynolds", "Hugh Jackman", "Emma Corrin"],
   "runTime": 128,
   "plot": "Deadpool is offered a place in the Marvel Cinematic Universe by the Time Variance Authority, but instead recruits a variant of Wolverine to save his universe from extinction.",
   "subtitles": [
@@ -15,119 +15,119 @@
       "author": "ogx",
       "zipFileName": null,
       "subtitleFileName": "Deadpool and Wolverine (2024).en.srt",
-      "shaFileName": "43be0deb45f46a556b8fd46323a142c2433765e40d269fce676cac09b33c28ae.srt"
+      "shaFileName": "tt6263850.43be0deb45f46a556b8fd46323a142c2433765e40d269fce676cac09b33c28ae.srt"
     },
     {
       "source": "OpenSubtitles",
       "author": "ogx",
       "zipFileName": null,
       "subtitleFileName": "Deadpool & Wolverine (2024).en.sdh.srt",
-      "shaFileName": "749d0ec8e5f2bcf7dbeb29d3c43b474e2e921c13049c28e0c3e18bbbf88e1fdb.srt"
+      "shaFileName": "tt6263850.749d0ec8e5f2bcf7dbeb29d3c43b474e2e921c13049c28e0c3e18bbbf88e1fdb.srt"
     },
     {
       "source": "OpenSubtitles",
       "author": "Anonymous",
       "zipFileName": null,
       "subtitleFileName": "Deadpool.Wolverine.2024.1080p.WEBRip.x264.AAC5.1-[YTS.MX].srt",
-      "shaFileName": "7344fbbe08787a1868e6505ddc08d010f24c9a096121c258ed2682eff1e68b38.srt"
+      "shaFileName": "tt6263850.7344fbbe08787a1868e6505ddc08d010f24c9a096121c258ed2682eff1e68b38.srt"
     },
     {
       "source": "OpenSubtitles",
       "author": "reelvideos",
       "zipFileName": null,
       "subtitleFileName": "Deadpool.and.Wolverine.2024.720p.AMZN.WEB.x264-[Whiteshoes].eng.srt",
-      "shaFileName": "762e7cf9b3a8d107caa51f3331c54092a3fa44473696434e4415efa6a45d3c60.srt"
+      "shaFileName": "tt6263850.762e7cf9b3a8d107caa51f3331c54092a3fa44473696434e4415efa6a45d3c60.srt"
     },
     {
       "source": "OpenSubtitles",
       "author": "Anonymous",
       "zipFileName": null,
       "subtitleFileName": "Deadpool.Wolverine.2024.1080p.BluRay.x264.AAC5.1-[YTS.MX].srt",
-      "shaFileName": "ce50bbe6ec11f979b6efb9d0cdbdaacb023538678922bf858b6020dd836b77e3.srt"
+      "shaFileName": "tt6263850.ce50bbe6ec11f979b6efb9d0cdbdaacb023538678922bf858b6020dd836b77e3.srt"
     },
     {
       "source": "OpenSubtitles",
       "author": "Anonymous",
       "zipFileName": null,
       "subtitleFileName": "Deadpool.Wolverine.2024.1080p.BluRay.x264.AAC5.1-[YTS.MX].srt",
-      "shaFileName": "549c24e57a5c35f1e6afdd1756588be6fc3e8935da2c220750d9d5b959cb476d.srt"
+      "shaFileName": "tt6263850.549c24e57a5c35f1e6afdd1756588be6fc3e8935da2c220750d9d5b959cb476d.srt"
     },
     {
       "source": "Subdl",
       "author": "DSE_DK",
       "zipFileName": "3414869-8338336.zip",
       "subtitleFileName": "Deadpool.and.Wolverine.2024.1080p.BluRay.x264-DSE_eng.ass",
-      "shaFileName": "8983305d7497c61f4ef9d620595c142bf5c2ce4173960ca2bf99ee1e5b3811e8.ass"
+      "shaFileName": "tt6263850.8983305d7497c61f4ef9d620595c142bf5c2ce4173960ca2bf99ee1e5b3811e8.ass"
     },
     {
       "source": "Subdl",
       "author": "DrAbdellateef",
       "zipFileName": "3411412-8334848.zip",
       "subtitleFileName": "Deadpool & Wolverine SDH.srt",
-      "shaFileName": "87499cba4e8de8760a87ef98e802c1fcc78cf21e040f3aea264a0bb63abdb124.srt"
+      "shaFileName": "tt6263850.87499cba4e8de8760a87ef98e802c1fcc78cf21e040f3aea264a0bb63abdb124.srt"
     },
     {
       "source": "Subdl",
       "author": "DrAbdellateef",
       "zipFileName": "3411412-8334848.zip",
       "subtitleFileName": "Deadpool & Wolverine.srt",
-      "shaFileName": "22ec1cd09011f13b2a59b132136a58a8895d3dcc24deec95456574fe015b52e2.srt"
+      "shaFileName": "tt6263850.22ec1cd09011f13b2a59b132136a58a8895d3dcc24deec95456574fe015b52e2.srt"
     },
     {
       "source": "Subdl",
       "author": "tedi",
       "zipFileName": "3410870-8334300.zip",
       "subtitleFileName": "Deadpool.and.Wolverine.2024.BluRay.x264.AAC5.1-[YTS.MX].en.srt",
-      "shaFileName": "c3e4aabce51f0d34f3f04c68652af58c94029b3740608b48dba613d085c6fc20.srt"
+      "shaFileName": "tt6263850.c3e4aabce51f0d34f3f04c68652af58c94029b3740608b48dba613d085c6fc20.srt"
     },
     {
       "source": "Subdl",
       "author": "tedi",
       "zipFileName": "3410869-8334299.zip",
       "subtitleFileName": "Deadpool.and.Wolverine.2024.BluRay.x264.AAC5.1-[YTS.MX].en[sdh].srt",
-      "shaFileName": "0121a41ed09732545cd45430ab3f4712912db04c7f206958e50efe350f442faa.srt"
+      "shaFileName": "tt6263850.0121a41ed09732545cd45430ab3f4712912db04c7f206958e50efe350f442faa.srt"
     },
     {
       "source": "Subdl",
       "author": "tedi",
       "zipFileName": "3410608-8334032.zip",
       "subtitleFileName": "Deadpool.and.Wolverine.2024.AMZN.WEB.H264-HugeJackedMan.en[sdh].srt",
-      "shaFileName": "0121a41ed09732545cd45430ab3f4712912db04c7f206958e50efe350f442faa.srt"
+      "shaFileName": "tt6263850.0121a41ed09732545cd45430ab3f4712912db04c7f206958e50efe350f442faa.srt"
     },
     {
       "source": "Subdl",
       "author": "ALL SUB",
       "zipFileName": "3410543-8333965.zip",
       "subtitleFileName": "Deadpool.and.Wolverine.2024.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.srt",
-      "shaFileName": "ecd8192fe601091c36cd901a09c9af42930bb1d96425ff7491692549ec4315c5.srt"
+      "shaFileName": "tt6263850.ecd8192fe601091c36cd901a09c9af42930bb1d96425ff7491692549ec4315c5.srt"
     },
     {
       "source": "Subdl",
       "author": "ALL SUB",
       "zipFileName": "3410542-8333964.zip",
       "subtitleFileName": "Deadpool.and.Wolverine.2024.720p.10bit.WEBRip.6CH.x265.HEVC-PSA.srt",
-      "shaFileName": "ecd8192fe601091c36cd901a09c9af42930bb1d96425ff7491692549ec4315c5.srt"
+      "shaFileName": "tt6263850.ecd8192fe601091c36cd901a09c9af42930bb1d96425ff7491692549ec4315c5.srt"
     },
     {
       "source": "Subdl",
       "author": "ALL SUB",
       "zipFileName": "3410539-8333961.zip",
       "subtitleFileName": "Deadpool.Wolverine.2024.720p.WEBRip.x264.AAC-[YTS.MX].srt",
-      "shaFileName": "22ec1cd09011f13b2a59b132136a58a8895d3dcc24deec95456574fe015b52e2.srt"
+      "shaFileName": "tt6263850.22ec1cd09011f13b2a59b132136a58a8895d3dcc24deec95456574fe015b52e2.srt"
     },
     {
       "source": "Subdl",
       "author": "ALL SUB",
       "zipFileName": "3410538-8333960.zip",
       "subtitleFileName": "Deadpool.Wolverine.2024.1080p.WEBRip.x264.AAC5.1-[YTS.MX].srt",
-      "shaFileName": "22ec1cd09011f13b2a59b132136a58a8895d3dcc24deec95456574fe015b52e2.srt"
+      "shaFileName": "tt6263850.22ec1cd09011f13b2a59b132136a58a8895d3dcc24deec95456574fe015b52e2.srt"
     },
     {
       "source": "Subdl",
       "author": "tedi",
       "zipFileName": "3410508-8333930.zip",
       "subtitleFileName": "Deadpool.and.Wolverine.2024.AMZN.WEB.H264-HugeJackedMan.en.srt",
-      "shaFileName": "c3e4aabce51f0d34f3f04c68652af58c94029b3740608b48dba613d085c6fc20.srt"
+      "shaFileName": "tt6263850.c3e4aabce51f0d34f3f04c68652af58c94029b3740608b48dba613d085c6fc20.srt"
     }
   ]
 }

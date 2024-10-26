@@ -5,8 +5,8 @@
   "releaseYear": 2024,
   "posterFileName": "tt29623480.jpg",
   "rated": "PG",
-  "genres": [],
-  "actors": [],
+  "genres": ["Animation,", "Sci-Fi"],
+  "actors": ["Lupita Nyong'o", "Pedro Pascal", "Kit Connor"],
   "runTime": 102,
   "plot": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
   "subtitles": [
@@ -15,35 +15,35 @@
       "author": "ALL SUB",
       "zipFileName": "3413989-8337450.zip",
       "subtitleFileName": "The.Wild.Robot.2024.720p.WEBRip.x264.AAC-[YTS.MX].srt",
-      "shaFileName": "bbda575336c0dd46e809c570f94829e6011deac9e1b34bd2b8b2edba0ef85f32.srt"
+      "shaFileName": "tt29623480.bbda575336c0dd46e809c570f94829e6011deac9e1b34bd2b8b2edba0ef85f32.srt"
     },
     {
       "source": "Subdl",
       "author": "ALL SUB",
       "zipFileName": "3413988-8337449.zip",
       "subtitleFileName": "The.Wild.Robot.2024.1080p.WEBRip.x264.AAC5.1-[YTS.MX].srt",
-      "shaFileName": "bbda575336c0dd46e809c570f94829e6011deac9e1b34bd2b8b2edba0ef85f32.srt"
+      "shaFileName": "tt29623480.bbda575336c0dd46e809c570f94829e6011deac9e1b34bd2b8b2edba0ef85f32.srt"
     },
     {
       "source": "Subdl",
       "author": "VikramJS",
       "zipFileName": "3412652-8336103.zip",
       "subtitleFileName": "The.Wild.Robot.2024.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264 (SDH).srt",
-      "shaFileName": "9b97fcf05b1513d87b25d172a3a1f9527f932d92b4aad0f860181fc5ba8e4bc8.srt"
+      "shaFileName": "tt29623480.9b97fcf05b1513d87b25d172a3a1f9527f932d92b4aad0f860181fc5ba8e4bc8.srt"
     },
     {
       "source": "Subdl",
       "author": "VikramJS",
       "zipFileName": "3412651-8336102.zip",
       "subtitleFileName": "The.Wild.Robot.2024.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264.srt",
-      "shaFileName": "498289ed7d694ddf45e2babb488ea186bb7a050b4bf9d754568ef2160b9005d9.srt"
+      "shaFileName": "tt29623480.498289ed7d694ddf45e2babb488ea186bb7a050b4bf9d754568ef2160b9005d9.srt"
     },
     {
       "source": "Subdl",
       "author": "ALL SUB",
       "zipFileName": "3411767-8335208.zip",
       "subtitleFileName": "The.Wild.Robot.2024.1080p.CAM.X264.Dual.Audio-COLLECTiVE.srt",
-      "shaFileName": "ba0fd0e87b098e31c3a3b57600d89717e1b65817b6b541e2be38c409a39ec5a2.srt"
+      "shaFileName": "tt29623480.ba0fd0e87b098e31c3a3b57600d89717e1b65817b6b541e2be38c409a39ec5a2.srt"
     }
   ]
 }

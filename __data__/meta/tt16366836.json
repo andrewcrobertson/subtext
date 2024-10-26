@@ -5,9 +5,17 @@
   "releaseYear": 2024,
   "posterFileName": "tt16366836.jpg",
   "rated": "PG-13",
-  "genres": [],
-  "actors": [],
+  "genres": ["Action,", "Adventure,", "Sci-Fi"],
+  "actors": ["Tom Hardy", "Juno Temple", "Alanna Ubach"],
   "runTime": 109,
   "plot": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.",
-  "subtitles": []
+  "subtitles": [
+    {
+      "source": "Subdl",
+      "author": "Mr-MiKe",
+      "zipFileName": "3416496-8339984.zip",
+      "subtitleFileName": "Venom.The.Last.Dance.2024.1080o.TELESYNC.X264.COLLECTiVE_track4_[eng].srt",
+      "shaFileName": "tt16366836.25867cb901b6dea0c2aa6ccbbbf970f4338780507b76e5e7241da13ba8abf044.srt"
+    }
+  ]
 }

@@ -5,8 +5,8 @@
   "releaseYear": 2014,
   "posterFileName": "tt0816692.jpg",
   "rated": "PG-13",
-  "genres": [],
-  "actors": [],
+  "genres": ["Adventure,", "Drama,", "Sci-Fi"],
+  "actors": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"],
   "runTime": 169,
   "plot": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
   "subtitles": [
@@ -15,98 +15,98 @@
       "author": "jaminnash",
       "zipFileName": null,
       "subtitleFileName": "Interstellar.2014.2014.1080p.BluRay.x264.YIFY.eng.srt",
-      "shaFileName": "32c9856e57e20c8427ac6f9f69f806260895e0d5afa3f6f565bf89dc1a4ca6da.srt"
+      "shaFileName": "tt0816692.32c9856e57e20c8427ac6f9f69f806260895e0d5afa3f6f565bf89dc1a4ca6da.srt"
     },
     {
       "source": "OpenSubtitles",
       "author": "Anonymous",
       "zipFileName": null,
       "subtitleFileName": "Interstellar.2014.2160p.UHD.BluRay.REMUX.HDR10Plus.HEVC.TrueHD.7.1-WiLDCAT.srt",
-      "shaFileName": "1ae4fd61b65e5fe41dea6f1cbf1f4d54292aa994ba78cac9419f96d62bb1efd7.srt"
+      "shaFileName": "tt0816692.1ae4fd61b65e5fe41dea6f1cbf1f4d54292aa994ba78cac9419f96d62bb1efd7.srt"
     },
     {
       "source": "OpenSubtitles",
       "author": "os-auto",
       "zipFileName": null,
       "subtitleFileName": "The.Interstellar.2014.WEBRip-HBOGO.srt",
-      "shaFileName": "bb031b18e159c0397d60ab23a3b341f8b36b1083369f5cf0ec3f2d367102d3af.srt"
+      "shaFileName": "tt0816692.bb031b18e159c0397d60ab23a3b341f8b36b1083369f5cf0ec3f2d367102d3af.srt"
     },
     {
       "source": "OpenSubtitles",
       "author": "Anonymous",
       "zipFileName": null,
       "subtitleFileName": "Interstellar.2014.UHD.BluRay.2160p.DTS-HD.MA.5.1.HEVC.REMUX-FraMeSToR.srt",
-      "shaFileName": "2b185cbd82c417e769dc313d747ea6b179dcaf4529d1416ce34c0cbcddac027f.srt"
+      "shaFileName": "tt0816692.2b185cbd82c417e769dc313d747ea6b179dcaf4529d1416ce34c0cbcddac027f.srt"
     },
     {
       "source": "Subdl",
       "author": "glucap",
       "zipFileName": "3408133-8331523.zip",
       "subtitleFileName": "Interstellar.2014.2160p.AV1.HDR10.OPUS.5.1-UH.srt",
-      "shaFileName": "33cb62a0a7f8ac351c295583466c786efa94848022cfad80254cf9517962cdf0.srt"
+      "shaFileName": "tt0816692.33cb62a0a7f8ac351c295583466c786efa94848022cfad80254cf9517962cdf0.srt"
     },
     {
       "source": "Subdl",
       "author": "lesaigneur",
       "zipFileName": "3365467-2865052.zip",
       "subtitleFileName": "Interstellar (2014).srt",
-      "shaFileName": "1e46f1741cbce72d5dcad2d142ac67bbe935b91a8a64427f2d2e22ae2eef8e01.srt"
+      "shaFileName": "tt0816692.1e46f1741cbce72d5dcad2d142ac67bbe935b91a8a64427f2d2e22ae2eef8e01.srt"
     },
     {
       "source": "Subdl",
       "author": "lesaigneur",
       "zipFileName": "3365466-2865054.zip",
       "subtitleFileName": "Interstellar (2014).srt",
-      "shaFileName": "1e46f1741cbce72d5dcad2d142ac67bbe935b91a8a64427f2d2e22ae2eef8e01.srt"
+      "shaFileName": "tt0816692.1e46f1741cbce72d5dcad2d142ac67bbe935b91a8a64427f2d2e22ae2eef8e01.srt"
     },
     {
       "source": "Subdl",
       "author": "lesaigneur",
       "zipFileName": "3365465-2865056.zip",
       "subtitleFileName": "Interstellar (2014).srt",
-      "shaFileName": "1e46f1741cbce72d5dcad2d142ac67bbe935b91a8a64427f2d2e22ae2eef8e01.srt"
+      "shaFileName": "tt0816692.1e46f1741cbce72d5dcad2d142ac67bbe935b91a8a64427f2d2e22ae2eef8e01.srt"
     },
     {
       "source": "Subdl",
       "author": "ChristopherCavco",
       "zipFileName": "3329065-3134515.zip",
       "subtitleFileName": "Interstellar.2014.WEBRip.Amazon.srt",
-      "shaFileName": "093b1215fe9ae498e65a9856c082dfca2ea1122d7464f3768c7987eb7e871dd3.srt"
+      "shaFileName": "tt0816692.093b1215fe9ae498e65a9856c082dfca2ea1122d7464f3768c7987eb7e871dd3.srt"
     },
     {
       "source": "Subdl",
       "author": "Coffee_Prison",
       "zipFileName": "3224694-3241843.zip",
       "subtitleFileName": "INTERSTELLAR 2014-engcp.srt",
-      "shaFileName": "c4e90e80a36ebb8537333a29ce1cf4b3987b88950e21aa283aee300fb571e090.srt"
+      "shaFileName": "tt0816692.c4e90e80a36ebb8537333a29ce1cf4b3987b88950e21aa283aee300fb571e090.srt"
     },
     {
       "source": "Subdl",
       "author": "SeriousSub",
       "zipFileName": "3083112-3093209.zip",
       "subtitleFileName": "Interstellar.2014.1080p.BluRay.x264.DTS-HD.MA.5.1-RARBG.English.srt",
-      "shaFileName": "27bd63d0203f9fbebb95e2d0886b724067a1bfb76c3ab6302c0292b4701e7ce5.srt"
+      "shaFileName": "tt0816692.27bd63d0203f9fbebb95e2d0886b724067a1bfb76c3ab6302c0292b4701e7ce5.srt"
     },
     {
       "source": "Subdl",
       "author": "myloc",
       "zipFileName": "1140198-2527089.zip",
       "subtitleFileName": "Interstellar.2014.2160p.4K.BluRay.x265.10bit.AAC5.1-YTS.MX.srt",
-      "shaFileName": "775019688c9f95bfece0b6098f454b8aff2adb6c72a6b5256e176c9206dbe219.srt"
+      "shaFileName": "tt0816692.775019688c9f95bfece0b6098f454b8aff2adb6c72a6b5256e176c9206dbe219.srt"
     },
     {
       "source": "Subdl",
       "author": "myloc",
       "zipFileName": "1140197-2527090.zip",
       "subtitleFileName": "Interstellar.2014.2160p.4K.BluRay.x265.10bit.AAC5.1-YTS.MX.HI.srt",
-      "shaFileName": "38f7c0e20753ac0fff4229ba20c5d8d079286dfd8d6d236c3cde1875e8676ab8.srt"
+      "shaFileName": "tt0816692.38f7c0e20753ac0fff4229ba20c5d8d079286dfd8d6d236c3cde1875e8676ab8.srt"
     },
     {
       "source": "Subdl",
       "author": "KingDong",
       "zipFileName": "1140192-2591401.zip",
       "subtitleFileName": "Interstellar_KingDong.srt",
-      "shaFileName": "1bfcba83f8875056ab916038e83231598f675c8536cb491ea473cd7dadf66938.srt"
+      "shaFileName": "tt0816692.1bfcba83f8875056ab916038e83231598f675c8536cb491ea473cd7dadf66938.srt"
     }
   ]
 }

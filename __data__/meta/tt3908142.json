@@ -5,8 +5,8 @@
   "releaseYear": 2016,
   "posterFileName": "tt3908142.jpg",
   "rated": "Unrated",
-  "genres": [],
-  "actors": [],
+  "genres": ["Comedy,", "Horror,", "Romance"],
+  "actors": ["Samantha Robinson", "Jeffrey Vincent Parise", "Laura Waddell"],
   "runTime": 120,
   "plot": "A modern-day witch uses spells and magic to get men to fall in love with her, with deadly consequences.",
   "subtitles": [
@@ -15,42 +15,112 @@
       "author": "JOKER74AHMED",
       "zipFileName": null,
       "subtitleFileName": "The.Love.Witch.2016.PROPER.BDRip.x264-PSYCHD.SDH.srt",
-      "shaFileName": "b6f6979a7a2d5c524391e6939e4efbd30153afb648558d2002612a486ebf69c5.srt"
+      "shaFileName": "tt3908142.b6f6979a7a2d5c524391e6939e4efbd30153afb648558d2002612a486ebf69c5.srt"
     },
     {
       "source": "OpenSubtitles",
       "author": "JOKER74AHMED",
       "zipFileName": null,
       "subtitleFileName": "The.Love.Witch.2016.PROPER.BDRip.x264-PSYCHD.srt",
-      "shaFileName": "4c58fb89dadbcba5a64d20a1beaa24410a859f0e35b0d96b7a391aedce4df587.srt"
+      "shaFileName": "tt3908142.4c58fb89dadbcba5a64d20a1beaa24410a859f0e35b0d96b7a391aedce4df587.srt"
     },
     {
       "source": "OpenSubtitles",
       "author": "JOKER74AHMED",
       "zipFileName": null,
       "subtitleFileName": "The.Love.Witch.2016.1080p.WEB-DL.DD5.1.H264-FGT.srt",
-      "shaFileName": "4e0de741af43aa23b40024ded6246ad50956665c831fa250f681137bc312efa5.srt"
+      "shaFileName": "tt3908142.4e0de741af43aa23b40024ded6246ad50956665c831fa250f681137bc312efa5.srt"
     },
     {
       "source": "OpenSubtitles",
       "author": "GoldenBeard",
       "zipFileName": null,
       "subtitleFileName": "The.Love.Witch.2016.PROPER.720p.BluRay.x264-PSYCHD.srt",
-      "shaFileName": "ae37cd1240e07f2f9d34f6ae5d5c78f0009bd80dadf7f91d27695385959bc396.srt"
+      "shaFileName": "tt3908142.ae37cd1240e07f2f9d34f6ae5d5c78f0009bd80dadf7f91d27695385959bc396.srt"
     },
     {
       "source": "OpenSubtitles",
       "author": "GoldenBeard",
       "zipFileName": null,
       "subtitleFileName": "The.Love.Witch.2016.PROPER.720p.BluRay.x264-PSYCHD.HI.srt",
-      "shaFileName": "9475293c320a56a7d3e3aad539c734f3413e0c540a96b43440f3d00fc4434632.srt"
+      "shaFileName": "tt3908142.9475293c320a56a7d3e3aad539c734f3413e0c540a96b43440f3d00fc4434632.srt"
     },
     {
       "source": "OpenSubtitles",
       "author": "Luis-subs",
       "zipFileName": null,
       "subtitleFileName": "The.Love.Witch.2016.LiMiTED.720p.BluRay.x264-EiDER.srt",
-      "shaFileName": "394fc6a3aa35544529438e392f3b55a8b8093e75b8043cef40fff7de7b1cf52a.srt"
+      "shaFileName": "tt3908142.394fc6a3aa35544529438e392f3b55a8b8093e75b8043cef40fff7de7b1cf52a.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "bhoie_t",
+      "zipFileName": "458178-1495690.zip",
+      "subtitleFileName": "The.Love.Witch.2016.1080p.WEB-DL.DD5.1.H264-FGT.srt",
+      "shaFileName": "tt3908142.f2fe598d75cd8aaa75c2726ad202b4f2d88baa47b352174771741fb6800a7895.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "LeRocket",
+      "zipFileName": "458176-1586484.zip",
+      "subtitleFileName": "The.Love.Witch.2016.1080p.BluRay.x264-[YTS.AG].srt",
+      "shaFileName": "tt3908142.c2e01696f6027ddbca5c61e643df5fc825f0904dcf8bac29e836871c3693863c.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "adit-hd",
+      "zipFileName": "458175-1527278.zip",
+      "subtitleFileName": "The.Love.Witch.2016.BluRay.1080p.DTS-HD.MA.5.1.AVC.REMUX-FraMeSToR.srt",
+      "shaFileName": "tt3908142.ead39284a538ec8f98cb7572ddad6b741f8df205bdf60f9a86d9db36e0ec84c7.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "Luis-subs",
+      "zipFileName": "458174-1521421.zip",
+      "subtitleFileName": "The.Love.Witch.2016.LiMiTED.720p.BluRay.x264-EiDER.srt",
+      "shaFileName": "tt3908142.4308db5e1fa8c51813ee53f9aeea52b2cd2f2611d5a24dcfd0d901d774ca6e6a.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "GoldenBeard",
+      "zipFileName": "458172-1521624.zip",
+      "subtitleFileName": "The.Love.Witch.2016.PROPER.720p.BluRay.x264-PSYCHD.srt",
+      "shaFileName": "tt3908142.a045e9c3ef3b51aed3ac289e237bfa7289a8c7a243f67357a636f8ee711938f0.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "bozxphd",
+      "zipFileName": "458170-1523016.zip",
+      "subtitleFileName": "The.Love.Witch.2016.PROPER.BDRip.x264-PSYCHD.srt",
+      "shaFileName": "tt3908142.0ab97cd52dfd07b97bd3848548793c457b94c8ef8f87d1dfff9afbecd8d17b52.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "Dandysubs",
+      "zipFileName": "458169-1523775.zip",
+      "subtitleFileName": "The Love Witch (2016).720p.BluRay.x264-[YTS.AG] re-sync by Dandysubs.srt",
+      "shaFileName": "tt3908142.cc30b23374d330731922ef312594bc277e5043f4c5d6e424b7b5d7a8bf750ba6.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "emptysea",
+      "zipFileName": "458166-1523134.zip",
+      "subtitleFileName": "The.Love.Witch.2016.PROPER.1080p.BluRay.x264-PSYCHD.srt",
+      "shaFileName": "tt3908142.c03a73a2f8395e62bca2781b3899d1da9ec54413455b71fe81ed65df1459b9bf.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "TeTeT",
+      "zipFileName": "458165-1523506.zip",
+      "subtitleFileName": "The.Love.Witch.2016.1080p.BluRay.AVC.DTS-HD.MA.5.1-FGT.srt",
+      "shaFileName": "tt3908142.4699f55ee55f3a25bbb147f4951838bcc60710a46bc0cc469a8c3f76940307ce.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "kyouza",
+      "zipFileName": "458163-1522470.zip",
+      "subtitleFileName": "The.Love.Witch.2016.720p.BluRay.x264-[YTS.AG].srt",
+      "shaFileName": "tt3908142.17ec566af0a8788f8dee4e4add44dc0322fa9e5ba6ae62cd2f23cdff8b906795.srt"
     }
   ]
 }

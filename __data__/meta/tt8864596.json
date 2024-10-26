@@ -5,8 +5,8 @@
   "releaseYear": 2024,
   "posterFileName": "tt8864596.jpg",
   "rated": "PG",
-  "genres": [],
-  "actors": [],
+  "genres": ["Animation,", "Action,", "Adventure"],
+  "actors": ["Chris Hemsworth", "Brian Tyree Henry", "Scarlett Johansson"],
   "runTime": 104,
   "plot": "The untold origin story of Optimus Prime and Megatron, better known as sworn enemies, but who once were friends bonded like brothers who changed the fate of Cybertron forever.",
   "subtitles": [
@@ -15,91 +15,91 @@
       "author": "Anonymous",
       "zipFileName": null,
       "subtitleFileName": "Transformers.One.2024.1080p.WEB.h264-ETHEL(SDH).srt",
-      "shaFileName": "7c15e74185f63a0f69bc91993a1a5a11b0a18db6fd71c57435faaa63e2837e5e.srt"
+      "shaFileName": "tt8864596.7c15e74185f63a0f69bc91993a1a5a11b0a18db6fd71c57435faaa63e2837e5e.srt"
     },
     {
       "source": "OpenSubtitles",
       "author": "Anonymous",
       "zipFileName": null,
       "subtitleFileName": "Transformers.One.2024.1080p.WEB.h264-ETHEL.srt",
-      "shaFileName": "6ec8d68eae1ffda709dd2030ab5c78e1a182a6c9ec447b05692f3368e9265884.srt"
+      "shaFileName": "tt8864596.6ec8d68eae1ffda709dd2030ab5c78e1a182a6c9ec447b05692f3368e9265884.srt"
     },
     {
       "source": "OpenSubtitles",
       "author": "Anonymous",
       "zipFileName": null,
       "subtitleFileName": "Transformers.One.2024.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264 (SDH).srt",
-      "shaFileName": "fe191395e60562f9d710cfb9f6868fd4dfaa2f9beffb3c117d21de167bbac3c7.srt"
+      "shaFileName": "tt8864596.fe191395e60562f9d710cfb9f6868fd4dfaa2f9beffb3c117d21de167bbac3c7.srt"
     },
     {
       "source": "OpenSubtitles",
       "author": "Anonymous",
       "zipFileName": null,
       "subtitleFileName": "Transformers.One.2024.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264.srt",
-      "shaFileName": "db44193944314aa280c2c0214c7edd63f1ed240939273d45e3c1363296fd0ed5.srt"
+      "shaFileName": "tt8864596.db44193944314aa280c2c0214c7edd63f1ed240939273d45e3c1363296fd0ed5.srt"
     },
     {
       "source": "Subdl",
       "author": "ALL SUB",
       "zipFileName": "3415690-8339169.zip",
       "subtitleFileName": "Transformers.One.2024.1080p.WEBRip.x264.AAC5.1-[YTS.MX].srt",
-      "shaFileName": "47c65381c718ceca1928abe8bf940f6c3e9209582c98f013d18e00897f6ed992.srt"
+      "shaFileName": "tt8864596.47c65381c718ceca1928abe8bf940f6c3e9209582c98f013d18e00897f6ed992.srt"
     },
     {
       "source": "Subdl",
       "author": "ALL SUB",
       "zipFileName": "3415689-8339168.zip",
       "subtitleFileName": "Transformers.One.2024.720p.WEBRip.x264.AAC-[YTS.MX].srt",
-      "shaFileName": "47c65381c718ceca1928abe8bf940f6c3e9209582c98f013d18e00897f6ed992.srt"
+      "shaFileName": "tt8864596.47c65381c718ceca1928abe8bf940f6c3e9209582c98f013d18e00897f6ed992.srt"
     },
     {
       "source": "Subdl",
       "author": "avrilfan22",
       "zipFileName": "3415523-8339000.zip",
       "subtitleFileName": "Transformers.One.2024.1080p.WEB.h264-ETHEL-HI.srt",
-      "shaFileName": "bcdad2179d46a2b2f35b387f682ad6f589ee0af8cdb5b75670b8c821bb603936.srt"
+      "shaFileName": "tt8864596.bcdad2179d46a2b2f35b387f682ad6f589ee0af8cdb5b75670b8c821bb603936.srt"
     },
     {
       "source": "Subdl",
       "author": "avrilfan22",
       "zipFileName": "3415522-8338999.zip",
       "subtitleFileName": "Transformers.One.2024.1080p.WEB.h264-ETHEL.srt",
-      "shaFileName": "682dce9f79bec4263c67bf00f2596f8600180ad98a44f031fc170fefc4b76174.srt"
+      "shaFileName": "tt8864596.682dce9f79bec4263c67bf00f2596f8600180ad98a44f031fc170fefc4b76174.srt"
     },
     {
       "source": "Subdl",
       "author": "Glaider",
       "zipFileName": "3415515-8338992.zip",
       "subtitleFileName": "Transformers.One.2024.1080p.WEBRip.x264.AAC5.1-HI-[YTS.MX].srt",
-      "shaFileName": "7c879eb2e08608e5c8260d92f6c3558d6577577732ec972db65c074985c457d7.srt"
+      "shaFileName": "tt8864596.7c879eb2e08608e5c8260d92f6c3558d6577577732ec972db65c074985c457d7.srt"
     },
     {
       "source": "Subdl",
       "author": "Glaider",
       "zipFileName": "3415514-8338991.zip",
       "subtitleFileName": "Transformers.One.2024.1080p.WEBRip.x264.AAC5.1-[YTS.MX].srt",
-      "shaFileName": "47c65381c718ceca1928abe8bf940f6c3e9209582c98f013d18e00897f6ed992.srt"
+      "shaFileName": "tt8864596.47c65381c718ceca1928abe8bf940f6c3e9209582c98f013d18e00897f6ed992.srt"
     },
     {
       "source": "Subdl",
       "author": "VikramJS",
       "zipFileName": "3412503-8335950.zip",
       "subtitleFileName": "Transformers.One.2024.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264 (SDH).srt",
-      "shaFileName": "570d3599d757035b60ecc5f5567f4fa14a51935f55162ba6ee351d68f261852d.srt"
+      "shaFileName": "tt8864596.570d3599d757035b60ecc5f5567f4fa14a51935f55162ba6ee351d68f261852d.srt"
     },
     {
       "source": "Subdl",
       "author": "VikramJS",
       "zipFileName": "3412502-8335949.zip",
       "subtitleFileName": "Transformers.One.2024.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264.srt",
-      "shaFileName": "c6592d28ff54a911e7b3fc2d12ca2195a1bb3c45e9ad18d7d410e5da8d8cadbf.srt"
+      "shaFileName": "tt8864596.c6592d28ff54a911e7b3fc2d12ca2195a1bb3c45e9ad18d7d410e5da8d8cadbf.srt"
     },
     {
       "source": "Subdl",
       "author": "ALL SUB",
       "zipFileName": "3411768-8335209.zip",
       "subtitleFileName": "Transformers.One.2024.1080p.TeleSync.X264.COLLECTiVE(IMPROVED).srt",
-      "shaFileName": "babde8e27df93bd016b1aea026b216e11f663a4ede0b2a53946ececc92e5f719.srt"
+      "shaFileName": "tt8864596.babde8e27df93bd016b1aea026b216e11f663a4ede0b2a53946ececc92e5f719.srt"
     }
   ]
 }
