@@ -1,11 +1,11 @@
 <script lang="ts">
   import ArrowLeftIcon from '$lib/ui.icons/ArrowLeftIcon.svelte';
   import MovieDetailPanel from '$lib/ui.components/MovieDetailPanel';
+  import TransitionLoad from '$lib/ui.components/TransitionLoad';
   import { MyListManager } from '$lib/ui.services/MyListManager';
   import type { MyListEventDetail } from '$lib/ui.types/MyListEventDetail';
   import { includes, findIndex } from 'lodash-es';
   import { onMount } from 'svelte';
-  import { fade } from 'svelte/transition';
   import type { PageData } from './$types';
   export let data: PageData;
 
@@ -50,14 +50,12 @@
   </div>
 </div>
 <div class="mt-16"></div>
-{#if loaded}
-  <div transition:fade={{ duration: 500 }}>
-    {#if movies.length > 0}
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 pr-2 overflow-y-auto py-4">
-        {#each movies as movie}
-          <MovieDetailPanel {movie} on:addclick={handleAddClick} on:removeclick={handleRemoveClick} />
-        {/each}
-      </div>
-    {/if}
-  </div>
-{/if}
+<TransitionLoad {loaded}>
+  {#if movies.length > 0}
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 pr-2 overflow-y-auto py-4">
+      {#each movies as movie}
+        <MovieDetailPanel {movie} on:addclick={handleAddClick} on:removeclick={handleRemoveClick} />
+      {/each}
+    </div>
+  {/if}
+</TransitionLoad>
