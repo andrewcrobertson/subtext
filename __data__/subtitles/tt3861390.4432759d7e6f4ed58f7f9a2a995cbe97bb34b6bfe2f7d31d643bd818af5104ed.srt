@@ -1,0 +1,5399 @@
+﻿1
+00:00:11,000 --> 00:00:21,000
+<font face="MV Boli" color="#00ff00">jmg subs</font>
+
+2
+00:00:46,545 --> 00:00:51,281
+<font face="Comic Sans MS" color="#ffff80"><b>Come on, time to go.
+We haven't got all day.</b></font>
+
+3
+00:00:51,283 --> 00:00:55,319
+<font face="Comic Sans MS" color="#ffff80"><b>Get that monkey on the train.</b></font>
+
+4
+00:00:55,321 --> 00:00:58,824
+<font face="Comic Sans MS" color="#ffff80"><b>The Medici Brothers' circus
+is taking off!</b></font>
+
+5
+00:02:58,744 --> 00:03:00,509
+<font face="Comic Sans MS" color="#ffff80"><b>Breathing normal...</b></font>
+
+6
+00:03:00,511 --> 00:03:02,079
+<font face="Comic Sans MS" color="#ffff80"><b>heart rate normal.</b></font>
+
+7
+00:03:03,247 --> 00:03:04,482
+<font face="Comic Sans MS" color="#ffff80"><b>You're cleared to perform.</b></font>
+
+8
+00:03:05,716 --> 00:03:08,551
+<font face="Comic Sans MS" color="#ffff80"><b>Milly!
+Another train!</b></font>
+
+9
+00:03:15,126 --> 00:03:17,226
+<font face="Comic Sans MS" color="#ffff80"><b><i>Ninos,</i> wait!
+We are coming, too!</b></font>
+
+10
+00:03:29,540 --> 00:03:31,307
+<font face="Comic Sans MS" color="#ffff80"><b>Joplin!</b></font>
+
+11
+00:03:31,309 --> 00:03:33,108
+<font face="Comic Sans MS" color="#ffff80"><b>Joplin, Missouri!</b></font>
+
+12
+00:03:33,110 --> 00:03:35,279
+<font face="Comic Sans MS" color="#ffff80"><b>- Hey, sweetheart!
+- Daddy!</b></font>
+
+13
+00:04:06,511 --> 00:04:09,278
+<font face="Comic Sans MS" color="#ffff80"><b>Oh, I meant to tell ya.</b></font>
+
+14
+00:04:09,280 --> 00:04:10,648
+<font face="Comic Sans MS" color="#ffff80"><b>You know,
+in the letter I sent?</b></font>
+
+15
+00:04:11,849 --> 00:04:15,252
+<font face="Comic Sans MS" color="#ffff80"><b>I'm so sorry
+that I wasn't here.</b></font>
+
+16
+00:04:16,354 --> 00:04:17,622
+<font face="Comic Sans MS" color="#ffff80"><b>Well, come here now.</b></font>
+
+17
+00:04:18,723 --> 00:04:20,056
+<font face="Comic Sans MS" color="#ffff80"><b>Still me.</b></font>
+
+18
+00:04:27,264 --> 00:04:28,666
+<font face="Comic Sans MS" color="#ffff80"><b>And you...</b></font>
+
+19
+00:04:30,668 --> 00:04:32,135
+<font face="Comic Sans MS" color="#ffff80"><b>you're just as pretty
+as your momma.</b></font>
+
+20
+00:04:40,778 --> 00:04:42,112
+<font face="Comic Sans MS" color="#ffff80"><b>We missed you, Dad.</b></font>
+
+21
+00:04:43,614 --> 00:04:44,815
+<font face="Comic Sans MS" color="#ffff80"><b>I missed you, too.</b></font>
+
+22
+00:04:48,819 --> 00:04:51,352
+<font face="Comic Sans MS" color="#ffff80"><b>Ivan and Catherine,
+thank you both...</b></font>
+
+23
+00:04:51,354 --> 00:04:53,121
+<font face="Comic Sans MS" color="#ffff80"><b>for looking out for them.</b></font>
+
+24
+00:04:53,123 --> 00:04:54,589
+<font face="Comic Sans MS" color="#ffff80"><b>Captain Farrier,
+of course.</b></font>
+
+25
+00:04:54,591 --> 00:04:56,391
+<font face="Comic Sans MS" color="#ffff80"><b>Oh, it's Holt, come on now.</b></font>
+
+26
+00:04:56,393 --> 00:04:57,726
+<font face="Comic Sans MS" color="#ffff80"><b>It's just Holt.</b></font>
+
+27
+00:04:57,728 --> 00:04:59,329
+<font face="Comic Sans MS" color="#ffff80"><b>Don't you worry.</b></font>
+
+28
+00:05:00,898 --> 00:05:03,199
+<font face="Comic Sans MS" color="#ffff80"><b>Everything's gonna be
+just like it was before.</b></font>
+
+29
+00:05:07,437 --> 00:05:08,436
+<font face="Comic Sans MS" color="#ffff80"><b>Come on! Come on!</b></font>
+
+30
+00:05:08,438 --> 00:05:09,805
+<font face="Comic Sans MS" color="#ffff80"><b>Home sweet home.</b></font>
+
+31
+00:05:09,807 --> 00:05:12,108
+<font face="Comic Sans MS" color="#ffff80"><b>- Hey! Holt!
+- Hey, Puck.</b></font>
+
+32
+00:05:13,310 --> 00:05:14,442
+<font face="Comic Sans MS" color="#ffff80"><b>- Hey, Thomas.
+- Milly, come on!</b></font>
+
+33
+00:05:14,444 --> 00:05:15,645
+<font face="Comic Sans MS" color="#ffff80"><b>Hi, Holt.</b></font>
+
+34
+00:05:16,580 --> 00:05:19,282
+<font face="Comic Sans MS" color="#ffff80"><b>Oh! Hey, Miss Atlantis.</b></font>
+
+35
+00:05:20,650 --> 00:05:22,417
+<font face="Comic Sans MS" color="#ffff80"><b>Pramesh!</b></font>
+
+36
+00:05:22,419 --> 00:05:24,152
+<font face="Comic Sans MS" color="#ffff80"><b>The very best journey,
+dear friend.</b></font>
+
+37
+00:05:24,154 --> 00:05:26,588
+<font face="Comic Sans MS" color="#ffff80"><b>The road that leads home.</b></font>
+
+38
+00:05:26,590 --> 00:05:28,456
+<font face="Comic Sans MS" color="#ffff80"><b>Welcome home.</b></font>
+
+39
+00:05:30,393 --> 00:05:32,162
+<font face="Comic Sans MS" color="#ffff80"><b>No hugs!</b></font>
+
+40
+00:05:33,530 --> 00:05:36,164
+<font face="Comic Sans MS" color="#ffff80"><b>Pramesh,
+I missed you, too.</b></font>
+
+41
+00:05:36,166 --> 00:05:39,334
+<font face="Comic Sans MS" color="#ffff80"><b>What's going on? The camp's
+half the size it used to be.</b></font>
+
+42
+00:05:39,336 --> 00:05:41,836
+<font face="Comic Sans MS" color="#ffff80"><b>Hard times, my friend.
+For everyone.</b></font>
+
+43
+00:05:48,378 --> 00:05:50,612
+<font face="Comic Sans MS" color="#ffff80"><b>Attention, everybody!</b></font>
+
+44
+00:05:50,614 --> 00:05:54,549
+<font face="Comic Sans MS" color="#ffff80"><b>Why is Rule Number One
+called Rule Number One?</b></font>
+
+45
+00:05:54,551 --> 00:05:57,352
+<font face="Comic Sans MS" color="#ffff80"><b>Because
+"keep the cages locked"</b></font>
+
+46
+00:05:57,354 --> 00:05:59,621
+<font face="Comic Sans MS" color="#ffff80"><b>is the most important
+rule of all!</b></font>
+
+47
+00:05:59,623 --> 00:06:01,623
+<font face="Comic Sans MS" color="#ffff80"><b>When I catch
+that fugitive scalawag</b></font>
+
+48
+00:06:01,625 --> 00:06:03,324
+<font face="Comic Sans MS" color="#ffff80"><b>who interrupted my dream...</b></font>
+
+49
+00:06:03,326 --> 00:06:04,292
+<font face="Comic Sans MS" color="#ffff80"><b>Rongo!</b></font>
+
+50
+00:06:04,294 --> 00:06:05,627
+<font face="Comic Sans MS" color="#ffff80"><b>Where is Rongo?</b></font>
+
+51
+00:06:07,731 --> 00:06:09,731
+<font face="Comic Sans MS" color="#ffff80"><b>Who's heading
+camp management?</b></font>
+
+52
+00:06:09,733 --> 00:06:10,965
+<font face="Comic Sans MS" color="#ffff80"><b>I'm the strongman.</b></font>
+
+53
+00:06:10,967 --> 00:06:13,635
+<font face="Comic Sans MS" color="#ffff80"><b>Yes, but we're all wearing
+multiple hats!</b></font>
+
+54
+00:06:13,637 --> 00:06:17,472
+<font face="Comic Sans MS" color="#ffff80"><b>You're in charge of budgets,
+and accounting, and inventory.</b></font>
+
+55
+00:06:17,474 --> 00:06:19,974
+<font face="Comic Sans MS" color="#ffff80"><b>Which means
+animal whereabouts!</b></font>
+
+56
+00:06:19,976 --> 00:06:21,976
+<font face="Comic Sans MS" color="#ffff80"><b>Now, go find that monkey!</b></font>
+
+57
+00:06:21,978 --> 00:06:23,880
+<font face="Comic Sans MS" color="#ffff80"><b>I'll have a look around.</b></font>
+
+58
+00:06:30,854 --> 00:06:32,455
+<font face="Comic Sans MS" color="#ffff80"><b>All right, everybody.
+Back to work.</b></font>
+
+59
+00:06:36,660 --> 00:06:37,761
+<font face="Comic Sans MS" color="#ffff80"><b>Holt!</b></font>
+
+60
+00:06:47,904 --> 00:06:51,507
+<font face="Comic Sans MS" color="#ffff80"><b>This winter, the influenza
+hit us like a hurricane.</b></font>
+
+61
+00:06:52,307 --> 00:06:54,976
+<font face="Comic Sans MS" color="#ffff80"><b>Natalya, Vincenzo...</b></font>
+
+62
+00:06:54,978 --> 00:06:57,614
+<font face="Comic Sans MS" color="#ffff80"><b>the Vanderjees, and then...</b></font>
+
+63
+00:06:58,815 --> 00:07:01,415
+<font face="Comic Sans MS" color="#ffff80"><b>your wife.</b></font>
+
+64
+00:07:01,417 --> 00:07:02,719
+<font face="Comic Sans MS" color="#ffff80"><b>Poor Annie.</b></font>
+
+65
+00:07:05,454 --> 00:07:07,456
+<font face="Comic Sans MS" color="#ffff80"><b>How she fought.</b></font>
+
+66
+00:07:10,292 --> 00:07:11,761
+<font face="Comic Sans MS" color="#ffff80"><b>She was the best of us.</b></font>
+
+67
+00:07:12,896 --> 00:07:14,829
+<font face="Comic Sans MS" color="#ffff80"><b>I know it.</b></font>
+
+68
+00:07:14,831 --> 00:07:17,564
+<font face="Comic Sans MS" color="#ffff80"><b>So, uh, you know, for her,</b></font>
+
+69
+00:07:17,566 --> 00:07:18,835
+<font face="Comic Sans MS" color="#ffff80"><b>let's have
+our best season yet!</b></font>
+
+70
+00:07:20,402 --> 00:07:21,770
+<font face="Comic Sans MS" color="#ffff80"><b>Now where's my horses?</b></font>
+
+71
+00:07:22,571 --> 00:07:24,005
+<font face="Comic Sans MS" color="#ffff80"><b>Ah...</b></font>
+
+72
+00:07:24,007 --> 00:07:25,873
+<font face="Comic Sans MS" color="#ffff80"><b>Funny story about that.</b></font>
+
+73
+00:07:25,875 --> 00:07:27,407
+<font face="Comic Sans MS" color="#ffff80"><b>Funny how?</b></font>
+
+74
+00:07:27,409 --> 00:07:29,476
+<font face="Comic Sans MS" color="#ffff80"><b>He sold them.</b></font>
+
+75
+00:07:29,478 --> 00:07:31,278
+<font face="Comic Sans MS" color="#ffff80"><b>But our act is the soul
+of this show!</b></font>
+
+76
+00:07:31,280 --> 00:07:35,816
+<font face="Comic Sans MS" color="#ffff80"><b>And first, we lost you,
+and then Annie, to ride 'em!</b></font>
+
+77
+00:07:35,818 --> 00:07:38,285
+<font face="Comic Sans MS" color="#ffff80"><b>If only Milly would have
+learned the trade.</b></font>
+
+78
+00:07:38,287 --> 00:07:39,720
+<font face="Comic Sans MS" color="#ffff80"><b>I don't wanna be a show-off
+in your circus.</b></font>
+
+79
+00:07:39,722 --> 00:07:41,855
+<font face="Comic Sans MS" color="#ffff80"><b>- "Show-off"?
+- You see?</b></font>
+
+80
+00:07:41,857 --> 00:07:44,524
+<font face="Comic Sans MS" color="#ffff80"><b>I wanna make
+scientific discoveries.</b></font>
+
+81
+00:07:44,526 --> 00:07:46,326
+<font face="Comic Sans MS" color="#ffff80"><b>I wanna be noticed
+for my mind.</b></font>
+
+82
+00:07:46,328 --> 00:07:47,794
+<font face="Comic Sans MS" color="#ffff80"><b>Okay.</b></font>
+
+83
+00:07:47,796 --> 00:07:51,431
+<font face="Comic Sans MS" color="#ffff80"><b>Then learn clairvoyance.
+Telepathy! Something!</b></font>
+
+84
+00:07:51,433 --> 00:07:54,468
+<font face="Comic Sans MS" color="#ffff80"><b>I can do a handstand
+for almost ten seconds.</b></font>
+
+85
+00:07:54,470 --> 00:07:56,870
+<font face="Comic Sans MS" color="#ffff80"><b>Oh.</b></font>
+
+86
+00:07:56,872 --> 00:08:00,874
+<font face="Comic Sans MS" color="#ffff80"><b>"Child does handstand."
+We'll be broke by July.</b></font>
+
+87
+00:08:00,876 --> 00:08:03,645
+<font face="Comic Sans MS" color="#ffff80"><b>Hang on now. Without horses,
+what the hell's my act?</b></font>
+
+88
+00:08:04,646 --> 00:08:07,047
+<font face="Comic Sans MS" color="#ffff80"><b>The crowds come to see me!</b></font>
+
+89
+00:08:07,049 --> 00:08:07,983
+<font face="Comic Sans MS" color="#ffff80"><b>Max, please.</b></font>
+
+90
+00:08:09,585 --> 00:08:11,453
+<font face="Comic Sans MS" color="#ffff80"><b>I need to work.</b></font>
+
+91
+00:08:12,788 --> 00:08:14,521
+<font face="Comic Sans MS" color="#ffff80"><b>Good news.</b></font>
+
+92
+00:08:14,523 --> 00:08:16,356
+<font face="Comic Sans MS" color="#ffff80"><b>One job, I have.</b></font>
+
+93
+00:08:16,358 --> 00:08:18,391
+<font face="Comic Sans MS" color="#ffff80"><b>Okay, then.
+Give me a showstopper.</b></font>
+
+94
+00:08:18,393 --> 00:08:20,060
+<font face="Comic Sans MS" color="#ffff80"><b>You know that old rascal
+Itchy McPhee?</b></font>
+
+95
+00:08:20,062 --> 00:08:21,762
+<font face="Comic Sans MS" color="#ffff80"><b>He finally ran off
+with the bearded lady.</b></font>
+
+96
+00:08:21,764 --> 00:08:25,866
+<font face="Comic Sans MS" color="#ffff80"><b>I've been filling in with
+roustabouts ever since.</b></font>
+
+97
+00:08:25,868 --> 00:08:28,001
+<font face="Comic Sans MS" color="#ffff80"><b>I need somebody good
+to tend the elephants.</b></font>
+
+98
+00:08:28,003 --> 00:08:30,036
+<font face="Comic Sans MS" color="#ffff80"><b>No, you're not serious.</b></font>
+
+99
+00:08:30,038 --> 00:08:31,438
+<font face="Comic Sans MS" color="#ffff80"><b>I am on occasion.</b></font>
+
+100
+00:08:31,440 --> 00:08:32,973
+<font face="Comic Sans MS" color="#ffff80"><b>This is a big job
+and you know it.</b></font>
+
+101
+00:08:32,975 --> 00:08:34,608
+<font face="Comic Sans MS" color="#ffff80"><b>No, it's a big shovel
+for a big pile of...</b></font>
+
+102
+00:08:34,610 --> 00:08:35,577
+<font face="Comic Sans MS" color="#ffff80"><b>Dad.</b></font>
+
+103
+00:08:38,113 --> 00:08:41,448
+<font face="Comic Sans MS" color="#ffff80"><b>So you sold my horses
+and kept your elephants.</b></font>
+
+104
+00:08:41,450 --> 00:08:44,718
+<font face="Comic Sans MS" color="#ffff80"><b>Your scrawny, mangy,
+cut-rate elephants.</b></font>
+
+105
+00:08:44,720 --> 00:08:46,955
+<font face="Comic Sans MS" color="#ffff80"><b>They're important.
+Especially this season.</b></font>
+
+106
+00:08:47,723 --> 00:08:48,989
+<font face="Comic Sans MS" color="#ffff80"><b>Why's that?</b></font>
+
+107
+00:08:48,991 --> 00:08:50,824
+<font face="Comic Sans MS" color="#ffff80"><b>I know it goes
+against my nature...</b></font>
+
+108
+00:08:50,826 --> 00:08:54,628
+<font face="Comic Sans MS" color="#ffff80"><b>but for once,
+I made an investment.</b></font>
+
+109
+00:08:56,598 --> 00:08:59,833
+<font face="Comic Sans MS" color="#ffff80"><b><i>Bellissima!</i>
+There she is!</b></font>
+
+110
+00:08:59,835 --> 00:09:02,636
+<font face="Comic Sans MS" color="#ffff80"><b>Our brand-new Asian female.</b></font>
+
+111
+00:09:02,638 --> 00:09:05,604
+<font face="Comic Sans MS" color="#ffff80"><b>I bought her off
+a Brugelbecker in Biloxi.</b></font>
+
+112
+00:09:05,606 --> 00:09:07,606
+<font face="Comic Sans MS" color="#ffff80"><b>I had to get him
+way down on the price.</b></font>
+
+113
+00:09:07,608 --> 00:09:09,375
+<font face="Comic Sans MS" color="#ffff80"><b>But I swear to you, Holt,</b></font>
+
+114
+00:09:09,377 --> 00:09:12,478
+<font face="Comic Sans MS" color="#ffff80"><b>I saw something special
+in her eyes.</b></font>
+
+115
+00:09:12,480 --> 00:09:15,816
+<font face="Comic Sans MS" color="#ffff80"><b>This is your investment?
+An old, sick elephant.</b></font>
+
+116
+00:09:15,818 --> 00:09:17,920
+<font face="Comic Sans MS" color="#ffff80"><b>Oh, no. She's not sick.</b></font>
+
+117
+00:09:18,921 --> 00:09:20,553
+<font face="Comic Sans MS" color="#ffff80"><b>Any day now...</b></font>
+
+118
+00:09:20,555 --> 00:09:22,856
+<font face="Comic Sans MS" color="#ffff80"><b>she's having a baby.</b></font>
+
+119
+00:09:27,162 --> 00:09:29,930
+<font face="Comic Sans MS" color="#ffff80"><b>Dad, watch! Dad!
+I'm getting better!</b></font>
+
+120
+00:09:29,932 --> 00:09:31,632
+<font face="Comic Sans MS" color="#ffff80"><b>Hang on now,
+this is our tent?</b></font>
+
+121
+00:09:32,935 --> 00:09:34,167
+<font face="Comic Sans MS" color="#ffff80"><b>What happened to our things?</b></font>
+
+122
+00:09:34,169 --> 00:09:37,572
+<font face="Comic Sans MS" color="#ffff80"><b>We had nice furniture,
+we had rooms.</b></font>
+
+123
+00:09:38,739 --> 00:09:40,907
+<font face="Comic Sans MS" color="#ffff80"><b>Max, what didn't you sell?</b></font>
+
+124
+00:09:40,909 --> 00:09:42,842
+<font face="Comic Sans MS" color="#ffff80"><b>You son of a gun.</b></font>
+
+125
+00:09:42,844 --> 00:09:43,911
+<font face="Comic Sans MS" color="#ffff80"><b>Dad, look!</b></font>
+
+126
+00:09:44,612 --> 00:09:45,811
+<font face="Comic Sans MS" color="#ffff80"><b>Toys?</b></font>
+
+127
+00:09:45,813 --> 00:09:47,646
+<font face="Comic Sans MS" color="#ffff80"><b>They're not toys.</b></font>
+
+128
+00:09:47,648 --> 00:09:49,115
+<font face="Comic Sans MS" color="#ffff80"><b>They're for
+my science experiments.</b></font>
+
+129
+00:09:49,117 --> 00:09:51,851
+<font face="Comic Sans MS" color="#ffff80"><b>Well, we're a circus,
+darlin', a circus.</b></font>
+
+130
+00:09:51,853 --> 00:09:54,587
+<font face="Comic Sans MS" color="#ffff80"><b>We need to be practical
+if we want to survive.</b></font>
+
+131
+00:09:54,589 --> 00:09:57,157
+<font face="Comic Sans MS" color="#ffff80"><b>You couldn't
+just take up one act?</b></font>
+
+132
+00:09:57,159 --> 00:09:59,592
+<font face="Comic Sans MS" color="#ffff80"><b>Tumblin' or tightrope?</b></font>
+
+133
+00:09:59,594 --> 00:10:01,495
+<font face="Comic Sans MS" color="#ffff80"><b>Maybe I don't need
+the world staring at me.</b></font>
+
+134
+00:10:02,797 --> 00:10:04,530
+<font face="Comic Sans MS" color="#ffff80"><b>Maybe I'm just not
+you and Mom.</b></font>
+
+135
+00:10:04,532 --> 00:10:05,833
+<font face="Comic Sans MS" color="#ffff80"><b>Well, who makes the rules
+in this family?</b></font>
+
+136
+00:10:06,467 --> 00:10:07,733
+<font face="Comic Sans MS" color="#ffff80"><b>Mom did.</b></font>
+
+137
+00:10:07,735 --> 00:10:08,934
+<font face="Comic Sans MS" color="#ffff80"><b>Yeah, well,
+I make them now.</b></font>
+
+138
+00:10:08,936 --> 00:10:11,036
+<font face="Comic Sans MS" color="#ffff80"><b>So just, uh...
+Go to your room!</b></font>
+
+139
+00:10:11,038 --> 00:10:12,473
+<font face="Comic Sans MS" color="#ffff80"><b>This is my room.</b></font>
+
+140
+00:10:13,808 --> 00:10:16,008
+<font face="Comic Sans MS" color="#ffff80"><b>This is all our rooms.</b></font>
+
+141
+00:10:16,010 --> 00:10:18,110
+<font face="Comic Sans MS" color="#ffff80"><b>See this?</b></font>
+
+142
+00:10:18,112 --> 00:10:19,912
+<font face="Comic Sans MS" color="#ffff80"><b>You know what this is?</b></font>
+
+143
+00:10:19,914 --> 00:10:21,482
+<font face="Comic Sans MS" color="#ffff80"><b>It's your inheritance.</b></font>
+
+144
+00:10:23,651 --> 00:10:25,150
+<font face="Comic Sans MS" color="#ffff80"><b>Dad!</b></font>
+
+145
+00:10:25,152 --> 00:10:28,587
+<font face="Comic Sans MS" color="#ffff80"><b>Don't worry,
+he's not going anywhere.</b></font>
+
+146
+00:10:28,589 --> 00:10:30,456
+<font face="Comic Sans MS" color="#ffff80"><b>He's stuck here.</b></font>
+
+147
+00:10:30,458 --> 00:10:32,026
+<font face="Comic Sans MS" color="#ffff80"><b>Like you and me.</b></font>
+
+148
+00:10:45,806 --> 00:10:47,475
+<font face="Comic Sans MS" color="#ffff80"><b>Come on, come on,
+you're missing it!</b></font>
+
+149
+00:10:49,710 --> 00:10:52,945
+<font face="Comic Sans MS" color="#ffff80"><b>Look, I can do it!
+I'm doing it, Milly!</b></font>
+
+150
+00:10:52,947 --> 00:10:54,813
+<font face="Comic Sans MS" color="#ffff80"><b>A new season!</b></font>
+
+151
+00:11:07,862 --> 00:11:10,095
+<font face="Comic Sans MS" color="#ffff80"><b>Let me in,
+you little hairball!</b></font>
+
+152
+00:11:17,872 --> 00:11:20,005
+<font face="Comic Sans MS" color="#ffff80"><b>Hey!</b></font>
+
+153
+00:11:20,007 --> 00:11:23,543
+<font face="Comic Sans MS" color="#ffff80"><b>Would somebody please
+let me in my own train?</b></font>
+
+154
+00:12:06,619 --> 00:12:08,019
+<font face="Comic Sans MS" color="#ffff80"><b>Dad, wake up! Let's go!</b></font>
+
+155
+00:12:08,021 --> 00:12:09,288
+<font face="Comic Sans MS" color="#ffff80"><b>The elephants need us!</b></font>
+
+156
+00:12:09,290 --> 00:12:10,755
+<font face="Comic Sans MS" color="#ffff80"><b>Good God, son,</b></font>
+
+157
+00:12:10,757 --> 00:12:12,224
+<font face="Comic Sans MS" color="#ffff80"><b>you're gonna make me
+miss the war.</b></font>
+
+158
+00:12:12,226 --> 00:12:14,559
+<font face="Comic Sans MS" color="#ffff80"><b>Gimme that.</b></font>
+
+159
+00:12:14,561 --> 00:12:15,860
+<font face="Comic Sans MS" color="#ffff80"><b>Go on, lead the way.</b></font>
+
+160
+00:12:15,862 --> 00:12:17,731
+<font face="Comic Sans MS" color="#ffff80"><b>Move it!</b></font>
+
+161
+00:12:20,301 --> 00:12:21,899
+<font face="Comic Sans MS" color="#ffff80"><b>Let's skedaddle, Mrs. Jumbo!</b></font>
+
+162
+00:12:21,901 --> 00:12:23,801
+<font face="Comic Sans MS" color="#ffff80"><b>Don't make me
+have to incentivize.</b></font>
+
+163
+00:12:23,803 --> 00:12:24,802
+<font face="Comic Sans MS" color="#ffff80"><b>Get her out of there, boys.</b></font>
+
+164
+00:12:27,173 --> 00:12:28,706
+<font face="Comic Sans MS" color="#ffff80"><b>Easy, Rufus.</b></font>
+
+165
+00:12:28,708 --> 00:12:30,275
+<font face="Comic Sans MS" color="#ffff80"><b>That's a lady in there.</b></font>
+
+166
+00:12:30,277 --> 00:12:32,910
+<font face="Comic Sans MS" color="#ffff80"><b>Well, well, our own Tom Mix
+ridin' in to the rescue.</b></font>
+
+167
+00:12:32,912 --> 00:12:35,146
+<font face="Comic Sans MS" color="#ffff80"><b>But he just ain't
+on the marquee no more.</b></font>
+
+168
+00:12:35,148 --> 00:12:36,881
+<font face="Comic Sans MS" color="#ffff80"><b>Time to see
+what he's been missing.</b></font>
+
+169
+00:12:36,883 --> 00:12:38,583
+<font face="Comic Sans MS" color="#ffff80"><b>Do you ever
+get that feeling?</b></font>
+
+170
+00:12:38,585 --> 00:12:40,018
+<font face="Comic Sans MS" color="#ffff80"><b>Like there's something
+you're missing?</b></font>
+
+171
+00:12:40,020 --> 00:12:42,253
+<font face="Comic Sans MS" color="#ffff80"><b>Imagine my surprise,
+you didn't enlist.</b></font>
+
+172
+00:12:42,255 --> 00:12:44,922
+<font face="Comic Sans MS" color="#ffff80"><b>- Weak ticker. Doc's advice.
+- Uh-huh.</b></font>
+
+173
+00:12:44,924 --> 00:12:47,825
+<font face="Comic Sans MS" color="#ffff80"><b>Dad? Something's wrong.</b></font>
+
+174
+00:12:47,827 --> 00:12:50,163
+<font face="Comic Sans MS" color="#ffff80"><b>She doesn't wanna leave.</b></font>
+
+175
+00:12:54,067 --> 00:12:55,166
+<font face="Comic Sans MS" color="#ffff80"><b>Come on!</b></font>
+
+176
+00:12:55,168 --> 00:12:56,736
+<font face="Comic Sans MS" color="#ffff80"><b>Let's get her outta there!</b></font>
+
+177
+00:12:59,639 --> 00:13:01,574
+<font face="Comic Sans MS" color="#ffff80"><b>- What are you doing?
+- Come on!</b></font>
+
+178
+00:13:02,809 --> 00:13:04,275
+<font face="Comic Sans MS" color="#ffff80"><b>Leave her alone!</b></font>
+
+179
+00:13:04,277 --> 00:13:05,877
+<font face="Comic Sans MS" color="#ffff80"><b>- Stop hurting her, please!
+- Leave her alone!</b></font>
+
+180
+00:13:17,891 --> 00:13:18,956
+<font face="Comic Sans MS" color="#ffff80"><b>Dad, look.</b></font>
+
+181
+00:13:18,958 --> 00:13:20,260
+<font face="Comic Sans MS" color="#ffff80"><b>What now?</b></font>
+
+182
+00:13:21,327 --> 00:13:22,661
+<font face="Comic Sans MS" color="#ffff80"><b>Move her!</b></font>
+
+183
+00:13:25,398 --> 00:13:28,698
+<font face="Comic Sans MS" color="#ffff80"><b>Whoa, we got
+a baby in here.</b></font>
+
+184
+00:13:34,407 --> 00:13:35,406
+<font face="Comic Sans MS" color="#ffff80"><b>She had a baby!</b></font>
+
+185
+00:13:35,408 --> 00:13:36,673
+<font face="Comic Sans MS" color="#ffff80"><b>- Baby!
+- Huh?</b></font>
+
+186
+00:13:36,675 --> 00:13:37,842
+<font face="Comic Sans MS" color="#ffff80"><b>Notify the press!</b></font>
+
+187
+00:13:37,844 --> 00:13:39,110
+<font face="Comic Sans MS" color="#ffff80"><b>"The Medici Brothers...</b></font>
+
+188
+00:13:39,112 --> 00:13:41,179
+<font face="Comic Sans MS" color="#ffff80"><b>"proudly present
+America's newest,</b></font>
+
+189
+00:13:41,181 --> 00:13:44,117
+<font face="Comic Sans MS" color="#ffff80"><b>"precious bundle of joy!"</b></font>
+
+190
+00:13:45,151 --> 00:13:46,286
+<font face="Comic Sans MS" color="#ffff80"><b>Look at that.</b></font>
+
+191
+00:13:47,921 --> 00:13:48,854
+<font face="Comic Sans MS" color="#ffff80"><b>It's okay now.</b></font>
+
+192
+00:13:50,256 --> 00:13:52,092
+<font face="Comic Sans MS" color="#ffff80"><b>Don't be scared.</b></font>
+
+193
+00:13:54,660 --> 00:13:58,164
+<font face="Comic Sans MS" color="#ffff80"><b>Don't be scared now,
+your momma's right outside.</b></font>
+
+194
+00:14:29,295 --> 00:14:31,161
+<font face="Comic Sans MS" color="#ffff80"><b>Baby! We got a baby!</b></font>
+
+195
+00:14:31,163 --> 00:14:32,764
+<font face="Comic Sans MS" color="#ffff80"><b>We got a baby!</b></font>
+
+196
+00:14:38,203 --> 00:14:39,437
+<font face="Comic Sans MS" color="#ffff80"><b>What is that?</b></font>
+
+197
+00:14:39,439 --> 00:14:40,739
+<font face="Comic Sans MS" color="#ffff80"><b>Baby Jumbo.</b></font>
+
+198
+00:14:42,141 --> 00:14:45,041
+<font face="Comic Sans MS" color="#ffff80"><b>I already got fake freaks
+in the freak show!</b></font>
+
+199
+00:14:45,043 --> 00:14:47,277
+<font face="Comic Sans MS" color="#ffff80"><b>I don't need a real one
+in the center ring!</b></font>
+
+200
+00:14:47,279 --> 00:14:50,247
+<font face="Comic Sans MS" color="#ffff80"><b>Rongo!
+We've been swindled!</b></font>
+
+201
+00:14:50,249 --> 00:14:53,216
+<font face="Comic Sans MS" color="#ffff80"><b>Gone and
+bought yourself a baby monster.</b></font>
+
+202
+00:14:53,218 --> 00:14:54,253
+<font face="Comic Sans MS" color="#ffff80"><b>Think he can hear me?</b></font>
+
+203
+00:14:56,021 --> 00:14:57,287
+<font face="Comic Sans MS" color="#ffff80"><b>Boo!</b></font>
+
+204
+00:15:15,174 --> 00:15:18,008
+<font face="Comic Sans MS" color="#ffff80"><b>Rongo!
+Telegram to Brugelbecker.</b></font>
+
+205
+00:15:18,010 --> 00:15:19,976
+<font face="Comic Sans MS" color="#ffff80"><b>"We have been bilked
+with damaged goods.</b></font>
+
+206
+00:15:19,978 --> 00:15:22,312
+<font face="Comic Sans MS" color="#ffff80"><b>"This is an aberration,
+travestation...</b></font>
+
+207
+00:15:22,314 --> 00:15:25,015
+<font face="Comic Sans MS" color="#ffff80"><b>"and I demand my money back."</b></font>
+
+208
+00:15:25,017 --> 00:15:27,851
+<font face="Comic Sans MS" color="#ffff80"><b>But whatever you do,
+do not call the papers.</b></font>
+
+209
+00:15:27,853 --> 00:15:30,287
+<font face="Comic Sans MS" color="#ffff80"><b>We are not advertising
+this baby.</b></font>
+
+210
+00:15:32,057 --> 00:15:33,091
+<font face="Comic Sans MS" color="#ffff80"><b>Tell me you didn't do it.</b></font>
+
+211
+00:15:33,992 --> 00:15:35,992
+<font face="Comic Sans MS" color="#ffff80"><b>You did it?</b></font>
+
+212
+00:15:35,994 --> 00:15:38,128
+<font face="Comic Sans MS" color="#ffff80"><b>Never do anything I tell ya</b></font>
+
+213
+00:15:38,130 --> 00:15:40,098
+<font face="Comic Sans MS" color="#ffff80"><b>without checking
+with me first!</b></font>
+
+214
+00:15:44,970 --> 00:15:47,470
+<font face="Comic Sans MS" color="#ffff80"><b>Why me? Why me?</b></font>
+
+215
+00:15:47,472 --> 00:15:49,772
+<font face="Comic Sans MS" color="#ffff80"><b>A face
+only a mother could love.</b></font>
+
+216
+00:15:49,774 --> 00:15:50,941
+<font face="Comic Sans MS" color="#ffff80"><b>Sir?</b></font>
+
+217
+00:15:50,943 --> 00:15:53,243
+<font face="Comic Sans MS" color="#ffff80"><b>Many of us
+find you handsome.</b></font>
+
+218
+00:15:53,245 --> 00:15:55,080
+<font face="Comic Sans MS" color="#ffff80"><b>I was talking
+about the elephant!</b></font>
+
+219
+00:15:59,985 --> 00:16:02,387
+<font face="Comic Sans MS" color="#ffff80"><b>Look, she's drawing him
+a bath.</b></font>
+
+220
+00:16:08,260 --> 00:16:10,126
+<font face="Comic Sans MS" color="#ffff80"><b>Need a vet to come
+to look at him, Max.</b></font>
+
+221
+00:16:10,128 --> 00:16:11,927
+<font face="Comic Sans MS" color="#ffff80"><b>No, no witnesses!</b></font>
+
+222
+00:16:11,929 --> 00:16:13,829
+<font face="Comic Sans MS" color="#ffff80"><b>We are going to be in Joplin
+for two weeks.</b></font>
+
+223
+00:16:13,831 --> 00:16:15,432
+<font face="Comic Sans MS" color="#ffff80"><b>We promised them
+a beautiful baby!</b></font>
+
+224
+00:16:15,434 --> 00:16:17,900
+<font face="Comic Sans MS" color="#ffff80"><b>You have until tomorrow
+night to fix that!</b></font>
+
+225
+00:16:17,902 --> 00:16:19,436
+<font face="Comic Sans MS" color="#ffff80"><b>- Me?
+- Yes, you!</b></font>
+
+226
+00:16:19,438 --> 00:16:20,803
+<font face="Comic Sans MS" color="#ffff80"><b>This is my problem?</b></font>
+
+227
+00:16:20,805 --> 00:16:22,105
+<font face="Comic Sans MS" color="#ffff80"><b>Yes.
+You tend the elephants.</b></font>
+
+228
+00:16:22,107 --> 00:16:23,975
+<font face="Comic Sans MS" color="#ffff80"><b>Make those ears disappear!</b></font>
+
+229
+00:16:32,217 --> 00:16:33,784
+<font face="Comic Sans MS" color="#ffff80"><b>Don't look at me.</b></font>
+
+230
+00:16:42,494 --> 00:16:44,329
+<font face="Comic Sans MS" color="#ffff80"><b>Look at him, those
+giant ears weigh him down.</b></font>
+
+231
+00:16:47,566 --> 00:16:49,399
+<font face="Comic Sans MS" color="#ffff80"><b>Hi, Baby Jumbo.</b></font>
+
+232
+00:16:49,401 --> 00:16:51,267
+<font face="Comic Sans MS" color="#ffff80"><b>Welcome to the circus.</b></font>
+
+233
+00:16:51,269 --> 00:16:54,205
+<font face="Comic Sans MS" color="#ffff80"><b>We're all family here.
+No matter how small.</b></font>
+
+234
+00:16:55,273 --> 00:16:57,840
+<font face="Comic Sans MS" color="#ffff80"><b>Aren't elephants
+afraid of mice?</b></font>
+
+235
+00:16:57,842 --> 00:17:01,143
+<font face="Comic Sans MS" color="#ffff80"><b>Says who?
+That's why we experiment.</b></font>
+
+236
+00:17:01,145 --> 00:17:02,344
+<font face="Comic Sans MS" color="#ffff80"><b>Someone needs to
+keep him company.</b></font>
+
+237
+00:17:02,346 --> 00:17:03,548
+<font face="Comic Sans MS" color="#ffff80"><b>when he's not with his momma.</b></font>
+
+238
+00:17:15,426 --> 00:17:17,126
+<font face="Comic Sans MS" color="#ffff80"><b>Look. Give him one.</b></font>
+
+239
+00:17:17,128 --> 00:17:21,297
+<font face="Comic Sans MS" color="#ffff80"><b>If he can lift his ears
+out of the way.</b></font>
+
+240
+00:17:21,299 --> 00:17:23,465
+<font face="Comic Sans MS" color="#ffff80"><b>No. You have to blow
+your ears out of the way.</b></font>
+
+241
+00:17:23,467 --> 00:17:25,336
+<font face="Comic Sans MS" color="#ffff80"><b>Like this.</b></font>
+
+242
+00:17:29,373 --> 00:17:30,939
+<font face="Comic Sans MS" color="#ffff80"><b>Good luck with that.</b></font>
+
+243
+00:17:30,941 --> 00:17:32,975
+<font face="Comic Sans MS" color="#ffff80"><b>Maybe you can teach him
+to juggle, too.</b></font>
+
+244
+00:17:32,977 --> 00:17:34,576
+<font face="Comic Sans MS" color="#ffff80"><b>Baby Jumbo, look at me.</b></font>
+
+245
+00:17:34,578 --> 00:17:35,911
+<font face="Comic Sans MS" color="#ffff80"><b>Do what I do.</b></font>
+
+246
+00:17:35,913 --> 00:17:37,148
+<font face="Comic Sans MS" color="#ffff80"><b>Blow.</b></font>
+
+247
+00:17:44,588 --> 00:17:47,956
+<font face="Comic Sans MS" color="#ffff80"><b>No, not the feather.
+Your ears. Blow!</b></font>
+
+248
+00:17:47,958 --> 00:17:49,927
+<font face="Comic Sans MS" color="#ffff80"><b>He thinks it's a game.</b></font>
+
+249
+00:17:51,228 --> 00:17:52,995
+<font face="Comic Sans MS" color="#ffff80"><b>- Oh, Max, come here.
+- What?</b></font>
+
+250
+00:17:52,997 --> 00:17:54,930
+<font face="Comic Sans MS" color="#ffff80"><b>Watch this.</b></font>
+
+251
+00:17:54,932 --> 00:17:58,100
+<font face="Comic Sans MS" color="#ffff80"><b>I ride out, I do some jumps,
+then all of a sudden...</b></font>
+
+252
+00:17:58,102 --> 00:18:00,102
+<font face="Comic Sans MS" color="#ffff80"><b>stampede!</b></font>
+
+253
+00:18:00,104 --> 00:18:01,170
+<font face="Comic Sans MS" color="#ffff80"><b>Send 'em!</b></font>
+
+254
+00:18:02,973 --> 00:18:04,175
+<font face="Comic Sans MS" color="#ffff80"><b>Get out of the way, Max!</b></font>
+
+255
+00:18:07,411 --> 00:18:09,547
+<font face="Comic Sans MS" color="#ffff80"><b>I'm, uh, still working out
+the timing.</b></font>
+
+256
+00:18:15,519 --> 00:18:17,154
+<font face="Comic Sans MS" color="#ffff80"><b>Let me have a turn.</b></font>
+
+257
+00:18:31,635 --> 00:18:33,268
+<font face="Comic Sans MS" color="#ffff80"><b>Meanwhile, for when you</b></font>
+
+258
+00:18:33,270 --> 00:18:34,470
+<font face="Comic Sans MS" color="#ffff80"><b>- lead out the elephants...
+- Uh-huh.</b></font>
+
+259
+00:18:34,472 --> 00:18:35,571
+<font face="Comic Sans MS" color="#ffff80"><b>I had the
+costume departments</b></font>
+
+260
+00:18:35,573 --> 00:18:36,672
+<font face="Comic Sans MS" color="#ffff80"><b>make you up
+a little something.</b></font>
+
+261
+00:18:36,674 --> 00:18:37,575
+<font face="Comic Sans MS" color="#ffff80"><b>Okay.</b></font>
+
+262
+00:18:39,276 --> 00:18:40,609
+<font face="Comic Sans MS" color="#ffff80"><b>What in gosh...</b></font>
+
+263
+00:18:40,611 --> 00:18:42,578
+<font face="Comic Sans MS" color="#ffff80"><b>You really broke the bank
+with this, Max.</b></font>
+
+264
+00:18:42,580 --> 00:18:44,212
+<font face="Comic Sans MS" color="#ffff80"><b>A lot of kids
+come to the show.</b></font>
+
+265
+00:18:44,214 --> 00:18:46,013
+<font face="Comic Sans MS" color="#ffff80"><b>You don't want me to
+scare anyone, I get it.</b></font>
+
+266
+00:18:46,015 --> 00:18:47,148
+<font face="Comic Sans MS" color="#ffff80"><b>Dad, Dad!</b></font>
+
+267
+00:18:47,150 --> 00:18:48,550
+<font face="Comic Sans MS" color="#ffff80"><b>It's Baby Jumbo.
+Come see.</b></font>
+
+268
+00:18:48,552 --> 00:18:50,519
+<font face="Comic Sans MS" color="#ffff80"><b>He jumped in the air.
+With his ears.</b></font>
+
+269
+00:18:50,521 --> 00:18:52,186
+<font face="Comic Sans MS" color="#ffff80"><b>Guys,
+I said leave him be.</b></font>
+
+270
+00:18:52,188 --> 00:18:53,322
+<font face="Comic Sans MS" color="#ffff80"><b>But he was this
+far off the ground!</b></font>
+
+271
+00:18:53,324 --> 00:18:54,656
+<font face="Comic Sans MS" color="#ffff80"><b>Yeah, I bet he was.</b></font>
+
+272
+00:18:54,658 --> 00:18:56,525
+<font face="Comic Sans MS" color="#ffff80"><b>He'll be tripping all over
+with ears like that.</b></font>
+
+273
+00:18:56,527 --> 00:18:58,427
+<font face="Comic Sans MS" color="#ffff80"><b>Dad, really.
+We tried an experiment.</b></font>
+
+274
+00:18:58,429 --> 00:19:00,130
+<font face="Comic Sans MS" color="#ffff80"><b>Just leave the poor guy alone.</b></font>
+
+275
+00:19:04,468 --> 00:19:07,368
+<font face="Comic Sans MS" color="#ffff80"><b>First rule of science,
+you have to have interest.</b></font>
+
+276
+00:19:07,370 --> 00:19:09,673
+<font face="Comic Sans MS" color="#ffff80"><b>Otherwise,
+you don't deserve to know.</b></font>
+
+277
+00:19:11,709 --> 00:19:14,976
+<font face="Comic Sans MS" color="#ffff80"><b>It's been a rough year
+for both of them.</b></font>
+
+278
+00:19:14,978 --> 00:19:16,580
+<font face="Comic Sans MS" color="#ffff80"><b>Annie knew
+how to talk to 'em.</b></font>
+
+279
+00:19:21,985 --> 00:19:23,518
+<font face="Comic Sans MS" color="#ffff80"><b><i>Ladies and gentlemen,</i></b></font>
+
+280
+00:19:23,520 --> 00:19:26,087
+<font face="Comic Sans MS" color="#ffff80"><b><i>boys and girls,
+step right up.</i></b></font>
+
+281
+00:19:26,089 --> 00:19:27,221
+<font face="Comic Sans MS" color="#ffff80"><b><i>Hurry, hurry.</i></b></font>
+
+282
+00:19:27,223 --> 00:19:28,224
+<font face="Comic Sans MS" color="#ffff80"><b><i>Come see the circus today.</i></b></font>
+
+283
+00:19:32,663 --> 00:19:37,398
+<font face="Comic Sans MS" color="#ffff80"><b>"To be or not to be...</b></font>
+
+284
+00:19:37,400 --> 00:19:39,634
+<font face="Comic Sans MS" color="#ffff80"><b>"that is the question.</b></font>
+
+285
+00:19:39,636 --> 00:19:41,569
+<font face="Comic Sans MS" color="#ffff80"><b>"Whether 'tis
+nobler in the mind</b></font>
+
+286
+00:19:41,571 --> 00:19:43,506
+<font face="Comic Sans MS" color="#ffff80"><b>"to suffer the slings and
+arrows of outrageous..."</b></font>
+
+287
+00:20:01,624 --> 00:20:02,723
+<font face="Comic Sans MS" color="#ffff80"><b>That ain't no snake.</b></font>
+
+288
+00:20:02,725 --> 00:20:04,525
+<font face="Comic Sans MS" color="#ffff80"><b>Heck, I could do it.</b></font>
+
+289
+00:20:04,527 --> 00:20:06,160
+<font face="Comic Sans MS" color="#ffff80"><b>As you wish.</b></font>
+
+290
+00:20:06,162 --> 00:20:07,730
+<font face="Comic Sans MS" color="#ffff80"><b>Get out of here!</b></font>
+
+291
+00:20:09,165 --> 00:20:10,700
+<font face="Comic Sans MS" color="#ffff80"><b>Rongo, let's go!</b></font>
+
+292
+00:20:14,170 --> 00:20:17,006
+<font face="Comic Sans MS" color="#ffff80"><b>Hey, get away
+from the baby elephant!</b></font>
+
+293
+00:20:39,529 --> 00:20:42,697
+<font face="Comic Sans MS" color="#ffff80"><b>Welcome, Joplin, Missouri!</b></font>
+
+294
+00:20:42,699 --> 00:20:44,799
+<font face="Comic Sans MS" color="#ffff80"><b>Ladies and gentlemen...</b></font>
+
+295
+00:20:44,801 --> 00:20:47,133
+<font face="Comic Sans MS" color="#ffff80"><b>I am
+your Master of Ceremonies,</b></font>
+
+296
+00:20:47,135 --> 00:20:50,103
+<font face="Comic Sans MS" color="#ffff80"><b>Maximilian Medici.</b></font>
+
+297
+00:20:51,274 --> 00:20:54,408
+<font face="Comic Sans MS" color="#ffff80"><b>And now, I give to you...</b></font>
+
+298
+00:20:54,410 --> 00:20:56,777
+<font face="Comic Sans MS" color="#ffff80"><b>the Medici Brothers' circus.</b></font>
+
+299
+00:21:05,254 --> 00:21:06,487
+<font face="Comic Sans MS" color="#ffff80"><b>Okay.</b></font>
+
+300
+00:21:06,489 --> 00:21:08,288
+<font face="Comic Sans MS" color="#ffff80"><b>Okay, okay,
+no one's gonna hurt him.</b></font>
+
+301
+00:21:08,290 --> 00:21:11,059
+<font face="Comic Sans MS" color="#ffff80"><b>Okay, little guy,
+let's put on a show.</b></font>
+
+302
+00:21:37,452 --> 00:21:41,321
+<font face="Comic Sans MS" color="#ffff80"><b>Hey, ain't that Holt Farrier,
+the Stallion Star?</b></font>
+
+303
+00:21:41,323 --> 00:21:44,725
+<font face="Comic Sans MS" color="#ffff80"><b>Hey!
+Ain't you Holt Farrier?</b></font>
+
+304
+00:21:44,727 --> 00:21:47,229
+<font face="Comic Sans MS" color="#ffff80"><b>Nah, he died
+in the war. So sad.</b></font>
+
+305
+00:21:52,434 --> 00:21:54,136
+<font face="Comic Sans MS" color="#ffff80"><b>Aw!</b></font>
+
+306
+00:21:56,538 --> 00:21:58,507
+<font face="Comic Sans MS" color="#ffff80"><b>Aw!</b></font>
+
+307
+00:22:02,210 --> 00:22:03,512
+<font face="Comic Sans MS" color="#ffff80"><b>What's he doing?</b></font>
+
+308
+00:22:10,218 --> 00:22:12,154
+<font face="Comic Sans MS" color="#ffff80"><b>He's reaching
+for the feathers.</b></font>
+
+309
+00:22:20,629 --> 00:22:22,464
+<font face="Comic Sans MS" color="#ffff80"><b>Coat, coat, coat, coat!</b></font>
+
+310
+00:22:38,914 --> 00:22:40,614
+<font face="Comic Sans MS" color="#ffff80"><b>Ooh...</b></font>
+
+311
+00:22:40,616 --> 00:22:43,283
+<font face="Comic Sans MS" color="#ffff80"><b>What'd you do to that thing?
+That ain't a real elephant.</b></font>
+
+312
+00:22:43,285 --> 00:22:44,851
+<font face="Comic Sans MS" color="#ffff80"><b>Those ears are fake!</b></font>
+
+313
+00:22:44,853 --> 00:22:46,753
+<font face="Comic Sans MS" color="#ffff80"><b>Look! Look at the sign!</b></font>
+
+314
+00:22:46,755 --> 00:22:48,557
+<font face="Comic Sans MS" color="#ffff80"><b>"Dumbo!"</b></font>
+
+315
+00:22:55,330 --> 00:22:56,696
+<font face="Comic Sans MS" color="#ffff80"><b>Uh-oh.</b></font>
+
+316
+00:22:56,698 --> 00:22:58,865
+<font face="Comic Sans MS" color="#ffff80"><b>Whoa, calm down, now.</b></font>
+
+317
+00:23:03,270 --> 00:23:04,671
+<font face="Comic Sans MS" color="#ffff80"><b>He's a fake!</b></font>
+
+318
+00:23:04,673 --> 00:23:05,939
+<font face="Comic Sans MS" color="#ffff80"><b>Yeah, he's a fake!</b></font>
+
+319
+00:23:05,941 --> 00:23:07,607
+<font face="Comic Sans MS" color="#ffff80"><b>Shut up!</b></font>
+
+320
+00:23:07,609 --> 00:23:08,744
+<font face="Comic Sans MS" color="#ffff80"><b>You're scaring the elephants!</b></font>
+
+321
+00:23:10,746 --> 00:23:12,545
+<font face="Comic Sans MS" color="#ffff80"><b>Take it easy now.
+Calm down.</b></font>
+
+322
+00:23:12,547 --> 00:23:14,547
+<font face="Comic Sans MS" color="#ffff80"><b>Dumbo,
+Dumbo, fake, fake, fake!</b></font>
+
+323
+00:23:16,518 --> 00:23:17,917
+<font face="Comic Sans MS" color="#ffff80"><b>All right, sit down.</b></font>
+
+324
+00:23:17,919 --> 00:23:18,685
+<font face="Comic Sans MS" color="#ffff80"><b>Dumbo, Dumbo,
+fake, fake, fake!</b></font>
+
+325
+00:23:18,687 --> 00:23:19,721
+<font face="Comic Sans MS" color="#ffff80"><b>I said sit down!</b></font>
+
+326
+00:23:20,756 --> 00:23:21,890
+<font face="Comic Sans MS" color="#ffff80"><b>It's okay, little fella.</b></font>
+
+327
+00:23:23,625 --> 00:23:24,726
+<font face="Comic Sans MS" color="#ffff80"><b>Fake!</b></font>
+
+328
+00:23:26,595 --> 00:23:28,460
+<font face="Comic Sans MS" color="#ffff80"><b>Rongo! Music!</b></font>
+
+329
+00:23:28,462 --> 00:23:30,563
+<font face="Comic Sans MS" color="#ffff80"><b>Happiness, joy!</b></font>
+
+330
+00:23:37,973 --> 00:23:41,540
+<font face="Comic Sans MS" color="#ffff80"><b>Hear 'em making
+fun of your ugly baby?</b></font>
+
+331
+00:23:41,542 --> 00:23:43,444
+<font face="Comic Sans MS" color="#ffff80"><b>Who's gonna help him now?</b></font>
+
+332
+00:23:45,747 --> 00:23:49,248
+<font face="Comic Sans MS" color="#ffff80"><b>Holt, get those ears
+off the stage!</b></font>
+
+333
+00:23:52,520 --> 00:23:53,354
+<font face="Comic Sans MS" color="#ffff80"><b>Whoa!</b></font>
+
+334
+00:23:57,926 --> 00:23:59,859
+<font face="Comic Sans MS" color="#ffff80"><b>Okay, all right.</b></font>
+
+335
+00:23:59,861 --> 00:24:01,260
+<font face="Comic Sans MS" color="#ffff80"><b>Okay, nobody's gonna
+hurt your baby.</b></font>
+
+336
+00:24:01,262 --> 00:24:03,364
+<font face="Comic Sans MS" color="#ffff80"><b>Just calm down.</b></font>
+
+337
+00:24:03,965 --> 00:24:06,331
+<font face="Comic Sans MS" color="#ffff80"><b>Okay. Attagirl.</b></font>
+
+338
+00:24:06,333 --> 00:24:08,202
+<font face="Comic Sans MS" color="#ffff80"><b>We're here to protect him.
+Same as you.</b></font>
+
+339
+00:24:09,470 --> 00:24:11,470
+<font face="Comic Sans MS" color="#ffff80"><b>Attagirl.</b></font>
+
+340
+00:24:11,472 --> 00:24:12,671
+<font face="Comic Sans MS" color="#ffff80"><b>Nice and easy.</b></font>
+
+341
+00:24:16,811 --> 00:24:18,679
+<font face="Comic Sans MS" color="#ffff80"><b>Shh. Okay, nobody's gonna
+hurt your baby.</b></font>
+
+342
+00:24:20,848 --> 00:24:22,383
+<font face="Comic Sans MS" color="#ffff80"><b>Rufus, no!</b></font>
+
+343
+00:24:24,052 --> 00:24:25,851
+<font face="Comic Sans MS" color="#ffff80"><b>- Rufus, stop!
+- Mad elephant!</b></font>
+
+344
+00:24:25,853 --> 00:24:26,919
+<font face="Comic Sans MS" color="#ffff80"><b>Get back!</b></font>
+
+345
+00:24:33,327 --> 00:24:34,960
+<font face="Comic Sans MS" color="#ffff80"><b>Max, get the kids out of here!</b></font>
+
+346
+00:24:34,962 --> 00:24:36,829
+<font face="Comic Sans MS" color="#ffff80"><b>Everybody, out!
+Get to safety.</b></font>
+
+347
+00:24:36,831 --> 00:24:38,365
+<font face="Comic Sans MS" color="#ffff80"><b>Careful, careful.</b></font>
+
+348
+00:24:45,539 --> 00:24:46,805
+<font face="Comic Sans MS" color="#ffff80"><b>Kids?</b></font>
+
+349
+00:24:46,807 --> 00:24:48,340
+<font face="Comic Sans MS" color="#ffff80"><b>Go, go, go!</b></font>
+
+350
+00:24:48,342 --> 00:24:49,441
+<font face="Comic Sans MS" color="#ffff80"><b>Quick, quick, quick.
+Go, go, go.</b></font>
+
+351
+00:24:49,443 --> 00:24:50,478
+<font face="Comic Sans MS" color="#ffff80"><b>Come on. This way, come on.</b></font>
+
+352
+00:24:52,046 --> 00:24:54,849
+<font face="Comic Sans MS" color="#ffff80"><b>How do you like your job now,
+cowboy?</b></font>
+
+353
+00:24:57,651 --> 00:24:58,519
+<font face="Comic Sans MS" color="#ffff80"><b>Uh-oh.</b></font>
+
+354
+00:25:02,523 --> 00:25:04,358
+<font face="Comic Sans MS" color="#ffff80"><b>Milly, Joe! Come on!</b></font>
+
+355
+00:25:06,093 --> 00:25:07,561
+<font face="Comic Sans MS" color="#ffff80"><b>Let's go!
+Come on!</b></font>
+
+356
+00:25:41,361 --> 00:25:42,694
+<font face="Comic Sans MS" color="#ffff80"><b>And I wanna
+just emphasize,</b></font>
+
+357
+00:25:42,696 --> 00:25:44,362
+<font face="Comic Sans MS" color="#ffff80"><b>we did everything right.</b></font>
+
+358
+00:25:44,364 --> 00:25:46,364
+<font face="Comic Sans MS" color="#ffff80"><b>What it is, the tent
+just absolutely fell down.</b></font>
+
+359
+00:25:46,366 --> 00:25:47,766
+<font face="Comic Sans MS" color="#ffff80"><b>It just collapsed.</b></font>
+
+360
+00:25:47,768 --> 00:25:49,670
+<font face="Comic Sans MS" color="#ffff80"><b>And we had no way of knowing
+what was gonna happen.</b></font>
+
+361
+00:27:56,663 --> 00:27:59,230
+<font face="Comic Sans MS" color="#ffff80"><b>Brugelbecker,
+I have a man dead,</b></font>
+
+362
+00:27:59,232 --> 00:28:00,597
+<font face="Comic Sans MS" color="#ffff80"><b>do you understand?</b></font>
+
+363
+00:28:00,599 --> 00:28:02,233
+<font face="Comic Sans MS" color="#ffff80"><b>This is what they're reading</b></font>
+
+364
+00:28:02,235 --> 00:28:03,801
+<font face="Comic Sans MS" color="#ffff80"><b>from the Great Lakes
+to the Gulf!</b></font>
+
+365
+00:28:03,803 --> 00:28:05,870
+<font face="Comic Sans MS" color="#ffff80"><b>You have
+a moral responsibility</b></font>
+
+366
+00:28:05,872 --> 00:28:07,872
+<font face="Comic Sans MS" color="#ffff80"><b>to buy
+your killer elephant back.</b></font>
+
+367
+00:28:07,874 --> 00:28:10,041
+<font face="Comic Sans MS" color="#ffff80"><b>What about the baby?</b></font>
+
+368
+00:28:10,043 --> 00:28:13,110
+<font face="Comic Sans MS" color="#ffff80"><b>Well, at least
+he got a few laughs.</b></font>
+
+369
+00:28:13,112 --> 00:28:14,711
+<font face="Comic Sans MS" color="#ffff80"><b>I'll put him
+in the clown act,</b></font>
+
+370
+00:28:14,713 --> 00:28:16,883
+<font face="Comic Sans MS" color="#ffff80"><b>see if I can
+salvage something.</b></font>
+
+371
+00:28:19,052 --> 00:28:20,719
+<font face="Comic Sans MS" color="#ffff80"><b>I'll buy her back half price.</b></font>
+
+372
+00:28:22,288 --> 00:28:24,956
+<font face="Comic Sans MS" color="#ffff80"><b>You will buy her back
+full price.</b></font>
+
+373
+00:28:24,958 --> 00:28:26,190
+<font face="Comic Sans MS" color="#ffff80"><b>Quarter price.</b></font>
+
+374
+00:28:26,192 --> 00:28:28,725
+<font face="Comic Sans MS" color="#ffff80"><b>Half price it is!</b></font>
+
+375
+00:28:34,133 --> 00:28:35,500
+<font face="Comic Sans MS" color="#ffff80"><b>Up!</b></font>
+
+376
+00:28:38,837 --> 00:28:40,670
+<font face="Comic Sans MS" color="#ffff80"><b>What's happening?
+Where are they taking her?</b></font>
+
+377
+00:28:40,672 --> 00:28:41,871
+<font face="Comic Sans MS" color="#ffff80"><b>Away.
+Back to your tent now.</b></font>
+
+378
+00:28:41,873 --> 00:28:43,673
+<font face="Comic Sans MS" color="#ffff80"><b>But she's his mom!</b></font>
+
+379
+00:28:43,675 --> 00:28:45,642
+<font face="Comic Sans MS" color="#ffff80"><b>Dad, please.
+Stop them.</b></font>
+
+380
+00:28:45,644 --> 00:28:46,910
+<font face="Comic Sans MS" color="#ffff80"><b>Please!</b></font>
+
+381
+00:28:46,912 --> 00:28:48,312
+<font face="Comic Sans MS" color="#ffff80"><b>Do something.</b></font>
+
+382
+00:28:48,314 --> 00:28:49,982
+<font face="Comic Sans MS" color="#ffff80"><b>Mom would have
+done something.</b></font>
+
+383
+00:28:50,849 --> 00:28:52,517
+<font face="Comic Sans MS" color="#ffff80"><b>Momma's not here.</b></font>
+
+384
+00:28:57,589 --> 00:29:00,957
+<font face="Comic Sans MS" color="#ffff80"><b>Okay, little fella.
+Okay. Come on.</b></font>
+
+385
+00:29:03,229 --> 00:29:05,829
+<font face="Comic Sans MS" color="#ffff80"><b>I know, I do.</b></font>
+
+386
+00:29:05,831 --> 00:29:10,066
+<font face="Comic Sans MS" color="#ffff80"><b>Beautiful creature,
+we'll take care of your son.</b></font>
+
+387
+00:30:31,715 --> 00:30:33,018
+<font face="Comic Sans MS" color="#ffff80"><b>Darlin', it's late.</b></font>
+
+388
+00:30:34,252 --> 00:30:35,886
+<font face="Comic Sans MS" color="#ffff80"><b>Go on now.</b></font>
+
+389
+00:31:28,772 --> 00:31:32,808
+<font face="Comic Sans MS" color="#ffff80"><b>I know.
+I can't sleep, either.</b></font>
+
+390
+00:31:32,810 --> 00:31:35,177
+<font face="Comic Sans MS" color="#ffff80"><b>My momma told me
+there'd be times</b></font>
+
+391
+00:31:35,179 --> 00:31:39,348
+<font face="Comic Sans MS" color="#ffff80"><b>when my life seemed
+locked behind a door.</b></font>
+
+392
+00:31:39,350 --> 00:31:45,754
+<font face="Comic Sans MS" color="#ffff80"><b>So, she gave me this key,
+that her momma gave her.</b></font>
+
+393
+00:31:45,756 --> 00:31:49,258
+<font face="Comic Sans MS" color="#ffff80"><b>And said
+whenever I have that feeling,</b></font>
+
+394
+00:31:49,260 --> 00:31:51,326
+<font face="Comic Sans MS" color="#ffff80"><b>imagine that door...</b></font>
+
+395
+00:31:51,328 --> 00:31:52,429
+<font face="Comic Sans MS" color="#ffff80"><b>and just turn the key.</b></font>
+
+396
+00:31:55,399 --> 00:31:57,301
+<font face="Comic Sans MS" color="#ffff80"><b>So, I keep trying.</b></font>
+
+397
+00:32:05,309 --> 00:32:07,509
+<font face="Comic Sans MS" color="#ffff80"><b>Not supposed to
+be in here alone.</b></font>
+
+398
+00:32:07,511 --> 00:32:09,478
+<font face="Comic Sans MS" color="#ffff80"><b>I'm not. You're here.</b></font>
+
+399
+00:32:09,480 --> 00:32:11,046
+<font face="Comic Sans MS" color="#ffff80"><b>What's that?</b></font>
+
+400
+00:32:11,048 --> 00:32:13,515
+<font face="Comic Sans MS" color="#ffff80"><b>I just thought
+he might be hungry.</b></font>
+
+401
+00:32:13,517 --> 00:32:15,119
+<font face="Comic Sans MS" color="#ffff80"><b>He's sad.</b></font>
+
+402
+00:32:16,287 --> 00:32:17,819
+<font face="Comic Sans MS" color="#ffff80"><b>You don't eat
+when you're sad.</b></font>
+
+403
+00:32:17,821 --> 00:32:19,156
+<font face="Comic Sans MS" color="#ffff80"><b>The mermaid does.</b></font>
+
+404
+00:32:21,058 --> 00:32:22,858
+<font face="Comic Sans MS" color="#ffff80"><b>Come on.</b></font>
+
+405
+00:32:22,860 --> 00:32:25,294
+<font face="Comic Sans MS" color="#ffff80"><b>Have one, Dumbo.</b></font>
+
+406
+00:32:25,296 --> 00:32:27,296
+<font face="Comic Sans MS" color="#ffff80"><b>We're calling him Dumbo now?</b></font>
+
+407
+00:32:27,298 --> 00:32:29,431
+<font face="Comic Sans MS" color="#ffff80"><b>If we call him
+Jumbo Junior...</b></font>
+
+408
+00:32:29,433 --> 00:32:32,002
+<font face="Comic Sans MS" color="#ffff80"><b>it might make him
+miss his mom.</b></font>
+
+409
+00:32:37,341 --> 00:32:41,410
+<font face="Comic Sans MS" color="#ffff80"><b>Here you go... Dumbo.</b></font>
+
+410
+00:32:41,412 --> 00:32:44,213
+<font face="Comic Sans MS" color="#ffff80"><b>Come on,
+and flap those ears again.</b></font>
+
+411
+00:32:44,215 --> 00:32:46,317
+<font face="Comic Sans MS" color="#ffff80"><b>To show us
+we didn't imagine it.</b></font>
+
+412
+00:32:50,853 --> 00:32:53,990
+<font face="Comic Sans MS" color="#ffff80"><b>Your momma, she didn't
+mean to hurt anyone.</b></font>
+
+413
+00:32:54,991 --> 00:32:57,125
+<font face="Comic Sans MS" color="#ffff80"><b>She was just protecting you.</b></font>
+
+414
+00:32:57,127 --> 00:32:59,762
+<font face="Comic Sans MS" color="#ffff80"><b>And we think
+your ears are great.</b></font>
+
+415
+00:33:04,401 --> 00:33:07,369
+<font face="Comic Sans MS" color="#ffff80"><b>Maybe he wants to be alone.
+Like Dad.</b></font>
+
+416
+00:33:07,371 --> 00:33:09,373
+<font face="Comic Sans MS" color="#ffff80"><b>Nobody wants to be alone.</b></font>
+
+417
+00:33:10,341 --> 00:33:11,308
+<font face="Comic Sans MS" color="#ffff80"><b>Well...</b></font>
+
+418
+00:33:13,109 --> 00:33:14,911
+<font face="Comic Sans MS" color="#ffff80"><b>if you change your mind...</b></font>
+
+419
+00:33:17,981 --> 00:33:19,450
+<font face="Comic Sans MS" color="#ffff80"><b>Night-night, Dumbo.</b></font>
+
+420
+00:33:49,345 --> 00:33:50,313
+<font face="Comic Sans MS" color="#ffff80"><b>Wow!</b></font>
+
+421
+00:33:54,384 --> 00:33:56,517
+<font face="Comic Sans MS" color="#ffff80"><b>It's not the peanuts
+that made him do it.</b></font>
+
+422
+00:33:56,519 --> 00:33:57,887
+<font face="Comic Sans MS" color="#ffff80"><b>It's the feathers!</b></font>
+
+423
+00:34:04,861 --> 00:34:06,029
+<font face="Comic Sans MS" color="#ffff80"><b>Dumbo!</b></font>
+
+424
+00:34:36,125 --> 00:34:38,526
+<font face="Comic Sans MS" color="#ffff80"><b>Dumbo, you gotta do this
+in the show.</b></font>
+
+425
+00:34:38,528 --> 00:34:40,227
+<font face="Comic Sans MS" color="#ffff80"><b>What do you mean?</b></font>
+
+426
+00:34:40,229 --> 00:34:41,595
+<font face="Comic Sans MS" color="#ffff80"><b>'Cause if the circus
+sells more tickets</b></font>
+
+427
+00:34:41,597 --> 00:34:43,030
+<font face="Comic Sans MS" color="#ffff80"><b>and Medici makes
+more money...</b></font>
+
+428
+00:34:43,032 --> 00:34:44,198
+<font face="Comic Sans MS" color="#ffff80"><b>then we can get him
+to use some</b></font>
+
+429
+00:34:44,200 --> 00:34:45,199
+<font face="Comic Sans MS" color="#ffff80"><b>to buy Mrs. Jumbo back.</b></font>
+
+430
+00:34:45,201 --> 00:34:46,367
+<font face="Comic Sans MS" color="#ffff80"><b>Yeah!</b></font>
+
+431
+00:34:46,369 --> 00:34:48,935
+<font face="Comic Sans MS" color="#ffff80"><b>We can get her back, Dumbo.
+You can.</b></font>
+
+432
+00:34:48,937 --> 00:34:50,638
+<font face="Comic Sans MS" color="#ffff80"><b>Just show them all
+what you can do.</b></font>
+
+433
+00:34:50,640 --> 00:34:52,239
+<font face="Comic Sans MS" color="#ffff80"><b>Come on.
+We gotta tell Dad.</b></font>
+
+434
+00:34:52,241 --> 00:34:55,109
+<font face="Comic Sans MS" color="#ffff80"><b>No. He'll just tell us
+to be practical.</b></font>
+
+435
+00:34:55,111 --> 00:34:57,078
+<font face="Comic Sans MS" color="#ffff80"><b>Shows got canceled
+for a week, right?</b></font>
+
+436
+00:34:57,080 --> 00:34:59,115
+<font face="Comic Sans MS" color="#ffff80"><b>We can research
+and study and test.</b></font>
+
+437
+00:35:00,683 --> 00:35:03,950
+<font face="Comic Sans MS" color="#ffff80"><b>You're a miracle elephant,
+Dumbo.</b></font>
+
+438
+00:35:03,952 --> 00:35:06,089
+<font face="Comic Sans MS" color="#ffff80"><b>And we're gonna
+bring your momma home.</b></font>
+
+439
+00:35:08,957 --> 00:35:10,924
+<font face="Comic Sans MS" color="#ffff80"><b>Fire!</b></font>
+
+440
+00:35:32,114 --> 00:35:33,514
+<font face="Comic Sans MS" color="#ffff80"><b>So low.</b></font>
+
+441
+00:35:33,516 --> 00:35:35,181
+<font face="Comic Sans MS" color="#ffff80"><b>An all-time low.</b></font>
+
+442
+00:35:35,183 --> 00:35:37,117
+<font face="Comic Sans MS" color="#ffff80"><b>Who said he didn't want
+to be recognized?</b></font>
+
+443
+00:35:38,954 --> 00:35:42,322
+<font face="Comic Sans MS" color="#ffff80"><b>Okay, Big D, this is it.
+Just like in rehearsal.</b></font>
+
+444
+00:35:42,324 --> 00:35:44,357
+<font face="Comic Sans MS" color="#ffff80"><b>Except for lights, music,
+fire and crowds.</b></font>
+
+445
+00:35:44,359 --> 00:35:46,228
+<font face="Comic Sans MS" color="#ffff80"><b>- You can do it.
+- Come on, Dumbo.</b></font>
+
+446
+00:35:48,196 --> 00:35:49,430
+<font face="Comic Sans MS" color="#ffff80"><b>You can do it, Dumbo!</b></font>
+
+447
+00:35:49,432 --> 00:35:50,564
+<font face="Comic Sans MS" color="#ffff80"><b>Show 'em all
+like you showed us!</b></font>
+
+448
+00:35:55,203 --> 00:35:57,705
+<font face="Comic Sans MS" color="#ffff80"><b>- Come! Come! Come!
+- Attaboy, come on.</b></font>
+
+449
+00:35:57,707 --> 00:35:59,673
+<font face="Comic Sans MS" color="#ffff80"><b>Keep comin'. Come on.</b></font>
+
+450
+00:36:05,480 --> 00:36:07,516
+<font face="Comic Sans MS" color="#ffff80"><b>Go on now, Dumbo!
+Come on.</b></font>
+
+451
+00:36:09,518 --> 00:36:11,050
+<font face="Comic Sans MS" color="#ffff80"><b>Whoa.</b></font>
+
+452
+00:36:15,524 --> 00:36:17,323
+<font face="Comic Sans MS" color="#ffff80"><b>Hey! Hey!</b></font>
+
+453
+00:36:39,047 --> 00:36:41,349
+<font face="Comic Sans MS" color="#ffff80"><b>They love it! They love it!</b></font>
+
+454
+00:36:45,187 --> 00:36:46,319
+<font face="Comic Sans MS" color="#ffff80"><b>All right, Dumbo.</b></font>
+
+455
+00:36:46,321 --> 00:36:47,522
+<font face="Comic Sans MS" color="#ffff80"><b>You put out the fire.</b></font>
+
+456
+00:37:05,707 --> 00:37:07,373
+<font face="Comic Sans MS" color="#ffff80"><b>He won't fly.
+He's scared.</b></font>
+
+457
+00:37:07,375 --> 00:37:09,209
+<font face="Comic Sans MS" color="#ffff80"><b>I know.
+Now, he's up too high.</b></font>
+
+458
+00:37:16,351 --> 00:37:17,352
+<font face="Comic Sans MS" color="#ffff80"><b>Go on, Dumbo!</b></font>
+
+459
+00:37:32,367 --> 00:37:33,568
+<font face="Comic Sans MS" color="#ffff80"><b>Attaboy.</b></font>
+
+460
+00:37:36,136 --> 00:37:38,338
+<font face="Comic Sans MS" color="#ffff80"><b>Yeah!
+Rule Number One.</b></font>
+
+461
+00:37:38,340 --> 00:37:40,107
+<font face="Comic Sans MS" color="#ffff80"><b>"Always have a big finish!"</b></font>
+
+462
+00:37:42,410 --> 00:37:45,277
+<font face="Comic Sans MS" color="#ffff80"><b>Aw!</b></font>
+
+463
+00:37:49,183 --> 00:37:51,285
+<font face="Comic Sans MS" color="#ffff80"><b>Okay, guys.
+Bring him down.</b></font>
+
+464
+00:37:52,554 --> 00:37:53,555
+<font face="Comic Sans MS" color="#ffff80"><b>Yeah!</b></font>
+
+465
+00:38:04,331 --> 00:38:06,666
+<font face="Comic Sans MS" color="#ffff80"><b>Holt!</b></font>
+
+466
+00:38:06,668 --> 00:38:08,300
+<font face="Comic Sans MS" color="#ffff80"><b>- Look, Max!
+- What? What?</b></font>
+
+467
+00:38:08,302 --> 00:38:10,070
+<font face="Comic Sans MS" color="#ffff80"><b>- He's trapped up there.
+- Put the fire out!</b></font>
+
+468
+00:38:12,540 --> 00:38:13,806
+<font face="Comic Sans MS" color="#ffff80"><b>Dumbo! Fly!</b></font>
+
+469
+00:38:13,808 --> 00:38:16,243
+<font face="Comic Sans MS" color="#ffff80"><b>He won't fly
+without a feather!</b></font>
+
+470
+00:38:20,214 --> 00:38:22,281
+<font face="Comic Sans MS" color="#ffff80"><b>Put the fire out!</b></font>
+
+471
+00:38:22,283 --> 00:38:23,384
+<font face="Comic Sans MS" color="#ffff80"><b>Put it out!</b></font>
+
+472
+00:38:24,753 --> 00:38:26,451
+<font face="Comic Sans MS" color="#ffff80"><b>- Joe!
+- Stop!</b></font>
+
+473
+00:38:27,822 --> 00:38:30,558
+<font face="Comic Sans MS" color="#ffff80"><b>Holt, I thought she didn't
+want to be in an act.</b></font>
+
+474
+00:38:33,661 --> 00:38:34,628
+<font face="Comic Sans MS" color="#ffff80"><b>Milly!</b></font>
+
+475
+00:38:51,579 --> 00:38:53,245
+<font face="Comic Sans MS" color="#ffff80"><b>Here, Dumbo!</b></font>
+
+476
+00:38:53,247 --> 00:38:54,748
+<font face="Comic Sans MS" color="#ffff80"><b>Come on.</b></font>
+
+477
+00:38:55,449 --> 00:38:56,483
+<font face="Comic Sans MS" color="#ffff80"><b>Show 'em.</b></font>
+
+478
+00:38:58,252 --> 00:38:59,520
+<font face="Comic Sans MS" color="#ffff80"><b>Come on, Dumbo.</b></font>
+
+479
+00:39:26,647 --> 00:39:27,779
+<font face="Comic Sans MS" color="#ffff80"><b>Fly, Dumbo.</b></font>
+
+480
+00:39:27,781 --> 00:39:28,716
+<font face="Comic Sans MS" color="#ffff80"><b>Fly!</b></font>
+
+481
+00:39:40,961 --> 00:39:42,396
+<font face="Comic Sans MS" color="#ffff80"><b>Whoa!</b></font>
+
+482
+00:39:45,599 --> 00:39:46,767
+<font face="Comic Sans MS" color="#ffff80"><b>Yeah!</b></font>
+
+483
+00:40:22,268 --> 00:40:23,969
+<font face="Comic Sans MS" color="#ffff80"><b>You knew
+he could do this?</b></font>
+
+484
+00:40:23,971 --> 00:40:26,272
+<font face="Comic Sans MS" color="#ffff80"><b>You should talk
+to your kids more.</b></font>
+
+485
+00:40:36,850 --> 00:40:38,016
+<font face="Comic Sans MS" color="#ffff80"><b>Sotheby...</b></font>
+
+486
+00:40:38,018 --> 00:40:40,251
+<font face="Comic Sans MS" color="#ffff80"><b>cancel my dinner
+with the president.</b></font>
+
+487
+00:40:40,253 --> 00:40:42,522
+<font face="Comic Sans MS" color="#ffff80"><b>We've got business
+with an elephant.</b></font>
+
+488
+00:40:45,458 --> 00:40:47,291
+<font face="Comic Sans MS" color="#ffff80"><b>Friends,</b></font>
+
+489
+00:40:47,293 --> 00:40:50,561
+<font face="Comic Sans MS" color="#ffff80"><b>the next available shows
+are in Arkansas!</b></font>
+
+490
+00:40:51,597 --> 00:40:52,864
+<font face="Comic Sans MS" color="#ffff80"><b><i>♪ Happy clowns!</i></b></font>
+
+491
+00:40:57,437 --> 00:41:00,939
+<font face="Comic Sans MS" color="#ffff80"><b>- Ah, Rongo the Strong!
+- Boss.</b></font>
+
+492
+00:41:00,941 --> 00:41:02,473
+<font face="Comic Sans MS" color="#ffff80"><b>Hello, Jo!</b></font>
+
+493
+00:41:02,475 --> 00:41:04,842
+<font face="Comic Sans MS" color="#ffff80"><b>The Medici Brothers' circus.</b></font>
+
+494
+00:41:04,844 --> 00:41:08,781
+<font face="Comic Sans MS" color="#ffff80"><b>Where true love
+and mystery abound!</b></font>
+
+495
+00:41:10,050 --> 00:41:11,849
+<font face="Comic Sans MS" color="#ffff80"><b>Now where's my star?</b></font>
+
+496
+00:41:11,851 --> 00:41:14,985
+<font face="Comic Sans MS" color="#ffff80"><b>Ah, Dumbo!</b></font>
+
+497
+00:41:14,987 --> 00:41:16,320
+<font face="Comic Sans MS" color="#ffff80"><b>How's your bath?</b></font>
+
+498
+00:41:16,322 --> 00:41:18,355
+<font face="Comic Sans MS" color="#ffff80"><b>Too warm? Too cold?</b></font>
+
+499
+00:41:18,357 --> 00:41:21,559
+<font face="Comic Sans MS" color="#ffff80"><b>Ladies, make sure his wrinkles
+don't get wrinkles.</b></font>
+
+500
+00:41:21,561 --> 00:41:23,961
+<font face="Comic Sans MS" color="#ffff80"><b>In our country,
+legend tells us</b></font>
+
+501
+00:41:23,963 --> 00:41:26,731
+<font face="Comic Sans MS" color="#ffff80"><b>the gods can
+take animal forms.</b></font>
+
+502
+00:41:26,733 --> 00:41:28,499
+<font face="Comic Sans MS" color="#ffff80"><b>Champagne for Dumbo!</b></font>
+
+503
+00:41:28,501 --> 00:41:30,570
+<font face="Comic Sans MS" color="#ffff80"><b>No booze near the baby!</b></font>
+
+504
+00:41:52,625 --> 00:41:53,793
+<font face="Comic Sans MS" color="#ffff80"><b>Sorry, Dumbo.</b></font>
+
+505
+00:41:55,061 --> 00:41:56,460
+<font face="Comic Sans MS" color="#ffff80"><b>It's not your momma.</b></font>
+
+506
+00:41:56,462 --> 00:41:58,097
+<font face="Comic Sans MS" color="#ffff80"><b>Take Dumbo back inside.</b></font>
+
+507
+00:42:08,641 --> 00:42:09,940
+<font face="Comic Sans MS" color="#ffff80"><b>Ladies and gentlemen,
+please make way</b></font>
+
+508
+00:42:09,942 --> 00:42:11,709
+<font face="Comic Sans MS" color="#ffff80"><b>for the emperor
+of enchantment.</b></font>
+
+509
+00:42:11,711 --> 00:42:13,043
+<font face="Comic Sans MS" color="#ffff80"><b>For the architect of dreams.</b></font>
+
+510
+00:42:13,045 --> 00:42:15,378
+<font face="Comic Sans MS" color="#ffff80"><b>For the Columbus
+of Coney Island.</b></font>
+
+511
+00:42:15,380 --> 00:42:17,347
+<font face="Comic Sans MS" color="#ffff80"><b>Mr. V.A. Vandevere!</b></font>
+
+512
+00:42:21,120 --> 00:42:24,822
+<font face="Comic Sans MS" color="#ffff80"><b>And traveling with him,
+his bright shining star.</b></font>
+
+513
+00:42:24,824 --> 00:42:28,391
+<font face="Comic Sans MS" color="#ffff80"><b>Colette Marchant,
+the Queen of the Heavens!</b></font>
+
+514
+00:42:28,393 --> 00:42:29,927
+<font face="Comic Sans MS" color="#ffff80"><b>Miss Marchant!
+Miss Marchant!</b></font>
+
+515
+00:42:33,431 --> 00:42:34,499
+<font face="Comic Sans MS" color="#ffff80"><b>Ah.</b></font>
+
+516
+00:42:35,433 --> 00:42:36,836
+<font face="Comic Sans MS" color="#ffff80"><b><i>Signore</i> Medici!</b></font>
+
+517
+00:42:37,703 --> 00:42:39,369
+<font face="Comic Sans MS" color="#ffff80"><b>He knows who I am.</b></font>
+
+518
+00:42:39,371 --> 00:42:40,905
+<font face="Comic Sans MS" color="#ffff80"><b>We were just
+passing through Missouri...</b></font>
+
+519
+00:42:40,907 --> 00:42:42,940
+<font face="Comic Sans MS" color="#ffff80"><b>and we heard you were
+putting on a little show.</b></font>
+
+520
+00:42:42,942 --> 00:42:46,643
+<font face="Comic Sans MS" color="#ffff80"><b>Mr. Vandevere.
+It's an honor.</b></font>
+
+521
+00:42:46,645 --> 00:42:49,614
+<font face="Comic Sans MS" color="#ffff80"><b>No, sir.
+The honor is mine.</b></font>
+
+522
+00:42:52,118 --> 00:42:53,683
+<font face="Comic Sans MS" color="#ffff80"><b>I would like
+to offer you a drink.</b></font>
+
+523
+00:42:53,685 --> 00:42:56,020
+<font face="Comic Sans MS" color="#ffff80"><b>But I'm all out of bourbon.</b></font>
+
+524
+00:42:57,957 --> 00:43:00,390
+<font face="Comic Sans MS" color="#ffff80"><b>And cognac and scotch.</b></font>
+
+525
+00:43:06,565 --> 00:43:08,966
+<font face="Comic Sans MS" color="#ffff80"><b>Not now!</b></font>
+
+526
+00:43:10,435 --> 00:43:12,004
+<font face="Comic Sans MS" color="#ffff80"><b>Is that a monkey
+in your desk?</b></font>
+
+527
+00:43:12,972 --> 00:43:14,504
+<font face="Comic Sans MS" color="#ffff80"><b>Just for emergencies.</b></font>
+
+528
+00:43:14,506 --> 00:43:16,806
+<font face="Comic Sans MS" color="#ffff80"><b>Look, Mr. Vandevere...</b></font>
+
+529
+00:43:16,808 --> 00:43:18,575
+<font face="Comic Sans MS" color="#ffff80"><b>I probably should tell you...</b></font>
+
+530
+00:43:18,577 --> 00:43:20,977
+<font face="Comic Sans MS" color="#ffff80"><b>the elephant is not for sale.</b></font>
+
+531
+00:43:20,979 --> 00:43:23,613
+<font face="Comic Sans MS" color="#ffff80"><b>Dumbo will only fly
+for the Medici circus.</b></font>
+
+532
+00:43:23,615 --> 00:43:25,951
+<font face="Comic Sans MS" color="#ffff80"><b>That's assuming he is real.</b></font>
+
+533
+00:43:33,058 --> 00:43:34,557
+<font face="Comic Sans MS" color="#ffff80"><b>See for yourself.</b></font>
+
+534
+00:43:34,559 --> 00:43:36,926
+<font face="Comic Sans MS" color="#ffff80"><b>And all due respect,
+I don't got all day.</b></font>
+
+535
+00:43:36,928 --> 00:43:38,496
+<font face="Comic Sans MS" color="#ffff80"><b>- Pleasure to meet you...
+- Excuse me.</b></font>
+
+536
+00:43:39,664 --> 00:43:40,699
+<font face="Comic Sans MS" color="#ffff80"><b>Hello there.</b></font>
+
+537
+00:43:48,740 --> 00:43:50,907
+<font face="Comic Sans MS" color="#ffff80"><b>So this, uh,
+creature of yours...</b></font>
+
+538
+00:43:50,909 --> 00:43:52,644
+<font face="Comic Sans MS" color="#ffff80"><b>is supposed to fly?</b></font>
+
+539
+00:43:54,079 --> 00:43:55,678
+<font face="Comic Sans MS" color="#ffff80"><b>Trade secrets.</b></font>
+
+540
+00:43:59,217 --> 00:44:00,485
+<font face="Comic Sans MS" color="#ffff80"><b>Ugh.</b></font>
+
+541
+00:44:05,490 --> 00:44:08,458
+<font face="Comic Sans MS" color="#ffff80"><b>Uh, Max,
+if you don't mind my asking...</b></font>
+
+542
+00:44:08,460 --> 00:44:12,929
+<font face="Comic Sans MS" color="#ffff80"><b>where did you
+come upon the animal?</b></font>
+
+543
+00:44:12,931 --> 00:44:15,098
+<font face="Comic Sans MS" color="#ffff80"><b>He hails
+from the far east.</b></font>
+
+544
+00:44:15,100 --> 00:44:16,532
+<font face="Comic Sans MS" color="#ffff80"><b>How far?</b></font>
+
+545
+00:44:16,534 --> 00:44:17,934
+<font face="Comic Sans MS" color="#ffff80"><b>Far.</b></font>
+
+546
+00:44:17,936 --> 00:44:20,904
+<font face="Comic Sans MS" color="#ffff80"><b>He doesn't look
+like "magic" to me.</b></font>
+
+547
+00:44:20,906 --> 00:44:23,606
+<font face="Comic Sans MS" color="#ffff80"><b>Well, what the heck can you
+tell by appearances, right?</b></font>
+
+548
+00:44:23,608 --> 00:44:26,609
+<font face="Comic Sans MS" color="#ffff80"><b>And you train
+flying elephants, too?</b></font>
+
+549
+00:44:26,611 --> 00:44:28,079
+<font face="Comic Sans MS" color="#ffff80"><b>Yeah, it's a little hobby
+on the side.</b></font>
+
+550
+00:44:31,249 --> 00:44:32,951
+<font face="Comic Sans MS" color="#ffff80"><b>It's the kids taught Dumbo.</b></font>
+
+551
+00:44:35,519 --> 00:44:37,554
+<font face="Comic Sans MS" color="#ffff80"><b>Ah, yes.</b></font>
+
+552
+00:44:41,026 --> 00:44:42,191
+<font face="Comic Sans MS" color="#ffff80"><b>Yeah?</b></font>
+
+553
+00:44:42,193 --> 00:44:45,828
+<font face="Comic Sans MS" color="#ffff80"><b>And how on earth
+did you do that?</b></font>
+
+554
+00:44:45,830 --> 00:44:47,230
+<font face="Comic Sans MS" color="#ffff80"><b>With the
+scientific method.</b></font>
+
+555
+00:44:49,167 --> 00:44:51,566
+<font face="Comic Sans MS" color="#ffff80"><b>One picture, one picture!</b></font>
+
+556
+00:44:51,568 --> 00:44:53,269
+<font face="Comic Sans MS" color="#ffff80"><b>Max.</b></font>
+
+557
+00:44:53,271 --> 00:44:56,072
+<font face="Comic Sans MS" color="#ffff80"><b>You possess something
+that's very rare in life.</b></font>
+
+558
+00:44:56,074 --> 00:44:58,774
+<font face="Comic Sans MS" color="#ffff80"><b>And the tragedy of it is,</b></font>
+
+559
+00:44:58,776 --> 00:45:01,677
+<font face="Comic Sans MS" color="#ffff80"><b>is you don't even know
+that you have it.</b></font>
+
+560
+00:45:01,679 --> 00:45:04,280
+<font face="Comic Sans MS" color="#ffff80"><b>Do you know what it is
+that you have, Max?</b></font>
+
+561
+00:45:04,282 --> 00:45:05,547
+<font face="Comic Sans MS" color="#ffff80"><b>No.</b></font>
+
+562
+00:45:05,549 --> 00:45:06,850
+<font face="Comic Sans MS" color="#ffff80"><b>It's mystique.</b></font>
+
+563
+00:45:08,086 --> 00:45:10,786
+<font face="Comic Sans MS" color="#ffff80"><b>Max, I know your type.</b></font>
+
+564
+00:45:10,788 --> 00:45:13,156
+<font face="Comic Sans MS" color="#ffff80"><b>Charlatan, con man,
+opportunist...</b></font>
+
+565
+00:45:13,158 --> 00:45:16,225
+<font face="Comic Sans MS" color="#ffff80"><b>New York is that way,
+in case you need directions.</b></font>
+
+566
+00:45:16,227 --> 00:45:18,794
+<font face="Comic Sans MS" color="#ffff80"><b>And I know it comes
+from a deep desire</b></font>
+
+567
+00:45:18,796 --> 00:45:20,729
+<font face="Comic Sans MS" color="#ffff80"><b>to build something
+authentic and true.</b></font>
+
+568
+00:45:20,731 --> 00:45:22,564
+<font face="Comic Sans MS" color="#ffff80"><b>I know your game.</b></font>
+
+569
+00:45:22,566 --> 00:45:23,899
+<font face="Comic Sans MS" color="#ffff80"><b>It's not a game.</b></font>
+
+570
+00:45:23,901 --> 00:45:27,205
+<font face="Comic Sans MS" color="#ffff80"><b>Some men cheat the rules,
+others change them.</b></font>
+
+571
+00:45:28,539 --> 00:45:29,740
+<font face="Comic Sans MS" color="#ffff80"><b>It's up your sleeve.</b></font>
+
+572
+00:45:30,941 --> 00:45:32,810
+<font face="Comic Sans MS" color="#ffff80"><b>It's in your pocket.</b></font>
+
+573
+00:45:40,050 --> 00:45:41,616
+<font face="Comic Sans MS" color="#ffff80"><b>The secret
+to show business</b></font>
+
+574
+00:45:41,618 --> 00:45:43,186
+<font face="Comic Sans MS" color="#ffff80"><b>is always keep a rabbit
+in your hat.</b></font>
+
+575
+00:45:43,188 --> 00:45:45,823
+<font face="Comic Sans MS" color="#ffff80"><b>Or a monkey in your desk,
+I guess.</b></font>
+
+576
+00:45:47,558 --> 00:45:48,957
+<font face="Comic Sans MS" color="#ffff80"><b>Ownership shares?</b></font>
+
+577
+00:45:48,959 --> 00:45:50,226
+<font face="Comic Sans MS" color="#ffff80"><b>Max, look around you.</b></font>
+
+578
+00:45:50,228 --> 00:45:52,661
+<font face="Comic Sans MS" color="#ffff80"><b>Your entire way of life
+is dying.</b></font>
+
+579
+00:45:52,663 --> 00:45:54,229
+<font face="Comic Sans MS" color="#ffff80"><b>The future of the
+entertainment business</b></font>
+
+580
+00:45:54,231 --> 00:45:56,064
+<font face="Comic Sans MS" color="#ffff80"><b>is to bring
+the audience to you.</b></font>
+
+581
+00:45:56,066 --> 00:45:58,000
+<font face="Comic Sans MS" color="#ffff80"><b>And I've built
+that destination.</b></font>
+
+582
+00:45:58,002 --> 00:46:00,635
+<font face="Comic Sans MS" color="#ffff80"><b>What I'm lacking...</b></font>
+
+583
+00:46:00,637 --> 00:46:02,773
+<font face="Comic Sans MS" color="#ffff80"><b>is a protege.</b></font>
+
+584
+00:46:05,843 --> 00:46:08,946
+<font face="Comic Sans MS" color="#ffff80"><b>I know
+there's no Medici Brothers.</b></font>
+
+585
+00:46:10,147 --> 00:46:13,017
+<font face="Comic Sans MS" color="#ffff80"><b>You probably always
+wanted one.</b></font>
+
+586
+00:46:14,218 --> 00:46:15,817
+<font face="Comic Sans MS" color="#ffff80"><b>You're offering me
+a partnership?</b></font>
+
+587
+00:46:15,819 --> 00:46:16,985
+<font face="Comic Sans MS" color="#ffff80"><b>Yes.</b></font>
+
+588
+00:46:16,987 --> 00:46:18,820
+<font face="Comic Sans MS" color="#ffff80"><b>And a home.</b></font>
+
+589
+00:46:18,822 --> 00:46:20,822
+<font face="Comic Sans MS" color="#ffff80"><b>For you
+and the entire troupe.</b></font>
+
+590
+00:46:20,824 --> 00:46:23,925
+<font face="Comic Sans MS" color="#ffff80"><b>A home?
+For all of us?</b></font>
+
+591
+00:46:23,927 --> 00:46:26,261
+<font face="Comic Sans MS" color="#ffff80"><b>Yes. Join me.</b></font>
+
+592
+00:46:26,263 --> 00:46:28,363
+<font face="Comic Sans MS" color="#ffff80"><b>Join me and my family.</b></font>
+
+593
+00:46:28,365 --> 00:46:31,133
+<font face="Comic Sans MS" color="#ffff80"><b>Let me take us all
+into the future.</b></font>
+
+594
+00:46:31,135 --> 00:46:33,137
+<font face="Comic Sans MS" color="#ffff80"><b>Let me take us all...</b></font>
+
+595
+00:46:34,271 --> 00:46:36,106
+<font face="Comic Sans MS" color="#ffff80"><b>to Dreamland!</b></font>
+
+596
+00:47:19,049 --> 00:47:21,816
+<font face="Comic Sans MS" color="#ffff80"><b>I wish Momma
+could've seen this.</b></font>
+
+597
+00:47:21,818 --> 00:47:24,088
+<font face="Comic Sans MS" color="#ffff80"><b>Well, somehow,
+I think she knows we're here.</b></font>
+
+598
+00:47:29,759 --> 00:47:31,861
+<font face="Comic Sans MS" color="#ffff80"><b>Way to work your magic, Max.</b></font>
+
+599
+00:47:42,372 --> 00:47:44,972
+<font face="Comic Sans MS" color="#ffff80"><b>We hear you, Dumbo!</b></font>
+
+600
+00:47:44,974 --> 00:47:46,441
+<font face="Comic Sans MS" color="#ffff80"><b>Why won't you
+let him see outside?</b></font>
+
+601
+00:47:46,443 --> 00:47:48,909
+<font face="Comic Sans MS" color="#ffff80"><b>Remember, young lady...</b></font>
+
+602
+00:47:48,911 --> 00:47:50,113
+<font face="Comic Sans MS" color="#ffff80"><b>mystique.</b></font>
+
+603
+00:47:54,318 --> 00:47:56,652
+<font face="Comic Sans MS" color="#ffff80"><b>Now this is why
+I joined the circus.</b></font>
+
+604
+00:48:00,223 --> 00:48:02,923
+<font face="Comic Sans MS" color="#ffff80"><b>Dad.
+Wonders of Science!</b></font>
+
+605
+00:48:02,925 --> 00:48:04,191
+<font face="Comic Sans MS" color="#ffff80"><b>All right, sugar plum.</b></font>
+
+606
+00:48:04,193 --> 00:48:05,993
+<font face="Comic Sans MS" color="#ffff80"><b>Remember, we got
+a job to do here.</b></font>
+
+607
+00:48:05,995 --> 00:48:08,729
+<font face="Comic Sans MS" color="#ffff80"><b>My daughter, she fancies
+herself the next Marie Curie.</b></font>
+
+608
+00:48:08,731 --> 00:48:12,434
+<font face="Comic Sans MS" color="#ffff80"><b>Don't ever let anybody
+tell you what you can't do.</b></font>
+
+609
+00:48:12,436 --> 00:48:15,202
+<font face="Comic Sans MS" color="#ffff80"><b>Hang on,
+I wasn't saying she can't.</b></font>
+
+610
+00:48:15,204 --> 00:48:19,740
+<font face="Comic Sans MS" color="#ffff80"><b>What is it exactly that
+we do here, <i>ma cherie?</i></b></font>
+
+611
+00:48:19,742 --> 00:48:23,279
+<font face="Comic Sans MS" color="#ffff80"><b>We make
+the impossible possible.</b></font>
+
+612
+00:48:28,351 --> 00:48:29,950
+<font face="Comic Sans MS" color="#ffff80"><b>And that's where
+you'll perform.</b></font>
+
+613
+00:48:29,952 --> 00:48:31,252
+<font face="Comic Sans MS" color="#ffff80"><b>The Colosseum!</b></font>
+
+614
+00:48:31,254 --> 00:48:34,221
+<font face="Comic Sans MS" color="#ffff80"><b>Dumbo will stay
+in the training tent behind.</b></font>
+
+615
+00:48:34,223 --> 00:48:35,322
+<font face="Comic Sans MS" color="#ffff80"><b>Dumbo!</b></font>
+
+616
+00:48:40,930 --> 00:48:42,396
+<font face="Comic Sans MS" color="#ffff80"><b>Why aren't we
+going with him?</b></font>
+
+617
+00:48:42,398 --> 00:48:46,269
+<font face="Comic Sans MS" color="#ffff80"><b>Because that
+is your new home.</b></font>
+
+618
+00:48:51,908 --> 00:48:52,942
+<font face="Comic Sans MS" color="#ffff80"><b>Wow!</b></font>
+
+619
+00:48:54,143 --> 00:48:55,976
+<font face="Comic Sans MS" color="#ffff80"><b>Look at this place!</b></font>
+
+620
+00:48:55,978 --> 00:48:57,344
+<font face="Comic Sans MS" color="#ffff80"><b>A library...</b></font>
+
+621
+00:48:57,346 --> 00:48:59,380
+<font face="Comic Sans MS" color="#ffff80"><b>"And the children
+shall lead them."</b></font>
+
+622
+00:48:59,382 --> 00:49:01,415
+<font face="Comic Sans MS" color="#ffff80"><b>We're grateful for the
+opportunity, Mr. Vandevere.</b></font>
+
+623
+00:49:01,417 --> 00:49:04,451
+<font face="Comic Sans MS" color="#ffff80"><b>Oh, your family's mine.</b></font>
+
+624
+00:49:06,856 --> 00:49:10,491
+<font face="Comic Sans MS" color="#ffff80"><b>You know, I've been brushing
+up on your story, Mr. Farrier.</b></font>
+
+625
+00:49:10,493 --> 00:49:12,792
+<font face="Comic Sans MS" color="#ffff80"><b>Kentucky's top trick rider.</b></font>
+
+626
+00:49:12,794 --> 00:49:14,195
+<font face="Comic Sans MS" color="#ffff80"><b>Well, there's no reason
+you can't be again...</b></font>
+
+627
+00:49:14,197 --> 00:49:17,364
+<font face="Comic Sans MS" color="#ffff80"><b>only here,
+you'd be Captain Farrier...</b></font>
+
+628
+00:49:17,366 --> 00:49:18,499
+<font face="Comic Sans MS" color="#ffff80"><b>war hero.</b></font>
+
+629
+00:49:21,237 --> 00:49:22,303
+<font face="Comic Sans MS" color="#ffff80"><b>One-armed wonder.</b></font>
+
+630
+00:49:22,305 --> 00:49:23,838
+<font face="Comic Sans MS" color="#ffff80"><b>National treasure.</b></font>
+
+631
+00:49:24,473 --> 00:49:25,939
+<font face="Comic Sans MS" color="#ffff80"><b>Wow!</b></font>
+
+632
+00:49:25,941 --> 00:49:27,208
+<font face="Comic Sans MS" color="#ffff80"><b>Well, I still can ride.</b></font>
+
+633
+00:49:27,210 --> 00:49:28,409
+<font face="Comic Sans MS" color="#ffff80"><b>Oh, I know you can.</b></font>
+
+634
+00:49:28,411 --> 00:49:30,877
+<font face="Comic Sans MS" color="#ffff80"><b>And you're going to.</b></font>
+
+635
+00:49:30,879 --> 00:49:32,313
+<font face="Comic Sans MS" color="#ffff80"><b>Right after you get
+that little elephant</b></font>
+
+636
+00:49:32,315 --> 00:49:33,547
+<font face="Comic Sans MS" color="#ffff80"><b>off the ground for me.</b></font>
+
+637
+00:49:33,549 --> 00:49:35,349
+<font face="Comic Sans MS" color="#ffff80"><b>You mean
+once his act's working?</b></font>
+
+638
+00:49:35,351 --> 00:49:37,117
+<font face="Comic Sans MS" color="#ffff80"><b>You're back in the saddle.</b></font>
+
+639
+00:49:37,119 --> 00:49:39,119
+<font face="Comic Sans MS" color="#ffff80"><b>We're still working
+on the schedule</b></font>
+
+640
+00:49:39,121 --> 00:49:40,254
+<font face="Comic Sans MS" color="#ffff80"><b>for the rest
+of your troupe...</b></font>
+
+641
+00:49:40,256 --> 00:49:42,289
+<font face="Comic Sans MS" color="#ffff80"><b>but on Friday...</b></font>
+
+642
+00:49:42,291 --> 00:49:44,025
+<font face="Comic Sans MS" color="#ffff80"><b>we premiere
+our little Dumbo.</b></font>
+
+643
+00:49:46,495 --> 00:49:48,464
+<font face="Comic Sans MS" color="#ffff80"><b>I get goose bumps.</b></font>
+
+644
+00:49:50,999 --> 00:49:53,234
+<font face="Comic Sans MS" color="#ffff80"><b>Why are you
+looking at me?</b></font>
+
+645
+00:49:53,236 --> 00:49:55,101
+<font face="Comic Sans MS" color="#ffff80"><b>Well, because
+the only thing</b></font>
+
+646
+00:49:55,103 --> 00:49:58,205
+<font face="Comic Sans MS" color="#ffff80"><b>more amazing
+than a flying elephant...</b></font>
+
+647
+00:49:58,207 --> 00:49:59,741
+<font face="Comic Sans MS" color="#ffff80"><b>is the goddess
+who can fly it.</b></font>
+
+648
+00:50:01,344 --> 00:50:03,410
+<font face="Comic Sans MS" color="#ffff80"><b>Have you lost your mind?</b></font>
+
+649
+00:50:06,282 --> 00:50:09,318
+<font face="Comic Sans MS" color="#ffff80"><b>Let's not forget from
+whence we came, darling.</b></font>
+
+650
+00:50:11,387 --> 00:50:13,387
+<font face="Comic Sans MS" color="#ffff80"><b>So, we fly Friday!</b></font>
+
+651
+00:50:13,389 --> 00:50:17,524
+<font face="Comic Sans MS" color="#ffff80"><b>Uh, Dumbo's never flown
+with anyone.</b></font>
+
+652
+00:50:17,526 --> 00:50:20,494
+<font face="Comic Sans MS" color="#ffff80"><b>That's why it's become
+abundantly clear</b></font>
+
+653
+00:50:20,496 --> 00:50:21,497
+<font face="Comic Sans MS" color="#ffff80"><b>why we need you.</b></font>
+
+654
+00:50:23,832 --> 00:50:25,164
+<font face="Comic Sans MS" color="#ffff80"><b>Dumbo!</b></font>
+
+655
+00:50:29,304 --> 00:50:31,304
+<font face="Comic Sans MS" color="#ffff80"><b>Hey, buddy. We missed you.
+You all right?</b></font>
+
+656
+00:50:31,306 --> 00:50:34,107
+<font face="Comic Sans MS" color="#ffff80"><b>Hey. Captain Farrier
+is in charge.</b></font>
+
+657
+00:50:34,109 --> 00:50:36,044
+<font face="Comic Sans MS" color="#ffff80"><b>No one sees the animal
+without his approval.</b></font>
+
+658
+00:50:36,478 --> 00:50:37,510
+<font face="Comic Sans MS" color="#ffff80"><b>Holt.</b></font>
+
+659
+00:50:37,512 --> 00:50:39,047
+<font face="Comic Sans MS" color="#ffff80"><b>Just call me Holt.</b></font>
+
+660
+00:50:40,382 --> 00:50:42,382
+<font face="Comic Sans MS" color="#ffff80"><b>I thought you were
+a military man.</b></font>
+
+661
+00:50:42,384 --> 00:50:44,851
+<font face="Comic Sans MS" color="#ffff80"><b>Nice boots you bagged there.
+What are they, shark skin?</b></font>
+
+662
+00:50:44,853 --> 00:50:47,854
+<font face="Comic Sans MS" color="#ffff80"><b>No.</b></font>
+
+663
+00:50:47,856 --> 00:50:49,122
+<font face="Comic Sans MS" color="#ffff80"><b>So you better keep
+your elephant friend</b></font>
+
+664
+00:50:49,124 --> 00:50:50,458
+<font face="Comic Sans MS" color="#ffff80"><b>on my good side.</b></font>
+
+665
+00:50:55,964 --> 00:50:56,931
+<font face="Comic Sans MS" color="#ffff80"><b>Hiya, Dumbo.</b></font>
+
+666
+00:51:04,105 --> 00:51:06,139
+<font face="Comic Sans MS" color="#ffff80"><b>Dumbo, you mind?</b></font>
+
+667
+00:51:06,141 --> 00:51:07,242
+<font face="Comic Sans MS" color="#ffff80"><b>Can I get my arm?</b></font>
+
+668
+00:51:09,044 --> 00:51:10,945
+<font face="Comic Sans MS" color="#ffff80"><b>And these are the hands
+I'll be putting my life in?</b></font>
+
+669
+00:51:11,513 --> 00:51:13,413
+<font face="Comic Sans MS" color="#ffff80"><b>Welcome.</b></font>
+
+670
+00:51:13,415 --> 00:51:16,015
+<font face="Comic Sans MS" color="#ffff80"><b>For the record,
+this was not my idea.</b></font>
+
+671
+00:51:16,017 --> 00:51:17,483
+<font face="Comic Sans MS" color="#ffff80"><b>Dumbo works alone.</b></font>
+
+672
+00:51:17,485 --> 00:51:19,087
+<font face="Comic Sans MS" color="#ffff80"><b>So do I.</b></font>
+
+673
+00:51:21,122 --> 00:51:22,324
+<font face="Comic Sans MS" color="#ffff80"><b><i>Bonjour,</i> Milly, Joe...</b></font>
+
+674
+00:51:23,992 --> 00:51:25,591
+<font face="Comic Sans MS" color="#ffff80"><b>And you...</b></font>
+
+675
+00:51:28,663 --> 00:51:30,229
+<font face="Comic Sans MS" color="#ffff80"><b>Hmm, charming.</b></font>
+
+676
+00:51:30,231 --> 00:51:31,497
+<font face="Comic Sans MS" color="#ffff80"><b>Well, maybe he doesn't
+recognize you</b></font>
+
+677
+00:51:31,499 --> 00:51:34,033
+<font face="Comic Sans MS" color="#ffff80"><b>without your makeup.</b></font>
+
+678
+00:51:34,035 --> 00:51:35,901
+<font face="Comic Sans MS" color="#ffff80"><b>So I gotta
+teach you to fly?</b></font>
+
+679
+00:51:35,903 --> 00:51:40,239
+<font face="Comic Sans MS" color="#ffff80"><b>I know how to fly,
+ever since I was a child.</b></font>
+
+680
+00:51:40,241 --> 00:51:42,542
+<font face="Comic Sans MS" color="#ffff80"><b>They taught
+Dumbo to fly, no?</b></font>
+
+681
+00:51:42,544 --> 00:51:44,279
+<font face="Comic Sans MS" color="#ffff80"><b>So I don't need
+your expertise.</b></font>
+
+682
+00:51:46,081 --> 00:51:48,381
+<font face="Comic Sans MS" color="#ffff80"><b>All right.</b></font>
+
+683
+00:51:48,383 --> 00:51:51,016
+<font face="Comic Sans MS" color="#ffff80"><b>Well, just so you know,
+I've been to France.</b></font>
+
+684
+00:51:51,018 --> 00:51:52,585
+<font face="Comic Sans MS" color="#ffff80"><b>It wasn't a good experience.</b></font>
+
+685
+00:51:52,587 --> 00:51:54,554
+<font face="Comic Sans MS" color="#ffff80"><b>Show me your secret!</b></font>
+
+686
+00:51:54,556 --> 00:51:56,589
+<font face="Comic Sans MS" color="#ffff80"><b>How on earth
+does your elephant fly?</b></font>
+
+687
+00:51:56,591 --> 00:51:58,992
+<font face="Comic Sans MS" color="#ffff80"><b>Well, first,
+he needs a feather.</b></font>
+
+688
+00:52:00,160 --> 00:52:01,862
+<font face="Comic Sans MS" color="#ffff80"><b>He won't fly
+without a feather.</b></font>
+
+689
+00:52:03,063 --> 00:52:06,131
+<font face="Comic Sans MS" color="#ffff80"><b>Well then,
+neither will I.</b></font>
+
+690
+00:52:33,961 --> 00:52:35,628
+<font face="Comic Sans MS" color="#ffff80"><b>Whoa, slow down, princess.
+Safety first.</b></font>
+
+691
+00:52:35,630 --> 00:52:36,962
+<font face="Comic Sans MS" color="#ffff80"><b>Guys, nets.</b></font>
+
+692
+00:52:36,964 --> 00:52:38,132
+<font face="Comic Sans MS" color="#ffff80"><b>Come on, hurry.</b></font>
+
+693
+00:52:41,301 --> 00:52:43,036
+<font face="Comic Sans MS" color="#ffff80"><b>All right, guys, good.</b></font>
+
+694
+00:52:52,012 --> 00:52:53,480
+<font face="Comic Sans MS" color="#ffff80"><b>See, Dumbo?</b></font>
+
+695
+00:52:54,649 --> 00:52:56,684
+<font face="Comic Sans MS" color="#ffff80"><b>I fly!</b></font>
+
+696
+00:53:05,225 --> 00:53:06,927
+<font face="Comic Sans MS" color="#ffff80"><b>See if you can catch me!</b></font>
+
+697
+00:53:09,764 --> 00:53:11,263
+<font face="Comic Sans MS" color="#ffff80"><b>Here, Dumbo!</b></font>
+
+698
+00:54:11,458 --> 00:54:13,760
+<font face="Comic Sans MS" color="#ffff80"><b>Oh, we got some work to do.</b></font>
+
+699
+00:54:23,537 --> 00:54:24,836
+<font face="Comic Sans MS" color="#ffff80"><b>Friends and colleagues...</b></font>
+
+700
+00:54:24,838 --> 00:54:26,237
+<font face="Comic Sans MS" color="#ffff80"><b>let's give a warm
+Dreamland welcome</b></font>
+
+701
+00:54:26,239 --> 00:54:27,606
+<font face="Comic Sans MS" color="#ffff80"><b>to our new executive
+vice president...</b></font>
+
+702
+00:54:27,608 --> 00:54:28,575
+<font face="Comic Sans MS" color="#ffff80"><b>Mr. Max Medici.</b></font>
+
+703
+00:54:31,512 --> 00:54:33,612
+<font face="Comic Sans MS" color="#ffff80"><b>Anything he needs,
+anything at all...</b></font>
+
+704
+00:54:33,614 --> 00:54:35,549
+<font face="Comic Sans MS" color="#ffff80"><b>make it happen
+as you always do.</b></font>
+
+705
+00:54:40,353 --> 00:54:42,086
+<font face="Comic Sans MS" color="#ffff80"><b>This is Miss Verna.</b></font>
+
+706
+00:54:42,088 --> 00:54:43,454
+<font face="Comic Sans MS" color="#ffff80"><b>She will handle
+your schedule,</b></font>
+
+707
+00:54:43,456 --> 00:54:45,824
+<font face="Comic Sans MS" color="#ffff80"><b>correspondence,
+and all your calls.</b></font>
+
+708
+00:54:45,826 --> 00:54:47,592
+<font face="Comic Sans MS" color="#ffff80"><b>When you're needed
+in meetings,</b></font>
+
+709
+00:54:47,594 --> 00:54:49,193
+<font face="Comic Sans MS" color="#ffff80"><b>she'll let you know.</b></font>
+
+710
+00:54:49,195 --> 00:54:50,562
+<font face="Comic Sans MS" color="#ffff80"><b>Are there meetings today?</b></font>
+
+711
+00:54:50,564 --> 00:54:52,296
+<font face="Comic Sans MS" color="#ffff80"><b>I'll let you know!</b></font>
+
+712
+00:54:54,568 --> 00:54:56,433
+<font face="Comic Sans MS" color="#ffff80"><b>Uh, Mr. Vandevere,
+one question.</b></font>
+
+713
+00:54:56,435 --> 00:54:58,639
+<font face="Comic Sans MS" color="#ffff80"><b>Exactly what do I do?</b></font>
+
+714
+00:55:02,843 --> 00:55:05,177
+<font face="Comic Sans MS" color="#ffff80"><b>So where'd
+Vandevere find you?</b></font>
+
+715
+00:55:06,880 --> 00:55:08,715
+<font face="Comic Sans MS" color="#ffff80"><b>I was a street performer
+in Paris.</b></font>
+
+716
+00:55:10,316 --> 00:55:11,716
+<font face="Comic Sans MS" color="#ffff80"><b>He discovered me.</b></font>
+
+717
+00:55:11,718 --> 00:55:13,519
+<font face="Comic Sans MS" color="#ffff80"><b>And here I am.</b></font>
+
+718
+00:55:15,688 --> 00:55:17,588
+<font face="Comic Sans MS" color="#ffff80"><b>A millionaire's girlfriend.</b></font>
+
+719
+00:55:17,590 --> 00:55:18,792
+<font face="Comic Sans MS" color="#ffff80"><b>That's a tough break.</b></font>
+
+720
+00:55:20,526 --> 00:55:22,560
+<font face="Comic Sans MS" color="#ffff80"><b>It's all for show.</b></font>
+
+721
+00:55:22,562 --> 00:55:25,229
+<font face="Comic Sans MS" color="#ffff80"><b>So you and he,
+you're not, uh...</b></font>
+
+722
+00:55:25,231 --> 00:55:26,898
+<font face="Comic Sans MS" color="#ffff80"><b>I'm one of many
+gems he wears</b></font>
+
+723
+00:55:26,900 --> 00:55:28,434
+<font face="Comic Sans MS" color="#ffff80"><b>to reflect the light
+back onto him.</b></font>
+
+724
+00:55:29,702 --> 00:55:30,703
+<font face="Comic Sans MS" color="#ffff80"><b>Huh.</b></font>
+
+725
+00:55:32,438 --> 00:55:34,371
+<font face="Comic Sans MS" color="#ffff80"><b>Good boy, Dumbo.</b></font>
+
+726
+00:55:34,373 --> 00:55:36,173
+<font face="Comic Sans MS" color="#ffff80"><b>- Good job.
+- Yeah! They're gonna love him.</b></font>
+
+727
+00:55:36,175 --> 00:55:37,677
+<font face="Comic Sans MS" color="#ffff80"><b>I think you are
+the lucky one.</b></font>
+
+728
+00:55:40,246 --> 00:55:41,812
+<font face="Comic Sans MS" color="#ffff80"><b>- Well done, Dumbo.
+- Good boy.</b></font>
+
+729
+00:55:41,814 --> 00:55:45,151
+<font face="Comic Sans MS" color="#ffff80"><b>Who's been dreaming
+like I've been dreaming?</b></font>
+
+730
+00:55:46,619 --> 00:55:49,186
+<font face="Comic Sans MS" color="#ffff80"><b>So, how's everything?</b></font>
+
+731
+00:55:49,188 --> 00:55:50,888
+<font face="Comic Sans MS" color="#ffff80"><b>- Good?
+- Oh, we're making progress.</b></font>
+
+732
+00:55:50,890 --> 00:55:52,623
+<font face="Comic Sans MS" color="#ffff80"><b>But he ain't
+quite ready yet.</b></font>
+
+733
+00:55:52,625 --> 00:55:55,392
+<font face="Comic Sans MS" color="#ffff80"><b>What's the problem?
+Doesn't the animal trust you?</b></font>
+
+734
+00:55:55,394 --> 00:55:57,761
+<font face="Comic Sans MS" color="#ffff80"><b>- It's not that simple.
+- <i>Ma cherie...</i></b></font>
+
+735
+00:55:57,763 --> 00:56:01,465
+<font face="Comic Sans MS" color="#ffff80"><b>we've already sold
+all the tickets.</b></font>
+
+736
+00:56:01,467 --> 00:56:03,267
+<font face="Comic Sans MS" color="#ffff80"><b>Maybe our little
+scientist here</b></font>
+
+737
+00:56:03,269 --> 00:56:05,137
+<font face="Comic Sans MS" color="#ffff80"><b>can show us
+that it's going to work.</b></font>
+
+738
+00:56:17,817 --> 00:56:19,416
+<font face="Comic Sans MS" color="#ffff80"><b>Prepare for takeoff.</b></font>
+
+739
+00:56:19,418 --> 00:56:20,586
+<font face="Comic Sans MS" color="#ffff80"><b>- Right wing?
+- Check!</b></font>
+
+740
+00:56:22,555 --> 00:56:23,687
+<font face="Comic Sans MS" color="#ffff80"><b>Left wing?</b></font>
+
+741
+00:56:23,689 --> 00:56:25,656
+<font face="Comic Sans MS" color="#ffff80"><b>Check!</b></font>
+
+742
+00:56:25,658 --> 00:56:27,760
+<font face="Comic Sans MS" color="#ffff80"><b>Take her up, Dumbo.</b></font>
+
+743
+00:56:31,664 --> 00:56:33,430
+<font face="Comic Sans MS" color="#ffff80"><b>Let's go.</b></font>
+
+744
+00:56:33,432 --> 00:56:34,900
+<font face="Comic Sans MS" color="#ffff80"><b>- Come on, buddy. Come on.
+- Come on, Dumbo.</b></font>
+
+745
+00:56:36,869 --> 00:56:38,704
+<font face="Comic Sans MS" color="#ffff80"><b>That's it. Come on.</b></font>
+
+746
+00:56:45,377 --> 00:56:46,442
+<font face="Comic Sans MS" color="#ffff80"><b>Let's try it again.</b></font>
+
+747
+00:56:48,346 --> 00:56:50,181
+<font face="Comic Sans MS" color="#ffff80"><b>You got this.
+Here you go.</b></font>
+
+748
+00:57:04,830 --> 00:57:07,232
+<font face="Comic Sans MS" color="#ffff80"><b>You beautiful
+one-armed cowboy.</b></font>
+
+749
+00:57:08,500 --> 00:57:10,670
+<font face="Comic Sans MS" color="#ffff80"><b>You've made me
+a child again.</b></font>
+
+750
+00:57:22,547 --> 00:57:25,581
+<font face="Comic Sans MS" color="#ffff80"><b><i>Welcome to the Colosseum...</i></b></font>
+
+751
+00:57:25,583 --> 00:57:28,353
+<font face="Comic Sans MS" color="#ffff80"><b><i>where the impossible
+is possible.</i></b></font>
+
+752
+00:58:11,329 --> 00:58:14,897
+<font face="Comic Sans MS" color="#ffff80"><b><i>Buonasera.</i> Max Medici.</b></font>
+
+753
+00:58:14,899 --> 00:58:17,333
+<font face="Comic Sans MS" color="#ffff80"><b>I discovered the elephant,
+my elephant.</b></font>
+
+754
+00:58:17,335 --> 00:58:18,668
+<font face="Comic Sans MS" color="#ffff80"><b>And basically I said no.</b></font>
+
+755
+00:58:18,670 --> 00:58:20,369
+<font face="Comic Sans MS" color="#ffff80"><b>I walked out and that
+was the end of that.</b></font>
+
+756
+00:58:20,371 --> 00:58:21,704
+<font face="Comic Sans MS" color="#ffff80"><b>The flying
+elephant's mine.</b></font>
+
+757
+00:58:21,706 --> 00:58:22,707
+<font face="Comic Sans MS" color="#ffff80"><b>Yeah.</b></font>
+
+758
+00:58:23,908 --> 00:58:25,742
+<font face="Comic Sans MS" color="#ffff80"><b>You're the guy!</b></font>
+
+759
+00:58:25,744 --> 00:58:28,544
+<font face="Comic Sans MS" color="#ffff80"><b>You're the guy that's
+made out of magic dust!</b></font>
+
+760
+00:58:28,546 --> 00:58:29,779
+<font face="Comic Sans MS" color="#ffff80"><b>Max.</b></font>
+
+761
+00:58:29,781 --> 00:58:32,348
+<font face="Comic Sans MS" color="#ffff80"><b>J. Griffin Remington.
+Atlas Forge Bank.</b></font>
+
+762
+00:58:32,350 --> 00:58:34,650
+<font face="Comic Sans MS" color="#ffff80"><b>He's the money man.</b></font>
+
+763
+00:58:34,652 --> 00:58:35,918
+<font face="Comic Sans MS" color="#ffff80"><b>The J?</b></font>
+
+764
+00:58:35,920 --> 00:58:38,755
+<font face="Comic Sans MS" color="#ffff80"><b>Whoa! It's a pleasure
+to meet you.</b></font>
+
+765
+00:58:38,757 --> 00:58:40,556
+<font face="Comic Sans MS" color="#ffff80"><b>How are you?</b></font>
+
+766
+00:58:40,558 --> 00:58:41,891
+<font face="Comic Sans MS" color="#ffff80"><b>You know, they say the moon
+is made out of magic dust.</b></font>
+
+767
+00:58:41,893 --> 00:58:43,493
+<font face="Comic Sans MS" color="#ffff80"><b>That's why
+they're going to send</b></font>
+
+768
+00:58:43,495 --> 00:58:44,927
+<font face="Comic Sans MS" color="#ffff80"><b>a man up there
+one of these days.</b></font>
+
+769
+00:58:44,929 --> 00:58:47,096
+<font face="Comic Sans MS" color="#ffff80"><b>And my bank is
+going to be the bank</b></font>
+
+770
+00:58:47,098 --> 00:58:49,832
+<font face="Comic Sans MS" color="#ffff80"><b>that finances
+the expedition.</b></font>
+
+771
+00:58:49,834 --> 00:58:50,967
+<font face="Comic Sans MS" color="#ffff80"><b>What do you think of that?</b></font>
+
+772
+00:58:50,969 --> 00:58:52,367
+<font face="Comic Sans MS" color="#ffff80"><b>Uh-huh.</b></font>
+
+773
+00:58:52,369 --> 00:58:53,703
+<font face="Comic Sans MS" color="#ffff80"><b>Needless to say, Max...</b></font>
+
+774
+00:58:53,705 --> 00:58:55,571
+<font face="Comic Sans MS" color="#ffff80"><b>we all have high hopes
+for tonight.</b></font>
+
+775
+00:58:55,573 --> 00:58:58,541
+<font face="Comic Sans MS" color="#ffff80"><b>Oh, yeah. High hopes.
+High hopes.</b></font>
+
+776
+00:58:58,543 --> 00:59:00,375
+<font face="Comic Sans MS" color="#ffff80"><b>Well, you know,
+hopes, and dreams,</b></font>
+
+777
+00:59:00,377 --> 00:59:01,844
+<font face="Comic Sans MS" color="#ffff80"><b>that's one thing.
+That's words.</b></font>
+
+778
+00:59:01,846 --> 00:59:04,013
+<font face="Comic Sans MS" color="#ffff80"><b>But what we're talking
+about here is facts!</b></font>
+
+779
+00:59:04,015 --> 00:59:05,347
+<font face="Comic Sans MS" color="#ffff80"><b>Plans!</b></font>
+
+780
+00:59:05,349 --> 00:59:07,683
+<font face="Comic Sans MS" color="#ffff80"><b>Plans! That takes
+a lot of money.</b></font>
+
+781
+00:59:07,685 --> 00:59:09,384
+<font face="Comic Sans MS" color="#ffff80"><b>Which he hasn't got!</b></font>
+
+782
+00:59:09,386 --> 00:59:10,987
+<font face="Comic Sans MS" color="#ffff80"><b>So, we are hoping
+that your pachyderm</b></font>
+
+783
+00:59:10,989 --> 00:59:12,855
+<font face="Comic Sans MS" color="#ffff80"><b>comes through
+with the goods.</b></font>
+
+784
+00:59:12,857 --> 00:59:15,758
+<font face="Comic Sans MS" color="#ffff80"><b>Now let's get this show
+on the road!</b></font>
+
+785
+00:59:22,533 --> 00:59:23,935
+<font face="Comic Sans MS" color="#ffff80"><b>We are looking good!</b></font>
+
+786
+00:59:25,435 --> 00:59:27,136
+<font face="Comic Sans MS" color="#ffff80"><b>Don't worry, Big D.</b></font>
+
+787
+00:59:27,138 --> 00:59:28,905
+<font face="Comic Sans MS" color="#ffff80"><b>There's just more room to fly out
+there, that's all.</b></font>
+
+788
+00:59:28,907 --> 00:59:31,473
+<font face="Comic Sans MS" color="#ffff80"><b>Round and round,
+just like we practiced.</b></font>
+
+789
+00:59:31,475 --> 00:59:33,876
+<font face="Comic Sans MS" color="#ffff80"><b>And then Dad can talk
+to Vandevere about the deal!</b></font>
+
+790
+00:59:33,878 --> 00:59:34,944
+<font face="Comic Sans MS" color="#ffff80"><b>About the what?</b></font>
+
+791
+00:59:34,946 --> 00:59:36,478
+<font face="Comic Sans MS" color="#ffff80"><b>We made a deal with Dumbo.</b></font>
+
+792
+00:59:36,480 --> 00:59:37,914
+<font face="Comic Sans MS" color="#ffff80"><b>We promised we'd buy
+his mom back</b></font>
+
+793
+00:59:37,916 --> 00:59:39,548
+<font face="Comic Sans MS" color="#ffff80"><b>with all the money
+he makes for the circus.</b></font>
+
+794
+00:59:39,550 --> 00:59:40,684
+<font face="Comic Sans MS" color="#ffff80"><b>That's why he flies.</b></font>
+
+795
+00:59:41,920 --> 00:59:44,419
+<font face="Comic Sans MS" color="#ffff80"><b>- Joe, not now!
+- Are we ready?</b></font>
+
+796
+00:59:44,421 --> 00:59:45,656
+<font face="Comic Sans MS" color="#ffff80"><b>Yeah.</b></font>
+
+797
+00:59:52,063 --> 00:59:53,628
+<font face="Comic Sans MS" color="#ffff80"><b>Okay, let's go.</b></font>
+
+798
+00:59:53,630 --> 00:59:56,333
+<font face="Comic Sans MS" color="#ffff80"><b>Okay, Dumbo, let's do this.</b></font>
+
+799
+01:00:55,525 --> 01:00:57,192
+<font face="Comic Sans MS" color="#ffff80"><b>Pink elephants?</b></font>
+
+800
+01:00:57,194 --> 01:00:58,629
+<font face="Comic Sans MS" color="#ffff80"><b>So?</b></font>
+
+801
+01:01:57,753 --> 01:02:02,656
+<font face="Comic Sans MS" color="#ffff80"><b><i>Ladies and gentlemen,
+boys and girls of all ages!</i></b></font>
+
+802
+01:02:02,658 --> 01:02:06,760
+<font face="Comic Sans MS" color="#ffff80"><b><i>This is the moment
+we've all been waiting for!</i></b></font>
+
+803
+01:02:06,762 --> 01:02:08,896
+<font face="Comic Sans MS" color="#ffff80"><b><i>V.A. Vandevere,</i></b></font>
+
+804
+01:02:08,898 --> 01:02:11,099
+<font face="Comic Sans MS" color="#ffff80"><b><i>in association
+with Max Medici...</i></b></font>
+
+805
+01:02:11,101 --> 01:02:15,769
+<font face="Comic Sans MS" color="#ffff80"><b><i>proudly presents,
+making his Dreamland debut...</i></b></font>
+
+806
+01:02:15,771 --> 01:02:18,173
+<font face="Comic Sans MS" color="#ffff80"><b><i>You've seen a horse-fly.</i></b></font>
+
+807
+01:02:18,175 --> 01:02:20,841
+<font face="Comic Sans MS" color="#ffff80"><b><i>You've seen a dragonfly.</i></b></font>
+
+808
+01:02:20,843 --> 01:02:23,777
+<font face="Comic Sans MS" color="#ffff80"><b><i>You've even seen a housefly.</i></b></font>
+
+809
+01:02:23,779 --> 01:02:25,946
+<font face="Comic Sans MS" color="#ffff80"><b><i>But you haven't
+seen anything...</i></b></font>
+
+810
+01:02:25,948 --> 01:02:29,883
+<font face="Comic Sans MS" color="#ffff80"><b><i>until you see
+an elephant fly.</i></b></font>
+
+811
+01:02:29,885 --> 01:02:32,853
+<font face="Comic Sans MS" color="#ffff80"><b><i>Let's get ready for Dumbo!</i></b></font>
+
+812
+01:02:50,072 --> 01:02:51,640
+<font face="Comic Sans MS" color="#ffff80"><b>Coming through.</b></font>
+
+813
+01:02:52,942 --> 01:02:54,643
+<font face="Comic Sans MS" color="#ffff80"><b>Come on.</b></font>
+
+814
+01:03:12,962 --> 01:03:14,063
+<font face="Comic Sans MS" color="#ffff80"><b>He can do it.</b></font>
+
+815
+01:03:16,699 --> 01:03:17,900
+<font face="Comic Sans MS" color="#ffff80"><b>I know he can.</b></font>
+
+816
+01:03:22,705 --> 01:03:24,738
+<font face="Comic Sans MS" color="#ffff80"><b><i>And here to welcome him...</i></b></font>
+
+817
+01:03:24,740 --> 01:03:29,777
+<font face="Comic Sans MS" color="#ffff80"><b><i>our own Queen of the Heavens!</i></b></font>
+
+818
+01:04:20,795 --> 01:04:23,729
+<font face="Comic Sans MS" color="#ffff80"><b>Dumbo.</b></font>
+
+819
+01:04:23,731 --> 01:04:27,001
+<font face="Comic Sans MS" color="#ffff80"><b>Five times around the ring.
+That's all we have to do.</b></font>
+
+820
+01:04:28,204 --> 01:04:29,637
+<font face="Comic Sans MS" color="#ffff80"><b>Nice and easy,
+like we practiced.</b></font>
+
+821
+01:04:36,345 --> 01:04:38,010
+<font face="Comic Sans MS" color="#ffff80"><b>- Dad?
+- Mmm-hmm.</b></font>
+
+822
+01:04:38,012 --> 01:04:39,013
+<font face="Comic Sans MS" color="#ffff80"><b>Why aren't they
+putting up the nets?</b></font>
+
+823
+01:04:42,183 --> 01:04:43,783
+<font face="Comic Sans MS" color="#ffff80"><b>Hey, guys?</b></font>
+
+824
+01:04:43,785 --> 01:04:45,118
+<font face="Comic Sans MS" color="#ffff80"><b>Guys, what's going on?</b></font>
+
+825
+01:04:45,120 --> 01:04:46,320
+<font face="Comic Sans MS" color="#ffff80"><b>Your men are supposed
+to be out there!</b></font>
+
+826
+01:04:46,322 --> 01:04:47,122
+<font face="Comic Sans MS" color="#ffff80"><b>Change of plan.
+From the top.</b></font>
+
+827
+01:04:58,233 --> 01:05:00,933
+<font face="Comic Sans MS" color="#ffff80"><b>I can't see the nets.</b></font>
+
+828
+01:05:00,935 --> 01:05:03,304
+<font face="Comic Sans MS" color="#ffff80"><b>- They're invisible.
+- Hmm.</b></font>
+
+829
+01:05:04,772 --> 01:05:06,374
+<font face="Comic Sans MS" color="#ffff80"><b>What's wrong with you?
+They need nets!</b></font>
+
+830
+01:05:08,776 --> 01:05:09,709
+<font face="Comic Sans MS" color="#ffff80"><b>Colette!</b></font>
+
+831
+01:05:09,711 --> 01:05:11,212
+<font face="Comic Sans MS" color="#ffff80"><b>Wait, don't take off!</b></font>
+
+832
+01:05:13,014 --> 01:05:14,247
+<font face="Comic Sans MS" color="#ffff80"><b>Dumbo...</b></font>
+
+833
+01:05:14,249 --> 01:05:15,281
+<font face="Comic Sans MS" color="#ffff80"><b>Oh, boy!</b></font>
+
+834
+01:05:15,283 --> 01:05:16,951
+<font face="Comic Sans MS" color="#ffff80"><b>...Prince of the Elephants.</b></font>
+
+835
+01:05:18,920 --> 01:05:21,756
+<font face="Comic Sans MS" color="#ffff80"><b>I command you
+to fly with me.</b></font>
+
+836
+01:05:52,819 --> 01:05:53,986
+<font face="Comic Sans MS" color="#ffff80"><b>Colette!</b></font>
+
+837
+01:06:10,004 --> 01:06:11,404
+<font face="Comic Sans MS" color="#ffff80"><b>Lower the platform!</b></font>
+
+838
+01:06:29,790 --> 01:06:31,792
+<font face="Comic Sans MS" color="#ffff80"><b>Fly, little one!</b></font>
+
+839
+01:06:51,278 --> 01:06:52,946
+<font face="Comic Sans MS" color="#ffff80"><b>Magic dust!</b></font>
+
+840
+01:07:20,841 --> 01:07:22,042
+<font face="Comic Sans MS" color="#ffff80"><b>Where's my show?</b></font>
+
+841
+01:07:44,865 --> 01:07:47,532
+<font face="Comic Sans MS" color="#ffff80"><b>The elephant's headed
+to Nightmare Island.</b></font>
+
+842
+01:08:07,487 --> 01:08:10,157
+<font face="Comic Sans MS" color="#ffff80"><b>Come on, sweetie. Let's go.</b></font>
+
+843
+01:08:46,360 --> 01:08:47,592
+<font face="Comic Sans MS" color="#ffff80"><b>Dumbo, it's okay.</b></font>
+
+844
+01:08:47,594 --> 01:08:49,463
+<font face="Comic Sans MS" color="#ffff80"><b>We're here.</b></font>
+
+845
+01:08:50,497 --> 01:08:51,962
+<font face="Comic Sans MS" color="#ffff80"><b>Good evening.</b></font>
+
+846
+01:08:51,964 --> 01:08:53,431
+<font face="Comic Sans MS" color="#ffff80"><b>It's Mr. Vandevere.</b></font>
+
+847
+01:08:53,433 --> 01:08:54,632
+<font face="Comic Sans MS" color="#ffff80"><b>- Hello, hi.
+- Hey, that's V.A. Vandevere!</b></font>
+
+848
+01:08:54,634 --> 01:08:55,966
+<font face="Comic Sans MS" color="#ffff80"><b>Everyone having fun?</b></font>
+
+849
+01:08:55,968 --> 01:08:57,335
+<font face="Comic Sans MS" color="#ffff80"><b>Good.</b></font>
+
+850
+01:08:57,337 --> 01:08:59,103
+<font face="Comic Sans MS" color="#ffff80"><b>- Having a good time?
+- Yes, sir.</b></font>
+
+851
+01:08:59,105 --> 01:09:00,938
+<font face="Comic Sans MS" color="#ffff80"><b>Fantastic.</b></font>
+
+852
+01:09:00,940 --> 01:09:03,408
+<font face="Comic Sans MS" color="#ffff80"><b>Get him outta here.</b></font>
+
+853
+01:09:03,410 --> 01:09:05,008
+<font face="Comic Sans MS" color="#ffff80"><b>- Yes.
+- Over here!</b></font>
+
+854
+01:09:05,010 --> 01:09:06,343
+<font face="Comic Sans MS" color="#ffff80"><b>- Folks, please.
+- Hello.</b></font>
+
+855
+01:09:06,345 --> 01:09:08,145
+<font face="Comic Sans MS" color="#ffff80"><b>Folks, I need you
+to leave the exhibit.</b></font>
+
+856
+01:09:08,147 --> 01:09:10,182
+<font face="Comic Sans MS" color="#ffff80"><b>Come on.</b></font>
+
+857
+01:09:12,118 --> 01:09:13,718
+<font face="Comic Sans MS" color="#ffff80"><b>Guys, guys, go easy,
+he's just a baby.</b></font>
+
+858
+01:09:13,720 --> 01:09:16,086
+<font face="Comic Sans MS" color="#ffff80"><b>Soldier,
+I give the orders here.</b></font>
+
+859
+01:09:24,029 --> 01:09:25,262
+<font face="Comic Sans MS" color="#ffff80"><b>It's his bedtime.</b></font>
+
+860
+01:09:27,500 --> 01:09:29,533
+<font face="Comic Sans MS" color="#ffff80"><b><i>This attraction is now closed.</i></b></font>
+
+861
+01:09:36,710 --> 01:09:38,308
+<font face="Comic Sans MS" color="#ffff80"><b>Dad?</b></font>
+
+862
+01:09:38,310 --> 01:09:39,445
+<font face="Comic Sans MS" color="#ffff80"><b>Uh-huh.</b></font>
+
+863
+01:09:40,346 --> 01:09:42,081
+<font face="Comic Sans MS" color="#ffff80"><b>It's Mrs. Jumbo.</b></font>
+
+864
+01:09:47,987 --> 01:09:50,087
+<font face="Comic Sans MS" color="#ffff80"><b>Come on,
+I want to see Dumbo!</b></font>
+
+865
+01:09:50,089 --> 01:09:51,555
+<font face="Comic Sans MS" color="#ffff80"><b>I want to see Dumbo!</b></font>
+
+866
+01:09:51,557 --> 01:09:52,489
+<font face="Comic Sans MS" color="#ffff80"><b>I want my money back!</b></font>
+
+867
+01:09:52,491 --> 01:09:53,657
+<font face="Comic Sans MS" color="#ffff80"><b>I don't understand.</b></font>
+
+868
+01:09:53,659 --> 01:09:56,093
+<font face="Comic Sans MS" color="#ffff80"><b>The elephant flies.
+You saw it.</b></font>
+
+869
+01:09:56,095 --> 01:09:57,694
+<font face="Comic Sans MS" color="#ffff80"><b>I saw a vanishing act.</b></font>
+
+870
+01:09:57,696 --> 01:10:01,298
+<font face="Comic Sans MS" color="#ffff80"><b>I'm not investing one cent
+until I can see this works.</b></font>
+
+871
+01:10:01,300 --> 01:10:03,600
+<font face="Comic Sans MS" color="#ffff80"><b>You can't control
+your animal.</b></font>
+
+872
+01:10:03,602 --> 01:10:05,736
+<font face="Comic Sans MS" color="#ffff80"><b>You give me a little time,
+I can fix this.</b></font>
+
+873
+01:10:05,738 --> 01:10:09,241
+<font face="Comic Sans MS" color="#ffff80"><b>Whatever! Till then,
+the bank is closed.</b></font>
+
+874
+01:10:13,712 --> 01:10:15,012
+<font face="Comic Sans MS" color="#ffff80"><b>What happened up there?</b></font>
+
+875
+01:10:15,014 --> 01:10:16,246
+<font face="Comic Sans MS" color="#ffff80"><b>You lost control
+of the animal.</b></font>
+
+876
+01:10:16,248 --> 01:10:17,247
+<font face="Comic Sans MS" color="#ffff80"><b>You're the animal.</b></font>
+
+877
+01:10:17,249 --> 01:10:18,582
+<font face="Comic Sans MS" color="#ffff80"><b>Where was my net?</b></font>
+
+878
+01:10:18,584 --> 01:10:21,051
+<font face="Comic Sans MS" color="#ffff80"><b>Nets are for rehearsal.
+This is the show.</b></font>
+
+879
+01:10:23,722 --> 01:10:26,123
+<font face="Comic Sans MS" color="#ffff80"><b>Training?
+You call that training?</b></font>
+
+880
+01:10:26,125 --> 01:10:28,625
+<font face="Comic Sans MS" color="#ffff80"><b>Now, hold on, Mr. Vandevere,
+we know why he flew away.</b></font>
+
+881
+01:10:28,627 --> 01:10:30,627
+<font face="Comic Sans MS" color="#ffff80"><b>He recognized
+that other elephant's call.</b></font>
+
+882
+01:10:30,629 --> 01:10:32,729
+<font face="Comic Sans MS" color="#ffff80"><b>The one on Nightmare Island.
+It's his momma!</b></font>
+
+883
+01:10:32,731 --> 01:10:34,498
+<font face="Comic Sans MS" color="#ffff80"><b>It's true.
+It's her.</b></font>
+
+884
+01:10:34,500 --> 01:10:35,799
+<font face="Comic Sans MS" color="#ffff80"><b>She was sold from our
+circus two months ago.</b></font>
+
+885
+01:10:35,801 --> 01:10:37,334
+<font face="Comic Sans MS" color="#ffff80"><b>Every child
+knows its mother.</b></font>
+
+886
+01:10:37,336 --> 01:10:39,803
+<font face="Comic Sans MS" color="#ffff80"><b>And they say
+elephants never forget.</b></font>
+
+887
+01:10:39,805 --> 01:10:42,071
+<font face="Comic Sans MS" color="#ffff80"><b>They can be
+together now.</b></font>
+
+888
+01:10:42,073 --> 01:10:43,774
+<font face="Comic Sans MS" color="#ffff80"><b>Why are there children
+in my office?</b></font>
+
+889
+01:10:43,776 --> 01:10:47,711
+<font face="Comic Sans MS" color="#ffff80"><b>Mr. Vandevere, please,
+all Dumbo wants is his momma.</b></font>
+
+890
+01:10:47,713 --> 01:10:49,111
+<font face="Comic Sans MS" color="#ffff80"><b>Just reunite them,</b></font>
+
+891
+01:10:49,113 --> 01:10:50,547
+<font face="Comic Sans MS" color="#ffff80"><b>and he'll do
+whatever you want.</b></font>
+
+892
+01:10:50,549 --> 01:10:53,684
+<font face="Comic Sans MS" color="#ffff80"><b>No, he'll do
+whatever she wants.</b></font>
+
+893
+01:10:53,686 --> 01:10:55,252
+<font face="Comic Sans MS" color="#ffff80"><b>You think
+I'd have bought her</b></font>
+
+894
+01:10:55,254 --> 01:10:57,721
+<font face="Comic Sans MS" color="#ffff80"><b>if I thought she was
+related to him? Hmm?</b></font>
+
+895
+01:10:57,723 --> 01:11:00,258
+<font face="Comic Sans MS" color="#ffff80"><b>Doesn't help me at all.</b></font>
+
+896
+01:11:04,697 --> 01:11:06,330
+<font face="Comic Sans MS" color="#ffff80"><b>You wanna know
+the most important thing</b></font>
+
+897
+01:11:06,332 --> 01:11:07,666
+<font face="Comic Sans MS" color="#ffff80"><b>about growing up?</b></font>
+
+898
+01:11:09,334 --> 01:11:13,539
+<font face="Comic Sans MS" color="#ffff80"><b>You've got to learn
+to go it alone.</b></font>
+
+899
+01:11:16,609 --> 01:11:19,242
+<font face="Comic Sans MS" color="#ffff80"><b>Get rid of the mother.
+You know where to take her.</b></font>
+
+900
+01:11:19,244 --> 01:11:20,644
+<font face="Comic Sans MS" color="#ffff80"><b>And treat yourself
+to some new boots.</b></font>
+
+901
+01:11:20,646 --> 01:11:23,014
+<font face="Comic Sans MS" color="#ffff80"><b>But, sir,
+you can't just kill her.</b></font>
+
+902
+01:11:23,516 --> 01:11:24,681
+<font face="Comic Sans MS" color="#ffff80"><b>Why not?</b></font>
+
+903
+01:11:24,683 --> 01:11:26,148
+<font face="Comic Sans MS" color="#ffff80"><b>Mr. Vandevere.</b></font>
+
+904
+01:11:26,150 --> 01:11:28,417
+<font face="Comic Sans MS" color="#ffff80"><b>Wait!
+Don't separate 'em, please.</b></font>
+
+905
+01:11:28,419 --> 01:11:30,453
+<font face="Comic Sans MS" color="#ffff80"><b>Don't do that to my kids.</b></font>
+
+906
+01:11:30,455 --> 01:11:32,823
+<font face="Comic Sans MS" color="#ffff80"><b>You know, Holt,
+when my father left us,</b></font>
+
+907
+01:11:32,825 --> 01:11:34,457
+<font face="Comic Sans MS" color="#ffff80"><b>it was a blessing really.</b></font>
+
+908
+01:11:34,459 --> 01:11:37,460
+<font face="Comic Sans MS" color="#ffff80"><b>Because I had to learn
+how to fend for myself.</b></font>
+
+909
+01:11:37,462 --> 01:11:39,863
+<font face="Comic Sans MS" color="#ffff80"><b>Maybe that's what
+your children need.</b></font>
+
+910
+01:11:39,865 --> 01:11:41,364
+<font face="Comic Sans MS" color="#ffff80"><b>Don't tell me
+what my children need.</b></font>
+
+911
+01:11:41,366 --> 01:11:42,801
+<font face="Comic Sans MS" color="#ffff80"><b>Best take a step back,
+Elephant Man.</b></font>
+
+912
+01:11:45,136 --> 01:11:46,737
+<font face="Comic Sans MS" color="#ffff80"><b>Darling...</b></font>
+
+913
+01:11:46,739 --> 01:11:51,140
+<font face="Comic Sans MS" color="#ffff80"><b>Dumbo and his mom
+need a little alone time.</b></font>
+
+914
+01:11:51,142 --> 01:11:53,409
+<font face="Comic Sans MS" color="#ffff80"><b>So, Mommy's going to
+take a little trip...</b></font>
+
+915
+01:11:53,411 --> 01:11:55,480
+<font face="Comic Sans MS" color="#ffff80"><b>so that Dumbo
+won't be distracted.</b></font>
+
+916
+01:11:58,249 --> 01:12:00,685
+<font face="Comic Sans MS" color="#ffff80"><b>Milly! Milly!</b></font>
+
+917
+01:12:13,698 --> 01:12:14,732
+<font face="Comic Sans MS" color="#ffff80"><b>Colette?</b></font>
+
+918
+01:12:16,534 --> 01:12:17,802
+<font face="Comic Sans MS" color="#ffff80"><b>I have rehearsal.</b></font>
+
+919
+01:12:19,470 --> 01:12:20,538
+<font face="Comic Sans MS" color="#ffff80"><b>Max.</b></font>
+
+920
+01:12:25,810 --> 01:12:27,376
+<font face="Comic Sans MS" color="#ffff80"><b><i>Nightmare Island.</i></b></font>
+
+921
+01:12:27,378 --> 01:12:29,178
+<font face="Comic Sans MS" color="#ffff80"><b>Milly?</b></font>
+
+922
+01:12:29,180 --> 01:12:30,813
+<font face="Comic Sans MS" color="#ffff80"><b><i>Home of the most dangerous
+beasts in the world.</i></b></font>
+
+923
+01:12:30,815 --> 01:12:32,483
+<font face="Comic Sans MS" color="#ffff80"><b>Sir, park's closing.</b></font>
+
+924
+01:12:39,624 --> 01:12:40,725
+<font face="Comic Sans MS" color="#ffff80"><b>Milly!</b></font>
+
+925
+01:12:44,729 --> 01:12:45,730
+<font face="Comic Sans MS" color="#ffff80"><b>Milly!</b></font>
+
+926
+01:12:50,635 --> 01:12:52,670
+<font face="Comic Sans MS" color="#ffff80"><b>Did you find her?</b></font>
+
+927
+01:12:53,471 --> 01:12:54,472
+<font face="Comic Sans MS" color="#ffff80"><b>No.</b></font>
+
+928
+01:12:57,742 --> 01:13:01,577
+<font face="Comic Sans MS" color="#ffff80"><b>Well, her momma always knew
+what to say. No matter what.</b></font>
+
+929
+01:13:01,579 --> 01:13:03,746
+<font face="Comic Sans MS" color="#ffff80"><b>She always knew.</b></font>
+
+930
+01:13:03,748 --> 01:13:07,316
+<font face="Comic Sans MS" color="#ffff80"><b>Your children don't need you
+to be perfect.</b></font>
+
+931
+01:13:07,318 --> 01:13:09,520
+<font face="Comic Sans MS" color="#ffff80"><b>They just need you
+to believe in them.</b></font>
+
+932
+01:13:11,188 --> 01:13:12,657
+<font face="Comic Sans MS" color="#ffff80"><b>That simple, huh?</b></font>
+
+933
+01:13:18,930 --> 01:13:22,199
+<font face="Comic Sans MS" color="#ffff80"><b>All right, well,
+I'm gonna keep looking.</b></font>
+
+934
+01:13:43,353 --> 01:13:45,988
+<font face="Comic Sans MS" color="#ffff80"><b>That's my daughter
+all right.</b></font>
+
+935
+01:13:45,990 --> 01:13:49,159
+<font face="Comic Sans MS" color="#ffff80"><b>The only girl I know who
+runs away to go to school.</b></font>
+
+936
+01:13:50,327 --> 01:13:51,961
+<font face="Comic Sans MS" color="#ffff80"><b>It's our fault.</b></font>
+
+937
+01:13:51,963 --> 01:13:54,462
+<font face="Comic Sans MS" color="#ffff80"><b>Bet Dumbo wishes
+he never met us.</b></font>
+
+938
+01:13:54,464 --> 01:13:56,999
+<font face="Comic Sans MS" color="#ffff80"><b>Ah, you showed him
+he could fly.</b></font>
+
+939
+01:13:57,001 --> 01:13:59,835
+<font face="Comic Sans MS" color="#ffff80"><b>You think
+he'd ever trade that?</b></font>
+
+940
+01:13:59,837 --> 01:14:01,839
+<font face="Comic Sans MS" color="#ffff80"><b>He would to have
+his mom back.</b></font>
+
+941
+01:14:07,477 --> 01:14:08,779
+<font face="Comic Sans MS" color="#ffff80"><b>I miss Momma.</b></font>
+
+942
+01:14:10,681 --> 01:14:12,416
+<font face="Comic Sans MS" color="#ffff80"><b>Yeah, so do I.</b></font>
+
+943
+01:14:16,020 --> 01:14:19,487
+<font face="Comic Sans MS" color="#ffff80"><b>There's something
+I want to show you.</b></font>
+
+944
+01:14:19,489 --> 01:14:20,722
+<font face="Comic Sans MS" color="#ffff80"><b><i>With advances in both</i></b></font>
+
+945
+01:14:20,724 --> 01:14:22,624
+<font face="Comic Sans MS" color="#ffff80"><b><i>engineering and medicine...</i></b></font>
+
+946
+01:14:22,626 --> 01:14:25,027
+<font face="Comic Sans MS" color="#ffff80"><b><i>the human and the mechanical
+will soon be combined...</i></b></font>
+
+947
+01:14:25,029 --> 01:14:28,496
+<font face="Comic Sans MS" color="#ffff80"><b><i>to assist ordinary families,
+workers and veterans.</i></b></font>
+
+948
+01:14:28,498 --> 01:14:30,632
+<font face="Comic Sans MS" color="#ffff80"><b><i>All kinds
+of technological marvels</i></b></font>
+
+949
+01:14:30,634 --> 01:14:32,703
+<font face="Comic Sans MS" color="#ffff80"><b><i>await us in the 20th century.</i></b></font>
+
+950
+01:14:33,970 --> 01:14:36,306
+<font face="Comic Sans MS" color="#ffff80"><b>You're gonna do
+great things.</b></font>
+
+951
+01:14:37,541 --> 01:14:38,542
+<font face="Comic Sans MS" color="#ffff80"><b>I know it.</b></font>
+
+952
+01:14:49,419 --> 01:14:50,819
+<font face="Comic Sans MS" color="#ffff80"><b>Whoa, whoa. What's this?</b></font>
+
+953
+01:14:50,821 --> 01:14:52,454
+<font face="Comic Sans MS" color="#ffff80"><b>Oh, give me a break.</b></font>
+
+954
+01:14:52,456 --> 01:14:55,325
+<font face="Comic Sans MS" color="#ffff80"><b>I gotta teach you
+how to read English, too?</b></font>
+
+955
+01:15:00,497 --> 01:15:03,498
+<font face="Comic Sans MS" color="#ffff80"><b>Oh, Max, hello!</b></font>
+
+956
+01:15:03,500 --> 01:15:05,567
+<font face="Comic Sans MS" color="#ffff80"><b>Good, you brought
+the paperwork.</b></font>
+
+957
+01:15:05,569 --> 01:15:07,535
+<font face="Comic Sans MS" color="#ffff80"><b>Max...</b></font>
+
+958
+01:15:07,537 --> 01:15:10,338
+<font face="Comic Sans MS" color="#ffff80"><b>I was reviewing
+your troupe...</b></font>
+
+959
+01:15:10,340 --> 01:15:12,040
+<font face="Comic Sans MS" color="#ffff80"><b>and to be honest with you...</b></font>
+
+960
+01:15:12,042 --> 01:15:14,709
+<font face="Comic Sans MS" color="#ffff80"><b>they're really pale imitations
+from the acts we already have.</b></font>
+
+961
+01:15:14,711 --> 01:15:16,578
+<font face="Comic Sans MS" color="#ffff80"><b>So I was thinking,
+I don't know,</b></font>
+
+962
+01:15:16,580 --> 01:15:18,379
+<font face="Comic Sans MS" color="#ffff80"><b>a month's severance?
+Seems fair.</b></font>
+
+963
+01:15:18,381 --> 01:15:19,683
+<font face="Comic Sans MS" color="#ffff80"><b><i>Capisce?</i></b></font>
+
+964
+01:15:21,051 --> 01:15:22,951
+<font face="Comic Sans MS" color="#ffff80"><b>I thought you promised to...</b></font>
+
+965
+01:15:22,953 --> 01:15:25,854
+<font face="Comic Sans MS" color="#ffff80"><b>Max, the contract says
+that I'd hire them.</b></font>
+
+966
+01:15:25,856 --> 01:15:27,889
+<font face="Comic Sans MS" color="#ffff80"><b>It never stipulated
+for how long.</b></font>
+
+967
+01:15:27,891 --> 01:15:30,992
+<font face="Comic Sans MS" color="#ffff80"><b>So, get your little band of
+low-rent freaks out of here.</b></font>
+
+968
+01:15:30,994 --> 01:15:34,562
+<font face="Comic Sans MS" color="#ffff80"><b>But they're my troupe.
+They're countin' on me.</b></font>
+
+969
+01:15:34,564 --> 01:15:37,031
+<font face="Comic Sans MS" color="#ffff80"><b>Okay, let's have a heart.</b></font>
+
+970
+01:15:37,033 --> 01:15:38,902
+<font face="Comic Sans MS" color="#ffff80"><b>Why don't you tell them?</b></font>
+
+971
+01:15:50,614 --> 01:15:53,884
+<font face="Comic Sans MS" color="#ffff80"><b>'Bout time, boss.
+So, when do we start?</b></font>
+
+972
+01:16:04,961 --> 01:16:06,660
+<font face="Comic Sans MS" color="#ffff80"><b>What's going on, guys?</b></font>
+
+973
+01:16:06,662 --> 01:16:08,629
+<font face="Comic Sans MS" color="#ffff80"><b>Vandevere's fired them all.</b></font>
+
+974
+01:16:08,631 --> 01:16:10,767
+<font face="Comic Sans MS" color="#ffff80"><b>They're to leave by tomorrow.</b></font>
+
+975
+01:16:23,512 --> 01:16:26,480
+<font face="Comic Sans MS" color="#ffff80"><b>Goodbye, little friend.</b></font>
+
+976
+01:16:26,482 --> 01:16:27,951
+<font face="Comic Sans MS" color="#ffff80"><b>Goodbye.</b></font>
+
+977
+01:16:30,153 --> 01:16:33,021
+<font face="Comic Sans MS" color="#ffff80"><b>We wanted to see him
+one last time.</b></font>
+
+978
+01:16:33,023 --> 01:16:36,690
+<font face="Comic Sans MS" color="#ffff80"><b>One last time
+to see him fly.</b></font>
+
+979
+01:16:36,692 --> 01:16:39,027
+<font face="Comic Sans MS" color="#ffff80"><b>I don't think
+he wants to anymore.</b></font>
+
+980
+01:16:39,029 --> 01:16:40,961
+<font face="Comic Sans MS" color="#ffff80"><b>Oh, no. But he must.</b></font>
+
+981
+01:16:40,963 --> 01:16:43,730
+<font face="Comic Sans MS" color="#ffff80"><b>He cannot lose
+Mrs. Jumbo again!</b></font>
+
+982
+01:16:43,732 --> 01:16:46,569
+<font face="Comic Sans MS" color="#ffff80"><b>Uh, I'm afraid
+it's rather worse than that.</b></font>
+
+983
+01:16:47,103 --> 01:16:48,836
+<font face="Comic Sans MS" color="#ffff80"><b>Mr. Sotheby?</b></font>
+
+984
+01:16:48,838 --> 01:16:51,772
+<font face="Comic Sans MS" color="#ffff80"><b>I've come
+to clear my conscience.</b></font>
+
+985
+01:16:51,774 --> 01:16:54,575
+<font face="Comic Sans MS" color="#ffff80"><b>I resigned my position as soon
+as I heard him give the order.</b></font>
+
+986
+01:16:54,577 --> 01:16:56,944
+<font face="Comic Sans MS" color="#ffff80"><b>What order?</b></font>
+
+987
+01:16:56,946 --> 01:17:00,013
+<font face="Comic Sans MS" color="#ffff80"><b>Mrs. Jumbo will be gone
+by tomorrow night.</b></font>
+
+988
+01:17:00,015 --> 01:17:01,851
+<font face="Comic Sans MS" color="#ffff80"><b>And she's not
+meant to survive.</b></font>
+
+989
+01:17:17,666 --> 01:17:20,200
+<font face="Comic Sans MS" color="#ffff80"><b>This "Dreamland"
+doesn't deserve him.</b></font>
+
+990
+01:17:20,202 --> 01:17:22,037
+<font face="Comic Sans MS" color="#ffff80"><b>No circus does.</b></font>
+
+991
+01:17:34,016 --> 01:17:38,453
+<font face="Comic Sans MS" color="#ffff80"><b>Well, who's gonna be
+willing to help me?</b></font>
+
+992
+01:17:40,756 --> 01:17:42,591
+<font face="Comic Sans MS" color="#ffff80"><b>Set Dumbo
+and his momma free.</b></font>
+
+993
+01:18:11,921 --> 01:18:13,486
+<font face="Comic Sans MS" color="#ffff80"><b><i>Welcome to the Colosseum,</i></b></font>
+
+994
+01:18:13,488 --> 01:18:16,191
+<font face="Comic Sans MS" color="#ffff80"><b><i>where the impossible
+is possible.</i></b></font>
+
+995
+01:18:18,559 --> 01:18:21,228
+<font face="Comic Sans MS" color="#ffff80"><b>Okay.
+Second time's the charm.</b></font>
+
+996
+01:18:21,230 --> 01:18:24,797
+<font face="Comic Sans MS" color="#ffff80"><b>Let's see if Dream Daddy's
+worked out the kinks.</b></font>
+
+997
+01:18:24,799 --> 01:18:26,166
+<font face="Comic Sans MS" color="#ffff80"><b><i>Here to pick up the elephant</i></b></font>
+
+998
+01:18:26,168 --> 01:18:27,968
+<font face="Comic Sans MS" color="#ffff80"><b>- <i>from Nightmare Island?</i>
+- Confirmed.</b></font>
+
+999
+01:18:27,970 --> 01:18:29,604
+<font face="Comic Sans MS" color="#ffff80"><b>Unlock the back gates.</b></font>
+
+1000
+01:18:52,660 --> 01:18:55,228
+<font face="Comic Sans MS" color="#ffff80"><b>Dumbo in position!</b></font>
+
+1001
+01:18:55,230 --> 01:18:57,063
+<font face="Comic Sans MS" color="#ffff80"><b>Soon as he flies,
+you run back to his tent</b></font>
+
+1002
+01:18:57,065 --> 01:18:58,664
+<font face="Comic Sans MS" color="#ffff80"><b>and I'll find you there.</b></font>
+
+1003
+01:18:58,666 --> 01:18:59,999
+<font face="Comic Sans MS" color="#ffff80"><b>All right, Big D.</b></font>
+
+1004
+01:19:01,303 --> 01:19:04,136
+<font face="Comic Sans MS" color="#ffff80"><b>It's all up to you now.</b></font>
+
+1005
+01:19:04,138 --> 01:19:06,572
+<font face="Comic Sans MS" color="#ffff80"><b>Come on, Holt!</b></font>
+
+1006
+01:19:16,551 --> 01:19:17,919
+<font face="Comic Sans MS" color="#ffff80"><b>To hell with it.</b></font>
+
+1007
+01:19:22,623 --> 01:19:24,690
+<font face="Comic Sans MS" color="#ffff80"><b>Ready for positions.</b></font>
+
+1008
+01:19:24,692 --> 01:19:26,959
+<font face="Comic Sans MS" color="#ffff80"><b>We could have used
+a little rehearsal.</b></font>
+
+1009
+01:19:26,961 --> 01:19:28,627
+<font face="Comic Sans MS" color="#ffff80"><b>Rehearsal?</b></font>
+
+1010
+01:19:28,629 --> 01:19:30,932
+<font face="Comic Sans MS" color="#ffff80"><b>Think we got a rehearsal
+at the Battle of the Argonne?</b></font>
+
+1011
+01:19:31,966 --> 01:19:33,866
+<font face="Comic Sans MS" color="#ffff80"><b>You sure you can do this?</b></font>
+
+1012
+01:19:33,868 --> 01:19:35,703
+<font face="Comic Sans MS" color="#ffff80"><b>I fly elephants
+all the time.</b></font>
+
+1013
+01:19:36,838 --> 01:19:39,338
+<font face="Comic Sans MS" color="#ffff80"><b>Are you sure
+you can do this?</b></font>
+
+1014
+01:19:39,340 --> 01:19:41,209
+<font face="Comic Sans MS" color="#ffff80"><b>With one hand
+tied behind my back.</b></font>
+
+1015
+01:19:54,022 --> 01:19:56,624
+<font face="Comic Sans MS" color="#ffff80"><b>Wait. What's that?</b></font>
+
+1016
+01:19:57,992 --> 01:19:58,993
+<font face="Comic Sans MS" color="#ffff80"><b>Ma'am?</b></font>
+
+1017
+01:20:00,795 --> 01:20:02,795
+<font face="Comic Sans MS" color="#ffff80"><b>Ma'am?</b></font>
+
+1018
+01:20:02,797 --> 01:20:04,864
+<font face="Comic Sans MS" color="#ffff80"><b>Sorry, ma'am,
+attraction's closed.</b></font>
+
+1019
+01:20:04,866 --> 01:20:08,100
+<font face="Comic Sans MS" color="#ffff80"><b>My dream...
+to be a mermaid...</b></font>
+
+1020
+01:20:08,102 --> 01:20:10,635
+<font face="Comic Sans MS" color="#ffff80"><b>and now
+they've taken it away.</b></font>
+
+1021
+01:20:10,637 --> 01:20:13,105
+<font face="Comic Sans MS" color="#ffff80"><b>And yet I hear
+the water singing.</b></font>
+
+1022
+01:20:13,107 --> 01:20:14,340
+<font face="Comic Sans MS" color="#ffff80"><b>I hear them
+beckoning me home.</b></font>
+
+1023
+01:20:14,342 --> 01:20:16,275
+<font face="Comic Sans MS" color="#ffff80"><b>Lady, just be careful,
+okay?</b></font>
+
+1024
+01:20:16,277 --> 01:20:17,675
+<font face="Comic Sans MS" color="#ffff80"><b>Return me
+to the vast abyss!</b></font>
+
+1025
+01:20:17,677 --> 01:20:19,111
+<font face="Comic Sans MS" color="#ffff80"><b>Let's go.</b></font>
+
+1026
+01:20:19,113 --> 01:20:21,548
+<font face="Comic Sans MS" color="#ffff80"><b>- My destiny, the sea!
+- Okay.</b></font>
+
+1027
+01:21:10,931 --> 01:21:12,198
+<font face="Comic Sans MS" color="#ffff80"><b>We've lost power!</b></font>
+
+1028
+01:21:12,200 --> 01:21:13,731
+<font face="Comic Sans MS" color="#ffff80"><b>Even the cages?</b></font>
+
+1029
+01:21:13,733 --> 01:21:16,935
+<font face="Comic Sans MS" color="#ffff80"><b>But the animals...</b></font>
+
+1030
+01:21:16,937 --> 01:21:19,271
+<font face="Comic Sans MS" color="#ffff80"><b>Find the breakers.
+Get the lights back on!</b></font>
+
+1031
+01:21:19,273 --> 01:21:21,108
+<font face="Comic Sans MS" color="#ffff80"><b>And make sure
+those cages are locked.</b></font>
+
+1032
+01:21:39,726 --> 01:21:41,126
+<font face="Comic Sans MS" color="#ffff80"><b><i>Ladies and gentlemen,</i></b></font>
+
+1033
+01:21:41,128 --> 01:21:43,128
+<font face="Comic Sans MS" color="#ffff80"><b><i>boys and girls.</i></b></font>
+
+1034
+01:21:43,130 --> 01:21:46,798
+<font face="Comic Sans MS" color="#ffff80"><b><i>Making his second
+Dreamland debut.</i></b></font>
+
+1035
+01:21:46,800 --> 01:21:49,468
+<font face="Comic Sans MS" color="#ffff80"><b><i>Let's get ready for Dumbo!</i></b></font>
+
+1036
+01:22:49,496 --> 01:22:50,363
+<font face="Comic Sans MS" color="#ffff80"><b>Hey!</b></font>
+
+1037
+01:22:59,004 --> 01:23:00,739
+<font face="Comic Sans MS" color="#ffff80"><b>It's a trick!
+Get back to the...</b></font>
+
+1038
+01:23:16,055 --> 01:23:20,558
+<font face="Comic Sans MS" color="#ffff80"><b><i>And once again, our very own
+Queen of the Heavens!</i></b></font>
+
+1039
+01:23:42,449 --> 01:23:43,514
+<font face="Comic Sans MS" color="#ffff80"><b>You.</b></font>
+
+1040
+01:23:43,516 --> 01:23:46,352
+<font face="Comic Sans MS" color="#ffff80"><b>Where is
+your circus of freaks?</b></font>
+
+1041
+01:23:48,220 --> 01:23:49,587
+<font face="Comic Sans MS" color="#ffff80"><b>What's going on?</b></font>
+
+1042
+01:23:49,589 --> 01:23:52,089
+<font face="Comic Sans MS" color="#ffff80"><b>The elephant's
+mother is gone!</b></font>
+
+1043
+01:23:52,091 --> 01:23:55,025
+<font face="Comic Sans MS" color="#ffff80"><b>His troupe's behind it!</b></font>
+
+1044
+01:23:55,027 --> 01:23:57,562
+<font face="Comic Sans MS" color="#ffff80"><b>Alert the tower
+and secure the gates.</b></font>
+
+1045
+01:23:57,564 --> 01:23:59,164
+<font face="Comic Sans MS" color="#ffff80"><b>Don't let them get out.</b></font>
+
+1046
+01:24:00,432 --> 01:24:02,535
+<font face="Comic Sans MS" color="#ffff80"><b>But why would they
+only take the one?</b></font>
+
+1047
+01:24:04,036 --> 01:24:07,070
+<font face="Comic Sans MS" color="#ffff80"><b>Keep your eye on Farrier
+and those kids.</b></font>
+
+1048
+01:24:07,072 --> 01:24:08,774
+<font face="Comic Sans MS" color="#ffff80"><b>You! Come with us.</b></font>
+
+1049
+01:24:22,955 --> 01:24:24,256
+<font face="Comic Sans MS" color="#ffff80"><b>There they are!</b></font>
+
+1050
+01:24:26,292 --> 01:24:27,359
+<font face="Comic Sans MS" color="#ffff80"><b>Hey!</b></font>
+
+1051
+01:24:37,303 --> 01:24:38,935
+<font face="Comic Sans MS" color="#ffff80"><b>Hey, you!</b></font>
+
+1052
+01:24:38,937 --> 01:24:40,404
+<font face="Comic Sans MS" color="#ffff80"><b>What are you
+doing up there?</b></font>
+
+1053
+01:24:40,406 --> 01:24:42,205
+<font face="Comic Sans MS" color="#ffff80"><b>That's private property.</b></font>
+
+1054
+01:24:42,207 --> 01:24:44,107
+<font face="Comic Sans MS" color="#ffff80"><b>Come on! Get down here!</b></font>
+
+1055
+01:24:44,109 --> 01:24:45,342
+<font face="Comic Sans MS" color="#ffff80"><b>Now!</b></font>
+
+1056
+01:24:45,344 --> 01:24:48,545
+<font face="Comic Sans MS" color="#ffff80"><b>Hey, I'm Max Medici,
+Vandevere's partner.</b></font>
+
+1057
+01:24:48,547 --> 01:24:51,114
+<font face="Comic Sans MS" color="#ffff80"><b>He's just a maintenance man
+fixing a light!</b></font>
+
+1058
+01:24:51,116 --> 01:24:52,416
+<font face="Comic Sans MS" color="#ffff80"><b>Get back to your posts!</b></font>
+
+1059
+01:24:52,418 --> 01:24:54,286
+<font face="Comic Sans MS" color="#ffff80"><b>Yes, sir, Mr. Medici.</b></font>
+
+1060
+01:25:09,268 --> 01:25:11,268
+<font face="Comic Sans MS" color="#ffff80"><b>Let's try this again.</b></font>
+
+1061
+01:25:11,270 --> 01:25:12,571
+<font face="Comic Sans MS" color="#ffff80"><b>You and me.</b></font>
+
+1062
+01:25:28,253 --> 01:25:29,519
+<font face="Comic Sans MS" color="#ffff80"><b>Hey, the kids?</b></font>
+
+1063
+01:25:29,521 --> 01:25:30,687
+<font face="Comic Sans MS" color="#ffff80"><b>Where are the kids?</b></font>
+
+1064
+01:25:30,689 --> 01:25:32,121
+<font face="Comic Sans MS" color="#ffff80"><b>Hey, have you
+seen the kids?</b></font>
+
+1065
+01:25:32,123 --> 01:25:36,225
+<font face="Comic Sans MS" color="#ffff80"><b>Dumbo,
+Prince of the Elephants!</b></font>
+
+1066
+01:25:36,227 --> 01:25:39,230
+<font face="Comic Sans MS" color="#ffff80"><b>I command you
+to fly with me.</b></font>
+
+1067
+01:25:54,345 --> 01:25:56,582
+<font face="Comic Sans MS" color="#ffff80"><b>Dumbo, please fly.</b></font>
+
+1068
+01:25:57,649 --> 01:25:59,350
+<font face="Comic Sans MS" color="#ffff80"><b>Do it for your momma.</b></font>
+
+1069
+01:26:54,439 --> 01:26:55,540
+<font face="Comic Sans MS" color="#ffff80"><b>Where's your father?</b></font>
+
+1070
+01:27:09,053 --> 01:27:10,588
+<font face="Comic Sans MS" color="#ffff80"><b>Dumbo!</b></font>
+
+1071
+01:27:23,167 --> 01:27:24,968
+<font face="Comic Sans MS" color="#ffff80"><b>Hey! Get those kids!</b></font>
+
+1072
+01:27:28,104 --> 01:27:29,707
+<font face="Comic Sans MS" color="#ffff80"><b>Dumbo!</b></font>
+
+1073
+01:28:02,205 --> 01:28:03,340
+<font face="Comic Sans MS" color="#ffff80"><b>Come on.</b></font>
+
+1074
+01:28:04,509 --> 01:28:05,641
+<font face="Comic Sans MS" color="#ffff80"><b>There!</b></font>
+
+1075
+01:28:23,226 --> 01:28:24,294
+<font face="Comic Sans MS" color="#ffff80"><b><i>Bonsoir.</i></b></font>
+
+1076
+01:28:26,596 --> 01:28:28,131
+<font face="Comic Sans MS" color="#ffff80"><b>Just passing through!</b></font>
+
+1077
+01:28:29,466 --> 01:28:31,101
+<font face="Comic Sans MS" color="#ffff80"><b>Hey! You can't do that!</b></font>
+
+1078
+01:28:34,404 --> 01:28:35,537
+<font face="Comic Sans MS" color="#ffff80"><b>Get the elephant!</b></font>
+
+1079
+01:28:35,539 --> 01:28:37,338
+<font face="Comic Sans MS" color="#ffff80"><b>You get the elephant!</b></font>
+
+1080
+01:28:58,628 --> 01:29:01,796
+<font face="Comic Sans MS" color="#ffff80"><b>Don't worry.
+Dad'll be here soon.</b></font>
+
+1081
+01:29:01,798 --> 01:29:03,366
+<font face="Comic Sans MS" color="#ffff80"><b>Where's the elephant?</b></font>
+
+1082
+01:29:09,739 --> 01:29:11,506
+<font face="Comic Sans MS" color="#ffff80"><b>Why are you
+just standing there?</b></font>
+
+1083
+01:29:11,508 --> 01:29:12,807
+<font face="Comic Sans MS" color="#ffff80"><b>Get to the tower!</b></font>
+
+1084
+01:29:12,809 --> 01:29:15,143
+<font face="Comic Sans MS" color="#ffff80"><b>Electricity's failing!
+There's no elevators!</b></font>
+
+1085
+01:29:15,145 --> 01:29:18,780
+<font face="Comic Sans MS" color="#ffff80"><b>When I last checked,
+they invented stairs.</b></font>
+
+1086
+01:29:18,782 --> 01:29:20,481
+<font face="Comic Sans MS" color="#ffff80"><b><i>We seem to be experiencing</i></b></font>
+
+1087
+01:29:20,483 --> 01:29:22,419
+<font face="Comic Sans MS" color="#ffff80"><b><i>some technical difficulties.</i></b></font>
+
+1088
+01:29:36,866 --> 01:29:39,434
+<font face="Comic Sans MS" color="#ffff80"><b>What happened to my power?</b></font>
+
+1089
+01:29:39,436 --> 01:29:42,270
+<font face="Comic Sans MS" color="#ffff80"><b>What power, <i>mon cheri?</i></b></font>
+
+1090
+01:29:42,272 --> 01:29:43,771
+<font face="Comic Sans MS" color="#ffff80"><b>You ungrateful...</b></font>
+
+1091
+01:29:43,773 --> 01:29:47,642
+<font face="Comic Sans MS" color="#ffff80"><b>You were nothing before
+I made you my... Uh...</b></font>
+
+1092
+01:29:47,644 --> 01:29:50,680
+<font face="Comic Sans MS" color="#ffff80"><b>I believe the word
+is "queen."</b></font>
+
+1093
+01:29:52,181 --> 01:29:53,583
+<font face="Comic Sans MS" color="#ffff80"><b>I need lights!</b></font>
+
+1094
+01:29:56,586 --> 01:29:58,419
+<font face="Comic Sans MS" color="#ffff80"><b>Mr. Vandevere, wait!</b></font>
+
+1095
+01:29:58,421 --> 01:30:00,354
+<font face="Comic Sans MS" color="#ffff80"><b>We have to reset the mains,
+or you could cause a surge!</b></font>
+
+1096
+01:30:00,356 --> 01:30:01,556
+<font face="Comic Sans MS" color="#ffff80"><b>Right now it's impossible!</b></font>
+
+1097
+01:30:01,558 --> 01:30:03,860
+<font face="Comic Sans MS" color="#ffff80"><b>Nothing's impossible!</b></font>
+
+1098
+01:30:05,495 --> 01:30:07,363
+<font face="Comic Sans MS" color="#ffff80"><b>Mr. Vandevere!</b></font>
+
+1099
+01:30:13,268 --> 01:30:14,638
+<font face="Comic Sans MS" color="#ffff80"><b>Mr. Vandevere, stop!</b></font>
+
+1100
+01:30:40,396 --> 01:30:41,931
+<font face="Comic Sans MS" color="#ffff80"><b>Milly! Joe!</b></font>
+
+1101
+01:30:50,739 --> 01:30:52,574
+<font face="Comic Sans MS" color="#ffff80"><b>Come on. Go!
+Come on!</b></font>
+
+1102
+01:31:19,268 --> 01:31:20,701
+<font face="Comic Sans MS" color="#ffff80"><b>Get everyone out!</b></font>
+
+1103
+01:31:20,703 --> 01:31:22,738
+<font face="Comic Sans MS" color="#ffff80"><b>Evacuate the park!</b></font>
+
+1104
+01:31:26,775 --> 01:31:28,508
+<font face="Comic Sans MS" color="#ffff80"><b>Milly! Joe!</b></font>
+
+1105
+01:31:41,657 --> 01:31:42,825
+<font face="Comic Sans MS" color="#ffff80"><b>Hey!</b></font>
+
+1106
+01:31:48,797 --> 01:31:50,831
+<font face="Comic Sans MS" color="#ffff80"><b>Where is the elephant?</b></font>
+
+1107
+01:31:50,833 --> 01:31:52,833
+<font face="Comic Sans MS" color="#ffff80"><b>Let her go!</b></font>
+
+1108
+01:32:09,618 --> 01:32:10,784
+<font face="Comic Sans MS" color="#ffff80"><b>Come on!</b></font>
+
+1109
+01:32:10,786 --> 01:32:12,018
+<font face="Comic Sans MS" color="#ffff80"><b>Milly! Joe!</b></font>
+
+1110
+01:32:12,020 --> 01:32:13,787
+<font face="Comic Sans MS" color="#ffff80"><b>Dad!</b></font>
+
+1111
+01:32:13,789 --> 01:32:15,055
+<font face="Comic Sans MS" color="#ffff80"><b>- You all right? All right?
+- We're fine.</b></font>
+
+1112
+01:32:15,057 --> 01:32:16,757
+<font face="Comic Sans MS" color="#ffff80"><b>Okay, come on.
+All right, cover your faces.</b></font>
+
+1113
+01:32:16,759 --> 01:32:18,492
+<font face="Comic Sans MS" color="#ffff80"><b>Give me your hand!
+Come on!</b></font>
+
+1114
+01:32:18,494 --> 01:32:19,628
+<font face="Comic Sans MS" color="#ffff80"><b>Back!</b></font>
+
+1115
+01:32:21,930 --> 01:32:23,031
+<font face="Comic Sans MS" color="#ffff80"><b>Stay close.</b></font>
+
+1116
+01:32:32,507 --> 01:32:33,807
+<font face="Comic Sans MS" color="#ffff80"><b>Come on, everybody.</b></font>
+
+1117
+01:32:33,809 --> 01:32:36,509
+<font face="Comic Sans MS" color="#ffff80"><b>Let's get to the seaport!
+Now!</b></font>
+
+1118
+01:32:36,511 --> 01:32:38,579
+<font face="Comic Sans MS" color="#ffff80"><b>- Where are the Farriers?
+- They must still be inside.</b></font>
+
+1119
+01:33:11,445 --> 01:33:12,346
+<font face="Comic Sans MS" color="#ffff80"><b>Dad!</b></font>
+
+1120
+01:33:13,048 --> 01:33:14,513
+<font face="Comic Sans MS" color="#ffff80"><b>It's okay, Joe.</b></font>
+
+1121
+01:33:16,018 --> 01:33:17,085
+<font face="Comic Sans MS" color="#ffff80"><b>Come here. Come here.</b></font>
+
+1122
+01:33:20,022 --> 01:33:20,989
+<font face="Comic Sans MS" color="#ffff80"><b>Dumbo!</b></font>
+
+1123
+01:33:29,064 --> 01:33:30,130
+<font face="Comic Sans MS" color="#ffff80"><b>Dumbo!</b></font>
+
+1124
+01:33:30,132 --> 01:33:32,098
+<font face="Comic Sans MS" color="#ffff80"><b>Come on!</b></font>
+
+1125
+01:33:32,100 --> 01:33:34,967
+<font face="Comic Sans MS" color="#ffff80"><b>- Go! Go! Go! Go!
+- Jump!</b></font>
+
+1126
+01:33:34,969 --> 01:33:36,535
+<font face="Comic Sans MS" color="#ffff80"><b>Come on. Come on.</b></font>
+
+1127
+01:33:44,111 --> 01:33:45,913
+<font face="Comic Sans MS" color="#ffff80"><b>- All right, let's go.
+- Stay close, come on.</b></font>
+
+1128
+01:33:48,883 --> 01:33:50,149
+<font face="Comic Sans MS" color="#ffff80"><b>Okay. Go! Go! Go!</b></font>
+
+1129
+01:33:50,151 --> 01:33:52,551
+<font face="Comic Sans MS" color="#ffff80"><b>Come on!</b></font>
+
+1130
+01:33:52,553 --> 01:33:54,720
+<font face="Comic Sans MS" color="#ffff80"><b>- Dumbo!
+- Come on!</b></font>
+
+1131
+01:33:54,722 --> 01:33:56,121
+<font face="Comic Sans MS" color="#ffff80"><b>Dumbo! What's wrong?</b></font>
+
+1132
+01:33:56,123 --> 01:33:57,957
+<font face="Comic Sans MS" color="#ffff80"><b>Guys! Milly! Joe!
+Come on!</b></font>
+
+1133
+01:33:57,959 --> 01:33:59,594
+<font face="Comic Sans MS" color="#ffff80"><b>Dumbo, let's go!</b></font>
+
+1134
+01:34:03,598 --> 01:34:04,697
+<font face="Comic Sans MS" color="#ffff80"><b>Go!</b></font>
+
+1135
+01:34:09,804 --> 01:34:11,437
+<font face="Comic Sans MS" color="#ffff80"><b>Dumbo!</b></font>
+
+1136
+01:34:11,439 --> 01:34:13,072
+<font face="Comic Sans MS" color="#ffff80"><b>Get him!</b></font>
+
+1137
+01:34:13,074 --> 01:34:15,608
+<font face="Comic Sans MS" color="#ffff80"><b>He's seen us.
+Dumbo, you gotta go.</b></font>
+
+1138
+01:34:15,610 --> 01:34:17,042
+<font face="Comic Sans MS" color="#ffff80"><b>They're comin' for you.
+You gotta go, Dumbo.</b></font>
+
+1139
+01:34:17,044 --> 01:34:18,143
+<font face="Comic Sans MS" color="#ffff80"><b>He lost the feather.</b></font>
+
+1140
+01:34:18,145 --> 01:34:19,612
+<font face="Comic Sans MS" color="#ffff80"><b>Feather doesn't do nothin'.</b></font>
+
+1141
+01:34:19,614 --> 01:34:21,580
+<font face="Comic Sans MS" color="#ffff80"><b>Dumbo, you don't need
+the feather to fly.</b></font>
+
+1142
+01:34:21,582 --> 01:34:23,148
+<font face="Comic Sans MS" color="#ffff80"><b>Dad, they're coming!</b></font>
+
+1143
+01:34:23,150 --> 01:34:25,517
+<font face="Comic Sans MS" color="#ffff80"><b>Stand back! Stand back!</b></font>
+
+1144
+01:34:25,519 --> 01:34:26,554
+<font face="Comic Sans MS" color="#ffff80"><b>Out of my way!</b></font>
+
+1145
+01:34:28,789 --> 01:34:30,856
+<font face="Comic Sans MS" color="#ffff80"><b>Dumbo, remember this?</b></font>
+
+1146
+01:34:30,858 --> 01:34:32,858
+<font face="Comic Sans MS" color="#ffff80"><b>From my momma?</b></font>
+
+1147
+01:34:32,860 --> 01:34:37,730
+<font face="Comic Sans MS" color="#ffff80"><b>I can unlock any door.
+And you can, too.</b></font>
+
+1148
+01:34:37,732 --> 01:34:39,497
+<font face="Comic Sans MS" color="#ffff80"><b>But I don't need
+this key to do it.</b></font>
+
+1149
+01:34:39,499 --> 01:34:40,735
+<font face="Comic Sans MS" color="#ffff80"><b>And you don't need
+the feather.</b></font>
+
+1150
+01:34:41,936 --> 01:34:42,937
+<font face="Comic Sans MS" color="#ffff80"><b>Come on.</b></font>
+
+1151
+01:34:58,219 --> 01:34:59,484
+<font face="Comic Sans MS" color="#ffff80"><b>Dad!</b></font>
+
+1152
+01:34:59,486 --> 01:35:00,587
+<font face="Comic Sans MS" color="#ffff80"><b>Gotta go. Come on!</b></font>
+
+1153
+01:35:02,522 --> 01:35:03,923
+<font face="Comic Sans MS" color="#ffff80"><b>What are you doing?</b></font>
+
+1154
+01:35:03,925 --> 01:35:05,657
+<font face="Comic Sans MS" color="#ffff80"><b>There ain't room
+for the three of us.</b></font>
+
+1155
+01:35:05,659 --> 01:35:07,026
+<font face="Comic Sans MS" color="#ffff80"><b>You get him to the seaport
+and I'll see you there.</b></font>
+
+1156
+01:35:07,028 --> 01:35:08,428
+<font face="Comic Sans MS" color="#ffff80"><b>Go on, Big D.</b></font>
+
+1157
+01:35:14,701 --> 01:35:15,901
+<font face="Comic Sans MS" color="#ffff80"><b>Grab 'em!</b></font>
+
+1158
+01:35:15,903 --> 01:35:16,903
+<font face="Comic Sans MS" color="#ffff80"><b>Hey!</b></font>
+
+1159
+01:35:23,044 --> 01:35:25,046
+<font face="Comic Sans MS" color="#ffff80"><b>Hey!</b></font>
+
+1160
+01:35:26,713 --> 01:35:28,748
+<font face="Comic Sans MS" color="#ffff80"><b>That's my elephant!</b></font>
+
+1161
+01:35:42,529 --> 01:35:44,095
+<font face="Comic Sans MS" color="#ffff80"><b>They're safe.</b></font>
+
+1162
+01:35:44,097 --> 01:35:45,699
+<font face="Comic Sans MS" color="#ffff80"><b>Come on, let's go!</b></font>
+
+1163
+01:35:48,568 --> 01:35:50,068
+<font face="Comic Sans MS" color="#ffff80"><b>Hey! Get back here!</b></font>
+
+1164
+01:35:53,307 --> 01:35:55,106
+<font face="Comic Sans MS" color="#ffff80"><b>You freak!
+What have you done?</b></font>
+
+1165
+01:35:55,108 --> 01:35:56,941
+<font face="Comic Sans MS" color="#ffff80"><b>What they pay me for,
+mister.</b></font>
+
+1166
+01:35:56,943 --> 01:35:58,543
+<font face="Comic Sans MS" color="#ffff80"><b>Put on a hell of a show.</b></font>
+
+1167
+01:36:01,781 --> 01:36:03,648
+<font face="Comic Sans MS" color="#ffff80"><b>Hey! Him!</b></font>
+
+1168
+01:36:03,650 --> 01:36:05,550
+<font face="Comic Sans MS" color="#ffff80"><b>Right there, arrest that man.
+He stole my elephant.</b></font>
+
+1169
+01:36:05,552 --> 01:36:07,885
+<font face="Comic Sans MS" color="#ffff80"><b>Hey, we had a contract,
+Medici!</b></font>
+
+1170
+01:36:07,887 --> 01:36:10,924
+<font face="Comic Sans MS" color="#ffff80"><b>I'm no expert, but I think
+you got bigger problems here.</b></font>
+
+1171
+01:36:22,836 --> 01:36:24,938
+<font face="Comic Sans MS" color="#ffff80"><b>Wow. This is a disaster.</b></font>
+
+1172
+01:36:26,106 --> 01:36:27,739
+<font face="Comic Sans MS" color="#ffff80"><b>Come on,
+I'll buy you a hot dog.</b></font>
+
+1173
+01:36:27,741 --> 01:36:29,674
+<font face="Comic Sans MS" color="#ffff80"><b>Sounds good, J.G.</b></font>
+
+1174
+01:37:09,249 --> 01:37:11,782
+<font face="Comic Sans MS" color="#ffff80"><b>Last call for cargo!</b></font>
+
+1175
+01:37:11,784 --> 01:37:14,385
+<font face="Comic Sans MS" color="#ffff80"><b>All aboard!</b></font>
+
+1176
+01:37:35,641 --> 01:37:36,909
+<font face="Comic Sans MS" color="#ffff80"><b>Colette!</b></font>
+
+1177
+01:37:44,983 --> 01:37:46,683
+<font face="Comic Sans MS" color="#ffff80"><b>Where's your father?</b></font>
+
+1178
+01:37:46,685 --> 01:37:48,852
+<font face="Comic Sans MS" color="#ffff80"><b>Don't worry.
+He'll be here.</b></font>
+
+1179
+01:37:55,027 --> 01:37:56,394
+<font face="Comic Sans MS" color="#ffff80"><b>Dad!</b></font>
+
+1180
+01:37:56,396 --> 01:37:58,264
+<font face="Comic Sans MS" color="#ffff80"><b>I knew you could ride.</b></font>
+
+1181
+01:38:04,670 --> 01:38:06,772
+<font face="Comic Sans MS" color="#ffff80"><b>- Pramesh, we have to go.
+- Please, hurry.</b></font>
+
+1182
+01:38:08,073 --> 01:38:10,609
+<font face="Comic Sans MS" color="#ffff80"><b>Hurry! Come on! Hurry!</b></font>
+
+1183
+01:38:11,710 --> 01:38:12,845
+<font face="Comic Sans MS" color="#ffff80"><b>Come.</b></font>
+
+1184
+01:38:13,745 --> 01:38:15,214
+<font face="Comic Sans MS" color="#ffff80"><b>Let's go home.</b></font>
+
+1185
+01:38:31,130 --> 01:38:33,165
+<font face="Comic Sans MS" color="#ffff80"><b>Hey!</b></font>
+
+1186
+01:38:55,053 --> 01:38:57,089
+<font face="Comic Sans MS" color="#ffff80"><b>Well, get out of here,
+you little troublemaker.</b></font>
+
+1187
+01:38:59,825 --> 01:39:00,857
+<font face="Comic Sans MS" color="#ffff80"><b>Go on.</b></font>
+
+1188
+01:39:40,932 --> 01:39:42,831
+<font face="Comic Sans MS" color="#ffff80"><b>Ladies and gentlemen...</b></font>
+
+1189
+01:39:42,833 --> 01:39:47,504
+<font face="Comic Sans MS" color="#ffff80"><b>introducing our world-famous
+flying elephant.</b></font>
+
+1190
+01:39:54,879 --> 01:39:58,248
+<font face="Comic Sans MS" color="#ffff80"><b>Welcome to
+the Medici Family circus!</b></font>
+
+1191
+01:39:58,250 --> 01:40:00,483
+<font face="Comic Sans MS" color="#ffff80"><b>Where we believe
+no wild animals</b></font>
+
+1192
+01:40:00,485 --> 01:40:03,087
+<font face="Comic Sans MS" color="#ffff80"><b>shall be held in captivity.</b></font>
+
+1193
+01:40:10,495 --> 01:40:12,395
+<font face="Comic Sans MS" color="#ffff80"><b>See Rongo...</b></font>
+
+1194
+01:40:12,397 --> 01:40:15,933
+<font face="Comic Sans MS" color="#ffff80"><b>the world's strongest
+and most versatile man.</b></font>
+
+1195
+01:40:17,868 --> 01:40:21,136
+<font face="Comic Sans MS" color="#ffff80"><b>Meet the bewitching
+Miss Atlantis...</b></font>
+
+1196
+01:40:21,138 --> 01:40:23,872
+<font face="Comic Sans MS" color="#ffff80"><b>now performing
+underwater Shakespeare,</b></font>
+
+1197
+01:40:23,874 --> 01:40:28,177
+<font face="Comic Sans MS" color="#ffff80"><b>with the world's
+only living merman, Puck!</b></font>
+
+1198
+01:40:33,518 --> 01:40:35,884
+<font face="Comic Sans MS" color="#ffff80"><b>And visit
+our newest attraction,</b></font>
+
+1199
+01:40:35,886 --> 01:40:38,420
+<font face="Comic Sans MS" color="#ffff80"><b>Milly Farrier's
+World of Wonders...</b></font>
+
+1200
+01:40:38,422 --> 01:40:42,024
+<font face="Comic Sans MS" color="#ffff80"><b>to discover
+all the real-life amazements</b></font>
+
+1201
+01:40:42,026 --> 01:40:44,929
+<font face="Comic Sans MS" color="#ffff80"><b>that are shaping
+tomorrow today!</b></font>
+
+1202
+01:41:02,613 --> 01:41:06,882
+<font face="Comic Sans MS" color="#ffff80"><b>Marvel at the skills
+of the legendary Holt...</b></font>
+
+1203
+01:41:06,884 --> 01:41:10,119
+<font face="Comic Sans MS" color="#ffff80"><b>our cowboy of the future!</b></font>
+
+1204
+01:41:24,602 --> 01:41:28,037
+<font face="Comic Sans MS" color="#ffff80"><b>And the Pearl of Paris,
+Colette.</b></font>
+
+1205
+01:41:28,039 --> 01:41:30,308
+<font face="Comic Sans MS" color="#ffff80"><b>Queen of the Heavens!</b></font>
+
+1206
+01:41:54,665 --> 01:41:58,500
+<font face="Comic Sans MS" color="#ffff80"><b>Friends, young and old,
+you have a home at our circus.</b></font>
+
+1207
+01:41:58,502 --> 01:42:02,304
+<font face="Comic Sans MS" color="#ffff80"><b>Where anything is possible
+and miracles happen.</b></font>
+
+1208
+01:42:02,306 --> 01:42:03,973
+<font face="Comic Sans MS" color="#ffff80"><b>Believe me, they do.</b></font>
+

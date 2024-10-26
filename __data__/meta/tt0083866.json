@@ -1,0 +1,106 @@
+{
+  "imdbId": "tt0083866",
+  "title": "E.T. the Extra-Terrestrial",
+  "releaseDate": "1982-06-11T00:00:00.000Z",
+  "releaseYear": 1982,
+  "posterFileName": "tt0083866.jpg",
+  "rated": "PG",
+  "genres": [
+    "Adventure,",
+    "Family,",
+    "Sci-Fi"
+  ],
+  "actors": [
+    "Henry Thomas",
+    "Drew Barrymore",
+    "Peter Coyote"
+  ],
+  "runTime": 115,
+  "plot": "A troubled child summons the courage to help a friendly alien escape from Earth and return to his home planet.",
+  "subtitles": [
+    {
+      "source": "OpenSubtitles",
+      "author": "Anonymous",
+      "zipFileName": null,
+      "subtitleFileName": "E.T.The.Extra-Terrestrial.1982.WEBRip.Amazon.srt",
+      "shaFileName": "tt0083866.fdc96b5dd790042487c52a0d97850cafde4cff7639a31a022256d4154568de17.srt"
+    },
+    {
+      "source": "OpenSubtitles",
+      "author": "Anonymous",
+      "zipFileName": null,
+      "subtitleFileName": "E.T.The.Extra-Terrestrial.1982.WEBRip.iTunes.srt",
+      "shaFileName": "tt0083866.80839b3367d934e01738c24a73a30c228a81d00efaf25a4fe857be85f009795d.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "ChristopherCavco",
+      "zipFileName": "3113445-3125629.zip",
+      "subtitleFileName": "E.T.The.Extra-Terrestrial.1982.WEB-DL.TUBI.srt",
+      "shaFileName": "tt0083866.98eba4ff674127dc0a98fd1d59c95cc5426d306676014a95f112044b3bd06245.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "Penguin2359",
+      "zipFileName": "2788518-2844314.zip",
+      "subtitleFileName": "E.T. the Extra-Terrestrial (1982).eng.SDH.srt",
+      "shaFileName": "tt0083866.5b8fb3e0bb5133996909c9b6a2144756b944ee7f38a0c8f3c8cab8526a0848c3.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "myvideolinksnet",
+      "zipFileName": "1907045-2657045.zip",
+      "subtitleFileName": "E.T.The.Extra-Terrestrial.1982.1080p.BluRay.H264.AAC-RARBG.srt",
+      "shaFileName": "tt0083866.1ccc69e948954f354a7c05dbb7a6b904ed8a10ae9fa20acfd5d537e670d3237f.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "calo",
+      "zipFileName": "1907044-2668986.zip",
+      "subtitleFileName": "E.TThe.Extra-Terrestrial.1982.1080p.BluRay.x264-[YTS.AG].srt",
+      "shaFileName": "tt0083866.ce626251cb9d96c32b6ba114ac4d5954983b404e3cbd78ad74ed822026a6b34b.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "ChristopherCavco",
+      "zipFileName": "1907025-2452037.zip",
+      "subtitleFileName": "E.T.The.Extra-Terrestrial.1982.WEBRip.Amazon.srt",
+      "shaFileName": "tt0083866.fdc96b5dd790042487c52a0d97850cafde4cff7639a31a022256d4154568de17.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "ChristopherCavco",
+      "zipFileName": "1907024-2504394.zip",
+      "subtitleFileName": "E.T.The.Extra-Terrestrial.1982.WEBRip.iTunes.srt",
+      "shaFileName": "tt0083866.ea50456b843b194ca61a16dd83ecac456126a8637d311fb63f846a1ae86db216.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "A.3.R",
+      "zipFileName": "592576-86044.zip",
+      "subtitleFileName": "E.T.the.Extra-Terrestrial.1982.20th.Anniversary.Edition.DVDRip.XviD.CD1-SChiZO.srt",
+      "shaFileName": "tt0083866.b8d4a7f13113be7288396f065d04584e8bc673309a7c70234d6ec696b57ac151.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "A.3.R",
+      "zipFileName": "592576-86044.zip",
+      "subtitleFileName": "E.T.the.Extra-Terrestrial.1982.20th.Anniversary.Edition.DVDRip.XviD.CD2-SChiZO.srt",
+      "shaFileName": "tt0083866.15a5f2549422a7a852824e18e700815db99f28cf098b7bbbbc943b65285cd910.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "Kidrah",
+      "zipFileName": "592574-84091.zip",
+      "subtitleFileName": "E.T. the Extra-Terrestrial.rar",
+      "shaFileName": "tt0083866.0ec2ee8fd29c34b6858ab26cc0c4e343b9af9dda79a11209fb4e5830d26164d0.rar"
+    },
+    {
+      "source": "Subdl",
+      "author": "SeriousSub",
+      "zipFileName": "592572-2214392.zip",
+      "subtitleFileName": "E.T.the.Extra-Terrestrial.1982.Remux.1080p.AVC.DTS-HD.MA.7.1-LEGi0N.English.srt",
+      "shaFileName": "tt0083866.126b3104192e69c7522e1fd7169e7d99ecdabc977ffd738ce5f694eae7011ed7.srt"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "imdbId": "tt3861390",
+  "title": "Dumbo",
+  "releaseDate": "2019-03-29T00:00:00.000Z",
+  "releaseYear": 2019,
+  "posterFileName": "tt3861390.jpg",
+  "rated": "PG",
+  "genres": [
+    "Adventure,",
+    "Family,",
+    "Fantasy"
+  ],
+  "actors": [
+    "Colin Farrell",
+    "Michael Keaton",
+    "Danny DeVito"
+  ],
+  "runTime": 112,
+  "plot": "A young elephant, whose oversized ears enable him to fly, helps save a struggling circus, but when the circus plans a new venture, Dumbo and his friends discover dark secrets beneath its shiny veneer.",
+  "subtitles": [
+    {
+      "source": "Subdl",
+      "author": "JMGacho",
+      "zipFileName": "1972985-2633570.zip",
+      "subtitleFileName": "Dumbo [2019].srt",
+      "shaFileName": "tt3861390.4432759d7e6f4ed58f7f9a2a995cbe97bb34b6bfe2f7d31d643bd818af5104ed.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "sailor420",
+      "zipFileName": "1972978-2558410.zip",
+      "subtitleFileName": "Dumbo.2019.1080p.BR.x264.AC3.6ch.ESub.S420.srt",
+      "shaFileName": "tt3861390.a7aaebf52765f85d24f0552ac9cc634a6a70388d73c607b57c447d5e4d179fc3.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "ChristopherCavco",
+      "zipFileName": "1972941-2392523.zip",
+      "subtitleFileName": "Dumbo.2019.WEB-DL.DSNP.srt",
+      "shaFileName": "tt3861390.7b9548fe4a355090dbfabc2d4d7630aed16e39f479ca1d76fc6091316fecda3a.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "ChristopherCavco",
+      "zipFileName": "1972940-2445265.zip",
+      "subtitleFileName": "Dumbo.2019.WEBRip.iTunes.srt",
+      "shaFileName": "tt3861390.1f5c9b5c581c7101c9bb92c04fc0a902e41fb6eeb22264f21a292fe3f79be36d.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "ChristopherCavco",
+      "zipFileName": "1972939-2445266.zip",
+      "subtitleFileName": "Dumbo.2019.WEBRip.iTunes.srt",
+      "shaFileName": "tt3861390.3c030d4d52e04044228d12cff0cd5577f16818567fcba1050e9ad05b8b002527.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "Detective.Kofiko",
+      "zipFileName": "798910-2175924.zip",
+      "subtitleFileName": "Dumbo.2019.en.srt",
+      "shaFileName": "tt3861390.963b977bdb8741e59743f17a81b49361a07f5aa943af7b5db227b822c75f3dbd.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "SeriousSub",
+      "zipFileName": "798893-2006881.zip",
+      "subtitleFileName": "Dumbo.2019.REMUX.1080p.BluRay.AVC.DTS-HD.MA.7.1-LEGi0N.English.srt",
+      "shaFileName": "tt3861390.f420d37159924217cc32b09ab6c7f175c9a630674ed813259b6b37b004dce513.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "hellraios",
+      "zipFileName": "798889-2062719.zip",
+      "subtitleFileName": "Dumbo.brrip.2019.1080p.srt",
+      "shaFileName": "tt3861390.cc37878ea8af900898c494d0e774d56c209194f30ec14574ac7dac2a6404412b.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "Victer",
+      "zipFileName": "798886-2048936.zip",
+      "subtitleFileName": "Dumbo.srt",
+      "shaFileName": "tt3861390.63616576456abbf8a308656d5dcf46da9cae90a37c0711d7f090370e3d19c5d5.srt"
+    },
+    {
+      "source": "Subdl",
+      "author": "lesaigneur",
+      "zipFileName": "798882-2003105.zip",
+      "subtitleFileName": "Dumbo.2019.720p.BluRay.x264-SPARKS.srt",
+      "shaFileName": "tt3861390.f154ec763d12b901b40b712399cfdd09c1ced9f8dd77f2300686f85b12c3aaf1.srt"
+    }
+  ]
+}
