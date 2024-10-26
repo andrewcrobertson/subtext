@@ -78,14 +78,16 @@
       <MovieDetailPanelGrid movies={recentMovies} on:addclick={handleAddClick} on:removeclick={handleRemoveClick} />
     {:else}
       <p class="text-white text-center mt-4">
-        There are no movies in the database. Would you like to <a class="font-bold text-yellow-500" href={`${base}/request`}>request</a> one?
+        There are no movies in the database. Would you like to <a class="font-bold text-yellow-500" href={`${base}/request?q=${searchQuery}`}>request</a> one?
       </p>
     {/if}
   {:else if filteredMovies.length > 0}
     <MovieDetailPanelGrid movies={filteredMovies} on:addclick={handleAddClick} on:removeclick={handleRemoveClick} />
   {:else}
     <p class="text-white text-center mt-4">
-      Sorry, we couldn't find a matching movie in the database. Would you like to <a class="font-bold text-yellow-500" href={`${base}/request`}>request</a> it?
+      Sorry, we couldn't find a matching movie in the database. Would you like to <a class="font-bold text-yellow-500" href={`${base}/request?q=${searchQuery}`}
+        >request</a
+      > it?
     </p>
   {/if}
 </TransitionWhenLoaded>
