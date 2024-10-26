@@ -28,8 +28,7 @@
   const subtitleStream = new SubtitleStream(parseSrt(data.subtitles));
 
   const handleProgressClick = ({ detail }: CustomEvent<ProgressEventDetail>) => {
-    if (streamState === SubtitleStreamStateEnum.Paused) return;
-    subtitleStream.goTo(detail.progress);
+    if (controlsVisible) subtitleStream.goTo(detail.progress);
   };
 
   // const handleBackClick = () => goto(`${base}/`, {replaceState: true});
