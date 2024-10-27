@@ -1,65 +1,65 @@
 import { getMovieHandler } from '$composition/services';
 import * as common from '$constants/common';
-import * as getMultiple from '$constants/getMultiple';
-import * as getSingle from '$constants/getSingle';
+import * as loadMultiple from '$constants/loadMultiple';
+import * as loadSingle from '$constants/loadSingle';
 import yargs from 'yargs';
 import { hideBin } from 'yargs/helpers';
 
 yargs(hideBin(process.argv))
   .usage('Usage: movie-cli <command> [options]')
   .command(
-    getSingle.command,
-    getSingle.description,
+    loadSingle.command,
+    loadSingle.description,
     (yargs) =>
       yargs
-        .option(getSingle.optionImdbIdName, {
-          alias: getSingle.optionImdbIdAlias,
-          describe: getSingle.optionImdbIdDescribe,
+        .option(loadSingle.optionImdbIdName, {
+          alias: loadSingle.optionImdbIdAlias,
+          description: loadSingle.optionImdbIdDescription,
           type: 'string',
           demandOption: true,
         })
-        .option(getSingle.optionDirName, {
-          alias: getSingle.optionAlias,
-          describe: getSingle.optionDirDescribe,
+        .option(loadSingle.optionLogDirName, {
+          alias: loadSingle.optionLogDirAlias,
+          description: loadSingle.optionLogDirDescription,
           type: 'string',
           demandOption: true,
         })
-        .option(getSingle.optionForceName, {
-          alias: getSingle.optionForceAlias,
-          describe: getSingle.optionForceDescribe,
+        .option(loadSingle.optionForceName, {
+          alias: loadSingle.optionForceAlias,
+          description: loadSingle.optionForceDescription,
           type: 'boolean',
           default: false,
           demandOption: true,
         })
-        .option(common.optionVerboseName, { alias: common.optionVerboseAlias, describe: common.optionVerboseDescribe, type: 'boolean', default: false }),
-    (args) => getMovieHandler(args.verbose).getSingle(args)
+        .option(common.optionVerboseName, { alias: common.optionVerboseAlias, description: common.optionVerboseDescription, type: 'boolean', default: false }),
+    (args) => getMovieHandler(args.verbose).loadSingle(args)
   )
   .command(
-    getMultiple.command,
-    getMultiple.description,
+    loadMultiple.command,
+    loadMultiple.description,
     (yargs) =>
       yargs
-        .option(getMultiple.optionImdbIdName, {
-          alias: getMultiple.optionImdbIdAlias,
-          describe: getMultiple.optionImdbIdDescribe,
+        .option(loadMultiple.optionImdbIdName, {
+          alias: loadMultiple.optionImdbIdAlias,
+          description: loadMultiple.optionImdbIdDescription,
           type: 'string',
           array: true,
           demandOption: true,
         })
-        .option(getMultiple.optionDirName, {
-          alias: getMultiple.optionDirAlias,
-          describe: getMultiple.optionDescribe,
+        .option(loadMultiple.optionLogDirName, {
+          alias: loadMultiple.optionLogDirAlias,
+          description: loadMultiple.optionLogDirDescription,
           type: 'string',
           demandOption: true,
         })
-        .option(getMultiple.optionForceName, {
-          alias: getMultiple.optionForceAlias,
-          describe: getMultiple.optionForceDescribe,
+        .option(loadMultiple.optionForceName, {
+          alias: loadMultiple.optionForceAlias,
+          description: loadMultiple.optionForceDescription,
           type: 'boolean',
           default: false,
           demandOption: true,
         })
-        .option(common.optionVerboseName, { alias: common.optionVerboseAlias, describe: common.optionVerboseDescribe, type: 'boolean', default: false }),
-    (args) => getMovieHandler(args.verbose).getMultiple(args)
+        .option(common.optionVerboseName, { alias: common.optionVerboseAlias, description: common.optionVerboseDescription, type: 'boolean', default: false }),
+    (args) => getMovieHandler(args.verbose).loadMultiple(args)
   )
   .parse();

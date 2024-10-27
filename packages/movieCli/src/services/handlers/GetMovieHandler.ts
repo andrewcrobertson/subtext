@@ -14,10 +14,10 @@ export class GetMovieHandler {
     private readonly logger: Logger
   ) {}
 
-  public async getMultiple({ imdbId: imdbIds, dir, force }: T.GetMultipleInput) {
-    const metaDir = path.resolve(dir, 'meta');
-    const posterDir = path.resolve(dir, 'posters');
-    const subtitleDir = path.resolve(dir, 'subtitles');
+  public async loadMultiple({ imdbId: imdbIds, logDir, force }: T.GetMultipleInput) {
+    const metaDir = path.resolve(logDir, 'meta');
+    const posterDir = path.resolve(logDir, 'posters');
+    const subtitleDir = path.resolve(logDir, 'subtitles');
     this.ensureDirs(metaDir, posterDir, subtitleDir);
 
     this.logger.infoBlank();
@@ -29,10 +29,10 @@ export class GetMovieHandler {
     this.logger.infoBlank();
   }
 
-  public async getSingle({ imdbId, dir, force }: T.GetSingleInput) {
-    const metaDir = path.resolve(dir, 'meta');
-    const posterDir = path.resolve(dir, 'posters');
-    const subtitleDir = path.resolve(dir, 'subtitles');
+  public async loadSingle({ imdbId, logDir, force }: T.GetSingleInput) {
+    const metaDir = path.resolve(logDir, 'meta');
+    const posterDir = path.resolve(logDir, 'posters');
+    const subtitleDir = path.resolve(logDir, 'subtitles');
     this.ensureDirs(metaDir, posterDir, subtitleDir);
 
     this.logger.infoBlank();

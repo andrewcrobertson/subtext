@@ -1,12 +1,12 @@
 export interface GetSingleInput {
   imdbId: string;
-  dir: string;
+  logDir: string;
   force: boolean;
 }
 
 export interface GetMultipleInput {
   imdbId: string[];
-  dir: string;
+  logDir: string;
   force: boolean;
 }
 
