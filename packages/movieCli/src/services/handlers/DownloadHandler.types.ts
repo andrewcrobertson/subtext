@@ -1,7 +1,7 @@
 export interface RunInput {
-  metaDir: string;
-  subtitleDir: string;
-  posterDir: string;
+  imdbId: string;
+  targetDir: string;
+  force: boolean;
 }
 
 export interface ToMovieResponseSubtitle {

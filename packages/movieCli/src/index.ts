@@ -1,4 +1,4 @@
-import { handler } from '$composition/services';
+import { downloadHandler } from '$composition/services';
 import * as strings from '$constants/strings';
 import yargs from 'yargs';
 import { hideBin } from 'yargs/helpers';
@@ -10,25 +10,26 @@ yargs(hideBin(process.argv))
     strings.downloadDescribe,
     (yargs) =>
       yargs
-        .option(strings.downloadMetaDirName, {
-          alias: strings.downloadMetaDirAlias,
-          describe: strings.downloadMetaDirDescribe,
+        .option(strings.downloadImdbIdName, {
+          alias: strings.downloadImdbIdAlias,
+          describe: strings.downloadImdbIdDescribe,
           type: 'string',
           demandOption: true,
         })
-        .option(strings.downloadSubtitleDirName, {
-          alias: strings.downloadSubtitleDirAlias,
-          describe: strings.downloadSubtitleDirDescribe,
+        .option(strings.downloadDirName, {
+          alias: strings.downloadDirAlias,
+          describe: strings.downloadDirDescribe,
           type: 'string',
           demandOption: true,
         })
-        .option(strings.downloadPosterDirName, {
-          alias: strings.downloadPosterDirAlias,
-          describe: strings.downloadPosterDirDescribe,
-          type: 'string',
+        .option(strings.downloadForceName, {
+          alias: strings.downloadForceAlias,
+          describe: strings.downloadForceDescribe,
+          type: 'boolean',
+          default: false,
           demandOption: true,
         })
         .option(strings.verboseName, { alias: strings.verboseAlias, describe: strings.verboseDescribe, type: 'boolean', default: false }),
-    (args) => handler(args.verbose).run(args)
+    (args) => downloadHandler(args.verbose).run(args)
   )
   .parse();

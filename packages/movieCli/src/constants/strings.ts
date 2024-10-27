@@ -5,14 +5,14 @@ export const verboseDescribe = 'Run with verbose logging';
 export const download = 'download';
 export const downloadDescribe = 'Download movie info';
 
-export const downloadMetaDirName = 'meta-dir';
-export const downloadMetaDirAlias = 'm';
-export const downloadMetaDirDescribe = 'Meta directory';
+export const downloadImdbIdName = 'imdb-id';
+export const downloadImdbIdAlias = 'i';
+export const downloadImdbIdDescribe = 'IMDb id';
 
-export const downloadSubtitleDirName = 'subtitle-dir';
-export const downloadSubtitleDirAlias = 's';
-export const downloadSubtitleDirDescribe = 'Subtitle directory';
+export const downloadDirName = 'target-dir';
+export const downloadDirAlias = 'd';
+export const downloadDirDescribe = 'Target directory';
 
-export const downloadPosterDirName = 'poster-dir';
-export const downloadPosterDirAlias = 'p';
-export const downloadPosterDirDescribe = 'Poster directory';
+export const downloadForceName = 'force';
+export const downloadForceAlias = 'f';
+export const downloadForceDescribe = 'Force download';

@@ -11,8 +11,7 @@
     "build.off": "run-s clean checktypes test pkgroll",
     "clean": "shx rm -rf ./dist ./coverage",
     "checktypes": "tsc --noEmit",
-    "dev": "tsx ./src/index.ts",
-    "dev:local": "dotenvx run -- tsx ./src/index.ts",
+    "dev:download": "dotenvx run -- tsx ./src/index.ts download -d ../../__data__ -f",
     "test": "jest --verbose",
     "pkgroll": "pkgroll --minify"
   },

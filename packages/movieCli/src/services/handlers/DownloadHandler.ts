@@ -1,59 +1,36 @@
 import type { Downloader, DownloadResponseData } from '$services/downloader/Downloader.types';
-import type { GithubApi } from '$services/github/GithubApi';
 import type { Logger } from '$services/logger/Logger';
 import { createHash } from 'crypto';
 import fs from 'fs';
-import { isError, join, map, toPairs } from 'lodash';
+import { isError, map, toPairs } from 'lodash';
 import path from 'path';
 import { pipeline } from 'stream';
 import { promisify } from 'util';
-import type * as T from './Handler.types';
+import type * as T from './DownloadHandler.types';
 
-export class Handler {
+export class DownloadHandler {
   public constructor(
-    private readonly gitHubApi: GithubApi,
     private readonly downloader: Downloader,
     private readonly logger: Logger
   ) {}
 
-  public async run({ metaDir, subtitleDir, posterDir }: T.RunInput) {
+  public async run({ imdbId, targetDir, force }: T.RunInput) {
+    const metaDir = path.resolve(targetDir, 'meta');
+    const posterDir = path.resolve(targetDir, 'posters');
+    const subtitleDir = path.resolve(targetDir, 'subtitles');
+
     fs.mkdirSync(metaDir, { recursive: true });
-    fs.mkdirSync(subtitleDir, { recursive: true });
     fs.mkdirSync(posterDir, { recursive: true });
+    fs.mkdirSync(subtitleDir, { recursive: true });
 
     this.logger.infoBlank();
     this.logger.infoStarting();
-    const openIssues = await this.gitHubApi.getOpenIssues('add');
 
-    this.logger.infoOpenGitHubIssuesFound(openIssues.length);
-    this.logger.infoBlank();
-    for (let i = 0; i < openIssues.length; i++) {
-      const issue = openIssues[i];
-      await this.process(metaDir, subtitleDir, posterDir, issue.gitHubIssueNumber, issue.imdbId);
-      this.logger.infoBlank();
-    }
-  }
-
-  private async process(metaDir: string, subtitleDir: string, posterDir: string, gitHubIssueNumber: number, imdbId: string) {
-    const gitHubComments: string[] = [];
     const metaFile = path.resolve(metaDir, `${imdbId}.json`);
-    const gitHubIssueUrl = this.gitHubApi.getIssueUrl(gitHubIssueNumber);
-
-    if (fs.existsSync(metaFile)) {
+    if (!force && fs.existsSync(metaFile)) {
       const data = JSON.parse(fs.readFileSync(metaFile, 'utf-8'));
-      const title = data.title;
-
-      this.logger.infoTitle(title, imdbId);
-      this.logger.infoReadGithubIssue(gitHubIssueUrl);
-      gitHubComments.push(`:clapper: **${title}**`);
-
+      this.logger.infoTitle(data.title, imdbId);
       this.logger.infoMovieAlreadyDownloaded();
-      gitHubComments.push(`- Already downloaded`);
-
-      await this.gitHubApi.addComment(gitHubIssueNumber, join(gitHubComments, '\n'));
-      await this.gitHubApi.close(gitHubIssueNumber);
-      this.logger.infoClosedGitHubIssues();
-
       return;
     }
 
@@ -62,24 +39,12 @@ export class Handler {
     const title = downloadRes.data?.title ?? 'Unknown Title';
 
     this.logger.infoTitle(title, imdbId);
-    this.logger.infoReadGithubIssue(gitHubIssueUrl);
-    gitHubComments.push(`:clapper: **${title}**`);
-
     for (let i = 0; i < errorText.length; i++) {
       this.logger.errorMessage(errorText[i]);
     }
 
     const subtitleCount = downloadRes.data?.subtitles.length ?? 0;
-    const subtitleP11n = subtitleCount === 1 ? 'subtitle' : 'subtitles';
     this.logger.infoMovieSubtitlesFound(subtitleCount);
-    gitHubComments.push(`- ${subtitleCount} ${subtitleP11n} found`);
-
-    if (errorText.length > 0) {
-      gitHubComments.push(``);
-      gitHubComments.push(`:no_entry: **Errors**`);
-      gitHubComments.push('- ' + join(errorText, '\n- '));
-      gitHubComments.push(``);
-    }
 
     const posterUrl = downloadRes.data?.posterUrl ?? null;
     if (posterUrl !== null) {
@@ -104,8 +69,6 @@ export class Handler {
       this.logger.infoSavedSubtitleFile(subtitleFile);
     }
 
-    await this.gitHubApi.addComment(gitHubIssueNumber, join(gitHubComments, '\n'));
-    await this.gitHubApi.close(gitHubIssueNumber);
     this.logger.infoClosedGitHubIssues();
   }
 

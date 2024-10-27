@@ -5,68 +5,13 @@
   "releaseYear": 1937,
   "posterFileName": "tt0029583.jpg",
   "rated": "Approved",
-  "genres": [
-    "Animation,",
-    "Adventure,",
-    "Family"
-  ],
-  "actors": [
-    "Adriana Caselotti",
-    "Harry Stockwell",
-    "Lucille La Verne"
-  ],
+  "genres": ["Animation", "Adventure", "Family"],
+  "directors": ["William Cottrell", "David Hand", "Wilfred Jackson"],
+  "writers": ["Jacob Grimm", "Wilhelm Grimm", "Ted Sears"],
+  "actors": ["Adriana Caselotti", "Harry Stockwell", "Lucille La Verne"],
   "runTime": 83,
   "plot": "Exiled into the dangerous forest by her wicked stepmother, a princess is rescued by seven dwarf miners who make her part of their household.",
   "subtitles": [
-    {
-      "source": "OpenSubtitles",
-      "author": "Anonymous",
-      "zipFileName": null,
-      "subtitleFileName": "snow.white.and.the.seven.dwarfs.1937.2160p.uhd.bluray.x265-b0mbardiers.English.SDH.srt",
-      "shaFileName": "tt0029583.db0768ca2b49104f929c24cd27f730368676742dab21ff0426affcde534d2490.srt"
-    },
-    {
-      "source": "OpenSubtitles",
-      "author": "os-auto",
-      "zipFileName": null,
-      "subtitleFileName": "Snow.White.and.the.Seven.Dwarfs.1937.REMASTERED.1080p.BluRay.x264-PiGNUS.srt",
-      "shaFileName": "tt0029583.773cc8d3c450efc5e8f358628f48410907df5c5acfbf78c5eebac5995c8ed011.srt"
-    },
-    {
-      "source": "OpenSubtitles",
-      "author": "renatamerisescu_",
-      "zipFileName": null,
-      "subtitleFileName": "Biancaneve - Snow White (1937).srt",
-      "shaFileName": "tt0029583.11b679e66def11096bf1e3dbd9d3b12442171bc9f00ce61e441ea76ed95a61d9.srt"
-    },
-    {
-      "source": "OpenSubtitles",
-      "author": "os-auto",
-      "zipFileName": null,
-      "subtitleFileName": "Snow.White.and.the.Seven.Dwarfs.1937.WEBRip.iTunes.srt",
-      "shaFileName": "tt0029583.598ab2112a53bee4f5602fd0a5164291a6a4711239a27288f5377177c07267aa.srt"
-    },
-    {
-      "source": "OpenSubtitles",
-      "author": "os-auto",
-      "zipFileName": null,
-      "subtitleFileName": "Snow.White.and.The.Seven.Dwarfs.1937.WEB-DL.DSNP.srt",
-      "shaFileName": "tt0029583.ca1e81e5cf7e6997b8d3560c7ccb57a7cd524b8ded84308a5060eb787818e94f.srt"
-    },
-    {
-      "source": "OpenSubtitles",
-      "author": "os-auto",
-      "zipFileName": null,
-      "subtitleFileName": "Snow.White.and.The.Seven.Dwarfs.1937.WEB-DL.DSNP.srt",
-      "shaFileName": "tt0029583.f985379e7b88ef7fdcd5541d22626f4a30189eaf941f85de51655b0e51216e51.srt"
-    },
-    {
-      "source": "OpenSubtitles",
-      "author": "hydrox2000",
-      "zipFileName": null,
-      "subtitleFileName": "Snow White And The Seven Dwarfs (1937).srt",
-      "shaFileName": "tt0029583.220ebda792f705eca41ac8038490f0b92f2c1d370b3cb2d5a5b10c50576bf89f.srt"
-    },
     {
       "source": "Subdl",
       "author": "Ratcatcher",
