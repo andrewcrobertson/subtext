@@ -16,8 +16,8 @@ export class Handler {
     private readonly logger: Logger
   ) {}
 
-  public async load({ imdbId, logDir, force }: T.LoadInput) {
-    const rootDir = path.resolve(logDir, imdbId);
+  public async load({ imdbId, dir, force }: T.LoadInput) {
+    const rootDir = path.resolve(dir, imdbId);
     const subtitleDir = path.resolve(rootDir, 'subtitles');
 
     this.logger.infoBlank();
@@ -70,12 +70,12 @@ export class Handler {
     this.logger.infoBlank();
   }
 
-  public async remove({ imdbId, logDir, dataDir }: T.RemoveInput) {
+  public async remove({ imdbId, dir }: T.RemoveInput) {
     this.logger.infoBlank();
     this.logger.infoStarting();
 
-    const logFilesAll = glob.sync(`**/${imdbId}.*`, { cwd: logDir, absolute: true });
-    const dataFilesAll = glob.sync(`**/${imdbId}.*`, { cwd: dataDir, absolute: true });
+    const logFilesAll = glob.sync(`**/${imdbId}.*`, { cwd: dir, absolute: true });
+    const dataFilesAll = glob.sync(`**/${imdbId}.*`, { cwd: dir, absolute: true });
     const allFiles = concat(logFilesAll, dataFilesAll).sort();
 
     for (let i = 0; i < allFiles.length; i++) {
@@ -86,13 +86,13 @@ export class Handler {
     this.logger.infoBlank();
   }
 
-  public async flag({ imdbId, subtitleFileName: subtitleId, logDir }: T.FlagInput) {
+  public async flag({ imdbId, subtitleId, dir }: T.FlagInput) {
     this.logger.infoBlank();
     this.logger.infoStarting();
     this.logger.infoBlank();
   }
 
-  public async merge({ logDir, dataDir }: T.MergeInput) {
+  public async merge({ dir }: T.IndexInput) {
     this.logger.infoBlank();
     this.logger.infoStarting();
     this.logger.infoBlank();

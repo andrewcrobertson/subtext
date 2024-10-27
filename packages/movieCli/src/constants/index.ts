@@ -1,13 +1,9 @@
-export const command = 'remove';
-export const description = "Removes a movie's data";
+export const command = 'merge';
+export const description = 'Merges data from the log dir to the data dir';
 
 export const optionUserIdName = 'userId';
 export const optionUserIdAlias = 'u';
 export const optionUserIdDescription = 'User id';
-
-export const optionImdbIdName = 'imdbId';
-export const optionImdbIdAlias = 'i';
-export const optionImdbIdDescription = 'IMDb id';
 
 export const optionDataDirName = 'dir';
 export const optionDataDirAlias = 'd';

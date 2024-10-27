@@ -1,22 +1,22 @@
 export const command = 'flag';
 export const description = "Flags a movie's subtitle";
 
-export const optionUserIdName = 'user-id';
+export const optionUserIdName = 'userId';
 export const optionUserIdAlias = 'u';
 export const optionUserIdDescription = 'User id';
 
-export const optionImdbIdName = 'imdb-id';
-export const optionImdbIdAlias = 'id';
+export const optionImdbIdName = 'imdbId';
+export const optionImdbIdAlias = 'i';
 export const optionImdbIdDescription = 'IMDb id';
 
-export const optionSubtitleIdName = 'subtitle-file-name';
-export const optionSubtitleIdAlias = 'sf';
-export const optionSubtitleIdDescription = 'Subtitle file name';
+export const optionSubtitleIdName = 'subtitleId';
+export const optionSubtitleIdAlias = 's';
+export const optionSubtitleIdDescription = 'Subtitle id';
 
 export const optionReasonName = 'reason';
 export const optionReasonAlias = 'r';
 export const optionReasonDescription = 'Reason for the flag';
 
-export const optionLogDirName = 'log-dir';
-export const optionLogDirAlias = 'ld';
-export const optionLogDirDescription = 'Log directory';
+export const optionDataDirName = 'dir';
+export const optionDataDirAlias = 'd';
+export const optionDataDirDescription = 'Data directory';

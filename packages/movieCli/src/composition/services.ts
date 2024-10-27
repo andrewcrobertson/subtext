@@ -34,8 +34,8 @@ export const openSubtitlesMovieReader = new OpenSubtitlesMovieReader(openSubtitl
 export const subdlMovieReader = new SubdlMovieReader(subdlApi);
 export const movieReader = new MovieReader(omdbMovieReader, openSubtitlesMovieReader, subdlMovieReader);
 
-export const fileManager = new FileManager();
-export const getHandler = (verbose: boolean) => {
+export const getHandler = (dataDir: string, verbose: boolean) => {
   const logger = makeLogger(verbose);
+  const fileManager = new FileManager(dataDir);
   return new Handler(movieReader, fileManager, logger);
 };

@@ -1,29 +1,27 @@
 export interface LoadInput {
   userId: string;
   imdbId: string;
-  logDir: string;
+  dir: string;
   force: boolean;
 }
 
 export interface RemoveInput {
   userId: string;
   imdbId: string;
-  logDir: string;
-  dataDir: string;
+  dir: string;
 }
 
 export interface FlagInput {
   userId: string;
   imdbId: string;
-  subtitleFileName: string;
+  subtitleId: string;
   reason: string;
-  logDir: string;
+  dir: string;
 }
 
-export interface MergeInput {
+export interface IndexInput {
   userId: string;
-  logDir: string;
-  dataDir: string;
+  dir: string;
 }
 
 export interface ToMovieResponseSubtitle {

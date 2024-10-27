@@ -5,6 +5,10 @@ import { pipeline } from 'stream';
 import { isDeepStrictEqual, promisify } from 'util';
 
 export class FileManager {
+  public constructor(private readonly dbDir: string) {}
+
+  public async getIndex(imdbId: string) {}
+
   public async writeImageFile(filePath: string, url: string) {
     this.ensureDir(filePath);
     const response = await fetch(url);
