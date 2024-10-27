@@ -1,6 +1,12 @@
-export interface RunInput {
+export interface GetSingleInput {
   imdbId: string;
-  targetDir: string;
+  dir: string;
+  force: boolean;
+}
+
+export interface GetMultipleInput {
+  imdbId: string[];
+  dir: string;
   force: boolean;
 }
 

@@ -1,13 +1,13 @@
-import type { Downloader, DownloadResponse } from '$services/downloader/Downloader.types';
+import type { MovieReader, ReadResponse } from '$services/movieReader/MovieReader.types';
 import { SubdlApi } from './SubdlApi';
 
-export class DownloaderSubdl implements Downloader {
+export class SubdlMovieReader implements MovieReader {
   public constructor(private readonly subdlApi: SubdlApi) {}
 
-  public async download(imdbId: string): Promise<DownloadResponse> {
+  public async read(imdbId: string): Promise<ReadResponse> {
     try {
       const searchRes = await this.subdlApi.search(imdbId);
-      const output: DownloadResponse = {
+      const output: ReadResponse = {
         success: true,
         data: {
           imdbId,

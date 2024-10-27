@@ -1,10 +1,10 @@
-import type { Downloader, DownloadResponse } from '$services/downloader/Downloader.types';
+import type { MovieReader, ReadResponse } from '$services/movieReader/MovieReader.types';
 import { OmdbApi } from './OmdbApi';
 
-export class DownloaderOmdb implements Downloader {
+export class OmdbMovieReader implements MovieReader {
   public constructor(private readonly omdbApi: OmdbApi) {}
 
-  public async download(imdbId: string): Promise<DownloadResponse> {
+  public async read(imdbId: string): Promise<ReadResponse> {
     try {
       const searchRes = await this.omdbApi.search(imdbId);
       return {

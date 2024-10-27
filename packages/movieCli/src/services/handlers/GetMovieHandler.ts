@@ -1,31 +1,47 @@
-import type { Downloader, DownloadResponseData } from '$services/downloader/Downloader.types';
 import type { Logger } from '$services/logger/Logger';
+import type { MovieReader, ReadResponseData } from '$services/movieReader/MovieReader.types';
 import { createHash } from 'crypto';
 import fs from 'fs';
 import { isError, map, toPairs } from 'lodash';
 import path from 'path';
 import { pipeline } from 'stream';
 import { promisify } from 'util';
-import type * as T from './DownloadHandler.types';
+import type * as T from './GetMovieHandler.types';
 
-export class DownloadHandler {
+export class GetMovieHandler {
   public constructor(
-    private readonly downloader: Downloader,
+    private readonly downloader: MovieReader,
     private readonly logger: Logger
   ) {}
 
-  public async run({ imdbId, targetDir, force }: T.RunInput) {
-    const metaDir = path.resolve(targetDir, 'meta');
-    const posterDir = path.resolve(targetDir, 'posters');
-    const subtitleDir = path.resolve(targetDir, 'subtitles');
-
-    fs.mkdirSync(metaDir, { recursive: true });
-    fs.mkdirSync(posterDir, { recursive: true });
-    fs.mkdirSync(subtitleDir, { recursive: true });
+  public async getMultiple({ imdbId: imdbIds, dir, force }: T.GetMultipleInput) {
+    const metaDir = path.resolve(dir, 'meta');
+    const posterDir = path.resolve(dir, 'posters');
+    const subtitleDir = path.resolve(dir, 'subtitles');
+    this.ensureDirs(metaDir, posterDir, subtitleDir);
 
     this.logger.infoBlank();
     this.logger.infoStarting();
+    for (let i = 0; i < imdbIds.length; i++) {
+      await this.doGetSingle(metaDir, posterDir, subtitleDir, imdbIds[i], force);
+    }
 
+    this.logger.infoBlank();
+  }
+
+  public async getSingle({ imdbId, dir, force }: T.GetSingleInput) {
+    const metaDir = path.resolve(dir, 'meta');
+    const posterDir = path.resolve(dir, 'posters');
+    const subtitleDir = path.resolve(dir, 'subtitles');
+    this.ensureDirs(metaDir, posterDir, subtitleDir);
+
+    this.logger.infoBlank();
+    this.logger.infoStarting();
+    await this.doGetSingle(metaDir, posterDir, subtitleDir, imdbId, force);
+    this.logger.infoBlank();
+  }
+
+  private async doGetSingle(metaDir: string, posterDir: string, subtitleDir: string, imdbId: string, force: boolean) {
     const metaFile = path.resolve(metaDir, `${imdbId}.json`);
     if (!force && fs.existsSync(metaFile)) {
       const data = JSON.parse(fs.readFileSync(metaFile, 'utf-8'));
@@ -34,7 +50,7 @@ export class DownloadHandler {
       return;
     }
 
-    const downloadRes = await this.downloader.download(imdbId);
+    const downloadRes = await this.downloader.read(imdbId);
     const errorText = map(downloadRes.errors, (error) => (isError(error) ? error.message : (<any>error).toString()));
     const title = downloadRes.data?.title ?? 'Unknown Title';
 
@@ -68,11 +84,15 @@ export class DownloadHandler {
       fs.writeFileSync(subtitleFile, subtitleText);
       this.logger.infoSavedSubtitleFile(subtitleFile);
     }
-
-    this.logger.infoClosedGitHubIssues();
   }
 
-  private toMovie(imdbId: string, data: DownloadResponseData): T.ToMovieResponse {
+  private ensureDirs(metaDir: string, posterDir: string, subtitleDir: string) {
+    fs.mkdirSync(metaDir, { recursive: true });
+    fs.mkdirSync(posterDir, { recursive: true });
+    fs.mkdirSync(subtitleDir, { recursive: true });
+  }
+
+  private toMovie(imdbId: string, data: ReadResponseData): T.ToMovieResponse {
     const output: T.ToMovieResponse = {
       imdbId,
       title: data.title,

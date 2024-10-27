@@ -1,13 +1,13 @@
-import type { Downloader, DownloadResponse } from '$services/downloader/Downloader.types';
+import type { MovieReader, ReadResponse } from '$services/movieReader/MovieReader.types';
 import { OpenSubtitlesApi } from './OpenSubtitlesApi';
 
-export class DownloaderOpenSubtitles implements Downloader {
+export class OpenSubtitlesMovieReader implements MovieReader {
   public constructor(private readonly openSubtitlesApi: OpenSubtitlesApi) {}
 
-  public async download(imdbId: string): Promise<DownloadResponse> {
+  public async read(imdbId: string): Promise<ReadResponse> {
     try {
       const searchRes = await this.openSubtitlesApi.search(imdbId);
-      const output: DownloadResponse = {
+      const output: ReadResponse = {
         success: true,
         data: {
           imdbId,

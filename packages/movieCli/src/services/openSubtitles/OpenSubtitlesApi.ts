@@ -50,6 +50,7 @@ export class OpenSubtitlesApi {
       const data = (await response.json()) as T.ApiSearchResponse;
       return data;
     } catch (cause) {
+      console.log(cause);
       throw new Error(`OpenSubtitles: fetch '${url}' failed`, { cause });
     }
   }

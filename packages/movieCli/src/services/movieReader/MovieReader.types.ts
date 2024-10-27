@@ -1,4 +1,4 @@
-export interface DownloadResponseDataSubtitles {
+export interface ReadResponseDataSubtitles {
   source: string;
   author: string | null;
   zipFileName: string | null;
@@ -6,7 +6,7 @@ export interface DownloadResponseDataSubtitles {
   subtitleFileText: string;
 }
 
-export interface DownloadResponseData {
+export interface ReadResponseData {
   imdbId: string;
   title: string | null;
   posterUrl: string | null;
@@ -19,23 +19,23 @@ export interface DownloadResponseData {
   actors: string[];
   runTimeMins: number | null;
   plot: string | null;
-  subtitles: DownloadResponseDataSubtitles[];
+  subtitles: ReadResponseDataSubtitles[];
 }
 
-export interface DownloadResponseOk {
+export interface ReadResponseOk {
   success: true;
-  data: DownloadResponseData;
+  data: ReadResponseData;
   errors: Error[];
 }
 
-export interface DownloadResponseFail {
+export interface ReadResponseFail {
   success: false;
   data: null;
   errors: Error[];
 }
 
-export type DownloadResponse = DownloadResponseOk | DownloadResponseFail;
+export type ReadResponse = ReadResponseOk | ReadResponseFail;
 
-export interface Downloader {
-  download: (imdbId: string) => Promise<DownloadResponse>;
+export interface MovieReader {
+  read: (imdbId: string) => Promise<ReadResponse>;
 }

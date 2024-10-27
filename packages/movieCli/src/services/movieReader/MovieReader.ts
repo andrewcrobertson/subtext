@@ -1,24 +1,24 @@
-import type { DownloaderOmdb } from '$services/omdb/DownloaderOmdb';
-import type { DownloaderOpenSubtitles } from '$services/openSubtitles/DownloaderOpenSubtitles';
-import type { DownloaderSubdl } from '$services/subdl/DownloaderSubdl';
-import type * as T from './Downloader.types';
+import type { OmdbMovieReader } from '$services/omdb/OmdbMovieReader';
+import type { OpenSubtitlesMovieReader } from '$services/openSubtitles/OpenSubtitlesMovieReader';
+import type { SubdlMovieReader } from '$services/subdl/SubdlMovieReader';
+import type * as T from './MovieReader.types';
 
-export class DownloaderOrchestrator implements T.Downloader {
+export class MovieReader implements T.MovieReader {
   public constructor(
-    private readonly downloaderOmdb: DownloaderOmdb,
-    private readonly downloaderOpenSubtitles: DownloaderOpenSubtitles,
-    private readonly downloaderSubdl: DownloaderSubdl
+    private readonly omdbMovieReader: OmdbMovieReader,
+    private readonly openSubtitlesMovieReader: OpenSubtitlesMovieReader,
+    private readonly subdlMovieReader: SubdlMovieReader
   ) {}
 
-  public async download(imdbId: string): Promise<T.DownloadResponse> {
+  public async read(imdbId: string): Promise<T.ReadResponse> {
     try {
       const downloadResList = await Promise.all([
-        this.downloaderOmdb.download(imdbId),
-        this.downloaderOpenSubtitles.download(imdbId),
-        this.downloaderSubdl.download(imdbId),
+        this.omdbMovieReader.read(imdbId),
+        this.openSubtitlesMovieReader.read(imdbId),
+        this.subdlMovieReader.read(imdbId),
       ]);
 
-      const output: T.DownloadResponse = {
+      const output: T.ReadResponse = {
         success: true,
         data: {
           imdbId,
