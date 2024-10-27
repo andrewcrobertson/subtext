@@ -11,8 +11,8 @@
     "build.off": "run-s clean checktypes test pkgroll",
     "clean": "shx rm -rf ./dist ./coverage",
     "checktypes": "tsc --noEmit",
-    "dev:get-single": "dotenvx run -- tsx ./src/index.ts get-single -d ../../__data__ -f",
-    "dev:get-multiple": "dotenvx run -- tsx ./src/index.ts get-multiple -d ../../__data__ -f",
+    "dev:get-single": "dotenvx run -- tsx ./src/index.ts get-single -d ../../__pending__ -f",
+    "dev:get-multiple": "dotenvx run -- tsx ./src/index.ts get-multiple -d ../../__pending__ -f",
     "test": "jest --verbose",
     "pkgroll": "pkgroll --minify"
   },
