@@ -97,6 +97,12 @@ yargs(hideBin(process.argv))
           type: 'string',
           demandOption: true,
         })
+        .option(flag.optionReasonName, {
+          alias: flag.optionReasonAlias,
+          description: flag.optionReasonDescription,
+          type: 'string',
+          demandOption: true,
+        })
         .option(flag.optionLogDirName, {
           alias: flag.optionLogDirAlias,
           description: flag.optionLogDirDescription,

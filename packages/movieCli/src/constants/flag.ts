@@ -13,6 +13,10 @@ export const optionSubtitleIdName = 'subtitle-file-name';
 export const optionSubtitleIdAlias = 'sf';
 export const optionSubtitleIdDescription = 'Subtitle file name';
 
+export const optionReasonName = 'reason';
+export const optionReasonAlias = 'r';
+export const optionReasonDescription = 'Reason for the flag';
+
 export const optionLogDirName = 'log-dir';
 export const optionLogDirAlias = 'ld';
 export const optionLogDirDescription = 'Log directory';
