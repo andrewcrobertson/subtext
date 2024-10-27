@@ -1,3 +1,4 @@
+import { join } from 'lodash';
 import { timeToMilliseconds } from './parseTime';
 
 export interface SubtitleBlock {
@@ -6,6 +7,17 @@ export interface SubtitleBlock {
   end: number;
   text: string;
 }
+
+export const parseSrt3 = (srtContent: string): string => {
+  const blocks = parseSrt2(srtContent);
+  const lines: string[] = [];
+  for (let i = 0; i < blocks.length; i++) {
+    const { start, end, text } = blocks[i];
+    lines.push(`${start} ${end} ${text}`);
+  }
+
+  return join(lines, '\n');
+};
 
 export const parseSrt2 = (srtContent: string): SubtitleBlock[] => {
   const blocks: SubtitleBlock[] = [];

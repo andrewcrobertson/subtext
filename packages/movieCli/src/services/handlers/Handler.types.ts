@@ -27,11 +27,13 @@ export interface MergeInput {
 }
 
 export interface ToMovieResponseSubtitle {
+  subTextId: string;
   source: string;
   author: string | null;
   zipFileName: string | null;
   subtitleFileName: string;
-  shaFileName: string;
+  subTextFileName: string;
+  subTextValue: string;
 }
 
 export interface ToMovieResponse {
@@ -47,6 +49,6 @@ export interface ToMovieResponse {
   actors: string[];
   runTime: number | null;
   plot: string | null;
+  subtitleIds: string[];
   subtitles: ToMovieResponseSubtitle[];
-  files: Record<string, string>;
 }
