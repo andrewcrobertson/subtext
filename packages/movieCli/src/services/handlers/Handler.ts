@@ -6,9 +6,9 @@ import { isError, map, toPairs } from 'lodash';
 import path from 'path';
 import { pipeline } from 'stream';
 import { promisify } from 'util';
-import type * as T from './GetMovieHandler.types';
+import type * as T from './Handler.types';
 
-export class GetMovieHandler {
+export class Handler {
   public constructor(
     private readonly downloader: MovieReader,
     private readonly logger: Logger
@@ -22,29 +22,7 @@ export class GetMovieHandler {
 
     this.logger.infoBlank();
     this.logger.infoStarting();
-    await this.doGetSingle(metaDir, posterDir, subtitleDir, imdbId, force);
-    this.logger.infoBlank();
-  }
 
-  public async remove({ imdbId, logDir, dataDir }: T.RemoveInput) {
-    this.logger.infoBlank();
-    this.logger.infoStarting();
-    this.logger.infoBlank();
-  }
-
-  public async flag({ imdbId, subtitleFileName: subtitleId, logDir }: T.FlagInput) {
-    this.logger.infoBlank();
-    this.logger.infoStarting();
-    this.logger.infoBlank();
-  }
-
-  public async merge({ logDir, dataDir }: T.MergeInput) {
-    this.logger.infoBlank();
-    this.logger.infoStarting();
-    this.logger.infoBlank();
-  }
-
-  private async doGetSingle(metaDir: string, posterDir: string, subtitleDir: string, imdbId: string, force: boolean) {
     const metaFile = path.resolve(metaDir, `${imdbId}.json`);
     if (!force && fs.existsSync(metaFile)) {
       const data = JSON.parse(fs.readFileSync(metaFile, 'utf-8'));
@@ -87,6 +65,26 @@ export class GetMovieHandler {
       fs.writeFileSync(subtitleFile, subtitleText);
       this.logger.infoSavedSubtitleFile(subtitleFile);
     }
+
+    this.logger.infoBlank();
+  }
+
+  public async remove({ imdbId, logDir, dataDir }: T.RemoveInput) {
+    this.logger.infoBlank();
+    this.logger.infoStarting();
+    this.logger.infoBlank();
+  }
+
+  public async flag({ imdbId, subtitleFileName: subtitleId, logDir }: T.FlagInput) {
+    this.logger.infoBlank();
+    this.logger.infoStarting();
+    this.logger.infoBlank();
+  }
+
+  public async merge({ logDir, dataDir }: T.MergeInput) {
+    this.logger.infoBlank();
+    this.logger.infoStarting();
+    this.logger.infoBlank();
   }
 
   private ensureDirs(metaDir: string, posterDir: string, subtitleDir: string) {

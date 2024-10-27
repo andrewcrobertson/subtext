@@ -1,4 +1,4 @@
-import { getMovieHandler } from '$composition/services';
+import { getHandler } from '$composition/services';
 import * as common from '$constants/common';
 import * as flag from '$constants/flag';
 import * as load from '$constants/load';
@@ -40,7 +40,7 @@ yargs(hideBin(process.argv))
           demandOption: true,
         })
         .option(common.optionVerboseName, { alias: common.optionVerboseAlias, description: common.optionVerboseDescription, type: 'boolean', default: false }),
-    (args) => getMovieHandler(args.verbose).load(args)
+    (args) => getHandler(args.verbose).load(args)
   )
   .command(
     remove.command,
@@ -72,7 +72,7 @@ yargs(hideBin(process.argv))
           demandOption: true,
         })
         .option(common.optionVerboseName, { alias: common.optionVerboseAlias, description: common.optionVerboseDescription, type: 'boolean', default: false }),
-    (args) => getMovieHandler(args.verbose).remove(args)
+    (args) => getHandler(args.verbose).remove(args)
   )
   .command(
     flag.command,
@@ -110,7 +110,7 @@ yargs(hideBin(process.argv))
           demandOption: true,
         })
         .option(common.optionVerboseName, { alias: common.optionVerboseAlias, description: common.optionVerboseDescription, type: 'boolean', default: false }),
-    (args) => getMovieHandler(args.verbose).flag(args)
+    (args) => getHandler(args.verbose).flag(args)
   )
   .command(
     merge.command,
@@ -136,6 +136,6 @@ yargs(hideBin(process.argv))
           demandOption: true,
         })
         .option(common.optionVerboseName, { alias: common.optionVerboseAlias, description: common.optionVerboseDescription, type: 'boolean', default: false }),
-    (args) => getMovieHandler(args.verbose).merge(args)
+    (args) => getHandler(args.verbose).merge(args)
   )
   .parse();

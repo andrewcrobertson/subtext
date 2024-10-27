@@ -1,4 +1,4 @@
-import { GetMovieHandler } from '$services/handlers/GetMovieHandler';
+import { Handler } from '$services/handlers/Handler';
 import { Logger } from '$services/logger/Logger';
 import { MovieReader } from '$services/movieReader/MovieReader';
 import { OmdbApi } from '$services/omdb/OmdbApi';
@@ -33,7 +33,7 @@ export const downloaderOpenSubtitles = new OpenSubtitlesMovieReader(openSubtitle
 export const downloaderSubdl = new SubdlMovieReader(subdlApi);
 export const downloaderOrchestrator = new MovieReader(downloaderOmdb, downloaderOpenSubtitles, downloaderSubdl);
 
-export const getMovieHandler = (verbose: boolean) => {
+export const getHandler = (verbose: boolean) => {
   const logger = makeLogger(verbose);
-  return new GetMovieHandler(downloaderOrchestrator, logger);
+  return new Handler(downloaderOrchestrator, logger);
 };
