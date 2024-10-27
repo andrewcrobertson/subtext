@@ -1,13 +1,24 @@
-export interface GetSingleInput {
+export interface LoadInput {
   imdbId: string;
   logDir: string;
   force: boolean;
 }
 
-export interface GetMultipleInput {
-  imdbId: string[];
+export interface RemoveInput {
+  imdbId: string;
   logDir: string;
-  force: boolean;
+  dataDir: string;
+}
+
+export interface FlagInput {
+  imdbId: string;
+  subtitleId: string;
+  logDir: string;
+}
+
+export interface MergeInput {
+  logDir: string;
+  dataDir: string;
 }
 
 export interface ToMovieResponseSubtitle {

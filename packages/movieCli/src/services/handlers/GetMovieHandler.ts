@@ -14,22 +14,7 @@ export class GetMovieHandler {
     private readonly logger: Logger
   ) {}
 
-  public async loadMultiple({ imdbId: imdbIds, logDir, force }: T.GetMultipleInput) {
-    const metaDir = path.resolve(logDir, 'meta');
-    const posterDir = path.resolve(logDir, 'posters');
-    const subtitleDir = path.resolve(logDir, 'subtitles');
-    this.ensureDirs(metaDir, posterDir, subtitleDir);
-
-    this.logger.infoBlank();
-    this.logger.infoStarting();
-    for (let i = 0; i < imdbIds.length; i++) {
-      await this.doGetSingle(metaDir, posterDir, subtitleDir, imdbIds[i], force);
-    }
-
-    this.logger.infoBlank();
-  }
-
-  public async loadSingle({ imdbId, logDir, force }: T.GetSingleInput) {
+  public async load({ imdbId, logDir, force }: T.LoadInput) {
     const metaDir = path.resolve(logDir, 'meta');
     const posterDir = path.resolve(logDir, 'posters');
     const subtitleDir = path.resolve(logDir, 'subtitles');
@@ -38,6 +23,24 @@ export class GetMovieHandler {
     this.logger.infoBlank();
     this.logger.infoStarting();
     await this.doGetSingle(metaDir, posterDir, subtitleDir, imdbId, force);
+    this.logger.infoBlank();
+  }
+
+  public async remove({ imdbId, logDir, dataDir }: T.RemoveInput) {
+    this.logger.infoBlank();
+    this.logger.infoStarting();
+    this.logger.infoBlank();
+  }
+
+  public async flag({ imdbId, subtitleId, logDir }: T.FlagInput) {
+    this.logger.infoBlank();
+    this.logger.infoStarting();
+    this.logger.infoBlank();
+  }
+
+  public async merge({ logDir, dataDir }: T.MergeInput) {
+    this.logger.infoBlank();
+    this.logger.infoStarting();
     this.logger.infoBlank();
   }
 
