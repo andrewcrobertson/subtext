@@ -1,3 +1,4 @@
+import { FileManager } from '$services/fileManager/FileManager';
 import { Handler } from '$services/handlers/Handler';
 import { Logger } from '$services/logger/Logger';
 import { MovieReader } from '$services/movieReader/MovieReader';
@@ -28,12 +29,13 @@ export const omdbApi = new OmdbApi(omdbApiUrlBase, omdbToken);
 export const openSubtitlesApi = new OpenSubtitlesApi(openSubtitlesApiUrlBase, openSubtitlesToken);
 export const subdlApi = new SubdlApi(subdlApiUrlBase, subdlZipUrlBase, subdlToken);
 
-export const downloaderOmdb = new OmdbMovieReader(omdbApi);
-export const downloaderOpenSubtitles = new OpenSubtitlesMovieReader(openSubtitlesApi);
-export const downloaderSubdl = new SubdlMovieReader(subdlApi);
-export const downloaderOrchestrator = new MovieReader(downloaderOmdb, downloaderOpenSubtitles, downloaderSubdl);
+export const omdbMovieReader = new OmdbMovieReader(omdbApi);
+export const openSubtitlesMovieReader = new OpenSubtitlesMovieReader(openSubtitlesApi);
+export const subdlMovieReader = new SubdlMovieReader(subdlApi);
+export const movieReader = new MovieReader(omdbMovieReader, openSubtitlesMovieReader, subdlMovieReader);
 
+export const fileManager = new FileManager();
 export const getHandler = (verbose: boolean) => {
   const logger = makeLogger(verbose);
-  return new Handler(downloaderOrchestrator, logger);
+  return new Handler(movieReader, fileManager, logger);
 };

@@ -1,3 +1,4 @@
+import { FileManager } from '$services/fileManager/FileManager';
 import type { Logger } from '$services/logger/Logger';
 import type { MovieReader, ReadResponseData } from '$services/movieReader/MovieReader.types';
 import { parseSrt3 } from '$utils/parseSrt';
@@ -6,13 +7,12 @@ import * as glob from 'glob';
 import { concat, isError, map } from 'lodash';
 import murmurhash from 'murmurhash';
 import path from 'path';
-import { pipeline } from 'stream';
-import { promisify } from 'util';
 import type * as T from './Handler.types';
 
 export class Handler {
   public constructor(
     private readonly downloader: MovieReader,
+    private readonly fileManager: FileManager,
     private readonly logger: Logger
   ) {}
 
@@ -47,27 +47,23 @@ export class Handler {
     const posterUrl = downloadRes.data?.posterUrl ?? null;
     if (posterUrl !== null) {
       const posterFile = path.resolve(rootDir, index.posterFileName!);
-      this.ensureDir(posterFile);
-      const response = await fetch(posterUrl);
-      const fileStream = fs.createWriteStream(posterFile);
-      await promisify(pipeline)(response.body as unknown as NodeJS.ReadableStream, fileStream);
+      await this.fileManager.writeImageFile(posterFile, posterUrl);
       this.logger.infoSavedPosterFile(posterFile);
     }
 
-    this.ensureDir(indexFile);
-    fs.writeFileSync(indexFile, JSON.stringify(index, null, 2));
+    const timestamp = new Date().toISOString();
+    await this.fileManager.writeJsonFile(indexFile, index, timestamp);
     this.logger.infoSavedMetaFile(indexFile);
 
     for (let i = 0; i < subtitles.length; i++) {
       const { subTextValue, ...meta } = subtitles[i];
 
       const metaFile = path.resolve(subtitleDir, meta.subTextId, 'index.json');
-      this.ensureDir(metaFile);
-      fs.writeFileSync(metaFile, JSON.stringify(meta, null, 2));
+      await this.fileManager.writeJsonFile(metaFile, meta, timestamp);
       this.logger.infoSavedMetaFile(metaFile);
 
       const subtitleFile = path.resolve(subtitleDir, meta.subTextId, meta.subTextFileName);
-      fs.writeFileSync(subtitleFile, subTextValue);
+      await this.fileManager.writeTextFile(subtitleFile, subTextValue);
       this.logger.infoSavedSubtitleFile(subtitleFile);
     }
 
@@ -102,18 +98,16 @@ export class Handler {
     this.logger.infoBlank();
   }
 
-  private ensureDir(filePath: string) {
-    fs.mkdirSync(path.resolve(filePath, '..'), { recursive: true });
-  }
-
   private toMovie(imdbId: string, data: ReadResponseData): T.ToMovieResponse {
+    const posterFileName = data.posterUrl === null ? null : `poster${path.parse(path.basename(data.posterUrl)).ext}`;
+
     const output: T.ToMovieResponse = {
       index: {
         imdbId,
         title: data.title,
         releaseDate: data.releaseDate,
         releaseYear: data.releaseYear,
-        posterFileName: data.posterUrl === null ? null : `poster${path.parse(path.basename(data.posterUrl)).ext}`,
+        posterFileName,
         rated: data.rated,
         genres: data.genres,
         directors: data.directors,
