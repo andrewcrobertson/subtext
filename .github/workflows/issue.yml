@@ -27,7 +27,7 @@ jobs:
           # Count the issues found with the same title
           MATCHING_ISSUES=$(echo "$RESPONSE" | jq '.total_count')
           
-          # Determine if there’s more than one matching issue
+          # Determine if there's more than one matching issue
           if [ "$MATCHING_ISSUES" -gt 1 ]; then
             echo "Duplicate issue found"
             echo "::set-output name=duplicate_found::true"
