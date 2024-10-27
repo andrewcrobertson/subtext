@@ -13,18 +13,17 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          echo "Duplicate issue found"
-
           # Get the issue title (IMDb ID)
           ISSUE_TITLE="${{ github.event.issue.title }}"
           
           # Search for open issues with the same title (IMDb ID)
-          RESPONSE=$(curl -s -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/search/issues?q=repo:${{ github.repository }}+in:title+state:open+${ISSUE_TITLE}")
+          RESPONSE=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+            "https://api.github.com/search/issues?q=repo:${{ github.repository }}+in:title+state:open+${ISSUE_TITLE}")
           
           # Count the issues found with the same title
           MATCHING_ISSUES=$(echo "$RESPONSE" | jq '.total_count')
           
-          # Determine if there’s more than one matching issue
+          # Determine if there's more than one matching issue
           if [ "$MATCHING_ISSUES" -gt 1 ]; then
             echo "Duplicate issue found"
             echo "::set-output name=duplicate_found::true"
@@ -35,18 +34,15 @@ jobs:
 
       - name: Close duplicate issue
         if: steps.check_duplicate.outputs.duplicate_found == 'true'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          echo "Closing movie data for unique issue..."
-          # Place your movie processing logic here
-
-      # - name: Close duplicate issue
-      #   if: steps.check_duplicate.outputs.duplicate_found == 'true'
-      #   uses: actions-ecosystem/action-close-issue@v1
-      #   with:
-      #     issue-number: ${{ github.event.issue.number }}
-      #     github-token: ${{ secrets.GITHUB_TOKEN }}
-      #     close-message: "This issue is a duplicate of an existing issue with the same IMDb ID and has been closed."
-
+          ISSUE_NUMBER=${{ github.event.issue.number }}
+          curl -s -X PATCH -H "Authorization: token $GITHUB_TOKEN" \
+            -H "Accept: application/vnd.github.v3+json" \
+            https://api.github.com/repos/${{ github.repository }}/issues/$ISSUE_NUMBER \
+            -d '{"state":"closed", "body": "This issue is a duplicate of an existing issue with the same IMDb ID and has been closed."}'
+            
       - name: Process unique issue
         if: steps.check_duplicate.outputs.duplicate_found == 'false'
         run: |
