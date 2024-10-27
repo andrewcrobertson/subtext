@@ -36,19 +36,22 @@
     return filteredMovies;
   };
 
+  const updateIsOnMyList = (imdbId: string, isOnMyList: boolean) => {
+    if (isOnMyList) {
+      myListManager.add(imdbId);
+    } else {
+      myListManager.remove(imdbId);
+    }
+
+    const idx2 = findIndex(filteredMovies, (m) => m.id === imdbId);
+    if (idx2 !== -1) filteredMovies[idx2].isOnMyList = isOnMyList;
+    const idx1 = findIndex(recentMovies, (m) => m.id === imdbId);
+    if (idx1 !== -1) recentMovies[idx1].isOnMyList = isOnMyList;
+  };
+
   const handleBackClick = ({}: MouseEvent) => history.back();
-
-  const handleAddClick = ({ detail }: CustomEvent<MyListEventDetail>) => {
-    myListManager.add(detail.id);
-    const idx = findIndex(recentMovies, (m) => m.id === detail.id);
-    if (idx !== -1) recentMovies[idx].isOnMyList = true;
-  };
-
-  const handleRemoveClick = ({ detail }: CustomEvent<MyListEventDetail>) => {
-    myListManager.remove(detail.id);
-    const idx = findIndex(recentMovies, (m) => m.id === detail.id);
-    if (idx !== -1) recentMovies[idx].isOnMyList = false;
-  };
+  const handleAddClick = ({ detail }: CustomEvent<MyListEventDetail>) => updateIsOnMyList(detail.id, true);
+  const handleRemoveClick = ({ detail }: CustomEvent<MyListEventDetail>) => updateIsOnMyList(detail.id, false);
 
   onMount(async () => {
     let tempRecentMovies: Omit<Movie, 'isOnMyList'>[] = [];
