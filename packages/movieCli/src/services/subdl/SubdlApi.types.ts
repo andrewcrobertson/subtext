@@ -33,7 +33,7 @@ export interface ApiSearchResponse {
 
 export interface SearchResponse {
   imdbId: string;
-  title: string | null;
+  title: string;
   releaseDate: string | null;
   releaseYear: number | null;
   subtitles: SearchResponseSubtitleFile[];

@@ -36,9 +36,9 @@ export interface ToMovieResponseSubtitle {
   subTextValue: string;
 }
 
-export interface ToMovieResponse {
+export interface ToMovieResponseIndex {
   imdbId: string;
-  title: string | null;
+  title: string;
   releaseDate: string | null;
   releaseYear: number | null;
   posterFileName: string | null;
@@ -50,5 +50,9 @@ export interface ToMovieResponse {
   runTime: number | null;
   plot: string | null;
   subtitleIds: string[];
+}
+
+export interface ToMovieResponse {
+  index: ToMovieResponseIndex;
   subtitles: ToMovieResponseSubtitle[];
 }

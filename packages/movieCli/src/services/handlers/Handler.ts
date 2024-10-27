@@ -23,10 +23,10 @@ export class Handler {
     this.logger.infoBlank();
     this.logger.infoStarting();
 
-    const metaFile = path.resolve(rootDir, 'index.json');
-    if (!force && fs.existsSync(metaFile)) {
-      const data = JSON.parse(fs.readFileSync(metaFile, 'utf-8'));
-      this.logger.infoTitle(data.title, imdbId);
+    const indexFile = path.resolve(rootDir, 'index.json');
+    const existingIndex = fs.existsSync(indexFile) ? <T.ToMovieResponseIndex>JSON.parse(fs.readFileSync(indexFile, 'utf-8')) : null;
+    if (!force && existingIndex !== null) {
+      this.logger.infoTitle(existingIndex.title, imdbId);
       this.logger.infoMovieAlreadyDownloaded();
       return;
     }
@@ -42,11 +42,11 @@ export class Handler {
 
     const subtitleCount = downloadRes.data?.subtitles.length ?? 0;
     this.logger.infoMovieSubtitlesFound(subtitleCount);
-    const { subtitles, ...meta } = this.toMovie(imdbId, downloadRes.data!);
+    const { subtitles, index } = this.toMovie(imdbId, downloadRes.data!);
 
     const posterUrl = downloadRes.data?.posterUrl ?? null;
     if (posterUrl !== null) {
-      const posterFile = path.resolve(rootDir, meta.posterFileName!);
+      const posterFile = path.resolve(rootDir, index.posterFileName!);
       this.ensureDir(posterFile);
       const response = await fetch(posterUrl);
       const fileStream = fs.createWriteStream(posterFile);
@@ -54,9 +54,9 @@ export class Handler {
       this.logger.infoSavedPosterFile(posterFile);
     }
 
-    this.ensureDir(metaFile);
-    fs.writeFileSync(metaFile, JSON.stringify(meta, null, 2));
-    this.logger.infoSavedMetaFile(metaFile);
+    this.ensureDir(indexFile);
+    fs.writeFileSync(indexFile, JSON.stringify(index, null, 2));
+    this.logger.infoSavedMetaFile(indexFile);
 
     for (let i = 0; i < subtitles.length; i++) {
       const { subTextValue, ...meta } = subtitles[i];
@@ -108,19 +108,21 @@ export class Handler {
 
   private toMovie(imdbId: string, data: ReadResponseData): T.ToMovieResponse {
     const output: T.ToMovieResponse = {
-      imdbId,
-      title: data.title,
-      releaseDate: data.releaseDate,
-      releaseYear: data.releaseYear,
-      posterFileName: data.posterUrl === null ? null : `poster${path.parse(path.basename(data.posterUrl)).ext}`,
-      rated: data.rated,
-      genres: data.genres,
-      directors: data.directors,
-      writers: data.writers,
-      actors: data.actors,
-      runTime: data.runTimeMins,
-      plot: data.plot,
-      subtitleIds: [],
+      index: {
+        imdbId,
+        title: data.title,
+        releaseDate: data.releaseDate,
+        releaseYear: data.releaseYear,
+        posterFileName: data.posterUrl === null ? null : `poster${path.parse(path.basename(data.posterUrl)).ext}`,
+        rated: data.rated,
+        genres: data.genres,
+        directors: data.directors,
+        writers: data.writers,
+        actors: data.actors,
+        runTime: data.runTimeMins,
+        plot: data.plot,
+        subtitleIds: [],
+      },
       subtitles: [],
     };
 
@@ -132,7 +134,7 @@ export class Handler {
         const subTextValue = parseSrt3(subtitleFileText);
         const subTextId = this.generateHashFromText(subTextValue);
         const subTextFileName = `subtext.txt`;
-        output.subtitleIds.push(subTextId);
+        output.index.subtitleIds.push(subTextId);
         output.subtitles.push({ subTextId, ...subtitleRaw, subTextFileName, subTextValue });
       }
     }

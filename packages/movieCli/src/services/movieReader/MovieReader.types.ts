@@ -8,7 +8,7 @@ export interface ReadResponseDataSubtitles {
 
 export interface ReadResponseData {
   imdbId: string;
-  title: string | null;
+  title: string;
   posterUrl: string | null;
   releaseDate: string | null;
   releaseYear: number | null;
