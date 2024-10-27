@@ -58,6 +58,8 @@ jobs:
             
       - name: Process unique issue
         if: env.duplicate_found == 'false'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           echo "Processing movie data for unique issue..."
           # Place your movie processing logic here
