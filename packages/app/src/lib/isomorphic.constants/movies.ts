@@ -1,1 +1,1 @@
-export const showNRecentMovies = 14;
+export const showNRecentMovies = 15;
