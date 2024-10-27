@@ -1,5 +1,9 @@
 export const command = 'remove';
-export const description = "Remove a movie's data";
+export const description = "Removes a movie's data";
+
+export const optionUserIdName = 'user-id';
+export const optionUserIdAlias = 'u';
+export const optionUserIdDescription = 'User id';
 
 export const optionImdbIdName = 'imdb-id';
 export const optionImdbIdAlias = 'id';

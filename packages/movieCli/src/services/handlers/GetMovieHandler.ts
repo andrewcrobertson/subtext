@@ -32,7 +32,7 @@ export class GetMovieHandler {
     this.logger.infoBlank();
   }
 
-  public async flag({ imdbId, subtitleId, logDir }: T.FlagInput) {
+  public async flag({ imdbId, subtitleFileName: subtitleId, logDir }: T.FlagInput) {
     this.logger.infoBlank();
     this.logger.infoStarting();
     this.logger.infoBlank();

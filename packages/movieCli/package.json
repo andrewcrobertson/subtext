@@ -11,8 +11,10 @@
     "build.off": "run-s clean checktypes test pkgroll",
     "clean": "shx rm -rf ./dist ./coverage",
     "checktypes": "tsc --noEmit",
-    "dev:load-single": "dotenvx run -- tsx ./src/index.ts load-single --ld ../../__log__ -f",
-    "dev:load-multiple": "dotenvx run -- tsx ./src/index.ts load-multiple --ld ../../__log__ -f",
+    "dev:load": "dotenvx run -- tsx ./src/index.ts load --id tt0062622 --ld ../../__log__ -f",
+    "dev:remove": "dotenvx run -- tsx ./src/index.ts remove --id tt0062622 --ld ../../__log__ --dd ../../__data__",
+    "dev:flag": "dotenvx run -- tsx ./src/index.ts flag --id tt0062622 --sf tt0062622.4cf9e2acaecac175cd33244f194a391e53b601c37fc489f4031888efaef07f92.srt --ld ../../__log__",
+    "dev:merge": "dotenvx run -- tsx ./src/index.ts merge --ld ../../__log__ --dd ../../__data__",
     "test": "jest --verbose",
     "pkgroll": "pkgroll --minify"
   },

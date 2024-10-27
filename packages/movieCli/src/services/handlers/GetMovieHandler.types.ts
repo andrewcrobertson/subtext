@@ -12,7 +12,7 @@ export interface RemoveInput {
 
 export interface FlagInput {
   imdbId: string;
-  subtitleId: string;
+  subtitleFileName: string;
   logDir: string;
 }
 

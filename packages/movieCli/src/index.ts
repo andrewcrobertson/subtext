@@ -14,6 +14,12 @@ yargs(hideBin(process.argv))
     load.description,
     (yargs) =>
       yargs
+        .option(merge.optionUserIdName, {
+          alias: merge.optionUserIdAlias,
+          description: merge.optionUserIdDescription,
+          type: 'string',
+          demandOption: true,
+        })
         .option(load.optionImdbIdName, {
           alias: load.optionImdbIdAlias,
           description: load.optionImdbIdDescription,
@@ -41,6 +47,12 @@ yargs(hideBin(process.argv))
     remove.description,
     (yargs) =>
       yargs
+        .option(merge.optionUserIdName, {
+          alias: merge.optionUserIdAlias,
+          description: merge.optionUserIdDescription,
+          type: 'string',
+          demandOption: true,
+        })
         .option(remove.optionImdbIdName, {
           alias: remove.optionImdbIdAlias,
           description: remove.optionImdbIdDescription,
@@ -67,6 +79,12 @@ yargs(hideBin(process.argv))
     flag.description,
     (yargs) =>
       yargs
+        .option(merge.optionUserIdName, {
+          alias: merge.optionUserIdAlias,
+          description: merge.optionUserIdDescription,
+          type: 'string',
+          demandOption: true,
+        })
         .option(flag.optionImdbIdName, {
           alias: flag.optionImdbIdAlias,
           description: flag.optionImdbIdDescription,
@@ -93,9 +111,9 @@ yargs(hideBin(process.argv))
     merge.description,
     (yargs) =>
       yargs
-        .option(merge.optionImdbIdName, {
-          alias: merge.optionImdbIdAlias,
-          description: merge.optionImdbIdDescription,
+        .option(merge.optionUserIdName, {
+          alias: merge.optionUserIdAlias,
+          description: merge.optionUserIdDescription,
           type: 'string',
           demandOption: true,
         })
