@@ -25,10 +25,12 @@ jobs:
           RESPONSE=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
             "https://api.github.com/search/issues?q=repo:${{ github.repository }}+in:title+state:open+${ISSUE_TITLE}")
           
-          # Filter for issues with the same title and a lower issue number
+          # Extract issue numbers into an array
+          ISSUE_NUMBERS=($(echo "$RESPONSE" | jq '.items[].number'))
+          
+          # Check if any issue has a number less than the current issue number
           DUPLICATE_FOUND=false
-          for issue in $(echo "$RESPONSE" | jq -c '.items[]'); do
-            ISSUE_NUMBER=$(echo "$issue" | jq '.number')
+          for ISSUE_NUMBER in "${ISSUE_NUMBERS[@]}"; do
             if [ "$ISSUE_NUMBER" -lt "$CURRENT_ISSUE_NUMBER" ]; then
               DUPLICATE_FOUND=true
               break
