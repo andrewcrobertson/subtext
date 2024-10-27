@@ -1,5 +1,6 @@
 <script lang="ts">
   import { base } from '$app/paths';
+  import { showNRecentMovies } from '$lib/isomorphic.constants/movies';
   import MovieDetailPanelGrid from '$lib/ui.components/MovieDetailPanelGrid';
   import type { Movie, MyListEventDetail } from '$lib/ui.components/MovieDetailPanelGrid/types';
   import TransitionWhenLoaded from '$lib/ui.components/TransitionWhenLoaded';
@@ -13,7 +14,6 @@
 
   let recentMovies: Movie[] = [];
   let loaded = false;
-  const showNMovies = 10;
 
   let searchQuery = '';
   $: filteredMovies = getFilteredMovies(searchQuery);
@@ -54,7 +54,7 @@
     let tempRecentMovies: Omit<Movie, 'isOnMyList'>[] = [];
     for (let i = 0; i < data.movies.length; i++) {
       const movie = data.movies[i];
-      if (i < showNMovies) tempRecentMovies.push(movie);
+      if (i < showNRecentMovies) tempRecentMovies.push(movie);
     }
 
     recentMovies = mapMovies(tempRecentMovies);

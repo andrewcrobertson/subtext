@@ -1,11 +1,12 @@
 <script lang="ts">
   import { base } from '$app/paths';
+  import { showNRecentMovies } from '$lib/isomorphic.constants/movies';
   import Header from '$lib/ui.components/Header';
   import PosterLink from '$lib/ui.components/PosterLink';
   import TransitionWhenLoaded from '$lib/ui.components/TransitionWhenLoaded';
   import { myListManager } from '$lib/ui.composition/myListManager';
   import ChevronRightIcon from '$lib/ui.icons/ChevronRightIcon.svelte';
-  import { includes } from 'lodash-es';
+  import { filter, includes, take } from 'lodash-es';
   import { onMount } from 'svelte';
   import type { PageData } from './$types';
   export let data: PageData;
@@ -14,22 +15,10 @@
   let recentMovies: any[] = [];
   let loaded = false;
 
-  const showNMovies = 10;
-
   onMount(async () => {
-    let tempMyListMovies: any[] = [];
-    let tempRecentMovies: any[] = [];
     const myListMovieIds = myListManager.get();
-
-    for (let i = 0; i < data.movies.length; i++) {
-      const movie = data.movies[i];
-      if (i < showNMovies) tempRecentMovies.push(movie);
-      if (includes(myListMovieIds, movie.id)) tempMyListMovies.push(movie);
-      if (tempMyListMovies.length >= showNMovies) break;
-    }
-
-    recentMovies = tempRecentMovies;
-    myListMovies = tempMyListMovies;
+    recentMovies = take(data.movies, Math.min(showNRecentMovies, data.movies.length));
+    myListMovies = filter(data.movies, (m) => includes(myListMovieIds, m.id));
     loaded = true;
   });
 </script>
