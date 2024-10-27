@@ -58,8 +58,6 @@ export class Handler {
     }
 
     const downloadRes = await this.downloader.download(imdbId);
-    console.log(downloadRes);
-
     const errorText = map(downloadRes.errors, (error) => (isError(error) ? error.message : (<any>error).toString()));
     const title = downloadRes.data?.title ?? 'Unknown Title';
 
