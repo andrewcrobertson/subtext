@@ -17,18 +17,25 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # Get the issue title (IMDb ID)
+          # Get the issue title (IMDb ID) and the current issue number
           ISSUE_TITLE="${{ github.event.issue.title }}"
+          CURRENT_ISSUE_NUMBER=${{ github.event.issue.number }}
           
           # Search for open issues with the same title (IMDb ID)
           RESPONSE=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
             "https://api.github.com/search/issues?q=repo:${{ github.repository }}+in:title+state:open+${ISSUE_TITLE}")
           
-          # Count the issues found with the same title
-          MATCHING_ISSUES=$(echo "$RESPONSE" | jq '.total_count')
+          # Filter for issues with the same title and a lower issue number
+          DUPLICATE_FOUND=false
+          for issue in $(echo "$RESPONSE" | jq -c '.items[]'); do
+            ISSUE_NUMBER=$(echo "$issue" | jq '.number')
+            if [ "$ISSUE_NUMBER" -lt "$CURRENT_ISSUE_NUMBER" ]; then
+              DUPLICATE_FOUND=true
+              break
+            fi
+          done
           
-          # Determine if there's more than one matching issue
-          if [ "$MATCHING_ISSUES" -gt 1 ]; then
+          if [ "$DUPLICATE_FOUND" = true ]; then
             echo "Duplicate issue found"
             echo "::set-output name=duplicate_found::true"
           else
