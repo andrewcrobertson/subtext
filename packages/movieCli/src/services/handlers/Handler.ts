@@ -2,7 +2,8 @@ import type { Logger } from '$services/logger/Logger';
 import type { MovieReader, ReadResponseData } from '$services/movieReader/MovieReader.types';
 import { createHash } from 'crypto';
 import fs from 'fs';
-import { isError, map, toPairs } from 'lodash';
+import * as glob from 'glob';
+import { concat, isError, map, toPairs } from 'lodash';
 import path from 'path';
 import { pipeline } from 'stream';
 import { promisify } from 'util';
@@ -72,6 +73,16 @@ export class Handler {
   public async remove({ imdbId, logDir, dataDir }: T.RemoveInput) {
     this.logger.infoBlank();
     this.logger.infoStarting();
+
+    const logFilesAll = glob.sync(`**/${imdbId}.*`, { cwd: logDir, absolute: true });
+    const dataFilesAll = glob.sync(`**/${imdbId}.*`, { cwd: dataDir, absolute: true });
+    const allFiles = concat(logFilesAll, dataFilesAll).sort();
+
+    for (let i = 0; i < allFiles.length; i++) {
+      fs.unlinkSync(allFiles[i]);
+      this.logger.infoRemovedFile(allFiles[i]);
+    }
+
     this.logger.infoBlank();
   }
 

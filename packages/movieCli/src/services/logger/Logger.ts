@@ -19,6 +19,10 @@ export class Logger {
     this.logInfo(magenta('=== Starting ==='));
   }
 
+  public infoRemovedFile(file: string) {
+    this.logInfo(`Removed file ${this.formatPath(file)}`);
+  }
+
   public infoOpenGitHubIssuesFound(openIssueCount: number) {
     const issueP11n = openIssueCount === 1 ? 'issue' : 'issues';
     this.logInfo(`${green(openIssueCount)} open ${issueP11n} found`);
