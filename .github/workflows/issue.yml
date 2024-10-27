@@ -39,14 +39,14 @@ jobs:
           
           if [ "$DUPLICATE_FOUND" = true ]; then
             echo "Duplicate issue found"
-            echo "::set-output name=duplicate_found::true"
+            echo "duplicate_found=true" >> $GITHUB_ENV
           else
             echo "No duplicate issue found"
-            echo "::set-output name=duplicate_found::false"
+            echo "duplicate_found=false" >> $GITHUB_ENV
           fi
 
       - name: Close duplicate issue
-        if: steps.check_duplicate.outputs.duplicate_found == 'true'
+        if: env.duplicate_found == 'true'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -57,7 +57,7 @@ jobs:
             -d '{"state":"closed", "body": "This issue is a duplicate of an existing issue with the same IMDb ID and has been closed."}'
             
       - name: Process unique issue
-        if: steps.check_duplicate.outputs.duplicate_found == 'false'
+        if: env.duplicate_found == 'false'
         run: |
           echo "Processing movie data for unique issue..."
           # Place your movie processing logic here
