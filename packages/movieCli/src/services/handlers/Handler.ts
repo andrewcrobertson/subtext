@@ -14,7 +14,7 @@ export class Handler {
     private readonly logger: Logger
   ) {}
 
-  public async load({ imdbId, force }: T.LoadInput) {
+  public async load({ userId, imdbId, force }: T.LoadInput) {
     this.logger.infoBlank();
 
     const existingMovieData = await this.fileManager.getMovieData(imdbId);
@@ -37,21 +37,21 @@ export class Handler {
         this.logger.infoMovieSubtitlesFound(subtitleCount);
         const { subtitles, movieData } = this.toMovie(imdbId, readRes.data!);
 
-        const movieDataFile = await this.fileManager.writeMovieData(movieData, timestamp);
+        const movieDataFile = await this.fileManager.writeMovieData(movieData, userId, timestamp);
         this.logger.infoSavedMetaFile(movieDataFile);
 
         if (movieData.posterFileName !== null && readRes.data.posterUrl !== null) {
-          const posterFile = await this.fileManager.writePoster(imdbId, movieData.posterFileName, readRes.data.posterUrl);
+          const posterFile = await this.fileManager.writePoster(imdbId, movieData.posterFileName, readRes.data.posterUrl, userId, timestamp);
           this.logger.infoSavedPosterFile(posterFile);
         }
 
         for (let i = 0; i < subtitles.length; i++) {
           const { subTextValue, ...data } = subtitles[i];
 
-          const subtitleDataFile = await this.fileManager.writeSubtitleData(imdbId, data, timestamp);
+          const subtitleDataFile = await this.fileManager.writeSubtitleData(imdbId, data, userId, timestamp);
           this.logger.infoSavedMetaFile(subtitleDataFile);
 
-          const subtitleFile = await this.fileManager.writeSubtitleText(imdbId, data, subTextValue, timestamp);
+          const subtitleFile = await this.fileManager.writeSubtitleText(imdbId, data, subTextValue, userId, timestamp);
           this.logger.infoSavedSubtitleFile(subtitleFile);
         }
       } else {
@@ -61,11 +61,12 @@ export class Handler {
     this.logger.infoBlank();
   }
 
-  public async remove({ imdbId, dir }: T.RemoveInput) {
+  public async remove({ userId, imdbId }: T.RemoveInput) {
     this.logger.infoBlank();
     this.logger.infoStarting();
 
-    const movieDir = await this.fileManager.removeMovieData(imdbId);
+    const timestamp = new Date().toISOString();
+    const movieDir = await this.fileManager.removeMovieData(imdbId, userId, timestamp);
     this.logger.infoRemovedMovieDir(movieDir);
 
     this.logger.infoBlank();

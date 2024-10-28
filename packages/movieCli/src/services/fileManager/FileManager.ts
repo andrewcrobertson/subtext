@@ -1,17 +1,39 @@
 import fs from 'fs';
-import { cloneDeep, omit, set } from 'lodash';
+import { join, map, padStart, random } from 'lodash';
 import path from 'path';
 import { pipeline } from 'stream';
-import { isDeepStrictEqual, promisify } from 'util';
+import { promisify } from 'util';
 import type * as T from './FileManager.types';
 
 export class FileManager {
   public constructor(private readonly dir: string) {}
 
-  public async removeMovieData(imdbId: string) {
-    const movieDir = this.getMovieDir(imdbId);
-    await fs.promises.rm(movieDir, { recursive: true, force: true });
-    return movieDir;
+  public async writeMovieData(data: T.WriteMovieDataInputMovie, userId: string, timestamp: string) {
+    const filePath = this.getMovieDataFilePath(data.imdbId);
+    await this.writeJsonFile(filePath, data);
+    await this.writeLog(data.imdbId, 'WRITE_MOVIE_DATA', {}, userId, timestamp);
+    return filePath;
+  }
+
+  public async writePoster(imdbId: string, posterFileName: string, posterUrl: string, userId: string, timestamp: string) {
+    const posterFile = this.getPosterFilePath(imdbId, posterFileName);
+    await this.writeImageFile(posterFile, posterUrl);
+    await this.writeLog(imdbId, 'WRITE_POSTER', { posterFileName }, userId, timestamp);
+    return posterFile;
+  }
+
+  public async writeSubtitleData(imdbId: string, data: T.WriteSubtitleDataInputSubtitle, userId: string, timestamp: string) {
+    const filePath = this.getSubtitleDataFilePath(imdbId, data.subtitleId);
+    await this.writeJsonFile(filePath, data);
+    await this.writeLog(imdbId, 'WRITE_SUBTITLE_DATA', { subtitleId: data.subtitleId }, userId, timestamp);
+    return filePath;
+  }
+
+  public async writeSubtitleText(imdbId: string, data: T.WriteSubtitleDataInputSubtitle, text: string, userId: string, timestamp: string) {
+    const filePath = this.getSubtitleTextFilePath(imdbId, data.subtitleId, data.subTextFileName);
+    await this.writeTextFile(filePath, text);
+    await this.writeLog(imdbId, 'WRITE_SUBTITLE_TEXT', { subtitleId: data.subtitleId }, userId, timestamp);
+    return filePath;
   }
 
   public async getMovieData(imdbId: string) {
@@ -20,46 +42,53 @@ export class FileManager {
     return data;
   }
 
-  public async writeMovieData(data: T.WriteMovieDataInputMovie, timestamp: string) {
-    const filePath = this.getMovieDataFilePath(data.imdbId);
-    await this.writeJsonFile(filePath, data, timestamp);
-    return filePath;
+  public async removeMovieData(imdbId: string, userId: string, timestamp: string) {
+    const movieDir = this.getMovieDir(imdbId);
+    await fs.promises.rm(movieDir, { recursive: true, force: true });
+    await this.writeLog(imdbId, 'REMOVE_MOVIE_DATA', {}, userId, timestamp);
+    return movieDir;
   }
 
-  public async writeSubtitleData(imdbId: string, data: T.WriteSubtitleDataInputSubtitle, timestamp: string) {
-    const filePath = this.getSubtitleDataFilePath(imdbId, data.subtitleId);
-    await this.writeJsonFile(filePath, data, timestamp);
-    return filePath;
-  }
-
-  public async writeSubtitleText(imdbId: string, data: T.WriteSubtitleDataInputSubtitle, text: string, _timestamp: string) {
-    const filePath = this.getSubtitleTextFilePath(imdbId, data.subtitleId, data.subTextFileName);
-    await this.writeTextFile(filePath, text);
-    return filePath;
-  }
-
-  public async writePoster(imdbId: string, posterFileName: string, posterUrl: string) {
-    const rootDir = path.resolve(this.dir, imdbId);
-    const posterFile = path.resolve(rootDir, posterFileName);
-    await this.writeImageFile(posterFile, posterUrl);
-    return posterFile;
+  private async writeLog(imdbId: string, text: string, data: any, userId: string, timestamp: string) {
+    const filePath = this.getMovieLogFilePath(imdbId, timestamp);
+    await this.writeJsonFile(filePath, { imdbId, text, ...data, userId, timestamp });
   }
 
   private getMovieDir(imdbId: string) {
-    const rootDir = path.resolve(this.dir, imdbId);
-    return rootDir;
+    const movieDir = path.resolve(this.dir, imdbId);
+    return movieDir;
   }
 
-  private getSubtitlesDir(imdbId: string, subtitleId: string) {
+  private getMovieLogDir(imdbId: string) {
     const movieDir = this.getMovieDir(imdbId);
-    const subtitlesDir = path.resolve(movieDir, 'subtitles', subtitleId);
-    return subtitlesDir;
+    const movieLogDir = path.resolve(movieDir, 'logs');
+    return movieLogDir;
+  }
+
+  private getMovieLogFilePath(imdbId: string, timestamp: string) {
+    const timestampFormatted = timestamp.replace(/[:.]/g, '').replace('T', '').replace('Z', '');
+    const randomHex = join(map(Array(2), padStart(random(0, 255).toString(16), 2, '0')), '');
+    const movieLogDir = this.getMovieLogDir(imdbId);
+    const filePath = path.resolve(movieLogDir, `${timestampFormatted}.${randomHex}.json`);
+    return filePath;
   }
 
   private getMovieDataFilePath(imdbId: string) {
     const movieDir = this.getMovieDir(imdbId);
     const filePath = path.resolve(movieDir, 'index.json');
     return filePath;
+  }
+
+  private getPosterFilePath(imdbId: string, posterFileName: string) {
+    const movieDir = this.getMovieDir(imdbId);
+    const filePath = path.resolve(movieDir, posterFileName);
+    return filePath;
+  }
+
+  private getSubtitlesDir(imdbId: string, subtitleId: string) {
+    const movieDir = this.getMovieDir(imdbId);
+    const subtitlesDir = path.resolve(movieDir, 'subtitles', subtitleId);
+    return subtitlesDir;
   }
 
   private getSubtitleDataFilePath(imdbId: string, subtitleId: string) {
@@ -86,26 +115,9 @@ export class FileManager {
     fs.writeFileSync(filePath, fileContent);
   }
 
-  private async writeJsonFile(filePath: string, fileContent: any, timestamp: string) {
+  private async writeJsonFile(filePath: string, fileContent: any) {
     this.ensureDir(filePath);
-
-    const newFileContent = cloneDeep(fileContent);
-    set(newFileContent, ['lastSynced'], timestamp);
-
-    if (fs.existsSync(filePath)) {
-      const currFileContent = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
-      const currFileContentRaw = omit(currFileContent, ['lastSynced', 'lastModified']);
-      const newFileContentRaw = omit(newFileContent, ['lastSynced', 'lastModified']);
-      if (isDeepStrictEqual(currFileContentRaw, newFileContentRaw)) {
-        set(newFileContent, ['lastModified'], currFileContent.lastModified ?? timestamp);
-      } else {
-        set(newFileContent, ['lastModified'], timestamp);
-      }
-    } else {
-      set(newFileContent, ['lastModified'], timestamp);
-    }
-
-    fs.writeFileSync(filePath, JSON.stringify(newFileContent, null, 2));
+    fs.writeFileSync(filePath, JSON.stringify(fileContent, null, 2));
   }
 
   private ensureDir(filePath: string) {
