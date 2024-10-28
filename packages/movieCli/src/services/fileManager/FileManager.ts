@@ -59,9 +59,9 @@ export class FileManager {
     return movieDir;
   }
 
-  private async writeLog(imdbId: string, text: string, data: any, userId: string, timestamp: string) {
+  private async writeLog(imdbId: string, action: string, data: any, userId: string, timestamp: string) {
     const filePath = this.getMovieLogFilePath(imdbId, timestamp);
-    await this.writeJsonFile(filePath, { imdbId, text, ...data, userId, timestamp });
+    await this.writeJsonFile(filePath, { imdbId, action, ...data, userId, timestamp });
   }
 
   private getMovieDir(imdbId: string) {
@@ -77,7 +77,7 @@ export class FileManager {
 
   private getMovieLogFilePath(imdbId: string, timestamp: string) {
     const timestampFormatted = timestamp.replace(/-/g, '').replace(/[:.]/g, '').replace('T', '').replace('Z', '');
-    const randomHex = crypto.randomBytes(8).toString('hex');
+    const randomHex = crypto.randomBytes(4).toString('hex');
     const movieLogDir = this.getMovieLogDir(imdbId);
     const filePath = path.resolve(movieLogDir, `${timestampFormatted}.${randomHex}.json`);
     return filePath;

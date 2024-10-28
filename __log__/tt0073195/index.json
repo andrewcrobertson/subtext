@@ -11,7 +11,6 @@
   "actors": ["Roy Scheider", "Robert Shaw", "Richard Dreyfuss"],
   "runTime": 124,
   "plot": "When a massive killer shark unleashes chaos on a beach community off Long Island, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.",
-  "subtitleIds": ["3e5c4acd", "cb07fa49", "feea5cc", "34b3a634", "b5e55013", "ea8b5cda"],
-  "lastSynced": "2024-10-28T00:28:51.424Z",
-  "lastModified": "2024-10-28T00:28:51.424Z"
+  "subtitleIds": [],
+  "isDeleted": false
 }
