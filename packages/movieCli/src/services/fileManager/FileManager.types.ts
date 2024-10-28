@@ -23,7 +23,7 @@ export interface WriteSubtitleDataInputSubtitle {
   subTextFileName: string;
 }
 
-export interface GetIndexResponse {
+export interface GetMovieDataResponse {
   imdbId: string;
   title: string;
   releaseDate: string | null;

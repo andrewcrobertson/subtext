@@ -10,7 +10,7 @@ export class FileManager {
 
   public async getMovieData(imdbId: string) {
     const filePath = this.getMovieDataFilePath(imdbId);
-    const data = fs.existsSync(filePath) ? <T.GetIndexResponse>JSON.parse(fs.readFileSync(filePath, 'utf-8')) : null;
+    const data = fs.existsSync(filePath) ? <T.GetMovieDataResponse>JSON.parse(fs.readFileSync(filePath, 'utf-8')) : null;
     return data;
   }
 
