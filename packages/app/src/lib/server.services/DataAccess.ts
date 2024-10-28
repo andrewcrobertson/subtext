@@ -22,38 +22,6 @@ export class DataAccess {
     return { movies };
   }
 
-  public async getMyList() {
-    const moviesRaw = await this.getMovies();
-    const movies: {
-      id: string;
-      title: string;
-      releaseDate: string;
-      posterFileName: string;
-      rated: string;
-      genres: string[];
-      actors: string[];
-      runTime: number;
-      plot: string;
-    }[] = [];
-
-    for (let i = 0; i < moviesRaw.length; i++) {
-      const movie = moviesRaw[i];
-      movies.push({
-        id: movie.imdbId,
-        title: movie.title!,
-        releaseDate: movie.releaseDate!,
-        posterFileName: movie.posterFileName!,
-        rated: movie.rated!,
-        genres: movie.genres,
-        actors: movie.actors,
-        runTime: movie.runTime!,
-        plot: movie.plot!,
-      });
-    }
-
-    return { movies };
-  }
-
   public async search() {
     const moviesRaw = await this.getMovies();
     const movies: {

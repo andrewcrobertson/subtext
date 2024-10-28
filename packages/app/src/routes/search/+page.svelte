@@ -13,6 +13,7 @@
   export let data: PageData;
 
   let recentMovies: Movie[] = [];
+  let myListMovies: Movie[] = [];
   let loaded = false;
 
   let searchQuery = '';
@@ -43,10 +44,12 @@
       myListManager.remove(imdbId);
     }
 
+    const idx1 = findIndex(myListMovies, (m) => m.id === imdbId);
+    if (idx1 !== -1) myListMovies[idx1].isOnMyList = isOnMyList;
     const idx2 = findIndex(filteredMovies, (m) => m.id === imdbId);
     if (idx2 !== -1) filteredMovies[idx2].isOnMyList = isOnMyList;
-    const idx1 = findIndex(recentMovies, (m) => m.id === imdbId);
-    if (idx1 !== -1) recentMovies[idx1].isOnMyList = isOnMyList;
+    const idx3 = findIndex(recentMovies, (m) => m.id === imdbId);
+    if (idx3 !== -1) recentMovies[idx3].isOnMyList = isOnMyList;
   };
 
   const handleBackClick = ({}: MouseEvent) => history.back();
@@ -54,12 +57,18 @@
   const handleRemoveClick = ({ detail }: CustomEvent<MyListEventDetail>) => updateIsOnMyList(detail.id, false);
 
   onMount(async () => {
+    let tempMyListMovies: any[] = [];
     let tempRecentMovies: Omit<Movie, 'isOnMyList'>[] = [];
+    const myListMovieIds = myListManager.get();
+
     for (let i = 0; i < data.movies.length; i++) {
       const movie = data.movies[i];
-      if (i < showNRecentMovies) tempRecentMovies.push(movie);
+      const isOnMyList = includes(myListMovieIds, movie.id);
+      if (isOnMyList) tempMyListMovies.push({ ...movie, isOnMyList });
+      if (!isOnMyList && i < showNRecentMovies) tempRecentMovies.push(movie);
     }
 
+    myListMovies = tempMyListMovies;
     recentMovies = mapMovies(tempRecentMovies);
     loaded = true;
   });
@@ -77,20 +86,25 @@
 <div class="mt-16"></div>
 <TransitionWhenLoaded {loaded}>
   {#if searchQuery.length === 0}
+    {#if myListMovies.length > 0}
+      <h2 class="text-white text-xl md:text-2xl lg:text-3xl font-semibold">Current</h2>
+      <MovieDetailPanelGrid movies={myListMovies} on:addclick={handleAddClick} on:removeclick={handleRemoveClick} />
+    {/if}
     {#if recentMovies.length > 0}
+      <h2 class="text-white text-xl md:text-2xl lg:text-3xl font-semibold">Suggested</h2>
       <MovieDetailPanelGrid movies={recentMovies} on:addclick={handleAddClick} on:removeclick={handleRemoveClick} />
     {:else}
-      <p class="text-white text-center mt-4">
+      <p class="text-white text-xl mt-4">
         There are no movies in the database. Would you like to <a class="font-bold text-yellow-500" href={`${base}/request?q=${searchQuery}`}>request</a> one?
       </p>
     {/if}
   {:else if filteredMovies.length > 0}
     <MovieDetailPanelGrid movies={filteredMovies} on:addclick={handleAddClick} on:removeclick={handleRemoveClick} />
-    <p class="text-white text-center mt-4">
+    <p class="text-white text-xl mt-4">
       Not what you were looking for? Would you like to <a class="font-bold text-yellow-500" href={`${base}/request?q=${searchQuery}`}>request</a> it?
     </p>
   {:else}
-    <p class="text-white text-center mt-4">
+    <p class="text-white text-xl mt-4">
       Sorry, we couldn't find a matching movie in the database. Would you like to <a class="font-bold text-yellow-500" href={`${base}/request?q=${searchQuery}`}
         >request</a
       > it?
