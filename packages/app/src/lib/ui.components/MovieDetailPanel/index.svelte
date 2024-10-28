@@ -22,7 +22,7 @@
 
 <div class="flex items-start overflow-hidden">
   <a href={`${base}/subtitles/${movie.id}`} class="w-1/2">
-    <img src={`${base}/posters/${movie.posterFileName}`} alt={movie.title} class="w-full h-auto" />
+    <img src={`${base}/data/${movie.id}/${movie.posterFileName}`} alt={movie.title} class="w-full h-auto" />
   </a>
   <div class="pl-4 w-1/2 flex flex-col justify-between h-full">
     <div>

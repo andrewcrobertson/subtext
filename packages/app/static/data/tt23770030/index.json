@@ -1,0 +1,16 @@
+{
+  "imdbId": "tt23770030",
+  "title": "Memoir of a Snail",
+  "releaseDate": "2024-10-17T00:00:00.000Z",
+  "releaseYear": 2024,
+  "posterFileName": "poster.jpg",
+  "rated": "R",
+  "genres": ["Animation", "Drama"],
+  "directors": ["Adam Elliot"],
+  "writers": ["Adam Elliot"],
+  "actors": ["Eric Bana", "Sarah Snook", "Kodi Smit-McPhee"],
+  "runTime": 94,
+  "plot": "A bittersweet memoir of a melancholic woman called Grace Pudel - a hoarder of snails, romance novels, and guinea-pigs.",
+  "subtitleIds": [],
+  "isAvailable": true
+}

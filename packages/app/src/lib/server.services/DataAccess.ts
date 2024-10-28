@@ -1,4 +1,4 @@
-import type { Movie } from '$lib/isomorphic.types/Movie';
+import type { Movie, MovieRaw } from '$lib/isomorphic.types/Movie';
 import fs from 'fs';
 import { find, first, get, isEmpty, orderBy } from 'lodash-es';
 import path from 'path';
@@ -9,8 +9,8 @@ export class DataAccess {
 
   public constructor(private readonly dirPath: string) {}
 
-  public getIndex() {
-    const moviesRaw = this.getMovies();
+  public async getIndex() {
+    const moviesRaw = await this.getMovies();
     const movies: { id: string; title: string; posterFileName: string; hasSubtitles: boolean }[] = [];
 
     for (let i = 0; i < moviesRaw.length; i++) {
@@ -22,8 +22,8 @@ export class DataAccess {
     return { movies };
   }
 
-  public getMyList() {
-    const moviesRaw = this.getMovies();
+  public async getMyList() {
+    const moviesRaw = await this.getMovies();
     const movies: {
       id: string;
       title: string;
@@ -54,8 +54,8 @@ export class DataAccess {
     return { movies };
   }
 
-  public search() {
-    const moviesRaw = this.getMovies();
+  public async search() {
+    const moviesRaw = await this.getMovies();
     const movies: {
       id: string;
       title: string;
@@ -86,8 +86,8 @@ export class DataAccess {
     return { movies };
   }
 
-  public getView(id: string) {
-    const movies = this.getMovies();
+  public async getView(id: string) {
+    const movies = await this.getMovies();
     const movie = find(movies, (m) => m.imdbId === id)!;
 
     const title = get(movie, ['title'], 'Uknown');
@@ -95,20 +95,22 @@ export class DataAccess {
     return { title, subtitles };
   }
 
-  private getMovies() {
+  private async getMovies() {
     if (this.movies.length === 0) {
       const moviesRaw: Movie[] = [];
 
-      const metaDir = path.resolve(this.dirPath, 'meta');
-      fs.mkdirSync(metaDir, { recursive: true });
+      const indexFilePath = path.resolve(this.dirPath, 'index.json');
+      const index = JSON.parse(fs.readFileSync(indexFilePath, 'utf-8'));
 
-      const files = fs.readdirSync(metaDir);
-      for (let i = 0; i < files.length; i++) {
-        const file = files[i];
-        if (path.extname(file) === '.json') {
-          const movie: Movie = JSON.parse(fs.readFileSync(path.join(metaDir, file), 'utf-8'));
-          if (movie.subtitles.length > 0) moviesRaw.push(movie);
+      for (let i = 0; i < index.length; i++) {
+        const movieId = index[i].imdbId;
+        const file = path.resolve(this.dirPath, movieId, 'index.json');
+        const movie: MovieRaw = JSON.parse(fs.readFileSync(file, 'utf-8'));
+        for (let j = 0; j < movie.subtitleIds.length; j++) {
+          const file = path.resolve(this.dirPath, movieId, 'index.json');
         }
+
+        moviesRaw.push({ ...movie, subtitles: [] });
       }
 
       const movies = orderBy(moviesRaw, ['releaseDate', 'releaseYear', 'title'], ['desc', 'desc', 'asc']);

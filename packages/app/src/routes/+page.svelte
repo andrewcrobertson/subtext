@@ -36,7 +36,7 @@
     </div>
     <div class="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 lg:grid-cols-6 xl:grid-cols-7 gap-2 pr-2 overflow-y-auto scrollbar-hide">
       {#each myListMovies as { id, title, posterFileName }}
-        <PosterLink href={`${base}/subtitles/${id}`} src={`${base}/posters/${posterFileName}`} alt={title} />
+        <PosterLink href={`${base}/subtitles/${id}`} src={`${base}/data/${id}/${posterFileName}`} alt={title} />
       {/each}
     </div>
   {/if}
@@ -50,7 +50,7 @@
     </div>
     <div class="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 lg:grid-cols-6 xl:grid-cols-7 gap-2 pr-2 overflow-y-auto scrollbar-hide">
       {#each recentMovies as { id, title, posterFileName }}
-        <PosterLink href={`${base}/subtitles/${id}`} src={`${base}/posters/${posterFileName}`} alt={title} />
+        <PosterLink href={`${base}/subtitles/${id}`} src={`${base}/data/${id}/${posterFileName}`} alt={title} />
       {/each}
     </div>
   {/if}

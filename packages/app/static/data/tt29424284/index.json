@@ -1,0 +1,16 @@
+{
+  "imdbId": "tt29424284",
+  "title": "Runt",
+  "releaseDate": "2024-09-19T00:00:00.000Z",
+  "releaseYear": 2024,
+  "posterFileName": "poster.jpg",
+  "rated": "N/A",
+  "genres": ["Family"],
+  "directors": ["John Sheedy"],
+  "writers": ["Craig Silvey"],
+  "actors": ["Jai Courtney", "Celeste Barber", "Sarah Roberts"],
+  "runTime": 91,
+  "plot": "Follows ten-year-old Annie and Runt, her stray dog, as they attempt to win the Agility Course Championship at the Krumpets Dog Show in London in order to save their family's farm from drought and misery.",
+  "subtitleIds": [],
+  "isAvailable": true
+}
