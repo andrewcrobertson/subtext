@@ -37,4 +37,11 @@ export interface GetMovieDataResponse {
   runTime: number | null;
   plot: string | null;
   subtitleIds: string[];
+  isAvailable: boolean;
+}
+
+export interface WriteIndexDataInputMovie {
+  imdbId: string;
+  title: string;
+  posterFileName: string | null;
 }

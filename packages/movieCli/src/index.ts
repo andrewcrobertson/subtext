@@ -112,8 +112,8 @@ yargs(hideBin(process.argv))
     (yargs) =>
       yargs
         .option(index.optionUserIdName, {
-          alias: index.optionDataDirAlias,
-          description: index.optionDataDirDescription,
+          alias: index.optionUserIdAlias,
+          description: index.optionUserIdDescription,
           type: 'string',
           demandOption: true,
         })
@@ -124,6 +124,6 @@ yargs(hideBin(process.argv))
           demandOption: true,
         })
         .option(common.optionVerboseName, { alias: common.optionVerboseAlias, description: common.optionVerboseDescription, type: 'boolean', default: false }),
-    (args) => getHandler(args.dir, args.verbose).merge(args)
+    (args) => getHandler(args.dir, args.verbose).index(args)
   )
   .parse();

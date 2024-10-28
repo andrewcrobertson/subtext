@@ -2,7 +2,7 @@ import { FileManager } from '$services/fileManager/FileManager';
 import type { Logger } from '$services/logger/Logger';
 import type { MovieReader, ReadResponseData } from '$services/movieReader/MovieReader.types';
 import { parseSrt3 } from '$utils/parseSrt';
-import { isError, map } from 'lodash';
+import { isError, map, orderBy } from 'lodash';
 import murmurhash from 'murmurhash';
 import path from 'path';
 import type * as T from './Handler.types';
@@ -72,15 +72,38 @@ export class Handler {
     this.logger.infoBlank();
   }
 
-  public async flag({ imdbId, subtitleId, dir }: T.FlagInput) {
+  public async flag({ imdbId, subtitleId }: T.FlagInput) {
     this.logger.infoBlank();
     this.logger.infoStarting();
     this.logger.infoBlank();
   }
 
-  public async merge({ dir }: T.IndexInput) {
+  public async index({ userId }: T.IndexInput) {
     this.logger.infoBlank();
     this.logger.infoStarting();
+    const timestamp = new Date().toISOString();
+
+    const movieIds = await this.fileManager.getAllMovieIds();
+    const moviesRaw: T.MovieIndex[] = [];
+    for (let i = 0; i < movieIds.length; i++) {
+      const movieId = movieIds[i];
+      const movie = await this.fileManager.getMovieData(movieId);
+      if (movie !== null && movie.isAvailable) {
+        moviesRaw.push({
+          imdbId: movie.imdbId,
+          title: movie.title,
+          posterFileName: movie.posterFileName,
+          releaseDate: movie.releaseDate,
+          releaseYear: movie.releaseYear,
+        });
+      }
+    }
+
+    const moviesSorted = orderBy(moviesRaw, ['releaseDate', 'releaseYear', 'title'], ['desc', 'desc', 'asc']);
+    const movies = map(moviesSorted, (m) => ({ imdbId: m.imdbId, title: m.title, posterFileName: m.posterFileName }));
+    const indexFilePath = await this.fileManager.writeIndex(movies, userId, timestamp);
+    this.logger.infoSavedIndexFile(indexFilePath);
+
     this.logger.infoBlank();
   }
 

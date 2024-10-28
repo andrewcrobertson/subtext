@@ -61,6 +61,10 @@ export class Logger {
     this.logWarn(`Subtitles not found`);
   }
 
+  public infoSavedIndexFile(filePath: string) {
+    this.logInfo(`Saved index file ${this.formatPath(filePath)}`);
+  }
+
   public infoSavedPosterFile(posterFile: string) {
     this.logInfo(`Saved poster file ${this.formatPath(posterFile)}`);
   }

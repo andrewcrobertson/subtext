@@ -15,12 +15,10 @@ export interface FlagInput {
   imdbId: string;
   subtitleId: string;
   reason: string;
-  dir: string;
 }
 
 export interface IndexInput {
   userId: string;
-  dir: string;
 }
 
 export interface ToMovieResponseSubtitle {
@@ -52,4 +50,12 @@ export interface ToMovieResponseIndex {
 export interface ToMovieResponse {
   movieData: ToMovieResponseIndex;
   subtitles: ToMovieResponseSubtitle[];
+}
+
+export interface MovieIndex {
+  imdbId: string;
+  title: string;
+  posterFileName: string | null;
+  releaseDate: string | null;
+  releaseYear: number | null;
 }

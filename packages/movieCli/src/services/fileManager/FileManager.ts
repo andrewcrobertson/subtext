@@ -1,5 +1,6 @@
 import crypto from 'crypto';
 import fs from 'fs';
+import { filter, map } from 'lodash';
 import path from 'path';
 import { pipeline } from 'stream';
 import { promisify } from 'util';
@@ -8,43 +9,52 @@ import type * as T from './FileManager.types';
 export class FileManager {
   public constructor(private readonly dir: string) {}
 
+  public async writeIndex(data: T.WriteIndexDataInputMovie[], userId: string, timestamp: string) {
+    const filePath = this.getIndexFilePath();
+    await this.writeJsonFile(filePath, data);
+    await this.writeLog('WRITE_INDEX', {}, userId, timestamp);
+    return filePath;
+  }
+
   public async writeMovieData(data: T.WriteMovieDataInputMovie, userId: string, timestamp: string) {
     const filePath = this.getMovieDataFilePath(data.imdbId);
     await this.writeJsonFile(filePath, { ...data, isAvailable: true });
-    await this.writeLog(data.imdbId, 'WRITE_MOVIE_DATA', {}, userId, timestamp);
+    await this.writeLog('WRITE_MOVIE_DATA', { imdbId: data.imdbId }, userId, timestamp);
     return filePath;
   }
 
   public async writePoster(imdbId: string, posterFileName: string, posterUrl: string, userId: string, timestamp: string) {
     const posterFile = this.getPosterFilePath(imdbId, posterFileName);
     await this.writeImageFile(posterFile, posterUrl);
-    await this.writeLog(imdbId, 'WRITE_POSTER', { posterFileName }, userId, timestamp);
+    await this.writeLog('WRITE_POSTER', { imdbId, posterFileName }, userId, timestamp);
     return posterFile;
   }
 
   public async writeSubtitleData(imdbId: string, data: T.WriteSubtitleDataInputSubtitle, userId: string, timestamp: string) {
     const filePath = this.getSubtitleDataFilePath(imdbId, data.subtitleId);
     await this.writeJsonFile(filePath, data);
-    await this.writeLog(imdbId, 'WRITE_SUBTITLE_DATA', { subtitleId: data.subtitleId }, userId, timestamp);
+    await this.writeLog('WRITE_SUBTITLE_DATA', { imdbId, subtitleId: data.subtitleId }, userId, timestamp);
     return filePath;
   }
 
   public async writeSubtitleText(imdbId: string, data: T.WriteSubtitleDataInputSubtitle, text: string, userId: string, timestamp: string) {
     const filePath = this.getSubtitleTextFilePath(imdbId, data.subtitleId, data.subTextFileName);
     await this.writeTextFile(filePath, text);
-    await this.writeLog(imdbId, 'WRITE_SUBTITLE_TEXT', { subtitleId: data.subtitleId }, userId, timestamp);
+    await this.writeLog('WRITE_SUBTITLE_TEXT', { imdbId, subtitleId: data.subtitleId }, userId, timestamp);
     return filePath;
+  }
+
+  public async getAllMovieIds(): Promise<string[]> {
+    const entries = await fs.promises.readdir(this.dir, { withFileTypes: true });
+    const directories = filter(entries, (e) => e.isDirectory());
+    const movieIds = map(directories, (d) => d.name);
+    return movieIds;
   }
 
   public async getMovieData(imdbId: string): Promise<T.GetMovieDataResponse | null> {
     const filePath = this.getMovieDataFilePath(imdbId);
     const data = fs.existsSync(filePath) ? JSON.parse(fs.readFileSync(filePath, 'utf-8')) : null;
-    if (data === null) {
-      return data;
-    } else {
-      const { isAvailable, ...rest } = data;
-      return isAvailable ? rest : null;
-    }
+    return data;
   }
 
   public async removeMovieData(imdbId: string, userId: string, timestamp: string) {
@@ -53,15 +63,20 @@ export class FileManager {
     const data = fs.existsSync(filePath) ? <T.GetMovieDataResponse>JSON.parse(fs.readFileSync(filePath, 'utf-8')) : null;
     if (data !== null) {
       await this.writeJsonFile(filePath, { ...data, isAvailable: false });
-      await this.writeLog(imdbId, 'REMOVE_MOVIE_DATA', {}, userId, timestamp);
+      await this.writeLog('REMOVE_MOVIE_DATA', { imdbId }, userId, timestamp);
     }
 
     return movieDir;
   }
 
-  private async writeLog(imdbId: string, action: string, data: any, userId: string, timestamp: string) {
-    const filePath = this.getMovieLogFilePath(imdbId, timestamp);
-    await this.writeJsonFile(filePath, { imdbId, action, ...data, userId, timestamp });
+  private async writeLog(action: string, data: any, userId: string, timestamp: string) {
+    const filePath = this.getLogFilePath(timestamp);
+    await this.writeJsonFile(filePath, { action, ...data, userId, timestamp });
+  }
+
+  private getIndexFilePath() {
+    const filePath = path.resolve(this.dir, 'index.json');
+    return filePath;
   }
 
   private getMovieDir(imdbId: string) {
@@ -69,16 +84,15 @@ export class FileManager {
     return movieDir;
   }
 
-  private getMovieLogDir(imdbId: string) {
-    const movieDir = this.getMovieDir(imdbId);
-    const movieLogDir = path.resolve(movieDir, 'logs');
-    return movieLogDir;
+  private getLogDir() {
+    const logDir = path.resolve(this.dir, 'logs');
+    return logDir;
   }
 
-  private getMovieLogFilePath(imdbId: string, timestamp: string) {
+  private getLogFilePath(timestamp: string) {
     const timestampFormatted = timestamp.replace(/-/g, '').replace(/[:.]/g, '').replace('T', '').replace('Z', '');
     const randomHex = crypto.randomBytes(4).toString('hex');
-    const movieLogDir = this.getMovieLogDir(imdbId);
+    const movieLogDir = this.getLogDir();
     const filePath = path.resolve(movieLogDir, `${timestampFormatted}.${randomHex}.json`);
     return filePath;
   }

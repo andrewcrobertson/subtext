@@ -1,5 +1,5 @@
-export const command = 'merge';
-export const description = 'Merges data from the log dir to the data dir';
+export const command = 'index';
+export const description = 'Indexes the movie data';
 
 export const optionUserIdName = 'userId';
 export const optionUserIdAlias = 'u';
