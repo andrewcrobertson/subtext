@@ -3,11 +3,45 @@ import { cloneDeep, omit, set } from 'lodash';
 import path from 'path';
 import { pipeline } from 'stream';
 import { isDeepStrictEqual, promisify } from 'util';
+import type * as T from './FileManager.types';
 
 export class FileManager {
-  public constructor(private readonly dbDir: string) {}
+  public constructor(private readonly dir: string) {}
 
-  public async getIndex(imdbId: string) {}
+  public async getMovieData(imdbId: string) {
+    const rootDir = path.resolve(this.dir, imdbId);
+    const file = path.resolve(rootDir, 'index.json');
+    const data = fs.existsSync(file) ? <T.GetIndexResponse>JSON.parse(fs.readFileSync(file, 'utf-8')) : null;
+    return data;
+  }
+
+  public async writeMovieData(data: T.WriteMovieDataInputMovie, timestamp: string) {
+    const rootDir = path.resolve(this.dir, data.imdbId);
+    const file = path.resolve(rootDir, 'index.json');
+    await this.writeJsonFile(file, data, timestamp);
+    return file;
+  }
+
+  public async writeSubtitleData(imdbId: string, data: T.WriteSubtitleDataInputSubtitle, timestamp: string) {
+    const rootDir = path.resolve(this.dir, imdbId, 'subtitles', data.subtitleId);
+    const file = path.resolve(rootDir, 'index.json');
+    await this.writeJsonFile(file, data, timestamp);
+    return file;
+  }
+
+  public async writeSubtitleText(imdbId: string, data: T.WriteSubtitleDataInputSubtitle, text: string, timestamp: string) {
+    const rootDir = path.resolve(this.dir, imdbId, 'subtitles', data.subtitleId);
+    const file = path.resolve(rootDir, data.subTextFileName);
+    await this.writeTextFile(file, text);
+    return file;
+  }
+
+  public async writePoster(imdbId: string, posterFileName: string, posterUrl: string) {
+    const rootDir = path.resolve(this.dir, imdbId);
+    const posterFile = path.resolve(rootDir, posterFileName);
+    await this.writeImageFile(posterFile, posterUrl);
+    return posterFile;
+  }
 
   public async writeImageFile(filePath: string, url: string) {
     this.ensureDir(filePath);

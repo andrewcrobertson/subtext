@@ -16,55 +16,49 @@ export class Handler {
     private readonly logger: Logger
   ) {}
 
-  public async load({ imdbId, dir, force }: T.LoadInput) {
-    const rootDir = path.resolve(dir, imdbId);
-    const subtitleDir = path.resolve(rootDir, 'subtitles');
-
+  public async load({ imdbId, force }: T.LoadInput) {
     this.logger.infoBlank();
     this.logger.infoStarting();
 
-    const indexFile = path.resolve(rootDir, 'index.json');
-    const existingIndex = fs.existsSync(indexFile) ? <T.ToMovieResponseIndex>JSON.parse(fs.readFileSync(indexFile, 'utf-8')) : null;
-    if (!force && existingIndex !== null) {
-      this.logger.infoTitle(existingIndex.title, imdbId);
+    const existingMovieData = await this.fileManager.getMovieData(imdbId);
+    if (!force && existingMovieData !== null) {
+      this.logger.infoTitle(existingMovieData.title, imdbId);
       this.logger.infoMovieAlreadyDownloaded();
-      return;
-    }
+    } else {
+      const readRes = await this.downloader.read(imdbId);
+      const errorText = map(readRes.errors, (error) => (isError(error) ? error.message : (<any>error).toString()));
 
-    const downloadRes = await this.downloader.read(imdbId);
-    const errorText = map(downloadRes.errors, (error) => (isError(error) ? error.message : (<any>error).toString()));
-    const title = downloadRes.data?.title ?? 'Unknown Title';
+      this.logger.infoTitle(readRes.data?.title ?? 'Unknown Title', imdbId);
+      for (let i = 0; i < errorText.length; i++) {
+        this.logger.errorMessage(errorText[i]);
+      }
 
-    this.logger.infoTitle(title, imdbId);
-    for (let i = 0; i < errorText.length; i++) {
-      this.logger.errorMessage(errorText[i]);
-    }
+      if (readRes.success) {
+        const timestamp = new Date().toISOString();
 
-    const subtitleCount = downloadRes.data?.subtitles.length ?? 0;
-    this.logger.infoMovieSubtitlesFound(subtitleCount);
-    const { subtitles, index } = this.toMovie(imdbId, downloadRes.data!);
+        const subtitleCount = readRes.data.subtitles.length ?? 0;
+        this.logger.infoMovieSubtitlesFound(subtitleCount);
+        const { subtitles, movieData } = this.toMovie(imdbId, readRes.data!);
 
-    const posterUrl = downloadRes.data?.posterUrl ?? null;
-    if (posterUrl !== null) {
-      const posterFile = path.resolve(rootDir, index.posterFileName!);
-      await this.fileManager.writeImageFile(posterFile, posterUrl);
-      this.logger.infoSavedPosterFile(posterFile);
-    }
+        const movieDataFile = await this.fileManager.writeMovieData(movieData, timestamp);
+        this.logger.infoSavedMetaFile(movieDataFile);
 
-    const timestamp = new Date().toISOString();
-    await this.fileManager.writeJsonFile(indexFile, index, timestamp);
-    this.logger.infoSavedMetaFile(indexFile);
+        if (movieData.posterFileName !== null && readRes.data.posterUrl !== null) {
+          const posterFile = await this.fileManager.writePoster(imdbId, movieData.posterFileName, readRes.data.posterUrl);
+          this.logger.infoSavedPosterFile(posterFile);
+        }
 
-    for (let i = 0; i < subtitles.length; i++) {
-      const { subTextValue, ...meta } = subtitles[i];
+        for (let i = 0; i < subtitles.length; i++) {
+          const { subTextValue, ...data } = subtitles[i];
 
-      const metaFile = path.resolve(subtitleDir, meta.subTextId, 'index.json');
-      await this.fileManager.writeJsonFile(metaFile, meta, timestamp);
-      this.logger.infoSavedMetaFile(metaFile);
+          const subtitleDataFile = await this.fileManager.writeSubtitleData(imdbId, data, timestamp);
+          this.logger.infoSavedMetaFile(subtitleDataFile);
 
-      const subtitleFile = path.resolve(subtitleDir, meta.subTextId, meta.subTextFileName);
-      await this.fileManager.writeTextFile(subtitleFile, subTextValue);
-      this.logger.infoSavedSubtitleFile(subtitleFile);
+          const subtitleFile = await this.fileManager.writeSubtitleText(imdbId, data, subTextValue, timestamp);
+          this.logger.infoSavedSubtitleFile(subtitleFile);
+        }
+      } else {
+      }
     }
 
     this.logger.infoBlank();
@@ -102,7 +96,7 @@ export class Handler {
     const posterFileName = data.posterUrl === null ? null : `poster${path.parse(path.basename(data.posterUrl)).ext}`;
 
     const output: T.ToMovieResponse = {
-      index: {
+      movieData: {
         imdbId,
         title: data.title,
         releaseDate: data.releaseDate,
@@ -126,10 +120,10 @@ export class Handler {
       const ext = path.parse(path.basename(subtitleRaw.subtitleFileName)).ext;
       if (ext === '.srt') {
         const subTextValue = parseSrt3(subtitleFileText);
-        const subTextId = this.generateHashFromText(subTextValue);
+        const subtitleId = this.generateHashFromText(subTextValue);
         const subTextFileName = `subtext.txt`;
-        output.index.subtitleIds.push(subTextId);
-        output.subtitles.push({ subTextId, ...subtitleRaw, subTextFileName, subTextValue });
+        output.movieData.subtitleIds.push(subtitleId);
+        output.subtitles.push({ subtitleId, ...subtitleRaw, subTextFileName, subTextValue });
       }
     }
 

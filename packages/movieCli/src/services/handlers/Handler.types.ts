@@ -1,7 +1,6 @@
 export interface LoadInput {
   userId: string;
   imdbId: string;
-  dir: string;
   force: boolean;
 }
 
@@ -25,7 +24,7 @@ export interface IndexInput {
 }
 
 export interface ToMovieResponseSubtitle {
-  subTextId: string;
+  subtitleId: string;
   source: string;
   author: string | null;
   zipFileName: string | null;
@@ -51,6 +50,6 @@ export interface ToMovieResponseIndex {
 }
 
 export interface ToMovieResponse {
-  index: ToMovieResponseIndex;
+  movieData: ToMovieResponseIndex;
   subtitles: ToMovieResponseSubtitle[];
 }
