@@ -18,7 +18,6 @@ export class Handler {
 
   public async load({ imdbId, force }: T.LoadInput) {
     this.logger.infoBlank();
-    this.logger.infoStarting();
 
     const existingMovieData = await this.fileManager.getMovieData(imdbId);
     if (!force && existingMovieData !== null) {

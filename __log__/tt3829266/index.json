@@ -1,0 +1,17 @@
+{
+  "imdbId": "tt3829266",
+  "title": "The Predator",
+  "releaseDate": "2018-09-14T00:00:00.000Z",
+  "releaseYear": 2018,
+  "posterFileName": "poster.jpg",
+  "rated": "R",
+  "genres": ["Action", "Adventure", "Sci-Fi"],
+  "directors": ["Shane Black"],
+  "writers": ["Fred Dekker", "Shane Black", "Jim Thomas"],
+  "actors": ["Boyd Holbrook", "Trevante Rhodes", "Jacob Tremblay"],
+  "runTime": 107,
+  "plot": "When a young boy accidentally triggers the universe's most lethal hunters' return to Earth, only a ragtag crew of ex-soldiers and a disgruntled scientist can prevent the end of the human race.",
+  "subtitleIds": ["95153370", "8d3da967"],
+  "lastSynced": "2024-10-28T00:33:43.087Z",
+  "lastModified": "2024-10-28T00:33:43.087Z"
+}

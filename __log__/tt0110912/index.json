@@ -1,0 +1,17 @@
+{
+  "imdbId": "tt0110912",
+  "title": "Pulp Fiction",
+  "releaseDate": "1994-10-14T00:00:00.000Z",
+  "releaseYear": 1994,
+  "posterFileName": "poster.jpg",
+  "rated": "R",
+  "genres": ["Crime", "Drama"],
+  "directors": ["Quentin Tarantino"],
+  "writers": ["Quentin Tarantino", "Roger Avary"],
+  "actors": ["John Travolta", "Uma Thurman", "Samuel L. Jackson"],
+  "runTime": 154,
+  "plot": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+  "subtitleIds": [],
+  "lastSynced": "2024-10-28T00:29:33.085Z",
+  "lastModified": "2024-10-28T00:29:33.085Z"
+}

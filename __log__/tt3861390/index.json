@@ -1,0 +1,17 @@
+{
+  "imdbId": "tt3861390",
+  "title": "Dumbo",
+  "releaseDate": "2019-03-29T00:00:00.000Z",
+  "releaseYear": 2019,
+  "posterFileName": "poster.jpg",
+  "rated": "PG",
+  "genres": ["Adventure", "Family", "Fantasy"],
+  "directors": ["Tim Burton"],
+  "writers": ["Ehren Kruger", "Helen Aberson", "Harold Pearl"],
+  "actors": ["Colin Farrell", "Michael Keaton", "Danny DeVito"],
+  "runTime": 112,
+  "plot": "A young elephant, whose oversized ears enable him to fly, helps save a struggling circus, but when the circus plans a new venture, Dumbo and his friends discover dark secrets beneath its shiny veneer.",
+  "subtitleIds": ["7dcbada4", "299b2908", "91104f09"],
+  "lastSynced": "2024-10-28T00:33:53.885Z",
+  "lastModified": "2024-10-28T00:33:53.885Z"
+}

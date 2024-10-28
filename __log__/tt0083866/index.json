@@ -1,0 +1,17 @@
+{
+  "imdbId": "tt0083866",
+  "title": "E.T. the Extra-Terrestrial",
+  "releaseDate": "1982-06-11T00:00:00.000Z",
+  "releaseYear": 1982,
+  "posterFileName": "poster.jpg",
+  "rated": "PG",
+  "genres": ["Adventure", "Family", "Sci-Fi"],
+  "directors": ["Steven Spielberg"],
+  "writers": ["Melissa Mathison"],
+  "actors": ["Henry Thomas", "Drew Barrymore", "Peter Coyote"],
+  "runTime": 115,
+  "plot": "A troubled child summons the courage to help a friendly alien escape from Earth and return to his home planet.",
+  "subtitleIds": ["ce82abfe", "3adb45cc", "c72b4da4"],
+  "lastSynced": "2024-10-28T00:29:08.596Z",
+  "lastModified": "2024-10-28T00:29:08.596Z"
+}
