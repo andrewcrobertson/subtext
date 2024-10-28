@@ -10,7 +10,7 @@ export class FileManager {
 
   public async writeMovieData(data: T.WriteMovieDataInputMovie, userId: string, timestamp: string) {
     const filePath = this.getMovieDataFilePath(data.imdbId);
-    await this.writeJsonFile(filePath, { ...data, isDeleted: false });
+    await this.writeJsonFile(filePath, { ...data, isAvailable: true });
     await this.writeLog(data.imdbId, 'WRITE_MOVIE_DATA', {}, userId, timestamp);
     return filePath;
   }
@@ -42,8 +42,8 @@ export class FileManager {
     if (data === null) {
       return data;
     } else {
-      const { isDeleted, ...rest } = data;
-      return isDeleted ? null : rest;
+      const { isAvailable, ...rest } = data;
+      return isAvailable ? rest : null;
     }
   }
 
@@ -52,7 +52,7 @@ export class FileManager {
     const filePath = this.getMovieDataFilePath(imdbId);
     const data = fs.existsSync(filePath) ? <T.GetMovieDataResponse>JSON.parse(fs.readFileSync(filePath, 'utf-8')) : null;
     if (data !== null) {
-      await this.writeJsonFile(filePath, { ...data, isDeleted: true });
+      await this.writeJsonFile(filePath, { ...data, isAvailable: false });
       await this.writeLog(imdbId, 'REMOVE_MOVIE_DATA', {}, userId, timestamp);
     }
 
