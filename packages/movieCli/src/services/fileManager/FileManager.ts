@@ -8,6 +8,12 @@ import type * as T from './FileManager.types';
 export class FileManager {
   public constructor(private readonly dir: string) {}
 
+  public async removeMovieData(imdbId: string) {
+    const movieDir = this.getMovieDir(imdbId);
+    await fs.promises.rm(movieDir, { recursive: true, force: true });
+    return movieDir;
+  }
+
   public async getMovieData(imdbId: string) {
     const filePath = this.getMovieDataFilePath(imdbId);
     const data = fs.existsSync(filePath) ? <T.GetMovieDataResponse>JSON.parse(fs.readFileSync(filePath, 'utf-8')) : null;
@@ -51,8 +57,8 @@ export class FileManager {
   }
 
   private getMovieDataFilePath(imdbId: string) {
-    const rootDir = this.getMovieDir(imdbId);
-    const filePath = path.resolve(rootDir, 'index.json');
+    const movieDir = this.getMovieDir(imdbId);
+    const filePath = path.resolve(movieDir, 'index.json');
     return filePath;
   }
 

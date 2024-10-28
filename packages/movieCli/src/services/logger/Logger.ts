@@ -19,8 +19,8 @@ export class Logger {
     this.logInfo(magenta('=== Starting ==='));
   }
 
-  public infoRemovedFile(file: string) {
-    this.logInfo(`Removed file ${this.formatPath(file)}`);
+  public infoRemovedMovieDir(dir: string) {
+    this.logInfo(`Removed movie dir ${this.formatPath(dir)}`);
   }
 
   public infoOpenGitHubIssuesFound(openIssueCount: number) {

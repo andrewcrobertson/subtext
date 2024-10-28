@@ -2,9 +2,7 @@ import { FileManager } from '$services/fileManager/FileManager';
 import type { Logger } from '$services/logger/Logger';
 import type { MovieReader, ReadResponseData } from '$services/movieReader/MovieReader.types';
 import { parseSrt3 } from '$utils/parseSrt';
-import fs from 'fs';
-import * as glob from 'glob';
-import { concat, isError, map } from 'lodash';
+import { isError, map } from 'lodash';
 import murmurhash from 'murmurhash';
 import path from 'path';
 import type * as T from './Handler.types';
@@ -67,14 +65,8 @@ export class Handler {
     this.logger.infoBlank();
     this.logger.infoStarting();
 
-    const logFilesAll = glob.sync(`**/${imdbId}.*`, { cwd: dir, absolute: true });
-    const dataFilesAll = glob.sync(`**/${imdbId}.*`, { cwd: dir, absolute: true });
-    const allFiles = concat(logFilesAll, dataFilesAll).sort();
-
-    for (let i = 0; i < allFiles.length; i++) {
-      fs.unlinkSync(allFiles[i]);
-      this.logger.infoRemovedFile(allFiles[i]);
-    }
+    const movieDir = await this.fileManager.removeMovieData(imdbId);
+    this.logger.infoRemovedMovieDir(movieDir);
 
     this.logger.infoBlank();
   }
