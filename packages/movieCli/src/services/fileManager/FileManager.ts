@@ -1,5 +1,5 @@
+import crypto from 'crypto';
 import fs from 'fs';
-import { join, map, padStart, random } from 'lodash';
 import path from 'path';
 import { pipeline } from 'stream';
 import { promisify } from 'util';
@@ -10,7 +10,7 @@ export class FileManager {
 
   public async writeMovieData(data: T.WriteMovieDataInputMovie, userId: string, timestamp: string) {
     const filePath = this.getMovieDataFilePath(data.imdbId);
-    await this.writeJsonFile(filePath, data);
+    await this.writeJsonFile(filePath, { ...data, isDeleted: false });
     await this.writeLog(data.imdbId, 'WRITE_MOVIE_DATA', {}, userId, timestamp);
     return filePath;
   }
@@ -36,16 +36,26 @@ export class FileManager {
     return filePath;
   }
 
-  public async getMovieData(imdbId: string) {
+  public async getMovieData(imdbId: string): Promise<T.GetMovieDataResponse | null> {
     const filePath = this.getMovieDataFilePath(imdbId);
-    const data = fs.existsSync(filePath) ? <T.GetMovieDataResponse>JSON.parse(fs.readFileSync(filePath, 'utf-8')) : null;
-    return data;
+    const data = fs.existsSync(filePath) ? JSON.parse(fs.readFileSync(filePath, 'utf-8')) : null;
+    if (data === null) {
+      return data;
+    } else {
+      const { isDeleted, ...rest } = data;
+      return isDeleted ? null : rest;
+    }
   }
 
   public async removeMovieData(imdbId: string, userId: string, timestamp: string) {
     const movieDir = this.getMovieDir(imdbId);
-    await fs.promises.rm(movieDir, { recursive: true, force: true });
-    await this.writeLog(imdbId, 'REMOVE_MOVIE_DATA', {}, userId, timestamp);
+    const filePath = this.getMovieDataFilePath(imdbId);
+    const data = fs.existsSync(filePath) ? <T.GetMovieDataResponse>JSON.parse(fs.readFileSync(filePath, 'utf-8')) : null;
+    if (data !== null) {
+      await this.writeJsonFile(filePath, { ...data, isDeleted: true });
+      await this.writeLog(imdbId, 'REMOVE_MOVIE_DATA', {}, userId, timestamp);
+    }
+
     return movieDir;
   }
 
@@ -66,8 +76,8 @@ export class FileManager {
   }
 
   private getMovieLogFilePath(imdbId: string, timestamp: string) {
-    const timestampFormatted = timestamp.replace(/[:.]/g, '').replace('T', '').replace('Z', '');
-    const randomHex = join(map(Array(2), padStart(random(0, 255).toString(16), 2, '0')), '');
+    const timestampFormatted = timestamp.replace(/-/g, '').replace(/[:.]/g, '').replace('T', '').replace('Z', '');
+    const randomHex = crypto.randomBytes(8).toString('hex');
     const movieLogDir = this.getMovieLogDir(imdbId);
     const filePath = path.resolve(movieLogDir, `${timestampFormatted}.${randomHex}.json`);
     return filePath;
