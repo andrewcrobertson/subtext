@@ -95,12 +95,13 @@ export class Handler {
           posterFileName: movie.posterFileName,
           releaseDate: movie.releaseDate,
           releaseYear: movie.releaseYear,
+          subtitleCount: movie.subtitleIds.length,
         });
       }
     }
 
     const moviesSorted = orderBy(moviesRaw, ['releaseDate', 'releaseYear', 'title'], ['desc', 'desc', 'asc']);
-    const movies = map(moviesSorted, (m) => ({ imdbId: m.imdbId, title: m.title, posterFileName: m.posterFileName }));
+    const movies = map(moviesSorted, (m) => ({ imdbId: m.imdbId, title: m.title, posterFileName: m.posterFileName, subtitleCount: m.subtitleCount }));
     const indexFilePath = await this.fileManager.writeIndex(movies, userId, timestamp);
     this.logger.infoSavedIndexFile(indexFilePath);
 

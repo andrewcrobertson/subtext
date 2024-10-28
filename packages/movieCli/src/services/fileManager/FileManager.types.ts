@@ -44,4 +44,5 @@ export interface WriteIndexDataInputMovie {
   imdbId: string;
   title: string;
   posterFileName: string | null;
+  subtitleCount: number;
 }

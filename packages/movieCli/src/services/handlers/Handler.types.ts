@@ -58,4 +58,5 @@ export interface MovieIndex {
   posterFileName: string | null;
   releaseDate: string | null;
   releaseYear: number | null;
+  subtitleCount: number;
 }
