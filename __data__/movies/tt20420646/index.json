@@ -1,0 +1,28 @@
+{
+  "imdbId": "tt20420646",
+  "title": "From Hilde, with Love",
+  "releaseDate": "2024-10-17T00:00:00.000Z",
+  "releaseYear": 2024,
+  "posterFileName": "poster.jpg",
+  "rated": "N/A",
+  "genres": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "directors": [
+    "Andreas Dresen"
+  ],
+  "writers": [
+    "Laila Stieler"
+  ],
+  "actors": [
+    "Liv Lisa Fries",
+    "Johannes Hegemann",
+    "Lisa Wagner"
+  ],
+  "runTime": 125,
+  "plot": "In Berlin 1942, Hilde is a member of an anti-Nazi group. She falls in love with another member, Hans. The two spend a summer together until they get caught by the Gestapo and Hilde is imprisoned, eight months pregnant.",
+  "subtitleIds": [],
+  "isAvailable": true
+}
