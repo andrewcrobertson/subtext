@@ -1,2 +1,2 @@
-export const showNRecentMovies = 15;
-export const searchNRecentMovies = 100;
+export const showNRecentMovies = 30;
+export const searchNRecentMovies = 500;

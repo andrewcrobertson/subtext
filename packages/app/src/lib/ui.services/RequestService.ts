@@ -1,3 +1,4 @@
+import { isEmpty } from 'lodash-es';
 import type { Gateway } from './Gateway.types';
 import type * as T from './RequestService.types';
 import type { UserIdService } from './UserIdService';
@@ -24,7 +25,11 @@ export class RequestService {
   }
 
   public getImdbQueryUrl(query: string): string {
-    return `https://www.imdb.com/find/?q=${query}&s=tt&ttype=ft&ref_=subtext`;
+    if (isEmpty(query)) {
+      return `https://www.imdb.com?ref_=subtext`;
+    } else {
+      return `https://www.imdb.com/find/?q=${query}&s=tt&ttype=ft&ref_=subtext`;
+    }
   }
 
   public async updateIsOnMyList(imdbId: string, isOnMyList: boolean): Promise<void> {
