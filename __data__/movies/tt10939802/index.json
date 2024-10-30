@@ -1,0 +1,26 @@
+{
+  "imdbId": "tt10939802",
+  "title": "Audrey",
+  "releaseDate": "2024-03-10T00:00:00.000Z",
+  "releaseYear": 2024,
+  "posterFileName": "poster.jpg",
+  "rated": "N/A",
+  "genres": [
+    "Comedy"
+  ],
+  "directors": [
+    "Natalie Bailey"
+  ],
+  "writers": [
+    "Lou Sanz"
+  ],
+  "actors": [
+    "Jackie van Beek",
+    "Jeremy Lindsay Taylor",
+    "Josephine Blazier"
+  ],
+  "runTime": 97,
+  "plot": "Self-appointed Mother of the Year, Ronnie has given her daughter Audrey everything, so when Audrey selfishly falls into a coma, Ronnie has no choice but to keep their dreams alive by assuming her identity.",
+  "subtitleIds": [],
+  "isAvailable": true
+}
