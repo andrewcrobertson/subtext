@@ -115,7 +115,7 @@ export class Handler {
     for (let i = 0; i < movieIds.length; i++) {
       const movieId = movieIds[i];
       const movie = await this.fileManager.getMovieData(movieId);
-      if (movie !== null && movie.isAvailable) {
+      if (movie !== null && movie.isAvailable && movie.subtitleIds.length > 0) {
         moviesRaw.push({
           imdbId: movie.imdbId,
           title: movie.title,
