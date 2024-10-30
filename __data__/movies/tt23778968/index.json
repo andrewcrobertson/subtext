@@ -1,0 +1,36 @@
+{
+  "imdbId": "tt23778968",
+  "title": "Thelma",
+  "releaseDate": "2024-06-21T00:00:00.000Z",
+  "releaseYear": 2024,
+  "posterFileName": "poster.jpg",
+  "rated": "PG-13",
+  "genres": [
+    "Action",
+    "Comedy"
+  ],
+  "directors": [
+    "Josh Margolin"
+  ],
+  "writers": [
+    "Josh Margolin"
+  ],
+  "actors": [
+    "June Squibb",
+    "Fred Hechinger",
+    "Richard Roundtree"
+  ],
+  "runTime": 98,
+  "plot": "When 93-year-old Thelma Post gets duped by a phone scammer pretending to be her grandson, she sets out on a treacherous quest across the city to reclaim what was taken from her.",
+  "subtitleIds": [
+    "ad0a7f2c",
+    "d92e53d2",
+    "3869ed46",
+    "1aae31ca",
+    "d92e53d2",
+    "ad0a7f2c",
+    "970e3fcb",
+    "21b6881e"
+  ],
+  "isAvailable": true
+}
