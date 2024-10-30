@@ -1,0 +1,48 @@
+{
+  "imdbId": "tt0060196",
+  "title": "The Good, the Bad and the Ugly",
+  "releaseDate": "1967-12-29T00:00:00.000Z",
+  "releaseYear": 1966,
+  "posterFileName": "poster.jpg",
+  "rated": "R",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Western"
+  ],
+  "directors": [
+    "Sergio Leone"
+  ],
+  "writers": [
+    "Luciano Vincenzoni",
+    "Sergio Leone",
+    "Agenore Incrocci"
+  ],
+  "actors": [
+    "Clint Eastwood",
+    "Eli Wallach",
+    "Lee Van Cleef"
+  ],
+  "runTime": 178,
+  "plot": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+  "subtitleIds": [
+    "7857d720",
+    "567a4fea",
+    "b4f978da",
+    "2d933dff",
+    "d441e546",
+    "80c8dbbb",
+    "e6e5ea18",
+    "34990573",
+    "a095fd14",
+    "197c00c6",
+    "b4f978da",
+    "2d933dff",
+    "d60ec7ca",
+    "638303e3",
+    "d846290c",
+    "a9678270",
+    "a9678270"
+  ],
+  "isAvailable": true
+}
