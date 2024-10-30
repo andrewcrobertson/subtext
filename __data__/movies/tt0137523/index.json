@@ -1,0 +1,45 @@
+{
+  "imdbId": "tt0137523",
+  "title": "Fight Club",
+  "releaseDate": "1999-10-15T00:00:00.000Z",
+  "releaseYear": 1999,
+  "posterFileName": "poster.jpg",
+  "rated": "R",
+  "genres": [
+    "Drama"
+  ],
+  "directors": [
+    "David Fincher"
+  ],
+  "writers": [
+    "Chuck Palahniuk",
+    "Jim Uhls"
+  ],
+  "actors": [
+    "Brad Pitt",
+    "Edward Norton",
+    "Meat Loaf"
+  ],
+  "runTime": 139,
+  "plot": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+  "subtitleIds": [
+    "1db6d3b9",
+    "435d9297",
+    "91825467",
+    "4fa0dd35",
+    "4fa0dd35",
+    "89cad777",
+    "eec8e258",
+    "5e1a448e",
+    "e1932923",
+    "889d314c",
+    "e03c531",
+    "b4a58285",
+    "db571135",
+    "346a2e68",
+    "67f09fbf",
+    "9ceb301e",
+    "c14ba444"
+  ],
+  "isAvailable": true
+}
