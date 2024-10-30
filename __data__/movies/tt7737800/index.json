@@ -1,0 +1,34 @@
+{
+  "imdbId": "tt7737800",
+  "title": "Woman of the Hour",
+  "releaseDate": "2024-10-18T00:00:00.000Z",
+  "releaseYear": 2023,
+  "posterFileName": "poster.jpg",
+  "rated": "N/A",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "directors": [
+    "Anna Kendrick"
+  ],
+  "writers": [
+    "Ian McDonald"
+  ],
+  "actors": [
+    "Anna Kendrick",
+    "Daniel Zovatto",
+    "Tony Hale"
+  ],
+  "runTime": 95,
+  "plot": "Cheryl Bradshaw, a single woman looking for a suitor on a hit 1970s TV show, chooses charming bachelor Rodney Alcala, unaware that, behind the man's gentle facade, he hides a deadly secret.",
+  "subtitleIds": [
+    "48a2de6",
+    "f7dd183c",
+    "1723e1cc",
+    "d0df6a8f",
+    "b963161b"
+  ],
+  "isAvailable": true
+}
