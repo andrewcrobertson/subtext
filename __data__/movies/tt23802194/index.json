@@ -1,0 +1,34 @@
+{
+  "imdbId": "tt23802194",
+  "title": "72 Hours",
+  "releaseDate": "2024-11-01T00:00:00.000Z",
+  "releaseYear": 2024,
+  "posterFileName": "poster.jpg",
+  "rated": "N/A",
+  "genres": [
+    "Action",
+    "Thriller"
+  ],
+  "directors": [
+    "Christian Sesma"
+  ],
+  "writers": [
+    "Sean Crayne",
+    "Roberto Sanchez",
+    "Christian Sesma"
+  ],
+  "actors": [
+    "Cam Gigandet",
+    "Nicky Whelan",
+    "Jana Kramer"
+  ],
+  "runTime": null,
+  "plot": "Two brothers, one an FBI agent and the other an international money launderer, put aside their differences and band together to save their family by going after a perilous extraction deep in kingpin territory.",
+  "subtitleIds": [
+    "e128768f",
+    "d99e56f4",
+    "e128768f",
+    "d99e56f4"
+  ],
+  "isAvailable": true
+}
