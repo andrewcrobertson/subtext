@@ -1,0 +1,38 @@
+{
+  "imdbId": "tt0042876",
+  "title": "Rashomon",
+  "releaseDate": "1951-12-26T00:00:00.000Z",
+  "releaseYear": 1950,
+  "posterFileName": "poster.jpg",
+  "rated": "Not Rated",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "directors": [
+    "Akira Kurosawa"
+  ],
+  "writers": [
+    "Ryûnosuke Akutagawa",
+    "Akira Kurosawa",
+    "Shinobu Hashimoto"
+  ],
+  "actors": [
+    "Toshirô Mifune",
+    "Machiko Kyô",
+    "Masayuki Mori"
+  ],
+  "runTime": 88,
+  "plot": "The rape of a bride and the murder of her samurai husband are recalled from the perspectives of a bandit, the bride, the samurai's ghost and a woodcutter.",
+  "subtitleIds": [
+    "4ad6b39b",
+    "52fbe873",
+    "df76d06f",
+    "835db2f4",
+    "65988761",
+    "aac00c44",
+    "e8afeddc"
+  ],
+  "isAvailable": true
+}
