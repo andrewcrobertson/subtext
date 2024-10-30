@@ -26,7 +26,10 @@
 </script>
 
 <div class={twMerge('flex w-full h-full bg-gray-800', _class)}>
-  <div class="w-1/2">
+  <div class="w-1/2 relative">
+    {#if movie.subtitleCount === 0}
+      <div class="absolute top-0 left-0 bg-red-600 bg-opacity-80 font-bold text-white text-center py-1 w-full">No Subtitles</div>
+    {/if}
     {#if mode === T.Mode.Play}
       <a href={`${base}/watch/${movie.imdbId}`} class="w-1/2">
         <img src={movie.posterUrl} alt={movie.title} class="w-full h-full object-cover" />
@@ -63,7 +66,7 @@
       </p> -->
     </div>
     <div class="absolute bottom-0 left-0 right-0 p-2">
-      {#if mode === T.Mode.Play}
+      {#if mode === T.Mode.Play && movie.subtitleCount > 0}
         <a
           class="flex items-center justify-center w-full h-10 space-x-1 bg-black text-white font-bold hover:bg-gray-900"
           href={`${base}/watch/${movie.imdbId}`}
