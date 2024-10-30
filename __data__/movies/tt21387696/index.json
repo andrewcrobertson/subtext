@@ -1,0 +1,29 @@
+{
+  "imdbId": "tt21387696",
+  "title": "The Carpenter",
+  "releaseDate": "2024-11-01T00:00:00.000Z",
+  "releaseYear": 2023,
+  "posterFileName": "poster.jpg",
+  "rated": "N/A",
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "directors": [
+    "Garrett Batty"
+  ],
+  "writers": [
+    "Garrett Batty",
+    "Kameron Krebs",
+    "Kenny Krebs"
+  ],
+  "actors": [
+    "Kameron Krebs",
+    "Kaulin Krebs",
+    "Daz Crawford"
+  ],
+  "runTime": null,
+  "plot": "An adopted viking orphan becomes a carpenter's apprentice to Jesus. The orphan, Oren, fights as a side hustle. His experience training as a carpenter with Jesus as his mentor changes his lifestyle.",
+  "subtitleIds": [],
+  "isAvailable": true
+}
