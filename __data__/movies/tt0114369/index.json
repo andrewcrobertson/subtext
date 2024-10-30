@@ -1,0 +1,39 @@
+{
+  "imdbId": "tt0114369",
+  "title": "Se7en",
+  "releaseDate": "1995-09-22T00:00:00.000Z",
+  "releaseYear": 1995,
+  "posterFileName": "poster.jpg",
+  "rated": "R",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "directors": [
+    "David Fincher"
+  ],
+  "writers": [
+    "Andrew Kevin Walker"
+  ],
+  "actors": [
+    "Morgan Freeman",
+    "Brad Pitt",
+    "Kevin Spacey"
+  ],
+  "runTime": 127,
+  "plot": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+  "subtitleIds": [
+    "94599439",
+    "166cca41",
+    "fb1efb43",
+    "ceb383a",
+    "d6e73413",
+    "2a9a1bd1",
+    "dfbb8f44",
+    "87eb8261",
+    "21bf817b",
+    "b5eaeb69"
+  ],
+  "isAvailable": true
+}
