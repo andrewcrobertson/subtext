@@ -1,0 +1,41 @@
+{
+  "imdbId": "tt0238546",
+  "title": "Queen of the Damned",
+  "releaseDate": "2002-02-22T00:00:00.000Z",
+  "releaseYear": 2002,
+  "posterFileName": "poster.jpg",
+  "rated": "R",
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Horror"
+  ],
+  "directors": [
+    "Michael Rymer"
+  ],
+  "writers": [
+    "Anne Rice",
+    "Scott Abbott",
+    "Michael Petroni"
+  ],
+  "actors": [
+    "Aaliyah",
+    "Stuart Townsend",
+    "Marguerite Moreau"
+  ],
+  "runTime": 101,
+  "plot": "In this loose sequel to Interview with the Vampire (1994), the vampire Lestat becomes a rock star whose music wakes up the equally beautiful and monstrous queen of all vampires.",
+  "subtitleIds": [
+    "93045fe",
+    "2f1f34dc",
+    "f73bfaab",
+    "e01c69f4",
+    "a9212bec",
+    "871d7d1d",
+    "2f1f34dc",
+    "5026e740",
+    "26fbb49f",
+    "d898aa28"
+  ],
+  "isAvailable": true
+}
