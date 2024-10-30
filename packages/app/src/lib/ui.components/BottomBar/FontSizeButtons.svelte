@@ -3,7 +3,6 @@
   import DocumentMinusIcon from '$lib/ui.icons/DocumentMinusIcon.svelte';
   import DocumentPlusIcon from '$lib/ui.icons/DocumentPlusIcon.svelte';
   import { createEventDispatcher } from 'svelte';
-  import BottomBarButton from './Button.svelte';
 
   const dispatch = createEventDispatcher();
   const onFontSmallClick = (event: MouseEvent) => dispatch('fontsmallclick', event.detail);
@@ -12,7 +11,7 @@
 </script>
 
 <div class="flex space-x-2">
-  <BottomBarButton on:click={onFontSmallClick}><DocumentMinusIcon class="size-10" /></BottomBarButton>
-  <BottomBarButton on:click={onFontNormalClick}><DocumentIcon class="size-10" /></BottomBarButton>
-  <BottomBarButton on:click={onFontLargeClick}><DocumentPlusIcon class="size-10" /></BottomBarButton>
+  <button class="btn btn-square text-white size-10" on:click={onFontSmallClick}><DocumentMinusIcon class="size-10" /></button>
+  <button class="btn btn-square text-white size-10" on:click={onFontNormalClick}><DocumentIcon class="size-10" /></button>
+  <button class="btn btn-square text-white size-10" on:click={onFontLargeClick}><DocumentPlusIcon class="size-10" /></button>
 </div>

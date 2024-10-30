@@ -6,7 +6,6 @@
   import PlayIcon from '$lib/ui.icons/PlayIcon.svelte';
   import { createEventDispatcher } from 'svelte';
   import { twMerge } from 'tailwind-merge';
-  import BottomBarButton from './Button.svelte';
   export { _class as class };
   export let isPlaying = false;
 
@@ -18,11 +17,11 @@
 </script>
 
 <div class={twMerge('flex space-x-2', _class)}>
-  <BottomBarButton on:click={onSkipBackClick}><BackwardIcon class="size-10" /></BottomBarButton>
+  <button class="btn btn-square text-white size-10" on:click={onSkipBackClick}><BackwardIcon class="size-10" /></button>
   {#if isPlaying}
-    <BottomBarButton on:click={onPauseClick}><PauseIcon class="size-10" /></BottomBarButton>
+    <button class="btn btn-square text-white size-10" on:click={onPauseClick}><PauseIcon class="size-10" /></button>
   {:else}
-    <BottomBarButton on:click={onPlayClick}><PlayIcon class="size-10" /></BottomBarButton>
+    <button class="btn btn-square text-white size-10" on:click={onPlayClick}><PlayIcon class="size-10" /></button>
   {/if}
-  <BottomBarButton on:click={onSkipForwardClick}><ForwardIcon class="size-10" /></BottomBarButton>
+  <button class="btn btn-square text-white size-10" on:click={onSkipForwardClick}><ForwardIcon class="size-10" /></button>
 </div>
