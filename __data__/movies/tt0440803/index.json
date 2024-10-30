@@ -1,0 +1,41 @@
+{
+  "imdbId": "tt0440803",
+  "title": "Shutter",
+  "releaseDate": "2004-09-09T00:00:00.000Z",
+  "releaseYear": 2004,
+  "posterFileName": "poster.jpg",
+  "rated": "Not Rated",
+  "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "directors": [
+    "Banjong Pisanthanakun",
+    "Parkpoom Wongpoom"
+  ],
+  "writers": [
+    "Parkpoom Wongpoom",
+    "Banjong Pisanthanakun",
+    "Sophon Sakdaphisit"
+  ],
+  "actors": [
+    "Ananda Everingham",
+    "Natthaweeranuch Thongmee",
+    "Achita Sikamana"
+  ],
+  "runTime": 97,
+  "plot": "When Jane and Tun run over a girl in a car accident, they speed away immediately from the crime scene. However, Tun, a photographer, soon discovers strange shadows in his photos, which unsettles them.",
+  "subtitleIds": [
+    "b0f74ee2",
+    "f4ce9f8b",
+    "39dc184a",
+    "3bc35ed8",
+    "39dc184a",
+    "12d53aac",
+    "23abb1fc",
+    "3024c54a",
+    "4653866b"
+  ],
+  "isAvailable": true
+}
