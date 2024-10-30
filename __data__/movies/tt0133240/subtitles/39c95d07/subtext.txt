@@ -1,0 +1,2005 @@
+1376 3743 CONLI: <i>Welcome to<br />our audio commentary</i>
+3837 6169 <i>on our film</i> Treasure Planet.
+6256 8497 <i>My name's Roy Conti.<br />I'm the producer of the film.</i>
+9301 10416 <i>And I'm Ron Clements.</i>
+10511 13845 <i>I'm the co-director and co-writer<br />of the film.</i>
+13931 17674 <i>And this is John Musker,<br />the other co-director/co-writer.</i>
+17768 21056 <i>Hi. I'm Glen Keane.<br />I'm a supervising animator at Disney,</i>
+21146 26391 <i>and my job on this film was to design<br />and animate the character John Silver.</i>
+26944 31279 <i>Hi. I'm John Ripa, and I was<br />supervising animator on Jim Hawkins.</i>
+31365 35359 <i>Hi. I'm Ian Gooding. I'm the associate<br />art director on</i> Treasure Planet,
+35452 40197 <i>and hopefully I can give you<br />some insight into how color is done</i>
+40290 44375 <i>on a Disney animated feature<br />during the course of this commentary.</i>
+45587 46998 MUSKER: <i>The entire prologue here,</i>
+47089 50207 <i>we actually changed around<br />during the course of production,</i>
+50300 51756 <i>in that it used to take place...</i>
+51843 56053 <i>The story used to be told first-person.<br />Jim was the adult narrator of this story,</i>
+56139 58743 <i>and he sort of pulled us into it,<br />but we discovered through the course</i>
+58767 61634 <i>of some previews and whatnot<br />that it was playing kind of dark,</i>
+61728 63706 <i>and we didn't have Jim<br />as a character involved in it,</i>
+63730 66939 <i>so fairly late into production,<br />we reworked this opening</i>
+67025 69733 <i>such that we see young Jim as a child.</i>
+69820 72312 <i>We don't hear Jim<br />as an adult narrator anymore,</i>
+72406 74022 <i>we hear Tony Jay who is...</i>
+74116 77950 <i>Those of you voice recognition experts<br />from the FBI know</i>
+78036 82075 <i>he was the voice of Frollo<br />in</i> Hunchback,
+82165 83997 <i>in which Roy worked closely with Tony</i>
+84084 86020 <i>and knew him from theatrical days<br />as I understand it.</i>
+86044 87876 CLEMENTS: <i>Great voice.</i><br />MUSKER: <i>Exactly.</i>
+91174 94758 CLEMENTS: <i>Now we see young Jim,<br />little five-year-old Jim Hawkins.</i>
+95596 98338 <i>Voices of Laurie Metcalf<br />and Austin Majors,</i>
+98432 103177 <i>who is the little kid on</i> NYPD Blue,<br /><i>he plays Dennis Franz's son.</i>
+103270 104330 CONLI: <i>You should talk<br />about the recording.</i>
+104354 105415 MUSKER: <i>Yes, he was recording</i>
+105439 107125 <i>in the same room<br />that we're in right now, actually,</i>
+107149 109857 <i>and he was funny 'cause we had<br />Glen Keane in here working with him</i>
+109943 112480 <i>'cause Glen really works well<br />with children</i>
+112571 114107 <i>and was gonna animate some of this,</i>
+114197 115800 <i>and we wanted to get him involved<br />in the recording,</i>
+115824 118156 <i>and so Austin was all over the place,</i>
+118243 120985 <i>so they had to put tape on the floor,<br />"Austin, stay by the tape,"</i>
+121079 124617 <i>and it was an interesting<br />recording session.</i>
+125000 126240 KEANE: <i>This was fun for me</i>
+126335 130078 <i>because after doing Long John Silver<br />for the whole film,</i>
+130172 134006 <i>to get a chance to do something cute,</i>
+134092 136584 <i>it wasn't supposed to<br />look mean and ugly.</i>
+136678 138134 <i>It was a nice change.</i>
+138221 140838 RIPA: <i>Yeah, well,<br />we certainly appreciated</i>
+140932 142889 <i>and needed your help at the time.</i>
+142976 144432 MUSKER: <i>Jim's mother, Sarah,</i>
+144519 146279 <i>it was an interesting<br />acting challenge for us</i>
+146313 148975 <i>because we wanted to find someone<br />whose voice was old enough</i>
+149066 150627 <i>that you bought as his mother,<br />and yet young enough</i>
+150651 153188 <i>because she had Jim at an early age.</i>
+153570 157814 <i>And Laurie Metcalf was special to us in<br />that she could play the maternal thing,</i>
+157908 162027 <i>but she could get this sort of weariness<br />of being the single mother</i>
+162120 164157 <i>who really had to make ends meet<br />on her own,</i>
+164247 168741 <i>and yet a kind of vulnerability<br />underneath the kind of toughness</i>
+168835 171327 <i>that she had to acquire to be<br />her own woman.</i>
+171421 174834 <i>Sarah's clean-up,<br />that is the refined drawings done</i>
+174925 178168 <i>over the rough animator's drawings<br />was done by Vera Pacheco,</i>
+178261 181629 <i>a wonderful draftsperson<br />and the woman who, in fact,</i>
+181723 185341 <i>supervised all of the clean-up<br />animation on the entire movie.</i>
+185435 187017 <i>And Vera did a wonderful job</i>
+187104 191598 <i>of really giving us<br />such a rich-looking, well-drawn film.</i>
+192317 194684 <i>It had to be crafted particularly well.</i>
+194778 197736 <i>It's being blown up<br />to large format systems,</i>
+197823 201236 <i>and every little nuance<br />shows up on those big screens,</i>
+201326 204318 <i>and we've been delighted to see<br />how solid the drawing is,</i>
+204413 208623 <i>and our hats are off to Vera<br />for the great job she did on this movie.</i>
+212921 214732 CONLI: <i>This was actually...<br />As we said we changed the story.</i>
+214756 218215 <i>John had this idea of doing this<br />whole thing with the storybook,</i>
+218301 221635 <i>making this pop-up book,<br />which wasn't part of the original thing,</i>
+221722 224384 <i>and then we take this into<br />the transition to Jim Hawkins.</i>
+224474 226215 <i>He's now 15-years-old.</i>
+226309 228971 <i>We added that title<br />just in case you didn't know</i>
+229062 231394 <i>that it was several years later.</i>
+231898 233980 RIPA: <i>This section was a lot of fun.</i>
+234067 237105 <i>Jin Kim, who was one<br />of the animators on the character,</i>
+237195 239311 <i>did such an outstanding job.</i>
+239740 241401 <i>These scenes were very difficult.</i>
+241491 244404 <i>They dealt<br />with a three-dimensional board,</i>
+244494 247612 <i>which, a lot of times,<br />he had to indicate beforehand,</i>
+247706 249572 <i>3-D moving backgrounds.</i>
+250375 253538 <i>He just really took to it<br />and did such a fun job.</i>
+253962 257375 <i>The sequence, overall,<br />was just a lot of fun to design</i>
+257466 260549 <i>and come up with movements<br />and poses, it really uses a lot of things.</i>
+260635 265926 <i>It kind of went X Game crazy, I guess,<br />where there's sky surfing,</i>
+266016 269805 <i>there's windsurfing, there's<br />skateboarding, snowboarding, surfing.</i>
+269895 272762 <i>It kind of incorporates<br />a little bit of everything.</i>
+272856 276645 <i>Also, Anthony Wong, Mike Cedeno,<br />John Pomeroy</i>
+276735 278191 <i>did these few scenes here.</i>
+278528 281190 <i>Um, Danny Galieote,<br />some of the other animators</i>
+281281 282442 <i>that worked on the character</i>
+282532 284692 <i>and just did a nice job,<br />everybody matching each other,</i>
+284743 286529 <i>and clean-up did a nice job</i>
+286620 288473 <i>because everybody does draw<br />a little bit different.</i>
+288497 291142 <i>No matter what you do, everybody<br />has their set way of drawing.</i>
+291166 291701 <i>No matter what you do, everybody<br />has their set way of drawing.</i>
+291792 295831 <i>And did a nice job pulling the character<br />into a consistent range.</i>
+295921 299630 GOODING: <i>Establishing shot of the<br />Benbow Inn, painted by Carl Jones.</i>
+300342 304085 <i>Really interesting 70/30 rule<br />that we had,</i>
+304179 310141 <i>which was 70% 18th century mostly,<br />and 30% science fiction,</i>
+310227 314471 <i>so we have half-timbered houses<br />with all sorts of techie stuff on them.</i>
+316650 320735 CONLI: <i>And here we introduce<br />Doctor Doppler, David Hyde Pierce.</i>
+320821 324155 <i>This part was written<br />with David Hyde Pierce in mind.</i>
+324241 326522 MUSKER: <i>ironically, then we tested<br />a bunch of other actors</i>
+326576 328095 <i>before coming back<br />to David Hyde Pierce.</i>
+328119 329860 <i>Why we did that, I don't know exactly.</i>
+329955 332413 CONLI: <i>Because it's your prerogative.</i><br />MUSKER: <i>I know.</i>
+332499 336333 CONLI: <i>Well, we wanted to make sure,<br />but he was definitely right for the part.</i>
+336419 339099 <i>Although, we struggled a little bit<br />trying to get the right feeling,</i>
+339172 341004 <i>and this bit here with the little girl,</i>
+341091 344300 <i>this was added, actually,<br />fairly late in the game.</i>
+344386 346753 <i>We felt we needed<br />a better introduction to Doppler.</i>
+346847 348087 (SCREAMS)
+348557 350201 MUSKER: <i>Yeah, we had a meeting<br />with some other writers</i>
+350225 353684 <i>and story people to kick around<br />ideas for punching up his introduction.</i>
+354437 356249 <i>Baird and Gerson,<br />if I've got their names straight,</i>
+356273 358459 <i>they did some writing in this area,<br />some of which is here.</i>
+358483 360975 <i>And David certainly was<br />a great improv guy,</i>
+361069 363231 <i>so some of his funniest dialogue<br />throughout the film,</i>
+363321 365813 <i>and even in this section,<br />were things that he winged in,</i>
+365907 368774 <i>and he was just great,<br />great to work with, funny.</i>
+369119 370450 Ooh... Wrong turn.
+370537 373279 -Okay. Thanks for the lift, guys.<br />-Not so fast.
+373373 379710 RIPA: <i>Joey Gordon-Levitt did the voice<br />of Jim, and that was just really a treat.</i>
+379796 381707 <i>He did such a good job.</i>
+382340 384527 <i>One of the things, as supervising<br />animator that you get to do,</i>
+384551 386904 <i>which is really cool, is you get to go<br />to the recording sessions,</i>
+386928 391923 <i>and watching Joey record the lines<br />was really inspiring.</i>
+392017 394634 <i>He has a good, strong range,</i>
+394728 397595 <i>and I always felt like<br />he put a lot of emotion into it.</i>
+397689 401683 <i>There were some scenes that he did<br />that were so explosive,</i>
+401776 405314 <i>and you're just chomping at the bit.<br />You really can't wait to get to them.</i>
+405405 411026 <i>And another thing that he did<br />that I really was inspired by</i>
+411828 413389 <i>was you felt he believed<br />in the character,</i>
+413413 417748 <i>and he had a certain take<br />on the character,</i>
+417834 423170 <i>and if lines came up that he wasn't<br />comfortable or sure about,</i>
+423256 426715 <i>where it didn't feel like the character,<br />he'd try and improve them,</i>
+426801 429668 <i>and come up with lines<br />that he could believe</i>
+429763 431253 <i>were coming from this character.</i>
+431348 435012 <i>And that's kind of what we do as a<br />supervisor when we approach a scene,</i>
+435101 437388 <i>is to try and find something<br />that's true to the character,</i>
+437479 440187 <i>and something that you believe in<br />and feels right.</i>
+440273 443891 <i>And to watch him doing<br />the same things at the voice level,</i>
+443985 449071 <i>really helped to set up and inspire me<br />and our team, I think,</i>
+449157 451865 <i>for the scenes that we<br />were going to do.</i>
+452869 454200 Jim?
+454621 456203 Jim, look at me.
+457791 460579 CONLI: <i>We added this bit<br />with Jim helping clear the tables</i>
+460669 462785 <i>just to make him<br />a little more sympathetic.</i>
+462879 466042 MUSKER: <i>Yeah, this was John Ripa's<br />idea to make Jim a little more active.</i>
+466174 467944 <i>He's actually helping his mother out<br />in the end, here,</i>
+467968 469362 <i>rather than just standing there<br />kind of moping.</i>
+469386 473300 <i>We wanted to make him more active<br />to build a little sympathy for him.</i>
+473390 475826 <i>In the earlier versions of the story,<br />he used to just sort of walk out</i>
+475850 478371 <i>in the middle of their conversation.<br />She'd turn around and he was gone.</i>
+478395 480853 <i>That seemed maybe a little too rude,</i>
+480939 484307 <i>so we reworked it where he stayed<br />there in the scene.</i>
+489114 493358 CONLI: <i>Lot of discussion about this<br />and the off-screen conversation</i>
+493451 495158 <i>and what Sarah would say.</i>
+495245 499079 MUSKER: <i>I thought it was more<br />emotional to have Jim be listening,</i>
+499165 500280 <i>and hear himself discussed.</i>
+500375 503215 <i>It just seemed like that if you're a kid<br />and you're hearing your parents</i>
+503253 505915 <i>talk about you or adults talk about you,<br />they're not aware of it,</i>
+506006 508794 <i>and you're overhearing this,<br />and they can speak frankly</i>
+508883 510794 <i>about what they feel about you,<br />but you're on...</i>
+510885 513001 <i>We sort of see his face<br />as he's hearing this,</i>
+513096 515116 <i>we just thought this was a way<br />of getting inside his head</i>
+515140 517177 <i>and feeling a little more<br />sympathy for him.</i>
+517267 520055 <i>This dialogue used to be played<br />in a scene where he wasn't there,</i>
+520145 523683 <i>and we just felt it was good<br />to play the dialogue off his face.</i>
+523773 526481 CONLI: <i>There was also a question,<br />like the father thing,</i>
+526568 531108 <i>this was the first real reference<br />to the father and that he's not there.</i>
+531197 534189 <i>It was a big question about how much<br />to say at this point,</i>
+534284 537276 <i>how much to reveal, and how much<br />to reveal in the course of the story</i>
+537370 542956 <i>because Jim's loss of his father<br />is a big part of his problem,</i>
+544544 547457 <i>but we didn't want to say it all too early.</i>
+548048 549692 MUSKER: <i>We've got<br />Billy Bones' entrance here,</i>
+549716 551127 <i>who is voiced by Patrick McGoohan,</i>
+551217 553754 <i>who those of you fellow boomers know</i>
+553845 556712 <i>from</i> The Prisoner<br /><i>and</i> Secret Agent Man.
+556806 558547 Braveheart, <i>more recently.</i>
+558641 559827 <i>And</i> The Scarecrow of Romney Marsh.
+559851 562058 <i>So, it was a big geek fest for all of us<br />baby boomers</i>
+562145 566184 <i>to be recording Patrick McGoohan,<br />who came in and was actually having</i>
+566274 570689 <i>a very bad cold, was very phlegmy<br />and coughy, and it worked well</i>
+570779 572941 <i>with things like this,<br />with his coughs of...</i>
+573031 574216 CONLI: <i>He loved doing that coughing.</i>
+574240 575384 MUSKER: <i>Yeah, 50 different coughs.</i>
+575408 577991 CONLI: <i>I think he did... We could have<br />10 minutes of that cough.</i>
+578078 582697 KEANE: <i>Nancy Beiman, who did<br />this Billy Bones character,</i>
+582791 584998 <i>she researches everything.</i>
+585085 591502 <i>This character was truly a believable,<br />organic character.</i>
+591591 594925 <i>She developed his whole planet<br />where he had come from.</i>
+595011 596363 <i>He's kind of from a turtle planet.</i>
+596387 600096 <i>The way the neck comes out,<br />she had worked on all the anatomy.</i>
+600183 604302 <i>Everything that she put into him,<br />there's nothing by chance on this guy.</i>
+604395 607433 <i>And she's a pretty good example<br />of all the animators,</i>
+607524 612394 <i>how everybody takes these characters<br />so seriously. These are real to them.</i>
+612487 614819 And there he'll be, just the way he was.
+614906 618274 A smiling, happy little boy,<br />holding a new pet
+618368 620735 and begging me to let him keep it.
+621162 623474 CONLI: <i>We used to have a line here<br />when Doppler opened the door</i>
+623498 625865 <i>where he said,<br />"In the dream, is the pet dead?"</i>
+625959 628542 <i>Which was John's line,<br />but as it played,</i>
+628628 632713 <i>it almost seemed like the audience was<br />ahead of it, and we didn't need the line.</i>
+632799 634693 MUSKER: <i>And this is funny<br />'cause some people thought</i>
+634717 635837 <i>when Billy said, "My chest!"</i>
+635885 638114 <i>Like you got shot in the chest,<br />and if you look at the chest,</i>
+638138 640675 <i>that spelling almost spells "Ron"<br />backwards and upside-down.</i>
+640765 642535 CONLI: <i>Not deliberately,<br />it just sort of came out that way.</i>
+642559 644495 MUSKER: <i>I think there will be<br />several lawsuits involving that</i>
+644519 646135 <i>by the time you hear this commentary.</i>
+646229 647310 CONLI: <i>By Ron?</i>
+647397 648933 MUSKER: <i>Yeah. By someone.<br />I don't know.</i>
+649315 652808 CONLI: <i>This was where we had our<br />first</i> Star Trek joke <i>in the movie.</i>
+652902 656145 <i>There used to be Doppler examine<br />Bones and then he said the line,</i>
+656239 657320 <i>"He's dead, Jim."</i>
+657407 659819 <i>And it was a funny line<br />and some people really liked it,</i>
+659909 662776 <i>but it felt like it wasn't right<br />for what was going on there,</i>
+662871 666114 <i>the emotion was too serious,<br />so we took the line out.</i>
+666207 669620 MUSKER: <i>These holo-blinds here<br />that sort of work like venetian blinds,</i>
+669711 672373 <i>but they show off a different scene.</i>
+672463 674921 <i>Tina Price,<br />our assistant artistic coordinator,</i>
+675008 679047 <i>was involved in developing this idea,<br />as was Ian Gooding and Andy Gaskill,</i>
+679137 681754 <i>and Dave Tidgwell on effects,</i>
+681848 687093 <i>and it really was a fun visual way<br />to mask the bleak planet outside.</i>
+687187 689039 <i>And I'll tell you, at one point<br />we had more different scenes</i>
+689063 690124 <i>that they went through, I think,</i>
+690148 692508 <i>where again, in the interest of time,<br />we don't have as many,</i>
+692567 695309 <i>but we just liked the idea<br />that it was sort of</i>
+695403 697690 <i>an analogous thing to a phenomenon<br />people know,</i>
+697780 700272 <i>venetian blinds<br />with sort of a sci-fi twist to it.</i>
+700366 702046 CONLI: <i>I like to call them<br />Venutian blinds.</i>
+702076 703679 MUSKER: <i>Venutian blinds, right.<br />Venutian blinds.</i>
+703703 705931 CLEMENTS: <i>We also used to have<br />a scene, a kind of dramatic scene</i>
+705955 709368 <i>where the window<br />was blown to pieces,</i>
+709459 712747 <i>shattered by the pirates<br />as they're bursting in the Benbow.</i>
+712837 715204 <i>We took that out for various reasons,<br />but you will notice</i>
+715298 721385 <i>that the window is there in the one<br />Doppler shot, and now it's shattered,</i>
+721471 724384 <i>but we never actually<br />saw it shatter on screen.</i>
+724474 726886 CONLI: <i>He's been bellyaching<br />about this for three months now.</i>
+726976 729079 CLEMENTS: <i>I always liked that shot.<br />I always liked that shot.</i>
+729103 731503 CLEMENTS: <i>I always liked that shot.<br />I always liked that shot.</i>
+731814 734181 MUSKER: <i>Doppler's observatory.</i>
+735318 737998 <i>A lot of the interior is based<br />on drawings that Michael Spooner did,</i>
+738029 741397 <i>and they were really just trying to<br />set up this sort of eccentric bachelor,</i>
+741491 744984 <i>but it had to serve different masters<br />in that we wanted Doppler</i>
+745078 747139 <i>to be wealthy enough that he could<br />finance the expedition,</i>
+747163 749780 <i>so we wanted a certain opulence<br />and scale to the place,</i>
+749874 754038 <i>but also this sort of eccentricity and<br />this sort of scientific overlay to it all,</i>
+754128 756586 <i>and we went through<br />a number of stages,</i>
+756673 757858 <i>and yet we didn't want it to seem...</i>
+757882 760486 <i>Some of the earlier drawings were<br />too cartoony, and we wanted it to fit</i>
+760510 763093 <i>the rest of the style of the film<br />and not make it stand out.</i>
+763179 765658 <i>So that was a bit of a struggle<br />for us to come up with something</i>
+765682 771553 <i>that served all those ends, and<br />ultimately, I think it accomplished that</i>
+771646 774013 <i>but it took a while to get there.</i>
+774274 776686 <i>This is sort of a tour de force<br />of the effects animation</i>
+776776 778517 <i>Dave Tidgwell<br />and his team supervised.</i>
+778611 780089 <i>And Bill Konersman,<br />one of the effects guys,</i>
+780113 783947 <i>worked on this for quite a while,<br />and just tried...</i>
+784033 786011 <i>It was a fun sequence,<br />although it was one of those things,</i>
+786035 787946 <i>in storyboards and in the script,</i>
+788037 789348 <i>you're like,<br />"You have to take our word for it,</i>"
+789372 790891 <i>"it's gonna look really cool<br />when it's done."</i>
+790915 795580 <i>And people sometimes didn't realize that,<br />but it turned out really well, I think.</i>
+795670 799208 GOODING: <i>Now, one of the interesting<br />things in the movie, color-wise,</i>
+799299 802462 <i>is that we don't<br />use the color green a lot</i>
+802552 805635 <i>because it associates<br />only with Treasure Planet,</i>
+805722 809716 <i>so whenever you see green,<br />it represents good and moral,</i>
+809809 814053 <i>and comfortable and, obviously,<br />exotic because Jim's home world</i>
+814147 816138 <i>doesn't have any green,<br />so when you see the map,</i>
+816232 819725 <i>it's all green<br />associating with Treasure Planet.</i>
+820111 821977 This is the answer<br />to all our problems.
+822238 824341 MUSKER: <i>There was a whole issue<br />of the flicker in the room,</i>
+824365 826447 <i>we wanted this to feel<br />like it was a fire-lit room,</i>
+826534 827615 <i>but the first pass on this,</i>
+827702 830114 <i>it was so violent,<br />it seemed like the room was in flames,</i>
+830204 833492 <i>and we had to go back several times<br />like, "Too much. ""Not enough."</i>
+833583 836450 <i>And Tom Baker<br />and his scene planning crew</i>
+836544 839912 <i>had to really back up<br />and go through this.</i>
+840006 844045 CLEMENTS: <i>People take things like the<br />flicker for granted, but it was not easy.</i>
+844135 847298 <i>It had to be redone several times<br />for continuity.</i>
+847930 850171 MUSKER: <i>We did have to rewrite<br />this scene sometimes, too,</i>
+850266 851882 <i>because we... There was a question,</i>
+851976 854968 <i>"Why does Sarah let him go<br />on this big expedition?"</i>
+855063 857771 <i>And we were rewriting<br />a number of times.</i>
+858316 859647 CONLI: <i>This particular joke...</i>
+859734 861190 "Go, Delbert! Go, Delbert!"
+861819 863184 (CONLI STAMMERS)
+863279 866271 <i>Early on, we had this.<br />This was an ad-lib by David, right?</i>
+866366 870200 <i>And it made the film, got great laughs,</i>
+870286 874029 <i>but it really was split<br />in terms of "love it, " and "hate it."</i>
+874123 876865 <i>A lot of the staff didn't like it,<br />and said that it was</i>
+876959 878270 <i>-too contemporary.</i><br />-MUSKER: <i>Right, and so we wrote</i>
+878294 880272 <i>ten different alternates<br />which we had David record,</i>
+880296 883108 <i>and we tried out at various screenings,<br />and nothing ever got as big a laugh</i>
+883132 885794 <i>as David's ad-lib, even though it was<br />anachronistic. So we said,</i>
+885885 887780 <i>-"We got to go back to that." </i><br />-CONLI: <i>Went with the original.</i>
+887804 891297 MUSKER: <i>We went with the funniest<br />one, David's spontaneous ad-lib.</i>
+891391 894929 CONLI: <i>I was one of the people who<br />thought that it was a little intrusive,</i>
+895019 898011 <i>-but I've grown to love it.</i><br />-CLEMENTS: <i>Go with the audience.</i>
+898106 899500 <i>-It's so great.</i><br />-CONLI: <i>Go with the audience.</i>
+899524 902687 CLEMENTS: <i>Great animation.<br />Sergio Pablos, who did Doppler,</i>
+902777 905235 <i>some great subtle animation.</i>
+905321 906507 MUSKER: <i>Yes.<br />All of the other animators</i>
+906531 907633 <i>I think were in awe of Sergio.</i>
+907657 911571 <i>He's a brilliant draftsman, animator,<br />and impeccable in his timing,</i>
+911661 914870 <i>his overlap, his technical skills<br />as well as his acting skills,</i>
+914956 917197 <i>and people would just<br />study his scenes.</i>
+917291 918907 <i>He was tough on his crew,</i>
+919001 921584 <i>people working with him<br />had a high standard to live up to,</i>
+921671 924754 <i>but it was always a thrill for us<br />to see his scenes</i>
+924841 930177 <i>'cause they just were dazzling in their<br />technical mastery and acting chops.</i>
+930263 932550 CONLI: <i>Here comes<br />the momma kahuna of all.</i>
+932640 933826 CLEMENTS: <i>One of the<br />biggest shots in the movie.</i>
+933850 934885 CONLI: <i>CGI shots.</i>
+934976 937684 CLEMENTS: <i>Probably took,<br />how long to do this shot? Two years?</i>
+937770 938831 CONLI: <i>Yeah, two years easy.</i>
+938855 940249 CLEMENTS: <i>More than several days,<br />I think, yeah.</i>
+940273 942751 MUSKER: <i>Peter Clarke really did<br />some great visual development on this,</i>
+942775 944561 <i>one of our designers.</i>
+947071 950814 GOODING: <i>Amazing model<br />built by Thomas Debitus.</i>
+950908 952899 <i>Incredibly fun concept, I thought.</i>
+952994 956157 <i>This was one of the earliest concepts<br />that the directors came up with,</i>
+956247 960912 <i>and I just think it's a really fun,<br />magical storybook conceit</i>
+961002 963790 <i>that the moon is really just a crescent,</i>
+963880 967839 <i>and one of the things that really<br />attracted me to the movie, initially.</i>
+967925 970633 KEANE: <i>Rick Maki<br />is a character designer</i>
+970720 973428 <i>who worked on this movie<br />almost as long as we did.</i>
+973514 975194 <i>Rick did, literally,<br />thousands of drawings.</i>
+975266 978224 <i>He did aliens<br />of every possible persuasion.</i>
+978311 981599 <i>And this spaceport sequence<br />was sort of a tour de force</i>
+981689 986525 <i>where we tried to dig out as many<br />of these great Rick Maki concoctions.</i>
+986611 989069 <i>Some have got tentacles, some fly,<br />some walk, whatever,</i>
+989155 992147 <i>but Rick,<br />just a brilliantly inventive mind.</i>
+992283 994866 Familiarity breeds,<br />well, contempt, but in our case...
+994952 998741 Look, let's just find the ship. Okay?
+999999 1000309 MUSKER: <i>This is our special<br />Hitchcockian cameo.</i>
+1000333 1002244 MUSKER: <i>This is our special<br />Hitchcockian cameo.</i>
+1002335 1005043 <i>That skinny, frail robot up there<br />is me, John.</i>
+1005129 1008463 CLEMENTS: <i>And the little, hairy,<br />red-haired guy is me, Ron.</i>
+1008549 1011667 <i>It started with</i> Aladdin <i>accidentally.<br />We did a little cameo in</i> Aladdin,
+1011761 1013071 <i>and then we did one in</i> Hercules,<br /><i>so we felt</i>
+1013095 1014907 <i>-we had to do one in this, too.</i><br />-MUSKER: <i>We did the dialogue</i>
+1014931 1016033 <i>here, as well, as we did in those.</i>
+1016057 1018594 <i>-"Second berth on your right."<br />-"You can't miss it."</i>
+1018684 1020345 MUSKER: <i>Boy. Is that acting?</i>
+1020436 1022677 <i>-Don't answer that question.</i><br />-CLEMENTS: <i>Okay.</i>
+1024398 1025792 MUSKER: <i>So, this is our ship,<br />the</i> Legacy,
+1025816 1027169 <i>that went through many name changes</i>
+1027193 1029605 <i>on the course of arriving<br />where it was here.</i>
+1029862 1032775 CLEMENTS: <i>I think we had a contest<br />at some point to name the ship.</i>
+1032865 1035698 <i>Originally, we toyed with the idea<br />of using the</i> Hispaniola,
+1035785 1036803 <i>which is the name<br />of the ship in the book.</i>
+1036827 1039097 MUSKER: <i>I wanted to use that name.</i><br />CLEMENTS: <i>John wanted to do that.</i>
+1039121 1040282 <i>I didn't want to use that.</i>
+1040373 1041454 MUSKER: <i>I wanted to.</i>
+1041541 1044579 CLEMENTS: <i>Finally, we ended up<br />with</i> Legacy, <i>which I think</i>
+1044669 1049709 <i>it was Glen Gagnon who came<br />up with the</i> Legacy.
+1049799 1051790 MUSKER: <i>That was his legacy.</i><br />CLEMENTS: <i>Exactly.</i>
+1051884 1054717 <i>And we should talk a little bit<br />about Mr. Snuff,</i>
+1054804 1058593 <i>the voice of that and the animation<br />is done by Adam Dykstra.</i>
+1058683 1061675 <i>One of the rare cases<br />where an animator actually</i>
+1061769 1064636 <i>animates the character<br />and supplied the voice.</i>
+1064730 1066220 <i>How he did it, we're not quite sure.</i>
+1066315 1069057 <i>I think that he used this stuff called Gak</i>
+1069151 1072485 <i>but he was always by himself<br />in the recording session,</i>
+1072572 1074609 <i>so we don't know for sure.</i>
+1075283 1077163 MUSKER: <i>Captain Amelia,<br />voiced by Emma Thompson.</i>
+1077243 1080235 <i>Emma was great to work with,<br />and animated by Ken Duncan,</i>
+1080329 1082570 <i>one of the best draftsmen at the studio.</i>
+1082665 1085532 <i>We recorded all of her, I guess,<br />in London,</i>
+1085626 1089085 <i>and she really came into the sessions,<br />having looked at the lines,</i>
+1089171 1091817 <i>and with ideas for rewrites,<br />and it was always fun working with her,</i>
+1091841 1095129 <i>because we sat down<br />and actually hashed out the lines.</i>
+1095219 1097551 CLEMENTS: <i>She's a great writer<br />as well as an actress.</i>
+1097638 1101097 CONLI: <i>Literally, we would sit down<br />each sequence at a time, go through it,</i>
+1101183 1103641 <i>-and then go into the recording booth.</i><br />-MUSKER: <i>Right.</i>
+1103728 1104843 CONLI: <i>Always beplussed us.</i>
+1104937 1107645 MUSKER: <i>Right. She came up<br />with a particular word or something</i>
+1107732 1111100 <i>that would just make it<br />very British, very precise,</i>
+1111193 1113685 <i>and very much in character for her.</i>
+1115197 1117593 <i>Captain Amelia, the captain of the ship,<br />is based on Captain Smollett</i>
+1117617 1119278 <i>from Robert Louis Stevenson's novel.</i>
+1119368 1120679 <i>Of course, in the novel, he's a man,</i>
+1120703 1123661 <i>as, I think, just about all ship captains<br />were in that era.</i>
+1123748 1125489 <i>Ted and Terry,<br />Ted Elliott and Terry Rossio,</i>
+1125583 1128450 <i>when they did their treatment<br />based on Ron's original treatment,</i>
+1128544 1131161 <i>thought the captain could be a woman,<br />sort of a woman alien,</i>
+1131255 1134151 <i>and I think they described her as a<br />bird-like alien in their original treatment</i>
+1134175 1136633 <i>but we liked the idea<br />of a female captain.</i>
+1136719 1138835 <i>It just gave a whole twist to the story,</i>
+1138929 1142297 <i>and we then wrote the part<br />with Emma Thompson in mind,</i>
+1142391 1143910 <i>never knowing whether or not<br />she would do it,</i>
+1143934 1145345 <i>but her kind of wittiness,</i>
+1145436 1148098 <i>and take-chargeness,<br />and authoritativeness</i>
+1148189 1152308 <i>and intelligence, we thought would be<br />great coupled with this sort of...</i>
+1152401 1154688 <i>And there's an element of Emma Peel<br />in there, slightly...</i>
+1154779 1157111 CLEMENTS: <i>I remember in the<br />first draft of the script,</i>
+1157198 1159030 <i>we described Amelia as a combination</i>
+1159116 1161574 <i>between Emma Peel<br />and Mary Poppins.</i>
+1162036 1165904 <i>And there's still a little of that,<br />I think, that comes through.</i>
+1165998 1168330 GOODING: <i>This set<br />is Amelia's state room.</i>
+1168918 1172661 <i>We tried to come up<br />with a very soft lighting situation,</i>
+1172755 1175713 <i>so that the characters<br />would not require tones.</i>
+1175800 1180169 <i>Tones are the shadows<br />on the actual characters</i>
+1180262 1184847 <i>that render them more dimensional,<br />and they take a lot of time,</i>
+1184934 1189519 <i>and since this movie had a lot<br />of very cool effects sequences,</i>
+1189605 1193940 <i>we didn't want to tie up the effects<br />people with doing too many tones,</i>
+1194026 1196108 <i>so we tried to come up<br />with lighting situations</i>
+1196195 1198527 <i>that would be better without the tones,</i>
+1198614 1201777 <i>rather than having a movie<br />that just looked cheap.</i>
+1202618 1203824 <i>Um...</i>
+1204120 1206908 <i>We have a nice sort of<br />photographic light effect</i>
+1206997 1209955 <i>happening here on the characters,<br />which we called "overspill,"</i>
+1210042 1214036 <i>which happens when you<br />take a picture into a light source.</i>
+1214130 1216713 <i>The edges of the characters<br />and backgrounds</i>
+1216799 1220008 <i>get chewed away a bit<br />by the light behind them,</i>
+1220636 1224630 <i>which is that sort of nice haze you see<br />working around the edges.</i>
+1225266 1227553 Mr. Arrow, please escort<br />these two neophytes
+1227643 1228923 down to the galley straightaway.
+1228978 1231640 Young Hawkins will be working<br />for our cook, Mr. Silver.
+1231731 1233642 What? The cook?
+1235276 1237608 CLEMENTS: <i>So this sequence,<br />which is actually</i>
+1237695 1239481 <i>the introduction of John Silver,</i>
+1239572 1242155 <i>was actually one of the first scenes<br />animated in the movie,</i>
+1242241 1243552 <i>one of the first to come out of story,</i>
+1243576 1246364 <i>Barry Johnson did the storyboards<br />on this sequence,</i>
+1246454 1250823 <i>and so a lot of this is some<br />of the first animation that was done.</i>
+1250916 1253658 <i>This is like the first scene<br />that was animated on Silver</i>
+1253753 1256541 <i>'cause Glen Keane, who did Silver,<br />kind of went in order,</i>
+1256630 1259713 <i>and I think that was the second scene<br />that was animated.</i>
+1259800 1262713 KEANE: <i>Silver is a<br />very unique character</i>
+1262803 1264443 <i>in that he's the first time<br />we've animated</i>
+1264513 1270099 <i>a character that's traditional<br />hand drawn and computer generated</i>
+1270186 1271802 <i>in the same character.</i>
+1271896 1274103 <i>And we really wondered,</i>
+1274190 1277103 <i>"ls the audience going to believe this<br />character is real?"</i>
+1277193 1280652 <i>"Is it going to look like he's got<br />metal pieces stuck onto him,"</i>
+1280738 1285073 <i>"and they don't belong, they're not part<br />of his being? Are they going to buy it?"</i>
+1285159 1289744 <i>And I was very happy to find that<br />the biggest challenges with Silver</i>
+1289830 1293573 <i>were not the technical,<br />sticking a CG part onto him,</i>
+1293667 1294748 <i>but as it should be,</i>
+1294835 1298544 <i>it was the acting, the performance.<br />How do you make him real?</i>
+1299340 1304710 <i>Right from the start, I knew that I could<br />do the hand-drawn part,</i>
+1304804 1309093 <i>but I wasn't going to step into territory<br />that I wasn't comfortable with,</i>
+1309183 1312426 <i>and Eric Daniels, who I had worked<br />closely with on</i> Tarzan,
+1312520 1314636 <i>and he created the deep canvas look</i>
+1314730 1317518 <i>with the jungle being able<br />to move in dimension.</i>
+1317608 1320270 <i>And I just felt like<br />this guy is an inventor,</i>
+1320361 1323319 <i>and we need somebody<br />doing the mechanical arm</i>
+1323405 1327444 <i>who's not just a technician<br />and an animator, but an inventor.</i>
+1328327 1331945 CONLI: <i>Probably good to note right<br />now the performance by Brian Murray,</i>
+1332039 1333746 <i>which is just phenomenal.</i>
+1333833 1337497 <i>It's probably one of the best voice<br />performances we've had at Disney.</i>
+1338838 1340249 (LAUGHING)
+1341590 1347336 KEANE: <i>Brian's voice, it comes from<br />somewhere way down inside of him,</i>
+1347429 1353641 <i>and he can go from very light<br />and jovial, feels very sincere,</i>
+1353727 1357595 <i>and just as easily switch<br />into a dark, ominous side</i>
+1357690 1360648 <i>that you find just as believable,<br />which had to work for Silver,</i>
+1360734 1365149 <i>that you had to genuinely believe that<br />this was a man who was torn</i>
+1365239 1370109 <i>between the greed and lust<br />for this treasure</i>
+1370202 1374446 <i>and a genuine compassion that he's<br />beginning to feel for Jim Hawkins.</i>
+1375291 1378204 CLEMENTS: <i>Mike Show<br />did the animation on Morph,</i>
+1378294 1379876 <i>and he studied lava lamps.</i>
+1379962 1383830 MUSKER: <i>It was the cross between<br />a puppy dog and a lava lamp.</i>
+1384758 1388001 <i>Mike didn't have a puppy dog,<br />but he actually has a little, at the time,</i>
+1388095 1389506 <i>a little son, maybe a year old,</i>
+1389597 1391964 <i>so he tried to get<br />some of his son's expressions in this.</i>
+1392057 1394139 CONLI: <i>It's like a puppy dog.</i><br />CLEMENTS: <i>Yeah, it is.</i>
+1394226 1398265 <i>And Dane Davis, our sound designer,<br />who's a great sound designer,</i>
+1398355 1400938 <i>he actually provided<br />the voice for Morph.</i>
+1401108 1402794 MUSKER: <i>We're about to move<br />into this area now</i>
+1402818 1405150 <i>where we tried to feature what's called<br />the virtual set,</i>
+1405237 1407820 <i>where we built this whole<br />galley in the computer</i>
+1407907 1410990 <i>and then rendered it and painted it<br />with deep canvas techniques,</i>
+1411076 1412888 <i>such that we could move the camera<br />around and in it,</i>
+1412912 1415028 <i>and this was sort of a unique use</i>
+1415122 1418240 <i>because it wasn't<br />a bravura action scene,</i>
+1418334 1420937 <i>it was more of a personality scene,<br />and we were trying to build tension</i>
+1420961 1422522 <i>by the way the camera moves<br />in the scene.</i>
+1422546 1425307 CLEMENTS: <i>There it starts to move,<br />and that is a three-dimensional set</i>
+1425341 1427503 <i>painted to look<br />like a painted background.</i>
+1427676 1430714 Who be a humble cyborg<br />to argue with a captain?
+1430804 1433387 KEANE: <i>This moment,<br />I thought was, for me,</i>
+1433474 1436967 <i>one of the most enjoyable acting<br />moments I've ever had</i>
+1437061 1439143 <i>working at Disney,<br />working with you on this one.</i>
+1439229 1442938 RIPA: <i>Yeah, this whole sequence<br />is interesting, but this scene actually...</i>
+1443025 1447610 <i>Normally, the process is<br />you work on your characters yourself</i>
+1447696 1450108 <i>in your room<br />at a separate time, usually,</i>
+1450199 1454944 <i>and for that scene,<br />Glen and I actually worked</i>
+1455037 1457529 <i>on the scene at the same time<br />at the same desk.</i>
+1457623 1460911 <i>He would go up and do a drawing,<br />and he'd step back and we'd act it out,</i>
+1461001 1463117 <i>and then I'd step up<br />and I'd do a drawing.</i>
+1463212 1466375 KEANE: <i>Fortunately, John draws<br />at his desk standing up.</i>
+1466465 1468465 <i>Everybody else sits in a chair,<br />but John stands up,</i>
+1468509 1472719 <i>so we can actually do this<br />tag-team animating pretty easily.</i>
+1472805 1475843 RIPA: <i>Yeah, it was pretty cool,<br />and this was some of the first</i>
+1475933 1477674 <i>stuff that we did on the character,</i>
+1477768 1481136 <i>and it's so huge<br />in terms of their relationship,</i>
+1481230 1483437 <i>and the play back and forth.</i>
+1483524 1486562 <i>Just the contact between them<br />and the interaction,</i>
+1486652 1490520 <i>and keeping it going from this point<br />'cause it seemed like such a nice setup</i>
+1490614 1493652 <i>between them<br />that trying to keep that in mind</i>
+1493742 1498361 <i>whenever they're on screen and how<br />they relate and really working together</i>
+1498455 1502244 <i>closely and knowing each other's<br />characters, I think, really helped.</i>
+1504378 1506710 We're all clear, Captain!
+1507756 1511670 CLEMENTS: <i>Early on, I think we've<br />always considered that these ships,</i>
+1511760 1514218 <i>we would be using solar power a lot.</i>
+1514304 1518013 <i>The technology of this universe<br />relies a lot on solar power</i>
+1518100 1521593 <i>and artificial gravity.<br />Those are two of their big things.</i>
+1521687 1523707 MUSKER: <i>Well, we always said<br />we wanted this to feel almost like</i>
+1523731 1528567 <i>if they had discovered solar power<br />like in the 17th century</i>
+1528652 1531189 <i>on a major scale<br />and really developed it,</i>
+1531280 1533271 <i>this was where<br />they would have gotten then.</i>
+1533365 1535427 <i>I think Andy Gaskill did some<br />of the early drawings on this</i>
+1535451 1537732 <i>where he did these sort of hexagonal<br />patterns in the sails</i>
+1537786 1540369 <i>which we really liked<br />in terms of just feeling like there was</i>
+1540456 1544324 <i>this sort of fiber filament that<br />was a conduit in these things.</i>
+1545294 1548878 GOODING: <i>We did a lot of research<br />on the color of ships,</i>
+1548964 1551877 <i>how they were painted<br />back in the 18th century,</i>
+1551967 1554425 <i>and settled, eventually,<br />on a white hull for the ship</i>
+1554511 1558049 <i>because, several reasons,<br />it shows up very nicely</i>
+1558140 1562259 <i>against the dark-colored backgrounds,<br />and also it picks up color.</i>
+1562352 1567392 <i>White is a very good reflector<br />of what's happening around it,</i>
+1567483 1572523 <i>so when it's in a colorful Etherium<br />that actually reflects onto the hull,</i>
+1572613 1574695 <i>and it's really attractive.</i>
+1577826 1581990 MUSKER: <i>This shot of the ship<br />with the manta birds swooping by</i>
+1582081 1584743 <i>was based on a painting<br />that Ian Gooding did of the ship,</i>
+1584833 1587291 <i>and these birds going by,<br />and it was just a majestic image.</i>
+1587377 1588813 CONLI: <i>it was one of the<br />really early paintings,</i>
+1588837 1591920 <i>and it really set a tone<br />for the whole movie.</i>
+1592007 1593777 MUSKER: <i>it was sort of an icon,<br />and it was just</i>
+1593801 1595153 <i>based on a visual development thing,</i>
+1595177 1596988 <i>and we said, "We've got to get that<br />image into the movie."</i>
+1597012 1598823 <i>So we really tried to duplicate<br />the feeling of that,</i>
+1598847 1601088 <i>and I'm really happy<br />with the way it turned out.</i>
+1601183 1604141 <i>The manta birds,<br />animated by Mark Austin.</i>
+1604228 1605455 CLEMENTS: <i>I think there is one frame</i>
+1605479 1608221 <i>that pretty much<br />matches the painting very closely.</i>
+1608315 1610515 MUSKER: <i>It was really<br />Ian Gooding's vision of that image</i>
+1610567 1612934 <i>that we really tried to duplicate on film.</i>
+1613028 1614644 CLEMENTS:<br /><i>Deep canvas space whales.</i>
+1614738 1617696 <i>These are the first characters that<br />Disney has ever done in deep canvas.</i>
+1617783 1621572 CONLI: <i>Except for the manta birds,<br />but you don't notice them as much.</i>
+1621662 1624996 <i>These take full advantage of that,<br />so they're painted like backgrounds</i>
+1626041 1629124 <i>but animated as computer animation.</i>
+1629211 1631452 MUSKER: <i>This scene was<br />a little bit of a struggle</i>
+1631547 1634790 <i>because Doppler<br />was gonna be kind of slimed</i>
+1634883 1636248 <i>by these whales and we discussed</i>
+1636343 1639301 <i>what was the funny color<br />of this sort of slime</i>
+1639388 1642221 <i>and went through various ones<br />and we wound up with...</i>
+1642307 1644139 <i>This was our funny color.</i>
+1644560 1648303 KEANE: <i>These scenes,<br />Marc Smith animated, who just became</i>
+1648397 1651935 <i>my right hand man<br />on animating Long John Silver.</i>
+1653402 1656440 <i>He has a natural appeal.</i>
+1656530 1659568 <i>Appeal is something that I used to hear<br />all the time</i>
+1659658 1662366 <i>from Frank Thomas, Ollie Johnson,<br />Eric Larson,</i>
+1662452 1664864 <i>the old guys who did</i><br />Pinocchio, Snow White.
+1664955 1667572 <i>They were always talking about<br />appeal and sincerity.</i>
+1667666 1670909 <i>And the word "appeal"<br />I haven't heard as much lately,</i>
+1673255 1675667 <i>and looking at Marc's work,<br />it reminded me</i>
+1675757 1677964 <i>of how important that is.<br />It's a natural thing.</i>
+1678093 1683429 <i>You're born with this ability to just draw<br />and all the parts are in the right place,</i>
+1683515 1687258 <i>and you are attracted to that character.</i>
+1687853 1691847 CONLI: <i>It's interesting to note that<br />in the development process,</i>
+1691940 1694682 <i>both in terms of characters<br />and backgrounds,</i>
+1694776 1699521 <i>that we have about 15,000 pieces<br />of artwork that were developed</i>
+1699615 1702949 <i>during the period<br />before we got into production.</i>
+1703035 1705572 <i>So there's a lot of artwork<br />that gets generated</i>
+1705662 1708404 <i>just in terms of spawning ideas</i>
+1708498 1713709 <i>and massive amounts of character stuff<br />and background stuff.</i>
+1713795 1715273 MUSKER: <i>A lot of this<br />cast of characters,</i>
+1715297 1717755 <i>we really wanted to get<br />a range of shapes and sizes</i>
+1717841 1720629 <i>in this supporting cast<br />of pirates and species.</i>
+1720719 1722780 <i>And Peter De Sève was<br />fairly instrumental in doing that,</i>
+1722804 1725466 <i>the character designer who did these<br />really fun designs,</i>
+1725557 1729016 <i>little tentacled people<br />and huge hulking people</i>
+1729102 1731434 <i>and the spidery guy and all that.</i>
+1731521 1734513 <i>He kicked off a lot of that stuff,<br />and much of what he did,</i>
+1734608 1738567 <i>Andy adapted and we adapted<br />and the animators jumped off from.</i>
+1739446 1742939 CLEMENTS: <i>And Mr. Scroop here,<br />voiced my Michael Wincott,</i>
+1743033 1744740 <i>who has a terrific voice.</i>
+1744826 1747568 <i>Actually, originally, we had<br />a different voice for Scroop,</i>
+1747663 1754000 <i>a different actor who was doing more<br />of a raspy, insectoid kind of voice,</i>
+1754419 1757081 <i>and it didn't quite work, I think.</i>
+1757172 1759525 <i>It didn't quite feel right<br />and so we went with Michael Wincott</i>
+1759549 1762917 <i>and we're not doing anything<br />to his voice. It's a great voice.</i>
+1763011 1765969 <i>And another one of<br />the character designers</i>
+1766056 1769424 <i>was Eric Pigors who did<br />a lot of these characters.</i>
+1769518 1774479 <i>His style was a little bit reminiscent<br />of Big Daddy Roth.</i>
+1774564 1776601 <i>People from the '60s<br />may remember that.</i>
+1776692 1781357 <i>And he's particularly represented with<br />the one alien with the one eye</i>
+1781446 1783278 <i>that sticks out.</i>
+1783365 1785426 MUSKER: <i>That was Eric's design<br />and we called him Pigors</i>
+1785450 1787942 <i>in honor of Eric himself.</i>
+1788870 1790390 CLEMENTS: <i>And we should<br />mention Mr. Arrow.</i>
+1790414 1791779 <i>We haven't talked about Mr. Arrow,</i>
+1791873 1793614 <i>voiced by Roscoe Lee Browne</i>
+1793709 1795120 <i>who did a great, great job,</i>
+1795210 1797292 <i>and T. Dan Hofstedt did the animation.</i>
+1797379 1798540 MUSKER: <i>Right.</i>
+1799339 1802502 <i>Yeah, we really liked, sort of,<br />the reserve that he animated with</i>
+1802592 1806085 <i>and gave him that kind of solidity<br />and stolidity</i>
+1806179 1808341 <i>and really made him...</i>
+1808432 1811094 CONLI: <i>T. Dan's a real genius<br />at understatement.</i>
+1811184 1813972 MUSKER: <i>Yeah. Yeah, he did<br />the emperor in</i> Mulan
+1814062 1816520 <i>and found a lot to work with<br />a little on that as well.</i>
+1817190 1819522 Hey, I was doing it until that bug thing...
+1819609 1820609 Belay that!
+1821695 1824653 CLEMENTS: <i>You mentioned Jim's<br />eye mask, which you just sort of notice.</i>
+1824740 1827698 <i>I mean, he's had this little shadow<br />around his eyes</i>
+1827784 1829775 <i>throughout the movie.<br />It's kind of a trademark,</i>
+1829870 1833329 <i>along with his jacket that<br />makes him feel kind of internalized</i>
+1833415 1835622 <i>and gives that dark,<br />brooding sort of edge,</i>
+1835709 1839327 <i>presumably, the eye mask<br />actually becomes a thematic element</i>
+1839421 1840911 <i>in the movie.</i>
+1844593 1847551 <i>This section actually<br />started out much longer,</i>
+1847637 1849344 <i>had a lot more exposition in it.</i>
+1850057 1851297 <i>Then it got taken out.</i>
+1851391 1854975 <i>We cut it out of the movie<br />completely at one point</i>
+1855062 1857144 <i>to sort of keep<br />more mystery about Silver.</i>
+1857230 1860473 <i>And then we ended up putting it<br />back in, in a much shortened version.</i>
+1861568 1863921 MUSKER: <i>Also our movies are always<br />running... They have too much story</i>
+1863945 1866733 <i>or they run too long,<br />and we wind up having to look for cuts,</i>
+1866823 1869736 <i>and it's always difficult for us<br />to figure out</i>
+1869826 1872033 <i>what we can cut,<br />what exposition can you cut</i>
+1872120 1874040 <i>and still make the audience<br />understand the story.</i>
+1874122 1876204 CLEMENTS: <i>We cut a lot<br />of exposition from this.</i>
+1876291 1878703 <i>Here he used to talk about Billy Bones,</i>
+1878794 1880876 <i>he talked about<br />why they needed the Captain</i>
+1880962 1882857 <i>-to run the ship.</i><br />-CONLI: <i>You really spelled it out.</i>
+1882881 1886294 CLEMENTS: <i>And now it's pretty much<br />down to bare basics.</i>
+1889388 1890924 (LAUGHING)
+1891932 1896392 <i>This little bit with Morph here where<br />he turns into a little version of Scroop</i>
+1896478 1898389 <i>was added just as a gag</i>
+1898480 1902223 <i>and it just seemed a way of kind of<br />de-demonizing Scroop</i>
+1902317 1904604 <i>to sort of make fun of<br />the boogeyman a little bit here.</i>
+1904694 1908904 <i>So we added this and Mike Show<br />animated a very funny...</i>
+1908990 1910572 <i>With his little Nijinsky move there.</i>
+1910659 1913697 CONLI: <i>You can see Jim's<br />eye mask pretty clearly there.</i>
+1913787 1915369 <i>Dark brooding eye mask.</i>
+1915455 1919699 <i>And Silver's striped pants turned into<br />a little bit of a nightmare, too,</i>
+1919793 1923127 <i>because they were<br />very difficult to draw.</i>
+1923797 1924941 MUSKER: <i>So the clean-up people,</i>
+1924965 1927081 <i>"Vera Pacheco,<br />was pleading with us, "Please don't,</i>
+1927175 1928986 <i>"let's not do the striped pants<br />through the whole movie."</i>
+1929010 1931923 <i>So we found a convenient spot<br />for him to go into a changing room,</i>
+1932013 1934973 <i>and during the latter half of the movie,<br />he has remarkably unstriped pants,</i>
+1935016 1937508 <i>which I don't think anyone ever notices.</i>
+1937602 1939513 <i>But he has more than one<br />pair of pants, right?</i>
+1940355 1941390 CONLI: <i>Sure.</i>
+1941523 1943764 Your father not the teachin' sort?
+1944693 1945728 No.
+1945819 1948402 CLEMENTS: <i>Once again, there was<br />some rewriting on this scene,</i>
+1948488 1953107 <i>just the question of how much to reveal<br />about Jim's father and what happened,</i>
+1953201 1955909 <i>and how much to leave<br />for the song to reveal.</i>
+1955996 1960115 <i>It's still leading into this father-son<br />arc, this surrogate father-surrogate son,</i>
+1960208 1964748 <i>which is kind of what we're building<br />toward with Jim and Silver.</i>
+1964880 1967963 The captain has put you in my charge,<br />like it or not.
+1968133 1971842 MUSKER: <i>The montage<br />that we're entering into</i>
+1972762 1975550 <i>was in the film for a long time,<br />but originally it had</i>
+1975640 1978678 <i>a different temp song behind it.<br />It had a U2 song behind it,</i>
+1978768 1982386 <i>and it featured other sort of visuals,<br />and we went through a lot on that.</i>
+1982481 1985143 <i>Ultimately, Glen Keane<br />went and re-boarded it</i>
+1985233 1985918 <i>and really changed it around<br />into what you see now.</i>
+1985942 1987942 <i>And really changed it around<br />into what you see now.</i>
+1988028 1989985 <i>We delved more into Jim's back-story.</i>
+1990071 1993154 CLEMENTS: <i>And even before he<br />re-boarded it, I think it was Glen's idea</i>
+1993241 1996154 <i>to actually put the song</i><br />Iris <i>by the Goo Goo Dolls</i>
+1996244 2000203 <i>in as a temp track instead of<br />the U2 song, which we did.</i>
+2000290 2002059 CONLI: <i>Glen really brought<br />Johnny Rzeznik to our attention.</i>
+2002083 2003203 MUSKER: <i>Yeah, Johnny Rzeznik</i>
+2003251 2004312 <i>who's the lead singer<br />of the Goo Goo Dolls</i>
+2004336 2007499 <i>and kind of its central core member,<br />came in, we met with him.</i>
+2007589 2010206 <i>We discovered that he actually<br />had a lot in common with Jim,</i>
+2010300 2012667 <i>just in terms of his background,<br />growing up in Buffalo,</i>
+2012761 2017255 <i>and his relationship with his father,<br />and just a guarded and troubled youth</i>
+2017349 2019306 <i>who sort of came out of it<br />on the other side.</i>
+2019392 2022134 CLEMENTS: <i>With a mentor's help.<br />I mean, a lot of parallels.</i>
+2022229 2023344 MUSKER: <i>Right.</i>
+2023438 2026772 <i>And so he performed the song<br />that he wrote here for us in a room</i>
+2026858 2029475 <i>before he had lyrics,<br />so he would just lean over Roy, and,</i>
+2029569 2032402 <i>"Hey," you know, just sort of...</i><br />(MUMBLING)
+2032489 2034776 CLEMENTS: <i>He did this sort of<br />Bob Dylan thing.</i>
+2034866 2036231 MUSKER: <i>A little Bob Dylan-y,</i>
+2036326 2038442 <i>and Angela Lepito<br />was filming the whole thing.</i>
+2038537 2040778 <i>You can talk to her<br />about the tape, yeah.</i>
+2040872 2043159 CONLI: <i>The whole idea here<br />of the flashbacks</i>
+2043250 2044786 <i>was actually Glen Keane's idea.</i>
+2044876 2046537 <i>That wasn't part of the original story.</i>
+2046628 2050371 <i>This was originally just sort of<br />a Disney mentoring sequence,</i>
+2050465 2053924 <i>but Glen had the idea of,<br />"Let's take this into Jim's past</i>"
+2054010 2056126 <i>"and kind of show<br />what really happened."</i>
+2056221 2057573 CONLI: <i>I think it's a testament to Glen</i>
+2057597 2060430 <i>because here's the guy<br />who's the lead animator for Silver,</i>
+2060517 2063305 <i>and then he's able to kind of<br />get into Jim's mind as well.</i>
+2063395 2064830 MUSKER: <i>Well, the core<br />of this whole movie</i>
+2064854 2066891 <i>is Jim and Silver, their relationship,</i>
+2066982 2071317 <i>and I think Glen and John were both<br />intimately involved in developing that.</i>
+2071403 2074987 KEANE: <i>I remember,<br />I had to storyboard this</i>
+2075073 2076780 <i>and it just wasn't working,</i>
+2076866 2080609 <i>but I felt in my gut<br />that we had to do these flashbacks.</i>
+2081329 2084572 <i>So I left the studio<br />and went up to Lake Arrowhead,</i>
+2084666 2088125 <i>about two hours from here,<br />and just sat up there and thought,</i>
+2088211 2093001 <i>"Okay, if I was just going to do this<br />just the way Rzeznik wrote it,"</i>
+2093091 2094752 <i>"this is what it would be."</i>
+2094843 2096443 <i>But I wasn't sure if this<br />was gonna work,</i>
+2096511 2100254 <i>so I called my wife<br />and I started to describe this,</i>
+2100348 2102055 <i>and there was this silence<br />on the phone.</i>
+2102142 2104133 <i>I said, "What, you don't like it?"</i>
+2104227 2106218 <i>She said, "No, I'm crying."</i>
+2107314 2110352 <i>"Well, then I'm gonna do it.<br />That's how it has to be."</i>
+2112068 2115106 CLEMENTS: <i>I think it's interesting,<br />Johnny is just amazing</i>
+2115196 2119565 <i>in terms of being able to interpret<br />the dramatic structure of a film</i>
+2119659 2120774 <i>into the music.</i>
+2120869 2124612 <i>I mean, he really gets the concept<br />of what the story is about</i>
+2124706 2128119 <i>and he's able to kind of<br />transfer that pretty easily into...</i>
+2128209 2132498 <i>And his lyrics are very strong, I think,</i>
+2132589 2135957 <i>and really express a lot<br />of the underlying things</i>
+2136051 2139089 <i>that we wanted to get through<br />in the character of Jim.</i>
+2141389 2144427 MUSKER: <i>We're about to get into<br />this whole sequence where they...</i>
+2144517 2148556 <i>After Jim sees his father<br />leaving for the last time,</i>
+2149606 2150971 <i>now Silver invites him on board,</i>
+2151066 2153026 <i>where he's going to<br />show him the ropes of driving,</i>
+2153068 2155400 <i>and then Jim takes over.<br />And I think it was Glen's idea</i>
+2155487 2157069 <i>to really work in<br />something with a comet</i>
+2157155 2159442 <i>or something that just had<br />a spectacular visual to it.</i>
+2159532 2163150 <i>So that became the basis for this<br />last little movement within the song</i>
+2163244 2165736 <i>where Jim really takes Silver<br />kind of on this joy ride</i>
+2165830 2168242 <i>and shows him that<br />he really knows what he's doing.</i>
+2169709 2171541 CLEMENTS: <i>Sky continuity<br />was a nightmare.</i>
+2171628 2173606 MUSKER: <i>Maybe we should also<br />talk about the size of stars, too.</i>
+2173630 2176918 CLEMENTS: <i>Stars and sky.<br />We've said many times on this,</i>
+2177008 2180797 <i>"if we ever do another movie again,<br />we don't want to have any sky,"</i>
+2180887 2182753 <i>"or any clouds, or any stars."</i>
+2182847 2185384 <i>It's just too complicated.</i>
+2186267 2188008 <i>And there again,<br />people take it for granted,</i>
+2188103 2190219 <i>like, if they look the same in every shot,</i>
+2190313 2192975 <i>and they're moving<br />at the same speed in every shot...</i>
+2193066 2195228 <i>And it doesn't always happen,</i>
+2195318 2200529 <i>because somehow continuity<br />is very, very difficult to keep going.</i>
+2200615 2203277 <i>And this movie, I think, is probably<br />one of the most complicated</i>
+2203368 2203511 <i>in terms of continuity<br />and trying to match from shot to shot.</i>
+2203535 2206698 <i>In terms of continuity<br />and trying to match from shot to shot.</i>
+2206788 2208654 <i>And we had to redo a lot of these skies.</i>
+2208748 2211468 CONLI: <i>Well, basically, you're<br />just sticklers on continuity.</i> (LAUGHS)
+2212293 2214079 MUSKER: <i>No one will ever notice.</i>
+2215296 2216565 GOODING: <i>Now, this scene<br />ends up having</i>
+2216589 2220833 <i>a very Brandywine School<br />of illustration look to it</i>
+2220927 2225137 <i>because of the pool of light that we use<br />to stage the two characters in.</i>
+2225223 2228090 <i>It's a very nice balance<br />of warm and cool here.</i>
+2228184 2231347 <i>It sort of spotlights the two characters</i>
+2231438 2234351 <i>and focuses your attention<br />on them nicely.</i>
+2234441 2236377 CONLI: <i>Well, this is, I think,<br />some of the best acting</i>
+2236401 2238108 <i>-in the film.</i><br />-MUSKER: <i>Yeah.</i>
+2238194 2239901 <i>Rick Hoppe did a number<br />of these scenes</i>
+2239988 2241132 <i>of Silver and Jim at the beginning</i>
+2241156 2243272 <i>and then Dean Wellins<br />did the latter half.</i>
+2243366 2248736 <i>And really just some great<br />acting moments, I think, from Dean.</i>
+2248830 2252073 <i>This was a subtlety in thought process.</i>
+2252167 2255205 <i>Yeah, Dean Wellins was an animator<br />who worked at Warner Brothers,</i>
+2255295 2259630 <i>and was a schoolmate of<br />John Ripa's and Sergio Pablo's,</i>
+2259716 2262708 <i>and this is the first Disney film<br />he's worked on,</i>
+2262802 2266011 <i>and he just was an outstanding talent.</i>
+2266097 2270807 CONLI: <i>The whole Silver team<br />and the Jim unit was just amazing.</i>
+2270894 2272872 CLEMENTS: <i>That scene of Jim<br />was just beautifully acted.</i>
+2272896 2276355 <i>And this scene of Silver, I think,<br />is one of the best scenes in the movie</i>
+2276441 2278899 <i>in terms of how well the acting...</i>
+2278985 2281022 MUSKER: <i>Yeah. It's amazing.</i>
+2281529 2283299 KEANE: <i>And something that we tried<br />on this picture</i>
+2283323 2287408 <i>was to have a crew, a shared crew,<br />between John and I</i>
+2287494 2290828 <i>where some of the animators<br />would do both characters,</i>
+2290914 2294953 <i>just so that they would understand<br />the relationship that much better.</i>
+2295043 2296979 RIPA: <i>And that, hopefully, yeah,<br />that that would make</i>
+2297003 2299665 <i>the relationship on screen<br />come across better.</i>
+2301424 2303290 CONLI: <i>The storm sequence<br />is a real showcase</i>
+2303384 2308254 <i>for our head of layout, Rasoul Azadani,<br />and head of effects, Dave Tidgwell.</i>
+2309224 2311886 <i>It was great, in terms of doing<br />an action-adventure movie,</i>
+2311976 2314968 <i>I think it was exciting for Rasoul<br />to work with virtual sets.</i>
+2315063 2317270 <i>This is the first movie<br />where we were really able</i>
+2317357 2319940 <i>to move the camera<br />through environments.</i>
+2320026 2323894 <i>And Rasoul is sort of the equivalent<br />of a live-action cinematographer,</i>
+2323988 2326650 <i>so it was really a freeing thing for him</i>
+2326741 2329733 <i>to be able to move the camera<br />wherever we wanted it,</i>
+2329828 2332786 <i>and I think we really take advantage<br />of it in some of these shots.</i>
+2332872 2335910 <i>And certainly this is<br />a big, big effects movie,</i>
+2336000 2338742 <i>probably one of the biggest<br />that Disney's ever done.</i>
+2338837 2344003 <i>And Dave and his staff really<br />responded to that challenge,</i>
+2344092 2346925 <i>and did just sort of magnificent work.</i>
+2347011 2350754 <i>I think we were really blown away<br />by the work of the effects department</i>
+2350849 2352089 <i>on this film.</i>
+2357981 2359972 CLEMENTS: <i>A lot of the reason<br />for the Etherium</i>
+2360066 2361585 <i>and being able to breathe<br />in outer space</i>
+2361609 2364146 <i>is so you could do something<br />like this on an open-deck ship</i>
+2364237 2366649 <i>and it just made it<br />a lot more fun and visceral</i>
+2366739 2368467 <i>than if they were in<br />some kind of a spaceship.</i>
+2368491 2370928 CLEMENTS: <i>What would a space<br />sea adventure be without a storm?</i>
+2370952 2372113 MUSKER: <i>Yeah.</i>
+2376875 2379492 <i>Peter De Mund did<br />some of the effects here</i>
+2379586 2383454 <i>with the explosions and all the smoke<br />trailing off this giant meteor.</i>
+2383548 2385289 <i>I guess the idea for this,<br />Francis Glebas...</i>
+2385383 2387750 CLEMENTS: <i>Francis Glebas came up<br />with the giant star shard</i>
+2387844 2390006 <i>that reverses direction</i>
+2390096 2393179 <i>and kind of breaks the sequence<br />into part one and part two.</i>
+2393266 2397009 <i>Part one being the star shards,<br />part two being the black hole.</i>
+2398396 2400478 CONLI: <i>This sequence really was<br />a tent pole for us.</i>
+2400565 2402501 <i>We were able to get this<br />into production really early</i>
+2402525 2403878 <i>because we knew<br />we wanted this storm.</i>
+2403902 2405462 MUSKER: <i>Yeah, it was one of<br />the first sequences begun,</i>
+2405486 2408979 <i>although it took a long time<br />because it had all these special effects.</i>
+2409073 2412065 CLEMENTS: <i>Very.<br />And it's an effects tour de force</i>
+2412160 2416449 <i>with a combination of<br />2-D effects and 3-D effects.</i>
+2416706 2418822 No, Captain. They're not erratic at all.
+2419667 2421507 CLEMENTS: <i>Those screens are cool.</i><br />MUSKER: <i>Yeah.</i>
+2422378 2424745 ...followed by the biggest<br />magilla of them all!
+2424839 2426150 MUSKER: <i>We were told<br />by Nancy Beiman</i>
+2426174 2427756 <i>that we misused<br />the word "magilla" here,</i>
+2427842 2430675 <i>but we took our lives<br />in our hands and said,</i>
+2430762 2432594 <i>"Nancy, we're keeping 'magilla."</i>
+2432680 2435217 <i>And she moved to<br />Savannah, Georgia after.</i>
+2437352 2440014 Aye, Captain. You heard her, men.
+2440188 2442145 Unfurl those sails.
+2442398 2444810 CONLI: <i>Nice little piece of acting<br />for Arrow back there.</i>
+2444901 2446107 MUSKER: <i>Yeah.</i>
+2446819 2448935 <i>Birdbrain Mary, the little bird on legs,</i>
+2449030 2450633 <i>that was John Mahoney's, I think,<br />character design.</i>
+2450657 2452398 <i>One of our designers.</i>
+2452492 2454053 CLEMENTS: <i>Although<br />not originally a female,</i>
+2454077 2455637 <i>I think Ellen Woodbury, the animator...</i>
+2455703 2457181 MUSKER: <i>She saw<br />something female there.</i>
+2457205 2458766 CLEMENTS: <i>...wanted to have<br />one female pirate.</i>
+2458790 2461452 <i>And we agreed it would be nice<br />to at least have one female pirate.</i>
+2461542 2463749 MUSKER: <i>To have the allure<br />of that woman there, yes.</i>
+2463836 2466419 CLEMENTS: <i>Some people find her<br />attractive, which is really scary.</i>
+2466506 2468042 MUSKER: <i>Ron, you do.</i>
+2468132 2469793 CLEMENTS: <i>That's pretty scary.</i>
+2470385 2471796 (SCREAMING)
+2474722 2476212 <i>Now we've started to kill off</i>
+2476349 2478465 <i>some of the more complicated<br />characters in the movie.</i>
+2478559 2480846 <i>Arrow was very difficult to draw<br />and clean up.</i>
+2480937 2482998 MUSKER: <i>Yeah, there are some<br />pirates that die during this movie,</i>
+2483022 2485209 <i>and they die in order of<br />how complicated they are, I think.</i>
+2485233 2486974 <i>The hardest ones to draw<br />went first,</i>
+2487068 2490356 <i>so once the characters actually<br />realized they were hard to draw,</i>
+2490446 2492886 <i>they started trying to erase<br />their own lines, but it didn't...</i>
+2493574 2495736 Captain, the last wave!
+2496035 2497742 Here it comes!
+2497912 2499994 Hold on to your lifelines, gents!
+2500081 2502413 It's gonna be a bumpy ride!
+2504168 2506409 MUSKER: <i>As the ship descends down<br />into the black hole,</i>
+2506504 2508791 <i>this scene actually was quicker<br />at one time,</i>
+2508881 2510761 <i>and Michael Kelly felt strongly<br />we needed a beat</i>
+2510842 2513300 <i>that really said,<br />"They're gone. This is over."</i>
+2513386 2516799 <i>And so he expanded that time,<br />and I think that really to its benefit,</i>
+2516889 2518846 <i>that you really have this moment<br />of suspension</i>
+2518933 2520661 <i>where you're not sure<br />what's going to happen.</i>
+2520685 2522642 <i>And he really let that hang there<br />and play out.</i>
+2522729 2528190 <i>So all this movement de-crescendoed<br />down into this rest,</i>
+2528276 2531314 <i>and then suddenly exploded out<br />and made the next part more powerful.</i>
+2531404 2534522 <i>And I think Michael really sort of<br />went to the wall on that,</i>
+2534615 2538449 <i>retiming that and really trying<br />to give that its maximum impact.</i>
+2539787 2541467 CLEMENTS: <i>And Michael's<br />a brilliant editor,</i>
+2541539 2541890 <i>and I think did a great job on this film.</i>
+2541914 2543308 <i>And I think did a great job on this film.</i>
+2543332 2547121 <i>And the most easy-going guy<br />you could possibly work with.</i>
+2547211 2550624 <i>I mean, just unflappable, really.</i>
+2550715 2552547 <i>MUSKER: It's that lighthearted<br />Irish thing.</i>
+2552717 2555254 Thank you. Thank you very much.
+2555511 2557718 Well, I have a lot of help<br />to offer anatomically...
+2557805 2560137 Amanamonically... Astronomically.
+2560767 2562974 CLEMENTS: <i>That's a great line,<br />a very funny line,</i>
+2563061 2566224 <i>written by Rob Edwards,<br />who joined us fairly early</i>
+2566314 2568305 <i>in the writing process on this film.</i>
+2568399 2572484 <i>He's actually one of the writers<br />from the sitcom</i> Fresh Prince of Bel-Air.
+2572570 2578486 <i>And he worked on this movie with us,<br />writing the script for quite a bit of time,</i>
+2578576 2581193 <i>and did a great job<br />and was a really big help</i>
+2581287 2582618 <i>in the writing of the movie.</i>
+2584165 2585309 MUSKER: <i>We had to cheat, sort of,</i>
+2585333 2587995 <i>that Arrow's hat hung around<br />even though he went away</i>
+2588086 2590418 <i>so we'd have a little prop<br />for them to react to here.</i>
+2590505 2592712 CONLI: <i>Nice editing<br />by Michael Kelly with the...</i>
+2592799 2595319 MUSKER: <i>Yeah, Michael Kelly devised<br />some of this, the pacing of this,</i>
+2595343 2599337 <i>and the round robin of looks<br />that come up in terms of Jim's guilt.</i>
+2599430 2604266 <i>Michael really had a fine eye for just<br />the pace and the length of these shots,</i>
+2604352 2606514 <i>and who you go to when.</i>
+2606604 2610893 <i>Right, coming up,<br />he cooked this relationship up here.</i>
+2612193 2615777 CLEMENTS: <i>And Emma did a great job<br />on this little...</i>
+2615863 2617649 <i>Eulogy for Mr. Arrow.</i>
+2617782 2618782 A fine spacer,
+2619867 2622950 finer than most of us<br />could ever hope to be.
+2623037 2624515 CLEMENTS: <i>It used to be<br />a little longer,</i>
+2624539 2628407 <i>and we actually followed her<br />all the way back into her...</i>
+2628501 2630562 MUSKER: <i>Yeah, there was a scene<br />where she went into her quarters</i>
+2630586 2632689 <i>and was sort of leaning against<br />the wall like she was overcome.</i>
+2632713 2634233 CLEMENTS: <i>There was a bit<br />with Doppler offering to help</i>
+2634257 2637420 <i>and she just can't talk to him,<br />and goes and closes the door.</i>
+2637510 2641549 <i>It was very emotional, but it seemed<br />like it took away from Jim's emotion.</i>
+2643391 2646725 MUSKER: <i>Ian Gooding design<br />of that big nebula.</i>
+2646811 2648497 CLEMENTS: <i>This is a very key<br />sequence of the movie,</i>
+2648521 2650182 <i>story-boarded by Ken Harsha</i>
+2650273 2653015 <i>who did a beautiful job<br />on the storyboards of this.</i>
+2653109 2656227 <i>And the animation by<br />Glen Keane and John Ripa</i>
+2656320 2659062 <i>pretty much reflects a lot<br />of what was in those boards.</i>
+2659157 2660739 MUSKER: <i>Yeah, it's almost<br />shot for shot.</i>
+2661909 2665903 Why, half the crew would be<br />spinning in that black abyss...
+2665997 2669080 Look, don't you get it? I screwed up!
+2669167 2670657 CLEMENTS: <i>This was<br />a pivotal sequence,</i>
+2670751 2672396 <i>I think, that we always<br />pictured this moment</i>
+2672420 2674331 <i>as the bonding moment<br />between the two,</i>
+2674422 2677631 <i>and that from this point in the movie,<br />actually that Silver and Jim</i>
+2677717 2680709 <i>have become father and son.<br />At least, surrogate father and son.</i>
+2680803 2684341 <i>And that that will remain.<br />That sort of can't be taken away.</i>
+2684432 2687595 <i>So, this is the moment<br />where that happens</i>
+2687685 2691679 <i>and that's going to play off a lot<br />in terms of what happens later.</i>
+2691981 2696646 James Hawkins.<br />You got the makings of greatness in ya.
+2696736 2700855 KEANE: <i>if there was ever<br />a sequence that I would love to go</i>
+2700948 2706239 <i>and keep trying to make it reach<br />its potential, it's this sequence.</i>
+2706746 2711957 <i>Because it's so deep,<br />and the emotions that I felt with this</i>
+2712043 2717004 <i>were so much tied into my own history<br />and what happened to me as a...</i>
+2717423 2721917 <i>When I was 18 years old<br />and my football coach comforted me</i>
+2722011 2725345 <i>in the parking lot one night<br />after a football game</i>
+2725431 2729891 <i>where I had completely lost<br />the starting position,</i>
+2729977 2732969 <i>and I felt unjustly treated.</i>
+2733064 2736227 <i>And he came out, and put his hand<br />on my shoulder and said,</i>
+2736317 2737899 <i>"Glen, you're gonna do great things,"</i>
+2737985 2741023 <i>"I'm gonna be there<br />when you're making that touchdown."</i>
+2741113 2744697 <i>And, I mean, he had tears in his eyes,<br />and I had tears in my eyes.</i>
+2744784 2747242 <i>And looked a lot like Long John Silver.</i>
+2747328 2751663 <i>It was one of those soul inspirations<br />for me in this character.</i>
+2751749 2756585 <i>And when you're drawing on<br />an emotion like that, that's so real,</i>
+2756671 2758332 <i>you're setting yourself up for a fall.</i>
+2758422 2763258 <i>You're never going to be able<br />to capture how you felt.</i>
+2763344 2765927 <i>I think we both probably animated<br />every scene in this</i>
+2766013 2768425 <i>at least two or three times.</i>
+2770476 2774765 Next thing ya know,<br />they'll be saying I've gone soft.
+2774855 2776596 CLEMENTS: <i>The softer side of Silver.</i>
+2777692 2780980 <i>It was tricky, Silver was a very complex<br />character to deal with</i>
+2781070 2783437 <i>'cause he's part bad guy,<br />part good guy,</i>
+2783531 2785050 <i>and we were always walking<br />that tightrope as far as...</i>
+2785074 2787361 <i>and we were always walking<br />that tightrope as far as...</i>
+2787451 2789179 MUSKER: <i>Yeah. If he was too nice,<br />that hurt the story.</i>
+2789203 2790973 <i>If he was too dark,<br />that seemed to hurt the story.</i>
+2790997 2793489 <i>We really struggled to find<br />a balance between the two.</i>
+2794959 2797576 <i>This is a very complicated shot,<br />although it doesn't look like it.</i>
+2797670 2801129 <i>It's a 3-D set combined with<br />some 2-D elements.</i>
+2801215 2803110 CLEMENTS: <i>This is a lot of<br />Adam animation, right?</i>
+2803134 2804795 MUSKER: <i>Yeah,<br />Adam Dykstra doing stuff.</i>
+2804885 2807923 <i>And Dean Wellins did Jim here,<br />did some really fine attitudes.</i>
+2808014 2810972 CLEMENTS: <i>Some of the first<br />animation that Dean did on the movie.</i>
+2811058 2812978 MUSKER: <i>And Mike Show did Morph<br />through all this.</i>
+2813060 2815518 <i>Mike Show and Jay Jackson<br />did all of Morph pretty much,</i>
+2815604 2817040 <i>I guess there's a scene here<br />that other people did,</i>
+2817064 2820227 <i>but Mike really did most of him,<br />which was great.</i>
+2820318 2822810 <i>Joey Gordon-Levitt<br />who did a great job on Jim's voice,</i>
+2822903 2824548 <i>he had to say,<br />"You little squidge," here,</i>
+2824572 2826258 <i>and somehow he didn't like<br />the word "squidge"</i>
+2826282 2827989 <i>and we had to talk him into it,<br />but Joey...</i>
+2828075 2830112 <i>He loosened up in the course<br />of the acting process.</i>
+2830202 2832002 <i>In the initial going,<br />he was kind of reserved.</i>
+2832079 2835142 <i>"What is this all about? I've never acted<br />without other actors. "And all this.</i>
+2835166 2836518 <i>But he eventually came<br />to embrace this,</i>
+2836542 2839660 <i>and just did a wonderful job,<br />and did improv stuff as well.</i>
+2839754 2841231 CLEMENTS: <i>With Joey,<br />it was very much like Jim,</i>
+2841255 2842575 <i>that he started out very cautious</i>
+2842631 2845339 <i>and reserved, and then he sort of<br />opened up more and more</i>
+2845426 2847713 <i>in the course of, like,<br />several years of recording.</i>
+2847803 2850545 <i>-These things take so long to do.</i><br />-MUSKER: <i>Yeah.</i>
+2853142 2854303 (GRUNTS)
+2854518 2857727 GOODING: <i>Now here we see<br />the 3-D virtual set</i>
+2857813 2859975 <i>re-lit with a completely different look.</i>
+2860358 2862599 <i>With a sort of nice green light.</i>
+2862693 2865560 <i>Now, everything has turned green<br />at this point,</i>
+2865654 2868521 <i>so you know you're approaching<br />Treasure Planet.</i>
+2868616 2871108 CLEMENTS: <i>This whole scene is one<br />of the tent-pole scenes</i>
+2871202 2872262 <i>from the novel</i> Treasure Island.
+2872286 2874389 <i>Of course, we haven't mentioned<br />Robert Louis Stevenson too much,</i>
+2874413 2876199 <i>but he was the whole reason<br />for this going.</i>
+2876290 2878531 <i>And there's the famous<br />apple barrel scene in there</i>
+2878626 2881539 <i>where Jim Hawkins learns the truth<br />about Long John Silver,</i>
+2881629 2883106 <i>and this is sort of our homage to that.</i>
+2883130 2886589 <i>And we just felt it was important for Jim<br />to realize how he's been betrayed,</i>
+2886675 2888541 <i>and we wanted to hang on<br />to that scene,</i>
+2888636 2892220 <i>so this is sort of our adaptation<br />of Stevenson's scene.</i>
+2893599 2896557 CONLI: <i>I mean, with the adaptation,<br />we were fairly faithful</i>
+2896644 2900603 <i>to several tent poles in the book,<br />to kind of maintain that through-line.</i>
+2902483 2903894 CLEMENTS: <i>And you<br />children at home,</i>
+2903984 2905295 <i>we'd recommend<br />turning off the tape now</i>
+2905319 2908186 <i>and going and reading the book<br />because it is actually a great book,</i>
+2908280 2911272 <i>and well-worth reading,<br />and holds up to this day.</i>
+2911367 2913127 CONLI: <i>It's worth noting<br />that the three of us</i>
+2913160 2914304 <i>read the book when we were kids</i>
+2914328 2917366 <i>and we fell in love with it,<br />and that's why the film is what it is.</i>
+2918207 2919476 GOODING: <i>Towards the end<br />of this sequence,</i>
+2919500 2921707 <i>you'll see that<br />everything's transitioning</i>
+2921794 2925037 <i>towards a more golden-orange light.</i>
+2926048 2928540 <i>Another difficult sequence to do,</i>
+2929260 2931046 <i>as transitions always are.</i>
+2932805 2935638 <i>Because we have our mutiny<br />coming up,</i>
+2935724 2940434 <i>and that, we had originally keyed<br />the mutiny with orange light,</i>
+2940521 2942762 <i>so we needed to somehow<br />transition to that,</i>
+2942857 2945144 <i>so you see it gradually happening.</i>
+2945234 2949523 <i>And it helps to highlight the characters<br />getting more and more angry, also.</i>
+2951824 2954737 MUSKER: <i>We're coming up on<br />the reveal of Treasure Planet,</i>
+2954827 2956805 <i>which, again, was one of those<br />slight nightmare shots,</i>
+2956829 2958786 <i>but David Krentz did some drawings.</i>
+2958873 2961786 <i>David Krentz was in layout, and<br />did these beautiful charcoal drawings</i>
+2961876 2963520 <i>that showed how the planet<br />might be displayed.</i>
+2963544 2964784 <i>And then Uma Thumrugoti,</i>
+2964879 2967190 <i>that was one of the more difficult<br />names to pronounce on the movie,</i>
+2967214 2970172 <i>really worked for months in terms of<br />just getting all that cloud animation</i>
+2970259 2972546 <i>and the reel of the planet<br />working just right.</i>
+2973721 2976008 CLEMENTS: <i>Originally,<br />we had Silver set down</i>
+2976098 2978180 <i>his spyglass in the earlier sequence,</i>
+2978893 2981493 <i>but the way it was staged,<br />there really wasn't any way to show it.</i>
+2981562 2983665 <i>But, of course, the bigger question is<br />why does Silver</i>
+2983689 2986647 <i>need a spyglass anyway<br />since he's got this cyborg eye?</i>
+2986734 2988145 MUSKER: <i>We did record this scene</i>
+2988235 2989546 <i>with Joey Gordon-Levitt<br />and Brian Murray</i>
+2989570 2990981 <i>in the same room at the same time,</i>
+2991071 2992716 <i>which we also did<br />in that earlier sequence.</i>
+2992740 2995385 CLEMENTS: <i>A lot of the stuff we did<br />with the two of them together...</i>
+2995409 2998329 MUSKER: <i>I think Joey felt strongly<br />he could play off another actor better,</i>
+2998412 3000119 <i>and felt less like he was in a void.</i>
+3000206 3002366 <i>And he was right, it really<br />brought a lot to the scenes</i>
+3002416 3005078 <i>to have them both in the same room<br />and playing off each other.</i>
+3005169 3006751 CLEMENTS: <i>And they bonded.</i>
+3006837 3010671 <i>You had the sort of older actor<br />and the younger actor,</i>
+3010758 3012248 <i>and they became good friends.</i>
+3012343 3014488 MUSKER: <i>This scene through<br />Silver's eye we had to retake</i>
+3014512 3017675 <i>because the first version of this,<br />it was all green and obscure.</i>
+3017765 3018909 <i>You couldn't tell what was going on.</i>
+3018933 3021244 <i>And we had to sort of rework it.<br />Dave Tidgwell sort of reworked it</i>
+3021268 3023100 <i>to make it clear.</i>
+3025147 3026958 <i>Now we're getting into<br />pirates as pirates here,</i>
+3026982 3029849 <i>so we really wanted our homage to...<br />You know, classic things.</i>
+3029944 3033232 <i>So pirates start swinging into camera<br />and storming down,</i>
+3033322 3034938 <i>and we have a shot coming up of Silver</i>
+3035032 3037194 <i>with the Jolly Roger<br />rising up behind him.</i>
+3037284 3039821 <i>Very iconic images<br />we were going for here.</i>
+3039912 3042199 <i>Brandishing the weapons,<br />I mean, all these...</i>
+3042289 3043289 <i>Racing around the deck.</i>
+3043374 3044705 CLEMENTS: <i>You might notice here</i>
+3044792 3047329 <i>that Mr. Hands is also<br />very difficult to draw.</i>
+3047419 3049439 MUSKER: <i>Here's one of the icons.<br />That pirate flag was designed</i>
+3049463 3051107 <i>by Andy Gaskill, our art director.</i>
+3051131 3052192 <i>By Andy Gaskill, our art director.</i>
+3052216 3053456 I'll see they all hang.
+3053842 3054962 Doctor, familiar with these?
+3055052 3057510 Oh, I've seen... Well, I've read...
+3059056 3060592 Uh, no. No. No, I'm not.
+3061308 3063203 MUSKER: <i>The shot of Morph looking<br />at his reflection, I think,</i>
+3063227 3065389 <i>was based on a Roy Disney comment,<br />where he needed to,</i>
+3065479 3068392 <i>or wanted to get that set up<br />more clearly, why Morph was...</i>
+3068482 3070644 <i>That it was a playful thing<br />and not a malicious thing.</i>
+3071860 3073396 CLEMENTS: <i>Yeah, the idea of Morph</i>
+3073487 3076730 <i>is that he is just<br />all feelings and emotions</i>
+3076824 3081034 <i>and no intellect, and really has no idea<br />of anything that's going on.</i>
+3083914 3085154 Stop them!
+3086083 3089075 RIPA: <i>These are our big<br />submarine-type shots</i>
+3089169 3091773 <i>where the camera is running through<br />and the characters are running through</i>
+3091797 3093538 <i>these tight cornerways<br />and things like that.</i>
+3093632 3097216 <i>Shawn Keller had handled Jim<br />and most of those running ones,</i>
+3097303 3100887 <i>did a nice job matching<br />the atmosphere and everything.</i>
+3101724 3103010 (GRUNTS)
+3105519 3107760 MUSKER: <i>This is an example<br />of interactive lighting,</i>
+3107855 3111439 <i>where there's a light source outside<br />that changes the lighting of the set.</i>
+3111525 3113607 CLEMENTS: <i>I think Emma<br />really enjoyed the fact</i>
+3113694 3115810 <i>that she could play action-adventure.</i>
+3115904 3119363 <i>She's never really done<br />an action-adventure movie before,</i>
+3119450 3125287 <i>and she was actually pregnant through<br />most of the Amelia recording.</i>
+3125914 3128034 CONLI: <i>She was very happy<br />she didn't have to get buff.</i>
+3128125 3130992 CLEMENTS: <i>So, we lost several<br />complicated characters there</i>
+3131086 3132542 <i>that were very difficult to draw.</i>
+3132630 3136794 CONLI: <i>So it's a lesson to you, kids,<br />don't ever be a complicated character.</i>
+3136884 3138545 MUSKER: <i>You notice Silver's eye</i>
+3138636 3139863 <i>changing color<br />through these sequences.</i>
+3139887 3142879 <i>He sort of had a mood eye.<br />When he was in his normal mode,</i>
+3142973 3144451 <i>and kind of full of blarney, it's yellow.</i>
+3144475 3148594 <i>But as he gets angrier, or more<br />incensed or whatever, it gets redder.</i>
+3148687 3151520 <i>So you'll see through<br />some of this section, it's a red eye,</i>
+3151607 3154474 <i>and as he softens,<br />it goes back into the yellow mode.</i>
+3155319 3160314 KEANE: <i>The recording session<br />between Brian Murray and Joey here</i>
+3160407 3163320 <i>was just the greatest.</i>
+3163410 3166097 RIPA: <i>Yeah, we could have stretched<br />this area out for about 10 minutes.</i>
+3166121 3168362 <i>They did so much fun stuff</i>
+3168457 3170448 KEANE: <i>You really felt<br />like there was this</i>
+3170542 3171982 <i>competition between the two of them,</i>
+3172044 3174581 <i>and actually, in the recording session,<br />when they were talking,</i>
+3174672 3176959 <i>you felt like they genuinely<br />wanted to win...</i>
+3177049 3179086 RIPA: <i>Yeah.</i><br />KEANE: <i>...between each other.</i>
+3180803 3183340 <i>I felt like this was an animator's film</i>
+3183430 3186889 <i>in that even though there's all kinds<br />of amazing effects and everything,</i>
+3186975 3189182 <i>it's still character-centered.</i>
+3189937 3193225 <i>That it gives you time to really explore<br />the expressions,</i>
+3193315 3194726 <i>the attitudes of the characters.</i>
+3194817 3199562 <i>It's only going to work if the audience<br />really believes and likes</i>
+3199655 3204741 <i>your main character,<br />and relationships are growing,</i>
+3204827 3207159 <i>and causing the audience<br />to want to see</i>
+3207246 3209829 <i>what's going to happen<br />between Doppler and Amelia,</i>
+3209915 3211030 <i>and Silver and Jim.</i>
+3211125 3213207 RIPA: <i>Where it's all gonna go.</i><br />KEANE: <i>Yeah.</i>
+3213293 3215093 MUSKER: <i>These trees are 2-D<br />for the most part.</i>
+3215170 3218333 <i>They're hand-drawn, but a million<br />levels of them so they get dimensional.</i>
+3218424 3219651 <i>Except that was 3-D right there.</i>
+3219675 3222633 <i>So we keep bouncing back and forth<br />between 2-D and 3-D.</i>
+3222720 3224381 <i>And this shot was all 2-D.</i>
+3224471 3227714 <i>It was a challenge because 3-D<br />is more expensive, takes longer to do,</i>
+3227808 3230391 <i>and we really had to pick our spots<br />for our 3-D shots.</i>
+3230519 3231759 (GRUNTS)
+3232146 3233181 Ow!
+3234064 3235930 Oh, my goodness.
+3236024 3238391 That was more fun than<br />I ever want to have again.
+3238485 3239566 (CHUCKLES)
+3239653 3243897 CLEMENTS: <i>The basic idea<br />of the planet was, as we will learn later,</i>
+3243991 3246733 <i>that the planet is really<br />a machine that is covered</i>
+3246827 3249785 <i>-with a bunch of, like, moldy stuff.</i><br />-MUSKER: <i>Fungi.</i>
+3249872 3252409 CLEMENTS: <i>Kind of the stuff that<br />would grow in your refrigerator</i>
+3252499 3255617 <i>if you left stuff in your refrigerator<br />over a million years.</i>
+3256336 3258703 <i>And I actually think<br />there was research done</i>
+3258797 3260287 <i>in terms of various bacteria.</i>
+3260382 3263374 MUSKER: <i>When I went to CalArts,<br />it was our refrigerator that was like that.</i>
+3263469 3264755 <i>Or was it the bathroom?</i>
+3264845 3266085 <i>No, it was the refrigerator.</i>
+3266847 3268963 CLEMENTS: <i>So,<br />there were subliminal things</i>
+3269057 3272675 <i>that kind of may hint<br />that this is not a normal planet.</i>
+3273353 3275594 <i>Although, until we see the structure,</i>
+3275689 3280149 <i>I think we wanted people to sort of<br />take it more as just a planet.</i>
+3281028 3283214 MUSKER: <i>But our layout department,<br />Rasoul and everybody,</i>
+3283238 3286151 <i>did a lot of research into<br />just sort of different vegetation,</i>
+3286241 3290280 <i>and they explored all sorts of fungi<br />and mold spores,</i>
+3290370 3291681 <i>-and macro-things.</i><br />-CLEMENTS: <i>Coral.</i>
+3291705 3293683 MUSKER: <i>Little micro-things that<br />they blew up to huge scale.</i>
+3293707 3294993 <i>Yeah, and coral structures.</i>
+3295083 3297541 <i>And tried to make it sort of<br />an other-worldly landscape,</i>
+3297628 3299369 <i>and yet, vegetation.<br />That was a big thing.</i>
+3299463 3301024 <i>We wanted to get some green<br />into the movie.</i>
+3301048 3304382 <i>We kept green off the color palette<br />until we got there</i>
+3304468 3305799 <i>to play up that there was still</i>
+3305886 3308048 <i>a tropical island analogy<br />we wanted to get,</i>
+3308138 3311472 <i>that there was something<br />almost tropic about this place.</i>
+3311558 3314550 <i>And to disguise its machine origins,<br />that it really...</i>
+3314645 3316125 <i>You wouldn't suspect it, first thing,</i>
+3316188 3318976 <i>it seemed so organic<br />that it could be this inorganic place.</i>
+3319066 3322149 <i>Plus, then we had to design<br />the alien technology.</i>
+3322236 3323977 <i>What was this race<br />that built this planet?</i>
+3324071 3325256 <i>What was their technology like?</i>
+3325280 3326633 <i>And we didn't want it to be human stuff,</i>
+3326657 3329115 <i>so some of the early development<br />on that seemed a little bit</i>
+3329201 3331304 <i>"too much gears and sprockets,<br />and we said, "Well, no.</i>
+3331328 3333319 <i>"It's got to feel more other-worldly."</i>
+3333413 3335767 <i>It's a culture that isn't the culture<br />of the rest of the movie,</i>
+3335791 3338829 <i>so that was a challenge to find<br />something that felt different enough</i>
+3338919 3340205 <i>so that it stood out from that.</i>
+3340295 3341410 (BOTH SCREAMING)
+3341922 3343504 Oh, this is fantastic!
+3343590 3346833 A carbon-based life form<br />come to rescue me at last!
+3346927 3349259 I just want to hug you and squeeze you
+3349346 3350586 and hold you close to me.
+3350681 3352217 All right. Okay.
+3352558 3355266 MUSKER: <i>Martin Short,<br />the voice of B.E.N.,</i>
+3355352 3357468 <i>noted from all his movies<br />and everything,</i>
+3357563 3360021 <i>great improv actor. So we wrote it...</i>
+3360107 3362189 <i>We tried to take advantage of Martin,</i>
+3362276 3363983 <i>but certainly he added a lot<br />in his improv.</i>
+3364069 3365789 CLEMENTS: <i>Yeah, we probably<br />have five times,</i>
+3365863 3368321 <i>six times as much material for Martin<br />as anyone in this film.</i>
+3368407 3369634 MUSKER: <i>Yeah, we have<br />a whole raft of material.</i>
+3369658 3370944 I am, um...
+3371451 3373362 My name is, uh...
+3374955 3376320 <i>This gag here, where...</i>
+3376415 3379077 <i>The cuckoo thing was Barry Johnson,<br />our head of story, his idea,</i>
+3379167 3381521 <i>his gag, and it gets one of<br />the biggest laughs in the movie.</i>
+3381545 3382876 <i>It was Barry's idea.</i>
+3384548 3385548 <i>B.E.N., in the script,</i>
+3385632 3387777 <i>we had a whole thing<br />where he leaked oil inadvertently,</i>
+3387801 3390543 <i>and that somehow went away<br />eventually. It was vaguely scatological.</i>
+3390637 3392907 <i>But somehow, I don't know why<br />it went away, but it went away.</i>
+3392931 3393992 CLEMENTS: <i>And you still miss it.</i>
+3394016 3396178 MUSKER: <i>I miss it,<br />I think we made a mistake.</i>
+3396268 3399386 <i>But, hey, let's just talk about<br />the mistakes for a while.</i>
+3399479 3401374 CLEMENTS: <i>This was ad-libbed,<br />this whole little rant here.</i>
+3401398 3403935 MUSKER: <i>Yeah,<br />this rant about his therapist.</i>
+3405527 3409987 <i>Rambling, and very funny Martin<br />off-the-wall shtick.</i>
+3411283 3412523 But that means... But wait.
+3412618 3415030 MUSKER: <i>Oskar Urretabizkaia was<br />the animator for B.E.N.,</i>
+3415120 3420081 <i>and of Basque Spanish descent<br />and very difficult-to-pronounce name,</i>
+3420167 3421703 <i>but he did a great job.</i>
+3421793 3424876 <i>We were concerned<br />'cause B.E.N. is a 3-D character,</i>
+3424963 3426816 <i>but we wanted him to integrate<br />with the 2-D characters,</i>
+3426840 3430253 <i>so his animation was meant to be<br />as cartoony as the other characters.</i>
+3430344 3433132 <i>And we tried to design him<br />so he had a line around him</i>
+3433221 3434324 <i>so he'd fit with the other characters,</i>
+3434348 3438592 <i>but Oskar animated him in a way<br />that really kept him loose,</i>
+3438685 3440365 <i>and the guys who built the rig<br />and all that</i>
+3440395 3443478 <i>made it very squashy and stretchy<br />so that it would integrate</i>
+3443565 3445522 <i>with the other characters.</i>
+3445609 3447020 <i>That was the goal here, really,</i>
+3447110 3449589 <i>not to make him feel like he was<br />from another planet, so to speak.</i>
+3449613 3451820 CONLI: <i>Yeah, the whole idea<br />of doing him in 3-D</i>
+3451907 3455275 <i>was to be able to get the amount<br />of detail on the character</i>
+3455369 3457406 <i>but still try and maintain<br />the squash-and-stretch</i>
+3457496 3458598 <i>-of the actual...</i><br />-MUSKER: <i>Right.</i>
+3458622 3461831 <i>Given that he was a robot,<br />it seemed like a natural fit for 3-D.</i>
+3462376 3464287 I've lost my mind.
+3464378 3467086 I've lost my mind.<br />You haven't found it, have you?
+3467172 3470631 My missing piece?<br />My primary memory circuit?
+3470926 3471926 Look, B.E.N...
+3472719 3475802 CLEMENTS: <i>We get into<br />the missing piece idea here,</i>
+3475889 3478130 <i>which was a little controversial<br />for a while,</i>
+3478225 3480512 <i>but is actually thematic.</i>
+3480602 3484846 <i>Wanted to sort of keep it because<br />it really ties into the whole movie</i>
+3484940 3488604 <i>in that sort of every character has<br />a missing piece in some sense.</i>
+3488694 3490401 <i>B.E.N.'s is fairly literal,</i>
+3490487 3494776 <i>but Silver has one in terms of<br />that he lost his arm.</i>
+3494866 3497073 <i>-Jim lost his father.</i><br />-MUSKER: <i>Yeah.</i>
+3497160 3499572 I do. Bye-bye.
+3501581 3502912 (WHINES)
+3504251 3508791 CONLI: <i>The fact that whenever you're<br />doing a 2-D and 3-D combination</i>
+3508880 3512168 <i>it's, from a technical standpoint, for a...</i>
+3512259 3513861 MUSKER: <i>The worst thing is where<br />they touch each other.</i>
+3513885 3515697 <i>Touching and talking,<br />those are the two big no-no's.</i>
+3515721 3519180 CLEMENTS: <i>ironically, that B.E.N.<br />is such a touchy-feely guy,</i>
+3519266 3520666 <i>and that's the hardest thing to do.</i>
+3520726 3522245 MUSKER: <i>Yeah,<br />every time a 2-D drawing,</i>
+3522269 3524385 <i>something that someone drew<br />on a piece of paper,</i>
+3524479 3526470 <i>interacts with something<br />created in a computer,</i>
+3526565 3528522 <i>it becomes a very difficult task.</i>
+3528608 3531976 <i>And yet, B.E.N. is a compulsive<br />sort of grabber and toucher</i>
+3532070 3535483 <i>and wants to be...<br />ls desperate at being left alone again.</i>
+3535574 3537440 <i>So we really wanted him<br />to be hanging on Jim,</i>
+3537534 3539616 <i>so that made their jobs<br />much, much harder</i>
+3539703 3543162 <i>to make that work together.</i>
+3543248 3545865 CLEMENTS: <i>But they did a really<br />good job, I think, there again,</i>
+3545959 3547239 <i>you don't really think about it.</i>
+3547294 3549001 <i>They integrate really nicely.</i>
+3549087 3552705 GOODING: <i>Here's another instance<br />of comedy being extremely difficult.</i>
+3553467 3556459 <i>We went through such pains<br />with those underwear,</i>
+3556553 3559341 <i>trying to get<br />the funniest possible pattern,</i>
+3559431 3561798 <i>and something that read as underwear,</i>
+3561892 3566386 <i>and hopefully everyone's going to be<br />in hysterics over that one.</i>
+3567105 3568687 CLEMENTS: <i>Now Doppler<br />loses his jacket.</i>
+3568774 3571562 <i>Every character kind of<br />simplifies himself a little bit</i>
+3571651 3573608 <i>through the course of the movie.</i>
+3575989 3578071 MUSKER: <i>Craig Elliott,<br />one of the layout artists,</i>
+3578158 3580320 <i>helped design this alien language</i>
+3580410 3583152 <i>that you see written on the walls,</i>
+3583246 3585391 <i>and on the technology here<br />that built this whole planet.</i>
+3585415 3588203 <i>This whole planet was built, of course,<br />as you can surmise,</i>
+3588293 3590580 <i>by an ancient race of aliens<br />that abandoned it.</i>
+3590670 3593066 <i>Who built it for scientific purposes<br />to explore the universe.</i>
+3593090 3594317 CLEMENTS: <i>Once again,<br />we took out a lot of exposition,</i>
+3594341 3595046 CLEMENTS: <i>Once again,<br />we took out a lot of exposition,</i>
+3595133 3597420 <i>so we leave that to<br />the audience's imagination.</i>
+3597511 3598654 <i>But there was a whole back-story...</i>
+3598678 3599781 MUSKER: <i>I'm sure you're all imagining.</i>
+3599805 3601074 CLEMENTS: <i>...with this<br />ancient alien culture</i>
+3601098 3604090 <i>who built this planet,<br />and why they built it.</i>
+3604893 3610104 KEANE: <i>Coordinating these kinds<br />of scenes was a huge challenge,</i>
+3610190 3614479 <i>where you've got all the pirates firing,<br />and just how many...</i>
+3614569 3617687 <i>Sometimes we'd have<br />up to 12 animators</i>
+3617781 3620899 <i>in the director's office<br />on a scene handout,</i>
+3620992 3624530 <i>and everybody's got to learn their part<br />and do their character.</i>
+3624621 3627659 No tricks, just a little palaver.
+3627916 3630157 CLEMENTS: <i>This is<br />very much from the book.</i>
+3630252 3632118 MUSKER: <i>Yeah,<br />another tent-pole scene.</i>
+3632212 3635375 <i>The negotiation scene between Silver<br />and in the book, the captain, actually.</i>
+3635465 3637527 <i>And in our earlier versions,<br />we had him negotiating with Amelia</i>
+3637551 3638962 <i>and Jim standing by.</i>
+3639052 3640932 <i>But Jim is our central character,<br />it seemed that</i>
+3640971 3643212 <i>the key relationship was between<br />Silver and Jim,</i>
+3643306 3649143 <i>so we reworked the scene to feature,<br />again, their sort of challenge</i>
+3649229 3650890 <i>between the two of them.</i>
+3650981 3655817 CLEMENTS: <i>This was a difficult scene<br />to write, rewritten many times just to...</i>
+3655902 3659816 <i>A lot is going on between the dynamics<br />of the two characters,</i>
+3659906 3663274 <i>and Jim is kind of taking control,<br />starting to take charge,</i>
+3663368 3667737 <i>and Silver, there's some vulnerability<br />here on Silver, I think,</i>
+3667831 3672325 <i>which is what makes him<br />completely lose his temper</i>
+3672419 3673500 <i>as the scene progresses.</i>
+3673587 3677421 CONLI: <i>It's important that the audience<br />not be sure</i>
+3677507 3680124 <i>whether what he's saying<br />is true or false.</i>
+3680802 3682905 MUSKER: <i>Yeah, they're trying<br />to scope him out just as Jim is.</i>
+3682929 3686012 <i>Is he telling the truth at all?<br />Can you trust him?</i>
+3686099 3690468 CLEMENTS: <i>We adjusted this scene<br />a little bit in terms of the acting.</i>
+3690562 3694556 <i>Originally, Jim didn't seem so much<br />like he was kind of considering</i>
+3694649 3697107 <i>and going along with Silver's proposal.</i>
+3697194 3699547 MUSKER: <i>And it seemed to give<br />more dramatics to let him seem like</i>
+3699571 3702291 <i>he was being taken in and then<br />sort of throw it back in Silver's face</i>
+3702365 3706029 <i>to kind of misdirect Silver<br />as well as the audience.</i>
+3706119 3710488 CLEMENTS: <i>Once again, it has Jim sort<br />of gaining a little bit of the upper hand.</i>
+3711458 3714746 CONLI: (CHUCKLING) <i>Although<br />he does have the eye mask on.</i>
+3715045 3716439 CLEMENTS: <i>He does<br />have the eye mask.</i>
+3716463 3717648 MUSKER: <i>He's a more<br />guarded guy again.</i>
+3717672 3720004 CLEMENTS: <i>He hasn't resolved<br />his problems yet.</i>
+3720091 3721527 MUSKER: <i>We do have some slight<br />moving camera,</i>
+3721551 3723231 <i>although this was done<br />with a 2-D technique</i>
+3723261 3724947 <i>where we're just panning<br />the camera behind him</i>
+3724971 3729932 <i>just to get a feeling of point of view<br />of Silver as Jim circles around him.</i>
+3731478 3733435 CLEMENTS: <i>Jim is high, Silver's low,</i>
+3733521 3738766 <i>which, once again, is emphasizing that<br />Jim is gaining the upper hand here.</i>
+3738860 3742398 Try to find it without my map,<br />by thunder!
+3744407 3747820 You still don't know how to<br />pick your fights, do you, boy?
+3748662 3750152 Now, mark me.
+3750247 3752659 MUSKER: <i>There was the famous scene<br />in the movie and the book</i>
+3752749 3756037 <i>where, "Somebody help me up,"<br />where Silver is sort of lame.</i>
+3756127 3757647 <i>We wanted to get the feeling<br />of that moment,</i>
+3757671 3760459 <i>even if we didn't do that literally,<br />but just that</i>
+3760548 3764963 <i>there's this anger and volatility<br />on the part of Silver</i>
+3765053 3767795 <i>and this sort of estrangement<br />of their relationship here.</i>
+3768056 3769137 Now!
+3771518 3773304 Oh, blast it!
+3773478 3775515 MUSKER: <i>We went back<br />and sort of adjusted this end</i>
+3775605 3777892 <i>to put back a look of regret<br />on Silver's part,</i>
+3777983 3781066 <i>which we took out at one point, but it<br />seemed to give you a little feeling of</i>
+3781152 3784565 <i>he didn't want things to go this way,<br />but that's the way it played out.</i>
+3784656 3787774 CONLI: <i>Yeah. Finding that balance<br />between their relationship</i>
+3787867 3791405 <i>and Silver's wants<br />was always an issue.</i>
+3792163 3794200 -Ohh.<br />-And what? What?
+3794457 3796789 We must stay together and what?
+3797127 3798127 Doctor...
+3798378 3800039 MUSKER: <i>David's line of dialogue here</i>
+3800130 3803543 <i>involving "I'm not a doctor," we had<br />written that in kind of a</i> Star <i>Trek joke.</i>
+3803633 3804944 CLEMENTS: <i>Second</i> Star Trek joke<br /><i>in the movie.</i>
+3804968 3808006 MUSKER: <i>Yeah, although then<br />David really elaborated on it,</i>
+3808096 3809824 <i>so it was his improv<br />that went into the whole,</i>
+3809848 3811158 <i>"You can't do anything<br />with a doctorate."</i>
+3811182 3812535 <i>"You just sit there and you're useless!"</i>
+3812559 3814596 <i>That was all David's improv.<br />It was very funny.</i>
+3814686 3815926 CLEMENTS: <i>His greatest ad lib,</i>
+3816021 3818934 <i>it was written as Doppler kind of<br />breaking down and losing it</i>
+3819024 3820981 <i>but he took it to something</i>
+3821067 3822728 <i>-that was...</i><br />-MUSKER: <i>A new level. Yeah.</i>
+3823778 3826395 It's just Jimmy<br />has this knowledge of things.
+3826489 3826632 MUSKER: <i>And this was<br />a Martin improv, with that,</i>
+3826656 3828259 MUSKER: <i>And this was<br />a Martin improv, with that,</i>
+3828283 3830177 <i>"Jim, any thoughts at all?"<br />after the big build-up.</i>
+3830201 3833865 <i>That was Martin's funny sort of<br />understated improv on that.</i>
+3834456 3836322 If we try to leave, we're dead.
+3836416 3842037 CLEMENTS: <i>And this little bit with<br />Morph, that was a Ken Harsha idea.</i>
+3842130 3844650 MUSKER: <i>The "We're dead,<br />we're dead, we're dead," is a funny...</i>
+3844716 3846673 <i>That Ken came up with.</i>
+3846760 3849343 RIPA: <i>You know what's interesting, too,<br />is kind of</i>
+3849429 3851215 <i>looking at Morph there a bit</i>
+3851306 3855265 <i>and how much he actually<br />means to the story,</i>
+3855352 3859721 <i>and scenes, and for the characters<br />to work with and play off of,</i>
+3859814 3863182 <i>and how he works<br />between Silver and Jim.</i>
+3863276 3865108 KEANE: <i>Well, to me, a villain</i>
+3865695 3868312 <i>who's really nice to his dog,<br />is no real villain.</i>
+3868406 3871615 <i>I mean, in the end,<br />there's a redeemable quality to him.</i>
+3872827 3876616 <i>The fact that Silver loves Morph<br />is a very redeeming thing.</i>
+3877624 3881959 <i>There's no character with a more pure,</i>
+3882045 3885083 <i>genuine heart in this than Morph.</i>
+3885173 3887651 RIPA: <i>Yeah, they'd always talked<br />about Morph almost like a puppy,</i>
+3887675 3888756 <i>very innocent.</i>
+3888843 3892586 <i>And they're always very watchful<br />as far as how much he understood</i>
+3892680 3895638 <i>and how much he didn't,<br />as to what the situations were.</i>
+3897143 3899622 CONLI: <i>There used to be a scene here<br />where, actually, they went out</i>
+3899646 3903230 <i>and B.E.N. had a skiff<br />called</i> The Mambo Queen
+3903316 3905353 <i>which was like the book, I mean,</i>
+3905443 3907505 <i>'cause Ben, in the book,<br />did have a boat that he built.</i>
+3907529 3909861 MUSKER: <i>Yeah,<br />he had a little raft that they used</i>
+3909948 3912531 <i>and so they went to his little flivver<br />and flew it to the ship.</i>
+3912617 3915530 <i>But then, as we shortened the movie,<br />we got rid of his</i> Mambo Queen
+3915620 3917139 <i>and we just had them<br />steal this longboat</i>
+3917163 3920872 <i>and make their way to<br />the</i> Legacy <i>to steal back the map.</i>
+3922710 3925748 <i>Andy Gaskill story-boarded this section.</i>
+3925839 3929423 <i>And originally,<br />guarding the ship was Mr. Hands</i>
+3929509 3931341 <i>so Jim had a big fight with Mr. Hands</i>
+3931428 3935217 <i>based, again, sort of on the archetypal<br />scene of the movie and the book</i>
+3935306 3939891 <i>where he had to go back to the ship<br />and deal with this guy, but...</i>
+3939978 3942891 <i>Tom Schumacher actually said,<br />"Hey, Scroop is a much scarier guy</i>"
+3942981 3945781 <i>"and he's better to have as your villain.<br />You got too many characters,"</i>
+3945859 3948271 <i>"so why don't you<br />redo this with Scroop?"</i>
+3948361 3950523 <i>-And I think that was a good idea.</i><br />-CLEMENTS: <i>Yeah.</i>
+3950613 3952149 MUSKER: <i>And we went back<br />and redid it.</i>
+3955201 3958535 <i>We used to have a thing,<br />like</i> Mission: Impossible <i>where</i>
+3958621 3961864 <i>Jim tried to disguise himself<br />by wearing a mask over his face</i>
+3961958 3963119 <i>so that he looked like...</i>
+3963209 3964415 <i>No, no, Morph was the mask.</i>
+3964502 3965958 <i>Morph was the mask.</i>
+3966045 3969379 CONLI: <i>So he disguised himself<br />as Mr. Onus, using Morph as a mask.</i>
+3969466 3971958 MUSKER: <i>Yeah, it was like<br />Tom Cruise in the movie.</i>
+3972051 3973091 CONLI: <i>Kind of a fun idea.</i>
+3973136 3974738 MUSKER: <i>Again,<br />we've got the virtual set here</i>
+3974762 3977129 <i>where we can actually track<br />and travel down through this.</i>
+3977223 3981057 <i>We have our homage<br />to Larry, Moe and Curly here.</i>
+3981144 3984227 CLEMENTS: <i>There's a</i> Three Stooges<br /><i>aspect to Morph</i>
+3984314 3986726 <i>played out quite a bit in this sequence.</i>
+3989903 3991234 (POWERS UP)
+3994908 3997741 B.E.N.: Whoops. Okay, don't panic.
+3998953 4001240 CLEMENTS: <i>The big fear<br />with this sequence is</i>
+4001331 4003789 <i>it would become too intense<br />with a Disney film.</i>
+4003875 4007743 CONLI: <i>There used to be a leaking pipe<br />where you had the hiss coming</i>
+4007837 4010044 <i>and another half dozen shots probably.</i>
+4010131 4013374 CLEMENTS: <i>We actually<br />took out a little tension.</i>
+4014427 4016338 <i>John added this bit with...</i>
+4016429 4019342 MUSKER: <i>Yeah, we had variations<br />on that. We had a boxing glove.</i>
+4019432 4020868 <i>We had a hammer<br />hitting him in the head</i>
+4020892 4022724 <i>but we went with the poke in the eyes.</i>
+4022810 4023913 CLEMENTS: <i>To break the tension.</i>
+4023937 4025080 CONLI: <i>Continuing with</i><br />The Three Stooges.
+4025104 4026560 CLEMENTS: <i>Counter the tension.</i>
+4026648 4028584 MUSKER: <i>And the idea of this whole<br />anti-gravity fight</i>
+4028608 4030085 <i>actually went back to<br />Ted and Terry's script.</i>
+4030109 4032191 <i>They concocted the idea<br />of Jim having to deal</i>
+4032278 4035270 <i>with the gravity going off<br />in the middle of this thing</i>
+4035365 4039359 <i>and B.E.N. futzing with the wires<br />and that was Ted and Terry's thing.</i>
+4039786 4041151 (GRUNTING)
+4041621 4042952 Heh, heh.
+4048336 4051065 MUSKER: <i>There was a question at<br />the end, too, how we'd dispatch Scroop</i>
+4051089 4052650 <i>and in the earlier versions,<br />these pistols,</i>
+4052674 4053817 <i>some of them were freeze guns</i>
+4053841 4055611 <i>and there was a whole sequence<br />where we showed</i>
+4055635 4058718 <i>how they worked and everything<br />and then as Scroop attacked Jim,</i>
+4058805 4060762 <i>he wound up shooting him<br />and freezing him</i>
+4060848 4063568 <i>and he broke into a million<br />little ice shards as he fell to the deck.</i>
+4063643 4066886 <i>But then we saw</i> Atlantis<br /><i>which had the villain</i>
+4066980 4069083 <i>crystallize and freeze<br />and break into a million pieces,</i>
+4069107 4070960 <i>and we're like,<br />"We can't do that. They just did that."</i>
+4070984 4072691 <i>So we had to rework it.</i>
+4072777 4074296 CLEMENTS: <i>Yeah.<br />There was also a question of</i>
+4074320 4076561 <i>whether Jim should shoot Scroop...</i>
+4076656 4077967 MUSKER: <i>And not have<br />the violence questioned.</i>
+4077991 4079468 CLEMENTS: <i>Which he did at one point.<br />He did shoot him.</i>
+4079492 4081095 MUSKER: <i>There did seem<br />to be something poetic</i>
+4081119 4083702 <i>about seeing Scroop<br />sail off into the distance</i>
+4083788 4087952 <i>à la what he did to Mr. Arrow.<br />Poetic justice sort of thing.</i>
+4088042 4089436 B.E.N.: Laser cannons disconnected,
+4089460 4091167 Captain Jimmy, sir!
+4091337 4093374 Gee, that wasn't so tough.
+4096175 4099418 GOODING: <i>The lighting in this<br />sequence was really interesting.</i>
+4099512 4105303 <i>The very strong under-light<br />coming up from that air vent.</i>
+4106102 4108434 Fine work, Jimbo.
+4108521 4111104 GOODING: <i>That was a very, very<br />difficult scene to do</i>
+4111190 4113101 <i>where Silver comes<br />out of the darkness.</i>
+4113192 4116605 <i>Just the balance of what you see<br />and what you don't see</i>
+4116696 4118528 <i>was hard to achieve.</i>
+4118615 4122108 <i>And this whole sequence<br />had to be really dark</i>
+4122201 4123566 <i>so it would be believable</i>
+4123661 4127950 <i>that Jim didn't see all these pirates<br />when he first came in,</i>
+4128041 4131124 <i>but not so dark that the audience<br />couldn't see what was going on.</i>
+4131210 4133201 You're just like me, Jimbo.
+4133880 4135496 Ya hates to lose.
+4136257 4138736 MUSKER: <i>I think Glen really wanted<br />to do more of a tour de force scene.</i>
+4138760 4142469 <i>This is actually animated by Jin Kim<br />but sort of devised by Glen, I think,</i>
+4142555 4146014 <i>where Silver really struggles<br />to make this thing open</i>
+4146100 4149468 <i>to build up his frustration with Jim<br />and to give Jim the upper hand here.</i>
+4149562 4151269 <i>The fact that he can do it effortlessly</i>
+4151356 4154815 <i>where Silver can't possibly<br />do it without Jim's help.</i>
+4155568 4158435 CLEMENTS: <i>Once again,<br />we played this at one point</i>
+4158529 4161237 <i>that Jim was completely demoralized</i>
+4161324 4165534 <i>by giving the map directly to Silver<br />after he thought he'd won.</i>
+4165620 4167577 <i>But that scene,<br />Jim seemed too passive</i>
+4167664 4171032 <i>so we kind of tried to give him<br />a little more defiance here</i>
+4171125 4173162 <i>that he's not giving up,<br />even though he has to.</i>
+4173252 4175272 CONLI: <i>We had to keep him alive<br />through the rest of the film.</i>
+4175296 4176607 MUSKER: <i>Yeah, he receded too much.</i>
+4176631 4177941 CONLI: <i>Receded<br />into his eye mask thing.</i>
+4177965 4179046 MUSKER: <i>Yeah.</i>
+4179967 4182279 KEANE: <i>These are some of<br />the most difficult scenes to animate.</i>
+4182303 4187093 <i>Chris Hubbard did a lot of<br />these scenes where Silver is in awe.</i>
+4187725 4190638 <i>And when you animate<br />a character that's in awe of something,</i>
+4190728 4193846 <i>it's the other thing<br />that's really amazing,</i>
+4193940 4197649 <i>and they're just responding to it<br />and all you have to do is</i>
+4197735 4204402 <i>a slow, gradual opening of the eyes<br />and the mouth and a fascination.</i>
+4204617 4206449 <i>And you don't have much to work with.</i>
+4206536 4208026 <i>It's very subtle.</i>
+4208121 4211159 <i>And I think he did<br />an incredible job with it.</i>
+4212709 4215918 MUSKER: <i>And Ian Gooding concocted<br />those centipede trees.</i>
+4216003 4217603 <i>They only appear really<br />in that one shot,</i>
+4217630 4220372 <i>but it was so great, we had to use it.</i>
+4220967 4223129 <i>And this sequence was<br />originally much longer</i>
+4223219 4225572 <i>and it was based, again, sort of on<br />the book and on the movie where</i>
+4225596 4227633 <i>they were going through<br />this dark, spooky place</i>
+4227724 4229284 <i>in anticipation of finding the treasure.</i>
+4229308 4231675 CLEMENTS: <i>And some complicated<br />characters got killed.</i>
+4231769 4233726 MUSKER: <i>We had killed off<br />a few people</i>
+4233813 4237101 <i>in traps that Flint had set for people<br />as they were coming and it just...</i>
+4237191 4239102 <i>We needed to get to<br />the treasure sooner</i>
+4239193 4240753 <i>so we wound up<br />tightening this sequence.</i>
+4241946 4244233 GOODING: <i>Of course,<br />we had this pulsing</i>
+4244323 4247065 <i>lime green light in the background</i>
+4247160 4249276 <i>that just keeps going<br />through the whole sequence,</i>
+4249370 4251737 <i>and that was a continuity nightmare.</i>
+4251831 4253663 <i>To try and get it just right.</i>
+4253750 4256833 <i>It also changes speed<br />which was difficult to track.</i>
+4256919 4259456 <i>So that the further along you go,<br />the faster it gets</i>
+4259547 4261584 <i>right up to the end.</i>
+4261674 4264416 KEANE: <i>It's at this point that you start</i>
+4264510 4267423 <i>relying on all the pipe work<br />that you've laid on</i>
+4267513 4269754 <i>how the characters relate<br />to each other.</i>
+4269849 4272637 <i>That you can just,<br />in a very quick moment,</i>
+4272727 4277187 <i>have a look between Jim and B.E.N.<br />that says enough.</i>
+4277273 4279935 <i>You don't have to go<br />really far and develop it</i>
+4280026 4282313 <i>'cause now we've got<br />a lot of story to tell.</i>
+4282403 4283484 RIPA: <i>Yeah.</i>
+4283571 4285174 KEANE: <i>But we've already<br />set the characters up</i>
+4285198 4287314 <i>so we can move through it quicker.</i>
+4287408 4290821 CONLI: <i>This whole area that<br />we're going into is really kind of</i>
+4290912 4293745 <i>a testament to Ron<br />in terms of his persistence</i>
+4293831 4296038 <i>on wanting to get this portal functioning</i>
+4296125 4298867 <i>and it really came out<br />to be pretty brilliant.</i>
+4298961 4301953 MUSKER: <i>Frank Nissen sort of helped<br />design this controller,</i>
+4302048 4303709 <i>that little green sphere that comes up</i>
+4303841 4307300 <i>and then gets the whole portal<br />opening here.</i>
+4307386 4311425 CLEMENTS: <i>We were able to get the<br />dimension and the size of this thing.</i>
+4311516 4314099 CONLI: <i>This is where we get<br />more into science fiction</i>
+4314185 4315300 <i>than we had before.</i>
+4315394 4320059 MUSKER: <i>Yeah, Andrey Brandi, one of<br />our Hungarian conceptual designers,</i>
+4320149 4321509 <i>concocted a whole bunch of worlds,</i>
+4321567 4323683 <i>which we see very much<br />quickly in passing here</i>
+4323778 4325109 <i>and not in Hungarian.</i>
+4325196 4331283 <i>And Dave Tidgwell actually,<br />using Bryce and other programs,</i>
+4331369 4333326 <i>concocted some of these<br />3-D environments</i>
+4333412 4334743 <i>that we see through the portal.</i>
+4334831 4336663 CONLI: <i>We used to have<br />more exposition here</i>
+4336749 4337955 <i>and actually we used to have</i>
+4338042 4341580 <i>these zaftwing, these birds that<br />actually flew out of one of the worlds.</i>
+4341671 4344003 MUSKER: <i>And interacted with<br />Jim and Morph and everything,</i>
+4344090 4346235 <i>but, again, we were trying to<br />pace it a little more briskly</i>
+4346259 4348546 <i>so it got shortened.</i>
+4348636 4352925 CONLI: <i>The key idea,<br />which we hope is clear, is that</i>
+4354892 4358601 <i>the planet is actually a machine<br />that works these portals.</i>
+4360690 4364228 CLEMENTS: <i>We took a lot of time<br />working this and trying to craft it so that</i>
+4364318 4366713 <i>-you could get a lot of exposition in...</i><br />-MUSKER: <i>Trying to rewrite...</i>
+4366737 4370321 <i>To get the least exposition you could<br />and yet get it clear.</i>
+4370408 4372524 <i>That was a real struggle.</i>
+4374996 4377203 KEANE: <i>I like it when Silver<br />starts to get frustrated.</i>
+4377290 4379518 <i>-There's this volcano inside.</i><br />-RIPA: <i>He looks good yelling.</i>
+4379542 4384378 <i>Yeah, he's like one of those<br />few people that looks good mad.</i>
+4384463 4385482 RIPA: <i>Yeah, he does.</i>
+4385506 4386506 RIPA: <i>Yeah, he does.</i>
+4389677 4393341 GOODING: <i>So, here we get the idea<br />that the planet,</i>
+4393431 4397390 <i>which was really good on the surface<br />and covered with natural green stuff,</i>
+4397476 4399467 <i>is actually quite rotten at the core.</i>
+4399562 4403146 <i>It's filled with gold,<br />which you'll see in a second.</i>
+4403900 4407313 <i>And that sort of helps to<br />carry through our idea</i>
+4407945 4410312 <i>with the green<br />and the gold storytelling.</i>
+4410448 4414157 The loot of a thousand worlds.
+4414368 4418532 <i>This big idea here actually<br />was one of mine,</i>
+4418623 4423459 <i>where the core of the planet is like<br />a huge spherical computer floating</i>
+4423544 4426411 <i>at the gravitational center of the planet.</i>
+4426505 4428746 <i>And the way it communicates</i>
+4428841 4431799 <i>with the rest of the planet<br />that works the portal</i>
+4431886 4433877 <i>is through these information beams</i>
+4433971 4437089 <i>fired by the prongs<br />and fired back by the core.</i>
+4438392 4441601 I can't remember why.
+4442688 4443688 B.E.N., come on.
+4444023 4445513 We're getting out of here...
+4445858 4449522 CLEMENTS: <i>And this area was<br />reworked some I think.</i>
+4449612 4451102 -MUSKER: <i>Some?</i><br />-(ALL LAUGHING)
+4451197 4452717 CONLI: <i>We spent a lifetime<br />on this one.</i>
+4452782 4454989 CLEMENTS: <i>The whole idea,<br />Flint's ship and Jim...</i>
+4455076 4459786 <i>I think Roy had<br />wanted to bring in that element</i>
+4459872 4461408 <i>to keep Jim more active through this.</i>
+4461499 4462660 <i>So he had a plan.</i>
+4462750 4464102 MUSKER: <i>Yeah, and in earlier versions,</i>
+4464126 4467164 <i>he didn't really try and get away<br />on the ship and all this.</i>
+4467254 4468289 <i>This really came about...</i>
+4468381 4471464 CONLI: <i>We really were starting to find<br />something for him to do at this point,</i>
+4471550 4474668 <i>-to keep active and this became...</i><br />-MUSKER: <i>Right. Right.</i>
+4474762 4476799 <i>There used to be<br />a sequence here where...</i>
+4476889 4478880 <i>I mean, B.E.N. used to have<br />more flashbacks</i>
+4478975 4481307 <i>and in flashbacks we saw<br />what happened to Captain Flint</i>
+4481394 4485308 <i>and the pirates, and a gunfight,<br />and that all went away.</i>
+4485398 4488436 CLEMENTS: <i>The original idea was that<br />B.E.N. would get his missing piece back</i>
+4488526 4490563 <i>as he's about to right now.</i>
+4490653 4491734 <i>And when he got it back,</i>
+4491821 4494313 <i>he would remember everything,<br />and basically deliver</i>
+4494407 4496364 <i>tons of exposition that would explain</i>
+4496450 4498782 <i>every aspect of the movie<br />that anyone had ever questioned.</i>
+4498869 4500829 CONLI: <i>We had just, literally,<br />tons of exposition.</i>
+4500913 4502557 MUSKER: <i>And we had a version<br />like that. He went through,</i>
+4502581 4505869 <i>"Annual rainfall 7.5 inches.<br />Planet built over a series of years."</i>
+4505960 4508452 <i>And he belted this story out,<br />as we encouraged him to do.</i>
+4508546 4509786 <i>Five minutes of exposition.</i>
+4509880 4511496 <i>"Billy Bones stole the map."</i>
+4511590 4513110 <i>"What else do you need to know?<br />Let me tell you."</i>
+4513134 4516126 <i>And it just got a little too much.</i>
+4516220 4517406 CLEMENTS: <i>But it went through how</i>
+4517430 4518490 <i>they discovered the planet.</i>
+4518514 4519616 MUSKER: <i>There were<br />explosions going on.</i>
+4519640 4521472 CLEMENTS: <i>They had stumbled<br />onto the planet</i>
+4521559 4522845 <i>and had discovered the portals</i>
+4522935 4525802 <i>and B.E.N. figured out<br />how to operate them.</i>
+4525896 4528137 <i>And then the pirates stole the map.</i>
+4528232 4529918 CONLI: <i>And all the picnics!</i><br />CLEMENTS: <i>And Billy Bones</i>
+4529942 4531774 <i>was the cabin boy and they deserted.</i>
+4531861 4533852 <i>And then Flint booby-trapped<br />the whole system</i>
+4533946 4537610 <i>so that if anyone ever returned,<br />they would find trouble.</i>
+4542079 4545367 KEANE: <i>The way these<br />little pirates move,</i>
+4545458 4550419 <i>they add such a spark<br />of action and movement and life.</i>
+4551130 4555875 <i>Without their crazy way<br />of bouncing around...</i>
+4555968 4559962 <i>They always add lightness to a scene,<br />no matter what it is.</i>
+4560056 4562969 RIPA: <i>And just even<br />the layout work and the scale</i>
+4563100 4565387 <i>of this whole area is just amazing.</i>
+4567146 4569183 <i>This is a tragic scene.</i>
+4569273 4572061 No! No! Oh, no! Oh, no!
+4572151 4575360 MUSKER: <i>Silver was<br />grabbing for all the treasure.</i>
+4575446 4579155 <i>Everything he's lived for<br />is going past him.</i>
+4583537 4586575 CONLI: <i>Now this is just<br />phenomenal effects work.</i>
+4587374 4590332 CLEMENTS: <i>Yeah, a combination<br />of 2-D/3-D. But mostly 3-D.</i>
+4595007 4597027 MUSKER: <i>That scene of Silver<br />at the end was gone for a while.</i>
+4597051 4598320 <i>We thought we didn't need it<br />and then we realized,</i>
+4598344 4600802 <i>"We better have that in there."</i>
+4602014 4605723 <i>This little sequence where Doppler<br />turns the tables on the pirates</i>
+4605810 4609678 <i>used to be longer, and we had him<br />actually doing a little gun...</i>
+4609772 4612042 <i>Demonstrating his nimbleness<br />with a gun and doing a little gunfight.</i>
+4612066 4613210 CLEMENTS: <i>This was<br />going to be Doppler's moment</i>
+4613234 4614336 <i>where he was really going to</i>
+4614360 4616442 <i>-turn into Errol Flynn.</i><br />-MUSKER: <i>Right.</i>
+4616529 4619942 <i>And we had him at the end also getting<br />more dog-like where he was barking...</i>
+4620032 4622114 <i>And sort of doing in the pirates<br />and howling.</i>
+4622201 4625114 CLEMENTS: <i>He actually did<br />the sharp-shooting thing.</i>
+4625204 4626990 <i>"You've released my inner mongrel!"</i>
+4627081 4629448 MUSKER: <i>We had a line,<br />"You have released my inner mongrel."</i>
+4629542 4631342 <i>And Amelia, herself...</i><br />(IMITATING CAT YOWLING)
+4631377 4632854 <i>-Did a little cat thing.</i><br />-CLEMENTS: <i>Oh, yeah.</i>
+4632878 4634798 MUSKER: <i>That all went away.<br />It was just too much.</i>
+4634880 4636858 CLEMENTS: <i>We shortened it<br />and you still get the idea.</i>
+4636882 4638122 <i>He basically turned the tables.</i>
+4638217 4640529 MUSKER: <i>It seemed like we were away<br />from the other action too long</i>
+4640553 4645138 <i>sort of to make it feel right, so<br />we said, "It's gotta be more concise."</i>
+4645224 4647511 <i>Yeah, Adam Dykstra did that.</i>
+4651021 4655515 <i>Emil Mitev is the layout artist who<br />designed a lot of these interiors here.</i>
+4655609 4658818 <i>Emil did a great job with just<br />the whole devolving planet here</i>
+4658904 4661316 <i>and the scale of these shots<br />owes a lot to his drawings.</i>
+4661407 4664490 CLEMENTS: <i>This was also a scene<br />we struggled and struggled over, this</i>
+4664577 4667194 <i>sort of final confrontation<br />with Silver and Jim.</i>
+4667288 4669015 MUSKER: <i>Yeah, we had it longer,<br />we had it shorter.</i>
+4669039 4671872 <i>We had it more friendly on Silver's part.<br />We had it darker and blacker.</i>
+4671959 4673495 CLEMENTS: <i>We had Jim<br />lowering the sword</i>
+4673586 4675452 <i>or Silver knocking the sword away.</i>
+4675546 4678208 MUSKER: <i>We had a million variations<br />on this and just, it was...</i>
+4678299 4680506 CLEMENTS: <i>We had<br />more father-son bits</i>
+4680593 4683210 <i>where Silver said,<br />"You're just like me, Jim."</i>
+4683304 4686262 MUSKER: <i>And Jim just said,<br />"I am nothing like you!"</i>
+4687266 4690179 <i>And, in fact, this whole sequence<br />used to take place out in the snow.</i>
+4690269 4693432 <i>In an earlier version, there was a race<br />back through the portals.</i>
+4693522 4697106 <i>And Silver and Jim actually were<br />stranded on this sort of snowy planet</i>
+4697193 4698354 <i>in the earliest versions.</i>
+4698444 4700884 CONLI: <i>'Cause the portal used to<br />take you from world to world.</i>
+4700946 4702465 MUSKER: <i>They worked<br />in a little different way</i>
+4702489 4703592 <i>and they went to a winter world.</i>
+4703616 4705510 CLEMENTS: <i>And you had to go through<br />a sort of tunnel of worlds</i>
+4705534 4706803 <i>to get to the center of the planet.</i>
+4706827 4711037 MUSKER: <i>So the earlier lines all had<br />Silver shivering, "Hang on, Jim!"</i>
+4711123 4712475 <i>And so we couldn't use<br />any of that dialogue,</i>
+4712499 4713768 <i>so we reworked it<br />into this environment,</i>
+4713792 4714998 <i>so that all got rerecorded.</i>
+4715085 4717998 CLEMENTS: <i>So now we reach<br />Silver's moment of truth.</i>
+4718631 4720567 MUSKER: <i>I mean, this was really one of<br />the archetypal moments</i>
+4720591 4723069 <i>where we were trying to find<br />a way to stage it where, basically,</i>
+4723093 4724299 <i>Silver has a choice here.</i>
+4724386 4728129 <i>He can either save this treasure<br />he's been obsessed with his entire life,</i>
+4728224 4731091 <i>or he can save Jim. He can't do both.</i>
+4731644 4732850 (SIGHS)
+4733020 4734956 <i>When we first talked to Glen Keane<br />about working on the movie,</i>
+4734980 4737517 <i>we described a scene that<br />demonstrated this idea,</i>
+4737608 4739669 <i>and that was something,<br />through the course of the film,</i>
+4739693 4741213 <i>no matter what we did,<br />we tried to hang on to,</i>
+4741237 4743194 <i>just that this was a pivotal moment.</i>
+4743280 4744880 CLEMENTS: <i>There was one point<br />we had here</i>
+4744949 4747552 <i>when Silver finally made the decision<br />to let go, he couldn't let go.</i>
+4747576 4749658 <i>The arm was sort of clasped<br />on to the treasure</i>
+4749745 4751473 <i>-and wouldn't let go.</i><br />-MUSKER: <i>That was Glen's idea. Yeah.</i>
+4751497 4753308 CLEMENTS: <i>So he had to<br />actually release his arm.</i>
+4753332 4754332 <i>His whole arm.</i>
+4754416 4755727 CONLI: <i>Pulled the pin<br />and his arm came off.</i>
+4755751 4758834 MUSKER: <i>So we had Silver, through<br />the climax of the film being one-armed</i>
+4758921 4760315 <i>and he had lost that mechanical side.</i>
+4760339 4761441 CLEMENTS: <i>Which would<br />have been simpler.</i>
+4761465 4763581 <i>It just reminded us<br />too much of Richard Kimble.</i>
+4763676 4764194 MUSKER: <i>Yeah.<br />There was a</i> Fugitive <i>aspect of it</i>
+4764218 4765654 MUSKER: <i>Yeah.<br />There was a</i> Fugitive <i>aspect of it</i>
+4765678 4768420 <i>that we weren't sure<br />that was a good thing.</i>
+4768681 4770171 Silver, you gave up?
+4770266 4773509 Just a lifelong obsession, Jim.<br />I'll get over it.
+4773602 4775639 MUSKER: <i>Now we're moving<br />into sort of this</i>
+4776272 4779105 <i>action-adventure chock-full<br />of 3-D effects</i>
+4779191 4783776 <i>and just very dense<br />and, again, got heavily reworked.</i>
+4783862 4785853 <i>We had things in<br />at one point where Jim</i>
+4785948 4788531 <i>remained on the ship<br />and piloted them to safety.</i>
+4788617 4790199 <i>He became the captain of the ship.</i>
+4790286 4792126 CLEMENTS: <i>It was always Jim's<br />sort of sequence.</i>
+4792246 4794453 MUSKER: <i>It was.</i><br />CLEMENTS: <i>And his chance to really</i>
+4794540 4795951 <i>show what he could do.</i>
+4796041 4797827 MUSKER: <i>Right,<br />but what he was demonstrating</i>
+4797918 4799678 <i>went through<br />at least 10 different variations</i>
+4799712 4801419 <i>before we arrived at this one.</i>
+4801505 4803792 CLEMENTS: <i>Which ended up bringing<br />the solar surfer back</i>
+4803882 4806544 <i>which seems fitting.</i>
+4806635 4808395 MUSKER: <i>Yeah,<br />we sort of concocted this thing</i>
+4808429 4810170 <i>so Jim would actually be surfing</i>
+4810264 4811880 <i>and we had to sort of make it plausible.</i>
+4811974 4814716 <i>And I think John Ripa felt, "it should<br />have some form of propulsion."</i>
+4814810 4817677 <i>And at one point he was just<br />riding a piece of sheet metal</i>
+4817771 4818811 <i>down to what was going on.</i>
+4818897 4820792 <i>-Just kind of riding the waves.</i><br />-CLEMENTS: <i>With a solar sail.</i>
+4820816 4822932 MUSKER: <i>With a sail,<br />but that seemed too contrived</i>
+4823027 4826816 <i>and the idea came up, use the cannon<br />as a form of propulsion for this thing.</i>
+4826905 4828646 <i>And I think we reworked it to...</i>
+4828741 4830152 <i>And then I think Glen had the idea,</i>
+4830242 4832483 <i>it can have a certain amount of<br />canisters of energy</i>
+4832578 4835070 <i>so there's sort of<br />a ticking clock that way.</i>
+4838083 4840324 CLEMENTS: <i>I don't know<br />if everyone gets it</i>
+4840419 4844162 <i>but basically this cannon<br />has these three canisters</i>
+4844256 4848716 <i>and Jim uses them all up<br />in his course to try to save the day.</i>
+4848802 4852261 CONLI: <i>Yeah, the propulsion device is<br />basically like a chamber for a pistol.</i>
+4854266 4857179 <i>The little canisters go in<br />and shoot off the power.</i>
+4857269 4860102 CLEMENTS: <i>It's where you get into<br />what has been referred to at Disney</i>
+4860189 4862726 <i>as the "plausible impossible."</i>
+4865694 4866900 There you go.
+4867613 4868728 There you go.
+4870282 4872023 Okay. Now, no matter what happens...
+4872117 4873261 MUSKER: <i>They used<br />to have a little more</i>
+4873285 4874637 <i>dialogue between them as they left</i>
+4874661 4876948 <i>"where they sort of said goodbye<br />or, "if I never come back</i>
+4877039 4879184 <i>"tell my mother I love her."<br />I mean, practically like that.</i>
+4879208 4880869 <i>And it seemed too much at this moment</i>
+4880959 4883291 <i>so we went with<br />the more understated...</i>
+4883379 4884899 CLEMENTS:<br /><i>There was the first canister.</i>
+4884963 4885998 <i>So there's only two left.</i>
+4886799 4890008 Get this blasted heap turned 'round!
+4891428 4893840 GOODING: <i>This shot you actually<br />see the ship tacking</i>
+4893931 4895547 <i>as a real sailing ship might,</i>
+4895641 4899430 <i>where the sails transfer<br />from one side of the ship to the other.</i>
+4899520 4903434 <i>That was animated by Ian Coony.<br />A nice little touch that he added.</i>
+4903524 4906733 RIPA: <i>These scenes coming up<br />with Jim on the surfer,</i>
+4906819 4910232 <i>again, went to Jin Kim,<br />just because of how well</i>
+4910322 4911904 <i>he was able to do these scenes,</i>
+4911990 4913901 <i>and how much he was<br />able to put into them.</i>
+4913992 4916029 <i>I mean, they're so difficult as it is</i>
+4916120 4919329 <i>that you can get lost in<br />trying to figure out how to do them.</i>
+4919415 4922328 <i>That he was able to do them<br />and focus on the performance,</i>
+4922418 4924018 <i>which is one of the hardest things to do</i>
+4924086 4925855 <i>when you have something<br />that's very technical.</i>
+4925879 4928792 <i>And he just was<br />the right person for that.</i>
+4928882 4932045 <i>There were also scenes... Bobby Rubio<br />had done a couple of scenes in there.</i>
+4932136 4933297 <i>Really nice match.</i>
+4933387 4935503 <i>And John Pomeroy has some<br />scenes coming up</i>
+4935597 4940262 <i>that really, I think, match the intensity<br />that Jin was able to get into his work.</i>
+4940352 4942580 MUSKER: <i>And this was our attempt<br />to get the slight James Bond thing.</i>
+4942604 4943832 <i>This came up fairly late<br />in the thing, too.</i>
+4943856 4947099 <i>We wanted to give Jim a way<br />of sort of cleverly coming up with</i>
+4947192 4950401 <i>some way of saving the day<br />and restarting his engine,</i>
+4950487 4953275 <i>so we came up with this thing<br />of him grinding the dead engine</i>
+4953365 4956448 <i>against this metal wall<br />and the sparks reigniting it</i>
+4956535 4958096 <i>and that was our attempt<br />to do a little reversal</i>
+4958120 4961704 <i>at the end of this thing<br />as we head toward the finish line.</i>
+4961915 4964122 DOPPLER: Three, two...
+4965544 4967021 CLEMENTS: <i>And if anyone<br />was keeping track</i>
+4967045 4968189 <i>as far as B.E.N.'s countdown,</i>
+4968213 4970705 <i>if that was all accurate, it's not.</i>
+4973051 4975613 MUSKER: <i>This was one of the most<br />complicated shots we did in this ending.</i>
+4975637 4978032 <i>This turnaround of the ship.<br />Trying to make the sky work behind it</i>
+4978056 4980297 <i>because it was 2-D, it was 3-D.</i>
+4980392 4982804 <i>I don't even know what it is now,<br />but it was complicated.</i>
+4984730 4986061 (CHEERING)
+4989067 4991650 <i>Amelia and Doppler used to<br />have a longer thing between them</i>
+4991737 4994457 <i>where she sort of talked to him<br />about becoming first mate on the ship</i>
+4994490 4995675 <i>and it was a great scene<br />between them.</i>
+4995699 4998737 <i>But it seemed like it may have pulled<br />away from Jim a little bit too much</i>
+4998827 5000693 <i>so we simplified that.</i>
+5000996 5003738 AMELIA: I'd be proud to recommend you<br />to the interstellar academy.
+5003832 5005618 CLEMENTS: <i>The proud father.</i>
+5006418 5008785 Just wait until your mother<br />hears about this!
+5009421 5011191 Of course, we may downplay<br />the life-threatening parts.
+5011215 5013172 MUSKER: <i>Again with Martin's<br />goodbye here,</i>
+5013258 5015169 <i>or his congratulatory thing here,</i>
+5015260 5016779 <i>we had longer versions,<br />we had shorter versions,</i>
+5016803 5019282 <i>I think we were much shorter,<br />but we wound up reinstating stuff</i>
+5019306 5022674 <i>'cause Martin just did some funny stuff<br />with this crying bit at the end.</i>
+5022768 5025635 <i>It just seemed kind of<br />comic that we liked.</i>
+5025729 5028687 CLEMENTS: <i>And if people notice,<br />his eyes are now blue.</i>
+5028774 5033689 <i>When he got his memory chip,<br />it turned his eyes from green to blue.</i>
+5033779 5035590 CONLI: <i>I thought you were going to<br />talk about the eye mask.</i>
+5035614 5037091 CLEMENTS: <i>Yeah,<br />I was going to get to it.</i>
+5037115 5037383 <i>And Jim's eye mask is gone for good.</i>
+5037407 5040195 <i>And Jim's eye mask is gone for good.</i>
+5040285 5042117 <i>It's gone for good.</i>
+5042621 5044487 JIM: You never quit, do you?
+5045207 5048199 MUSKER: <i>And for us, this scene,<br />in this interior,</i>
+5048293 5050705 <i>despite all the changes in the story,</i>
+5050796 5053834 <i>most of this stayed relatively<br />as it was just in that</i>
+5053924 5058509 <i>we wanted to get this sort of<br />moment where Jim lets Silver go,</i>
+5058595 5062259 <i>and also, though, that Silver<br />beckons Jim to come with him</i>
+5062349 5064215 <i>and Jim having found his newfound<br />maturity,</i>
+5064309 5068177 <i>he really says, "No, I think<br />I got a future back home."</i>
+5068814 5072899 <i>And it's, again, sort of a tent-pole<br />for us in the movie anyway.</i>
+5076071 5080281 KEANE: <i>There's an emotional chord<br />that you know you have to hit</i>
+5080367 5081698 <i>in these scenes.</i>
+5081785 5085153 <i>And Morph plays such<br />an important moment in this,</i>
+5085831 5089415 <i>because Morph has always<br />represented that inseparable</i>
+5089501 5091458 <i>element to Silver.</i>
+5093547 5095834 <i>And when he's given this choice</i>
+5098218 5103088 <i>of hanging on to Morph<br />or giving Morph to Jim,</i>
+5103181 5106799 <i>it's such a real gift.</i>
+5106893 5110181 RIPA: <i>Yeah, it's really heartfelt<br />because by this time,</i>
+5110272 5113390 <i>you know how much<br />Morph means to Silver.</i>
+5113525 5116017 I would've taken you up<br />on that offer in a second,
+5117279 5120567 but I met this old cyborg...
+5121992 5124450 MUSKER: <i>And this shot was added<br />late in the game of Silver</i>
+5124536 5126903 <i>because we felt that<br />we were on Jim so long</i>
+5126997 5128766 <i>and it's really the relationship<br />between the two of them,</i>
+5128790 5130310 <i>so we cut away from Jim<br />during part of it</i>
+5130334 5131519 <i>to feature Silver just as he said,</i>
+5131543 5132895 <i>"I met this guy<br />who kind of changed my life."</i>
+5132919 5136332 <i>It just seemed more emotional<br />to be on Silver for that line.</i>
+5136423 5138460 <i>And this line, where he says,</i>
+5138550 5141668 <i>"I have a future,"<br />he used to say, "Greatness,"</i>
+5141762 5144282 <i>alluding back to where he said,<br />"You have the makings of greatness,"</i>
+5144306 5146297 <i>but it seemed a little bit comic</i>
+5146391 5148202 <i>and it was a question,<br />"Does it seem too swell-headed?"</i>
+5148226 5149704 <i>-And the future...</i><br />-CONLI: <i>Perhaps glib.</i>
+5149728 5152561 MUSKER: <i>Glib, and "future" tied into<br />his earlier line where he says,</i>
+5152648 5155140 <i>"Yeah, what future?" and it just<br />seemed to round out the thing.</i>
+5155233 5158351 CLEMENTS: <i>Beautiful music here by<br />James Newton Howard.</i>
+5158445 5161233 MUSKER: <i>Yeah, the theme between<br />Jim and Silver that he stated earlier</i>
+5161323 5162550 <i>really sort of comes back around here</i>
+5162574 5166863 <i>and he added these violin overdubs,<br />the just really sweet, tender thing.</i>
+5166953 5169035 <i>Again, this was Barry Johnson's idea<br />to sort of have</i>
+5169122 5171329 <i>Morph dissolve into<br />a puddle of tears here.</i>
+5171416 5173407 <i>But it was Tom Schumacher<br />who encouraged us,</i>
+5173502 5177120 <i>toward the end of the film, to say,<br />"I think Jim should...</i>"
+5177214 5180752 <i>"Or Silver should actually<br />give Morph to Jim as a gift."</i>
+5180842 5181882 <i>And that was controversial</i>
+5181927 5183863 <i>'cause it was a question,<br />can you give a pet away?</i>
+5183887 5185031 CLEMENTS: <i>The pet owners in the...</i>
+5185055 5186658 CONLI: <i>Me, being a dog person,<br />I seriously questioned it</i>
+5186682 5188701 <i>because I couldn't imagine<br />giving my dog to somebody.</i>
+5188725 5189869 MUSKER: <i>Right,<br />but me not being a dog person,</i>
+5189893 5191204 <i>I just thought it would<br />really be emotional</i>
+5191228 5192455 <i>that the thing Silver cared about most,</i>
+5192479 5194641 <i>he actually found it<br />in the grace of his heart</i>
+5194731 5197598 <i>to bestow it and it became<br />more powerful on Silver's part.</i>
+5197693 5199253 <i>And I think Glen,<br />even though he is a dog owner,</i>
+5199277 5202235 <i>said, "Hey, I can see that."<br />So we reworked this ending.</i>
+5202322 5204233 CLEMENTS: <i>What made it work<br />was Silver realizing</i>
+5204324 5207191 <i>that Morph would actually<br />be happier with Jim.</i>
+5207285 5208775 <i>So then he gives him the order.</i>
+5209788 5211779 This is for your dear mother,
+5211873 5213989 to rebuild that inn of hers.
+5217796 5220288 Stay out of trouble, ya old scalawag.
+5221800 5225043 MUSKER: <i>Neil Eskuri was our<br />artistic coordinator and he really helped</i>
+5225137 5229847 <i>the massive job of trying to relate<br />all the different parts of the puzzle</i>
+5229933 5234518 <i>between effects and color models<br />and layout,</i>
+5234604 5237687 <i>and really trying to make the process<br />as efficient and as rich as possible</i>
+5237774 5239685 <i>on the screen<br />and here at the end of the film</i>
+5239776 5240086 <i>as we go back to the space port,<br />he peopled that.</i>
+5240110 5242397 <i>As we go back to the space port,<br />he peopled that.</i>
+5242487 5244569 <i>I think it's the most complicated<br />exposure sheet.</i>
+5244656 5246676 <i>The exposure sheets<br />are the roadmap of these scenes,</i>
+5246700 5248111 <i>and I think this one</i>
+5248201 5250408 <i>took two weeks<br />just to assemble the sheet</i>
+5250495 5253157 <i>and there's just a kajillion<br />characters in there.</i>
+5253248 5256240 <i>It really has a rich feeling of<br />a dense, thriving metropolis.</i>
+5256334 5260919 <i>Thanks, Neil,<br />for expanding that universe out there.</i>
+5261006 5264089 CLEMENTS: <i>Yeah. Really<br />had a very complex job</i>
+5264176 5266133 <i>on this movie, and did a great job.</i>
+5266219 5268586 CONLI: <i>He came to us from</i> Dinosaur.
+5268680 5272264 <i>So he had this rich background in 3-D<br />and we were using so much 3-D</i>
+5272350 5275092 <i>in terms of the virtual sets<br />and deep canvas stuff,</i>
+5275187 5277599 <i>that he became a real<br />instrumental part in terms of</i>
+5277689 5279680 <i>making sure that<br />everything was unified</i>
+5279775 5281357 <i>between the 2 and 3-D world.</i>
+5285947 5288867 RIPA: <i>These scenes with Jim, with<br />the first time he came through the door,</i>
+5288909 5291776 <i>and with the cops and stuff,<br />just showing how much he's changed</i>
+5291870 5295738 <i>and that's really what they're there for,<br />even in terms of color.</i>
+5295874 5298662 <i>His uniform color in contrast to<br />how he was dressed in the beginning</i>
+5298752 5301710 <i>with the black T-shirt<br />and the charcoal jacket</i>
+5301797 5305586 <i>and trying to hide,<br />he's got this light, white kind of...</i>
+5306468 5308630 <i>Opposite of what he was<br />in the beginning.</i>
+5308720 5312679 KEANE: <i>He had to go through the<br />experience to get to where he's at now.</i>
+5312766 5315098 <i>He had to have met Silver.</i>
+5315185 5319679 <i>He had to have a father<br />to help him mature.</i>
+5319773 5322606 RIPA: <i>Yeah.<br />He had to get over that loss.</i>
+5324736 5328821 MUSKER: <i>And note how amazingly<br />in sync all this clapping is.</i>
+5328907 5330864 CLEMENTS: <i>People think stuff<br />like that's easy.</i>
+5330951 5332282 <i>And it really was.</i>
+5333411 5334697 <i>Not!</i>
+5341837 5344829 KEANE: <i>So,<br />seeing Silver in the clouds here,</i>
+5344923 5348416 <i>it's an image that you know<br />that is always gonna be with Jim.</i>
+5348510 5351423 <i>That Silver's always<br />going to be watching over his shoulder.</i>
+5351513 5357259 <i>And it says something really strong<br />to families,</i>
+5357352 5362097 <i>to all of us who are growing up,<br />who want to reach your dreams,</i>
+5362232 5367693 <i>and to see a young man who kind of<br />had the cards stacked against him,</i>
+5367779 5371522 <i>and the most unlikely person possible</i>
+5371616 5375359 <i>was the key to unlocking his potential.</i>
+5375453 5377114 <i>And it's just a great message.</i>
+5377205 5381699 <i>I feel like our films here<br />should have something to say.</i>
+5381793 5385787 <i>And this is a story<br />that was borrowed from</i>
+5385881 5389044 <i>Robert Louis Stevenson<br />hundreds of years ago,</i>
+5389134 5394470 <i>and adapted to our time<br />through Ron and John's vision.</i>
+5394556 5399892 <i>And it's just really satisfying<br />to see it actually up on the screen,</i>
+5399978 5403596 <i>and for this generation<br />with a new message to it,</i>
+5403690 5407183 <i>but a message that<br />was started a long time ago.</i>
+5407819 5411278 RIPA: <i>Even having gone through it<br />and seen it like this and talked about it,</i>
+5411364 5415403 <i>it just reminds you<br />of what a great opportunity</i>
+5415493 5418326 <i>and incredible experience it was<br />doing a film like this.</i>
+5418413 5423749 <i>And really feeling like<br />everybody worked very hard</i>
+5423835 5426827 <i>and tried to do something<br />that they believed in</i>
+5426963 5430376 <i>and hopefully, as an audience,<br />everybody enjoys it.</i>
+5431301 5432416 CONLI: <i>Four years.</i>
+5432510 5435593 CLEMENTS: <i>Four years?<br />Seventeen years!</i>
+5436640 5439428 CONLI: <i>I was very lucky because<br />I got pulled in</i>
+5439517 5441099 <i>in the last four and a half years.</i>
+5441186 5443553 <i>Whereas you guys have been really<br />looking at this thing...</i>
+5443647 5445729 <i>I mean, Ron,<br />you should talk about this.</i>
+5445815 5450901 <i>The fact that you pitched this in 1985<br />is a phenomenal...</i>
+5450987 5452465 MUSKER: <i>Same meeting<br />with</i> Little Mermaid.
+5452489 5455151 CLEMENTS: <i>Yes,<br />I originally pitched this at</i>
+5455241 5456777 <i>what they called a gong show,</i>
+5456868 5460782 <i>which was sort of a meeting, actually,<br />with Michael Eisner</i>
+5460872 5463113 <i>when we gathered a group of people</i>
+5463208 5466792 <i>and pitched</i> The Little Mermaid<br /><i>and I pitched this.</i>
+5466878 5469916 <i>Originally, they were both gonged,<br />although</i> The Little Mermaid
+5470006 5471997 <i>actually got going pretty quickly</i>
+5472092 5475255 <i>and this has been<br />on the back burner for a long time</i>
+5475387 5476673 <i>so it's nice to finally see it.</i>
+5476763 5480222 CONLI: <i>A great lesson in<br />persistence on this one.</i>
+5480350 5482091 <i>But it's truly, for me,</i>
+5482185 5485473 <i>it is a piece of literature that I loved<br />ever since I was a kid.</i>
+5485563 5487520 <i>It was kind of the book<br />that got me into reading</i>
+5487607 5489974 <i>and so the opportunity to work on it</i>
+5490068 5493561 <i>and the vision that I was able<br />to share with these guys,</i>
+5493655 5497444 <i>it was... These guys are brilliant.<br />It's been an amazing team.</i>
+5497534 5502153 CLEMENTS: <i>It's been just<br />an incredible group of people.</i>
+5502247 5503557 MUSKER: <i>In terms of the technology,</i>
+5503581 5505322 <i>had this movie gotten going<br />17 years ago</i>
+5505417 5506578 <i>when it was proposed,</i>
+5506668 5509330 <i>both the people that worked on it,<br />and the technology that we used</i>
+5509421 5511082 <i>were not necessarily available then,</i>
+5511172 5513334 <i>so it's been to the movie's<br />good fortune, I would say,</i>
+5513425 5515416 <i>that it's taken this long<br />to get off the ground.</i>
+5515510 5518230 CONLI: <i>Had we started five years<br />earlier, we couldn't have got there.</i>
+5518263 5520174 <i>Had we started 17 years ago,</i>
+5520265 5522506 <i>we couldn't have dreamt of<br />where we would end up.</i>
+5522600 5525683 CLEMENTS: <i>And the intention was<br />even like, when we were...</i>
+5525770 5529263 <i>I mean, John and I have been working<br />on this for a long period of time.</i>
+5529357 5531724 <i>Even between</i><br />Little Mermaid <i>and</i> Aladdin,
+5531818 5532920 <i>we worked on it a little bit.</i>
+5532944 5536062 <i>Between</i> Aladdin <i>and</i> Hercules<br /><i>we worked on it a little bit.</i>
+5536156 5539740 <i>And even then, we conceived it<br />as a big action-adventure movie</i>
+5539826 5543820 <i>and really wanted to get that<br />kind of action-adventure</i>
+5543913 5545403 <i>cinematics into it,</i>
+5545498 5549457 <i>and had no idea<br />how that would be possible,</i>
+5549544 5554038 <i>and it turned out that by the time<br />we were actually able to do the film,</i>
+5554132 5557375 <i>technology had developed<br />that actually made it possible,</i>
+5557469 5560632 <i>but even then, a lot of stuff was<br />developed in the course of the movie</i>
+5560722 5563214 <i>that didn't exist when we began.</i>
+5563308 5566892 CONLI: <i>And that's a testament to<br />the team, 'cause the team was really...</i>
+5566978 5570562 <i>Everyone embraced this film,<br />everyone embraced the story,</i>
+5570648 5572810 <i>and everyone embraced<br />the technology that was there.</i>
+5572901 5574712 MUSKER: <i>And took it into these<br />uncharted territories,</i>
+5574736 5577398 <i>technologically speaking<br />and artistically speaking,</i>
+5577489 5583235 <i>in terms of character design,<br />acting choices, virtual sets, 3-D, 2-D,</i>
+5584120 5585556 <i>you name it, all the way down the line,</i>
+5585580 5588322 <i>we were doing things<br />we hadn't really done before.</i>
+5588416 5592330 <i>And, yeah, it was a testament<br />to the team that they really...</i>
+5592420 5596880 CLEMENTS: <i>We decided to go for this<br />kind of classical look to the movie</i>
+5596966 5601335 <i>and a very sort of dimensional,<br />classical look to the characters,</i>
+5602180 5605218 <i>which really put a big emphasis,<br />not only on</i>
+5605308 5610098 <i>that you needed superb acting,<br />but draftsmanship was so important.</i>
+5610188 5613556 <i>And we had just such amazing<br />animators on this film</i>
+5613650 5617985 <i>who were not only terrific actors,<br />wonderful actors,</i>
+5618071 5620483 <i>but could draw so beautifully</i>
+5620573 5625784 <i>and the quality of draftsmanship,<br />I think, is a little bit unprecedented.</i>
+5625870 5628453 CONLI: <i>I think a nod also goes<br />to the performers themselves.</i>
+5628540 5630622 <i>Because I think,<br />from an acting standpoint,</i>
+5630708 5633575 <i>there are incredible performances<br />in this thing.</i>
+5633670 5637163 <i>I think it's one of the best<br />vocal performances</i>
+5637257 5638793 <i>I've seen in an animated film.</i>
+5638883 5640999 CLEMENTS: <i>By the way,</i><br />Treasure Planet <i>was a</i>
+5641094 5643756 <i>controversial title for this movie.</i>
+5643847 5646555 <i>There were many other<br />titles considered,</i>
+5646641 5648632 <i>I think, for various reasons,</i>
+5648726 5651844 <i>but</i> Treasure Planet<br /><i>seemed to be the title that stuck.</i>
+5651938 5654976 <i>It was the title we always wanted to<br />go with because this really is</i>
+5655066 5657182 <i>Robert Louis Stevenson's</i><br />Treasure Island
+5657277 5661271 <i>told in an outer space setting<br />and that title seemed to</i>
+5661364 5664823 <i>express that probably<br />better than any other title.</i>
+5664909 5667992 <i>If you don't know that<br />it's Robert Louis Stevenson's</i>
+5668079 5670446 <i>story translated into science fiction,</i>
+5670540 5673407 <i>maybe the title doesn't have<br />the same meaning, I don't know.</i>
+5674377 5677085 <i>I guess that sums it up.</i>
+5677755 5679120 CONLI: <i>Hope you loved the film.</i>
+5679215 5681152 CLEMENTS: <i>Hope this provided<br />a little bit of insight</i>
+5681176 5685340 <i>into what it's like to put<br />one of these things together.</i>
+5685430 5686740 MUSKER: <i>And you children out there,</i>
+5686764 5690382 <i>don't do this at home<br />because it's very dangerous.</i>
+5690476 5693059 RIPA: <i>So, I guess, thanks for joining us.</i>
+5693897 5695857 KEANE: <i>Stop in,<br />visit John some day at the studio.</i>
+5695940 5697647 RIPA: <i>Sure, stop on by.</i>
+5700069 5702185 <i>Thanks for listening.</i>
+5702280 5704817 GOODING: <i>Thanks for listening.<br />I hope you enjoyed the film</i>
+5704908 5708446 <i>and I hope I didn't<br />put anyone to sleep out there.</i>
+5708536 5709822 CONLI: <i>And read the book.</i>
+5709913 5711682 MUSKER: <i>Read the book, yes.</i><br />CONLI: <i>Go read the book, kids.</i>
+5711706 5713559 MUSKER: <i>If you come away<br />with anything, just read the book.</i>
+5713583 5716312 CONLI: <i>Just remember, if it wasn't<br />for the book, this wouldn't be here.</i>
+5716336 5718998 CLEMENTS: <i>Remember,<br />it all started with a book.</i>

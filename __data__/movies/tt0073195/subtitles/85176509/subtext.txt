@@ -1,0 +1,1766 @@
+11612 13558 Marker.
+13664 15928 <i>Stand by. Background action.<br />Yeah.</i>
+15999 17091 <i>Action.</i>
+17184 18367 <i>Action!</i>
+20821 22289 Okay, hang on.
+24408 26035 <i>The shark is networking.</i>
+29196 31995 <i>We're having a little<br />problem with the shark here.</i>
+32099 33191 Bob, we need you.
+33734 35828 <i>The shark is not working.</i>
+35936 37415 <i>Roy?</i>
+37487 38682 <i>Has anybody seen Roy?</i>
+38755 41952 <i>The shark is not working.<br />Repeat, the shark is not working.</i>
+47164 48848 <i>Can't get it to work at all.</i>
+50334 51642 <i>AH right, let's try this again.</i>
+51752 53436 <i>Okay, rolling.<br />Action!</i>
+62296 64606 <i>The shark is working again.</i>
+67618 70610 <i>Joe here, the boat is sinking.</i>
+72773 74548 <i>Three decades after the release</i>
+74625 78141 <i>of what many consider to be<br />the original summer blockbuster,</i>
+78245 81943 <i>stories of the hardships<br />experienced during the filming of Jaws</i>
+82049 84484 <i>are the stuff of Hollywood legend.</i>
+84585 88635 It filled me up with stories that<br />I could dine out on for 35 years.
+88722 93592 <i>If I wanted to, I could just hold<br />back any but the stories from Jaws.</i>
+94628 97677 <i>Through accounts<br />like Carl Gottlieb's The Jaws Log</i>
+97748 101798 <i>and numerous television<br />documentaries, multitudes of movie buffs</i>
+101902 106339 <i>are familiar with those famous<br />tales of the shark not working.</i>
+108392 111874 We were all groping in the<br />dark for a way to tell the story,
+111979 114914 <i>because the shark wasn't<br />working. It kept breaking down.</i>
+115015 119179 <i>It is as if God created the devil</i>
+119286 121721 <i>and gave him jaws.</i>
+126310 130258 <i>Jaws, one of<br />Hollywood's little movies that couldn't,</i>
+130364 133777 <i>emerged as a record-shattering<br />box office juggernaut,</i>
+134034 135798 <i>then an Oscar contender.</i>
+135886 139880 <i>And today, stands as a<br />critically-acclaimed enduring classic</i>
+139956 144325 <i>that after all this time shows<br />no sign of losing its bite.</i>
+144411 149429 What we are dealing with here is a<br />perfect engine, an eating machine.
+150534 153913 Michael, did you hear your<br />father? Out of the water now!
+154021 156820 <i>Opening the beaches on the Fourth<br />of July is like ringing the dinner bell.</i>
+156907 159171 This shark, swallow you whole.
+161228 163742 My heart was beating so fast.
+163814 166761 I didn't know, as an adult, I<br />could get that soared anymore.
+166867 170565 <i>One thing, it's a real thing,<br />not a monster from outer space.</i>
+170671 172651 <i>Sharks are</i> real.
+172723 176182 <i>The film sparked a<br />pop cultural obsession with sharks</i>
+176259 179342 <i>and heightened public<br />awareness of real life shark attacks.</i>
+180931 184947 <i>And though numerous copycat<br />pictures have come and gone,</i>
+185052 189046 <i>Jaws still remains that<br />singular cinematic experience</i>
+189156 191898 <i>that keeps bathers close to the shore.</i>
+194728 198107 The movie itself is what<br />first put the terror into me.
+198181 200843 Every time you felt a bit<br />of seaweed brush your foot,
+200917 202476 <i>you would have been thinking about it.</i>
+202552 207467 I still get a little nervous in water,<br />being like, "Is there a shark in here?"
+208842 212540 <i>Not only did it impact<br />the way movies are made and marketed,</i>
+212646 216549 <i>but it maintains a legacy<br />kept alive by legions of fans,</i>
+216650 219699 <i>artists and even successful filmmakers,</i>
+219770 223866 <i>who cite this picture<br />as a defining life experience,</i>
+223940 225874 <i>helping to make them who they are today.</i>
+225942 229708 Anyone who's around my age,<br />who is in this movie business,
+229780 231896 always cites Jaws as the first movie
+231982 234098 <i>that made them want to get into movies.</i>
+235952 238717 <i>It's therefore no<br />wonder that after 30 years,</i>
+238789 241520 <i>the shark is indeed still working.</i>
+261428 264841 <i>When I was writing Jaws,<br />I knew that it could not be a success.</i>
+264915 266497 <i>It couldn't be a success as a novel</i>
+266600 269444 <i>because, first of all, it's a first<br />novel and nobody reads first novels.</i>
+269536 273586 It was a first novel about a fish,<br />so give me a break, who cares?
+273657 275489 I knew they couldn't make a movie about it
+275559 277857 because the technology<br />was nowhere near good enough
+277928 281455 to make a great white shark, and I<br />knew you couldn't catch and train one.
+281548 285314 <i>So I had no sense that this<br />was going to be a success</i>
+285402 289202 beyond just being published, until<br />the movie had been open for a while
+289272 292207 and the paperback was<br />selling millions of copies.
+292275 294721 And even then, who would've guessed
+294828 298310 that down the road it would<br />have had any currency?
+298415 299826 I wouldn't have.
+301001 303845 <i>Making</i> Jaws,<br /><i>still looking back 30 years ago,</i>
+303937 305701 <i>was the toughest film making production</i>
+305806 307490 <i>experience I've ever encountered.</i>
+307574 311488 Nothing's ever come close<br />to the production difficulties
+311578 314639 of shooting an actual<br />special effects movie,
+314748 317592 not a digital effects movie,<br />that was many, many years later,
+317667 319544 but a mechanical effects movie,
+319653 321917 <i>not in a tank somewhere in Malta</i>
+322022 324241 <i>or some safe tank somewhere in Florida,</i>
+324307 326503 <i>but in the actual Atlantic Ocean.</i>
+326593 329392 <i>We must've been complete idiots</i>
+329496 332238 <i>to have even expected to have an easy ride</i>
+332315 334500 <i>in the middle of the ocean making a movie.</i>
+334601 335864 The in gathering
+336720 340133 of all the mystical tribes
+340240 344939 and shamans and crazy<br />experts that floated in
+345045 348356 <i>under the banner of Universal<br />to make this movie</i>
+348431 352777 <i>had overlooked that it was the first<br />film ever really shot on the ocean.</i>
+353703 355728 They hadn't really known that before.
+355856 358473 <i>The approach that Spielberg had then,</i>
+358542 359907 <i>remember that he was fresh then,</i>
+359993 361791 <i>he was new and young,</i>
+361895 365160 <i>and he insisted that this<br />movie be shot on the ocean,</i>
+365265 369213 and that alone was an innovation,
+369286 370765 because Universal at the time
+370871 374648 would normally have gone to<br />a back lake and shot on the lot,
+374724 376089 and he wouldn't let them.
+376192 381505 We all gained a tremendous<br />respect for the sea, for nature,
+381615 385495 for currents and tides, for waves,
+385569 389403 <i>for rain and sun and overexposure to both.</i>
+390106 393656 <i>We started shooting on the first of May,</i>
+393743 396735 <i>and we were supposed<br />to shoot until June 28th.</i>
+398782 402025 If you're really quiet, you<br />could hear someone laughing.
+402786 405096 <i>The movie<br />went on for</i> a <i>total of seven months,</i>
+405205 406934 <i>something like that, almost</i> a year.
+407040 409418 If you figured when<br />the first crew got there
+409492 411176 and the first special effects people,
+411278 415055 then the actors came and then<br />it just went on and on and on.
+415131 418078 <i>And we thought we were gonna<br />be there for the rest of our lives.</i>
+418168 421433 It's not the time it takes to<br />take the take that takes the time,
+421504 423336 it's the time it takes between the takes
+423406 425135 that takes the time that takes the take.
+425609 428226 If you see, conditions<br />have been so impossible
+428328 431093 that it's really hurt our schedule and
+431181 435015 <i>put a general somber note<br />behind the scenes</i>
+435085 438180 on the production, 'cause we've<br />been here 105 shooting days
+438254 441337 and we were only scheduled<br />for something like 65 or 70.
+442425 444143 <i>And they started the shoot</i>
+444244 447339 without a cast, without a<br />script and without a shark.
+448248 451730 <i>And that was after May 1st.</i>
+452168 454682 <i>And we're going and we're shooting.</i>
+454788 458167 <i>What are we shooting? I<br />don't know, what are we doing?</i>
+460910 463151 I know because he'll be so energetic,
+463263 464263 and he'll be screaming and yelling,
+464364 466480 "It's a great white, it's a<br />great white. I knew it all along."
+466549 467549 And it's only…
+467634 469261 <i>It's hard to imagine a world</i>
+469369 472862 <i>where Steven Spielberg<br />isn't a household name.</i>
+472973 477126 <i>But in 1974, it was viewed<br />by some as a roll of the dice</i>
+477193 480242 <i>to put the weight of such a<br />mammoth project on the shoulders</i>
+480347 482873 <i>of a 27-year-old relative newcomer.</i>
+482983 485509 <i>A director, who had<br />only just completed work</i>
+485602 487661 <i>on his first theatrical release,</i>
+487754 489404 The Sugar land Express.
+489556 493186 <i>I remember a reporter one time asking me,</i>
+493293 498163 "Mr. Zanuck, are you trying to<br />enhance this young director's career?"
+498248 500080 And I said, "No, just the opposite.
+500150 501948 "I'm trying to enhance my career."
+502369 506784 <i>Probably nobody else in<br />the world knew at that time</i>
+506856 511521 <i>better than I, who was every<br />day on The Sugar land Express,</i>
+511795 515254 how good this guy was<br />and how he could tell a story.
+515498 519583 Steven Spielberg story<br />boarded the actual scenes
+519686 520801 and then shot them.
+521421 523901 <i>And the studio production department</i>
+523973 526487 <i>wanted to know every storyboard there</i> was.
+526710 529395 <i>They didn't know every<br />storyboard there was.</i>
+529496 532193 <i>We had a bunch of 'em<br />that we never told 'em about</i>
+532282 534501 <i>that we would sneak and shoot.</i>
+534651 536130 It was a guerrilla movie.
+536286 540086 I like to think of it<br />as a big independent movie
+540356 543235 masquerading as a big studio movie.
+544561 548862 <i>It was the film's title<br />monster, a 12-ton hydraulic shark,</i>
+548932 551560 <i>that would become<br />affectionately known as Bruce,</i>
+551634 554786 <i>that plagued Spielberg<br />and the Jaws production team</i>
+554888 558347 <i>with their most daunting set<br />of complications.</i>
+558525 561051 <i>Once the idea<br />was set that we're gonna build it,</i>
+561161 562845 <i>then we had to determine the size,</i>
+562912 566530 and I was working off of a scale model
+566633 569364 of my research of a shark that<br />was about 12 and a half feet,
+569469 571688 and so I just doubled it
+571755 575271 because I felt that as<br />the sharks got bigger,
+575375 578276 <i>they got girthier, and<br />they weren't so attractive.</i>
+578378 582292 <i>So, I figured a 25-foot shark<br />would be the proper size.</i>
+583500 586709 <i>Don Chandler was a studio sculptor.</i>
+586820 589187 <i>He started on the outside,</i>
+589289 591917 a <i>big clay model,<br />we were gonna make a mold.</i>
+592025 596770 <i>And so we were making the<br />skeleton out of Permali tubing,</i>
+596863 598456 <i>both things at once,</i>
+598565 603196 <i>and hoping that they would fit<br />together perfectly, which they did.</i>
+603303 606637 <i>My part that they gave<br />me, mostly, was the cosmetics of the thing</i>
+606723 608839 <i>and the skin and<br />the looks of it and all that,</i>
+608942 613402 and when something mechanical<br />would break in the shark,
+613513 616790 the shark's head would turn<br />over, and of course it would rip
+616883 619534 and then they would bring it<br />back to me and say, "Fix it."
+619602 622003 <i>Then we'd have to patch the whole shark.</i>
+623156 626126 <i>Veteran effects supervisor, Bob Mattey,</i>
+626226 628388 <i>who had created the famous squid</i>
+628495 630589 <i>from Disney's</i><br />20,000 <i>Leagues</i> Under <i>the Sea,</i>
+630697 633906 <i>was mastermind of the<br />shark's mechanical workings.</i>
+633983 635576 You got the men down there with the camera
+635652 637211 over by the end down<br />by the fin. I'm not sure.
+637287 640700 <i>Bob Mattey, my<br />mentor, was the greatest guy in the world.</i>
+640807 643504 <i>He loved… I mean, he loved what he did.</i>
+643610 647092 I just fell in right behind<br />Bob. He was like my hero.
+647280 649191 <i>There was never ever a down day.</i>
+649282 651125 <i>I mean, he was pretty much tireless.</i>
+651201 654182 <i>And he always looked at the up side.</i>
+654370 658250 <i>It was a good thing, too,<br />as Mattey and his team promptly discovered</i>
+658358 660622 <i>that Jaws would produce<br />technical challenges</i>
+660727 664686 <i>unlike any movie previously<br />attempted by Hollywood.</i>
+664781 668615 The condition of the shark<br />was the ultimate story,
+668685 671154 that if the shark didn't work,<br />what do you do?
+671221 676705 When your lead actor, which is<br />this 12 ton marvel, is recalcitrant.
+676793 681208 <i>Well, like any recalcitrant actor,<br />you shoot around him or her.</i>
+682182 683957 <i>Not that a recalcitrant shark</i>
+684033 687162 <i>was always to blame for<br />setbacks during the shoot.</i>
+687237 691287 <i>For a Hollywood film crew with<br />little or no maritime experience,</i>
+691391 694656 <i>finding their sea legs<br />didn't always come easily.</i>
+698932 702414 <i>It didn't take long for one<br />thing to become perfectly clear.</i>
+702669 706401 <i>Making Jaws, whether<br />by land or sea or foam,</i>
+706506 708497 <i>would be no day at the beach.</i>
+708691 711626 <i>We were starting<br />to shoot all of the land scenes</i>
+711694 713571 <i>and running out of them very quickly.</i>
+714163 719784 <i>And Carl Gottlieb and Roy,<br />David and Dick, producers,</i>
+719886 723686 <i>Steven, myself and<br />Verna Fields and her son,</i>
+723790 727590 <i>would meet every day at Steven's bungalow</i>
+727694 732541 <i>and try to make sense of the<br />next day's work or the days after.</i>
+734384 737843 <i>With no shark to<br />shoot and an ever inflating budget,</i>
+737921 741073 <i>they made the very most of these meetings.</i>
+741241 744233 <i>The logistical setbacks<br />allowed Spielberg and his actors</i>
+744344 749339 <i>to become a little repertory<br />company, free to invent and improvise.</i>
+749449 752885 The thing I remember most<br />is, Steven, obviously,
+752986 756081 allowing the actors to ad lib,<br />because a lot of this was ad lib.
+756189 758624 The, "You wanna get drunk and<br />fool around?" The "coffee."
+758725 763993 <i>I mean, all these… "Dead<br />doll's eyes," that's my favorite.</i>
+764097 767032 <i>I think that's one of the things<br />that was so extraordinary.</i>
+768151 771086 <i>The scene with<br />the little boy at the table,</i>
+771154 773998 <i>after Roy's had a particularly hard day,</i>
+774107 776201 we were in between shots
+776309 779643 and I was like this at the table,
+779746 781214 <i>and then that little kid was like this.</i>
+781314 785626 Just started with our hands<br />underneath our chin.
+785702 787966 Then he'd do this and I'd do that.
+788054 790580 Then I went… And he went…
+791024 794119 And he made a monster face<br />and I kind of went like that…
+796329 798764 And I went out to the kitchen in<br />the house and I said to Steven,
+798865 802017 "Come here. Come here.<br />Watch this."
+802085 804201 And I went through all the motions
+804304 806989 and the little guy copied right after me.
+807073 810555 He said, "Okay," and he brought<br />the camera in and we did that scene.
+811044 812728 Hello?<br />Get out of here.
+814097 816407 <i>With the summer season fully upon them,</i>
+816516 820419 <i>frustration began to mount<br />amidst the already exhausted crew</i>
+820520 824320 <i>as discouraging reports of the<br />film's malfunctioning antagonist</i>
+824424 826791 <i>continued to spread across the island.</i>
+827527 830474 <i>It's not the<br />first movie with the radio mics,</i>
+830546 832378 <i>it was the first one that I was aware of</i>
+832632 835533 <i>that had all these radio mics<br />all over the island.</i>
+835902 839099 So every day, you could hear this.
+840340 841808 The shark is not working.
+841908 844684 Repeat. The shark is not<br />working.
+844761 847822 Repeat. The shark…<br />Not working.
+848915 851077 <i>And that was the constant refrain,</i>
+851184 853061 <i>because every time they tried<br />to test the shark,</i>
+853136 854513 <i>it would come up like…</i>
+857724 859249 Or its eye would fall out.
+859359 862772 I have a saying in films that
+862845 864722 film companies import their problems,
+864831 866663 they don't find them where they go.
+866766 871044 And in our case, we imported<br />our problem and that was the shark,
+871304 876367 <i>and we didn't have enough<br />testing time on Bob Mattey's behalf.</i>
+876476 878570 <i>If we'd given him<br />the 15 weeks that it took</i>
+878678 880726 <i>to work the bugs out of the shark,</i>
+880797 882891 <i>it would've worked on cue.</i>
+882965 886674 We were pioneers. That's<br />the best word I can think of,
+886853 888947 because nobody had ever taken on
+889055 891114 the Atlantic Ocean in small boats.
+891391 894122 No one had ever worked with<br />a mechanical shark
+894227 896878 <i>of the sophistication of ours.</i>
+897163 900758 <i>We struggled like mad, but<br />the end justified the means.</i>
+900917 902658 Then one day, you heard this…
+902769 906114 The shark<br />is working. Repeat, the shark is working.
+906189 908214 Repeat, the shark…
+908291 911226 What you see in the finished picture
+911294 916664 <i>is practically every frame of<br />usable footage of the shark.</i>
+920369 921552 And down.
+924207 925254 <i>Suits and all.</i>
+925425 929328 One more time. Shark comes up,
+929429 931579 bites at the masts,
+931647 934480 snaps two, three times,<br />shaking their head,
+934567 936114 but always working its way into the masts.
+936202 939945 Okay, start it.<br />Okay, Roy? Action.
+943226 944534 Bring it in. Bring it in.
+946479 948072 <i>And the last shot, before we all went back</i>
+948181 951958 to Long Beach for another<br />month of shooting in California,
+952034 954651 was going to be the shot<br />of the shark blowing up.
+957707 960722 We were rigging the shark<br />to blow up and blow scrib
+960827 964821 and all kinds of stuff up into<br />the air, and they were loading it.
+964931 967559 <i>And finally, the sun went down<br />and I'm shooting high speed</i>
+967667 971570 <i>and I said, "Steven, they're not<br />ready and I can't shoot high speed."</i>
+972522 975287 Steven said, "You shoot it<br />in the morning."
+975358 977736 Steven went to the airport,<br />got onto the airplane,
+977844 980996 he was already packed, and left the<br />island. He was ready to go.
+981314 983305 I said, "Goodbye!<br />I'm going back to L.A."
+983416 986158 And I got into a motorboat,<br />sped back to the mainland.
+986586 990170 <i>Steven and I were on a flight back to L-A.</i>
+990256 994318 And I said, "So, who's…<br />How was the last shot?"
+995795 997638 You know, they blow up the…
+997713 1000648 He saw, "They're doing it right now."
+1002168 1005012 I said, "They're doing it right<br />now, why aren't you there?"
+1005087 1007181 He goes…
+1010293 1012762 And I said, "Steven?"
+1013829 1016048 <i>He said something like… He got word,</i>
+1016132 1017440 <i>he knew that they were gonna throw him in.</i>
+1017550 1020451 <i>So, he decided to just skip<br />out and not do the last shot.</i>
+1021137 1024300 Not do the last blowing up<br />shot, yeah, not do that one,
+1024407 1026307 which became, by the way,<br />a tradition of Steven's.
+1026409 1028787 He never would do the<br />last shot of his movies,
+1028895 1031694 because he thought the crew<br />was always gonna do something.
+1031781 1033772 And he probably was right.
+1034267 1037009 Had I been on his crew, I would've.
+1037853 1043053 But it's become a tradition that<br />Steven never shoots his last shot.
+1044060 1048110 One day, I'm gonna use this information.
+1057974 1060068 <i>With the production of the film completed</i>
+1060142 1063021 <i>and Benchley's book<br />already a raging success,</i>
+1063129 1065393 <i>the makers of Jaws braced themselves,</i>
+1065698 1066915 <i>hoping the fruit of their labor</i>
+1066983 1070294 <i>would live up to the reputation<br />of the novel that inspired it.</i>
+1071087 1073738 <i>Little did they realize<br />that their fish story</i>
+1073823 1076451 <i>was about to change the face of Hollywood.</i>
+1078427 1081089 I couldn't really see beyond
+1081163 1083677 all of the screw ups<br />that were apparent to me
+1083783 1086263 and were more apparent than anything else.
+1086369 1089578 And so in my ignorance,<br />which is pure ignorance,
+1090323 1092906 <i>I was saying, "This is<br />gonna be a disaster."</i>
+1093542 1095488 <i>And then we made this movie that</i>
+1095595 1099008 <i>crashed into people like a speeding truck.</i>
+1104337 1106954 <i>The book had become a best seller</i>
+1107023 1108821 <i>while we were shooting the picture.</i>
+1109091 1114029 But still, no one had any<br />thought or even dared to think
+1114096 1116337 that it would become what it became.
+1116449 1120067 <i>Part of it is<br />that, it was over-ambitious for the budget.</i>
+1120136 1125154 The technology was not there, that<br />they had to use parts of their brain
+1125241 1127084 that you don't normally have to
+1127193 1128991 unless you're in desperate mode,
+1129095 1131439 and when an artist is pushed like that,
+1131514 1133824 amazing, one-of-a-kind things happen,
+1133933 1135833 and that's what happened in Jaws.
+1135935 1140998 <i>It was just an<br />extraordinary, perfect creative storm.</i>
+1141257 1143419 Who knew? Who knew?
+1143492 1148009 But you know, it's like<br />all of these phenomenons,
+1148114 1149855 they just happen.
+1150016 1152383 If you planned it, it would<br />never be a phenomenon.
+1154804 1157023 <i>The film's groundbreaking ad campaign</i>
+1157123 1160388 <i>was highly instrumental in<br />its initial box office success.</i>
+1160493 1162222 I think Jaws affected film<br />making in a lot of ways.
+1162328 1164376 That's when they first<br />started using television
+1164447 1165915 to really advertise movies.
+1165981 1168962 So, it made this huge opening,<br />and everybody went out to see it.
+1169068 1172117 The anticipation was<br />unbelievable. Unbelievable.
+1172188 1174714 No one had ever anticipated a movie
+1174824 1176019 much like that that I remember.
+1176092 1179505 <i>I mean, it really did create the<br />sensation around the planet of,</i>
+1179612 1181387 <i>"All right, here it comes."</i>
+1181464 1183683 <i>There is</i> a <i>creature alive today</i>
+1184784 1187993 <i>who has survived millions<br />of years of evolution…</i>
+1188521 1191934 <i>Underscoring the TV<br />spots and theatrical trailers for Jaws</i>
+1192007 1194624 <i>was the familiar, but ominous voice talent</i>
+1194727 1198209 <i>of character actor and<br />voice artist, Percy Rodrigues.</i>
+1198848 1204434 They had an idea of doing a<br />very high, horrifying delivery,
+1205020 1206067 which I disagreed with.
+1207289 1209371 And we discussed it.
+1209492 1215431 And finally, they came around<br />to the idea that I had in mind,
+1215498 1221551 that we would do it at a more<br />level, devastating presentation,
+1221721 1225180 rather than trying to ride over
+1225291 1229034 this terrifying visual that they had.
+1229311 1233088 <i>I felt that I should go underneath<br />it and let the visual sell.</i>
+1233866 1236949 <i>It is as if God created the devil</i>
+1237953 1240354 <i>and gave him jaws.</i>
+1241741 1245086 <i>The level of<br />advertising was very high-pitched,</i>
+1245161 1248995 and afterwards, they had people<br />afraid to go in the water for years.
+1249949 1254534 And I like to think that<br />I contributed to that fear.
+1255905 1258749 <i>See it before you go swimming.</i>
+1259175 1262611 <i>Everyone who grew<br />up around that period knows the voice.</i>
+1262711 1267012 He was the gateway for a lot<br />of people into the <i>Jaws</i> universe.
+1267082 1271383 He was like the weed to what<br />would become the crack of Jaws.
+1271454 1274719 It's just like you had to get through<br />Percy and Percy's dulcet tones
+1274907 1278559 that drew you into that movie and<br />then got you hooked in a big, bad way.
+1280396 1282080 Once Jaws premiered,
+1282181 1285128 <i>it demonstrated just how<br />hooked moviegoers were</i>
+1285201 1288193 <i>and marked a decisive<br />turning point at the box office.</i>
+1288304 1290568 <i>The buzz generated by advanced screenings</i>
+1290639 1293301 <i>demanded that it<br />become the first movie ever</i>
+1293375 1296003 <i>to be released in over 400 theaters.</i>
+1296745 1298770 <i>And it could've been even more.</i>
+1298848 1301613 <i>When the screening<br />in Long Beach, California took place,</i>
+1301684 1305245 <i>Lew Wasserman, the chairman<br />of the board of Universal,</i>
+1305321 1308655 asked Hy Martin, who<br />was the head of distribution,
+1309208 1312269 to cut back on the number of theaters.
+1312378 1316008 <i>Hy said, "We've set<br />a record. We've got 600 theaters.</i>
+1316115 1318800 <i>"Ever since the Dallas preview,</i>
+1318868 1321496 <i>"I cannot stop the phone from ringing."</i>
+1321704 1322762 <i>And Lew said,</i>
+1322872 1324237 "Cut it in half."
+1325040 1328670 And everybody was kind of<br />stunned, "Cut it in half? Why?"
+1329028 1332658 He said, "I want people<br />in Palm Springs, California
+1332765 1335507 "to have to come to Los<br />Angeles to see the movie."
+1335601 1338514 I don't think we thought<br />that we were releasing
+1338621 1340715 <i>an "event movie."</i>
+1340789 1342769 <i>We thought we had this<br />very successful movie,</i>
+1342875 1345890 <i>we thought they should<br />be waiting to see it.</i>
+1345995 1349579 <i>My colleague, Lew Wasserman,<br />always thought that the best advertising</i>
+1349682 1351161 <i>was people standing in line.</i>
+1351433 1355893 <i>Lew said, "I wanted this to<br />be something that you couldn't get into."</i>
+1356071 1358688 <i>He wasn't interested<br />in just taking the weekend.</i>
+1358791 1362386 <i>He wanted to take the summer,<br />and we took the summer.</i>
+1362478 1365129 When you opened in 400<br />theaters, it was different.
+1365231 1368314 You could play all summer,<br />and if you looked at the grosses,
+1368384 1370182 the grosses were constant.
+1370553 1375753 Smoking lounge is sold out, seats<br />downstairs in the first seven rows only.
+1375824 1378293 <i>When the<br />movie was out for weeks and months,</i>
+1378360 1380237 I would still be going to the movies.
+1380346 1383031 Not to see a new movie,<br />but to see Jaws again.
+1383098 1387399 And, "One for <i>Jaws, "</i> and<br />he'd look at me like, "Again?"
+1387503 1389028 It's like, "Dude,<br />just give me the ticket."
+1389505 1393191 <i>They began to<br />see that the film could become an event</i>
+1393292 1395454 <i>and a marketing phenomenon.</i>
+1395561 1398337 Of course, nowadays,<br />the marketing of a film
+1398414 1400291 is more important than the film itself.
+1400482 1404851 And I think we can attribute a<br />lot of that to the success of Jaws.
+1405054 1407216 <i>It happened to work<br />on a very mainstream level</i>
+1407323 1408734 <i>and a mass audience level,</i>
+1408841 1410718 but the movie itself
+1410793 1413444 was so incredibly solid and beyond solid,
+1413529 1415748 just exceptional from end to end,
+1415948 1418792 that when people throw<br />together their summer movies
+1418867 1421393 and the eye candy stuff,<br />they just tend to forget that
+1421503 1423972 that movie was a lot more<br />than just eye candy.
+1424406 1427023 <i>Although it is<br />credited with having started</i>
+1427126 1429709 <i>the syndrome of summer blockbusters,</i>
+1429778 1433225 and mindless movies and all that stuff,
+1433332 1437246 the fact is that <i>Jaws,</i> and I<br />think many critics will agree,
+1437453 1441981 was a fine movie of that<br />genre, which was very rare.
+1462428 1465841 <i>Given its monstrous<br />success and critical acclaim,</i>
+1466015 1468256 <i>Jaws was roundly expected to receive</i>
+1468367 1470995 <i>the lion's share of Oscar<br />nominations for that year,</i>
+1471737 1474479 <i>including Best Director<br />for Steven Spielberg.</i>
+1475024 1478824 <i>But unfortunately, those high<br />expectations came up short.</i>
+1479712 1482864 Oh, I didn't get it.<br />I didn't get it.
+1483599 1487297 I wasn't nominated.<br />I got beaten out by Fellini.
+1488404 1491032 <i>Jaws did get<br />the nomination for Best Picture.</i>
+1491306 1492455 Jaws.
+1494943 1496877 Well, it's about time.
+1496945 1498674 <i>But it was in light of this</i>
+1498764 1501244 <i>that some in the industry<br />thought it scandalous</i>
+1501316 1503842 <i>that Steven would be<br />overlooked for Best Director.</i>
+1503952 1506296 Who made the picture?<br />Somebody's mother?
+1506405 1507486 The director.
+1507589 1508636 This man made Jaws.
+1508741 1511085 Are you kidding? Who's<br />kidding who around here?
+1511160 1513208 It's the biggest disappointment<br />for me, the whole Oscars.
+1513312 1517271 I thought Steven did a<br />brilliant job directing <i>Jaws,</i>
+1517383 1519215 and I have no idea what happened.
+1519318 1521537 It's the one thing<br />that I cannot comprehend yet
+1521603 1525062 in my head, how a best<br />picture can be nominated,
+1525157 1528366 and yet the director, who is<br />basically responsible for it,
+1528444 1530173 does not get the nomination.
+1530512 1533743 <i>But for the<br />27-year-old wunderkind director,</i>
+1533816 1535750 <i>there was no choice but to take his lumps.</i>
+1535818 1537377 I'm suffering enough.<br />All right.
+1537453 1538818 We're suffering with you.<br />I'm suffering.
+1538887 1540252 We're suffering with you.<br />Cancel my day.
+1540355 1541355 Right, we're getting to it…
+1541440 1544922 <i>Although Jaws did<br />not receive the Oscar for Best Picture,</i>
+1544993 1548657 <i>it did bring home awards for<br />its remaining three nominations.</i>
+1548731 1553441 <i>Best Sound, Best Editing<br />and Best Musical Score.</i>
+1555003 1556619 <i>Throughout the rest of the year,</i>
+1556722 1560033 <i>Jaws continued to reel in<br />numerous other industry awards,</i>
+1560109 1563056 <i>even as the record books<br />were being re-written.</i>
+1565731 1569167 <i>In hindsight, one wonders<br />if the Academy would rethink</i>
+1569268 1572260 <i>overlooking Spielberg's<br />masterful work on</i> Jaws,
+1572371 1575022 <i>if they knew then what<br />they certainly know now.</i>
+1580913 1584816 <i>Of course, a much decorated<br />career still lay ahead for Steven.</i>
+1585501 1588220 <i>A now legendary career<br />that encompasses, perhaps,</i>
+1588303 1590567 <i>the most popular and diverse body of work</i>
+1590672 1593289 <i>ever created by an individual director,</i>
+1593392 1596339 <i>making Steven Spielberg one<br />of the most influential figures</i>
+1596411 1598027 <i>in the entire film industry.</i>
+1599348 1602227 <i>And it was all jump-started by Jaws.</i>
+1609475 1613878 <i>Audience fascination with Jaws<br />was by no means limited to the U. S.</i>
+1614263 1616163 <i>Shortly after its domestic release,</i>
+1616248 1619331 <i>Jaws swam its way into<br />theaters across the globe.</i>
+1619535 1621697 <i>And moviegoers couldn't get enough.</i>
+1621970 1623961 <i>The biggest thing I remember about Jaws</i>
+1624072 1627121 is traveling around the world,<br />promoting it.
+1627810 1634159 <i>And whether it was in South<br />Africa or Australia or Latin America,</i>
+1634550 1638066 <i>every culture in the world embraced Jaws.</i>
+1640439 1643648 <i>Peter Benchley's book,<br />which was the start of it all,</i>
+1643725 1645352 <i>was a sensation.</i>
+1645460 1649658 <i>Somehow the idea of this<br />creature attacking mankind</i>
+1649882 1651509 <i>caught on everywhere.</i>
+1653152 1654836 <i>I've been to many places in the world,</i>
+1654920 1658038 <i>and Jaws has reached almost<br />every place I've ever been.</i>
+1658106 1660598 At first, I thought maybe<br />it'll do okay in cities
+1660676 1663088 near great bodies of water.
+1663195 1664970 But it turned out<br />some of our best business
+1665047 1666776 were in tremendous desert countries.
+1666949 1670158 <i>I think the reason it went<br />around the world so quickly was that</i>
+1670269 1671896 you don't even need dialogue.
+1672004 1674689 I mean, you just see the situation there,
+1674756 1680638 and your own primal fear about<br />something you can't see into
+1681230 1683665 is enough to hold your<br />interest in that movie.
+1683916 1685862 It's a universal movie.
+1685951 1690320 Not just Universal Studios,<br />but it really has a global impact.
+1690656 1692875 <i>I really think it<br />works like a silent movie.</i>
+1693192 1695126 <i>You're responding to the visuals</i>
+1695227 1697127 <i>instinctively and in a visceral</i> way.
+1699565 1704776 The coincidence of that, plus<br />Steven's innate talent as a filmmaker,
+1705053 1706987 made a film that will live.
+1707055 1708500 It has to live.
+1708774 1711573 It's not going away anywhere.
+1711677 1714305 There's no culture on Earth that<br />does not have that film and show it.
+1715681 1719584 <i>It was shown in 40<br />countries in 17 different languages.</i>
+1720435 1725589 <i>If you forgot what terror is<br />like, the original Jaws is back.</i>
+1728427 1730737 <i>And then there<br />was the merchandising blitz.</i>
+1731280 1734523 <i>Almost overnight, Jaws<br />became a cottage industry.</i>
+1734700 1737635 <i>And suddenly sharks meant big business.</i>
+1739721 1745387 <i>When we realized what we<br />had, Merchandising was licking their lips,</i>
+1745460 1749488 <i>and it just was such an<br />easy one to merchandise.</i>
+1749765 1753668 <i>It started obviously with what<br />everybody does with the T-shirts,</i>
+1753735 1755282 <i>but it went from there.</i>
+1755387 1759915 <i>Everything kind of mushroomed<br />with the release of the picture.</i>
+1760475 1763251 I even had a toilet seat,
+1763362 1767048 that when you open it up, it<br />was a big shark facing you.
+1767115 1772269 <i>So, everything, lunch<br />pails to barbeque sets…</i>
+1772371 1774396 <i>It was incredible,</i>
+1774573 1779477 <i>and one of the first<br />big merchandising events</i>
+1779578 1782479 <i>to take place in<br />connection with the movie.</i>
+1783532 1785728 <i>Though three decades have come and gone</i>
+1785801 1787951 <i>since the Jaws merchandising frenzy,</i>
+1788420 1792903 <i>for some voracious collectors,<br />the summer of the shark never ends.</i>
+1808674 1809937 <i>In recent years,</i>
+1810042 1812670 <i>the picture's enduring popularity has seen</i>
+1812778 1815406 <i>a resurgence of<br />Jaws-related paraphernalia,</i>
+1815931 1819515 <i>from children's toys,<br />to high-end collectibles,</i>
+1821086 1822144 <i>to video games.</i>
+1829261 1832162 <i>Another milestone in the<br />evolution of entertainment</i>
+1832280 1835432 <i>was the commercialization<br />of the making of Jaws.</i>
+1835534 1837116 <i>Though commonplace today,</i>
+1837185 1840428 <i>capitalizing on a picture's<br />behind-the-scenes accounts</i>
+1840539 1843588 <i>was rarely, if ever, seen in the mid-'70s.</i>
+1844026 1845585 I'd always been interested in movies
+1845660 1849369 as something more than just sitting<br />there and passively observing them.
+1849548 1853712 <i>The Jaws Log, by Carl<br />Gottlieb, and Edith Blake's book</i>
+1853819 1855253 <i>called</i> The Making of the Movie Jaws.
+1855354 1859973 <i>Both of those were inspiration<br />for making me interested in films.</i>
+1860042 1862454 Jaws as a film to me
+1862561 1865303 is first of all, my favorite<br />film. I watch it once a year.
+1865564 1868340 And when you examine the film<br />in its finished state,
+1868417 1870408 and you look at the process<br />of making the film,
+1870502 1872834 and you read Carl Gottlieb's Jaws <i>Log,</i>
+1872938 1874417 <i>or you just read the other histories,</i>
+1874506 1876622 <i>or as I remember reading<br />about it even as a kid,</i>
+1876842 1879152 <i>it's almost like film school in a movie.</i>
+1879261 1880422 I remember in film school reading
+1880512 1881570 an interview with Steven Soderbergh,
+1881680 1883728 who said that he was Jaws-obsessed,
+1883799 1885381 and that his favorite<br />book was The <i>Jaws</i> Log
+1885484 1887009 <i>and that he carried it<br />with him everywhere.</i>
+1887119 1889554 And I thought,<br />"Okay, I'm on the right track."
+1889638 1893791 That book became my Bible, and I<br />read that book over and over and over.
+1894393 1897237 <i>In the beginning,<br />when the book was first conceived,</i>
+1897496 1901478 it was kind of a hasty<br />afterthought to the marketing plan.
+1901550 1904497 The original intent was for<br />there to be a three-parter.
+1904653 1906235 The book would be written
+1906338 1909399 from Steven Spielberg's point of<br />view, he would contribute a third,
+1909508 1911875 <i>from Peter Benchley's view,<br />he would contribute a third,</i>
+1911977 1914776 <i>and Zanuck and Brown would<br />contribute a third as producers.</i>
+1915263 1917709 <i>And as we got closer and<br />closer to the release date,</i>
+1917816 1920228 it became evident that nobody<br />was gonna be able to write their third.
+1920302 1922145 I had already agreed with Steven
+1922254 1926418 to kind of ghostwrite or author<br />his third of it from what I knew,
+1926525 1928766 'cause we had shared a house and I knew
+1928844 1931085 what Steven's perspective<br />on the movie was.
+1931480 1933380 So then nobody was available.
+1933732 1935894 <i>Steven was immersed in post-production.</i>
+1936001 1938470 <i>Zanuck and Brown were onto something else.</i>
+1938637 1942164 <i>So they said to me at the end of March,</i>
+1942274 1946268 <i>"Can you do a book by the end of<br />May?" And with the folly of youth,</i>
+1946378 1948745 <i>I said, "Yeah, I can<br />write a book that quickly."</i>
+1948847 1951179 <i>So I wrote the book in a very short time.</i>
+1951283 1952717 <i>Probably less than a month.</i>
+1952818 1955810 <i>And the original paperback<br />got favorable reviews.</i>
+1956071 1957903 <i>And the word of mouth was terrific,</i>
+1957973 1959714 <i>and the book went through 17 printings</i>
+1959825 1961600 <i>and sold a couple of million copies.</i>
+1963411 1964810 <i>And then of course, many years later,</i>
+1964880 1967872 <i>Laurent Bouzereau did his<br />behind-the scenes documentary</i>
+1967949 1969348 <i>on the same subject matter.</i>
+1969985 1972295 <i>Universal came out with what<br />they called the Signature series</i>
+1972404 1973712 <i>back in the LaserDisc days.</i>
+1974306 1978937 And the Jaws box set that included<br />the Laurent Bouzereau documentary
+1979044 1982014 was something that every<br />Jaws fan just had to have.
+1982097 1983747 They went out and bought LaserDisc players
+1983849 1985465 just so they could have that documentary.
+1985534 1989562 <i>When I got to the<br />Jaws documentary for the LaserDisc,</i>
+1989638 1996123 I felt that I'm gonna try to do a<br />Bible or some kind of a reference
+1996228 1999664 to that particular movie.<br />Because how many times
+1999748 2002911 <i>do we get to sit across Steven<br />Spielberg or Peter Benchley</i>
+2002984 2004668 <i>and the cast members, but you want to get</i>
+2004753 2006403 <i>all of their different perspectives.</i>
+2006505 2008030 <i>And I think for the true fans,</i>
+2008123 2009955 <i>you're just looking at those people</i>
+2010025 2011754 <i>as if they were talking to you.</i>
+2012727 2017289 <i>I had seen all those pictures of<br />Brody's son in the arms of the stuntman,</i>
+2017449 2019144 and I always wondered like,<br />"That's not even in the movie."
+2019251 2022027 And yet that picture was<br />used to promote the picture.
+2022454 2026618 And I was always wondering, "What<br />is that sequence? What is that scene?"
+2026725 2028819 <i>And finding the footage<br />of that was amazing.</i>
+2030946 2035474 <i>Seeing that when the shark<br />comes into the estuary, it's just a fin.</i>
+2036101 2037296 <i>I thought that was pretty amazing.</i>
+2039688 2042271 <i>Finding that footage of<br />the building of the shark,</i>
+2042374 2045685 <i>doing all the tests, dry,</i>
+2045860 2048227 <i>and then getting the big surprise<br />that it doesn't work in water,</i>
+2048313 2049428 I mean, it was just amazing.
+2049497 2055163 I felt like I was doing what I<br />had been sent on Earth to do.
+2055287 2059269 To discover all that stuff and<br />to make sure it was preserved.
+2059341 2061753 Because a lot of it, I think that
+2061860 2064238 if there had not been DVDs today,
+2064329 2067139 I think a lot of that<br />stuff would be totally lost.
+2069784 2073550 <i>Always an important step<br />in advancing public awareness of a movie,</i>
+2073622 2077820 <i>both during and after its theatrical<br />run, is the film's poster design.</i>
+2078510 2080251 <i>And in the case of Jaws,</i>
+2080345 2084407 <i>few images have become more<br />emblazoned on pop culture than this one.</i>
+2085684 2088301 <i>That image is iconic and was responsible</i>
+2088370 2091783 <i>for getting a lot of people<br />into the theaters to see Jaws.</i>
+2091890 2094473 What kid wouldn't wanna go see that movie?
+2094542 2097159 It's almost like a bullet<br />before it hits somebody.
+2097262 2099492 <i>And the fact that it leaves<br />it all to your imagination</i>
+2099598 2102693 <i>is why the poster of Jaws did so well.</i>
+2103451 2110073 It conveyed all the emotion<br />that is aroused by the fear.
+2110175 2113270 And you just got it. The minute<br />you look at that image, you got it.
+2114663 2117906 <i>Jaws' poster is the Bible of how to do it.</i>
+2118016 2120758 That's all you need to know.
+2120835 2123327 You don't need to know about<br />the main characters and their arcs
+2123405 2124622 or anything like that.
+2124723 2128159 Big shark, pretty girl, bad situation.
+2128243 2130519 One of the things that happens<br />when you do an iconic film
+2130629 2133724 is it becomes a touchstone for<br />other artists and other comments.
+2134215 2137446 <i>The Jaws artwork became an element</i>
+2137519 2139681 <i>of political cartoons for years.</i>
+2142791 2144691 <i>In fact, the shark and swimmer</i>
+2144776 2146619 <i>were used to represent virtually</i>
+2146695 2148493 <i>every issue in the political spectrum.</i>
+2162977 2165924 <i>And it wasn't just politics<br />getting in on the action.</i>
+2166031 2168079 <i>Over the years, even up to this day,</i>
+2168149 2170834 <i>the Jaws motif has served as fodder</i>
+2170919 2173547 <i>for a variety of more<br />off-beat applications.</i>
+2185617 2188416 <i>But what today has<br />become a pop culture icon,</i>
+2188520 2191046 <i>actually had very humble beginnings.</i>
+2192157 2197106 <i>The art of the swimmer<br />swimming above the great white shark</i>
+2197746 2200477 <i>originated on the cover of the paperback</i>
+2200548 2203210 <i>edition of Peter Benchley's novel,</i> Jaws,
+2203284 2204695 published by Bantam Books,
+2204803 2208387 and Oscar Dystel, who was<br />the chairman of the company,
+2208707 2212439 always regretted that he<br />didn't put… He didn't sell it to us.
+2212544 2214694 He could've sold us the artwork.
+2214763 2217539 <i>But he gave it to us as a publicity thing.</i>
+2217649 2220118 <i>So I kid him about it to this day.</i>
+2221603 2224971 <i>One name that is not as<br />well known in the annals of Jaws history</i>
+2225039 2229658 <i>is Roger Kastel, the artist who<br />created the legendary image.</i>
+2230128 2232438 <i>Kastel was a seasoned paperback</i>
+2232514 2234812 <i>and magazine illustrator<br />working in New York</i>
+2234883 2237784 <i>whose skills were increasingly<br />in demand at the time.</i>
+2237986 2241354 <i>And the assignment<br />was simply one among many.</i>
+2241423 2245883 Oscar Dystel said, "Have<br />I got a great book for you!
+2245960 2248873 "You'll love it. You can<br />read it over the weekend."
+2248963 2251113 <i>They felt the hardcover version</i>
+2251216 2253275 <i>wouldn't work on the paperback.</i>
+2253368 2257532 <i>I did a very rough sketch<br />and they said, "That's great.</i>
+2257639 2262691 "Just make the shark realistic and<br />bigger. Make him very much bigger."
+2263161 2268372 <i>I had gone to the Museum of Natural<br />History, and I had my camera with me</i>
+2268500 2272550 <i>and I said, "Do you have a<br />shark exhibit in the building?"</i>
+2272720 2278386 <i>And she said, "Yes, they do." But it<br />was all down and they were refurbishing.</i>
+2278460 2280588 <i>They were cleaning them.</i>
+2280662 2285941 All the sharks were laying on easels.
+2286034 2291666 They were plaster. And<br />so, I had my camera with me.
+2291890 2295155 <i>Well, I knew what position<br />I wanted the shark in,</i>
+2295260 2300164 <i>and this is the great white that<br />they had laying on a easel being…</i>
+2300265 2304930 <i>I guess they were dusting it.<br />And that's what I worked from.</i>
+2305954 2310937 <i>The girl was photographed<br />in the studio in New York.</i>
+2312227 2316494 <i>She was a great model. I used her<br />for</i> a <i>Good Housekeeping painting</i>
+2316581 2320017 <i>and asked if she would stay<br />another half hour</i>
+2320118 2324396 and just swim for this<br />paperback. I told her it was Jaws.
+2324973 2327499 I don't think anyone knew<br />what Jaws was then.
+2328042 2330955 But she was swimming on a stool.
+2331763 2334277 <i>Last summer, I was painting in the studio</i>
+2334349 2336829 <i>and my grandson, Luke, came in.</i>
+2336935 2342521 And he says, "Grandpa, did you<br />ever do a Mona Lisa?"And he's seven.
+2342891 2346304 <i>And that really threw me.<br />And I thought and I said,</i>
+2346411 2349255 <i>"I don't think I've done<br />the Mona</i> Lisa, <i>Luke."</i>
+2349330 2354166 And he said, "Well, the shark<br />will just have to be your Mona Lisa."
+2374589 2375589 I can't…
+2377225 2379319 Did I say it right?
+2384983 2386360 The theme song of Jaws.
+2386451 2388078 That's the first impression<br />that comes to my mind.
+2388152 2390246 <i>And it just sticks in there.<br />You know what I mean?</i>
+2394676 2397088 I think <i>Jaws</i> was the first film that I did
+2397161 2398993 where I was really crazy about the film.
+2399063 2400713 <i>I thought it was a marvelous film.</i>
+2402200 2403725 <i>I remember the first day I played,</i>
+2403801 2405200 <i>Steven said, "What do<br />we do for the shark?"</i>
+2405270 2407204 And I just played<br />an octave E on the piano,
+2407272 2409115 and then E and an F and repeated them
+2409207 2410902 and accelerated them and so on.
+2410992 2412642 And he said something like,<br />"You think that'll work."
+2412727 2414104 "You gotta be kidding.<br />It's so simple."
+2414178 2416590 All he did was…
+2416698 2418109 And Steven said, "That's all?"
+2418182 2420173 And John said, "Yeah, that's it."
+2420919 2422751 <i>Well, I think, John, who's prescient</i>
+2422820 2424652 <i>about all the movies he scores,</i>
+2424806 2428015 <i>he sees deeper than we do<br />about our own work.</i>
+2428610 2431853 <i>And I think he saw something<br />deeply primal about Jaws,</i>
+2431930 2436140 and he decided that it<br />needed a primal response.
+2436234 2440819 It needed a primal sound.<br />Something that was atavistic.
+2440922 2443766 Something that was extremely basic.
+2443841 2445559 And something that was unforgettable
+2445660 2449563 and would be almost a kind of a siren
+2449664 2451883 to warn you that something<br />was coming to get you.
+2452050 2456578 When you associate the image<br />of that shark coming in for the kill,
+2456788 2459473 and you hear that John Williams score,
+2461492 2464723 It's that perfect storm again.
+2464796 2467527 It's the right image for the right music.
+2467598 2470226 It doesn't happen all the time.
+2470902 2476113 <i>But, boy, when it does, you never<br />forget it for generations, obviously.</i>
+2478543 2483709 <i>The Jaws theme was so<br />provocative and symbolic of the shark</i>
+2484248 2487343 that he saved us, really, because
+2487435 2490086 the many times that<br />we didn't have the shark,
+2490154 2495251 all we had to do was point the<br />camera out to sea and play his score
+2495443 2496820 and everybody screamed.
+2496894 2499443 And for half the film you don't<br />see the shark. You don't have to.
+2499731 2501722 You hear that theme and it puts it,
+2501816 2503534 "Oh, my God, he's out there somewhere
+2503634 2504829 <i>"and he's gonna get somebody."</i>
+2504902 2507314 <i>I just think it was<br />the most brilliant couple of notes</i>
+2507422 2510619 <i>that he's ever written, because<br />it's lived beyond the movie.</i>
+2510892 2512371 <i>And it's become the thing</i>
+2512460 2515737 <i>that kids do with each other<br />when they're playing in the pool.</i>
+2515947 2518575 You can always creep up on<br />somebody and go…
+2518649 2522210 And in the post-Jaws world,<br />it means something.
+2522387 2525971 In Australia, they use the shark theme
+2526074 2529806 as a warning sound on the beaches.
+2529911 2531754 I love that in the loudspeakers.
+2534382 2539479 "I'm outta here!" No one would stay<br />in the water listening to that music.
+2539570 2542722 Every movie after that, whenever<br />you saw any kind of a monster beast,
+2542824 2545771 especially sea stuff like a<br />shark, octopus, whatever,
+2545927 2547975 it was like the pounding…
+2549947 2551494 Don't!
+2552417 2553417 Don't!
+2555253 2556516 That song gives me the creeps.
+2556587 2558772 What do you mean, it's our theme song.
+2558873 2563151 It's very flattering. You think,<br />"Oh, great, whatever I've written
+2563227 2567642 "has made it to that level." That's<br />one reaction that I think is natural.
+2567749 2569797 <i>I'm always pleased about it.</i>
+2569884 2573070 <i>The fact that it gets up off the<br />paper into the orchestra's hands,</i>
+2573154 2575236 <i>out through the microphone<br />and around the world,</i>
+2575523 2578015 back into my own living room,<br />which is my own studio,
+2578126 2580743 where I'll be working<br />sometimes years later,
+2580812 2584806 it's quite a miraculous electronic trip
+2584899 2587209 that composers in preceding centuries
+2587285 2590619 would never have had<br />the pleasure of experiencing,
+2590772 2594333 so we're lucky that<br />film and recorded music
+2594442 2596809 and so on has the reach that it does.
+2603151 2605142 <i>While the digital effects revolution,</i>
+2605236 2607204 <i>which took hold in the early '90s,</i>
+2607405 2610989 <i>promised to offer filmmakers<br />tremendous creative freedom,</i>
+2611058 2613527 <i>the legacy of Jaws reminds us that</i>
+2613594 2615403 <i>being unable to show everything you want</i>
+2615580 2617571 <i>really can be a blessing in disguise.</i>
+2620885 2624571 <i>We've complained about<br />the shark not being able to perform.</i>
+2624639 2627256 <i>Because it couldn't.<br />It was never ready.</i>
+2627341 2632051 That was what saved us.<br />That was the artistry of the film.
+2632497 2636525 <i>If Jaws never<br />existed, except in the year 2005,</i>
+2636801 2638747 I would have had the digital tools
+2638820 2641767 to have much more of<br />the shark in the movie.
+2641873 2645082 Therefore, I would have ruined<br />much more of the movie.
+2645343 2648358 Had we been able to computerize the shark,
+2648913 2652360 a lot of the wonderful elements<br />of the picture, like the barrels,
+2652817 2654342 <i>would never have been thought of.</i>
+2654819 2659131 That was an idea that<br />came during the production
+2659207 2661687 and out of frustration<br />of not having the shark,
+2661776 2664188 we didn't have anything else to shoot.
+2666414 2670044 <i>In the very first scene, with the<br />girl being pulled back and forth,</i>
+2670117 2674532 <i>the shark was supposed to<br />be there in the picture that time.</i>
+2674639 2678200 <i>We only showed it later,<br />because we didn't have it earlier.</i>
+2682213 2686764 <i>They began Jaws in<br />the opening scene by not seeing the shark.</i>
+2687034 2690595 And I think it was more terrifying.
+2690805 2694537 Not seeing something, I<br />really believe, is more terrifying
+2694609 2697192 <i>'cause visually, you're all right with it.</i>
+2697295 2699923 <i>But if your imagination runs wild,</i>
+2700398 2702230 <i>then it can be anything.</i>
+2708940 2711875 Oh, God, help!
+2712577 2715046 <i>I did that because<br />the shark kept breaking down.</i>
+2715680 2717774 <i>And today, a visual shark<br />would not break down.</i>
+2717882 2720476 There'd be some nice<br />interactive water explosions
+2720585 2722633 to marry the digital shark<br />with the actual water.
+2722703 2725832 That's all it would be. There would<br />not have been a full-size shark.
+2726173 2731521 <i>Or probably even any segment<br />of the shark in a 2005 Jaws today.</i>
+2731629 2734428 <i>And therefore, the film would<br />have been only half as effective.</i>
+2734532 2739698 <i>So I was saved by the breakdown<br />in technology 30 years ago.</i>
+2742173 2744221 I think if I'm correct about this,
+2744292 2746659 it was 55 minutes into the movie
+2746727 2748855 before you actually saw the shark.
+2754201 2756499 <i>One of the things that<br />makes the picture more believable</i>
+2756570 2759915 is that you can't do many<br />things with that shark.
+2760574 2761973 <i>You have one shark that goes right,</i>
+2762043 2764341 <i>one that goes left, and<br />one that goes straight ahead.</i>
+2764412 2766779 <i>Almost made it more believable.</i>
+2766998 2769080 <i>Because you couldn't do<br />any fancy stuff with it.</i>
+2769150 2771414 And I can't help but<br />think that filmmakers today
+2771485 2773431 would wanna do a lot more with that shark.
+2773521 2778083 In today's movies, everybody's<br />trying to top themselves,
+2778159 2779422 and they're trying to top others
+2779493 2781541 and they're just trying<br />to do it bigger and better,
+2781646 2784422 and sometimes, bigger<br />isn't better necessarily.
+2784649 2786276 Sometimes, bigger is too much.
+2786384 2790184 It's hard to create something<br />new that surprises people.
+2790288 2792450 In this day and age,<br />they've seen so much already.
+2792540 2793905 There's so many movies now.
+2793975 2795022 <i>What's great about that, I think,</i>
+2795126 2796924 <i>the expectations for what a movie</i>
+2797028 2798757 <i>could be weren't what they are today.</i>
+2798863 2803391 <i>So when a great movie like that came<br />out back then, it just floored people.</i>
+2808306 2812459 I cannot tell you how many<br />people have come to me and said,
+2812526 2816144 "Because of Jaws, I will not<br />go in the water to this day."
+2816514 2817514 It is staggering.
+2817932 2819559 Come on in the water!
+2819717 2821458 Take it easy.
+2821719 2823585 I mean, <i>Jaws</i> essentially did for swimming
+2823688 2826407 what the movie Psycho did<br />for showering in motel rooms.
+2826474 2828420 <i>The shower scene in Psycho,</i>
+2828526 2831427 <i>where women especially<br />weren't taking showers,</i>
+2831629 2834530 I didn't go in the ocean after <i>Jaws.</i>
+2834632 2837146 I was at the beach one day<br />and a woman came over to me,
+2837218 2840381 and she had her little child in hand.
+2840488 2842820 He was about five years old,<br />and he was crying.
+2843290 2845759 And she said, "Are you Steven Spielberg?"
+2845826 2847954 And I said, "Yes, I am."
+2848079 2851162 And she began screaming at me<br />with a very thick New York accent.
+2851232 2855032 "You tell him, you tell him<br />it's safe to go out there.
+2855119 2857065 "You tell him it's safe to go out there.
+2857138 2859038 "Look at him, look what<br />you've done to him."
+2859123 2862036 And this kid was crying his eyes<br />out. And I said, "What happened?"
+2862126 2863821 She said, "My husband showed him <i>Jaws</i>
+2863928 2865612 "and now look, he won't go into the water.
+2865730 2868097 "You tell him it's okay. You<br />tell him it's all make-believe."
+2868199 2871817 And she gave me such a piece<br />of her mind, I sat the boy down,
+2871886 2873718 I looked him in the eye,<br />and I couldn't lie to him,
+2873788 2875005 it is dangerous out there.
+2875106 2879304 I couldn't just say to him, "Yes, go<br />out there, go out beyond the waves."
+2879593 2881470 It's all psychological.
+2881579 2885425 You yell, "Barracuda!" and<br />everybody says, "Huh? What?"
+2887334 2889211 You yell, "Shark!"
+2890388 2893517 We've got a panic on our<br />hands on the Fourth of July.
+2904602 2907845 <i>The structure of Jaws is just so perfect.</i>
+2907922 2910016 <i>It just breaks up into<br />these beautiful acts.</i>
+2910091 2913504 And it's like problem, finding the answer,
+2913611 2916888 and then the third act of,<br />"We're gonna go get the shark."
+2917081 2919982 <i>It's such a beautiful,<br />mythological structure.</i>
+2920084 2922451 <i>Is this monster about things in them?</i>
+2923421 2924889 Ain't got no spit.
+2926891 2929588 As all great storytelling<br />is that the characters
+2929677 2931236 learn something about themselves,
+2931312 2934725 their phobias, the things<br />that they're lacking.
+2935216 2938481 Why are they chasing<br />this thing, the white whale?
+2939587 2942318 <i>It's Melville, it's Hemingway,</i>
+2942389 2944881 <i>it's the ancient prophet, Jonah.</i>
+2944959 2947803 <i>These are the mythological parallels</i>
+2947912 2950859 that bubble up from below<br />the surface in Jaws
+2950931 2953081 that make it a timeless classic,
+2953184 2957872 that make it last long after the<br />technological aspects of the film
+2957938 2959349 are old hat.
+2959457 2963269 <i>It's a very classic,<br />hero's journey kind of a story.</i>
+2963344 2968077 <i>If you subscribe to the<br />mythmaking nature of screenwriting,</i>
+2968199 2972249 it has all the ingredients that are not
+2972319 2975311 culturally specific<br />to a generation's views.
+2975473 2979159 It's not Depression-America,<br />it's not Vietnam-America.
+2979360 2986016 <i>It's a little timeless island with only<br />the human values of fear, jealousy,</i>
+2986100 2988967 <i>or heroism or shark obsession.</i>
+2989253 2991563 Part of what succeeds about <i>Jaws</i>
+2991639 2994108 is the simplicity of<br />the way the story was told.
+2994542 2996533 <i>And the fact that it's<br />just three men and a boat,</i>
+2996644 2998590 <i>when you come right down to it,</i>
+2998696 3002792 <i>three survivors who all have<br />problems with each other.</i>
+3004535 3006481 You got city hands,<br />Mr. Hooper.
+3006554 3008454 You been counting money all your life.
+3008556 3012015 I don't need this. I don't need<br />this working-class-hero crap.
+3012092 3014606 They have huge, personal<br />issues with each other.
+3014712 3017556 But those are all cast aside as<br />they have to become partners
+3017648 3019594 in order to help each other live
+3019667 3021567 and get through the experience.
+3021652 3026055 And the shark becomes less<br />important than those three characters.
+3026140 3028256 <i>And I have to give Peter<br />Benchley total credit for that.</i>
+3028359 3029359 <i>That was in the book.</i>
+3029677 3032772 <i>The characters in<br />Jaws are composites. All of them are.</i>
+3032997 3036058 I, in Jaws, am two people.
+3036150 3038983 I am Hooper from the<br />environmental point of view,
+3039053 3040350 <i>I am the guy who says,</i>
+3040421 3042799 <i>"He doesn't wanna hurt you,<br />he just wants to eat you."</i>
+3042907 3045786 <i>On the other hand, I'm<br />also the character of Brody,</i>
+3045859 3048885 in that every book I've written<br />has been an everyman kind of book,
+3048963 3054549 of what would happen if a normal<br />Joe gets himself into a position
+3054919 3057286 that is way beyond his capacity to handle.
+3057388 3059755 And here's Brody who doesn't swim,
+3060241 3062084 <i>who's never been in the ocean in his life,</i>
+3062176 3063974 <i>who's a retired New York City policeman,</i>
+3064078 3066376 <i>who's out in the boondocks and suddenly,</i>
+3066447 3068779 <i>he's cast into having to be a seaman.</i>
+3069033 3070865 <i>This is ridiculous.</i>
+3071235 3075820 After watching a stumblebum like Brody
+3075889 3078881 save his neck by just doing
+3078993 3081462 what almost anybody would<br />do in that situation,
+3081579 3083775 <i>you get a gun, you get out of the boat,</i>
+3083881 3086043 <i>you try to save yourself,<br />you get up on the mast,</i>
+3086150 3088892 <i>you shoot the thing.<br />You do what you have to do.</i>
+3089320 3092517 <i>So much so that you<br />feel like you have done it.</i>
+3092623 3094671 <i>Everybody sitting in the audience did it,</i>
+3094742 3096756 <i>because I certainly did not show</i>
+3096844 3100439 any courageous aspect<br />of myself up till that point.
+3100648 3102798 And the characters drive you so forward
+3102900 3106427 that by the time the<br />shark is flapping its mouth,
+3106537 3107800 jumping onto the boat,
+3108372 3110022 all you can think of is, "Quint,
+3110090 3111706 "get your feet away from its mouth.
+3112026 3114859 "Just kick it. Get it away.<br />Stab it, get it away.
+3114928 3118444 "Oh, no, no,<br />no, no, no. Ah! Shit!"
+3120718 3123187 <i>You've got the<br />family unit in the first half of the film,</i>
+3123304 3127241 where Brody has a very, very<br />personable family that you just,
+3127308 3129140 right away you love them when<br />they wake up in the morning,
+3129209 3130233 and you're there with them.
+3130411 3134393 They're in the "yard,"<br />not too "far" from the "car."
+3137151 3138346 How's that?
+3138419 3139534 Like you're from New York.
+3139637 3143904 I always said that the characters in<br />the movie reminded me of relatives.
+3144008 3146272 That's how… I felt I knew them.
+3146377 3149256 He had such a great handle
+3149330 3154951 on depicting suburban, middle<br />class, everyday American life.
+3155052 3157953 And what he put up there<br />was almost documentary-like.
+3158055 3159864 <i>I mean, it was just so real.</i>
+3162876 3164344 <i>One of the things that Jaws did</i>
+3164428 3166920 <i>that I wish movies still did more of</i>
+3167031 3170808 is invade a community and<br />use actual locals in the movie.
+3170884 3173546 <i>It brings the movie to<br />life in such a real</i> way.
+3175823 3178087 <i>Islander, Lee Fierro, who portrayed</i>
+3178158 3180354 <i>the grieving mother<br />of doomed Alex Kintner,</i>
+3180527 3182291 <i>still lives on the Vineyard today.</i>
+3182363 3185822 <i>Her now infamous confrontation<br />scene with Chief Martin Brody</i>
+3185899 3189142 <i>has become a favorite sequence<br />among Jaws fans.</i>
+3190170 3191251 Chief Brody?
+3191305 3192352 Yes?
+3193273 3195139 <i>It's been accurately recorded that</i>
+3195209 3197109 <i>she had to slap the chief many, many times</i>
+3197177 3199271 <i>in order to get just the right take.</i>
+3200114 3203311 <i>Little did she know then that<br />her slapping days had just begun.</i>
+3205319 3208732 <i>How many times<br />have I been asked to slap somebody?</i>
+3210290 3213658 I've never counted them<br />and so I can't tell you.
+3213844 3218190 But it happens a lot<br />and it is mostly young men.
+3220384 3227233 I do it to please the fans, but<br />last year, I decided that is it.
+3227307 3229776 I've slapped my last slap.
+3231512 3234129 <i>Meeting Steve Spielberg<br />was a wonderful memory.</i>
+3234398 3238346 He asked me if I could<br />improvise and I said, "Yes, I can."
+3238419 3243186 And so we did… Shari Rhodes,<br />the casting director, and I
+3243257 3247785 improvised the beach scene,<br />but I had simply been told
+3247878 3251041 <i>keep my son out of the water,<br />so that's what I was doing.</i>
+3251365 3254266 And Steve stopped me and said, "Lee,
+3256069 3259266 "you gotta let him go in the<br />water or we don't have a movie."
+3261909 3266540 They had a raft that was cut in<br />half, and they take my raft away
+3266613 3268331 and they put this half a raft over this.
+3268432 3271026 It was like that round<br />that they filled up with blood
+3271135 3273069 <i>and all this stuff. He goes,</i>
+3273170 3275036 <i>"Now, lie on the half<br />a raft on top of this,</i>
+3275139 3278552 <i>"it's gonna blow up. When<br />it blows up, go underwater</i>
+3278826 3281454 "and stay under there as long as you can."
+3281545 3284537 So you're 12 years old, lying<br />on this and they're saying,
+3284631 3286565 <i>"It's full of blood." They're<br />saying, "It's gonna blow up."</i>
+3286633 3289762 <i>And it's like I'm lying there and all<br />of a sudden…</i>
+3289837 3291987 <i>This thing blows up, and there's blood</i>
+3292089 3294137 <i>going up all over the place in your face</i>
+3294208 3297109 <i>and I just went under water and I hear,</i>
+3297211 3300374 "Cut. Okay, your leg was out<br />of the water," and they had to…
+3301482 3304691 It took over an hour for all the<br />blood to clear out of the water
+3304802 3306429 before they could do it again.
+3306537 3309734 <i>I'd get to go inside one of<br />these warm little dressing rooms.</i>
+3310007 3313056 <i>My friends were all freezing<br />cold outside, but I screwed up</i>
+3313126 3315595 <i>so I get to go stay warm.</i>
+3316597 3319840 <i>And after about four times of<br />doing this, they finally said, "No.</i>
+3319967 3321844 <i>"We're gonna try this a different way."</i>
+3322119 3323336 And if you noticed in the movie,
+3323487 3326969 I go up and down 'cause these<br />guys in the wet suits started…
+3327040 3330271 They grabbed me and they were<br />pulling me under, lifting me up,
+3330344 3332608 <i>and then they pulled me under<br />and gave me their air.</i>
+3332880 3334757 And that's how they finally did it.
+3334865 3338665 They gave up on a 12-year-old<br />kid trying to do it on his own.
+3340838 3344888 <i>For the insert shot<br />needed of Bruce biting down on little Alex,</i>
+3344975 3348605 <i>the dangers of interacting with<br />a multi-ton mechanical shark</i>
+3348695 3352097 <i>required that Jeffrey be<br />replaced with a stunt double.</i>
+3352165 3356580 <i>In this case, a common store<br />mannequin. And a female one at that.</i>
+3357421 3360618 <i>It was to be one of the very<br />last shots done on the Vineyard.</i>
+3361425 3364053 <i>Steven Spielberg had<br />already departed the island.</i>
+3364161 3366004 <i>And filming was left in the capable hands</i>
+3366079 3367956 <i>of Joe Alves in the second unit.</i>
+3371285 3375483 <i>In true Jaws fashion, the scene<br />proved extremely difficult to coordinate.</i>
+3376240 3378641 <i>But in the end, the shot<br />would provide audiences</i>
+3378725 3382457 <i>with the now famous<br />frightening first glimpse of Bruce.</i>
+3389836 3391031 Your folks were born here, right?
+3391104 3392230 Yeah, I'm an Islander.
+3392306 3394400 <i>Vineyard native, Jonathan Filley,</i>
+3394474 3396568 <i>who played Tom Cassidy in the film,</i>
+3396843 3398823 <i>parleyed his one and only acting job</i>
+3398929 3402024 <i>into a solid career in the<br />motion picture industry.</i>
+3402316 3404057 <i>I had done a lot of acting in high school</i>
+3404151 3406415 <i>and really thought that I wanted<br />to pursue an acting career,</i>
+3406486 3407783 <i>and there I was on the Vineyard</i>
+3407854 3411472 <i>and saw an ad in the paper<br />that they wanted extras for Jaws.</i>
+3411942 3413933 So I sent in a snapshot of me at the beach
+3414044 3415842 the summer before with some friends,
+3415946 3418916 and I think I circled that,<br />"That's me," and they cast me.
+3420217 3422276 <i>There was so much stuff that<br />they didn't need that was shot.</i>
+3422386 3424013 <i>I was in and out of the production</i>
+3424121 3426089 <i>and around it quite a bit.<br />There's a piece in the picture</i>
+3426173 3429222 <i>where this guy is<br />complaining to the chief that,</i>
+3429326 3431226 <i>"Chief, the kids are<br />karate-chopping my fences,"</i>
+3431328 3433774 <i>but, yeah, of course, they<br />didn't need the actual coverage</i>
+3433880 3436144 <i>of the kids karate-chopping fences.</i>
+3438251 3440765 <i>And what I really<br />cherish about this movie,</i>
+3440871 3442384 <i>having grown up on Chappaquiddick,</i>
+3442456 3444504 is that wonderful scene<br />where they come over
+3444608 3446076 on the Chappaquiddick ferry
+3446159 3448503 and the guy running the ferry<br />is this old fellow, Dick Huard,
+3448612 3451206 <i>who passed away 15 years, 20 years ago.</i>
+3451315 3453943 <i>And Dick was an integral part<br />of my childhood.</i>
+3454051 3457828 And just seeing Dick, it<br />brings back so many memories.
+3459156 3461625 <i>For some fans, no pilgrimage to Amity</i>
+3461725 3463090 <i>is complete without looking up some</i>
+3463176 3465577 <i>of the many un-credited Vineyard residents</i>
+3465646 3467159 <i>who make appearances in the film,</i>
+3467264 3469813 <i>regardless of how miniscule their parts.</i>
+3472185 3475746 Richard Dreyfuss yells at me,<br />"Ahoy, sloop, you got a paddle?"
+3475822 3477096 And I say, "Yeah, I got a paddle."
+3477274 3478274 You got a paddle on the boat?
+3478291 3479291 I got a paddle.
+3479443 3481184 And that was my one big line.
+3481378 3483654 I quit, Mr. Quint. I quit.
+3483747 3488958 <i>My part was Quint's<br />mate. There was a boat named</i> Skip Bucket
+3489036 3491516 <i>that had all the camera crew<br />who were coming home.</i>
+3491605 3495724 Spielberg says, "Will you do<br />me a favor?" And I said, "I'll try to."
+3495826 3498136 And he says, "Will you take up<br />a speaking part with the dog?"
+3498211 3499211 And I said, "Yes."
+3499930 3502900 <i>So, I went to get cleaned up a little bit,</i>
+3503000 3506049 <i>and they told me I had to get dirty again,</i>
+3506136 3510369 so I couldn't shave anymore.
+3511775 3513766 <i>I'm Henry Carreiro,</i>
+3513944 3515685 <i>I was one of the two guys</i>
+3515779 3517269 that claim we caught this tiger shark,
+3517381 3519895 which was shot right on this spot.
+3519966 3522594 And, of course, it turned out<br />to be the wrong shark.
+3522703 3526219 <i>Right in this area, we had a<br />shark here hanging by the tail,</i>
+3526323 3530874 <i>which was a real one that<br />we were told cost $10,000,</i>
+3531228 3535028 <i>to have it caught off Florida<br />and flown up here special in a box.</i>
+3535499 3537274 <i>And they called him Oscar.</i>
+3537350 3539250 They got a lot of use out of that thing.
+3539336 3540770 But the smell!
+3541405 3543817 <i>That tiger shark really got ripe.</i>
+3544708 3547917 <i>I didn't know who, Dick, my partner<br />was, till I met him that morning.</i>
+3547994 3549234 <i>We hit it off very well.</i>
+3549346 3552145 He's funny, he's a<br />character in his own right.
+3552249 3555219 I immediately just clicked with this guy,
+3555302 3559887 and we started cracking each<br />other up and making jokes.
+3560207 3563518 Henry is a very, very quick<br />fellow. And he ad libs very well.
+3563627 3565789 We played very well off of one another.
+3565996 3568044 Gentlemen, the officer<br />asked me to tell you
+3568115 3570106 that you're overloading that boat!
+3570200 3571941 Go on, get out of here.
+3572018 3574897 Dreyfuss, he said, "Where's a<br />good restaurant around here?"
+3575005 3576063 Whatever his line was.
+3576173 3578904 And I turned around and I<br />said, "Go straight ahead."
+3579109 3581806 Big laugh,<br />right. Yeah. Yeah.
+3581912 3583027 And he left it in.
+3583213 3586399 Can you tell me if there's a good<br />restaurant or hotel on the island?
+3586750 3588343 Yeah, you walk straight ahead.
+3589569 3591219 They're all going to die.
+3591404 3593873 <i>Spielberg said, "Just<br />say what comes into your head."</i>
+3594024 3595753 You stuff your frigging<br />head in there, man,
+3595859 3597554 and find out if it's a man-eater.
+3598762 3600560 <i>We had this guy who did an article</i>
+3600664 3602496 <i>in the local paper on Cape Cod.</i>
+3602582 3604630 And he talked to Shari Rhodes and he said,
+3604718 3608177 "Boy, you must have an<br />Abbott and Costello going here."
+3608255 3610235 She says, "No, I just have two Costellos."
+3610524 3611741 It's got a deep throat, Frank.
+3611842 3613503 Yeah, but what kind?<br />What kind of shark?
+3613577 3615204 Tiger shark.
+3616947 3618108 A what?
+3618582 3620482 <i>There's one guy<br />that pesters the hell out of me,</i>
+3620584 3625169 every time he sees me, he walks<br />up behind me and says, "A what?"
+3625255 3626734 That's probably going to be
+3626807 3629526 <i>the most famous thing<br />I've ever said in my life.</i>
+3629693 3630888 A what?
+3631595 3634690 Mum, I got cut.<br />I got hit by a vampire.
+3636133 3638431 <i>Then 12-year-old Chris Rebello,</i>
+3638535 3640811 <i>who played Chief Brody's<br />elder son, Michael,</i>
+3640904 3642133 <i>remained on the Vineyard</i>
+3642239 3646142 <i>until his untimely passing from<br />a heart attack in the year 2000.</i>
+3647444 3650880 <i>Chris was a friend.<br />We grew up together on the island.</i>
+3651348 3653612 Working with Chris in the movie,
+3653717 3657130 he was a brother,<br />another brother to my family.
+3657204 3660686 <i>On set, we used to fool around and play,</i>
+3660774 3663618 <i>sometimes Steven would say,<br />"Okay, that's enough.</i>
+3663727 3666162 <i>"It's time to get back to<br />work. Let's do our thing."</i>
+3666263 3669107 <i>And after the movie was done,<br />he didn't do any more acting.</i>
+3669216 3670843 <i>He went on to work<br />for the Steamship Authority</i>
+3670934 3672459 <i>with my brother, Tommy.</i>
+3672569 3675311 And that's where he worked<br />until his passing.
+3677841 3681209 <i>We really miss him.<br />We really miss him.</i>
+3684848 3689058 <i>Perhaps no islander gained<br />more notoriety for his involvement in Jaws</i>
+3689135 3691035 <i>than the late Craig Kings bury.</i>
+3691872 3693601 <i>Craig's gruff and blustery demeanor</i>
+3693673 3696392 <i>had made him a local legend<br />in his own right.</i>
+3696493 3701192 <i>And his portrayal of fisherman Ben<br />Gardner, a favorite among Jaws fans.</i>
+3701298 3706759 <i>They advertised for<br />some person who was a fisherman, a local,</i>
+3707087 3709715 <i>who could help Robert Shaw<br />with his accent.</i>
+3709789 3713771 <i>Robert was a refined British<br />actor until he met my father,</i>
+3713877 3716471 <i>and then my father told him stories about</i>
+3716580 3719140 <i>this island and the people that live here,</i>
+3719432 3723300 and, unfortunately, I think<br />Robert Shaw believed them.
+3723370 3726271 He fell hook, line and sinker,<br />and he began to repeat them.
+3726356 3728267 <i>He was interviewed on the air,</i>
+3728358 3730383 <i>telling these totally outrageous stories</i>
+3730477 3731854 <i>about the local community.</i>
+3731962 3733043 …the rich people here.
+3733113 3735389 There's a lot of skeletons in<br />the cupboard here, you know.
+3735482 3737530 There's more incest going on<br />in Martha's Vineyard
+3737634 3741286 than probably any state<br />in the United States.
+3741371 3744898 They were mostly lies, which<br />is what my father was best at.
+3745175 3747758 They'll wish their fathers<br />hadn't met their mothers…
+3749346 3752407 My mother, when I took her<br />to see the movie in Boston,
+3752499 3754547 we came out of the theater and she said,
+3754651 3756665 <i>"That Spielberg, he's a genius.</i>
+3756736 3760548 <i>"Finally, somebody has found a<br />use for your father's empty head."</i>
+3761408 3765026 <i>Of course, Craig's most<br />memorable scene did involve his head,</i>
+3765262 3766627 <i>but not the rest of him.</i>
+3766730 3769028 <i>In fact, it didn't even<br />take place at the Vineyard.</i>
+3769215 3772560 <i>Three thousand miles away<br />in Van Nuys, California,</i>
+3772669 3775195 <i>Spielberg resourcefully created that</i>
+3775305 3777831 <i>most shocking moment as an insert shot,</i>
+3778041 3781204 <i>and he used little more than<br />a foam life-cast of Kings bury</i>
+3781311 3782642 <i>and a swimming pool.</i>
+3782946 3785643 <i>Steven had just<br />come from the answer print with Verna</i>
+3785749 3787899 at Universal and had signed off on it,
+3787968 3790551 and here we were on that very eve,
+3790654 3794454 doing an extra shot that we were<br />gonna try to get in the next day.
+3794541 3796316 That scene had already been shot.
+3796493 3798655 <i>But it wasn't done to shock the audience,</i>
+3798762 3800105 <i>and so I went to Verna Fields',</i>
+3800180 3801454 <i>my film editor's swimming pool,</i>
+3801548 3803448 borrowed her pool,<br />'cause I didn't have one,
+3803516 3805541 I didn't have enough money to<br />have a swimming pool in those days,
+3805618 3807029 because <i>Jaws</i> hadn't come out yet,
+3807137 3808514 and I was a poor director then.
+3808672 3811403 We had a small replica of a hull
+3811508 3813840 that I put together<br />in Joe Alves' driveway.
+3813927 3816305 <i>And I basically held my breath underwater</i>
+3816413 3819474 and put the head of Ben<br />Gardner through that hull
+3819566 3821978 when Frankie Sparks came up<br />with the flashlight.
+3826456 3830199 <i>I remember, I timed it<br />to get maximum shock effect.</i>
+3835098 3837157 <i>This is the pool where Steven Spielberg</i>
+3837267 3839326 <i>filmed the Ben Gardner sequence.</i>
+3839436 3841154 And that was done right here.<br />Very famous.
+3841221 3844236 Scary. Scary moment.
+3844341 3846867 <i>What was the most<br />satisfying edit you did in</i> Jaws?
+3846960 3849440 The most satisfying edit, I have to say,
+3849546 3851594 was the face coming out of the boat.
+3851664 3853154 Because when I went to that preview,
+3853233 3855884 and that audience just<br />went six feet off their seats
+3855969 3860623 and let out this incredible<br />scream, that was really satisfying.
+3860724 3864433 When we found this place, it was<br />still full of her reels just sitting there,
+3864511 3867412 <i>but it was amazing treasure to find.</i>
+3868932 3871663 These are some footlockers<br />that we found at the house.
+3871768 3875204 These came back from Martha's<br />Vineyard, from the shoot there,
+3875305 3879105 and as you can see, "Verna<br />Fields, editorial <i>Jaws, "</i>
+3879209 3881007 on the cover of this one.
+3881111 3883637 And inside, there are several film reels
+3883747 3887308 of Verna's work still<br />kept in these boxes here.
+3887417 3890682 This is full of different<br />films that she made.
+3891871 3893999 Yeah, she had set up<br />her editing facility here
+3894074 3897806 <i>and edited all of her films<br />in this building right here.</i>
+3897911 3900380 <i>It's kind of cool<br />that this humble, simple room</i>
+3900447 3903974 <i>is where one of the greatest<br />movies ever was put together.</i>
+3904968 3905968 What are we looking for?
+3906069 3907764 We're looking for a nice place to show
+3907871 3910533 that Quint refuses to slow down the boat.
+3912025 3917680 And here we have the Moviola<br />that Verna Fields used to edit Jaws.
+3917781 3921558 Every second of the Jaws film<br />passed through this machine
+3921634 3924353 by the hands of Verna Fields.<br />That's special.
+3924454 3928413 Doesn't look very pretty now,<br />but maybe someday, it will again.
+3929793 3931511 <i>Verna and I worked in her pool house</i>
+3931578 3934354 <i>shoulder to shoulder for a<br />long time on that Moviola.</i>
+3934481 3937940 And Verna did a great job<br />with her biorhythms.
+3938017 3942796 Creating a biorhythm for Jaws that<br />was just the right kind of tautness,
+3942906 3945750 like a violin string to play<br />a very, very high note.
+3948645 3950443 It can't take that much pressure.
+3953183 3954491 That's the spot, Steve.
+3959088 3961534 <i>My husband tells me you're in sharks.</i>
+3964344 3967655 Excuse me. Yes. I've never<br />heard it quite put that way.
+3967730 3969141 But yes, I am.
+3969549 3970710 I love sharks.
+3971151 3972459 <i>Yeah, I love them.</i>
+3974003 3977769 <i>I think the fascination<br />with sharks comes from many things.</i>
+3977841 3981402 <i>One, they are the last surviving predator</i>
+3981478 3983503 <i>that poses a genuine threat to man</i>
+3983580 3986561 <i>in an environment<br />in which he chooses to go.</i>
+3988635 3992219 E. O. Wilson said, "We<br />don't just fear our predators,
+3992305 3994023 "we are transfixed by them."
+3994574 3996838 <i>Prone to weave stories and fables</i>
+3996943 4002109 <i>because fascination breeds<br />preparedness, and preparedness, survival.</i>
+4002215 4006402 <i>In a deeply tribal sense, he<br />said, "We love our monsters."</i>
+4008488 4013221 <i>I believe that worldwide, young<br />children, all male children at least,</i>
+4013326 4016193 <i>have a fascination with<br />either sharks or dinosaurs.</i>
+4016296 4017878 Very big shark.
+4018047 4020823 <i>And in my case, I was<br />able to grow up around here</i>
+4020934 4023960 <i>in Nantucket where<br />sharks were in proliferation.</i>
+4024053 4027421 <i>So I was able to fix my<br />fascination on sharks.</i>
+4030777 4033462 <i>One couple whose fixed fascination</i>
+4033530 4037194 <i>led to their preeminence in the<br />field of great white shark research</i>
+4037267 4041534 <i>was husband and wife team<br />Ron and Valerie Taylor of Australia.</i>
+4041704 4045106 <i>Their combined experience<br />throughout the '60s and '70s</i>
+4045174 4047688 <i>documenting these elusive animals</i>
+4047794 4051128 <i>made them the perfect fit<br />for the Jaws creative team.</i>
+4051231 4054007 <i>They were commissioned<br />to shoot live shark footage</i>
+4054083 4057428 <i>for the picture's climactic cage sequence.</i>
+4057537 4060063 <i>The assignment would prove<br />to be almost as harrowing</i>
+4060173 4061720 <i>as anything in the film itself.</i>
+4062909 4064399 <i>I told them that there's a problem,</i>
+4064494 4068806 because our sharks on average<br />are only about 13 feet in length,
+4068915 4072328 and yet your mechanical shark<br />is 26 feet in length.
+4072402 4074018 And they said, "Well, there's no problem.
+4074103 4077915 "We'll send you a small man<br />and small cages."
+4078107 4083625 We built a scaled down cage, and<br />we tried a dummy and that didn't work,
+4083730 4088725 so we found a small person that<br />said that they could scuba dive.
+4088835 4091395 <i>Carl wasn't an experienced diver.</i>
+4091571 4095633 <i>So we gave him an introduction to<br />diving just down on the waterfront</i>
+4095742 4098427 <i>and took him out to Dangerous Reef.</i>
+4098678 4103332 <i>And when he saw his first great<br />white shark, he was terrified.</i>
+4103416 4107478 But to give him his credit, Carl<br />actually did get into the cage
+4107587 4110534 with these great, big, dangerous looking
+4110607 4111950 <i>great white sharks swimming around.</i>
+4112058 4115005 <i>Dangerous looking because we<br />had put a lot of bait in the water</i>
+4115078 4117024 <i>to attract them to our cages.</i>
+4118498 4121183 Joe Alves came into my office one day
+4121250 4124811 with his hand behind his back and<br />he said, "Bill, we've screwed up."
+4124887 4128869 And he held up the tanks<br />that had been miniaturized.
+4128975 4132878 He said, "That little guy<br />only has eight minutes of air."
+4133146 4134557 What we were not thinking
+4134631 4139296 is that a small person still sucks<br />up as much air as a large person,
+4139369 4141417 and the tanks were very small.
+4141521 4143740 So, immediately, when he sort of panicked,
+4143806 4146685 <i>he sucked up all the air out of the tank.</i>
+4146793 4150252 <i>Carl was very<br />reluctant. He was afraid. Very afraid.</i>
+4150363 4154573 The production manager was<br />calling out to him to get in the cage,
+4154651 4158804 and he was very slow about it,<br />and just as he was about to climb in,
+4158905 4161647 a <i>large shark tried to swim over it</i>
+4161741 4164438 <i>and got its head stuck in the bridle,</i>
+4164544 4168128 <i>and of course, it was<br />trapped and it went crazy.</i>
+4168197 4171599 <i>And the tail went into the<br />back part of the little boat</i>
+4171668 4174399 <i>and tore out all the hydraulic cables</i>
+4174487 4177184 that took fuel and fluid to the motors.
+4177290 4180191 And it started to run across<br />the deck, and as it did that,
+4180293 4183627 <i>the tail flicked Carl's</i> face.
+4183730 4186461 <i>And Carl just stood there,<br />and he looked up and he said,</i>
+4186566 4191367 "Is that my blood?" And it<br />was actually the hydraulic fluid.
+4191471 4193667 And we never got him in the water again.
+4194774 4198938 <i>If Carl had been in that<br />cage, he would have lost his life.</i>
+4199045 4202629 There wasn't much I<br />could've done to get over there.
+4202699 4204997 The shark was still tangled,<br />and thrashing around
+4205068 4207912 <i>and tangled in the cage on the bottom.</i>
+4208004 4210314 <i>Carl would have been in there and drowned.</i>
+4210423 4212790 <i>So his reluctance saved his life.</i>
+4219499 4222127 1,100 men went into the water.
+4222235 4224397 Vessel went down in 12 minutes.
+4226606 4230292 Didn't see the first shark<br />for about half an hour. Tiger…
+4230359 4232600 <i>A very little credited writer who made</i>
+4232712 4234191 <i>the biggest breakthrough on</i> Jaws,
+4234263 4236777 <i>which was a writer named Howard Sackler,</i>
+4236883 4239978 <i>whose idea it was to give<br />Quint the Indianapolis speech,</i>
+4240086 4242828 even though it was John<br />Milius who wrote the speech,
+4242905 4245624 I mean, Howard Sackler wrote<br />like two paragraphs this big,
+4245725 4250470 <i>John Milius wrote a nine page<br />monologue for Quint to say.</i>
+4250563 4253112 <i>And then when Robert Shaw,<br />who himself was a writer,</i>
+4253199 4257067 <i>of The Man in the</i> Glass <i>Booth<br />read Milius' 10 pages,</i>
+4257170 4259901 he says, "I can't go on for 10, 15 minutes
+4260006 4262748 "just talking.<br />Let me have a crack at it."
+4262842 4267757 Shaw took the speech and<br />himself edited it down to five pages.
+4267847 4270646 And that was the whole evolution<br />of how that speech was told,
+4270750 4273549 but it did come from the mind<br />of Howard Sackler,
+4273653 4275917 who remembered the actual<br />Indianapolis incident
+4276022 4277535 and suggested that Quint…
+4277607 4280292 That that become a Rosetta<br />stone for Quint's entire character.
+4280393 4282612 Steven said, "Oh, my God."
+4282678 4287366 That's the whole impetus,<br />that's the whole spine of Quint.
+4287467 4293918 He's not really just crazy, but he<br />has a case out for these sharks.
+4293990 4296038 You know, by the end of that first dawn…
+4298211 4299519 we lost 100 men.
+4301364 4303640 I don't know how many<br />sharks. Maybe 1,000.
+4303733 4306384 I don't know how many men,<br />they averaged six an hour.
+4306486 4311390 <i>The USS Indianapolis was top<br />secret when Peter wrote the book.</i>
+4311491 4315906 So it wasn't in it. He<br />would've used it, I think.
+4315978 4318288 And then, before the making of the film,
+4318381 4320657 it had been unclassified<br />and Steven used it.
+4320750 4324232 <i>The world learned of the<br />USS Indianapolis through Jaws</i>
+4324337 4329025 <i>and it was a perfectly accurate<br />depiction insofar as I know.</i>
+4329091 4332607 <i>Peter's domestic housekeeper<br />called in the day after the movie opened</i>
+4332712 4336444 and she said that she wasn't<br />coming in to work the next day.
+4336549 4337983 And when he said, "Why," she said,
+4338084 4340246 <i>"My son was on the USS Indianapolis,</i>
+4340353 4342447 "and I never knew how he died until now."
+4345558 4348209 He'd been bitten in half, below the waist.
+4351013 4353141 <i>The U. S.<br />naval cruiser which delivered</i>
+4353216 4355264 <i>the atomic bomb used on Hiroshima</i>
+4355368 4356802 <i>completed her mission,</i>
+4356903 4359736 <i>but was then sunk by a Japanese submarine.</i>
+4361307 4365687 <i>Out of her complement<br />of 1,196 sailors and Marines,</i>
+4365761 4368742 <i>an estimated 300 died upon impact.</i>
+4369282 4372183 <i>And the rest spent five days<br />in shark infested waters</i>
+4372285 4374117 <i>before they were finally rescued.</i>
+4375655 4378920 <i>Only 317 survived.</i>
+4381444 4385290 Anyway, we delivered the bomb.
+4387817 4394132 <i>Robert was a pretty Promethean<br />character. Truly bigger than life.</i>
+4394240 4398199 <i>A man who intimidated me, who scared me,</i>
+4398311 4402361 who exhilarated me, and I<br />liked him and I hated him and…
+4403950 4409389 He had my number. He could<br />get me and he always did.
+4409472 4412635 He really thought Dreyfuss<br />needed a slapping down.
+4413743 4416758 Young punk with no stage experience.
+4416846 4419588 He made me doubt that I<br />could do things I knew I could do,
+4419699 4425388 like one day he said, "You<br />couldn't dive off the top of the Orca."
+4426973 4429453 "Yes, I can."<br />"No, you couldn't."
+4429642 4432543 "Can do." And I couldn't.
+4432645 4434864 Shaw would say, "Look at you, Dreyfuss.
+4434931 4439141 "You eat, you drink,<br />you're fat and you're sloppy.
+4439235 4442421 "At your age, it's criminal.
+4442505 4445452 "You couldn't even do 10 good push-ups."
+4446392 4448383 He'd say, "I can do 20."
+4448878 4452758 And Shaw would say, "You<br />can do 20 good push-ups?"
+4453466 4455730 <i>He'd say, "Okay, Roy, you're the referee.</i>
+4455835 4460636 "Tomorrow morning, we're<br />gonna see if Dreyfuss can do 20…"
+4460740 4462003 As soon as Shaw left, I said,
+4462108 4467057 "Dreyfuss, you know how many<br />people can do 20 good push-ups?
+4467263 4468697 "You are not one of them."
+4469332 4471426 Couldn't do it. He psyched me
+4472118 4475804 and because he psyched me,<br />I was always like on guard.
+4476022 4480823 But I also really worshipped<br />him as Robert Shaw.
+4480910 4485564 <i>He was a grand artist as an<br />actor, he was a wonderful writer.</i>
+4485665 4489192 <i>I think, in those years, I was very<br />much appreciative of those things.</i>
+4489285 4494553 And had circumstances been different,
+4494623 4497399 we might have worked together again.
+4497510 4502710 <i>Farewell and adieu<br />to you fair Spanish ladies</i>
+4502815 4506774 <i>Farewell and adieu, you ladies of Spain</i>
+4507687 4511772 <i>On August 28th, 1978, at the age of 51,</i>
+4511841 4516859 <i>Robert Shaw died from a heart<br />attack. But his legacy lives on.</i>
+4516946 4519222 <i>His now mythic portrayal of Quint</i>
+4519315 4521579 <i>continues to be remembered by celebrities…</i>
+4521650 4526486 <i>Farewell and adieu<br />to you fair Spanish ladies</i>
+4527440 4528737 <i>…and fans alike.</i>
+4530292 4532738 Ho open you idiot,<br />starboard! Ain't you watching it!
+4533295 4534387 Bad fish.
+4534480 4536448 Not like going down to the pond
+4536549 4538426 and chasing bluegills or Tommy cods.
+4538501 4540868 This shark, swallow you whole.
+4542722 4545669 Mr. Mayor, Chief,
+4546342 4548083 ladies and gentlemen.
+4551213 4554808 <i>Commemorations of<br />the film's central characters and scenes</i>
+4554884 4557569 <i>show up in the fine arts, as well.</i>
+4557837 4561523 <i>Exquisite depictions from<br />sculptors, painters, craftsmen,</i>
+4561624 4563615 <i>all fans from around the globe,</i>
+4563692 4566206 <i>reflect the creative<br />excellence of the film itself.</i>
+4574637 4578585 <i>I have</i> a <i>tremendous<br />appreciation for fans of Jaws</i>
+4578758 4581272 <i>that understand it even better than I do.</i>
+4581544 4583387 <i>That have spent more time with it.</i>
+4583496 4587376 <i>Having sites out there like Jawsmovie.com,</i>
+4587450 4590181 <i>it confirms your identity to a generation</i>
+4590286 4592755 that doesn't believe anything<br />is real if it's not on the net.
+4592822 4596338 <i>I love and<br />appreciate the fact that the fans get it,</i>
+4596442 4600857 <i>and not only get it as<br />a cultural phenomenon,</i>
+4600930 4604298 but they get the ingredients, and<br />how the ingredients were mixed
+4604400 4607199 and how they were combined<br />to fashion this entertainment.
+4607303 4610512 And I really love the fans<br />for being so insightful.
+4616479 4619631 <i>At this time, I'd like to<br />present the key to the town of Amity</i>
+4619799 4621164 <i>to Mr. Peter Benchley.</i>
+4624954 4628333 <i>It was amazing to me<br />to discover what JAWSFEST became.</i>
+4628424 4631337 When I first heard about it,<br />I thought it was gonna be
+4631427 4634545 some rinky-dink gimmick by the Chamber<br />of Commerce of Martha's Vineyard,
+4634647 4636809 and they did it so well,
+4637016 4640964 <i>it brought, I guess, 2,000, 3,000<br />people from all over the world.</i>
+4641036 4643164 <i>I was enormously impressed.</i>
+4643239 4644980 <i>This is the first time</i>
+4645074 4646872 <i>we've all been standing together,</i>
+4646959 4649826 <i>and that includes the making<br />of the movie 30 years ago.</i>
+4649929 4651545 <i>There was no wrap party.</i>
+4651614 4655915 <i>We never were all in the same<br />place at the same time, until now.</i>
+4655985 4659000 <i>So this is a more historic<br />moment than you can imagine,</i>
+4659088 4660396 <i>and we thank you for it.</i>
+4660506 4661769 <i>So much interest in this movie,</i>
+4661874 4664741 <i>I had no idea that it had this<br />national and international attention,</i>
+4664844 4666460 and this is the Star Trek convention
+4666529 4668463 for people who love the movie Jaws.
+4670850 4674787 Is that $3,000 bounty on<br />the shark in cash or check?
+4674887 4676651 <i>You yell, "Shark!"</i>
+4676739 4679754 <i>We've got a panic on our<br />hands on the Fourth of July.</i>
+4679859 4681793 <i>Chief, Polly sent me to find you.</i>
+4681894 4683942 <i>There's a bunch of Boy<br />Scouts out in Avril Bay</i>
+4684013 4686573 <i>doing the mile swim<br />for their merit badges.</i>
+4686649 4688481 <i>People come from all over the world,</i>
+4688551 4693318 who are from Dublin and Edinburgh<br />and New Zealand and Australia,
+4693389 4694800 and it's just stunning.
+4694907 4697239 I think that to me really shows the bones
+4697343 4698777 and the fan base of the movie.
+4698878 4701870 <i>I mean, 30 years on, it's an<br />achievement to have us all together.</i>
+4703883 4705658 Yeah, I saw that.<br />I've got one at home.
+4705768 4706985 Much larger version of it.
+4707086 4708349 Much larger of course.
+4709371 4712033 Came to see the big shark.<br />Take some pictures.
+4712291 4714259 You can literally sit in there.
+4714360 4716306 He will literally swallow you whole.
+4724003 4727155 <i>Do you know the Muffin Man?<br />Well, say hello.</i>
+4727223 4731205 Being called the Muffin Man, I<br />haven't been called that for years.
+4731744 4734714 <i>Ladies and gentlemen, the cast of Jaws.</i>
+4734797 4739007 <i>This is the first time I<br />saw Jaws on a wide screen in 26 years.</i>
+4739134 4741262 <i>The audience, of course, was so into it.</i>
+4741337 4744113 What a great way to<br />set up watching the film.
+4744223 4746487 <i>You've got the ferry going by<br />behind the screen,</i>
+4746592 4748538 <i>salt air is filling your lungs.</i>
+4748811 4751655 To see about 3,000 people sitting<br />there watching the giant screen,
+4751764 4755291 <i>it</i> was the Jaws version of<br />The Rocky Horror Picture Show.
+4756986 4758329 <i>Smile, you son of a bitch!</i>
+4771784 4773582 <i>Jaws is really unique in the way</i>
+4773686 4775484 <i>that it was filmed in this specific place.</i>
+4775571 4778051 <i>Other movies are filmed in<br />all kinds of obscure locations.</i>
+4778157 4780034 Most people don't have a clue<br />where they were filmed.
+4780109 4782692 <i>Jaws was right here all over this island.</i>
+4782795 4785639 <i>And you can't really get away<br />from it, even if you wanted to.</i>
+4786815 4787839 <i>Coming up on the left,</i>
+4787967 4791449 <i>you'll see the house that was used<br />for the Brody residence in the film.</i>
+4792071 4793812 <i>If you wanted to go see a film location,</i>
+4794073 4796235 things change, houses get painted,
+4796342 4799027 and most of the time,<br />they're even on a sound stage.
+4799111 4801660 <i>With Jaws, you can take a ferry ride,</i>
+4801764 4804290 <i>and you'll step off the ferry<br />and you are in Amity.</i>
+4804400 4807233 <i>It has really not changed in 30 years.</i>
+4817513 4820255 <i>I do know that<br />people come here on a regular basis.</i>
+4820366 4823518 <i>Jaws questions are probably<br />some of the top questions we get</i>
+4823686 4825211 <i>in our visitor information centers.</i>
+4825854 4827936 They ask us quite often
+4828040 4829040 if they can still see<br />some of the locations
+4829108 4831622 where scenes from the movie were filmed.
+4831694 4832843 <i>The answer is yes.</i>
+4833329 4835161 <i>Some of the scenes include South Beach,</i>
+4835230 4837005 <i>where the opening bonfire was done.</i>
+4837533 4840264 <i>Amity Town Hall, which is<br />actually Edgar town Town Hall,</i>
+4840336 4842145 <i>right on Main Street in Edgar town.</i>
+4842638 4844697 <i>Also the Chappaquiddick ferry.</i>
+4845324 4848066 <i>It is a very small<br />ferry that takes you between</i>
+4848160 4851073 <i>Edgar town and its island,<br />which is Chappaquiddick.</i>
+4853549 4855813 <i>At the Grange Hall in West Tisbury,</i>
+4855884 4858285 <i>the JAWSFEST Behind The Screams exhibit</i>
+4858354 4860721 <i>is drawing hundreds of islanders and fans.</i>
+4862408 4864035 <i>Contributed by private collectors,</i>
+4864143 4866828 <i>these artifacts of Jaws<br />have returned to the island</i>
+4866929 4869193 <i>for the first time in decades.</i>
+4869264 4871847 Prop collecting has become a<br />really big business in recent years,
+4871934 4872934 thanks to the Internet.
+4873001 4875095 It's easy for people to find props
+4875187 4877201 <i>from recent films all over the place.</i>
+4877272 4880469 <i>It's very difficult to find<br />props from classic films,</i>
+4880542 4882158 <i>especially a film like Jaws.</i>
+4883212 4886204 <i>I got into Jaws<br />when I was about five years old.</i>
+4886281 4888830 <i>One of the first props I<br />ever had was a harpoon gun.</i>
+4889284 4892049 And if you're five years old<br />and you have the harpoon gun,
+4892121 4895853 of course, you need the barrels and<br />the tank and the list goes on and on.
+4896325 4898703 <i>I spent 30 years of my life<br />tracking this stuff down.</i>
+4898811 4902122 <i>And I think I did a pretty good<br />job, considering I found out</i>
+4902231 4905075 <i>that I probably have one of the<br />largest collections in the world.</i>
+4912858 4915134 <i>And whatever<br />happened to the ultimate Jaws prop?</i>
+4915661 4917777 <i>Quint's trusty fishing boat, the</i> Orca,
+4918230 4922315 <i>which served as a floating set for<br />nearly four months of shooting at sea.</i>
+4923419 4925717 <i>Well, I had</i> a <i>good<br />souvenir. I had the</i> Orca <i>for a while.</i>
+4925788 4928200 <i>I had the Orca shipped back<br />to Universal Studios.</i>
+4928307 4930036 <i>We put it on the tour, in the back lot.</i>
+4930142 4932270 <i>And every once in a while,<br />|'cl go up in my little electric cart,</i>
+4932361 4933954 <i>and I'd visit the Orca, by myself.</i>
+4934062 4935461 I'd look around and make sure<br />no tourists are around,
+4935531 4936646 and nobody can see me.
+4936732 4939895 And I would just sit<br />inside the pilot house,
+4939968 4942050 or I would sit in one<br />of the cabins, right.
+4942154 4945283 <i>Walk down those few steps to<br />where all the life jackets were</i>
+4945374 4947957 <i>just hanging, dripping,<br />when the boat began to sink.</i>
+4948060 4950609 <i>And I would just kind of reminisce<br />and kind of give thanks that</i>
+4950712 4952612 <i>that movie sort of launched my career,</i>
+4952714 4955661 <i>but I would go there alone,<br />and spend time on it</i>
+4955751 4956751 <i>and didn't tell anybody.</i>
+4956819 4959038 Then one day, about six months later,
+4959138 4961914 I went for another journey<br />back in time, down memory lane.
+4961990 4963651 The boat was gone.
+4963759 4966285 And I called up the head of the back lot,
+4966361 4967658 and I said, "What happened to the Orca?"
+4967729 4969458 He said, "Well, it was just rotting there.
+4969565 4972865 "So, we took an ax and took<br />a couple of chainsaws,
+4972935 4976462 "and we cut it up for timber.<br />We shipped it out."
+4977089 4980605 And I went nuts.<br />I went nuts.
+4980676 4982303 I feel very bad about<br />all the things I said
+4982377 4983936 to that poor man who took my phone call.
+4984012 4987380 But I was just beside myself.<br />They had destroyed this.
+4987483 4991386 This piece of wood, originally<br />called the Warlock, by the way.
+4991487 4993046 <i>It was a real boat called the Warlock,</i>
+4993121 4995419 <i>and we painted that over it, a weird omen,</i>
+4995491 4997368 <i>and called it the</i> Orca.
+4997910 5000754 And the fact that the boat<br />was no longer in existence,
+5000863 5002228 it had died, you know?
+5002865 5005527 And it was just<br />the strangest feeling for me,
+5005601 5007228 but in a way it was good for me,
+5007319 5008912 because it cut the umbilical cord
+5009021 5011706 that was joining me<br />to some of my worst memories
+5011773 5014014 about filming that movie.
+5014193 5016992 And it kind of freed me when they<br />broke the boat into many pieces.
+5017079 5019912 But I did recover both twin screws,
+5019982 5022781 I got the propeller blades back,
+5023252 5026051 and I got the pilot wheel.
+5028874 5030456 The Orca <i>is a cast</i> member.
+5030526 5033461 And what a lot of<br />people don't realize is that
+5033529 5039343 Joe Alves built an exact<br />replica on pontoons,
+5040152 5043144 <i>which was affectionately<br />called the Orca II.</i>
+5044356 5047223 <i>The</i> Orca <i>II,</i> a <i>fiberglass stunt double,</i>
+5047326 5050011 <i>that was designed to sink<br />and re-emerge on command,</i>
+5050078 5051705 <i>has remained on the Vineyard.</i>
+5052915 5054997 <i>Islander and Jaws boat wrangler,</i>
+5055083 5057802 <i>Lynn Murphy, has kept her<br />on a shoreline in Menemsha</i>
+5057903 5059598 <i>since filming completed.</i>
+5059805 5061864 <i>When they clean up after a movie,</i>
+5061974 5064022 <i>they gotta pick up<br />their junk and clear it out.</i>
+5064092 5066288 <i>They said, "Well, we<br />gotta get rid of this stuff."</i>
+5066378 5068187 <i>So, I bought the</i> Orca.
+5068297 5070095 I looked it over and there was lumber
+5070198 5072826 and things in the special effects barge,
+5072935 5074380 and I wasn't sure just exactly how
+5074469 5075868 <i>I was gonna use it at the time,</i>
+5075938 5077656 <i>but I wasn't gonna let it go to the dump.</i>
+5080259 5083604 <i>Yeah, you can see the<br />mechanism that was under the</i> Orca.
+5083679 5085841 <i>You see all that?<br />That was never</i> a boat.
+5086298 5087413 <i>There was never a bottom.</i>
+5088483 5090884 <i>The</i> Orca <i>||'s resting site has served</i>
+5090953 5093365 <i>as sort of a holy grail destination</i>
+5093472 5095463 <i>for fans who've made pilgrimages</i>
+5095574 5097520 <i>to the Vineyard throughout the years.</i>
+5098043 5102162 <i>Unfortunately, three decades of<br />weather, tide and souvenir hunters</i>
+5102230 5106417 <i>have stripped the boat down to<br />little more than its fiberglass hull.</i>
+5106585 5109532 <i>People started<br />to realize what all this stuff was,</i>
+5109605 5113769 and over the years,<br />there'd be a porthole missing.
+5114693 5119711 <i>We had several of the balsa<br />wood stems and they'd disappear,</i>
+5119781 5123331 <i>and then the flying bridge<br />came off, and so on and so forth.</i>
+5123435 5126985 <i>As if the sand wasn't bad<br />enough, guys, I got pricker bushes now.</i>
+5127139 5128664 <i>I'm a real fan, huh?</i>
+5129358 5130655 <i>Trespassing is forbidden,</i>
+5130726 5133969 <i>and the marshy terrain<br />surrounding it is quite hazardous.</i>
+5135347 5138874 <i>But none of that has deterred the<br />more tenacious and adventurous fans</i>
+5138984 5140884 <i>from seeking to get an up close look.</i>
+5140986 5144513 I've watched this boat sink<br />more times than I could tell you.
+5144623 5147456 It's kind of nice to see it,<br />but we gotta get out of here.
+5148210 5149257 This is private property.
+5149378 5150675 Explain what we're doing here.
+5150746 5153625 I am one of three complete idiots.
+5154366 5158428 Out here freezing in the middle<br />of the night looking for the Orca II.
+5158637 5160856 This is it.<br />Look at this thing.
+5163592 5166584 <i>Today virtually<br />nothing remains of the Orca II.</i>
+5166662 5168494 This is the end of the Orca.
+5168563 5170827 And this is the only thing<br />that we have left of her.
+5170932 5174197 We decided we'd take her home<br />before she was all gone.
+5174403 5178567 <i>They were selling her for<br />$100 a six-inch square on eBay.</i>
+5181610 5184489 <i>Finally, whatever<br />became of Bruce, himself?</i>
+5185681 5187775 <i>AH of the mechanical sharks used for Jaws</i>
+5187849 5191251 <i>were returned to the back lot of<br />Universal Studios in Hollywood,</i>
+5191319 5194835 <i>where they were stored and<br />eventually succumbed to the elements.</i>
+5196425 5199110 <i>Throughout the span of the Jaws franchise,</i>
+5199211 5201578 <i>there have been four distinct incarnations</i>
+5201680 5202772 <i>of the mechanical shark.</i>
+5203231 5205165 <i>Each one aiming to improve on looks</i>
+5205233 5207315 <i>and functionality over its predecessor.</i>
+5208053 5210420 <i>But for the truest fans,<br />it is the original</i>
+5210539 5213008 <i>with its trademark jowls that remains</i>
+5213075 5215487 <i>the only true embodiment of Jaws.</i>
+5215594 5218154 <i>What happened is that we needed a hinge,</i>
+5218430 5222128 so you got this jowl kind<br />of thing that happens,
+5222234 5226444 which I sort of hated, but<br />I guess Jaws fans love it.
+5226872 5230809 <i>I guess the shark had a character<br />that people got familiar with.</i>
+5232411 5236188 <i>Though he's been replaced<br />by a dissimilar shark in recent years,</i>
+5236264 5239609 <i>Universal Studios, Hollywood,<br />once showcased this casting</i>
+5239718 5244269 <i>from the original Bruce mold as<br />a photo op for visitors to the park.</i>
+5245307 5248322 <i>Today, he remains the<br />last copy from that mold,</i>
+5248427 5252989 <i>but has since been relegated to a<br />junkyard in San Fernando Valley.</i>
+5254282 5257525 <i>Universal Studios, with<br />locations in Hollywood,</i>
+5257636 5260048 <i>Orlando and Osaka, Japan,</i>
+5260122 5263103 <i>has kept their attractions up<br />to date throughout the years.</i>
+5263575 5264804 <i>How many of you saw the film</i> Jaws?
+5264910 5268369 <i>But the lasting popularity<br />of Hollywood's model blockbuster</i>
+5268480 5270858 <i>has assured it an enduring place</i>
+5270932 5273299 <i>in all three theme parks to this day.</i>
+5278457 5281438 <i>Our shark, which<br />has been here since the mid-'70s,</i>
+5281510 5285094 <i>works a heck of a lot better than<br />the shark in the movie ever worked.</i>
+5285197 5288758 But the reason I think it<br />rates so highly still to this day
+5288867 5292132 is because Steven was so good<br />at using the camera as the shark.
+5292237 5295787 So, 40 minutes into the movie<br />when you finally see the shark,
+5295874 5297456 <i>you're so terrified of it.</i>
+5297526 5299187 <i>And I think that's still in people's minds</i>
+5299261 5300843 <i>when they come here<br />and ride this attraction,</i>
+5300946 5303040 they're terrified of the<br />shark before they ever see it.
+5303148 5306140 So, we don't have to do a<br />whole lot to make people scream.
+5306251 5307251 So, it's great.
+5308887 5311652 <i>The back lot<br />shark itself has even made cameos</i>
+5311740 5314687 <i>in other Universal productions<br />throughout the years,</i>
+5314793 5317228 <i>usually being played for laughs.</i>
+5317329 5319548 <i>But whether for humor or for screams,</i>
+5319631 5322544 <i>one thing is certain,<br />at Universal Studios,</i>
+5322634 5327117 <i>even after 30 years, the<br />shark is definitely still working.</i>
+5334830 5338767 <i>For a brief moment<br />in time, life seemed to imitate art.</i>
+5339050 5340734 <i>As the waters of Martha's Vineyard</i>
+5340836 5343396 <i>once again hosted the<br />presence of a great white.</i>
+5343939 5347785 <i>Only this time, the shark wasn't<br />constructed from rubber and steel.</i>
+5348059 5351996 September 21 st, I'll<br />never forget that date, 2004.
+5352063 5355294 <i>The big why is, is why that shark<br />swam not only in shallow waters,</i>
+5355367 5359144 but way up into a very tight,<br />shallow estuarine system.
+5359254 5362372 What motivated that shark to<br />get in there, we'll never know.
+5362474 5364806 Shark! A shark!
+5366011 5368105 <i>When the great white surfaced in</i> Jaws,
+5368179 5372423 <i>Amity Island had to call in Richard<br />Dreyfuss, as ichthyologist Matt Hooper.</i>
+5372634 5374796 Matt Hooper. I'm from<br />the Oceanographic Institute.
+5375804 5378683 <i>But the Vineyard has its own<br />resident shark expert</i>
+5378757 5382637 <i>in Greg Skomal of the Massachusetts<br />Division of Marine Fisheries.</i>
+5383278 5387545 So many differences between 1975 and 2004.
+5387716 5390925 And that's the fact that instead<br />of all the townspeople going out
+5391286 5395336 <i>and trying to kill it with dynamite<br />explosives and shotguns,</i>
+5395407 5399037 <i>spear guns, you name it, the<br />public kind of embraced this animal.</i>
+5399110 5401579 <i>And the cry I got, that far<br />outweighed the negative,</i>
+5401680 5404923 <i>was this positive, "Quit messing<br />around and save that shark."</i>
+5409421 5414791 That we can learn to be concerned for<br />this animal that Jaws taught us to dread
+5414859 5418159 and get past that mythology,<br />to look behind the Jaws
+5418229 5420072 <i>and look at this wild animal<br />that's in need of help,</i>
+5420165 5422213 <i>and draw on our humanity to rescue it,</i>
+5422317 5424285 <i>I think is a step in the right direction.</i>
+5425487 5427581 <i>And that step is no small one.</i>
+5428440 5432775 <i>Despite infrequent, but highly<br />publicized shark attacks in recent years,</i>
+5433328 5435695 <i>the general public's<br />attitude towards sharks</i>
+5435780 5438613 <i>has indeed come a long way since the '70s.</i>
+5439501 5441981 <i>One of the problems of<br />creating a perfect villain,</i>
+5442070 5444937 <i>a machine that kills and<br />eats and makes little sharks,</i>
+5445040 5448066 is that the public quickly subscribes
+5448159 5452995 <i>to that easy view of the<br />shark as dreadful enemies.</i>
+5453081 5458713 <i>Jaws and the sequels, unfortunately,<br />made them easy to dislike.</i>
+5458887 5461436 It made people very conscious of sharks,
+5461906 5467094 and we then realized that<br />we had to put the facts right,
+5467178 5471160 <i>to really convince people<br />that sharks are to be respected,</i>
+5471533 5474013 <i>and we must learn to<br />live with them in the ocean.</i>
+5474102 5475786 <i>The great white shark, for instance,</i>
+5475854 5478539 <i>has been protected for several years now,</i>
+5478640 5481268 <i>and the numbers are slowly coming back.</i>
+5481643 5484294 Over the last 30 years,<br />the science has evolved,
+5484396 5487923 so we understand that sharks<br />have a place in the ocean,
+5488299 5489596 and it's an important place.
+5490402 5492962 <i>Environmental groups like<br />Environmental Defense,</i>
+5493038 5495154 <i>the New England Aquarium<br />and others with whom I work,</i>
+5495240 5497834 have found that the association with Jaws
+5497942 5502311 draws people to at least<br />listen to what I have to say.
+5502764 5505882 <i>So, it has given me the<br />opportunity to have a third career,</i>
+5505950 5508248 <i>in the sense of being a spokesman</i>
+5508319 5511766 <i>for the environment and for the oceans.</i>
+5512957 5515585 <i>Look at that animal, will you, please?</i>
+5516678 5518669 <i>He is just magnificent.</i>
+5519047 5521744 <i>One of the great<br />freedoms that Jaws gave me was to</i>
+5521850 5524376 <i>learn about the ocean<br />that I had written about,</i>
+5524486 5526545 <i>so that for the past 30 years,</i>
+5526638 5529437 <i>Wendy and the kids and I have<br />been able to go around the world,</i>
+5529507 5532340 <i>diving with all of these<br />animals of different kinds,</i>
+5532444 5535960 <i>learning the problems that<br />they face, the truth about them,</i>
+5536064 5538544 <i>having to do with sharks, for instance.</i>
+5538616 5541711 If we can harness all<br />the interest in <i>Jaws,</i>
+5541803 5544716 and from the fans of Jaws,<br />to the enthusiasts of <i>Jaws,</i>
+5544806 5548253 to the people who see it and who<br />learn from it and who are liking it,
+5548359 5550509 into a protection movement for the oceans,
+5550612 5552706 we'd have a massive force going.
+5560305 5565744 <i>The gilt-edged bite of Jaws<br />on so many of today's pop culture artisans</i>
+5565827 5569104 <i>speaks powerfully to the<br />stamina of this single film.</i>
+5569581 5572141 <i>Its extraordinary shelf life<br />has allowed it to function</i>
+5572217 5574413 <i>as sort of a creative well</i>
+5574486 5578480 <i>from which filmmakers may<br />draw inspiration and innovation.</i>
+5578923 5581551 <i>A well that never seems to run dry.</i>
+5583845 5587475 Anyone who's around my age,<br />who's in this movie business,
+5587749 5591379 always kind of cites Jaws <i>as</i> the<br />first movie they remember seeing,
+5591486 5594217 or the movie that made<br />them want to get into movies,
+5594305 5596501 or started their love affair with movies.
+5596608 5597939 I still remember the first time
+5598042 5600568 that I saw Jaws in the<br />theater and how it affected me.
+5600678 5601975 <i>I walked away thinking,</i>
+5602046 5605129 <i>"I wanna learn how to<br />do that when I get older."</i>
+5605300 5610682 And it absolutely changed the<br />direction of my life in one night.
+5610789 5613668 I'm always really grateful
+5613775 5616517 when anybody, especially a young<br />director, comes over to me and tells me
+5616594 5620155 that they were in some way<br />strangely influenced by <i>Jaws,</i>
+5620248 5622330 and I say, "Oh, great.<br />You're part of our club, then.
+5622784 5623797 <i>"You got it."</i>
+5623885 5628334 <i>I aggressively pursued<br />Jaws as a way to learn from the master.</i>
+5628439 5631249 I saw the light, I saw Jaws and I saw
+5631643 5634385 that's the promised land up there.
+5634496 5635496 That's what you have to aim for.
+5635597 5636940 It affected me in film making
+5637015 5639757 in just wanting to make movies<br />that were larger than life.
+5639868 5642644 Certainly, I think it was one<br />of those big films of my life
+5642720 5646167 that inspired me eventually to<br />wanna go on to be a filmmaker.
+5646357 5648075 I think that anyone that wants to make
+5648176 5651237 big Hollywood blockbuster<br />movies is certainly inspired by Jaws.
+5651346 5654714 Probably every film I make, I'm always<br />evoking Jaws, one way or another.
+5654816 5658025 It's like one of the basic films<br />that drives me as a filmmaker.
+5658102 5661197 I've worked with Steven on three projects,
+5661289 5663769 and I still stand next to him<br />and every time I look at him, I go,
+5663842 5665571 "That's the guy that did <i>Jaws.</i>
+5665643 5667327 "That's the reason why I'm here."
+5667412 5671781 I hope the picture has<br />inspired a lot of filmmakers.
+5672000 5677200 I mean, that's another added<br />benefit to this whole miraculous event.
+5677755 5679416 <i>The hardest thing in the film business</i>
+5679490 5684337 is not so much to do something<br />that's usually successful.
+5684429 5688115 Harder than that is to create<br />something that has longevity.
+5688216 5690651 There've been a lot<br />of great pictures made.
+5690752 5693767 But one of the tests is the test of time.
+5693872 5698673 The fact that that film and<br />the music that went with it
+5698776 5700710 lingers in people's minds
+5700778 5704009 is a lot of things. It's a<br />great compliment to me,
+5704082 5707074 and to Steven Spielberg, and the people<br />who wrote it and acted it and all of that.
+5707151 5709984 It's quite an amazing thing for an actor,
+5710054 5714423 who was really an insignificant<br />player in the scheme of things,
+5714626 5721145 to have a lifelong tale,<br />of a fishtail behind me.
+5721249 5724264 Those first instincts that David and I had
+5724352 5729006 <i>when we read the manuscript<br />by Peter Benchley proved correct.</i>
+5729073 5733169 <i>And it feels good to know<br />that it has lasted all this time.</i>
+5733444 5736527 Almost every week or month,
+5736631 5740215 somebody who knows that I<br />was connected with the production
+5740285 5742162 will tell me where they were.
+5742270 5746537 <i>It's like the beginning of World<br />War II, the death of Kennedy.</i>
+5747909 5750276 <i>The emotional experience provided by Jaws</i>
+5751346 5754225 will go on and on and on and on forever.
+5754299 5756347 I mean, who doesn't like Bambi?
+5756918 5759910 <i>Bambi goes on forever.<br />Snow White goes on forever.</i>
+5760021 5761830 Jaws goes on forever.
+5780742 5784269 <i>I certainly think that all of us<br />went through a survival adventure together,</i>
+5784412 5786471 <i>the entire crew and cast and myself.</i>
+5786581 5790791 <i>And I have very good memories in<br />many respects to the making of Jaws,</i>
+5790952 5792761 <i>but I have many more bad memories.</i>
+5793221 5796703 <i>Memories that still haunt my<br />nightmares, still wake me up sweating,</i>
+5796774 5799323 but the bottom line is I'm grateful.
+5799594 5802825 Because I went through<br />a kind of baptism of water.
+5802914 5808398 And I came out of it, not only<br />alive, which was my main goal,
+5808503 5811347 and getting through <i>Jaws</i> was<br />to come out of it in one piece,
+5811439 5813248 but I came out of it with a career.
+5813524 5815549 And I will forever be grateful,
+5815626 5818994 no matter what I tell you<br />about those nightmares,
+5819163 5821825 <i>to the fact that the dream<br />from the nightmare was</i>
+5821933 5824777 <i>that I got a chance to make<br />any movie I wanted to make.</i>
+5824986 5827899 <i>And that has continued to this day.</i>
+5830808 5836326 Time will only tell when Jaws will<br />fade from the collective memory.
+5836848 5839362 But I think as long <i>as</i><br />there are sharks in the sea,
+5839467 5842994 and as long as there are<br />oceans and bodies of water,
+5843187 5846532 as long as there are kids with imagination
+5846641 5849110 who like to torture and scare each other,
+5849193 5852493 Jaws is going to be probably<br />around for a long time.
+6055132 6058375 The shark is working.<br />Repeat. The shark is still working.
+6058486 6061012 <i>Repeat.<br />The shark is still working.</i>

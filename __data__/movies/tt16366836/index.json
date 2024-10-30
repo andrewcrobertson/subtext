@@ -1,0 +1,31 @@
+{
+  "imdbId": "tt16366836",
+  "title": "Venom: The Last Dance",
+  "releaseDate": "2024-10-25T00:00:00.000Z",
+  "releaseYear": 2024,
+  "posterFileName": "poster.jpg",
+  "rated": "PG-13",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "directors": [
+    "Kelly Marcel"
+  ],
+  "writers": [
+    "Kelly Marcel",
+    "Tom Hardy"
+  ],
+  "actors": [
+    "Tom Hardy",
+    "Juno Temple",
+    "Alanna Ubach"
+  ],
+  "runTime": 109,
+  "plot": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.",
+  "subtitleIds": [
+    "ebc912a8"
+  ],
+  "isAvailable": true
+}

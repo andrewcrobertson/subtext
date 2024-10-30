@@ -1,113 +1,95 @@
 <script lang="ts">
   import { base } from '$app/paths';
-  import { showNRecentMovies } from '$lib/isomorphic.constants/movies';
-  import MovieDetailPanelGrid from '$lib/ui.components/MovieDetailPanelGrid';
-  import type { Movie, MyListEventDetail } from '$lib/ui.components/MovieDetailPanelGrid/types';
+  import Alert from '$lib/ui.components/Alert';
+  import MoviePanel, { type MyListEventDetail, type Movie, Mode as PMode } from '$lib/ui.components/MoviePanel';
   import TransitionWhenLoaded from '$lib/ui.components/TransitionWhenLoaded';
-  import { myListManager } from '$lib/ui.composition/myListManager';
+  import { searchService } from '$lib/ui.composition/searchService';
   import ArrowLeftIcon from '$lib/ui.icons/ArrowLeftIcon.svelte';
   import MagnifyingGlassIcon from '$lib/ui.icons/MagnifyingGlassIcon.svelte';
-  import { includes, findIndex } from 'lodash-es';
+  import { findIndex, debounce } from 'lodash-es';
   import { onMount } from 'svelte';
-  import type { PageData } from './$types';
-  export let data: PageData;
-
-  let recentMovies: Movie[] = [];
-  let myListMovies: Movie[] = [];
-  let loaded = false;
+  import { fade } from 'svelte/transition';
 
   let searchQuery = '';
-  $: filteredMovies = getFilteredMovies(searchQuery);
+  let recentMovies: Movie[] = [];
+  let displayMovies: Movie[] = [];
+  let doShowRequestAlert = true;
+  let requestAlertVisible = false;
+  let loaded = false;
 
-  const getFilteredMovies = (searchQuery: string) => {
-    const matches = data.movies.filter((movie) => movie.title.toLowerCase().includes(searchQuery.toLowerCase()));
-    const filteredMovies = mapMovies(matches);
-    return filteredMovies;
-  };
-
-  const mapMovies = (movies: Omit<Movie, 'isOnMyList'>[]) => {
-    const filteredMovies: Movie[] = [];
-    const myListMovieIds = myListManager.get();
-    for (let i = 0; i < movies.length; i++) {
-      const movie = movies[i];
-      const isOnMyList = includes(myListMovieIds, movie.id);
-      filteredMovies.push({ ...movie, isOnMyList });
-    }
-
-    return filteredMovies;
-  };
-
-  const updateIsOnMyList = (imdbId: string, isOnMyList: boolean) => {
+  const updateIsOnMyList = async (imdbId: string, isOnMyList: boolean) => {
     if (isOnMyList) {
-      myListManager.add(imdbId);
-    } else {
-      myListManager.remove(imdbId);
+      doShowRequestAlert = false;
+      requestAlertVisible = false;
     }
 
-    const idx1 = findIndex(myListMovies, (m) => m.id === imdbId);
-    if (idx1 !== -1) myListMovies[idx1].isOnMyList = isOnMyList;
-    const idx2 = findIndex(filteredMovies, (m) => m.id === imdbId);
-    if (idx2 !== -1) filteredMovies[idx2].isOnMyList = isOnMyList;
-    const idx3 = findIndex(recentMovies, (m) => m.id === imdbId);
-    if (idx3 !== -1) recentMovies[idx3].isOnMyList = isOnMyList;
+    await searchService.updateIsOnMyList(imdbId, isOnMyList);
+    const idx1 = findIndex(recentMovies, (m) => m.imdbId === imdbId);
+    const idx2 = findIndex(displayMovies, (m) => m.imdbId === imdbId);
+    if (idx1 !== -1) recentMovies[idx1].isOnMyList = isOnMyList;
+    if (idx2 !== -1) displayMovies[idx2].isOnMyList = isOnMyList;
   };
+
+  $: handleQueryChange(searchQuery);
+
+  const handleQueryChange = debounce(async (searchQuery: string) => {
+    displayMovies = searchQuery === '' ? recentMovies : await searchService.search(searchQuery);
+    if (displayMovies.length === 0 && doShowRequestAlert) requestAlertVisible = true;
+  }, 300);
 
   const handleBackClick = ({}: MouseEvent) => history.back();
   const handleAddClick = ({ detail }: CustomEvent<MyListEventDetail>) => updateIsOnMyList(detail.id, true);
   const handleRemoveClick = ({ detail }: CustomEvent<MyListEventDetail>) => updateIsOnMyList(detail.id, false);
 
   onMount(async () => {
-    let tempMyListMovies: any[] = [];
-    let tempRecentMovies: Omit<Movie, 'isOnMyList'>[] = [];
-    const myListMovieIds = myListManager.get();
-
-    for (let i = 0; i < data.movies.length; i++) {
-      const movie = data.movies[i];
-      const isOnMyList = includes(myListMovieIds, movie.id);
-      if (isOnMyList) tempMyListMovies.push({ ...movie, isOnMyList });
-      if (!isOnMyList && i < showNRecentMovies) tempRecentMovies.push(movie);
-    }
-
-    myListMovies = tempMyListMovies;
-    recentMovies = mapMovies(tempRecentMovies);
+    const loadRes = await searchService.load();
+    recentMovies = loadRes.recentMovies;
+    displayMovies = loadRes.recentMovies;
     loaded = true;
+    setTimeout(() => (requestAlertVisible = doShowRequestAlert), 5000);
   });
 </script>
 
-<div class="fixed top-0 left-0 right-0 flex items-center justify-between p-2 z-10 bg-black bg-opacity-70 border-b-2 border-yellow-500">
-  <button class="btn btn-square text-white" on:click={handleBackClick}>
-    <ArrowLeftIcon class="size-8" />
-  </button>
-  <div class="flex items-center">
-    <MagnifyingGlassIcon class="text-white size-8 mr-1" />
-    <input type="text" class="h-8 p-2" bind:value={searchQuery} />
+<div class="fixed top-0 left-0 right-0 flex items-center justify-between p-4 z-10 bg-black bg-opacity-70 border-b-2 border-yellow-500 h-14">
+  <div class="flex space-x-4 items-center">
+    <button class="btn btn-square text-white" on:click={handleBackClick}>
+      <ArrowLeftIcon class="size-5" />
+    </button>
+    <p class="text-white font-semibold text-lg">Search</p>
+  </div>
+  <div class="flex space-x-2 items-center w-1/2 sm:w-1/3 md:w-1/4">
+    <div class="relative w-full">
+      <input type="text" placeholder="Movie title" class="h-8 pl-10 pr-4 py-2 w-full bg-black text-white focus:outline-none" bind:value={searchQuery} />
+      <MagnifyingGlassIcon class="absolute left-3 top-1/2 transform -translate-y-1/2 text-white size-5" />
+    </div>
   </div>
 </div>
 <div class="mt-16"></div>
 <TransitionWhenLoaded {loaded}>
-  {#if searchQuery.length === 0}
-    {#if myListMovies.length > 0}
-      <h2 class="text-white text-xl md:text-2xl lg:text-3xl font-semibold">Current</h2>
-      <MovieDetailPanelGrid movies={myListMovies} on:addclick={handleAddClick} on:removeclick={handleRemoveClick} />
-    {/if}
-    {#if recentMovies.length > 0}
-      <h2 class="text-white text-xl md:text-2xl lg:text-3xl font-semibold">Suggested</h2>
-      <MovieDetailPanelGrid movies={recentMovies} on:addclick={handleAddClick} on:removeclick={handleRemoveClick} />
-    {:else}
-      <p class="text-white text-xl mt-4">
-        There are no movies in the database. Would you like to <a class="font-bold text-yellow-500" href={`${base}/request?q=${searchQuery}`}>request</a> one?
+  {#if recentMovies.length === 0}
+    <Alert>
+      <p class="text-white text-xl">
+        There are currently no movies in the database. Would you like to
+        <a class="font-bold text-yellow-500 underline" href={`${base}/request?q=${searchQuery}`}>request a movie?</a>
       </p>
-    {/if}
-  {:else if filteredMovies.length > 0}
-    <MovieDetailPanelGrid movies={filteredMovies} on:addclick={handleAddClick} on:removeclick={handleRemoveClick} />
-    <p class="text-white text-xl mt-4">
-      Not what you were looking for? Would you like to <a class="font-bold text-yellow-500" href={`${base}/request?q=${searchQuery}`}>request</a> it?
-    </p>
+    </Alert>
   {:else}
-    <p class="text-white text-xl mt-4">
-      Sorry, we couldn't find a matching movie in the database. Would you like to <a class="font-bold text-yellow-500" href={`${base}/request?q=${searchQuery}`}
-        >request</a
-      > it?
-    </p>
+    {#if displayMovies.length > 0}
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2 p-2 overflow-y-auto scrollbar-hide">
+        {#each displayMovies as movie}
+          <MoviePanel mode={PMode.View} {movie} on:addclick={handleAddClick} on:removeclick={handleRemoveClick} />
+        {/each}
+      </div>
+    {/if}
+    {#if requestAlertVisible}
+      <div transition:fade={{ duration: 1000 }} class="fixed bottom-0 left-0 right-0 bg-black">
+        <Alert>
+          <p class="text-white text-xl">
+            Can't find a specific movie? <a class="font-bold text-yellow-500 underline" href={`${base}/request?q=${searchQuery}`}>Make a request</a>, and we'll
+            do our best to add it.
+          </p>
+        </Alert>
+      </div>
+    {/if}
   {/if}
 </TransitionWhenLoaded>

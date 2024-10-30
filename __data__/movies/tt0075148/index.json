@@ -1,0 +1,46 @@
+{
+  "imdbId": "tt0075148",
+  "title": "Rocky",
+  "releaseDate": "1976-12-03T00:00:00.000Z",
+  "releaseYear": 1976,
+  "posterFileName": "poster.jpg",
+  "rated": "PG",
+  "genres": [
+    "Drama",
+    "Sport"
+  ],
+  "directors": [
+    "John G. Avildsen"
+  ],
+  "writers": [
+    "Sylvester Stallone"
+  ],
+  "actors": [
+    "Sylvester Stallone",
+    "Talia Shire",
+    "Burt Young"
+  ],
+  "runTime": 120,
+  "plot": "A small-time Philadelphia boxer gets a supremely rare chance to fight the world heavyweight champion in a bout in which he strives to go the distance for his self-respect.",
+  "subtitleIds": [
+    "bc42bfba",
+    "9a92b89",
+    "302b7b19",
+    "d2b937c4",
+    "8c83b459",
+    "23c85d7d",
+    "e74cb673",
+    "3be4fb93",
+    "dd213649",
+    "bc42bfba",
+    "6c2dc0a9",
+    "76b63af1",
+    "bd9a7331",
+    "58040991",
+    "397aa0de",
+    "4dcd0e04",
+    "aea843b7",
+    "4779a744"
+  ],
+  "isAvailable": true
+}

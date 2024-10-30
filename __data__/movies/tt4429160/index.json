@@ -1,0 +1,32 @@
+{
+  "imdbId": "tt4429160",
+  "title": "Red Shoes and the Seven Dwarfs",
+  "releaseDate": "2020-09-18T00:00:00.000Z",
+  "releaseYear": 2019,
+  "posterFileName": "poster.jpg",
+  "rated": "PG",
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "directors": [
+    "Hong Sung-ho",
+    "Moo-Hyun Jang",
+    "Young Sik Uhm"
+  ],
+  "writers": [
+    "WoongSub Ahn",
+    "WooChul Jung",
+    "ChangWon Kim"
+  ],
+  "actors": [
+    "Chloë Grace Moretz",
+    "Sam Claflin",
+    "Gina Gershon"
+  ],
+  "runTime": 92,
+  "plot": "Princes who have been turned into Dwarfs seek the red shoes of a lady in order to break the spell, although it will not be easy. A parody with a twist.",
+  "subtitleIds": [],
+  "isAvailable": true
+}

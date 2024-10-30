@@ -1,0 +1,48 @@
+{
+  "imdbId": "tt0145487",
+  "title": "Spider-Man",
+  "releaseDate": "2002-05-03T00:00:00.000Z",
+  "releaseYear": 2002,
+  "posterFileName": "poster.jpg",
+  "rated": "PG-13",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "directors": [
+    "Sam Raimi"
+  ],
+  "writers": [
+    "Stan Lee",
+    "Steve Ditko",
+    "David Koepp"
+  ],
+  "actors": [
+    "Tobey Maguire",
+    "Kirsten Dunst",
+    "Willem Dafoe"
+  ],
+  "runTime": 121,
+  "plot": "After being bitten by a genetically-modified spider, a shy teenager gains spider-like abilities that he uses to fight injustice as a masked superhero and face a vengeful enemy.",
+  "subtitleIds": [
+    "1859f310",
+    "44821c00",
+    "ebd654c4",
+    "97c2d3f2",
+    "dca340a2",
+    "4084cc42",
+    "5c95c112",
+    "f9c289a0",
+    "dca340a2",
+    "97c2d3f2",
+    "ebd654c4",
+    "44821c00",
+    "8543093f",
+    "9a50fb4a",
+    "b62ac62a",
+    "b4889930",
+    "e2c40f7d"
+  ],
+  "isAvailable": true
+}

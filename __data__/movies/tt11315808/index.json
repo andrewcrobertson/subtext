@@ -1,0 +1,34 @@
+{
+  "imdbId": "tt11315808",
+  "title": "Joker: Folie à Deux",
+  "releaseDate": "2024-10-04T00:00:00.000Z",
+  "releaseYear": 2024,
+  "posterFileName": "poster.jpg",
+  "rated": "R",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Musical"
+  ],
+  "directors": [
+    "Todd Phillips"
+  ],
+  "writers": [
+    "Scott Silver",
+    "Todd Phillips",
+    "Bob Kane"
+  ],
+  "actors": [
+    "Joaquin Phoenix",
+    "Zazie Beetz",
+    "Lady Gaga"
+  ],
+  "runTime": 138,
+  "plot": "Arthur Fleck is institutionalized at Arkham, awaiting trial for his crimes as Joker. While struggling with his dual identity, Arthur not only stumbles upon true love, but also finds the music that's always been inside him.",
+  "subtitleIds": [
+    "b86eaf7f",
+    "e90557de",
+    "c2ca8d99"
+  ],
+  "isAvailable": true
+}

@@ -20,7 +20,7 @@ export interface WriteSubtitleDataInputSubtitle {
   author: string | null;
   zipFileName: string | null;
   subtitleFileName: string;
-  subTextFileName: string;
+  subtextFileName: string;
 }
 
 export interface GetMovieDataResponse {
@@ -41,8 +41,7 @@ export interface GetMovieDataResponse {
 }
 
 export interface WriteIndexDataInputMovie {
-  imdbId: string;
-  title: string;
-  posterFileName: string | null;
-  subtitleCount: number;
+  pageNumber: number
+  pageCount: number
+  imdbIds: string[];
 }

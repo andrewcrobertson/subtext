@@ -1,0 +1,42 @@
+{
+  "imdbId": "tt0317219",
+  "title": "Cars",
+  "releaseDate": "2006-06-23T00:00:00.000Z",
+  "releaseYear": 2006,
+  "posterFileName": "poster.jpg",
+  "rated": "G",
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "directors": [
+    "John Lasseter",
+    "Joe Ranft"
+  ],
+  "writers": [
+    "John Lasseter",
+    "Joe Ranft",
+    "Jorgen Klubien"
+  ],
+  "actors": [
+    "Owen Wilson",
+    "Bonnie Hunt",
+    "Paul Newman"
+  ],
+  "runTime": 116,
+  "plot": "On the way to the biggest race of his life, a hotshot rookie race car gets stranded in a rundown town and learns that winning isn't everything in life.",
+  "subtitleIds": [
+    "75c0860f",
+    "f30b5696",
+    "3b32e516",
+    "75c0860f",
+    "7e26d05a",
+    "2c405ae8",
+    "e7f07fbb",
+    "d887758c",
+    "6893a8b6",
+    "6893a8b6"
+  ],
+  "isAvailable": true
+}

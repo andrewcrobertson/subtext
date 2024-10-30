@@ -1,0 +1,1690 @@
+45834 46976 On your feet!
+78041 79481 You were alone?
+80792 83709 Spy, you were alone?
+83792 85333 I like to be alone.
+86709 88375 What did you come here for?
+89250 91709 You got a lot of nice stuff.
+91875 93166 Other people's stuff.
+94917 97000 "To the victor<br />belongs the spoils."
+98250 99417 "To the victor"?
+100417 101875 Berlin's in rubble.
+101959 103709 The Führer's in hiding.
+104917 106625 You lost.
+112583 114542 What? What? Hey!
+114709 115792 Hey, wait a second. Guys!
+130583 131583 Doctor.
+199041 200184 Looks like<br />they're leaving
+200208 201500 without you guys.
+202792 204917 Tell us your story, or die.
+205709 207041 Story. Um...
+207917 209792 Okay, okay.
+209959 211709 Well...
+211792 213250 it all started
+213959 218000 once upon a time,<br />when this village
+218083 222709 of stupid blue-eyed boys<br />decided to join hands together
+222792 224875 and follow this sweaty<br />little pied piper
+224959 226709 named Adolf...
+368166 369500 <i>Heil Hitler!</i>
+470917 472166 Oh, my!
+497750 498959 Get off of me!
+527250 528518 There's one reason
+528542 530041 you're still alive, birdwatcher.
+532583 534125 Who sent you?
+534291 535458 What was your mission?
+535625 537625 Please, Colonel, no.<br />I beg you.
+537792 540083 My name is Basil Shaw.
+541333 543333 I'm a professor at Oxford.
+543417 544834 An archeologist.
+552333 553417 There you are.
+566583 568542 I have a daughter. I beg you.
+569208 571917 I guarantee you will never see<br />your child again, Mr. Shaw.
+573959 578208 Unless you explain<br />why your accomplice had this.
+587542 588792 <i>Sieg heil!</i>
+600792 603000 <i>We were told<br />that the Lance of Longinus</i>
+603083 604917 could be found at the fortress.
+605834 607250 We were looking for it.
+607750 608750 Why?
+610333 611333 Because of its power?
+612500 615166 It has no power.
+617834 620458 My friend and I<br />were trying to save history.
+684917 686625 It's a fake.
+701083 702267 Twelfth century.
+702291 703500 Thirteenth century.
+704250 705792 Ramesses II.
+707208 708917 None of this stuff is fake.
+711792 713375 I gotta stop this train.
+775291 776834 Too many Nazis.
+842917 843917 <i>Sieg heil!</i>
+857542 858792 What the hell?
+859792 861083 Indy?
+861166 862166 Baz?
+862500 863500 You're alive!
+864208 865208 So far.
+866083 868291 I thought I told you<br />to stay in the woods, Baz.
+868458 870417 What sort of a man<br />hides in a hedge
+870500 872500 while his friend<br />is facing death?
+885750 889500 This lot are carting off<br />half the world's antiquities.
+889667 892709 I was gonna stop 'em,<br />but now I've gotta rescue you.
+893333 894792 Did you at least find the Lance?
+895000 896000 "At least"?
+896083 897518 Well, have you got it?
+897542 899375 - It's a fake.<br />- What?
+899834 901375 A reproduction.
+909583 910583 Indy?
+919542 920834 The Antikythera.
+922000 923667 Archimedes' Dial.
+925208 926208 Bring it.
+943917 945041 Hurry up, Baz.
+947959 949333 Give me that.
+949500 950625 Come on.
+965291 966875 Get up, Baz.
+967041 968250 Follow me.
+968917 970208 Towards the gun?
+970375 971667 Away from the Nazis!
+972083 974041 Those are Nazis!
+974583 976583 Get down! Down! Down!
+1025834 1027000 This way. Come on!
+1027583 1028583 I can't do that!
+1028750 1030667 You wanna stop<br />for a little lie-down?
+1036208 1038250 Easy.
+1069166 1070166 Tunnel!
+1080959 1082559 Got you! No!
+1122917 1124166 Indy!
+1132375 1133458 Get the gun!
+1142625 1144041 Shoot him!
+1146208 1148041 Not me!
+1148417 1150166 S-Sorry.
+1169500 1171500 To the victor go the spoils.
+1219542 1220959 Indy!
+1231750 1232750 Hey!
+1235834 1238166 - Here!<br />- They can't hear you, Baz.
+1238709 1240083 We gotta jump!
+1240250 1241583 What about my dicky knee?
+1242083 1243291 Ahh!
+1248542 1249542 Baz!
+1250500 1251500 Baz!
+1253333 1254375 Baz!
+1255709 1257375 - Indy!<br />- Baz!
+1262667 1264291 Go! Move! Move it!
+1265917 1268792 Bit rum to go home<br />empty-handed after all that.
+1269375 1270583 "Empty-handed"?
+1270667 1271875 Not exactly.
+1274875 1276000 Archimedes' Dial.
+1276166 1277208 Well, half of it.
+1277375 1279583 Come on, Baz. Let's get home.
+1324667 1327250 <i>Roll up, roll up<br />for the Magical Mystery Tour</i>
+1327333 1329166 <i>Step right this way</i>
+1329250 1332041 <i>Roll up</i>
+1332125 1334959 <i>Roll up for the Mystery Tour</i>
+1335041 1337750 <i>Roll up</i>
+1337834 1340583 <i>Roll up for the Mystery Tour</i>
+1340667 1343458 <i>- Roll up<br />- That's an invitation</i>
+1343542 1344875 <i>Roll up for the...</i>
+1344959 1347583 Larry! Turn it down!
+1348625 1349875 Turn it down!
+1350041 1351875 Hey, Larry!
+1352458 1357083 <i>The Magical Mystery Tour<br />is waiting to take you away</i>
+1357834 1360333 <i>Waiting to take you away</i>
+1361458 1366500 <i>Roll up<br />Roll up for the Mystery Tour</i>
+1366583 1367583 Larry!
+1369083 1370083 Larry!
+1370166 1371709 - Hi, Mr. Jones.<br />- Where's Larry?
+1373041 1375121 - Who is this guy?<br />- It's the old guy next door.
+1375250 1376875 Larry, it's 8:00<br />in the morning.
+1377041 1379417 - "It's 8:00 in the morning."<br />- We talked about this, Larry.
+1379500 1380625 Yeah, but that was
+1380709 1383166 - a workday, Mr. Jones.<br />- This is a workday too, Larry!
+1384542 1385709 Turn on the news.
+1385875 1387917 It's moon day, Mr. Jones.
+1388375 1389583 Moon day?
+1402583 1407834 <i>And the papers want to know<br />whose shirts you wear</i>
+1409667 1415375 <i>Now it's time to leave<br />the capsule if you dare</i>
+1417667 1422000 <i>This is Major Tom<br />to Ground Control</i>
+1422500 1425959 <i>I'm stepping through the door</i>
+1427625 1433208 <i>And I'm floating<br />in a most peculiar way</i>
+1434583 1440625 <i>And the stars look<br />very different today</i>
+1442959 1444041 Thanks.
+1457375 1459250 All you really need to remember
+1459417 1463000 is that Assyrian ceramics of this period<br />are characterized
+1463166 1467125 by this complex<br />blue-line pattern.
+1467291 1468291 Okay?
+1469375 1472750 I assigned pages 131 through 171
+1472917 1474542 in Winford for today.
+1474709 1476208 Anybody do the reading?
+1478500 1479500 Anyone?
+1482291 1484333 This is on the test.
+1484500 1485709 Okay.
+1486917 1488917 Guess I'll spoon-feed it to you.
+1491792 1494417 In 213 BC,
+1494583 1496583 Roman forces led by Marcellus
+1496750 1499583 laid siege<br />to the city of Syracuse.
+1499750 1501458 "Syracuse."
+1502917 1505500 Not the Syracuse<br />in New York, Tonya.
+1505667 1507250 The one in Sicily.
+1508041 1510417 Amongst the defenders<br />of the city
+1510583 1513667 was its most famous resident,<br />who was...
+1515875 1517583 Come on, guys.<br />This is on the final.
+1518291 1519875 Archimedes.
+1520750 1521792 Archimedes.
+1521959 1523291 Archimedes, who was a...
+1523458 1524583 A mathematician.
+1524750 1525917 A mathematician.
+1526083 1528667 But more than that, an inventor,
+1528834 1531333 a brilliant engineer
+1531500 1532917 who conceived of a way
+1533000 1535792 to harness the energy<br />of the Mediterranean sun
+1535875 1538709 on concave mirrors and focus it
+1538875 1541542 on attacking Roman warships<br />and set them on fire.
+1541709 1545208 Who devised giant iron claws
+1545375 1547959 that could snatch hostiles<br />from the sea.
+1550542 1553417 But how do we know<br />it really happened?
+1554542 1558542 What physical, irrefutable<br />archeological evidence
+1558709 1562041 - is there of these inventions?<br />- The Antikythera.
+1563417 1565583 - The Antikythera.<br />- For starters.
+1565750 1567750 They're here!<br />They're downtown!
+1569709 1571041 The astronauts.
+1571208 1573625 <i>Giant parade</i><br /><i>this morning will be seen</i>
+1573709 1575417 <i>by about<br />two and a half million people</i>
+1575500 1576834 <i>lining the sidewalks...</i>
+1579875 1581291 He's coming.<br />He's come. See?
+1581458 1582875 Oh, here he comes.
+1583834 1584875 Hide the cake.
+1586583 1588667 - Surprise.<br />- Surprise!
+1592792 1595959 For over a decade now,<br />our colleague Dr. Jones
+1596041 1598625 has been a loyal servant<br />of Hunter.
+1600041 1601625 A token of our gratitude.
+1608959 1610750 Wow.
+1614291 1616166 Thanks for putting up with me.
+1630625 1631709 Here.
+1640166 1642434 <i>Astronauts</i><br /><i>Neil Armstrong, Mike Collins,</i>
+1642458 1645333 <i>and Buzz Aldrin will not be<br />able to avoid the spotlight.</i>
+1645500 1647417 <i>At 11:00 a.m.<br />Eastern Daylight Time,</i>
+1647500 1649208 <i>a grateful nation<br />will pay homage</i>
+1649375 1652000 <i>with a ticker-tape parade<br />through New York and Chicago,</i>
+1652166 1653667 <i>climaxed by a dinner<br />in Los Angeles...</i>
+1653834 1655166 What would the ancients say?
+1655625 1657417 <i>Neil, Buzz, and Mike...</i>
+1657583 1660333 If they knew<br />we walked on the moon?
+1660500 1662041 Speaking as an ancient,
+1662208 1664667 going to the moon<br />is like going to Reno.
+1664834 1666125 Middle of nowhere
+1667375 1668834 and no blackjack.
+1669875 1671500 You don't recognize me, do you?
+1673834 1675875 Whatever I did, I apologize.
+1676834 1677875 It's Helena.
+1679458 1680500 Helena Shaw.
+1682375 1683625 Wombat?
+1683709 1685333 Wow, I haven't<br />heard that in a while.
+1686041 1687625 - You got tall.<br />- I did.
+1687792 1689083 It's fair to say.
+1691208 1692291 I'm celebrating.
+1693417 1695625 - I'm retiring.<br />- Oh.
+1696125 1697925 Wow. Well, in that case,<br />what are we drinking?
+1703041 1704792 Room service for Mr. Schmidt.
+1717333 1718434 Put that away.
+1718458 1721000 I was asking how you broke<br />your ankle.
+1721083 1723226 - None of your business.<br />- Are you Mr. Schmidt?
+1723250 1725375 "Doctor" Schmidt.<br />He's in there.
+1725542 1727041 And he don't eat anything<br />on wheels,
+1727125 1728333 so put it on a table.
+1729792 1731559 <i>When I was a little boy,</i>
+1731583 1732750 <i>I always imagined</i>
+1732917 1736625 <i>that one day<br />man would walk on the moon.</i>
+1737166 1738291 <i>And by golly...</i>
+1744917 1746625 Quite a celebration<br />out there, hmm?
+1750083 1751542 The man you're servin',
+1751709 1754000 he's the one who put<br />those astronauts on the moon.
+1754166 1755406 Built the rockets they rode in.
+1756625 1757875 Congratulations.
+1758125 1759125 Where are you from?
+1760125 1761125 The Bronx, sir.
+1761208 1763166 No, no. I mean originally,<br />your people.
+1763333 1764333 Do you know?
+1768959 1770667 I was born<br />by Yankee Stadium, sir.
+1773250 1775083 And you fought for your country?
+1776041 1777458 320th Battalion.
+1777625 1780000 Set up balloons to stop<br />the planes bombing Normandy.
+1785500 1787333 And are you enjoying<br />your victory?
+1795166 1796566 Will there be<br />anything else?
+1798792 1800000 You didn't win the war.
+1801667 1802792 Hitler lost it.
+1808417 1809500 Yeah.
+1810542 1813208 My field agent, she found Shaw.
+1814208 1815417 Yeah, I'm comin'.
+1815583 1816583 Let's go, Hauke.
+1819917 1821166 Where are we here?
+1822250 1823750 Oxford. In the garden.
+1826041 1827333 He was an original.
+1829750 1831166 I just graduated.
+1831333 1832333 In Archeology.
+1833291 1835458 Archeology. Wow.
+1835625 1837166 Apple didn't fall far.
+1837333 1840041 Well, now I'm researching<br />a doctorate.
+1841250 1842770 What's your subject?
+1843041 1845041 The Archimedes Dial.
+1845709 1847125 The Antikythera.
+1850083 1851417 What do you know about that?
+1851959 1853291 Well, for starters,
+1853458 1856834 in 1902, Greek sponge divers<br />found a wrecked Roman warship,
+1857000 1858375 huge, off the coast of Greece.
+1859000 1860709 Below deck, sealed in wax,
+1860875 1862417 was a clock-like mechanism,
+1862583 1865375 finely tooled, purpose unknown.
+1865542 1867417 Nothing approximating<br />its complexity
+1867500 1869500 appears in the world<br />for 1,000 years.
+1870667 1872792 - You've done your homework.<br />- Well, not me.
+1872959 1874375 Dad. He had<br />all these journals,
+1874458 1876000 reams of notes about it.
+1876166 1878000 He was obsessed till the end.
+1881667 1883834 He told me you found it<br />on a Nazi plunder train.
+1885291 1888375 And then lost it in a river<br />in the French Alps.
+1890417 1892333 Hmm. Well, that was a long time ago.
+1892500 1893959 And it was only half the Dial.
+1894041 1895226 - Archimedes...<br />- Archimedes broke the Dial...
+1895250 1896935 - disassembled it.<br />- In two, and then hid
+1896959 1899101 the two halves from the Romans<br />during the siege of Syracuse.
+1899125 1900333 I know. Look.
+1901417 1903417 You don't remember the last<br />time I saw you, do you?
+1904959 1906083 Remember what?
+1906166 1907166 These are the Alps.
+1908625 1910208 Yeah, I see.
+1910375 1912125 And this is the route<br />that your train took
+1912208 1913250 from the Nazi stronghold
+1913333 1914333 - in '44.<br />- Right.
+1914500 1916291 It went through<br />this mountain pass,
+1916458 1918000 and then here.
+1918166 1920000 Here, it's the only river<br />on the route.
+1920083 1921625 - Right.<br />- Under a bridge.
+1921792 1923166 It's down there.<br />It's got to be.
+1923333 1925750 - And nobody knows except us.<br />- "Us"?
+1926041 1927542 Well, I mean, you.
+1927709 1929250 And me. So, yeah.
+1929417 1931250 - Us.<br />- Us.
+1932250 1934750 And what were you<br />thinking exactly?
+1936208 1937291 Well, that maybe...
+1939125 1940667 we could go there.
+1940834 1941875 And?
+1942041 1943125 And find it. And...
+1944041 1945667 And I'd become...
+1947291 1948458 famous.
+1948625 1950917 Oh, well, not famous.<br />Renowned. Feted.
+1951500 1953291 A feted archeologist.
+1953458 1955166 And you, a final triumph!
+1955250 1956375 Indiana Jones!
+1956458 1958500 Out with a bang!<br />Back in the saddle!
+1961583 1963000 I'm not selling this, am I?
+1965500 1966709 Wombat...
+1968834 1970667 why are you chasing the thing
+1972417 1974500 that drove your father crazy?
+1980458 1981875 Wouldn't you?
+2000125 2001125 I got it.
+2001208 2002328 Parade's comin' soon.
+2003250 2004250 So, what we got?
+2006000 2008375 She's in there, third floor,<br />with an old guy.
+2008542 2009667 Who is he, a Russian?
+2009834 2011750 No, a professor.<br />Dr. Henry Jones.
+2012834 2013834 Klaber!
+2014333 2016417 Klaber, get back here!<br />You're not an agent!
+2016583 2017875 God damn it! Go.
+2018041 2020625 I'll get support up here<br />and pull a file on Jones.
+2041250 2042542 This way.
+2078667 2081750 Basil became obsessed<br />by this German theory.
+2083291 2084709 Conjecture, really.
+2087250 2088875 Archimedes had figured out
+2088959 2091959 that the movements<br />of the moon and planets
+2092834 2094041 weren't perfect.
+2095291 2097792 There were irregularities<br />in their rotations.
+2098959 2101250 He thought these<br />irregularities might
+2101417 2104792 explain fluctuations<br />in temperature, tides.
+2106917 2108208 Storms, even.
+2109583 2112458 So, he set about building<br />a device to predict them.
+2114166 2115959 But then, he stumbled upon
+2116041 2118083 a method to predict even larger
+2118834 2119834 disturbances.
+2121709 2123125 Larger disturbances?
+2123750 2126000 Your father<br />thought this thing could
+2126709 2128959 predict fissures in time.
+2145959 2147679 Hauke, if you don't...
+2149875 2152083 Found 'em.
+2159625 2160709 Hello.
+2161750 2163959 Are you looking for...
+2164125 2165291 Dr. Jones?
+2169000 2170250 Excuse me, can I help you?
+2170834 2171834 No, thank you.
+2171917 2173625 Just a routine investigation,<br />ma'am.
+2174709 2177208 Are you the police?
+2177291 2178709 It'll just be a few moments.
+2178875 2180583 - Professor Plimpton.<br />- Ma'am.
+2180667 2181726 - Professor Plimpton!<br />- Ma'am!
+2186375 2187375 Drop your weapon.
+2187750 2188810 What the hell are you doin'?
+2188834 2189959 Um...
+2190041 2192208 What the doctor tells me,<br />Miss Mason.
+2192291 2193291 Mandy?
+2197917 2199959 Yeah, no witnesses.
+2204333 2206417 Jesus. What the hell?
+2206709 2208142 Your father wrote<br />so many letters
+2208166 2210041 about the Dial,<br />I stopped reading 'em.
+2213166 2214166 You really don't remember
+2214250 2215875 the last time<br />I was at your house?
+2217834 2219709 I took that from him then.
+2221333 2222933 I thought he'd stopped<br />thinking about it.
+2223000 2224059 But your father was convinced
+2224083 2227083 this thing was real<br />and dangerous.
+2227250 2229208 Do not shoot.
+2229625 2233041 He was terrified that if somebody found<br />this legendary tablet,
+2233208 2234333 the Grafikos...
+2234500 2235559 The tablet containing directions
+2235583 2236667 to the rest of the Dial.
+2236834 2238074 And if they found the Grafikos,
+2238125 2239643 they might acquire<br />the other half of the Dial
+2239667 2240667 and put the two together.
+2242333 2243573 I knew you wouldn't destroy it.
+2247166 2249000 How did you know<br />he asked me to destroy it?
+2249875 2251917 - What?<br />- You do remember that night.
+2252667 2254583 I was 12 years old, Indy.
+2254667 2256147 You knew we didn't drop it<br />in a river.
+2256917 2258834 - Baz didn't tell you that.<br />- See, listen.
+2258917 2260237 - I didn't...<br />- No, he never lied.
+2260709 2261959 - No...<br />- What was all that crap
+2262041 2263083 - about the map?<br />- You...
+2263250 2264530 No, you've had<br />too many whiskeys.
+2265166 2266226 What are you doing, Wombat?
+2266250 2267583 Stay where you are.
+2268792 2269792 Don't move.
+2270542 2272101 - Who are these people?<br />- We need to get out of here.
+2272125 2273125 Are they with you?
+2273208 2274458 Not an inch, Miss Shaw.
+2275667 2276667 Miss Shaw, stop!
+2280333 2281333 Helena!
+2286125 2287125 Stop!
+2289083 2290083 Sorry.
+2290166 2293166 - Helena!<br />- Dr. Jones. It's over.
+2293333 2294542 Who are you people?
+2294709 2295792 What do you want?
+2297625 2298625 Stop!
+2300709 2301709 Helena Shaw!
+2301792 2303309 She's on the roof.<br />Find another way up.
+2303333 2304417 Dr. Jones!
+2304875 2306275 Dr. Jones,<br />we're not gonna hurt you.
+2332750 2334083 Move.<br />We gotta follow 'em.
+2334166 2335291 Go. Hurry up.
+2362834 2363834 Fan out!
+2376667 2378226 All right, let's go.<br />Move, move, move! Pack it up!
+2378250 2379393 Come on,<br />get everything.
+2379417 2380542 Found her!
+2408959 2411250 <i>- Operator.</i><br />- I need the police.
+2411417 2413709 Hunter College.<br />People are dead.
+2413792 2415017 - Please...<br />- Hang up, fella.
+2420875 2421959 Stand up.
+2427417 2428500 Okay, okay.
+2452834 2454291 She's gone. You blew it,
+2454458 2455709 you trigger-happy cracker.
+2455875 2458333 - She had it in her hand.<br />- We got the professor.
+2461959 2463159 Here's the file on Jones.
+2463208 2464208 Yes.
+2482458 2483500 Who are you?
+2483667 2485125 That's my question.
+2495625 2497083 You're CIA.
+2497250 2499000 Oh, not me, man.
+2499166 2501166 I don't take government jobs.
+2501333 2502417 Okay.
+2503709 2505875 How are you acquainted<br />with Miss Shaw?
+2506250 2507500 She's my goddaughter.
+2508250 2509875 I haven't seen her in 18 years.
+2510041 2511184 Why did you meet with her today?
+2511208 2512208 To give her the Dial?
+2513583 2516041 Lady, it's an ancient<br />hunk of gears.
+2517000 2518041 Half a hunk.
+2518125 2519792 Oh, it's a lot more than that.
+2521542 2522709 Whoa, whoa, whoa!
+2522792 2524072 Where do you think you're going?
+2524208 2525583 I got a parade going on.
+2525750 2527208 And a demonstration<br />coming down here.
+2527375 2528417 Hey! Hey, hey!
+2529083 2530125 - Hey...<br />- Shut up.
+2530291 2532709 I can't go this way.<br />Gotta go back.
+2537709 2539458 Hell no!<br />What is wrong with you, man?
+2539625 2541250 Damn it! Let's go on foot.
+2541417 2542542 You heard her.
+2544208 2545351 What the hell<br />were you thinking?
+2545375 2546726 - Walk! Come on.<br />- What is your problem?
+2546750 2547810 You don't look<br />when you're backin' up?
+2547834 2549434 - Take care of that guy.<br />- Who's gonna pay for that?
+2549458 2550583 Easy, fella. Easy.
+2550667 2551667 Keep movin'.
+2551750 2553500 Can't you see my cab?<br />It's yellow.
+2553583 2555226 No, you're gonna have to pay<br />for this bodywork, man.
+2555250 2556250 I don't...
+2558125 2560417 Peace now!<br />Peace now!
+2561834 2564667 Stop the war!<br />Stop the fighting!
+2564834 2566583 - Where are we going, Mason?<br />- This way.
+2568625 2570208 - Hell no, we won't go.<br />- Shut up.
+2570375 2572101 - Hell no, we won't go!<br />- Hell no!
+2572125 2574667 - Hell no, we won't go!<br /><i>- </i>Hell no, we won't go!
+2574750 2575750 We won't go!
+2575917 2578291 - Hell no, we won't go!<br /><i>- </i>Hell no, we won't go!
+2578875 2580291 - Hell no...<br />- Shut up!
+2580458 2581458 Hell yeah!
+2581750 2583625 Hell no, we won't go!
+2583709 2585583 Hell no, we won't go!
+2585667 2589125 Hell no, we won't go!<br />Hell no, we won't go!
+2589208 2591458 Hell no, we won't go!<br />Hell no, we won't go!
+2591542 2592542 Hell no...
+2592959 2596500 Hell no, we won't go!<br />Hell no, we won't go!
+2603458 2604750 Hey!
+2605208 2607208 Officer! Help me!
+2607959 2609601 Officer,<br />there was a shooting...
+2609625 2611585 - All right, all right.<br />- This morning at Hunter.
+2611625 2613375 People are dead. God damn it.
+2613458 2615166 Some rogue maniacs<br />broke in and...
+2615250 2616875 Sir, you need to calm it down.
+2617041 2618250 Please listen to me.
+2618417 2620542 There was a shooting<br />this morning, and the...
+2620709 2624125 They're in a Con Ed van<br />right around the corner!
+2626750 2628375 Hey! What do you think<br />you're doing?
+2639458 2640458 Whoa!
+2640542 2641875 - Watch out!<br />- What's he doin'?
+2641959 2643041 Whoa!
+2677625 2678625 Hyah! Hyah!
+2691083 2692917 - Move, out the way!<br />- Whoa, whoa!
+2694959 2696583 Hyah!
+2700250 2701500 - Watch out!<br />- Hyah!
+2701875 2703333 Whoa. Whoa.
+2703417 2704583 Move! Quickly!
+2709959 2711291 Hyah!
+2718875 2720291 Move! Move!
+2730875 2732208 Go, go, go!
+2736709 2737709 Hyah!
+2748583 2749792 Hyah!
+2752875 2754959 Come on.<br />That's ridiculous.
+2755041 2756542 - It's a horse.<br />- Come on.
+2759041 2760875 - Hey, mister.<br />- Move! Out of the way!
+2761208 2763000 - Hold my horse.<br />- Move! Move!
+2763083 2764142 <i>Transfer is available</i>
+2764166 2766250 <i>for IND Queens Boulevard.</i>
+2775667 2778667 <i>Next stop, 59th,<br />Lexington Avenue.</i>
+2780542 2782834 - Subway is faster.<br />- Oh!
+2783333 2785083 People tend<br />to romanticize science,
+2785166 2787125 when it is, in fact, quite cold.
+2787291 2788811 So, what's next,<br />Dr. Schmidt?
+2789917 2791000 Mars?
+2791792 2793250 No, we've conquered space.
+2795083 2796792 I'm moving to the next frontier.
+2798250 2800667 What's beyond space?
+2804291 2806208 You might wanna<br />get that suit pressed,
+2806291 2807291 Dr. Schmidt.
+2807917 2809542 We leave for the airport<br />in an hour.
+2809917 2811059 He's gonna meet the President.
+2811083 2812723 If the President objects<br />to a few creases,
+2812750 2815083 perhaps he should find himself<br />another physicist.
+2816083 2817917 - Can I use that?<br />- No.
+2818291 2819375 Yes.
+2819458 2821500 Baxter.
+2825667 2826792 It's for you, Doctor.
+2830542 2832667 I may wanna leave a bit later<br />for Los Angeles.
+2832750 2835041 I'm expecting<br />a delivery shortly.
+2838208 2839208 Speak.
+2839291 2840891 <i>Your goons made a mess.</i>
+2840959 2842125 <i>Did they?</i>
+2842291 2844709 Miss Shaw met<br />with a professor. Jones.
+2845333 2847083 She acquired the device<br />from him.
+2848000 2849083 <i>Then we lost her.</i>
+2850750 2852417 <i>Dr. Jones got away as well.</i>
+2852834 2854000 <i>Is that so?</i>
+2854166 2855500 <i>Most unfortunate.</i>
+2855875 2857333 I gotta clean things<br />up here, Doctor.
+2857417 2858417 <i>And as a representative</i>
+2858500 2859959 <i>of the United States government,</i>
+2860041 2861750 <i>I urge you to cooperate.</i>
+2861834 2863125 <i>Get on that plane<br />to Los Angeles,</i>
+2864041 2865521 and get your medal<br />from the President.
+2872917 2874000 Hello?
+2874500 2876709 Call our friends<br />and secure a private charter.
+2878125 2879125 To Morocco.
+2879208 2880375 Yes, sir.
+2881291 2882601 <i>The university murders</i>
+2882625 2884583 <i>took place at the height<br />of the parade.</i>
+2884667 2885750 <i>Police are searching</i>
+2885834 2888083 <i>for retired professor<br />Dr. Henry Jones.</i>
+2888250 2891250 <i>A colleague told ABC that<br />Jones recently lost his son</i>
+2891417 2893417 <i>and was in the middle<br />of a divorce.</i>
+2895625 2898834 This guy,<br />he looks like you.
+2899792 2902166 Nah. No.
+2904125 2906125 - It is you.<br />- No, no, no. Hey.
+2906208 2907893 - Go home, pal. You're drunk.<br />- This is the guy!
+2907917 2909250 - Hey!<br />- It's the killer!
+2911917 2913333 Sorry I'm late, Indy.
+2913500 2914917 Bridge traffic.
+2925834 2928000 Boy, am I glad<br />to see you, Sallah.
+2928834 2930834 I wish I could say the same,<br />old friend.
+2934125 2936041 Quickly, Indy. Inside.
+2939834 2942125 Your goddaughter, Helena,
+2942291 2944959 was arrested in Tangier<br />last year
+2945041 2947875 for auctioning contraband.
+2950333 2951417 There's more.
+2952458 2955875 She was bailed out<br />by Aziz Rahim.
+2956625 2959583 Aziz Rahim is the son<br />of Big Rahim,
+2959667 2962417 a well-known Moroccan mobster.
+2963959 2967625 Big Rahim<br />owns the Hotel Atlantique
+2967792 2970375 in Tangier, and this week,
+2970542 2974667 the hotel is hosting<br />its annual auction
+2974834 2976709 of stolen antiquities.
+2977875 2980375 All the big players<br />are already there.
+2980542 2982333 Alia, Jabari.
+2982500 2984750 This is the great man<br />who brought our family
+2984834 2986667 to America during the war.
+2986834 2989208 Quick, when was the Suez Crisis?
+2989291 2991750 1956.
+2992208 2993583 Very impressive, Jabari.
+2993750 2996166 My grandchildren watch<br />too much TV,
+2996333 2998875 but they know their history.
+2999041 3003208 They understand what it is<br />to be American and Egyptian.
+3004083 3006250 I need a ride<br />to the airport, Sallah.
+3007333 3009834 If you run, the police will<br />assume that you're guilty.
+3010542 3011875 Without Helena or the Dial,
+3011959 3013875 I'm gonna get framed for murder.
+3015041 3016667 Have you thought<br />about calling Marion?
+3017750 3019083 She doesn't wanna talk to me.
+3025250 3026518 <i>Welcome to New York's</i>
+3026542 3028834 <i>John F. Kennedy<br />International Airport.</i>
+3029667 3031959 <i>The upper level is<br />for Pan American Airlines...</i>
+3032125 3033959 I took something else<br />from your apartment.
+3034125 3035333 It was under the bed.
+3040542 3041583 Thanks, Sallah.
+3043875 3045667 I also brought my passport.
+3047709 3048917 I could help you.
+3049083 3050083 In Tangier?
+3050166 3051792 Wherever chance takes us.
+3052709 3053792 Indy, I...
+3054709 3056166 I miss the desert.
+3056750 3058041 I miss the sea.
+3059583 3061375 And I miss waking up<br />every morning
+3061542 3062959 wondering what<br />wonderful adventure
+3063041 3064667 the new day will bring to us.
+3065625 3067625 This is not<br />an adventure, Sallah.
+3069083 3071667 Those days have come and gone.
+3071834 3072875 Perhaps.
+3073041 3074375 Perhaps not.
+3078834 3081250 Give 'em hell, Indiana Jones!
+3093083 3094166 Champagne?
+3094542 3096417 We've got four more hours<br />to Tangier.
+3104166 3105583 Your scotch, sir.
+3106208 3107208 Thanks.
+3114125 3115500 <i>Basil. Come on, Baz!</i>
+3115667 3117417 <i>- Open the door!</i><br /><i>- No!</i>
+3117583 3119083 <i>- Stay out, Indy!</i><br />- Open the door.
+3122291 3124166 The Germans were right, Indy.
+3124250 3126667 - Huh? What?<br />- It's too big. It's too much.
+3126834 3128500 Hey, Ba... Hey, hey! Hey, Baz!
+3128583 3129583 - Give me...<br />- No.
+3129667 3130667 What are you doing?
+3130750 3132017 You've listened<br />to nothing that I said.
+3132041 3133834 I don't understand it, Baz!
+3134166 3136166 Well, I was trying to<br />explain it to you downstairs.
+3136208 3137500 You've just ignored everything.
+3137583 3138863 You're terrifying your daughter.
+3140750 3142834 Indy, Archimedes
+3143000 3145208 discovered<br />a temporal meteorology.
+3145417 3148041 Archimedes was<br />a mathematician, Baz,
+3148208 3149417 not a magician.
+3149583 3152041 He could predict<br />fissures in time.
+3152208 3153750 Fissures in time?
+3154125 3157166 - Baz, you can't prove that!<br />- Well, not yet.
+3157333 3159208 Proving it<br />is what makes it science!
+3174500 3175709 Oh, Baz.
+3177417 3178959 I never should've<br />given you the thing.
+3179208 3181166 It... It belongs in a museum.
+3182083 3183792 Give it to me. Please.
+3187375 3188750 If I give you this,
+3189959 3191417 it must be destroyed.
+3192917 3194000 I will.
+3196625 3198041 I'll destroy it, Baz.
+3200542 3201542 Promise.
+3207667 3209208 I'm sorry about this.
+3209375 3210583 It's all my fault.
+3212792 3214250 - Are you gonna be here?<br />- Yes, sir.
+3214333 3216417 Okay. I've gotta catch<br />an airplane.
+3216583 3219375 If anyone finds the Grafikos,<br />they'll have both halves.
+3219458 3220792 Some things should stay buried.
+3220875 3221875 I know, Baz.
+3221959 3223226 It's vital<br />that you destroy it.
+3223250 3224726 - I will, Baz.<br />- Do you understand?
+3224750 3226434 - I'll destroy it. Yes.<br />- Say you will, Indy.
+3226458 3227458 I will... Yes.
+3227542 3229166 You promised me.<br />Remember that.
+3229250 3230291 I will... I promise.
+3230375 3231417 There's a reason,
+3231500 3234083 a reason that Archimedes<br />broke it in two.
+3234250 3235959 I know, Baz.
+3236125 3238250 - Indy.<br />- Ah.
+3239000 3240291 Thanks, Wombat.
+3240458 3242417 He's gonna be all right<br />in a few days.
+3244500 3245917 I'll call you as soon as I land.
+3250959 3252434 <i>Ladies and gentlemen,</i>
+3252458 3254917 <i>we are 20 minutes<br />from landing in Tangier.</i>
+3288667 3290101 - Stop drinking!<br />- What are you doing?
+3290125 3291792 No more champagne!<br />How many more...
+3291875 3292959 I'm staying.
+3293041 3294500 Go home. Go home!
+3310000 3311083 Rahim.
+3311166 3313500 Miss Shaw, she's here.
+3317750 3318917 Forged in bronze.
+3319000 3320041 Nearly complete.
+3320125 3321834 It is an astrological clock.
+3322417 3324625 Dating third century BC
+3324792 3328709 and built by Archimedes himself.
+3330750 3332226 All right,<br />let's start at 20,000.
+3332250 3333417 20,000, thank you very much.
+3333583 3334959 30. 30.
+3335125 3337792 Gauges green, power full,
+3337959 3340291 and when I reach 85, I rotate.
+3340875 3341875 What next?
+3341959 3343250 Louis, help him! He's so cute.
+3343333 3345375 - Pull back on the yoke.<br />- I did, man. I'm airborne.
+3345458 3346458 Yeah, he's airborne.
+3346542 3347893 - Can I have a sip?<br />- Do I pick up the flaps?
+3347917 3349917 Don't touch the flaps<br />under 400 feet.
+3350083 3351750 Decrease your pitch<br />to get to 120.
+3351917 3352917 All right.
+3355500 3357750 - Private auction, old timer.<br />- I've gotta get in there.
+3357917 3360417 No password, no entry.<br />I don't make the rules.
+3363250 3364351 And, uh,<br />what is the current bid?
+3364375 3366375 - The bid is 50,000.<br />- Then I bid 55.
+3366458 3368000 Who'll give me 60?
+3368083 3369625 - 60.<br />- 60. 65?
+3369709 3371101 65. 70?
+3371125 3372458 - 75.<br />- 75. 80?
+3372542 3373542 - 80.<br />- 85.
+3373625 3374834 How about 90?
+3381625 3383875 - This auction is private.<br />- This auction's over.
+3384291 3385625 <i>Au contraire,</i> it's hardly begun.
+3385709 3387166 - 100.<br />- 100,000.
+3387333 3388875 I like the hat, by the way.
+3388959 3390434 Makes you look<br />at least two years younger.
+3390458 3391685 Thanks.
+3391709 3392768 - 110, bravo.<br />- I told you that
+3392792 3394872 - this auction is over.<br />- Excuse me, who is this man?
+3394917 3396434 - I'm her godfather.<br />- He's mildly related.
+3396458 3398375 And she's up past her bedtime.
+3398542 3399893 - Come on, Wombat.<br />- I wouldn't do that.
+3399917 3401559 You want to explain it<br />to the cops at the bar?
+3401583 3402917 The ones I paid off?
+3403458 3405041 You're out of your depth,<br />Jonesy.
+3405208 3406685 - "Jonesy"?<br />- He thinks I'm a criminal.
+3406709 3408458 He's the one wanted for murder.
+3408625 3410667 Nice big picture<br />in the <i>New York Herald.</i> 130?
+3410834 3412417 I didn't kill anyone.
+3412500 3413559 No entry,<br />it's a private auction.
+3413583 3414863 And you know it,<br />Helena.
+3415291 3418500 But whoever did<br />was looking for this.
+3419166 3421041 What you've got here<br />is Pandora's Box.
+3422291 3423500 No, actually.
+3424375 3425834 It's my box.
+3428458 3429458 You.
+3431166 3432291 Have we met?
+3432583 3433583 No.
+3433667 3435107 My memory<br />is a little fuzzy,
+3435166 3436875 but your face rings a bell.
+3437458 3438500 Are you still a Nazi?
+3442625 3444792 You're confused.<br />My name is Schmidt.
+3445375 3447542 Professor Schmidt<br />of Alabama University.
+3449250 3451542 Professor Schmidt. How nice<br />to meet you in person.
+3451625 3453166 150.
+3453250 3454476 After our conversation,<br />Miss Shaw,
+3454500 3456500 I thought we'd come to<br />an agreement about the Dial.
+3456542 3457601 Funny. The last time
+3457625 3459017 I saw the other guy<br />who looks like you,
+3459041 3460792 he was also after this.
+3461375 3463055 Your numbers were light,<br />Professor Schmidt.
+3463083 3465043 But good news is, you're here<br />now. The bid is 160.
+3465083 3466976 You don't seem<br />to understand, Miss Shaw.
+3467000 3468291 This relic is my property.
+3468375 3470875 - It's not yours. You stole it.<br />- Then you stole it.
+3471041 3472685 And then I stole it.<br />It's called capitalism.
+3472709 3473750 The bid is 160.
+3473834 3474834 - 160.<br />- 170?
+3474917 3475976 You should've<br />stayed in New York.
+3476000 3477059 - 170?<br />- You should've stayed
+3477083 3479875 - out of Poland.<br />- 170. Anyone? Anyone?
+3480041 3481333 Going, going...
+3481709 3482709 Gone!
+3483333 3484333 Stay away!
+3486083 3487083 Get the Dial.
+3491041 3492750 Stay away!
+3502083 3503083 Oh, hello, Claude.
+3503166 3504646 You should not<br />have come back, Helena.
+3513500 3514917 Get back.
+3525625 3526625 Teddy!
+3541000 3542166 Rahim says you stay.
+3553959 3554959 Thank you.
+3568041 3569500 See you in the past,<br />Dr. Jones.
+3596542 3597542 It's my cab!
+3603125 3604291 Tell them to back off.
+3604458 3606138 I just told them to shoot you.
+3607917 3609125 All right, guys.
+3610500 3611875 Put the guns down.
+3612041 3613250 Put 'em down.
+3615208 3616208 All right.
+3617875 3619166 That's better.
+3623041 3624667 Oh, dear.
+3634750 3635875 Rahim.
+3636959 3638458 You're in pajamas.
+3638959 3640625 I was sleeping, Helena.
+3640709 3641851 Mm-hmm.<br />- Peacefully.
+3641875 3642875 Oh.
+3642959 3644792 My father woke me.
+3644959 3647583 He told me you'd<br />returned to our hotel.
+3649083 3651333 Then he handed me this scimitar
+3651500 3654333 and told me to come home<br />with your head.
+3655041 3656083 Huh.
+3656166 3657458 Does it have to be that bit?
+3665208 3668041 I thought maybe you returned<br />because you loved me.
+3668208 3669333 Rahim,
+3670083 3671667 I had an item to sell.
+3671834 3673709 Excuse me. The item<br />she's talking about
+3673792 3674851 - actually belongs to me.<br />- No.
+3674875 3676226 You do not need to intrude<br />in this conversation.
+3676250 3677434 And some very bad people,<br />worse people...
+3677458 3678726 You do not need to get<br />involved with my business.
+3678750 3680267 - Have run off with it.<br />- Is this your new man?
+3680291 3682000 - No. No, no, no, no.<br />- It's complicated.
+3683333 3684834 What exactly<br />do you owe this guy?
+3685000 3687083 Just some bail money<br />and a lifetime of happiness.
+3687250 3688917 I presume you sold the ring.
+3689083 3690851 It didn't go for as much<br />as I thought it would.
+3690875 3691917 I'll do it!
+3692000 3693142 What are you... Hey!
+3699417 3700917 You just got me killed!
+3701083 3703667 Well, I'm not the one that's<br />engaged to a mobster!
+3703834 3706750 I don't need morality lessons<br />from an aging grave robber!
+3706917 3708125 I'm not a grave robber.
+3708291 3710333 Your father and I<br />did important work together.
+3713000 3714643 Don't tell me<br />all your escapades were noble,
+3714667 3716291 selfless quests.<br />You did it for the buzz!
+3719000 3720041 Oh, good work, Teddy!
+3721542 3723208 - Move over, kid.<br />- Hey!
+3733917 3735792 - Helena!<br />- Back up! Back up!
+3753709 3754709 Not this way!
+3754792 3756518 You don't know where you're<br />going, Indy! Listen to him.
+3756542 3758062 - He knows this town!<br />- I know Tangier!
+3762375 3763417 There he is!
+3768542 3770667 Faster. Go faster!
+3770834 3772750 Ten minutes<br />to the airport, boss.
+3774750 3776142 I'm not sure<br />Professor Schmidt
+3776166 3777526 is an actual professor,<br />by the way.
+3777625 3778893 - He's a Nazi!<br />- Turn left!
+3778917 3780458 Turn left! Turn left!
+3780542 3781709 - Oh, no!<br />- No!
+3796417 3798375 Helena! Don't do this!
+3806333 3807875 - Hey, this way!<br />- That way!
+3808834 3809834 No!
+3810792 3812291 Helena!
+3814458 3815458 No!
+3825041 3826583 What the hell?
+3833208 3834500 Helena!
+3836458 3838333 Hey! Hey!
+3838917 3840517 What the hell?
+3843208 3844250 Come on!
+3848041 3849875 Come on. Come on!
+3883750 3885625 You think he'd be proud of this?
+3886542 3887542 Who?
+3888875 3890000 Your father!
+3890083 3893125 His only daughter selling<br />her soul for bail money!
+3893291 3894810 Sounds quite cool<br />when you put it like that.
+3894834 3896458 And it's not all bail money.
+3896542 3897834 Some of it's gambling debt
+3897917 3899059 - and some...<br />- Thank you, Teddy.
+3899083 3900875 Helena! No!
+3900959 3901959 Helena!
+3903667 3905542 How did you end up like this?
+3905709 3907041 Well, you mean resourceful?
+3907208 3909542 Daring? Beautiful?<br />Self-sufficient?
+3919417 3920959 Whoa!
+3934875 3936333 Hold on!
+3939417 3940417 Go this way!
+3949792 3950792 There he is.
+3962875 3964101 Stop!
+3964125 3965917 - Hey! Hey!<br />- Stop!
+3968959 3970250 Aah!
+3978625 3979792 On the left!
+3980917 3981917 Take the wheel, Teddy!
+3984125 3985166 What are you doing?
+3985333 3986875 Getting what's mine.
+3987834 3988834 Helena!
+3993041 3995166 Damn it! You crazy?
+3996625 3999125 Hey! Helena!
+4003125 4004750 - Take the gun!<br />- Miss Shaw.
+4006166 4007834 Let go, Miss Shaw!
+4030250 4031667 Let go.
+4031750 4034125 Come on! Give me the Dial!
+4034875 4036917 Helena!
+4038291 4039750 Damn.
+4046542 4047726 Turn back! They went that way!
+4047750 4048750 He's gone!
+4048834 4050667 - Move over!<br />- Hey!
+4054083 4057041 I didn't come here to<br />rescue you from your fiancé!
+4057125 4058125 Rescue me?
+4063291 4064917 I just want the Dial back.
+4084375 4086000 Put your hands<br />above your head.
+4087125 4088643 Not the smoothest<br />break-up I ever had.
+4088667 4089976 If your father<br />was still alive...
+4090000 4091101 Well, he's not, Indy.
+4091125 4092685 Hey, something's wrong<br />with the engine.
+4092709 4093976 If only there'd been<br />someone there for me,
+4094000 4095500 some father figure, someone
+4095583 4097709 specifically anointed<br />for the job.
+4097875 4099195 You have no idea<br />about the kind...
+4099250 4100309 Don't beat yourself up about it.
+4100333 4102375 I mean,<br />what even is a godfather?
+4103375 4105417 Anyway, family never<br />was your strong suit.
+4106083 4108417 - What is the time, by the way?<br />- It's...
+4108583 4109583 Hey, no fair.
+4110291 4111333 Give me that back.
+4111417 4112625 That was my father's watch!
+4115041 4116041 Give it back to him.
+4120500 4122059 You're gonna have<br />to leave town with me.
+4122083 4123583 Rahim will be<br />looking for you too.
+4123750 4125059 They'll go to<br />Tangier airport first,
+4125083 4126142 so we'll need to catch a train
+4126166 4127446 and get a plane from Casablanca.
+4128208 4130417 Whoa. What was that?
+4134291 4135417 Ah.
+4135500 4136500 Damn.
+4138917 4140000 Yeah.
+4140083 4141208 I know, sir.
+4143417 4144417 Yes...
+4145667 4146667 Copy.
+4151750 4153041 They pulled the plug.
+4153125 4154500 You got them scared.
+4154875 4156075 Because they don't understand.
+4156125 4157709 No. Because your associates
+4157792 4159125 killed three American civilians
+4159291 4161542 and blew up<br />a nationally televised parade.
+4161709 4162875 Because you stood up
+4162959 4164667 the President<br />of the United States,
+4164834 4166000 ran to Morocco,
+4166166 4168583 and created an incident that<br />required military extraction!
+4170709 4172476 Then take me to DC,<br />and I will explain it all.
+4172500 4173917 They want you to vanish.
+4174083 4176208 We have half the Dial now.
+4176375 4177935 They were just trying<br />to keep you happy,
+4178709 4180375 letting you chase that thing.
+4180542 4181583 They never cared about it.
+4181667 4182810 They will, Miss Mason,
+4182834 4184458 when they understand<br />what it can do.
+4184625 4185865 You put them<br />on the moon.
+4186458 4187709 They got what they wanted.
+4189000 4190917 All right, buckle up.<br />We're landing in Spain.
+4191542 4193542 C-9 transport will take you<br />from there to Maxwell.
+4193709 4195166 I'm not going back to Alabama!
+4195333 4197583 All we need is a vessel to<br />take us to the Mediterranean.
+4198250 4199726 The Grafikos<br />will take us to the other...
+4199750 4201834 Please, Miss Mason. Please.
+4202000 4203041 Let go of me, Schmidt.
+4203208 4204834 I'm asking you personally.
+4205750 4207166 You're a piece of work, Doc.
+4208709 4209750 Hey!
+4237750 4239250 Schmidt...
+4240166 4241792 My name is Voller.
+4244583 4245959 Jürgen Voller.
+4259250 4261041 That's a Sea Stallion.
+4261208 4262625 American helicopter.
+4263625 4265333 Did you know<br />the Wright Brothers?
+4265792 4267250 - What?<br />- The Wright Brothers.
+4267417 4268500 Orville and Wilbur.
+4268667 4270917 They invented the airplane,<br />and they lived in Indiana.
+4271083 4272625 Wilbur was born in Indiana.
+4272792 4275208 I'm not from Indiana, Teddy.
+4275291 4277917 And the Wright Brothers were<br />born during the Civil War.
+4278083 4280208 Oh, I thought maybe you went<br />to school with them.
+4281625 4284083 Oh, come on, Indy.<br />That was funny.
+4284250 4285542 - "Funny"?<br />- Mm-hmm.
+4286208 4287500 I'm stuck in Tangier
+4287583 4289917 with a broken tuk-tuk<br />and two thieves.
+4290083 4291291 I'm wanted for murder.
+4291375 4293417 Nazis have<br />half of Archimedes' Dial
+4293583 4295000 and your father's notebooks.
+4296208 4297375 I have a copy.
+4298208 4299667 Dad's notebooks.<br />I made a copy.
+4299750 4301667 Where?
+4301750 4303709 You memorized five notebooks?
+4303875 4305083 Seven. And of course not.
+4305250 4306875 Half of them were<br />as dull as ditchwater.
+4307750 4310166 Just the really important bits.
+4311041 4312041 Like what?
+4312500 4313660 The location of the Grafikos.
+4313792 4315500 Nobody knows<br />where the Grafikos is.
+4315667 4317000 - Dad did.<br />- No, he didn't.
+4317166 4318366 - Yes, he did.<br />- No, he didn't.
+4318500 4320125 - Yes, he did.<br />- What's a Grafikos?
+4320291 4321726 It's directions<br />to the rest of the Dial.
+4321750 4323309 Ask her if she knows<br />what language it's in.
+4323333 4325333 Ah! It isn't in a language.<br />It's in a code.
+4325500 4326709 What code?
+4326875 4328333 Archimedes used two codes.
+4328500 4330041 Linear B and Polybius Square.
+4330208 4331834 So, even if you find<br />the Grafikos,
+4331917 4333542 without me, you can't read it.
+4333625 4335417 Please.
+4335583 4337417 Dad taught me Polybius<br />when I was nine.
+4337583 4339303 Used to leave little notes<br />around the house.
+4339333 4340333 "Tidy your room."
+4340417 4341709 "Stay away from my brandy."
+4342834 4343875 What if it's Linear B?
+4344834 4346208 50 quid it's Polybius.
+4347250 4348375 Give me that.
+4348458 4349458 Hey.
+4349875 4351083 That won't work.
+4351250 4353531 Moroccan chewing gum's made<br />from the sap of the Manilkara.
+4353667 4354959 Heat resistant.
+4356458 4357667 Try and start it.
+4362583 4363750 - Start it.<br />- I am.
+4365291 4367417 Huh? Huh?
+4368125 4369709 - Huh?<br />- It won't hold.
+4369875 4371792 It'll get us<br />to the train station.
+4371959 4373083 "Us"?
+4373250 4374490 - You goin' home?<br />- No.
+4374625 4376458 I'm going to Casablanca.
+4376625 4378375 Then I'm gonna hop a plane<br />to the Aegean.
+4378458 4379458 Just like you.
+4379875 4381559 What makes you think<br />we're going to the Aegean?
+4381583 4384667 You gotta get to the Grafikos<br />before the Nazis.
+4384834 4386917 Archimedes was<br />surrounded by Romans.
+4387625 4388834 Where else would it be?
+4389000 4390000 The Aegean is huge, Indy.
+4390166 4391406 And you don't have coordinates.
+4391458 4393000 And you don't have a boat.
+4395917 4398333 I've got an old friend<br />in Greece.
+4398500 4399875 An expert diver.
+4400041 4401875 With a big, beautiful boat
+4402041 4404083 that'll get us there<br />before they will.
+4404959 4407000 You need me,
+4407166 4408375 and you know it.
+4458500 4459792 Renny!
+4461875 4462917 Indy?
+4463750 4464792 Indy!
+4470250 4472208 So, that's the expert diver?
+4472375 4474583 Spain's greatest frogman.
+4476750 4478375 Hey!
+4478542 4480625 So, Spain's greatest frogman<br />has a shit boat
+4480709 4482000 and only one good frog leg?
+4482166 4483208 Stop it.
+4487000 4488267 You got<br />a different boat.
+4488291 4489500 Stop it.
+4503792 4504834 We're going here.
+4506458 4508917 Where they found the first<br />part of the Antikythera.
+4509834 4511000 But...
+4512333 4513625 we're going deeper.
+4515208 4517208 Dad tracked down<br />the old sponge diver
+4517291 4518917 who found the Dial.
+4519083 4520250 He told him
+4520417 4523375 that the wrecked Roman ship<br />broke up under the sea
+4523542 4524667 70 feet below.
+4524834 4527792 Filled with the skeletons<br />of over 100 centurions.
+4528959 4530125 That's where they found it.
+4530875 4534792 But he said that most<br />of the ship had broken off
+4534959 4536709 and sunk to the ocean floor.
+4537667 4539250 Too deep for sponge divers.
+4540291 4543166 So, Dad started wondering<br />why a Roman warship
+4543333 4546709 would sail out of Syracuse<br />with 100 centurions on board.
+4550417 4553792 They weren't taking<br />half a Dial for a joyride.
+4557625 4559208 They had the Grafikos...
+4562083 4564250 and they were looking<br />for the rest of the Dial.
+4567542 4569166 Your dad was a genius.
+4569792 4570834 Yeah.
+4572250 4573291 He was.
+4593166 4594326 Seven of spades.
+4597458 4598542 How do you do that?
+4598709 4600125 Wow.
+4600208 4601417 Do it again.
+4605417 4607291 Pick a card, Dr. Jones.
+4614792 4615917 Seven of spades!
+4618041 4619083 She's magic.
+4619250 4620417 Trick deck.
+4620583 4621583 No.
+4622750 4624166 I force the card.
+4624333 4625667 I offer the mark,
+4625834 4627000 you,
+4627166 4628166 the feeling of a choice,
+4628333 4630542 but ultimately, I make you<br />pick the card I want.
+4632667 4633834 "The mark."
+4636875 4638792 Yeah. Tomorrow is a big day.
+4638875 4640709 I have to check the lines.
+4646750 4647834 Good night.
+4650959 4654083 You remember seeing any dates<br />in your father's notebooks?
+4655417 4656792 Dates?
+4656875 4658250 What dates?
+4659166 4660166 These dates.
+4663875 4666333 Written over and over again<br />in this letter.
+4667792 4669625 August 20th, 1969.
+4669792 4671333 That's three days from now.
+4671500 4673750 And the same date in 1939.
+4673917 4676333 Two weeks before<br />Hitler invades Poland.
+4678166 4679750 Wait.
+4680542 4682875 Now you believe the Dial<br />has magical powers?
+4684166 4686208 I don't believe in magic,<br />Wombat.
+4688083 4690458 But a few times in my life,<br />I've seen things.
+4693583 4695333 Things I can't explain.
+4696667 4699041 And I've come to believe<br />it's not so much
+4699208 4701333 what you believe.
+4701500 4703750 It's how hard you believe it.
+4706875 4708208 I've seen things too, Indy.
+4709166 4711709 The only thing<br />worth believing in, ever,
+4711875 4713542 is cash.
+4715834 4716917 Right.
+4722709 4724029 What if you could<br />go back in time?
+4726166 4727208 What would you do?
+4728583 4730000 Witness the Trojan War?
+4731291 4732625 Check in on Cleopatra?
+4736250 4738375 I'd stop my son from enlisting.
+4741542 4743250 Did he sign up to please you?
+4744333 4746542 No, he signed up to piss me off.
+4750250 4751750 How would you have stopped him?
+4756625 4758465 I'd tell him<br />he was gonna die.
+4765500 4767375 I'd tell him<br />that his mother would...
+4770000 4771834 find no end to her grief.
+4773667 4775417 And that his father would be...
+4778250 4780166 helpless to console her.
+4783458 4785959 And that the loss would put<br />an end to their marriage.
+4800000 4801208 You're still wearing the ring.
+4820959 4822208 Mm.
+4823875 4825291 Promising.
+4834041 4835458 More promising.
+4841250 4842333 Hello.
+4844542 4846542 Get your gear on.<br />They're waiting.
+4851166 4852250 Hey.
+4853250 4854250 Come here.
+4855083 4856458 Okay.
+4856542 4857601 I'm gonna show you something.
+4857625 4860625 Gosh, this looks important.
+4862792 4863792 Around the rope...
+4863875 4866000 Now, we are going deep.
+4866166 4869000 Descend fast, and breathe<br />through these hoses.
+4869166 4870208 Okay?
+4870291 4872000 Ah, stay separate.
+4872166 4874125 No crisscross. All right?
+4874291 4875500 We cannot stay long.
+4875667 4879000 I have a method that<br />usually prevents the bends.
+4880000 4881125 - Usually?<br />- Yeah.
+4881208 4882417 I call it "the bounce."
+4882583 4883583 You know, fast down,
+4883750 4885667 three minutes on the bottom,<br />and then up.
+4885834 4886875 Three minutes!
+4887041 4888875 No one more second.
+4889542 4891792 - Three minutes.<br />- Yeah, that's right.
+4891959 4893799 - Where is my lighter?<br />- I don't know, <i>capitán.</i>
+4894166 4895959 We have to go.
+4898291 4899750 Uh, quick question.
+4899917 4901250 What's that?
+4901417 4902792 - They're sharks?<br />- No.
+4902875 4905250 No, no. No sharks here. Eels.
+4906333 4908625 - Eels?<br />- Anguilas.
+4908709 4909709 Most are small.
+4909875 4911458 Sometimes they are big.<br />Two meters.
+4911625 4913667 But if you see them, stay still.
+4913834 4917083 They bite you,<br />they lock the jaw. Yeah.
+4917250 4918667 They look like snakes.
+4919375 4920375 No, they don't.
+4920458 4922625 Private Brandy<br />reporting for duty.
+4923125 4924125 You're not coming, Teddy?
+4924875 4926000 I can't swim.
+4926166 4927291 Lucky him.
+4927458 4928750 Everyone can swim.
+4930625 4932500 Reach and pull.<br />Reach and pull.
+4934542 4935685 All right.<br />You stay here
+4935709 4937000 with Hector and watch our lines.
+4940000 4941917 It is time, <i>camarada.</i>
+5050291 5051291 Two minutes?
+5184542 5185542 Hey.
+5217417 5218537 <i>Hurry up!</i>
+5233458 5234959 Helena!
+5243709 5244709 Come on.
+5244875 5246417 That's it. That's it.<br />That's it.
+5247250 5248458 That's it.
+5271834 5273034 Who are these people?
+5275250 5276250 Nazis.
+5276333 5278792 First, you return my Dial,<br />Dr. Jones,
+5278959 5282083 and now,<br />you bring me the Grafikos.
+5283000 5285166 I'm very happy you're not<br />wasting in retirement.
+5285542 5287917 I should have retired you<br />when I had the chance.
+5288083 5289208 Where are your sponsors?
+5289375 5290959 I'm on my own now.
+5291125 5292834 Things move forward,<br />Dr. Jones.
+5292917 5293917 And sometimes...
+5295792 5297583 they go backward.
+5300834 5303083 Now, let's get comfortable<br />and have a little talk.
+5330125 5331500 What language is that?
+5331667 5333250 It's not a language.
+5334542 5335625 It's a code.
+5336458 5337458 Polybius.
+5338291 5339583 You owe me 50 quid.
+5341917 5343709 Not familiar<br />with Polybius cipher?
+5343875 5344875 No.
+5345625 5347041 But it appears you are.
+5351417 5352625 Read it, please.
+5360750 5361750 No.
+5367500 5368500 Indy...
+5379625 5380917 Feeling helpful now?
+5384166 5385166 I am.
+5388333 5389583 I know this stuff backwards.
+5389750 5390834 No!
+5392417 5393417 Sorry, Indy.
+5393834 5395208 I don't do noble death.
+5395875 5396959 Just
+5397125 5398542 cold, hard maths.
+5399083 5400923 I crack the code,<br />help you find the other half.
+5402333 5403959 One hundred grand. Cash.
+5404041 5405125 Helena...
+5405792 5406792 Take it or leave it.
+5408291 5409333 You have a deal.
+5422959 5424667 He'll never pay you.
+5426208 5427601 I think<br />you will find this is worth
+5427625 5429083 more than your asking price.
+5438583 5440083 - Teddy.<br />- Helena,
+5440250 5441417 don't do this.
+5446834 5448250 Let's see what we've got here.
+5450417 5451792 "My <i>Makhana..."</i>
+5452291 5453291 that's "machine"...
+5454542 5458083 "lies with me,<br />in the city I left.
+5458250 5460667 "Where wolves teach men to walk.
+5460834 5464959 "Under one of nine, I lie."
+5467792 5469500 Only one thing<br />lies anywhere forever.
+5469667 5472375 The dead. So, if the Dial lies<br />with him, then...
+5474250 5475750 then this is directions<br />to his tomb.
+5476250 5477583 The Tomb of Archimedes?
+5479000 5480792 Undiscovered for two millennia.
+5483875 5485959 "The city I left."
+5486583 5488625 Archimedes lived two places<br />his entire life,
+5488709 5490041 so he only left one.
+5490917 5492917 Anyone? At the back?
+5493792 5495333 Come on, Indy.<br />Everyone knows this.
+5495500 5497333 - Even this clown.<br />- Alexandria.
+5498000 5499834 Full marks.
+5500333 5502500 Now, "wolf"<br />in Greek is <i>"lycos."</i>
+5502583 5504917 Root of the word<br /><i>"lycaeum"</i> or "school."
+5505083 5507709 And the Doric<br />for "walking" is...
+5508959 5509959 <i>"peripatio."</i>
+5511250 5514000 Which also happens to be<br />the word for...
+5515333 5516583 Aw.
+5519250 5521208 I thought you were<br />a bright spark.
+5523792 5526917 <i>"Peripatio"</i> means "walking,"
+5527083 5529500 but it also means "counting."
+5529667 5532792 So, "Where wolves<br />teach men to walk"
+5533542 5535834 - could be...<br />- The School of Mathematics.
+5537166 5538750 Is correct.
+5538917 5540458 Now, the next bit is easy.
+5541750 5543375 "Beneath one of nine"?
+5544542 5545875 There are nine Muses.
+5546041 5547166 The <i>Museon.</i>
+5547333 5549792 The Greek word for the<br />Great Library of Alexandria.
+5549875 5551000 Which, as we all know,
+5551083 5553750 has nine statues<br />supporting its roof.
+5553917 5554917 May I?
+5556083 5557208 Thank you.
+5558375 5561125 The nine Muses,<br />in reverse order,
+5562583 5564083 are Calliope,
+5564834 5565834 Urania,
+5567417 5568458 Polymnia,
+5569417 5570959 - Erato...<br />- Polymnia.
+5571166 5573542 And Meli whasisname,
+5573917 5574917 that other one,
+5575667 5576667 Thalia,
+5577417 5578625 Euteroe,
+5578792 5580875 but the first is...
+5581125 5582125 Clio.
+5584000 5585166 The Muse of history and time.
+5585333 5586542 That Archimedes,
+5586709 5588017 - what a clever bugger.<br />- The entrance
+5588041 5590166 to the tomb is by<br />the School of Mathematics,
+5590333 5592041 under a statue of Clio,
+5592208 5594959 in the ruins of the Great<br />Library of Alexandria.
+5595125 5596417 Gold star for Dr. Brains.
+5597792 5598792 Teddy!
+5608709 5610291 The Grafikos, get it!
+5637959 5640667 I have said it before,<br />and I will say it again!
+5640834 5643458 When you're<br />in a tight spot, dynamite.
+5645208 5646750 My friend was just murdered.
+5652250 5653250 Sorry.
+5653417 5655166 You told them everything.
+5656875 5657959 Word for word.
+5658583 5660500 But Archimedes<br />didn't make it that easy.
+5661291 5663208 The tomb isn't in Alexandria.
+5672291 5673291 Go!
+5676750 5677870 So, what do you see?
+5678417 5680208 Polybius square.
+5680750 5681875 Made of?
+5684417 5685625 Wax and wood.
+5687250 5688500 Anything else?
+5691959 5692959 It's heavy.
+5696000 5697125 Too heavy.
+5699250 5700375 Give me that.
+5740583 5742291 This is solid gold?
+5742458 5743667 Ancient gold.
+5745166 5746166 From the Nile.
+5747834 5748834 Hold it, Teddy.
+5760375 5761458 Sell this thing
+5761625 5763291 and we are out of the hole<br />and then some.
+5763375 5764375 I have just the customer.
+5764542 5765917 Cranky, old Duchess<br />in Gibraltar...
+5766000 5767959 This is going in a museum.
+5770834 5772125 Take the wheel, Teddy.
+5779000 5780000 What does it say?
+5782125 5785000 "Search where Dionysius
+5785792 5788542 "hears each whisper
+5789375 5791417 "like a hurricane."
+5794291 5795709 The Ear.
+5796417 5798208 The cave of Dionysius.
+5799041 5800041 Where is that?
+5801500 5802542 In Sicily.
+5804041 5806125 - How much fuel have we got?<br />- It's full.
+5815125 5816125 They're heading west.
+5817500 5818500 Not east.
+5847458 5849583 - I want the papaya.<br />- How much is it?
+5853041 5854041 Take this.
+5856792 5858959 Look at that kid<br />with the straw hat.
+5859250 5861041 This way.
+5864625 5865625 Hey.
+5866667 5869125 What do you think?
+5874917 5876208 What are we doing?
+5877834 5879500 Waiting for closing time<br />at the caves.
+5879667 5881166 It's crawling with tourists.
+5881333 5883750 Okay, so he's, like,<br />running the show now?
+5885125 5886542 He's not running<br />the show, Teddy.
+5887917 5891041 I just thought we were in this<br />for all the wrong reasons.
+5891625 5892792 We are.
+5896250 5897250 Most assuredly.
+5897333 5900083 You know he's never gonna<br />let us sell any of that stuff.
+5901625 5903250 I'm still in charge, Teddy.
+5903333 5904434 Helena,<br />get over here!
+5904458 5905458 Give me a hand!
+5911375 5912500 Oh, you splurged.
+5913834 5914875 Here's your backpack.
+5914959 5916000 Where's the kid?
+5929959 5931601 Hey, watch it!
+5931625 5932875 What's wrong<br />with you?
+5961417 5962583 Hello.
+5964000 5965000 Hey.
+5967750 5969000 Let me go!
+5970291 5971333 Let me go!
+5979125 5981875 Get off me! Let me go!
+5985000 5986208 Hey, hey, hey!
+5997041 5998125 Helena!
+5999500 6000959 They've got Teddy.
+6003083 6004667 They took him<br />up the hill somewhere.
+6013542 6015542 Hey. Hey! Hey!
+6024750 6025976 What are they<br />gonna do to him?
+6026000 6028667 He knows about the Ear,<br />what the Grafikos says.
+6030041 6031500 They're not gonna hurt him.
+6031667 6032834 They're gonna use him
+6033583 6035834 to get the other half<br />of the Dial.
+6035917 6036959 We gotta get there first.
+6050166 6054208 Colonizing queens<br />built many cities in Sicily.
+6054375 6055875 - The temple...<br />- Let's go.
+6056542 6059083 Is the oldest<br />of the Greek temples.
+6060166 6061542 The cave's over there.
+6071917 6073667 Could we go<br />a little faster, please?
+6082875 6084375 The Ear of Dionysius.
+6092083 6093083 Wow.
+6107291 6109000 "Search where Dionysius hears
+6109083 6110792 "each whisper<br />like a hurricane."
+6112000 6113000 That's some echo.
+6114750 6117333 Keep making noise till we<br />find out where it's loudest.
+6134792 6135959 Stop.
+6143542 6144667 This is it.
+6149625 6151125 Greek pediment.
+6151792 6152792 An entrance.
+6154208 6155208 Used to be.
+6158500 6159500 A crescent.
+6162375 6163458 Just like on the Grafikos.
+6171083 6172917 I think there's<br />an opening up there.
+6179542 6180542 You okay up there?
+6181709 6182875 Yes.
+6185375 6186417 You're not moving.
+6188917 6190125 I'm thinking.
+6192959 6193959 About?
+6195125 6198041 About what the hell I'm doing<br />up here, 40 feet in the air,
+6198375 6199959 with crap shoulders,
+6200125 6201917 crumbling vertebrae,
+6202083 6204583 a plate in one leg,<br />screws in the other.
+6204750 6206000 Yeah, I get it. I get it.
+6206625 6207750 No, you don't get it.
+6208583 6209834 You're half my age.
+6210875 6213542 You haven't been forced<br />to drink the blood of Kali.
+6213709 6214959 No. Fair enough.
+6215792 6217542 Or been tortured with voodoo.
+6218917 6219917 And I'm just guessing,
+6220000 6221800 but I don't think<br />you've been shot nine times,
+6221834 6224291 including once by your father.
+6226041 6227375 Dad shot you?
+6228083 6229250 Don't talk to me.
+6229417 6230617 Just go ahead.<br />I'll follow you.
+6239333 6241917 No, no, no. We are close.<br />We are close.
+6242083 6243083 Look around you.
+6243250 6244810 - We are close.<br />- The Cave of Dionysius.
+6244917 6247792 No, no, no. The cave<br />is closed for renovation.
+6248792 6249792 Oh.
+6249875 6250959 Let me ask again.
+6251041 6252959 Where is the Cave of Dionysius?
+6272583 6274750 What's the matter?<br />You worried about the kid?
+6276041 6277709 Are you sure<br />they won't hurt him?
+6277875 6279083 He'll be fine.
+6279250 6280291 He's smart.
+6282166 6283542 Where'd you find him?
+6284333 6287375 He, uh... He tried to steal<br />my purse outside a casino
+6287458 6289917 in Marrakesh when he was 10.
+6290083 6291917 I hit him repeatedly<br />with my car door,
+6292125 6294625 but he didn't let go<br />and neither did I.
+6294792 6296333 So, been together ever since.
+6297458 6299417 Thought you were<br />all about the money.
+6300542 6301542 I am.
+6304625 6306458 Nobody memorizes every page
+6306542 6308667 of their dead father's notebooks
+6308834 6309917 for the money.
+6316542 6318000 <i>Herr</i> Voller!
+6328166 6329542 They went that way.
+6339917 6341667 Why?
+6344875 6346709 Come on, come on.
+6348583 6350375 Let's go.
+6355083 6356083 Oh, my...
+6359125 6360625 Oh, my God!
+6361458 6362792 Oh, my God!
+6363000 6364375 - Oh, God!<br />- No, no.
+6365291 6366667 Oh, my God! Oh, my God!
+6371208 6372834 Are they off me? Get 'em off!
+6372917 6374583 - No, no. Wait.<br />- Get 'em off!
+6387667 6388750 What is that?
+6391709 6393208 Methane.
+6394250 6395458 Don't breathe.
+6395625 6396625 Don't breathe?
+6400333 6401709 We've gotta get outta here.
+6410542 6411542 Athena.
+6413291 6414583 Goddess of war.
+6417500 6418709 And reason.
+6423000 6424375 "Under the moon...
+6426667 6428667 "life lies at her feet."
+6436417 6437750 Water displacement.
+6438542 6439875 Get in the pool!
+6440041 6442041 Why?<br />Help me open the door.
+6442208 6443834 Well, they didn't<br />get out the doors!
+6443917 6444917 Get in the pool!
+6445959 6447834 Okay, I'm getting in the pool.
+6448000 6449125 Help me.
+6451542 6453875 Archimedes was fascinated
+6455375 6457333 by water displacement!
+6471208 6472208 Whoa!
+6498333 6500667 Hey! Get back here! Klaber!
+6514875 6516041 You don't need to do that.
+6542125 6543166 Hey!
+6544542 6546291 Give me that!
+6547083 6548792 No!
+6555333 6556625 Leave them.
+6557333 6558959 I said leave them.
+6583375 6584959 Reach and pull.
+6585125 6586709 Reach and pull.
+6586875 6589041 Reach and pull.
+6617458 6619000 Archimedes' tomb.
+6647959 6649250 Grab that corner.
+6695583 6696583 Indy.
+6698875 6700250 This frieze...
+6702917 6704166 It's a phoenix.
+6704333 6705333 A common icon.
+6705500 6707083 No. Look,<br />it isn't.
+6708667 6710417 This phoenix has propellers.
+6719291 6720750 What's this doing here?
+6729542 6732542 Clocks won't be invented<br />for 1,000 years,
+6733208 6734667 much less watches.
+6737208 6738417 Archimedes used it.
+6741959 6743333 Dad was right.
+6744000 6745000 It works.
+6745083 6746709 Of course it works,<br />Miss Shaw.
+6749417 6750709 Mathematics works.
+6751834 6754834 As it conquered space,<br />it will conquer time.
+6762709 6764625 You've already<br />lost your son, Dr. Jones.
+6764792 6765792 Your wife is gone.
+6765875 6767792 Do you really<br />want to lose your godchild?
+6770875 6771959 For what?
+6772375 6774542 A world that no longer cares<br />about men like us.
+6785875 6786875 Thank you.
+6825583 6826959 History's greatest moment.
+6834083 6835375 Its end.
+6843041 6844081 Throw me the gun!
+6854417 6856667 - Get him outta here.<br />- Teddy.
+6857709 6858834 Teddy! Teddy!
+6859000 6860041 Come on! Go!
+6860125 6861125 This way. Come on.
+6865208 6866750 Go!
+6870333 6871333 Indy!
+6873333 6874500 Go!
+6874667 6875959 Go!
+6876125 6877208 Stop!
+6880583 6882000 Now what?
+6883625 6884625 Bring him.
+6892709 6893709 Helena, come on!
+6893875 6895166 Teddy, we can't just leave him.
+6895250 6896583 We're not! Follow me!
+6898542 6899542 Come on!
+6903458 6904542 Come on.
+6918750 6920709 Teddy. Come on.<br />We've got a car.
+6925166 6926583 Ah, crap.
+6932792 6933834 Stay there.
+6952709 6953709 Hop on.
+6957333 6960291 The first hemisphere<br />sets the destination.
+6961792 6965375 The second calculates<br />the location of the fissure
+6966625 6968458 in Alexandrine coordinates.
+6969041 6971917 Have Messner transpose this<br />to longitude and latitude,
+6972959 6974834 and transmit waypoints<br />to the pilots.
+6986959 6988458 Shortcut.
+6992750 6995709 You got coordinates for 37.07.
+6995792 6997125 So, who is it?
+6997875 6999125 Churchill?
+7000500 7001500 Ike?
+7003834 7006333 Who are you gonna kill<br />to win the war?
+7007166 7010041 In a few minutes,<br />with the help of Archimedes,
+7010208 7012083 we shall fly<br />into the eye of this storm
+7012875 7015125 and cross into Sicilian airspace
+7015291 7018792 on August 20th, 1939.
+7019542 7021375 We will head north<br />over friendly skies
+7021458 7023083 with enough fuel<br />to reach Munich.
+7024375 7026000 My quarry will be waiting for me
+7026542 7029000 at 16 Prinzregentenplatz
+7029375 7031583 for an update on his V-1 rocket.
+7038583 7042583 What kind of Nazi<br />kills the Führer?
+7044208 7046875 The kind that believes<br />in victory, Dr. Jones.
+7052125 7055959 Hitler lit a fire that could<br />have burned 1,000 years.
+7056125 7057625 I saw every mistake.
+7058417 7059709 Every blunder.
+7059875 7061542 And I will correct them all.
+7061709 7064333 History is a long list<br />of losses, Dr. Jones.
+7065375 7066625 It's just a question of whose.
+7079291 7080583 Stop!
+7153291 7154291 Teddy.
+7156125 7157485 You think you can fly<br />one of those?
+7159125 7160125 A Nord?
+7162834 7163834 Sure.
+7164583 7165709 It's not a ringing response.
+7165875 7167542 Well, I haven't flown a Nord.
+7167709 7169250 You've never flown any plane.
+7170458 7172250 I'll get it started.
+7172417 7173667 No, Teddy.
+7174834 7175834 Crap.
+7203208 7204935 Fasten<br />your seat belt, Dr. Jones.
+7204959 7206250 There might be some turbulence.
+7207500 7209750 You're German, Voller.
+7209917 7211917 Don't try and be funny.
+7235291 7237125 Come on, big talker.
+7251583 7252959 Okay.
+7269792 7271375 Okay. Okay.
+7271542 7274083 Gauges green. Power full.
+7274750 7277250 And when I reach 85, I rotate.
+7315000 7316417 Okay, wings down.
+7318500 7320500 Okay, 84 miles an hour.
+7320959 7322041 Rotate.
+7399250 7400709 Continental drift.
+7404125 7405333 Continental drift!
+7407083 7409667 Archimedes didn't know<br />about continental drift.
+7410500 7412667 He couldn't have!
+7412750 7414667 It hadn't been observed yet.
+7415667 7417500 You're off target.
+7417959 7419834 Your coordinates<br />are based on markers
+7420583 7423792 that have been moving<br />for 2,000 years!
+7423959 7426792 You could be off<br />by 10 degrees, by...
+7445083 7446083 <i>Herr</i> Voller...
+7446166 7448208 Your calculations are wrong!
+7449458 7451218 - <i>Herr </i>Voller...<br /><i>- </i>Will you shut up?
+7451291 7452291 I'm thinking!
+7459000 7460320 Hold the flight path!
+7466917 7469375 I don't know<br />where we're going, Jürgen.
+7471208 7472750 But it sure as hell
+7473000 7474625 ain't 1939!
+7578500 7579726 That's Sicily.
+7579750 7580959 1939.
+7582709 7584166 I did it.
+7584333 7585834 I did it, Dr. Jones!
+7594667 7596709 Yesterday<br />belongs to us, Dr. Jones.
+7621583 7623750 Those are Roman triremes.
+7652000 7653208 Keep it in the air!
+7684542 7685917 Amazing.
+7692583 7693583 Whoa!
+7694875 7695875 Open the door!
+7700834 7701834 What are you doing?
+7702792 7704500 What are you doing, you idiots?
+7704667 7706458 They think we're a monster!
+7707000 7708000 Aah!
+7712959 7714458 You have<br />to turn around.
+7714625 7716542 This is the Siege of Syracuse.
+7717667 7719000 214 BC.
+7719166 7720375 You got the wrong war.
+7752208 7753291 Boss!
+7791333 7792893 Get out of the way!
+7798709 7800834 How do you like that,<br />you savages?
+7803875 7806625 Sorry, pal, but you're a Nazi!
+7816667 7818750 What are you doing here?
+7818917 7820458 Rescuing you!
+7831083 7832875 Get him off!
+7834291 7835375 Indy!
+7841000 7842208 Parachute!
+7845000 7846166 I got a parachute!
+7847667 7849083 Hang on!
+7852083 7853166 Let go!
+7855500 7856875 Give me the parachute!
+7862959 7865083 Grab it. Hang on!
+7866625 7868375 Indy!
+7921125 7923583 Hey,<br />those are my friends.
+7923750 7925792 Those are my friends.<br />We need to help them!
+7926959 7928542 Those are my friends!
+8009000 8010059 He's trying to land.
+8010083 8012041 Come on, Indy. Help me.
+8012792 8014834 Get up. Yeah.
+8015000 8017291 We need to get you<br />out of here. Okay.
+8019208 8020500 Help me. Sit up, okay?
+8021375 8022625 Sit up. You need to help me.
+8022792 8024667 I know it hurts,<br />but we gotta get you back.
+8024834 8027542 This is incredible, Wombat.
+8028083 8030041 Incredible.
+8031583 8033291 Yeah, it very well is.
+8033458 8035041 But we have to<br />get you out of here.
+8037166 8038291 My God.
+8039959 8041834 We're witnessing history.
+8048959 8050750 Reverse these numbers.
+8050917 8052000 They'll get you home.
+8053667 8054667 What?
+8057583 8058792 I'm going to stay.
+8059542 8061542 No. You're not serious.
+8064375 8065417 Wow, you are serious.
+8069500 8071125 Indy, you've been shot.
+8071208 8072208 You're bleeding.
+8072583 8074125 You can't stay here.
+8074208 8075208 Yes, I can.
+8075875 8076917 But for what? For...
+8077000 8080542 For a long, painful death<br />with poultice and leeches?
+8081583 8083709 I've imagined this, Wombat.
+8084834 8086667 Studied it.
+8086834 8088875 - All my life.<br />- Yeah.
+8089041 8092041 And if you stay here,<br />you will muck it all up.
+8092125 8093125 And die.
+8093875 8095500 Please, get up.
+8097250 8098417 Helena!
+8098750 8099750 I did it!
+8099917 8102250 Bravo, Teddy! Three cheers!
+8102417 8104041 Okay. Indy, we've gotta go.<br />Get up.
+8104125 8105643 I need to get you<br />into that plane, okay?
+8105667 8106667 - We need to.<br />- No. No.
+8106834 8109166 Get up. You can... We can!
+8128583 8129583 It's him.
+8138542 8140583 He's asking how far we've come.
+8177208 8179041 That dial<br />is a forced deck.
+8179125 8180583 It doesn't take us<br />anywhere but here.
+8180750 8182041 He built it to get help.
+8182208 8184750 Well, we just scared off<br />the entire Roman Navy,
+8184834 8186017 so I think we've helped enough.
+8190542 8191583 Helena...
+8192792 8193851 He can't<br />keep that, by the way.
+8193875 8194935 He needs to build his own one.
+8194959 8196625 Helena, we need to go!
+8197083 8199208 Indy, the window is closing!
+8199375 8200500 We cannot get stuck here!
+8206208 8208166 No, no, no!<br />Do not say yes!
+8215166 8216166 Helena...
+8225333 8226667 This is your time.
+8228792 8230101 He needs to be in his.
+8230125 8232417 His work is not done.<br />He needs to go home.
+8232500 8234166 There is medicine at home.
+8234250 8236125 He cannot die here. He can't.
+8237792 8240625 Helena, get on the plane.
+8243208 8244291 I'll be all right.
+8246125 8247458 No, you won't.
+8250458 8252208 I need to do this.
+8253291 8254291 Me too.
+8308792 8309792 Good morning.
+8314667 8316041 How's the shoulder?
+8318709 8321208 Better than my jaw.
+8324834 8325834 Right.
+8327834 8329333 You should've<br />let me stay.
+8330208 8331417 I couldn't do that.
+8340458 8341458 Why not?
+8343333 8345875 Well, for starters, you'd have<br />changed the course of history.
+8350208 8352000 That's supposed to be<br />a bad thing?
+8356125 8357917 You're meant to be here, Indy.
+8361709 8362709 Here.
+8367834 8368959 For who?
+8396291 8397875 Marion.
+8399125 8400166 Hey.
+8419458 8420458 Teddy.
+8422083 8423083 Marion.
+8425792 8426792 What are you doing?
+8428333 8429500 Putting groceries away.
+8431792 8434500 There wasn't a scrap of food<br />in this place.
+8435417 8437417 No. Really.
+8442208 8444417 Someone told me you were back.
+8451875 8453500 Are you back, Indy?
+8455125 8456834 It was explosives,
+8457000 8459166 and Indy was running,<br />Marion was running,
+8459333 8462000 and suddenly the plane exploded.
+8465709 8467750 Indy, you're up and about.
+8468959 8470333 Yes, I am.
+8471458 8472458 Yes.
+8473083 8475125 Why don't we go<br />and get some ice cream, kids?
+8475291 8476651 But Marion<br />just bought some.
+8476709 8477935 Oh,<br />I know a better place.
+8477959 8480166 You can never have too much<br />ice cream, can you?
+8483875 8484875 See you later.
+8488458 8491375 <i>A British</i><br /><i>tar is a soaring soul</i>
+8491542 8494375 <i>As free as a mountain bird</i>
+8494542 8496375 <i>His energetic fist</i>
+8496542 8498959 <i>Should be ready to resist...</i>
+8500875 8502166 That looks bad.
+8503667 8504917 Does it hurt?
+8507458 8508917 Everything hurts.
+8511792 8513417 I know how that feels.
+8519500 8522125 Well, where doesn't it hurt?
+8530709 8531709 Here.
+8532500 8533750 It doesn't hurt here.
+8542041 8543583 And here.
+8567166 8569542 Jabari, Alia,<br />slow down!
+8569709 8571834 Helena! Hurry up!
+8572000 8574667 <i>I scream, you scream...</i>
+8574834 8576959 Everybody, slow down.
+8577125 8579267 <i>- I scream, you scream</i><br />- KIDS: <i>I scream, I scream</i>
+8579291 8581000 <i>We all scream for ice cream!</i>
+8581166 8583250 Slow down.

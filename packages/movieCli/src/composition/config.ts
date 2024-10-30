@@ -2,6 +2,11 @@ import { environment } from '$config/environment';
 import type { Config } from './config.types';
 
 export const config: Config = {
+  gitHub: {
+    token: environment.REPO_TOKEN,
+    apiUrlBase: 'https://api.gitHub.com/repos/andrewcrobertson/subtext',
+    uiUrlBase: 'https://gitHub.com/andrewcrobertson/subtext',
+  },
   omdb: {
     token: environment.OMDB_TOKEN,
     apiUrlBase: 'https://www.omdbapi.com',

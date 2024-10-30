@@ -41,7 +41,7 @@ export class OpenSubtitlesApi {
 
   private async fetchSearch(imdbId: string): Promise<T.ApiSearchResponse> {
     const url = `${this.apiUrlBase}/subtitles?imdb_id=${imdbId}`;
-    const headers = { Accept: 'application/json', 'Api-Key': this.apiKey, 'Content-Type': 'application/json', 'User-Agent': 'SubText v0' };
+    const headers = { Accept: 'application/json', 'Api-Key': this.apiKey, 'Content-Type': 'application/json', 'User-Agent': 'subtext v0' };
 
     try {
       const response = await fetch(url, { headers });
@@ -57,7 +57,7 @@ export class OpenSubtitlesApi {
   private async fetchUrl(fileId: number): Promise<T.ApiUrlResponse> {
     const url = `${this.apiUrlBase}/download`;
     const body = { file_id: fileId, sub_format: 'srt' };
-    const headers = { Accept: 'application/json', 'Api-Key': this.apiKey, 'Content-Type': 'application/json', 'User-Agent': 'SubText v0' };
+    const headers = { Accept: 'application/json', 'Api-Key': this.apiKey, 'Content-Type': 'application/json', 'User-Agent': 'subtext v0' };
 
     try {
       const response = await fetch(url, { method: 'POST', headers, body: JSON.stringify(body) });

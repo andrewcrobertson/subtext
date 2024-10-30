@@ -1,0 +1,38 @@
+{
+  "imdbId": "tt1853728",
+  "title": "Django Unchained",
+  "releaseDate": "2012-12-25T00:00:00.000Z",
+  "releaseYear": 2012,
+  "posterFileName": "poster.jpg",
+  "rated": "R",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Western"
+  ],
+  "directors": [
+    "Quentin Tarantino"
+  ],
+  "writers": [
+    "Quentin Tarantino"
+  ],
+  "actors": [
+    "Jamie Foxx",
+    "Christoph Waltz",
+    "Leonardo DiCaprio"
+  ],
+  "runTime": 165,
+  "plot": "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation owner in Mississippi.",
+  "subtitleIds": [
+    "ef90907e",
+    "91d5a31b",
+    "93376f2f",
+    "ec3ef7dc",
+    "1d65e43b",
+    "2ad7b686",
+    "de0fca70",
+    "b94571fb",
+    "faa27ec7"
+  ],
+  "isAvailable": true
+}

@@ -1,0 +1,39 @@
+{
+  "imdbId": "tt17526714",
+  "title": "The Substance",
+  "releaseDate": "2024-09-20T00:00:00.000Z",
+  "releaseYear": 2024,
+  "posterFileName": "poster.jpg",
+  "rated": "R",
+  "genres": [
+    "Drama",
+    "Horror"
+  ],
+  "directors": [
+    "Coralie Fargeat"
+  ],
+  "writers": [
+    "Coralie Fargeat"
+  ],
+  "actors": [
+    "Demi Moore",
+    "Dennis Quaid",
+    "Margaret Qualley"
+  ],
+  "runTime": 141,
+  "plot": "A fading celebrity takes a black-market drug: a cell-replicating substance that temporarily creates a younger, better version of herself.",
+  "subtitleIds": [
+    "aa39e191",
+    "42f0c984",
+    "42f0c984",
+    "7e963145",
+    "4fe77651",
+    "766bf76d",
+    "9d4d898f",
+    "e40a4958",
+    "e40a4958",
+    "b47d9558",
+    "b47d9558"
+  ],
+  "isAvailable": true
+}

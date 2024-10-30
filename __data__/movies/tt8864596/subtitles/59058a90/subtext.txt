@@ -1,0 +1,1847 @@
+0 10000 <b>[AMC]</b>
+90000 100000 <b>[MUSIC]</b>
+123875 129583 <b>[MUSIC]</b>
+138000 139541 <b>Okay, let's see what we got here.</b>
+139916 141500 <b>Seen it, seen it.</b>
+141583 142958 <b>Hmm, what's this about?</b>
+144041 144666 <b>That's the dog.</b>
+145000 149791 <b>[SOUND]</b>
+149875 161875 <b>Here we go.</b>
+162166 164583 <b>At the dawn of time, there was our</b>
+164666 166750 <b>gracious and powerful creator.</b>
+168166 172083 <b>Primus, to protect our universe, he</b>
+172166 173666 <b>sacrificed his life force.</b>
+174000 175541 <b>Transforming himself</b>
+175625 179875 <b>into our planet, Cybertron.</b>
+180916 183958 <b>From within Cybertron's core, Primus</b>
+184041 185291 <b>birthed the first</b>
+185375 189125 <b>transformers known as the Primes.</b>
+190041 192750 <b>The most powerful transformers appointed</b>
+192833 195458 <b>to lead and protect future generations.</b>
+196250 198708 <b>To assist them, Primus created an entity</b>
+198791 202750 <b>of great power, the Matrix of Leadership.</b>
+203000 204708 <b>Matrix, there it is, okay,</b>
+204791 206125 <b>good, come on, keep going.</b>
+206416 207833 <b>With the Matrix in the Primes'</b>
+207916 209791 <b>possession, Cybertron's</b>
+209875 212333 <b>natural power source, Energon,</b>
+212958 214666 <b>flowed in abundance,</b>
+215500 217583 <b>sustaining life of profit.</b>
+220041 220916 <b>[MUSIC]</b>
+221000 222833 <b>Attention, unauthorized</b>
+222916 224958 <b>movement detected in archival vault.</b>
+225500 226500 <b>Sector J, U, A.</b>
+226875 229083 <b>K-12, 2K-1, reaching</b>
+229166 229958 <b>archives in 10 seconds.</b>
+230041 234166 <b>For generations, there was peace and</b>
+234250 236166 <b>prosperity until the</b>
+236250 238291 <b>Matrix of Leadership was lost,</b>
+238708 242208 <b>causing Energon to no longer flow.</b>
+242666 244625 <b>Why is every legend about</b>
+244708 246500 <b>the Matrix end right there?</b>
+247250 248708 <b>One of these has to say what happened.</b>
+249125 251041 <b>Halt, criminal, prepare to be detained.</b>
+251958 252083 <b>Uh...</b>
+252166 253875 <b>Halt, criminal, prepare to be detained.</b>
+255208 255583 <b>Uh-oh.</b>
+257166 257375 <b>Freeze!</b>
+259000 259708 <b>Get down!</b>
+260208 261500 <b>Well, hello guys, yeah,</b>
+261583 262458 <b>I'm so glad you're here.</b>
+262750 263666 <b>Which way's the exit?</b>
+264125 265458 <b>I must have taken a wrong turn.</b>
+265791 266958 <b>Is that defective mining</b>
+267041 268250 <b>pot or are you on picks?</b>
+268583 269291 <b>Orion Pax.</b>
+269375 269916 <b>Who cares?</b>
+270000 271625 <b>We told you to never come back here.</b>
+271708 273166 <b>Why are we all yelling?</b>
+273458 274958 <b>I'm gonna smash you.</b>
+275041 276083 <b>Hold on, whoa, hold on.</b>
+276166 277125 <b>No need for violence.</b>
+277666 278208 <b>How about this?</b>
+278458 279541 <b>I run away, you chase</b>
+279625 281083 <b>me, we play that game, huh?</b>
+281166 281500 <b>Come on, you're</b>
+281583 283000 <b>bigger, faster, it'll be fun.</b>
+283083 284208 <b>He doesn't have a cog.</b>
+284625 285791 <b>Let's give him a head start.</b>
+286166 286583 <b>Why not?</b>
+287083 287958 <b>It's not like he can transform.</b>
+288041 289333 <b>Oh yeah?</b>
+289958 291541 <b>Well, watch this.</b>
+295000 296458 <b>Get him!</b>
+300166 301375 <b>I... I... I...</b>
+301458 302250 <b>I'm something to fly.</b>
+302583 302791 <b>Uh...</b>
+303000 304291 <b>I'm something to fly.</b>
+304791 305416 <b>Oh, ha!</b>
+305708 306750 <b>Prepare to be detained.</b>
+307000 315500 <b>Oh! [Grunting]</b>
+315583 322208 <b>You don't gotta finish that.</b>
+322291 324250 <b>Come on, come on!</b>
+324750 326291 <b>[Grunting]</b>
+326375 328375 <b>[Grunting]</b>
+332000 339083 <b>[Grunting]</b>
+339166 342291 <b>So long, sir.</b>
+345000 345833 <b>Ooh, energon.</b>
+346333 347041 <b>Evening, everyone.</b>
+347416 348000 <b>Pardon me.</b>
+362000 364458 <b>Oh, Ryan.</b>
+379000 381333 <b>Hey, fellas, thanks for the head start.</b>
+381416 382333 <b>You want to give me another one?</b>
+382416 383125 <b>You're dead!</b>
+383208 384375 <b>I'll take that as a no.</b>
+385291 386833 <b>Hey, watch where you're going, though.</b>
+386916 388291 <b>What did you say, no cog?</b>
+388375 389500 <b>Sorry, sir. I didn't mean you.</b>
+389708 390375 <b>I was referring to the</b>
+390458 391000 <b>bot who was behind you.</b>
+392000 393500 <b>Where? Where'd he go?</b>
+393750 394333 <b>The filthy red and</b>
+394416 395916 <b>blue bot has a big mouth.</b>
+396125 397416 <b>Squeaky joints gives off a</b>
+397500 398458 <b>corroded metallic flinch.</b>
+398541 399291 <b>Where is he?</b>
+399375 400125 <b>He went that way.</b>
+400666 402041 <b>When I get my hands on him.</b>
+404916 412833 <b>All right, all clear.</b>
+413333 415083 <b>Okay, 8D16, I may be a</b>
+415166 416375 <b>little dusty, but corroded?</b>
+416583 417291 <b>That is too far.</b>
+417541 418041 <b>Let me guess.</b>
+418416 418958 <b>Chased out of the archives?</b>
+419041 420625 <b>Yeah, I had to jump out</b>
+420708 421625 <b>of a window this time.</b>
+422000 423458 <b>Almost died. That's wild.</b>
+423541 424000 <b>And digging through</b>
+424083 425791 <b>ancient data is worth dying for.</b>
+425875 426625 <b>Yes, it is.</b>
+427000 428500 <b>I need a new best friend.</b>
+428583 429416 <b>If there are clues in</b>
+429500 430250 <b>our recorded history</b>
+430333 431125 <b>that can help locate</b>
+431208 432250 <b>the Matrix of Leadership,</b>
+432708 434416 <b>they're in the archives. Trust me.</b>
+434500 434791 <b>Sentinel Prime.</b>
+435208 437583 <b>The Sentinel Prime is up</b>
+437666 439208 <b>on the surface right now,</b>
+439291 440750 <b>risking his life for us</b>
+440833 442416 <b>in search of the Matrix.</b>
+442666 444291 <b>That's exactly what I'm doing.</b>
+444541 445500 <b>I'm trying to help him.</b>
+445750 446708 <b>Yeah. Okay.</b>
+447000 448833 <b>The sooner energon flows again,</b>
+448916 450666 <b>the sooner we won't have to mine for it.</b>
+451083 452375 <b>Don't you want to choose your own path,</b>
+452458 453333 <b>do whatever you want?</b>
+453541 455791 <b>We're miners. We mine. That's all.</b>
+456208 457333 <b>Oh, there's got to be</b>
+457416 458750 <b>something more I can do.</b>
+459416 460208 <b>I can feel it.</b>
+460458 460833 <b>Oh, yeah?</b>
+460916 462458 <b>Like the time that you had a feeling</b>
+462541 464500 <b>you could transform without a cog?</b>
+464583 465083 <b>You said you were never</b>
+465166 466041 <b>going to mention that again.</b>
+466125 468416 <b>Took me three days to pry you open.</b>
+468666 469875 <b>Your feelings get you in trouble.</b>
+470000 470500 <b>Yeah, yeah.</b>
+470583 471833 <b>Just trust in Sentinel Prime.</b>
+472041 473000 <b>I do trust in him.</b>
+475000 477208 <b>Hey, if we did have cogs...</b>
+477291 478875 <b>I'd transform into a shovel and beat you.</b>
+479333 481041 <b>I don't like how fast you answered that.</b>
+481375 483083 <b>But listen, if you did beat me,</b>
+483166 484166 <b>I couldn't give you this awesome</b>
+484250 486375 <b>Megatronus Prime thing I have here.</b>
+486458 487625 <b>Let's go. I'll give it to someone else.</b>
+487708 489083 <b>What Megatronus Prime thing?</b>
+489541 490000 <b>Ah, it's nothing.</b>
+490416 490750 <b>It's just a, you</b>
+490833 492166 <b>know, the mint condition,</b>
+492250 494375 <b>Megatronus Prime decal, first edition.</b>
+495625 495833 <b>What?</b>
+496041 496625 <b>I mean, if you don't want</b>
+496708 497875 <b>it, I can just throw it away.</b>
+497958 498833 <b>Throw it away. That's</b>
+498916 499750 <b>not funny. Let me see.</b>
+500000 500875 <b>What? Don't grab.</b>
+500958 501791 <b>You're going to crease it.</b>
+504291 506416 <b>You know, Sentinel says Megatronus was</b>
+506500 508375 <b>the strongest Prime to ever live.</b>
+508833 509458 <b>I know, buddy.</b>
+510416 511291 <b>Looks good on you.</b>
+511583 513750 <b>Ah, it's really cool.</b>
+515791 516291 <b>Thanks.</b>
+517000 517791 <b>Always got your back.</b>
+518750 519708 <b>No matter what.</b>
+524500 525291 <b>Approaching sub-level</b>
+525375 526541 <b>station, stand clear of doors,</b>
+526791 527750 <b>mining teams prepared for aid.</b>
+534000 541250 <b>[MUSIC]</b>
+548000 549458 <b>Metal to the pedal</b>
+549541 550875 <b>drill bits, this is it.</b>
+551125 552291 <b>How much energon have you</b>
+552375 553500 <b>mined under my leadership?</b>
+553791 554833 <b>So much, are you the one.</b>
+554916 556708 <b>And how perfect is my mining record?</b>
+557000 558416 <b>So perfect are you the one.</b>
+558500 560750 <b>We are a mere 30 units of energon away</b>
+560833 562500 <b>from my promotion to supervisor.</b>
+563000 564291 <b>Are you happy for me?</b>
+564583 565833 <b>So happy for the leader one.</b>
+566958 568125 <b>Elita, I am the captain.</b>
+568375 568958 <b>You are looking</b>
+569041 570416 <b>especially shiny this morning.</b>
+570625 571083 <b>New polish?</b>
+571375 573333 <b>Oh, Ryan Pax, I'm sorry that I somehow</b>
+573416 573833 <b>gave you the</b>
+573916 574875 <b>impression that we're friends.</b>
+575333 575916 <b>Apology accepted.</b>
+576125 576916 <b>Light up that wall.</b>
+577000 578208 <b>Let's go. Ten seconds.</b>
+578291 579833 <b>Happy to take the lead today, captain.</b>
+579916 581583 <b>I feel like I have enough power in me to</b>
+581666 583458 <b>drill down and touch Primus myself.</b>
+583541 584958 <b>You don't have the touch or the power.</b>
+585166 587375 <b>Ready positions, Ross Boggins. Let's go.</b>
+587458 588416 <b>She's in a good mood today.</b>
+589208 589500 <b>You ready?</b>
+589791 591750 <b>Always ready. Let's punch in.</b>
+593000 594500 <b>Here we go. This one won't be over long.</b>
+594750 595166 <b>Raise it up.</b>
+596000 596875 <b>Here we go.</b>
+597625 599500 <b>Raise it up.</b>
+601000 602583 <b>Lower channel is open.</b>
+608000 609000 <b>Don't go on that.</b>
+609791 610333 <b>Hold tight.</b>
+614708 617041 <b>Throw it out.</b>
+620000 620791 <b>I shot the base.</b>
+625125 626541 <b>I shot the stable.</b>
+627041 628166 <b>Got it, though. Got it, bro.</b>
+635000 636250 <b>Evacuate!</b>
+637458 640750 <b>When everyone out, evacuate immediately.</b>
+640833 641708 <b>The tunnel is closing.</b>
+642291 644291 <b>I repeat, the tunnel is closing.</b>
+645291 646000 <b>You ripped me deep.</b>
+646291 647750 <b>One, two, six. Keep going.</b>
+649208 649625 <b>One down.</b>
+654000 656000 <b>The gas is stuck. Alita,</b>
+656291 657291 <b>we've got a trap in mind here.</b>
+657375 658416 <b>I'm falling back to assist.</b>
+658750 659500 <b>Negative. Do not</b>
+659583 660791 <b>bring protocol. Evacuate.</b>
+661000 663125 <b>We're gonna need more left. It's closing.</b>
+663625 665250 <b>Just grab your package. Go.</b>
+665416 665916 <b>Good idea.</b>
+666458 668416 <b>What? No! I didn't mean it.</b>
+670958 672708 <b>Pull the flimp.</b>
+677000 678208 <b>Hacks, what's happening?</b>
+678833 680083 <b>Nothing much. Just normal</b>
+680166 680958 <b>protocol following stuff.</b>
+681041 682375 <b>It's all good.</b>
+683500 684791 <b>Oh, that's not good.</b>
+686916 687666 <b>Orion Pax, could you</b>
+687750 689166 <b>please exit the tunnel of death?</b>
+689333 691958 <b>Alita, it's about to get messy out there.</b>
+697000 698083 <b>Go! Go!</b>
+699583 702958 <b>Run! Run!</b>
+703500 705083 <b>Where did I make it?</b>
+705166 707000 <b>Come on. Go, go, go!</b>
+714208 715083 <b>What the hell, Pax? I</b>
+715166 715916 <b>told you to evacuate.</b>
+716166 717041 <b>I did, eventually.</b>
+717125 718625 <b>If I get fired because of you...</b>
+718708 720500 <b>Oh, please. They're not gonna fire you.</b>
+721541 722750 <b>Alita-1, you're fired.</b>
+722958 724541 <b>What? Why? I followed</b>
+724625 725916 <b>protocol to the letter.</b>
+726000 727125 <b>That is true. I was the</b>
+727208 728000 <b>one who broke the rules.</b>
+728208 730291 <b>No one asked you, Darkwing. Please. I</b>
+730375 731750 <b>have worked too hard for this.</b>
+731833 734625 <b>You are no cog bots with limited options.</b>
+735458 737166 <b>Report the waste management immediately.</b>
+737916 738500 <b>Waste management?</b>
+739000 741250 <b>Alita. Next time, why don't you stop and think</b>
+741333 742625 <b>before you ruin someone's life?</b>
+743000 743500 <b>I'm sorry.</b>
+746000 746625 <b>Hey, Darkwing.</b>
+746708 747666 <b>Don't do it.</b>
+747750 748875 <b>I may not have a cog, but</b>
+748958 750125 <b>my finger can transform.</b>
+750708 751875 <b>Guess which one. I'll</b>
+751958 753333 <b>give you a limited option.</b>
+756000 758000 <b>Excuse me, sir. Allow me.</b>
+759000 761000 <b>I apologize on his behalf for the dis-</b>
+777041 779166 <b>That really hurt.</b>
+780000 781083 <b>What'd you expect? He's metal.</b>
+781375 782500 <b>You know you were out of line.</b>
+783083 785250 <b>Talking back to a superior like that.</b>
+785333 787750 <b>Darkwing was out of line. He deserves it.</b>
+789166 789958 <b>How are you tired of being</b>
+790041 790958 <b>treated like we're nothing?</b>
+792833 794291 <b>He had every right to</b>
+794375 795666 <b>hit me. I interfered.</b>
+798250 800750 <b>Hey, and I appreciate you having my back.</b>
+802250 804291 <b>I'm glad you were there with me to get</b>
+804375 805041 <b>punched in the face.</b>
+805291 805708 <b>That was fun.</b>
+806333 807291 <b>Anytime, buddy.</b>
+808125 810625 <b>Attention all sectors. Stand by for a</b>
+810708 812666 <b>live transmission from Sentinel Prime.</b>
+812958 814458 <b>He's back? He's back already?</b>
+814541 815458 <b>Maybe you found the Matrix.</b>
+819916 822250 <b>Is it on? Okay, thank you.</b>
+822791 824958 <b>Hello, my friends. Hello, Iacon City.</b>
+825041 827916 <b>Hello to our saviors, the industrious</b>
+828000 829916 <b>miners who toil selflessly to maintain</b>
+830000 831041 <b>our energon reserves.</b>
+831833 833083 <b>I celebrate you.</b>
+834416 837333 <b>Humility and presence. That's leadership.</b>
+837750 839208 <b>Ah, nobody does it better.</b>
+839500 841583 <b>Once again, I have narrowly returned with</b>
+841666 843375 <b>my fleet after another treacherous</b>
+843458 845750 <b>expedition across the desolate, dangerous</b>
+845833 847000 <b>surface of our planet.</b>
+847541 848958 <b>I departed with hopes of finding the</b>
+849041 850833 <b>Matrix of Leadership, the key to bringing</b>
+850916 851958 <b>balance to Cybertron.</b>
+852041 854541 <b>I regret to inform you that we've</b>
+854625 855708 <b>returned empty-handed.</b>
+856875 859666 <b>This is a setback, but not a failure.</b>
+860541 862583 <b>Rest assured, I will find the Matrix of</b>
+862666 863583 <b>Leadership so that</b>
+863666 865000 <b>energon can flow again.</b>
+865791 867041 <b>But that's in the future.</b>
+867583 869083 <b>Right now, I think we</b>
+869166 870500 <b>all deserve a little fun.</b>
+871000 872625 <b>Tomorrow there will be no work. All</b>
+872708 873750 <b>shifts off because</b>
+873833 876375 <b>tomorrow is the Iacon 5000.</b>
+877000 877916 <b>Woo!</b>
+880000 882125 <b>My favorite event. A high</b>
+882208 884708 <b>octane race all across Iacon City.</b>
+885041 886666 <b>Let's all see which competitor can prove</b>
+886750 889416 <b>they are truly more than meets the eye.</b>
+897916 898125 <b>Dee?</b>
+899500 901041 <b>Hey, Dee.</b>
+908000 910916 <b>Oh, good. You're up.</b>
+911333 912375 <b>Come on. I have an idea.</b>
+913416 915458 <b>Whatever this is, it better be good.</b>
+915541 916875 <b>Yeah, yeah, yeah, yeah. Okay, listen.</b>
+917250 920333 <b>Alright, what if, what if, what if,</b>
+920416 924291 <b>tomorrow we ran in the Iacon 5000?</b>
+925208 928541 <b>Huh? What if I kill you for waking me up?</b>
+928625 929833 <b>No, no, no. Hear me out.</b>
+930250 931500 <b>We don't even have to win.</b>
+931833 932958 <b>No, that's good because we wouldn't.</b>
+933041 936083 <b>But, but if we beat just one Transformer,</b>
+936375 938291 <b>it proves we're just as good as they are.</b>
+938375 940083 <b>Not only would we go down in history,</b>
+940500 941666 <b>the, the mining bots</b>
+941750 943041 <b>that did the impossible,</b>
+943791 945458 <b>but we would show everyone that we're,</b>
+945541 947291 <b>we're capable of so much more.</b>
+947583 949291 <b>Or we get publicly humiliated and then</b>
+949375 950416 <b>busted back to tier one.</b>
+950666 952375 <b>Yeah, but at least we would have done</b>
+952458 953541 <b>something, you know?</b>
+953958 955166 <b>Hex. Come on, Dee-win.</b>
+955500 958333 <b>Hex. We're mining bots who can't</b>
+958416 961958 <b>transform. We can't fly. We can't roll.</b>
+962041 965125 <b>We can't race. Come on, let's go.</b>
+965458 969416 <b>Ah, fine. Yeah, maybe you're right.</b>
+974708 975000 <b>Maybe.</b>
+977416 980416 <b>The Iacon 5000 is finally here.</b>
+980750 981666 <b>I have a surprise for you.</b>
+981750 982708 <b>Come on. Where are you going?</b>
+983000 984250 <b>The stadium's that way.</b>
+984333 985166 <b>Yeah, yeah, I know.</b>
+985250 985666 <b>Follow me.</b>
+986000 987416 <b>Great. We're gonna be late now.</b>
+988083 989000 <b>I wanted good seats.</b>
+990000 991916 <b>We came all this way to miss the opening</b>
+992000 993208 <b>ceremony. This is one.</b>
+993291 994500 <b>Trust me, I know what I'm doing.</b>
+995875 996250 <b>Pull up.</b>
+998166 1001958 <b>Get caught in one of those, it'll launch</b>
+1002041 1003458 <b>you halfway across the city.</b>
+1003791 1005375 <b>Okay, where are you taking me?</b>
+1006541 1007958 <b>Don't be a glitch, this will</b>
+1008041 1009791 <b>be totally worth it. Trust me.</b>
+1009875 1010875 <b>Hey, you don't be a glitch.</b>
+1011166 1012708 <b>I know this is like fun for</b>
+1012791 1014000 <b>you, like you took it around,</b>
+1014083 1014958 <b>but if you let me miss</b>
+1015041 1016416 <b>any part of the Iacon 5000,</b>
+1017000 1019041 <b>I swear I will smelt your face.</b>
+1023000 1025333 <b>Welcome to the Iacon 5000.</b>
+1026166 1028333 <b>There they are. Put your hands together</b>
+1028416 1029625 <b>as today's competitors</b>
+1029708 1031166 <b>are taking the field.</b>
+1032500 1035000 <b>Look, there's Thunderbird and Behemoth.</b>
+1035250 1037083 <b>This is unbelievable. I</b>
+1037166 1038625 <b>feel like I'm in the race.</b>
+1042000 1043458 <b>You did this for me?</b>
+1044000 1046666 <b>No, I did this for us.</b>
+1051583 1052666 <b>And now, the moment</b>
+1052750 1054000 <b>you've all been waiting for.</b>
+1054583 1055791 <b>The Iacon of Iacon.</b>
+1057083 1058541 <b>The savior of Cybertron.</b>
+1059625 1062208 <b>Which is on Spirit, but we love it.</b>
+1063000 1064333 <b>Our leader, the one</b>
+1064416 1067541 <b>and only, Sentinel Prime.</b>
+1068000 1069166 <b>I love you, Sentinel.</b>
+1071000 1072583 <b>Hey, guys.</b>
+1073166 1074250 <b>It feels so good to be</b>
+1074333 1075500 <b>here with you all today.</b>
+1079000 1082083 <b>My friends, my Cybertronian family.</b>
+1083583 1086250 <b>It has been precisely 50 cycles since the</b>
+1086333 1087708 <b>Quitesans attacked our home.</b>
+1088250 1090208 <b>50 cycles since we lost</b>
+1090291 1091375 <b>the Matrix of Leadership,</b>
+1092375 1094000 <b>and our Energon supply dried up.</b>
+1094958 1096875 <b>50 cycles since the battle</b>
+1096958 1097958 <b>that killed the other Primes,</b>
+1098041 1100333 <b>my brothers and sisters in arms.</b>
+1101041 1102291 <b>Today, we honor the Primes</b>
+1102375 1104083 <b>who gave their lives for ours.</b>
+1104833 1106041 <b>We show them that the strength of</b>
+1106125 1108041 <b>Cybertron will never be diminished.</b>
+1112666 1114583 <b>Racers, on your marks.</b>
+1120000 1122083 <b>I can't believe we get to watch from the</b>
+1122166 1124083 <b>starting line for the best season out.</b>
+1125125 1126500 <b>Why'd you bring jet bags?</b>
+1128000 1129291 <b>It's time to show them we</b>
+1129375 1131416 <b>are more than meets the eye.</b>
+1131500 1133125 <b>Oh, no.</b>
+1134000 1135291 <b>And they're off!</b>
+1139291 1143000 <b>Are you crazy?</b>
+1143333 1144333 <b>It sure feels like it.</b>
+1146750 1149208 <b>The Iacon 5000 has begun.</b>
+1152000 1153958 <b>I'm sorry. Are those miners in the race?</b>
+1154041 1156875 <b>Miners! Those are miners! Look at us!</b>
+1157041 1158583 <b>I can't believe we're not sitting here.</b>
+1158666 1159708 <b>There are miners trying</b>
+1159791 1160791 <b>to run in the background.</b>
+1161291 1162666 <b>This is insane!</b>
+1164041 1165416 <b>There's miners in the race!</b>
+1165500 1167458 <b>Miners! They can't even transform!</b>
+1167708 1168958 <b>The Ryan Pax is P-16!</b>
+1172000 1175291 <b>This is a burst in Iacon 5000 history.</b>
+1175583 1176666 <b>How are they going to survive?</b>
+1179250 1181958 <b>If we survive this, I'm gonna kill you!</b>
+1182041 1184083 <b>I accept those turns.</b>
+1189000 1191583 <b>It's tailwind pulling into the lead down</b>
+1191666 1192458 <b>the main stretch,</b>
+1192541 1194583 <b>followed by straight and skywire.</b>
+1196750 1197333 <b>Take this out!</b>
+1200625 1201541 <b>I own the one!</b>
+1202041 1203000 <b>More like a thousand!</b>
+1205666 1207500 <b>I can't believe we're not in left field!</b>
+1207583 1207750 <b>No!</b>
+1208000 1208541 <b>I'm not in the race!</b>
+1211000 1211666 <b>Fire!</b>
+1212416 1215125 <b>Darkwind delivers a devastating blow!</b>
+1222000 1223750 <b>We're not fast enough!</b>
+1224000 1224625 <b>Improvise!</b>
+1228250 1231625 <b>Hey! Get off!</b>
+1231708 1232541 <b>Get off! Big Ben!</b>
+1233000 1233458 <b>Get off!</b>
+1233791 1234458 <b>So sorry, big friend.</b>
+1234833 1235458 <b>Get off!</b>
+1238000 1238458 <b>Get off!</b>
+1249000 1250208 <b>Fire at this right!</b>
+1251250 1252333 <b>And now!</b>
+1254000 1254416 <b>Move!</b>
+1258916 1261333 <b>And the miners have fallen way behind.</b>
+1261791 1262958 <b>We can now focus on the</b>
+1263041 1264000 <b>real contenders in this race.</b>
+1271791 1279500 <b>[MUSIC PLAYING]</b>
+1279583 1283333 <b>I don't believe it!</b>
+1283541 1285500 <b>The miners tinned down Darkwing!</b>
+1287041 1288333 <b>Oh, miners!</b>
+1288541 1289833 <b>Great effort, Darkwing!</b>
+1290000 1290875 <b>Now work them!</b>
+1291125 1292250 <b>It actually worked!</b>
+1292333 1293166 <b>Is this the dumbest</b>
+1293250 1294375 <b>thing we've ever done?</b>
+1294458 1295000 <b>Oh yeah, it's up there!</b>
+1298000 1299541 <b>[SCREAMING]</b>
+1299625 1299791 <b>Move!</b>
+1304791 1305541 <b>[SCREAMING]</b>
+1305625 1308000 <b>Wait!</b>
+1311000 1311791 <b>Go, go, go!</b>
+1315000 1316750 <b>Four-bought pile up in the magnetic top,</b>
+1316833 1317708 <b>and the two-liners are</b>
+1317791 1319875 <b>now in first position!</b>
+1320458 1321666 <b>This is unbelievable!</b>
+1328583 1330250 <b>Dean! No!</b>
+1330333 1330500 <b>Go!</b>
+1331000 1331500 <b>Leave me!</b>
+1331750 1331958 <b>No!</b>
+1332375 1333583 <b>We do this together!</b>
+1334083 1336375 <b>One miner is now carrying the other mere</b>
+1336458 1338041 <b>steps from the finish line!</b>
+1338291 1340500 <b>The most amazing sensational dramatic</b>
+1340583 1342000 <b>heart-waving excited,</b>
+1342291 1344125 <b>thrilling finish in a distinct up-</b>
+1345583 1349250 <b>And we have a winner!</b>
+1350000 1352166 <b>Chromia comes from kinda big surprise!</b>
+1353041 1355750 <b>Talk about an Iacon 5000 for Jesus!</b>
+1357000 1359416 <b>Well, second place is still pretty good!</b>
+1363416 1367125 <b>Do not worry, you will</b>
+1367208 1368416 <b>be fixed up in no time.</b>
+1368750 1370375 <b>Uh... did I win?</b>
+1370625 1371791 <b>You participated.</b>
+1372541 1372750 <b>Yay!</b>
+1375458 1377958 <b>So... how long do you</b>
+1378041 1378875 <b>think we'll be here?</b>
+1379250 1379958 <b>I'm not talking to you.</b>
+1380041 1386041 <b>You know what?</b>
+1386125 1387666 <b>I can't believe you made me do that.</b>
+1387875 1389041 <b>We are so screwed!</b>
+1389125 1390083 <b>Thought you weren't talking to me.</b>
+1390166 1391458 <b>Hey, look, I know it's all a</b>
+1391541 1393208 <b>big joke to you, but not me.</b>
+1393291 1394375 <b>I was paying my dues.</b>
+1394666 1395833 <b>I was going places, and now</b>
+1395916 1396958 <b>they're gonna bust me down.</b>
+1397041 1398375 <b>I don't even know how many to use.</b>
+1398458 1399375 <b>I'm sorry, Dee.</b>
+1400250 1401541 <b>But come on, didn't you feel it?</b>
+1401916 1402958 <b>Even for just a second,</b>
+1403041 1404041 <b>didn't you feel liberated?</b>
+1404125 1404625 <b>Didn't you feel like</b>
+1404708 1405583 <b>you were something else?</b>
+1405666 1406750 <b>Like you could be more</b>
+1406833 1408041 <b>than what they say you are?</b>
+1408750 1408958 <b>Yeah, I felt it.</b>
+1409041 1409666 <b>I felt it. I felt it. I felt it. I felt it. I felt it. I felt it. I felt it. I felt it. I felt it. I felt it. I felt it.</b>
+1410416 1410833 <b>I did.</b>
+1412375 1413125 <b>But it doesn't matter.</b>
+1413750 1416083 <b>We're going to get punished and demoted.</b>
+1416958 1419166 <b>Ugh, Sentinel Prime saw the whole thing.</b>
+1419416 1421000 <b>This is so embarrassing.</b>
+1435000 1436208 <b>It's clear.</b>
+1440000 1441166 <b>Orion Pax.</b>
+1442583 1443166 <b>D16.</b>
+1444166 1446041 <b>What you two did today was one of the</b>
+1446125 1448250 <b>craziest things I've ever seen.</b>
+1448500 1449416 <b>Sir, this is all my</b>
+1449500 1450750 <b>idea, and we're so sorry.</b>
+1450833 1451708 <b>I loved it!</b>
+1452916 1453208 <b>You did?</b>
+1453500 1454958 <b>How could anyone not love it?</b>
+1455333 1456958 <b>You gave my best racers a</b>
+1457041 1458041 <b>real run for their money.</b>
+1458333 1460083 <b>So we're not getting demoted?</b>
+1460958 1461250 <b>Demoted?</b>
+1463208 1463833 <b>[Laughing]</b>
+1466000 1469333 <b>[Laughing]</b>
+1472000 1474500 <b>The fact of the matter is, we're halfway</b>
+1474583 1475375 <b>into the first shift</b>
+1475458 1476458 <b>since the race ended.</b>
+1476541 1477541 <b>And that mining crew has</b>
+1477625 1480208 <b>already reached 150% quota.</b>
+1480916 1482708 <b>You inspired them to work harder.</b>
+1483250 1485833 <b>With Sentinel Prime, sir, we joined the</b>
+1485916 1488750 <b>race to show everyone our potential.</b>
+1489375 1490375 <b>That weak bots can do</b>
+1490458 1491875 <b>more than just mine energy.</b>
+1491958 1492250 <b>Outstanding.</b>
+1492666 1493958 <b>I love a bot that can think for himself.</b>
+1494041 1495958 <b>Perhaps you two could tour the mines,</b>
+1496375 1497458 <b>speak to your brethren, and</b>
+1497541 1498500 <b>help them see their potential.</b>
+1499125 1499500 <b>Wow.</b>
+1500208 1500666 <b>Great.</b>
+1501000 1502375 <b>That sounds incredible.</b>
+1502666 1503500 <b>I would love to be--</b>
+1503583 1504416 <b>Sir, it's time.</b>
+1504625 1505291 <b>Ah, yes.</b>
+1506208 1507041 <b>I'm sorry, friends.</b>
+1507125 1507916 <b>We're preparing our</b>
+1508000 1509000 <b>next travel to the surface.</b>
+1509750 1510500 <b>But in the meantime,</b>
+1510875 1512083 <b>I've got a treat for you.</b>
+1512750 1513041 <b>Hang tight.</b>
+1513541 1515208 <b>Arachnid, have someone escort these</b>
+1515291 1517375 <b>heroes to my personal service facilities?</b>
+1518708 1520083 <b>Best care in Iacon.</b>
+1520833 1522000 <b>Until next time, Legends.</b>
+1526458 1527125 <b>Sentinel Prime.</b>
+1527708 1528208 <b>Ha ha ha.</b>
+1528416 1529875 <b>The Sentinel Prime.</b>
+1530250 1531083 <b>You're still mad at me?</b>
+1531250 1532041 <b>I am less mad at you.</b>
+1532125 1533791 <b>I'm telling you, Dee, I got a feeling</b>
+1533875 1535083 <b>that everything's going to change.</b>
+1535166 1536166 <b>And we're going to go--</b>
+1536791 1537000 <b>Argh!</b>
+1537333 1537875 <b>You miners!</b>
+1539166 1539375 <b>Argh!</b>
+1539500 1540083 <b>Argh!</b>
+1540833 1541541 <b>Darkwing.</b>
+1542208 1543250 <b>No!</b>
+1544541 1544833 <b>No!</b>
+1545541 1545750 <b>No!</b>
+1546958 1548875 <b>Wait, wait, you don't understand!</b>
+1549208 1550416 <b>We were supposed to go to Sentinel</b>
+1550500 1550958 <b>Prime's service pod!</b>
+1551041 1552958 <b>You two folks aren't going</b>
+1553041 1554708 <b>to see anyone ever again!</b>
+1555041 1556375 <b>I'll make sure of that!</b>
+1556625 1558291 <b>You're picking up a fake-ass Sentinel!</b>
+1558916 1559291 <b>Ugh.</b>
+1559833 1560833 <b>Hate that guy.</b>
+1574000 1575958 <b>You, products of the Sentinel!</b>
+1576500 1578000 <b>It's like our chest of the Sentinel.</b>
+1578333 1579583 <b>There's no one to tell you</b>
+1579666 1581541 <b>who can call it "Gumwood".</b>
+1581625 1582250 <b>You're real!</b>
+1582791 1584041 <b>You're-- you're-- you're others!</b>
+1584375 1585625 <b>You're not me!</b>
+1586208 1586875 <b>You're here!</b>
+1587500 1588625 <b>And you're not me!</b>
+1590916 1592041 <b>Uh, yeah?</b>
+1592333 1592541 <b>Awesome!</b>
+1593125 1593875 <b>I am so sorry.</b>
+1593958 1595375 <b>That must have been weird for you.</b>
+1595458 1597791 <b>I just haven't had a lot of company since</b>
+1597875 1599750 <b>they put me down here in sublevel 50.</b>
+1600125 1600416 <b>50?</b>
+1601291 1602833 <b>But there are only 40 sublevels.</b>
+1603083 1603875 <b>That's what I thought!</b>
+1604583 1605708 <b>Turns out they're 10 more</b>
+1605791 1606958 <b>and they are not pleasant.</b>
+1607041 1608250 <b>Probably why nobody ever</b>
+1608333 1609291 <b>really talks about them.</b>
+1609750 1610875 <b>How long have you been down here?</b>
+1610958 1611666 <b>How long have I been here?</b>
+1612166 1612375 <b>Haha!</b>
+1612500 1612875 <b>Let's see.</b>
+1613375 1614166 <b>Somewhere between a</b>
+1614250 1615375 <b>long time and forever.</b>
+1615791 1617208 <b>I mean, I had other jobs,</b>
+1617291 1619333 <b>but I kept getting reassigned,</b>
+1619416 1620750 <b>because I'm so good at what I do.</b>
+1621375 1621541 <b>Oh!</b>
+1622000 1623833 <b>I'm B-127, by the way.</b>
+1624250 1625166 <b>But you can call me "B".</b>
+1625708 1627291 <b>I'm actually working on some nicknames.</b>
+1627500 1628125 <b>The one I'm floating</b>
+1628208 1629916 <b>right now is "Badassatron",</b>
+1630000 1630666 <b>which is actually</b>
+1630750 1632833 <b>pronounced "Badassatron".</b>
+1633958 1634958 <b>But if you have any critiques--</b>
+1635041 1635875 <b>Great, great.</b>
+1635958 1638208 <b>How do we get out of here?</b>
+1638458 1638958 <b>Great question.</b>
+1639458 1640291 <b>You don't.</b>
+1640375 1640791 <b>We don't?</b>
+1641083 1641291 <b>No.</b>
+1641500 1642958 <b>We have limited access to</b>
+1643041 1643916 <b>the waste management area,</b>
+1644000 1645333 <b>but the new shift manager</b>
+1645416 1647583 <b>there does not like distractions.</b>
+1648000 1649458 <b>No, they prefer we stay</b>
+1649541 1651333 <b>here on the task at hand.</b>
+1651583 1651958 <b>Which is?</b>
+1652250 1652458 <b>Oh!</b>
+1653125 1655458 <b>The scrap comes in from the chute there</b>
+1655541 1656916 <b>onto the conveyor belt.</b>
+1657208 1658958 <b>Our job is to look for anything that</b>
+1659041 1659958 <b>might be worth salvaging</b>
+1660041 1661083 <b>before it hits the</b>
+1661166 1662625 <b>furnace and gets smelted.</b>
+1663250 1664875 <b>So you watch Garbage Barn?</b>
+1665375 1665791 <b>Yes!</b>
+1666458 1668041 <b>It is so great that you're here now.</b>
+1668291 1668958 <b>I can't wait to learn</b>
+1669041 1669916 <b>everything about you</b>
+1670000 1671583 <b>and then tell you everything about me.</b>
+1672000 1673458 <b>I have a lot of hopes and dreams that I</b>
+1673541 1674666 <b>am just dying to share</b>
+1675000 1676416 <b>with one or two new best friends.</b>
+1676708 1677500 <b>Uh, yeah.</b>
+1678125 1679541 <b>Oh, where are my manners?</b>
+1679916 1680250 <b>Come on.</b>
+1680333 1680916 <b>I'll introduce you to</b>
+1681000 1681541 <b>the rest of the crew.</b>
+1681958 1682500 <b>Hey, guys!</b>
+1682750 1683500 <b>We've got company!</b>
+1684958 1686208 <b>This is EP-508.</b>
+1687583 1688750 <b>This is A-atron.</b>
+1689166 1690708 <b>And this fella here is Steve.</b>
+1691708 1691958 <b>Steve?</b>
+1692041 1693833 <b>Yeah, he's for him.</b>
+1694208 1694416 <b>Question.</b>
+1694791 1695833 <b>Do they talk back to you?</b>
+1696166 1697666 <b>Um, they're not real.</b>
+1698583 1698708 <b>What?</b>
+1699166 1700583 <b>You think I'm that crazy?</b>
+1700833 1702000 <b>No, no, it's just you've been down here.</b>
+1702083 1702833 <b>I was talking to Steve.</b>
+1703708 1703916 <b>What?</b>
+1705375 1706083 <b>Classic Steve.</b>
+1706666 1707208 <b>What is that?</b>
+1707666 1708000 <b>This guy.</b>
+1708583 1709625 <b>Who's he coming from?</b>
+1710791 1711000 <b>Oh!</b>
+1712250 1712666 <b>Steve!</b>
+1713083 1713458 <b>No!</b>
+1714000 1715041 <b>I am so sorry.</b>
+1715250 1715625 <b>Steve!</b>
+1717000 1717166 <b>No!</b>
+1718416 1718541 <b>Steve!</b>
+1720000 1722791 <b>Put this on ambush.</b>
+1723166 1724208 <b>Pulling the high guard</b>
+1724291 1725541 <b>for immediate support.</b>
+1725875 1727000 <b>Immediate support!</b>
+1727916 1729125 <b>That's Alpha Trion.</b>
+1729583 1730458 <b>One of the primes?</b>
+1730916 1731291 <b>Repeat.</b>
+1731791 1733083 <b>Zeta Prime has fallen.</b>
+1733375 1734416 <b>It's an SOS message.</b>
+1734708 1735416 <b>Protect the matrix.</b>
+1736125 1737333 <b>Sending location coordinates.</b>
+1737708 1738875 <b>Sending location coordinates.</b>
+1743125 1744500 <b>Holy primus.</b>
+1745000 1746000 <b>Are those a coordinates to</b>
+1746083 1747000 <b>a location on the surface?</b>
+1748000 1750583 <b>This could be where the</b>
+1750666 1752416 <b>primes died in the Quintesson War.</b>
+1753125 1755583 <b>Which means this is where we could find</b>
+1755666 1757666 <b>the Matrix of Leadership.</b>
+1758291 1759333 <b>What are you talking about?</b>
+1759625 1760916 <b>It's an old beacon inside</b>
+1761000 1762166 <b>a statue made of garbage.</b>
+1762583 1764000 <b>Or it's a clue of how we can find the</b>
+1764083 1764833 <b>Matrix of Leadership.</b>
+1764916 1765708 <b>No, no way.</b>
+1766125 1766833 <b>Absolutely not.</b>
+1767083 1767500 <b>AD, come on.</b>
+1767583 1768541 <b>This could be our chance to</b>
+1768625 1769333 <b>show everyone that we're not--</b>
+1769416 1770041 <b>You already tried to</b>
+1770125 1771375 <b>show everyone in the race.</b>
+1771458 1773125 <b>You tricked me into running, which got us</b>
+1773208 1774125 <b>stuck down here in this</b>
+1774208 1776000 <b>waste hole with this, uh...</b>
+1777625 1779208 <b>Really cool guy.</b>
+1779541 1780666 <b>Oh, thank you.</b>
+1780750 1781333 <b>I'm just saying.</b>
+1781416 1782208 <b>There's a reason no</b>
+1782291 1783166 <b>one goes to the surface.</b>
+1783458 1784291 <b>It's dangerous.</b>
+1784875 1785875 <b>I'm waiting right here</b>
+1785958 1787625 <b>until Zeta Prime finds us.</b>
+1787708 1788375 <b>Oh, okay. Yeah.</b>
+1788625 1790666 <b>Well, we'll just stay here forever.</b>
+1791458 1792375 <b>And cool with you, B?</b>
+1792458 1793791 <b>Forever? This is great.</b>
+1794166 1795833 <b>I have you coworkers and roommates.</b>
+1796125 1796666 <b>There's plenty of room</b>
+1796750 1797583 <b>now that Steve is dead.</b>
+1797833 1799166 <b>I usually sleep on the conveyor belt, but</b>
+1799250 1800041 <b>you can totally have it.</b>
+1800125 1801375 <b>I'll sleep in the corner next to A-atron.</b>
+1801583 1802500 <b>Plenty of room for you guys to stretch</b>
+1802583 1804000 <b>out to, because you're taller than I am.</b>
+1804083 1804500 <b>You know what I mean?</b>
+1805083 1805958 <b>AD, what do you think sending those letters to?</b>
+1806041 1807458 <b>What do you think Shennil's reaction</b>
+1807541 1809958 <b>would be if you personally handed him the</b>
+1810041 1812791 <b>matrix of leadership that you found?</b>
+1812875 1813375 <b>Okay, stop.</b>
+1813916 1814958 <b>I know what you're trying to</b>
+1815041 1817333 <b>do, and it's definitely working.</b>
+1817583 1817875 <b>I'm in.</b>
+1818291 1818875 <b>Haha, yeah, buddy.</b>
+1819166 1820041 <b>How do we get to the surface?</b>
+1820958 1821375 <b>Pfft. You kidding me?</b>
+1821458 1823000 <b>The surface? Easy.</b>
+1823750 1826833 <b>I know a way, but it won't be easy.</b>
+1828000 1829666 <b>Why is there so much trash?</b>
+1830041 1832041 <b>It's a warning next time, please.</b>
+1832125 1832916 <b>My mouth was open.</b>
+1833000 1834916 <b>49 sub-levels to go.</b>
+1836250 1838125 <b>Waste disposal trains are the only</b>
+1838208 1839291 <b>vehicles that go all</b>
+1839375 1840041 <b>the way to the surface.</b>
+1840416 1842000 <b>Yeah, but they don't allow passengers.</b>
+1842250 1843041 <b>Their trains are autonomous.</b>
+1843375 1845208 <b>Yeah, that's the won't-be-easy part.</b>
+1845541 1846750 <b>It's perfect. We'll be</b>
+1846833 1847750 <b>safe inside the train.</b>
+1855000 1856291 <b>That's the last one.</b>
+1856708 1857000 <b>Let's drop.</b>
+1862000 1864041 <b>Hold up. One more.]</b>
+1869000 1869666 <b>I'll lock it down.</b>
+1878000 1879958 <b>Heh. Thanks for being an</b>
+1880041 1881125 <b>idiot, whoever you are.</b>
+1881541 1882833 <b>Turning you in will definitely get me</b>
+1882916 1884166 <b>promoted back up a rink or two.</b>
+1884500 1884958 <b>Got him!</b>
+1885041 1887708 <b>No, wait, wait, wait. I--</b>
+1888083 1888791 <b>Alina, stop!</b>
+1889291 1889625 <b>Orion?</b>
+1890000 1890791 <b>Hold on, let me--</b>
+1891000 1892416 <b>Security! Sound the alarm!</b>
+1894958 1897416 <b>What's wrong?</b>
+1898250 1899291 <b>He's headed through the engine!</b>
+1899375 1900291 <b>Don't worry, I got this.</b>
+1902458 1903333 <b>Hold on, let me</b>
+1903416 1904666 <b>explain. We're on a mission.</b>
+1904958 1906583 <b>No, am I. To ruin your life.</b>
+1917500 1919166 <b>Alina, wait. We found a</b>
+1919250 1920250 <b>message. You know her.</b>
+1921208 1923291 <b>This bot is crazy! Who is she?</b>
+1923583 1924791 <b>Dead end, Alina. There's</b>
+1924875 1926000 <b>no way, um, um, she's gone.</b>
+1927083 1928250 <b>Ugh.</b>
+1942000 1945416 <b>Oh! Why? Why am I doing this, why am I</b>
+1945500 1946375 <b>doing this, why am I doing this, why am I doing this?</b>
+1946458 1947250 <b>Why? Why do I--</b>
+1947333 1947500 <b>Faster!</b>
+1962541 1962750 <b>Rock!</b>
+1963041 1963416 <b>Run!</b>
+1994000 1998458 <b>Ah, the surface.</b>
+1999083 2001125 <b>It's... beautiful.</b>
+2003583 2006916 <b>I am... speechless.</b>
+2009291 2011875 <b>Alina, listen to me. We know where the</b>
+2011958 2012958 <b>Matrix of Leadership is.</b>
+2013041 2015791 <b>Oh, sure. And I'm really a Prime. I just</b>
+2015875 2017708 <b>prefer loading crates of toxic--</b>
+2018000 2021208 <b>Whoa. Where did you get this?</b>
+2021291 2023166 <b>From my friend Steve. Orion killed him.</b>
+2023250 2024416 <b>I did not kill Steve.</b>
+2024500 2025500 <b>He was never alive.</b>
+2025708 2025916 <b>What?</b>
+2026250 2028291 <b>Look, Sentinel told us he was going to</b>
+2028375 2029458 <b>the surface, and then</b>
+2029541 2030541 <b>we found this message.</b>
+2031041 2032875 <b>We figured that we could hand deliver it</b>
+2032958 2035375 <b>to him or scout the locations ourselves.</b>
+2036333 2037000 <b>Whichever comes first.</b>
+2038000 2042125 <b>This was too important to wait. It will</b>
+2042208 2043875 <b>change all of our lives.</b>
+2045541 2047583 <b>No, no, no, no. I'm not going to get</b>
+2047666 2050291 <b>demoted again because of you. I'm turning</b>
+2050375 2051916 <b>this rig around and I'm notifying--</b>
+2052000 2054416 <b>Hey, hey, guys, guys. What is that?</b>
+2058708 2059958 <b>Is it getting bigger?</b>
+2061666 2062625 <b>Or closer?</b>
+2065375 2066333 <b>[TIRES SQUEALING]</b>
+2071000 2074000 <b>No, no, no, no, no, no, no, no.</b>
+2075000 2077375 <b>No, you're closing. Don't close. Stop</b>
+2077458 2078583 <b>closing. It's closed.</b>
+2079208 2080208 <b>Come on!</b>
+2086000 2087625 <b>Oh, now I know why no</b>
+2087708 2088625 <b>one comes to the surface.</b>
+2093000 2105291 <b>[GRUNTING]</b>
+2105375 2110875 <b>[SCREAMING]</b>
+2112000 2115458 <b>Alita. Alita.</b>
+2117000 2117666 <b>You okay?</b>
+2118000 2119875 <b>[GRUNTING]</b>
+2121000 2122500 <b>Please stop punching me in the face.</b>
+2124250 2125291 <b>Aye, Connor. The</b>
+2125375 2126750 <b>train. Where's the train?</b>
+2127000 2128416 <b>Relax, okay. Here it comes.</b>
+2129375 2132708 <b>There it goes. Okay, I was wrong about</b>
+2132791 2134166 <b>that. It was going the other way.</b>
+2135708 2135958 <b>[SCREAMING]</b>
+2136041 2138250 <b>[SCREAMING]</b>
+2142833 2147166 <b>Okay, so, uh, this is us, and if we</b>
+2147250 2148000 <b>follow the path to--</b>
+2148083 2150166 <b>Now, you listen to me, Mr. Zero Seconds,</b>
+2150250 2151416 <b>since my last accident.</b>
+2151833 2153541 <b>I'll go on your little quest, because I</b>
+2153625 2154250 <b>don't have a choice.</b>
+2154708 2157000 <b>But I carry the map, I navigate, and if</b>
+2157083 2158250 <b>this leads to nothing,</b>
+2158541 2160458 <b>then I'm dragging you and those two idiot</b>
+2160541 2162291 <b>go-bots back to Iacon City</b>
+2163000 2165208 <b>with the first supervisor depot we see,</b>
+2165291 2166916 <b>at which point you will explain</b>
+2167000 2168791 <b>everything that's happened using words</b>
+2168875 2171541 <b>that reflect me in a very positive light.</b>
+2171958 2172416 <b>Got it!</b>
+2173000 2174583 <b>Yeah, okay. Deal. All right.</b>
+2175000 2175666 <b>Let's go.</b>
+2176000 2178000 <b>She's joining us? Fantastic.</b>
+2178625 2180708 <b>Hi there. Alita, right?</b>
+2180958 2181625 <b>Am I saying that right?</b>
+2181958 2182541 <b>Wanted to formally</b>
+2182625 2185000 <b>introduce myself. I'm B-127.</b>
+2185541 2186208 <b>You need me in the</b>
+2186291 2187375 <b>face earlier, back there.</b>
+2187875 2190791 <b>You can call me B. Or Badassatron to</b>
+2190875 2191500 <b>nickname some of the guys</b>
+2192000 2192750 <b>I don't know. I didn't</b>
+2192833 2193916 <b>give it to myself or anything.</b>
+2194750 2197041 <b>Actually, it's pronounced "Badassatron."</b>
+2199166 2200125 <b>In case you were wondering.</b>
+2202250 2202750 <b>Badassatron.</b>
+2204208 2204833 <b>You like that, right?</b>
+2206166 2206500 <b>Badassatron.</b>
+2206583 2207625 <b>I'm gonna need you to talk less.</b>
+2208625 2210375 <b>Sure. No, yeah, no problem. What am I</b>
+2210458 2211541 <b>talking less about? My nickname?</b>
+2211875 2212750 <b>That's fine with me.</b>
+2214166 2215875 <b>Hey, you're thinking about what you'll</b>
+2215958 2216500 <b>say when you hand the</b>
+2216583 2217958 <b>Matrix to Sentinel, aren't you?</b>
+2218041 2219000 <b>I can't help it.</b>
+2219250 2222166 <b>D, we're really doing this. So glad I'm</b>
+2222250 2224666 <b>out here with you. This was a great idea.</b>
+2225041 2226875 <b>I'm just having a good time. How much</b>
+2226958 2228083 <b>further is the Matrix on this map?</b>
+2228333 2229250 <b>We can educate against it.</b>
+2229541 2231250 <b>This is the coolest thing that's ever</b>
+2231333 2232250 <b>happened to anyone</b>
+2232333 2233916 <b>anywhere. I'm telling you.</b>
+2234000 2236583 <b>One, not two, not three, but four. Four</b>
+2236666 2237708 <b>best friends who were</b>
+2237791 2239291 <b>walking through the door.</b>
+2239375 2240458 <b>There's no doors. We're outside.</b>
+2240541 2241875 <b>Hey, look. There's more of it over here.</b>
+2242125 2242958 <b>What is it?</b>
+2243041 2245958 <b>It's not metal. It's like some kind of</b>
+2246041 2248000 <b>weird nature. It's weird.</b>
+2248125 2249458 <b>So are they.</b>
+2253250 2254750 <b>What was that?</b>
+2265458 2269791 <b>I think this is not right. We should go.</b>
+2270083 2271000 <b>Yeah. Good idea.</b>
+2271208 2271416 <b>Run!</b>
+2272291 2273000 <b>What are we running from?</b>
+2278000 2278208 <b>Run!</b>
+2294791 2299291 <b>What is that?</b>
+2299833 2301958 <b>Oh no. It's a grid design ship.</b>
+2302333 2302500 <b>Really?</b>
+2302750 2304041 <b>What do we do? What do we do?</b>
+2304250 2305000 <b>Shh! Quiet.</b>
+2308000 2308916 <b>No!</b>
+2316166 2318083 <b>Scanning for lifeforms. Move, move!</b>
+2322708 2329500 <b>Go, go, go!</b>
+2338000 2340000 <b>Come on! They're not going to make it.</b>
+2368000 2370000 <b>What were they searching for?</b>
+2370250 2371958 <b>Someone to hug be. How should I know?</b>
+2372041 2373833 <b>I'm not waiting around to find out.</b>
+2374291 2375666 <b>This way. We're close.</b>
+2376833 2377458 <b>Quinisans haven't</b>
+2377541 2378833 <b>been here for 50 cycles.</b>
+2379291 2380041 <b>It doesn't make sense.</b>
+2380708 2381541 <b>There's nothing out here.</b>
+2399000 2405583 <b>A cave with teeth.</b>
+2406250 2407625 <b>Nothing scary about that.</b>
+2414000 2416375 <b>Nice. Coming out of the ceiling. Amazing.</b>
+2417958 2419458 <b>Everyone, do we have to go inside?</b>
+2419833 2420916 <b>Okay. Yep. We're going in.</b>
+2421666 2423208 <b>Why shouldn't we? Just walking into the</b>
+2423291 2424166 <b>scariest place I've ever</b>
+2424250 2425000 <b>seen in my entire life.</b>
+2427833 2428000 <b>Ridiculous.</b>
+2452291 2455291 <b>I don't believe it. The Primes.]</b>
+2456000 2458041 <b>We're here.</b>
+2495000 2496208 <b>Megatron is Prime.]</b>
+2511125 2511708 <b>Zeta Prime.</b>
+2515000 2515916 <b>The Matrix.</b>
+2520000 2520500 <b>It's gone.</b>
+2523833 2524666 <b>Let's keep looking.</b>
+2552583 2553250 <b>Hey, guys.</b>
+2571541 2572666 <b>It's Alpha Trion.]</b>
+2574000 2575458 <b>He's powered down.</b>
+2576083 2578583 <b>But he's sparked. He's still lit.</b>
+2597000 2599041 <b>It's Alpha Trion.</b>
+2599125 2600375 <b>You're safe.</b>
+2600708 2601791 <b>I have eaten snuggly.</b>
+2604041 2605041 <b>That's his reward.</b>
+2605416 2607041 <b>Whoa, whoa. It's okay. It's okay.</b>
+2607875 2610000 <b>You're safe now. The war is over.</b>
+2619083 2634541 <b>I failed you, old friend.</b>
+2636000 2637375 <b>You deserved so much</b>
+2637458 2639625 <b>better than this. End.</b>
+2639958 2641250 <b>Though you didn't fail.</b>
+2642416 2643500 <b>We heard your message.</b>
+2644291 2645333 <b>We've come to find the Matrix.</b>
+2645416 2646083 <b>Your transformation,</b>
+2646500 2648500 <b>Cogs. What happened to you?</b>
+2649000 2649875 <b>Who are you?</b>
+2650708 2652500 <b>We're Cogless miners. From Iacon.</b>
+2653250 2655000 <b>Miners? Why?</b>
+2655958 2657875 <b>Well, we've had to drill for energon ever</b>
+2657958 2659000 <b>since it stopped flowing.</b>
+2659625 2659791 <b>Impossible.</b>
+2660000 2662791 <b>That's why we came. To fix things.</b>
+2663333 2665166 <b>If we find the Matrix of Leadership and</b>
+2665250 2666583 <b>get it to Sentinel Prime, he can--</b>
+2666666 2669500 <b>Sentinel is no Prime.</b>
+2671541 2672000 <b>What?</b>
+2672541 2673666 <b>He's broken. Fantastic.</b>
+2673958 2674500 <b>What are you talking</b>
+2674583 2675875 <b>about? Why would you say that?</b>
+2675958 2677875 <b>Sentinel Prime is our protector. He's</b>
+2677958 2678958 <b>been saving us from the</b>
+2679041 2679833 <b>Quintessons ever since--</b>
+2679916 2681500 <b>You have not been saved.</b>
+2681875 2683416 <b>You've been living a lie.</b>
+2684000 2686416 <b>I saw the truth with my own eyes.</b>
+2687083 2687333 <b>Come.</b>
+2688000 2692625 <b>I will show you.</b>
+2696000 2698875 <b>For thousands of cycles, the war with the</b>
+2698958 2701625 <b>Quintessons had been a brutal conflict.</b>
+2707000 2709916 <b>Until Sentinel, the principal aide to the</b>
+2710000 2711166 <b>Primes, intercepted</b>
+2711250 2712500 <b>an enemy transmission.</b>
+2713000 2715958 <b>There was going to be a secret gathering</b>
+2716041 2717791 <b>of Quintesson commanders.</b>
+2718583 2720625 <b>Their elimination could end the war.</b>
+2721208 2724291 <b>It was a mission so important, we Primes</b>
+2724375 2726250 <b>took it on ourselves.</b>
+2727333 2729250 <b>We agreed to meet Sentinel for his</b>
+2729333 2731291 <b>sensitive intel in secret.</b>
+2731916 2733416 <b>Here, in this cave.</b>
+2734375 2736000 <b>But we were not alone.</b>
+2738250 2739166 <b>Quintessons!</b>
+2739458 2739833 <b>We're here!</b>
+2740041 2740625 <b>We're trapped!</b>
+2741083 2741541 <b>Quintessons!</b>
+2742000 2742416 <b>We're fine!</b>
+2747000 2747083 <b>For</b>
+2747166 2748000 <b>Spider-Con!</b>
+2755000 2757375 <b>We were outnumbered but stood as one.</b>
+2760000 2761541 <b>Our victory was near.</b>
+2765000 2766875 <b>Until we were betrayed.</b>
+2790000 2792666 <b>Sentinel!</b>
+2794000 2794458 <b>Why?</b>
+2794833 2796833 <b>We're all the power of Cybertron.</b>
+2796916 2797000 <b>Sentinel! Why? We're all the power of Cybertron.</b>
+2798000 2803375 <b>But Sentinel never understood the true</b>
+2803458 2805708 <b>power of what he desired.</b>
+2807041 2810500 <b>The Matrix of Leadership can only be</b>
+2810583 2812458 <b>wielded by one that</b>
+2812541 2815583 <b>Primus himself deems worthy.</b>
+2817125 2821000 <b>And Sentinel most certainly was not.</b>
+2822000 2822375 <b>No!</b>
+2826000 2829625 <b>Wait, hold on, you're saying that the</b>
+2829708 2832416 <b>Matrix of Leadership just vanished?</b>
+2833166 2833458 <b>No.</b>
+2834125 2836000 <b>No, no, no, no, that is impossible!</b>
+2836333 2837125 <b>I don't believe it!</b>
+2837208 2838791 <b>Why would Sentinel do that?</b>
+2839000 2840083 <b>To make a bargain.</b>
+2840708 2841291 <b>A bargain?</b>
+2842083 2842625 <b>With who?</b>
+2845000 2848208 <b>With the new rulers of Cybertron.</b>
+2853750 2854833 <b>Quintessons.</b>
+2855583 2856458 <b>There are so many.</b>
+2863416 2879583 <b>He's here.</b>
+2881333 2883000 <b>Sentinel Prime is here.</b>
+2917000 2919000 <b>They always are.</b>
+2947000 2955416 <b>[MUSIC PLAYING]</b>
+2960500 2961583 <b>I loathe those crates.</b>
+2962166 2964208 <b>Those are filled with contaminated metal.</b>
+2964500 2965708 <b>I don't understand.</b>
+2966208 2967083 <b>What do the Quiddisoth</b>
+2967166 2968708 <b>want with toxic waste?</b>
+2973000 2974333 <b>Our energy.</b>
+2977000 2981125 <b>[MUSIC PLAYING]</b>
+2982000 2982458 <b>Swader!</b>
+2982791 2983083 <b>No.</b>
+2985833 2998875 <b>I know what I promised you, but our</b>
+2998958 3000916 <b>minds, they're running out.</b>
+3001666 3003375 <b>There's barely enough energy out for us.</b>
+3005000 3008125 <b>I swear I will catch you the rest.</b>
+3014000 3015875 <b>Triple time, every mining shift.</b>
+3016291 3017125 <b>No miner gets a break</b>
+3017208 3018500 <b>until I get my Energon.</b>
+3018916 3020125 <b>All of it. Let's go.</b>
+3036791 3039708 <b>Now you have seen the truth.</b>
+3043958 3049250 <b>Every day, every single day</b>
+3049333 3053958 <b>of my life has been a lie.</b>
+3055166 3056291 <b>Oh my god, I knew it.</b>
+3056916 3058250 <b>Deep down, I always</b>
+3058333 3059375 <b>felt something was off.</b>
+3059833 3061958 <b>He deceived everyone.</b>
+3062041 3064750 <b>Sentinel bought himself power and then</b>
+3064833 3067583 <b>put us to work, paying off his debt.</b>
+3067666 3068416 <b>I can't believe it.</b>
+3069208 3070958 <b>Well, obviously, I can believe it. I just</b>
+3071041 3072000 <b>saw it, but I still--</b>
+3072750 3074625 <b>I can't believe it.</b>
+3074708 3078708 <b>Sentinel lied to my face.</b>
+3079041 3080208 <b>It was all a sham. How</b>
+3080291 3082083 <b>could we have been so gullible?</b>
+3082666 3084791 <b>Oh, this, this, is</b>
+3084875 3085958 <b>going to change everything.</b>
+3086041 3093708 <b>You just had to do it, didn't you?</b>
+3093791 3095458 <b>Me? What did I do?</b>
+3095541 3097750 <b>You just had to go to the surface, had to</b>
+3097833 3099291 <b>enter the Iacon 5000.</b>
+3099583 3101625 <b>You just had to break protocol.</b>
+3102250 3103583 <b>Who cares about protocol?</b>
+3103833 3107041 <b>I do. I care. Because nothing bad happens</b>
+3107125 3109208 <b>when you stay on protocol.</b>
+3109291 3110750 <b>Sentinel Prime has been forcing us to</b>
+3110833 3112541 <b>work in the mines until our gears strip.</b>
+3113000 3114500 <b>And all the while, he's been giving the</b>
+3114583 3116500 <b>energon away to our greatest enemies.</b>
+3116583 3118166 <b>And what do you think he's going to do to</b>
+3118250 3119708 <b>us when he finds out that we know?</b>
+3119791 3121333 <b>I'm not thinking about what he's going to</b>
+3121416 3122625 <b>do. I'm thinking about</b>
+3122708 3123708 <b>what we're going to do.</b>
+3123791 3125000 <b>Well, that's the whole thing. You're</b>
+3125083 3126541 <b>never thinking about anything else.</b>
+3126625 3128166 <b>Just yourself. Fantastic.</b>
+3128458 3130458 <b>Another Orion Pax Master Plan.</b>
+3130541 3131875 <b>I can't wait to hear this.</b>
+3132125 3133291 <b>Don't you want to stop him?</b>
+3133375 3134625 <b>No, I want to kill him!</b>
+3136458 3138375 <b>I want to put Sentinel in chains and</b>
+3138458 3138958 <b>march him through the mines</b>
+3139041 3141333 <b>so everyone can see him for</b>
+3141416 3142916 <b>the false prime that he is.</b>
+3143250 3144958 <b>I want him to suffer and</b>
+3145041 3146916 <b>then to die in darkness.</b>
+3148500 3149791 <b>But we all know that it doesn't matter</b>
+3149875 3150875 <b>what I want, right Pax?</b>
+3151541 3152791 <b>The fact is, we're</b>
+3152875 3154583 <b>just cogless bots, right?</b>
+3156625 3158333 <b>He had limited options.</b>
+3158791 3161583 <b>And now, now we have none.</b>
+3163000 3164916 <b>No son or daughter of</b>
+3165000 3167958 <b>Cybertron is born without a cog.</b>
+3168041 3170375 <b>Oh, yeah. I've been with myself since I</b>
+3170458 3172041 <b>came online, and this</b>
+3172125 3173958 <b>slot's always been empty.</b>
+3174291 3176125 <b>So what are you saying? Are you saying--</b>
+3176208 3178250 <b>No, no way. Nobody could be</b>
+3178333 3179625 <b>that evil. Not even Sentinel.</b>
+3180000 3181791 <b>He removed your cogs</b>
+3181875 3183791 <b>before you came online.</b>
+3184666 3188250 <b>We were born with transformation cogs,</b>
+3188333 3190666 <b>but he took them from us.</b>
+3191333 3193291 <b>What defines a Transformer</b>
+3193375 3196750 <b>is not the cog in his chest,</b>
+3197000 3200916 <b>but the spark that resides in their core.</b>
+3202125 3203708 <b>A spark that gives you the</b>
+3203791 3206708 <b>will to make your world better.</b>
+3208333 3212916 <b>My fellow Primes had that spark, and I</b>
+3213000 3215958 <b>see their strength in you.</b>
+3217541 3219666 <b>Take their cogs and</b>
+3219750 3223250 <b>access your full potential.</b>
+3225000 3225500 <b>Prima.</b>
+3227791 3228250 <b>Onyx.</b>
+3229666 3230083 <b>Alchemist.</b>
+3231666 3232125 <b>Microns.</b>
+3233958 3235333 <b>Warriors of noble spirit.</b>
+3236041 3236708 <b>Loyalty.</b>
+3237541 3237875 <b>Strength.</b>
+3239000 3242750 <b>Their uniqueness enhanced by these.</b>
+3254000 3276041 <b>They were one. You are one. All are one.</b>
+3285375 3293666 <b>We have you. You gave us the</b>
+3293750 3296458 <b>ability to change your world.</b>
+3297250 3298875 <b>How you choose to use</b>
+3298958 3303333 <b>that power is up to you.</b>
+3304708 3308333 <b>They found us.</b>
+3308958 3310958 <b>Oh, yes. Turn the fight back.</b>
+3311041 3312791 <b>No. You must return to</b>
+3312875 3314500 <b>Iacon City and alert everyone.</b>
+3318250 3320750 <b>Embedded in this are the records I assume</b>
+3320833 3324000 <b>you. Use it to reveal the truth.</b>
+3325250 3325666 <b>We will.</b>
+3325750 3327791 <b>This tunnel leads to the mountains.</b>
+3328791 3331208 <b>Cybertron's future is in your hands.</b>
+3332083 3333333 <b>We're out of time. We gotta move.</b>
+3334625 3336541 <b>Wait, wait. We can't just leave you here.</b>
+3337000 3340458 <b>Your fight will come, my friend. Primus</b>
+3340541 3342250 <b>has a purpose for us all.</b>
+3343041 3345333 <b>But this fight... This</b>
+3345416 3347541 <b>fight is mine. Now go.</b>
+3360000 3361750 <b>Stand down, old tire.</b>
+3363625 3364791 <b>Old, you say?</b>
+3393000 3396083 <b>Not too old for you.</b>
+3402000 3403458 <b>We need to hurry.</b>
+3403541 3405416 <b>I still think we have better odds</b>
+3405500 3407125 <b>fighting than outrunning them.</b>
+3407208 3408416 <b>Wait. We have cogs.</b>
+3408708 3410041 <b>They can transform now.</b>
+3410333 3411791 <b>That's right. Everyone ready?</b>
+3412041 3413000 <b>I was born ready.</b>
+3413416 3414583 <b>On three. One.</b>
+3422000 3422708 <b>Fuck!</b>
+3430125 3431333 <b>How do we use these things?</b>
+3431625 3433208 <b>I don't know. Just try.</b>
+3435166 3437541 <b>It's working. It's working!</b>
+3438875 3439833 <b>My head! My head!</b>
+3440250 3441500 <b>Help! Help!</b>
+3445458 3449708 <b>This is not! Faster!</b>
+3452000 3454625 <b>Come on!</b>
+3456000 3456916 <b>Transform!</b>
+3459083 3461000 <b>I've got two wheels! I need wheels!</b>
+3498000 3500958 <b>Oh, wow. We're alive.</b>
+3501041 3512416 <b>Never mind me. That was incredible. See me slide? Oh, please, I am doing this. Yes!</b>
+3516000 3517750 <b>Hey, whoa, buddy. Are you okay?</b>
+3518833 3520250 <b>I'm great. Are you kidding me? We can</b>
+3520333 3523083 <b>transform. We transform.</b>
+3523875 3526083 <b>Oh, wait. I know. We're wasting time. We</b>
+3526166 3527166 <b>have to get back to Iacon.</b>
+3527416 3529375 <b>Looks like the fastest way back to Iacon.</b>
+3529458 3530083 <b>Here, I got to do that.</b>
+3530166 3531291 <b>Whoa, hey, what are you doing?</b>
+3531375 3532208 <b>Don't worry about it.</b>
+3532291 3533125 <b>Yeah, but be careful.</b>
+3533500 3534583 <b>Our proof is inside and</b>
+3534666 3535916 <b>you're spilling it everywhere.</b>
+3537625 3538000 <b>I...</b>
+3540000 3542166 <b>...got... ...it.</b>
+3545125 3545333 <b>Okay.</b>
+3550291 3550708 <b>Follow me.</b>
+3558000 3561791 <b>Alpha, triumph! You are still alive.</b>
+3562125 3562750 <b>Would you look at that.</b>
+3564333 3565916 <b>You look horrible.</b>
+3567125 3567416 <b>Traitor.</b>
+3568291 3569958 <b>You are a disgrace.</b>
+3571541 3572583 <b>Primus will surely...</b>
+3572666 3574083 <b>Uh-huh. Yes, shut up.</b>
+3574708 3576041 <b>I seized an opportunity to</b>
+3576125 3577625 <b>take control of my future.</b>
+3578500 3579916 <b>Anything to get out of working for you</b>
+3580000 3581458 <b>and that boring council of elders.</b>
+3582458 3584416 <b>Seriously, I would watch you, Prime,</b>
+3584500 3586125 <b>spend half the day losing a war,</b>
+3586500 3588000 <b>and the other half sitting around waxing</b>
+3588083 3590541 <b>poetic about loyalty and honor.</b>
+3591500 3592291 <b>Now look at you.</b>
+3592541 3593625 <b>Hear my words.</b>
+3594541 3595958 <b>You will fall.</b>
+3596041 3598833 <b>And a new Prime will rise.</b>
+3598916 3599416 <b>Here you go again.</b>
+3600416 3601333 <b>I don't want to listen</b>
+3601416 3602416 <b>to any more speeches.</b>
+3603166 3605291 <b>There were others in the cave with you.</b>
+3605958 3606458 <b>Who are they?</b>
+3607000 3609625 <b>They are to be your undoing.</b>
+3610208 3612250 <b>You've lost Sentinel.</b>
+3613000 3614333 <b>Nothing can do that.</b>
+3617125 3623666 <b>Oh, didn't I just say no speeches?</b>
+3623750 3624375 <b>You heard me, right?</b>
+3625333 3626291 <b>This is what I'm talking about.</b>
+3626666 3627625 <b>Unbelievable.</b>
+3627708 3628625 <b>All of them are like that.</b>
+3629250 3629958 <b>So disrespectful.</b>
+3632458 3633958 <b>Okay, hunt down the others.</b>
+3634208 3634958 <b>With pleasure.</b>
+3638250 3644291 <b>Hey, buddy.</b>
+3654000 3655125 <b>Oh, hey.</b>
+3657000 3658625 <b>You've been a little quiet.</b>
+3658708 3659333 <b>You all right?</b>
+3660666 3662208 <b>All I can think about is</b>
+3662291 3664041 <b>Sentinel's smirking face.</b>
+3664750 3666583 <b>He must pay for what he's done.</b>
+3667166 3668333 <b>Someone has to do something.</b>
+3668625 3668958 <b>We are.</b>
+3669583 3671416 <b>With Alpha's proof inside that device, we</b>
+3671500 3672791 <b>will show everyone the truth.</b>
+3672875 3675291 <b>You honestly believe it'll be that easy?</b>
+3675958 3677333 <b>Iacon doesn't want to hear the truth.</b>
+3677875 3679416 <b>They worship Sentinel.</b>
+3680166 3680833 <b>There's got to be a</b>
+3680916 3680958 <b>better way to bring him down.</b>
+3681041 3683791 <b>We just have to trust that everyone will</b>
+3683875 3684875 <b>believe what we show.</b>
+3684958 3686375 <b>I trusted Sentinel.</b>
+3687500 3688250 <b>With everything.</b>
+3689583 3692083 <b>I will never trust a</b>
+3692166 3694750 <b>so-called leader ever again.</b>
+3697750 3698958 <b>There's only one body I know I--</b>
+3699041 3700500 <b>Oh, boy.</b>
+3701375 3710625 <b>All right.</b>
+3711250 3712000 <b>Wake them up.</b>
+3735208 3739625 <b>Now, are you spies, or</b>
+3739708 3742375 <b>just incompetent lackeys?</b>
+3742875 3744041 <b>We're not spies.</b>
+3744375 3745375 <b>But he is incompetent.</b>
+3746041 3747583 <b>Scanning electrical emojis.</b>
+3748250 3749750 <b>He speaks the truth.</b>
+3750000 3751291 <b>That just means he believes</b>
+3751375 3754000 <b>himself like any spy would.</b>
+3754291 3754833 <b>No, no, no, no.</b>
+3754916 3754958 <b>Sit down.</b>
+3755041 3755166 <b>Sit down.</b>
+3755250 3755458 <b>Sit down, me.</b>
+3758000 3760791 <b>He wouldn't stop talking.</b>
+3760875 3761750 <b>Even when he was unconscious?</b>
+3762666 3764291 <b>Especially when he was unconscious.</b>
+3764750 3764958 <b>Enough.</b>
+3766291 3767750 <b>Two options for you.</b>
+3768333 3771125 <b>One, we slowly dismantle each of you, one</b>
+3771208 3773083 <b>bolt and screw at a time,</b>
+3773166 3775791 <b>and really make sure you feel it.</b>
+3775875 3778583 <b>Or two, in exchange for a quick death,</b>
+3778666 3780791 <b>you give us intel on the Energon trains,</b>
+3781458 3783791 <b>access to the mines, or anything else</b>
+3783875 3785958 <b>that could hurt your boss Sentinel Prime.</b>
+3786041 3788291 <b>Who exactly are you guys?</b>
+3791041 3793916 <b>The Cybertronian High Guard.</b>
+3794000 3796000 <b>I told you it wasn't tight enough.</b>
+3796083 3798208 <b>Prestigious defenders of Iacon.</b>
+3798416 3798958 <b>Prestigious?</b>
+3799166 3799583 <b>He's right.</b>
+3799916 3801625 <b>I read all about you in the archives.</b>
+3801958 3803416 <b>You are the most legendary</b>
+3803500 3805250 <b>warriors in all of Cybertron.</b>
+3805333 3806208 <b>Look, look, look.</b>
+3806291 3807583 <b>That starscream, and your</b>
+3807666 3809250 <b>shockwave, and soundwave.</b>
+3810000 3810666 <b>Guys, raise your hand</b>
+3810750 3811666 <b>if wave is in your name.</b>
+3811750 3812458 <b>There's a lot of waves.</b>
+3812875 3813000 <b>Silence.</b>
+3814000 3816333 <b>The yellow annoying one is correct.</b>
+3816750 3816958 <b>Woo!</b>
+3817416 3818875 <b>We were once the High Guard.</b>
+3819375 3820458 <b>We witnessed Sentinel's</b>
+3820541 3822541 <b>betrayal, saw the Prime's fall.</b>
+3823166 3824125 <b>Since that day, we've been</b>
+3824208 3825291 <b>fighting from the shadows,</b>
+3825708 3826791 <b>doing whatever we can</b>
+3826875 3828416 <b>to sabotage Sentinel.</b>
+3828500 3829041 <b>That's great.</b>
+3829458 3830125 <b>Whoa, whoa, whoa.</b>
+3830208 3831000 <b>Okay, okay.</b>
+3831583 3832083 <b>We're good.</b>
+3832666 3833333 <b>Everyone relax.</b>
+3834000 3835666 <b>I'm just saying we're allies.</b>
+3836375 3838333 <b>We were on our way back to Iacon,</b>
+3838500 3840583 <b>and now with your help, we can unify</b>
+3840666 3841958 <b>Cybertron against Sentinel Prime.</b>
+3842041 3844291 <b>The idea of a unified</b>
+3844375 3846250 <b>Cybertron is a myth.</b>
+3846958 3848416 <b>All that counts is the</b>
+3848500 3851250 <b>strength of one bot over another.</b>
+3853666 3855916 <b>Okay, so these guys are the moon tents?</b>
+3856500 3858125 <b>Yeah, just so I know.</b>
+3858666 3860708 <b>Hey, what are you doing?</b>
+3864458 3865666 <b>I tell you what I'm not doing.</b>
+3866666 3868708 <b>I'm not cowering in some busted ship</b>
+3868791 3869958 <b>playing king of the throne.</b>
+3870041 3871500 <b>I'm not pretending like</b>
+3871583 3872458 <b>I'm making a difference</b>
+3872541 3873708 <b>by throwing one punch and</b>
+3873791 3874791 <b>then running away to hide.</b>
+3875416 3876250 <b>I found out that</b>
+3876333 3877500 <b>Sentinel is rotten today,</b>
+3877583 3879583 <b>and I'm gonna make him pay for it.</b>
+3879916 3880541 <b>Two days!</b>
+3880791 3881666 <b>You think you can</b>
+3881750 3884250 <b>insult me and just walk away?</b>
+3885000 3888916 <b>No one leaves here unless I say so.</b>
+3889000 3889916 <b>Is that right?</b>
+3891416 3892708 <b>Well, how can you say so?</b>
+3893500 3895000 <b>With my head in your teeth.</b>
+3905916 3906083 <b>Dink!</b>
+3907250 3911291 <b>Get me!</b>
+3911666 3912000 <b>Going!</b>
+3912583 3913250 <b>Come on!</b>
+3913541 3914416 <b>Yeah, boy!</b>
+3916000 3921666 <b>You want to see the</b>
+3921750 3924458 <b>strength of one bot over another?</b>
+3925583 3926791 <b>Is that all you've done?</b>
+3927291 3927833 <b>Just cut the cut!</b>
+3929000 3930583 <b>Come on!</b>
+3947000 3950041 <b>I make him!</b>
+3950125 3952541 <b>Stop! D, he's not the enemy!</b>
+3955583 3956333 <b>Bear witness!</b>
+3957250 3960000 <b>This is the last time I show mercy.</b>
+3960625 3962416 <b>Decide, right now!</b>
+3962958 3964666 <b>You can stay here in hiding,</b>
+3965208 3967250 <b>bowing before your pathetic leader,</b>
+3967500 3970500 <b>or follow me as we march on Iacon</b>
+3970583 3971958 <b>and I take down</b>
+3972041 3974000 <b>Sentinel once and for all!</b>
+3976000 3977541 <b>D, 16!</b>
+3978375 3979250 <b>D, 16!</b>
+3980000 3980958 <b>D, 16!</b>
+3982000 3982541 <b>D, 16!</b>
+4008125 4008958 <b>B, come on!</b>
+4009041 4009208 <b>Aah!</b>
+4035000 4037125 <b>Engage all hostile. I've got the bridge.</b>
+4039000 4041000 <b>Aah!</b>
+4069000 4069791 <b>I don't need it! Get down!</b>
+4072250 4084625 <b>What the hell are you doing?</b>
+4084708 4093291 <b>I feel like someone</b>
+4093375 4095166 <b>dropped a cliff on me.</b>
+4095250 4096958 <b>Or where are the others?</b>
+4097041 4099583 <b>Sentinel's troops took as many prisoners</b>
+4099666 4100708 <b>as they could carry.</b>
+4101458 4103125 <b>They got D, 16 and B.</b>
+4103375 4104458 <b>Oh, no.</b>
+4105125 4107250 <b>And half of those high guard nut jobs.</b>
+4110000 4112166 <b>Our proof. It's gone.</b>
+4113750 4115375 <b>So, what do we do now?</b>
+4116000 4116666 <b>D was right.</b>
+4117625 4118208 <b>About what?</b>
+4118708 4121416 <b>Everything. Look at it, look around.</b>
+4122083 4123208 <b>This is a disaster.</b>
+4124416 4125458 <b>It's all my fault. I</b>
+4125541 4126875 <b>should have stayed on protocol.</b>
+4133000 4135083 <b>Listen to me. I really</b>
+4135166 4136500 <b>want you to hear this.</b>
+4137333 4137791 <b>Are you listening?</b>
+4141041 4141750 <b>I'm better than you.</b>
+4143291 4144875 <b>Yeah, okay. I'm hearing you.</b>
+4145625 4146708 <b>I'm better than you in</b>
+4146791 4148833 <b>every way, except you have hope.</b>
+4150083 4150958 <b>You always have.</b>
+4151041 4153000 <b>If you went back into the mine to rescue</b>
+4153083 4156166 <b>Jaz, you snuck up to the surface to find</b>
+4156250 4157541 <b>the Matrix of Leadership.</b>
+4157916 4159375 <b>Yeah. And how'd that work out?</b>
+4159666 4162333 <b>My point is that your instincts tell you</b>
+4162416 4164625 <b>to break protocol for a reason.</b>
+4165625 4169041 <b>This blind optimism that you have is why</b>
+4169125 4172708 <b>you make such bold and courageous choices</b>
+4172791 4175541 <b>that are also extremely stupid.</b>
+4176625 4177958 <b>First time giving a pep talk?</b>
+4178041 4181000 <b>You're inspiring. You can envision a</b>
+4181083 4183375 <b>better future that no one else can see.</b>
+4184500 4186916 <b>And if we ever want to see B and D-16</b>
+4187000 4189416 <b>again, that is the Orion</b>
+4189500 4191500 <b>packs that we need right now.</b>
+4193083 4195583 <b>Listen to me. We can do this.</b>
+4198000 4200000 <b>Those Energon trains will be heading back</b>
+4200083 4204166 <b>to Iacon. If we intercepted one...</b>
+4204250 4205375 <b>Hell yes. I can re-route</b>
+4205458 4206625 <b>it. What else do we need?</b>
+4207541 4210458 <b>Well, my bold instincts tell me we have</b>
+4210541 4212000 <b>to recruit some nutjobs.</b>
+4214916 4216250 <b>I was afraid you'd say that.</b>
+4217166 4219833 <b>A shockwave sound wave view in the back.</b>
+4220166 4221916 <b>In order to save our captured</b>
+4222000 4223750 <b>friends, we have to act now.</b>
+4223833 4226125 <b>How about I blast you back to Iacon?</b>
+4227000 4229208 <b>She punched me in my eye!</b>
+4229291 4230750 <b>Everyone, shut up! All</b>
+4230833 4232000 <b>of you. Listen to him.</b>
+4233000 4235666 <b>Most likely our friends are being held</b>
+4235750 4237583 <b>captive at the top of Sentinel's tower.</b>
+4238083 4239333 <b>A surprise attack would give</b>
+4239416 4240916 <b>us a chance to rescue them.</b>
+4241500 4243458 <b>Impossible. We do not have enough</b>
+4243541 4245500 <b>soldiers all the way inside.</b>
+4246083 4247125 <b>A leader will get us in,</b>
+4247416 4248791 <b>and I will get more troops.</b>
+4249291 4250666 <b>Why should we follow you?</b>
+4252041 4253458 <b>We will follow you!</b>
+4253750 4256500 <b>Attention, High Guard. Prepare for battle.</b>
+4256916 4258500 <b>What is our first move?</b>
+4258958 4259791 <b>We roll out.</b>
+4261875 4262041 <b>What?</b>
+4263166 4263375 <b>Louder.</b>
+4264750 4266233 <b>Transform and roll out!</b>
+4276000 4277541 <b>I don't understand.</b>
+4278375 4279625 <b>Why are we still alive?</b>
+4279916 4282750 <b>Look at this rowdy bunch! The High Guard!</b>
+4283541 4284166 <b>You know, you guys</b>
+4284250 4285125 <b>have been tough to find.</b>
+4285666 4287666 <b>Every trip to the surface, I've been</b>
+4287750 4287958 <b>searching for you...</b>
+4288041 4289958 <b>Tracking the bots in the</b>
+4290041 4291458 <b>cave led me right to them.</b>
+4291833 4294583 <b>Oh, you captured Starscream!</b>
+4294833 4295958 <b>It was too easy.</b>
+4296041 4297708 <b>I know you ripped you apart, piece by</b>
+4297791 4299750 <b>piece, so that your death is painful, and</b>
+4299833 4300708 <b>you'll regret the day you went...</b>
+4300791 4302583 <b>You sound ridiculous. It's weird.</b>
+4303083 4305750 <b>Oh, D-16. What a tragic story you'll be.</b>
+4306291 4307375 <b>A top the leaderboard in your</b>
+4307458 4309291 <b>sector, and secretly a traitor.</b>
+4309541 4311750 <b>I'm not a traitor. You're the traitor.</b>
+4312125 4314250 <b>Uh-uh. You, all of you, are traitors.</b>
+4314708 4316000 <b>You've been working with the Quintessons</b>
+4316083 4316958 <b>to sabotage my expeditions.</b>
+4317041 4319541 <b>You're the reason why I haven't found the</b>
+4319625 4320541 <b>Matrix of Leadership yet.</b>
+4320916 4322000 <b>None of that is true.</b>
+4322083 4323666 <b>Oh, trust me. It'll be very true when I'm</b>
+4323750 4325750 <b>executing you in front of all of Iacon.</b>
+4326541 4328416 <b>Because down here, the</b>
+4328500 4330666 <b>truth is what I make it.</b>
+4338000 4341458 <b>Well, well. What's this about?</b>
+4342416 4344000 <b>I'm not kneeling in front of you.</b>
+4345208 4345958 <b>Feeling confident, are we?</b>
+4346041 4349166 <b>You don't scare me. You</b>
+4349250 4350208 <b>don't want to know why.</b>
+4350833 4351041 <b>Please?</b>
+4352791 4354541 <b>Because I don't have anything left to</b>
+4354625 4357583 <b>lose. You took it all.</b>
+4359208 4360166 <b>I sure did.</b>
+4362000 4365875 <b>Oh, Megatronus Prime!</b>
+4367333 4369166 <b>Of course you were a fan. Megatronus was</b>
+4369250 4371666 <b>the coolest Prime. The biggest. The</b>
+4371750 4372000 <b>baddest. The toughest.</b>
+4373000 4376291 <b>That's why, after I killed</b>
+4376375 4379625 <b>him, I took his cog for myself.</b>
+4380625 4382500 <b>He was greater than you'll ever be!</b>
+4382750 4383958 <b>I don't know. I'm pretty great.</b>
+4384875 4386333 <b>But I can understand why you'd want to</b>
+4386416 4387416 <b>wear his face over mine.</b>
+4388250 4391083 <b>Here. Let's make sure</b>
+4391166 4392000 <b>it doesn't come off.</b>
+4411541 4411875 <b>[Music]</b>
+4412208 4416791 <b>Okay. For my Iacon to this.</b>
+4417000 4424708 <b>[Music]</b>
+4430000 4432708 <b>You can't be serious. We just worked 22</b>
+4432791 4434958 <b>shifts without a break. These miners need</b>
+4435041 4436250 <b>rest and time to repair.</b>
+4436583 4438625 <b>Sentinel Prime wants more energon. So get</b>
+4438708 4440000 <b>back in the mines before</b>
+4440083 4441250 <b>I make you get back in.</b>
+4447000 4448333 <b>Wait, what's that? Did</b>
+4448416 4449166 <b>you see what that was?</b>
+4449583 4450625 <b>It can't be anything.</b>
+4450708 4451000 <b>Is that?</b>
+4452083 4453625 <b>It can be.</b>
+4454458 4454833 <b>Orion?</b>
+4456000 4457875 <b>Jazz. Is it really you?</b>
+4458375 4460666 <b>Yeah, I know. I look a little different.</b>
+4461500 4464250 <b>Little? There's nothing little about you.</b>
+4464333 4465750 <b>How is this possible?</b>
+4466333 4467208 <b>Sentinel told us you died</b>
+4467291 4468416 <b>from your race injuries.</b>
+4469875 4471333 <b>Sentinel is a liar.</b>
+4473708 4475625 <b>Look, I know how this will sound coming</b>
+4475708 4476500 <b>from me. I was never</b>
+4476583 4478625 <b>the most focused miner.</b>
+4479458 4480333 <b>But as you can see,</b>
+4480416 4481833 <b>everything is different now.</b>
+4485541 4486458 <b>[Music]</b>
+4489958 4491625 <b>I went to the surface</b>
+4491708 4493625 <b>and I learned the truth.</b>
+4495291 4499750 <b>My friends, we were all born with</b>
+4499833 4501166 <b>transformation cogs.</b>
+4502291 4505041 <b>And then Sentinel, he stole them from us.</b>
+4505500 4508083 <b>He took away our ability to make our own</b>
+4508166 4510791 <b>decisions. He stole our freedom.</b>
+4513375 4513750 <b>[Music]</b>
+4513833 4516791 <b>But now, I'm offering</b>
+4516875 4519416 <b>you your first real choice.</b>
+4520000 4523291 <b>You can work a twenty-third shift and</b>
+4523375 4524500 <b>mine yourself to death.</b>
+4526500 4527875 <b>Or fight back against</b>
+4527958 4530958 <b>Sentinel with me. Right now.</b>
+4531875 4532958 <b>How are we supposed to do that?</b>
+4533041 4535000 <b>We can't fight. We don't have cogs.</b>
+4537791 4540041 <b>What defines a Transformer is not the cog</b>
+4540125 4542166 <b>in its chest, but the spark</b>
+4542250 4543666 <b>that resides in their core.</b>
+4544375 4545916 <b>A spark that gives you the</b>
+4546000 4547708 <b>will to make your world better.</b>
+4548000 4550541 <b>And that spark, Sentinel</b>
+4550625 4552333 <b>can never take from us.</b>
+4552708 4553416 <b>There's not enough of</b>
+4553500 4554541 <b>us. We need an army.</b>
+4555125 4557750 <b>And we have one. Alita is bringing</b>
+4557833 4560291 <b>troops. We are not alone in this.</b>
+4560958 4563041 <b>If we want to be in control of our own</b>
+4563125 4565166 <b>destiny, we will have to fight for it.</b>
+4565833 4567750 <b>Now is the time for us to</b>
+4567833 4570208 <b>stand up. For ourselves.</b>
+4573000 4574583 <b>Stand up for this injustice.</b>
+4577000 4579041 <b>I promise you, this</b>
+4579125 4581333 <b>fight will be worth it.</b>
+4581916 4584583 <b>Follow me. Nothing can stop</b>
+4584666 4586250 <b>us when we stand together.</b>
+4587458 4589166 <b>Together as one.</b>
+4590375 4591833 <b>Orion Pax! Orion Pax! Orion Pax!</b>
+4591916 4594458 <b>Orion Pax! Orion Pax! Orion Pax!</b>
+4595000 4596541 <b>Alita, it's time.</b>
+4597041 4598875 <b>You got it. Buckle up,</b>
+4598958 4600375 <b>Blinky. We're going in.</b>
+4601000 4604916 <b>[Music]</b>
+4614100 4615100 <b>Not a good idea.</b>
+4617500 4619000 <b>Dee, stay down.</b>
+4631333 4633291 <b>Well, that's a shame. You</b>
+4633375 4634666 <b>really were a great miner.</b>
+4639666 4641666 <b>We've got a breach. Protect Sentinel.</b>
+4651000 4652083 <b>They spotted us.</b>
+4652375 4653625 <b>It's about to get bumpy.</b>
+4654708 4656541 <b>High Guard! Eject!</b>
+4661000 4668791 <b>[Music]</b>
+4673833 4675416 <b>There's too many. We have to abort!</b>
+4681000 4682125 <b>We're not going to make it.</b>
+4683000 4685875 <b>[Music]</b>
+4686000 4688983 <b>Let them have it miners! Let's break some protocol! </b>
+4689333 4690791 <b>Thanks for the mop up Pax!</b>
+4701000 4702625 <b>That's intense.</b>
+4702916 4706958 <b>You can't win, miner. I see everything.</b>
+4709000 4711416 <b>That's right. You do. Except the tower</b>
+4711500 4713000 <b>we're about to crash into.</b>
+4732000 4732750 <b>Hey!</b>
+4739000 4740750 <b>What has he done to you? This is nothing.</b>
+4741416 4742083 <b>Compared to what I'm</b>
+4742166 4743125 <b>going to do to Sentinel.</b>
+4744250 4746083 <b>Soundwave, I'm entering the prisoners.</b>
+4751000 4752250 <b>I know how to stop you.</b>
+4752541 4753708 <b>Arachnid is the answer.</b>
+4753791 4754916 <b>I'm doing this my way.</b>
+4755166 4755375 <b>D!</b>
+4761000 4761458 <b>Yes!</b>
+4763000 4765708 <b>Whoa! I got a battle mask!</b>
+4768000 4771083 <b>Battle mask! It appeared with this guy.</b>
+4771500 4772750 <b>Try to... Knife</b>
+4772833 4774583 <b>hands? I have knife hands!</b>
+4778666 4781416 <b>Ha ha ha!</b>
+4782166 4783750 <b>BadAssetron!!!</b>
+4788600 4789700 <b>Where's Sentinel?</b>
+4793000 4794958 <b>You pathetic little twits.</b>
+4795041 4797375 <b>Did you really think that you could knock</b>
+4797458 4799000 <b>down everything I've built?</b>
+4799791 4801208 <b>It's over, Sentinel. You</b>
+4801291 4802416 <b>can't escape the truth.</b>
+4802750 4803166 <b>What truth?</b>
+4803833 4804666 <b>That I plucked the cogs</b>
+4804750 4805833 <b>from your newborn chests?</b>
+4806500 4807875 <b>Forced you to mine so that I could pay</b>
+4807958 4809708 <b>off the Quintessons and live like a king?</b>
+4810125 4810958 <b>None of that matters.</b>
+4811458 4813000 <b>Because the truth is...</b>
+4813708 4816791 <b>...is what I make it!</b>
+4819000 4820400 <b>Incoming!!!</b>
+4826458 4827625 <b>He's too strong.</b>
+4827875 4830208 <b>I have a plan. We need Arachnid.</b>
+4830291 4830750 <b>Arachnid?</b>
+4830833 4831708 <b>You need her memory.</b>
+4831958 4832500 <b>Where is she?</b>
+4833166 4833833 <b>Found her!</b>
+4836125 4836791 <b>Alita!</b>
+4837833 4839958 <b>Do not break her. Bring her to the</b>
+4840041 4841500 <b>broadcast station. We'll meet you there.</b>
+4841958 4844000 <b>Easier said than done.</b>
+4863000 4863850 <b>Argh! I said don't break her!</b>
+4864000 4866916 <b>Relax! I'm being very gentle!</b>
+4871000 4874333 <b>Orion! Orion, look! I have knife hands!</b>
+4874416 4875166 <b>I can see that.</b>
+4875875 4877083 <b>I'm gonna cut these guys. Watch!</b>
+4877541 4877958 <b>Come here!</b>
+4878041 4879375 <b>You can jab them later. We gotta go.</b>
+4891800 4892200 <b>Argh!</b>
+4903875 4905958 <b>Uh, excuse me. You can't be in here.</b>
+4906041 4906583 <b>Hey!</b>
+4908000 4908208 <b>Hey!</b>
+4913700 4914200 <b>Bee?</b>
+4914500 4916291 <b>These are not the bad guys.</b>
+4916375 4917500 <b>Why did you cut the door?</b>
+4918166 4919166 <b>No, I didn't... I</b>
+4919250 4919958 <b>didn't... That wasn't...</b>
+4920208 4921833 <b>It was already like that. Right?</b>
+4922375 4923541 <b>Yes, that's right. It was...</b>
+4923625 4924458 <b>Yeah, it was already like...</b>
+4924541 4925291 <b>Yeah, it was already like...</b>
+4930000 4931500 <b>Attention, Iacon city.</b>
+4931958 4932958 <b>Stand by for a live</b>
+4933041 4935000 <b>transmission from Sentinel Prime.</b>
+4941300 4942500 <b>What's wrong, D-16?</b>
+4943916 4944666 <b>Rise up!</b>
+4945541 4945791 <b>Mmm...</b>
+4946916 4947125 <b>Ah...</b>
+4948500 4950458 <b>That's why after I killed him. That's why</b>
+4950541 4951500 <b>after I killed him...</b>
+4951958 4953583 <b>I took his cog for myself.</b>
+4954791 4955875 <b>Cog for myself.</b>
+4957166 4959125 <b>What truth that I plucked the cogs from</b>
+4959208 4960000 <b>your newborn chests,</b>
+4960583 4962083 <b>forced you to mine so that I could pay</b>
+4962166 4963958 <b>off the quittissons and live like a king?</b>
+4964333 4964958 <b>What truth that I plucked the cogs from your newborn chests,</b>
+4965041 4966208 <b>forced you to mine so that I could pay off the quittissons and live like a king? That I plucked the cogs</b>
+4966291 4967291 <b>from your newborn chests,</b>
+4967833 4969291 <b>forced you to mine so that I could pay</b>
+4969375 4971125 <b>off the quittissons and live like a king?</b>
+4971708 4973416 <b>If I'm working my miners as hard as I</b>
+4973500 4975375 <b>can, I swear I will catch you the rest.</b>
+4975916 4978250 <b>If I'm working my miners as hard as I</b>
+4978333 4980375 <b>can, I swear I will catch you the rest.</b>
+4980458 4983125 <b>If I'm working my miners as hard as I</b>
+4983208 4985125 <b>can, I swear I will catch you the rest.</b>
+4987916 4988333 <b>[screaming] [screaming]</b>
+4988416 4991791 <b>[screaming] We trusted You! [screaming] Traitor! </b>
+4991875 4994000 <b>Pax! we did it.</b>
+4995833 4997416 <b>[music]</b>
+4997500 5001791 <b>[screaming]</b>
+5005800 5006500 <b>D!</b>
+5007291 5008125 <b>[music]</b>
+5008208 5011666 <b>[more grunting]</b>
+5011750 5012833 <b>[music]</b>
+5018000 5034166 <b>(dramatic music)</b>
+5034500 5038083 <b>D-16, we can lead Cybertron together.</b>
+5038875 5039750 <b>Don't do this.</b>
+5046458 5047333 <b>What are you doing?</b>
+5047625 5048708 <b>It's over, D.</b>
+5049291 5051666 <b>Everyone in Iacon knows the truth.</b>
+5051750 5052666 <b>So do I!</b>
+5053041 5054916 <b>He took everything from us.</b>
+5055166 5056250 <b>I have to do this.</b>
+5056333 5057041 <b>No, you don't.</b>
+5058208 5059750 <b>Rebuilding Iacon cannot</b>
+5059833 5061291 <b>begin with an execution.</b>
+5061708 5062833 <b>He deserves to die.</b>
+5063291 5064250 <b>Can't you see that?</b>
+5064333 5065333 <b>We're better than this.</b>
+5065791 5067800 <b>Don't be like Sentinel.</b>
+5069250 5072333 <b>Pax, you need to move out of my way.</b>
+5073291 5075791 <b>Before I move you myself, D, listen.</b>
+5077666 5084916 <b>(dramatic music)</b>
+5097125 5100750 <b>No, no, no, no, no, no.</b>
+5100833 5101125 <b>Why?</b>
+5102666 5103791 <b>Why did you do that?</b>
+5103875 5104083 <b>Why?</b>
+5107625 5113833 <b>(dramatic music)</b>
+5114666 5116458 <b>D, no.</b>
+5123208 5124416 <b>I'm done saving you.</b>
+5125333 5127583 <b>(dramatic music)</b>
+5141625 5148000 <b>(dramatic music)</b>
+5148083 5153958 <b>(screaming)</b>
+5154041 5158916 <b>(dramatic music)</b>
+5197666 5224083 <b>(dramatic music)</b>
+5224583 5226541 <b>The age of crimes has ended.</b>
+5227375 5229166 <b>No more false prophets.</b>
+5229916 5231458 <b>Follow me and you will</b>
+5231541 5233666 <b>never again be deceived.</b>
+5234875 5236833 <b>Rise up!</b>
+5243208 5245625 <b>Orion Pax, your noble</b>
+5245708 5247583 <b>sacrifice for the greater good</b>
+5248125 5249625 <b>has proven you worthy</b>
+5249708 5251666 <b>in the eyes of Primus.</b>
+5252958 5254666 <b>He entrusts in you</b>
+5254750 5257958 <b>the future of Cybertron</b>
+5258875 5263208 <b>and the matrix of leadership.</b>
+5264916 5268041 <b>I will lead us all into the future.</b>
+5269625 5272833 <b>(dramatic music)</b>
+5282916 5285166 <b>(dramatic music)</b>
+5285916 5290999 <b>I am Megatron!</b>
+5291625 5293208 <b>Arise!</b>
+5294708 5296208 <b>Optimus Prime.</b>
+5300250 5301791 <b>Run it down!</b>
+5302416 5303416 <b>All of it!</b>
+5309125 5310708 <b>All hail Megatron!</b>
+5313916 5315291 <b>He's gonna kill everyone.</b>
+5315375 5316500 <b>We have to stop him, come on.</b>
+5318208 5319250 <b>No, it's over.</b>
+5319708 5320375 <b>It's over?</b>
+5320916 5321958 <b>When every last one</b>
+5322041 5325541 <b>of his followers are dead!</b>
+5326333 5328666 <b>(dramatic music)</b>
+5342958 5351375 <b>(dramatic music)</b>
+5357166 5358625 <b>Impossible.</b>
+5361250 5363583 <b>Primus gave you the matrix.</b>
+5364875 5367000 <b>We could have built the future together.</b>
+5367500 5369916 <b>I'll build it myself after I</b>
+5370000 5372500 <b>tear down everyone in my way!</b>
+5372958 5383500 <b>(yelling)</b>
+5383583 5387208 <b>(dramatic music)</b>
+5387291 5393375 <b>(yelling)</b>
+5409000 5413708 <b>(dramatic music)</b>
+5413791 5418750 <b>(yelling)</b>
+5418833 5421500 <b>(yelling)</b>
+5421583 5442875 <b>(yelling) (dramatic music)</b>
+5442958 5445083 <b>(yelling)</b>
+5462958 5470333 <b>(dramatic music)</b>
+5477416 5478250 <b>We were given the</b>
+5478333 5480125 <b>power to change our world</b>
+5480666 5482541 <b>and you chose to destroy it.</b>
+5483208 5485000 <b>Just like Sentinel, you</b>
+5485083 5486541 <b>have betrayed Cybertron</b>
+5486708 5487708 <b>and its citizens.</b>
+5490250 5492291 <b>And you betrayed me.</b>
+5492958 5498833 <b>(dramatic music)</b>
+5504041 5508166 <b>Go, take the High guard and leave.</b>
+5509791 5512958 <b>You are banished from Iacon.</b>
+5518500 5520041 <b>It didn't have to end this way.</b>
+5522958 5525708 <b>This isn't over, Prime.</b>
+5534000 5535958 <b>High guard, follow me!</b>
+5538708 5538833 <b>(dramatic music)</b>
+5538916 5542208 <b>(dramatic music)</b>
+5549958 5552000 <b>A line between friend and enemy</b>
+5552500 5554625 <b>is not as clear as I once believed.</b>
+5555583 5558708 <b>Once it's crossed, there's no going back</b>
+5559541 5560125 <b>because some</b>
+5560208 5562500 <b>transformations are permanent.</b>
+5563458 5565375 <b>Hey, Megatronus Prime, nice.</b>
+5565916 5567333 <b>Oh yeah, well, he's my hero.</b>
+5567791 5569041 <b>The greatest Prime to ever live.</b>
+5571250 5571958 <b>I'm D-16.</b>
+5572458 5575916 <b>Orion Pax, you ever mine Energon before?</b>
+5576416 5577041 <b>No, you?</b>
+5577750 5579500 <b>No, I hear it's dangerous.</b>
+5580666 5582625 <b>I'll tell you what, you watch my back,</b>
+5583041 5583958 <b>I promise to watch yours.</b>
+5584833 5587916 <b>All right, thanks, Pax.</b>
+5588958 5591166 <b>(dramatic music)</b>
+5597625 5600208 <b>(dramatic music)</b>
+5601666 5603166 <b>A new beginning for Cybertron.</b>
+5604041 5605083 <b>And a new leader.</b>
+5606041 5607000 <b>Yes, about that.</b>
+5607791 5609916 <b>I could use some help from the bot</b>
+5610083 5612791 <b>who is better than me in every way.</b>
+5613416 5613791 <b>Who, me?</b>
+5614000 5614666 <b>Oh no, no.</b>
+5614958 5615875 <b>I have a pretty sweet gig</b>
+5615958 5617166 <b>working in waste management.</b>
+5617250 5619500 <b>Well, Captain, I do owe you a promotion.</b>
+5620416 5623000 <b>How's Major Alita sound?</b>
+5623500 5625166 <b>How about Commander?</b>
+5626375 5626875 <b>Even better.</b>
+5627541 5628875 <b>And I'm sorry, Bee, but I</b>
+5628958 5630000 <b>cannot let you go back</b>
+5630083 5631000 <b>to sub level 50.</b>
+5631583 5633541 <b>I may be a Prime now, but</b>
+5633625 5635208 <b>I'm gonna need you by my side.</b>
+5635291 5635833 <b>Are you serious?</b>
+5636416 5638166 <b>This is the greatest day of my life.</b>
+5638666 5640208 <b>I get to work for the government.</b>
+5641875 5644541 <b>Okay, so that's new.</b>
+5644625 5645458 <b>I'm sorry, what is happening?</b>
+5646958 5649000 <b>(dramatic music)</b>
+5657500 5667208 <b>(dramatic music)</b>
+5676625 5679833 <b>And now we stand here together as one.</b>
+5682875 5684125 <b>Proving we all have</b>
+5684208 5685541 <b>the power to transform,</b>
+5686750 5689166 <b>to become who we were destined to be,</b>
+5689666 5691291 <b>to right wrongs, to</b>
+5691375 5692958 <b>make our world better.</b>
+5693625 5696500 <b>Because here, freedom and autonomy</b>
+5696958 5699166 <b>are the rights of all sentient beings.</b>
+5700791 5704833 <b>Here, all are truly Autobots.</b>
+5706708 5707708 <b>This message is a</b>
+5707791 5709375 <b>warning to all quintessons.</b>
+5710375 5712500 <b>If you dare return to Cybertron,</b>
+5713041 5714791 <b>the Autobots will be waiting.</b>
+5715833 5717750 <b>I will be waiting.</b>
+5718708 5722041 <b>I am Optimus Prime.</b>
+5722375 5729541 <b>(dramatic music)</b>
+5737708 5740083 <b>Hey guys, great news, the Energon's back.</b>
+5740500 5742375 <b>And I have a cog and I can transform.</b>
+5742708 5743625 <b>It's a long story,</b>
+5743708 5744500 <b>I'll fill you in later.</b>
+5744666 5746000 <b>Oh, and here's the best part.</b>
+5746375 5747541 <b>My hands are straight up knives.</b>
+5748375 5748791 <b>Watch this.</b>
+5749291 5749708 <b>Knife hands.</b>
+5752375 5752541 <b>No!</b>
+5755791 5758083 <b>(dramatic music)</b>
+5761291 5764125 <b>Sentinel, the Betrayer is dead.</b>
+5765000 5765958 <b>But his death has</b>
+5766041 5768291 <b>given life to a new enemy,</b>
+5768833 5772625 <b>a stronger enemy, a personal enemy.</b>
+5773916 5777833 <b>We will not be blinded by his deception.</b>
+5778458 5781333 <b>We are the ones who are.</b>
+5782041 5785666 <b>Decepticons rise up!</b>
+5787375 5787916 <b>(dramatic music)</b>

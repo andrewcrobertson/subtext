@@ -1,4 +1,5 @@
 import { FileManager } from '$services/fileManager/FileManager';
+import { GitHubApi } from '$services/github/GitHubApi';
 import { Handler } from '$services/handlers/Handler';
 import { Logger } from '$services/logger/Logger';
 import { MovieReader } from '$services/movieReader/MovieReader';
@@ -16,6 +17,9 @@ import { config } from './config';
 const pkgMeta = getPkgMeta(rootDir);
 const logPrefix = <string>last(split(pkgMeta.name, '/'));
 
+const gitHubPublicToken = config.gitHub.token;
+const gitHubApiUrlBase = config.gitHub.apiUrlBase;
+const gitHubUiUrlBase = config.gitHub.uiUrlBase;
 const omdbToken = config.omdb.token;
 const omdbApiUrlBase = config.omdb.apiUrlBase;
 const openSubtitlesToken = config.openSubtitles.token;
@@ -25,6 +29,7 @@ const subdlApiUrlBase = config.subdl.apiUrlBase;
 const subdlZipUrlBase = config.subdl.zipUrlBase;
 
 export const makeLogger = (verbose: boolean) => new Logger(logPrefix, verbose);
+export const gitHubApi = new GitHubApi(gitHubApiUrlBase, gitHubUiUrlBase, gitHubPublicToken);
 export const omdbApi = new OmdbApi(omdbApiUrlBase, omdbToken);
 export const openSubtitlesApi = new OpenSubtitlesApi(openSubtitlesApiUrlBase, openSubtitlesToken);
 export const subdlApi = new SubdlApi(subdlApiUrlBase, subdlZipUrlBase, subdlToken);
@@ -37,5 +42,5 @@ export const movieReader = new MovieReader(omdbMovieReader, openSubtitlesMovieRe
 export const getHandler = (dataDir: string, verbose: boolean) => {
   const logger = makeLogger(verbose);
   const fileManager = new FileManager(dataDir);
-  return new Handler(movieReader, fileManager, logger);
+  return new Handler(gitHubApi, movieReader, fileManager, logger);
 };

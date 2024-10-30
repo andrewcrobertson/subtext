@@ -1,0 +1,1806 @@
+93958 94250 <b>What's wrong?</b>
+95458 96541 <b>There's someone on the roof.</b>
+98750 99916 <b>Jules, maybe you're used to sleepwalking.</b>
+100791 101083 <b>Listen.</b>
+108208 109875 <b>I don't hear anything. Come on, baby.</b>
+110041 111291 <b>It's three o'clock in the morning.</b>
+111541 112166 <b>I know.</b>
+112958 113666 <b>I don't know if she's</b>
+113750 114750 <b>heard something on the roof.</b>
+115166 115875 <b>There are footsteps.</b>
+116916 120000 <b>Naturally. Channel Bose too, right?</b>
+120166 120291 <b>Mark, stop.</b>
+120375 122541 <b>But I heard him.</b>
+122791 124041 <b>Can you take care of this, please? I've</b>
+124125 125291 <b>got to be here for 20 hours.</b>
+126666 128875 <b>Come on, Jules. Let's get back into bed.</b>
+131625 132958 <b>I'm going to show you after dinner, okay?</b>
+133666 135416 <b>Too many bed dreams and not enough sleep.</b>
+136875 138708 <b>But mom, I didn't have a bed dream.</b>
+139000 140291 <b>I really heard someone on the roof.</b>
+140833 142458 <b>Shh. Keep your voice down, okay? Don't</b>
+142541 143125 <b>wake up your brother.</b>
+144458 145666 <b>Nobody believes me.</b>
+147000 147916 <b>Jules, it was probably</b>
+148000 148833 <b>just the house settling.</b>
+149375 151208 <b>Or an animal, you know, sometimes a</b>
+151291 152958 <b>raccoon or squirrel can get out there.</b>
+153041 154583 <b>It was Santa. I'm positive.</b>
+158916 160291 <b>You know who I really think it was?</b>
+161208 161458 <b>Who?</b>
+162708 163750 <b>One is Santa's house.</b>
+164375 164916 <b>Can you help?</b>
+165500 166125 <b>Mm-hmm.</b>
+166875 168500 <b>Sometimes Santa sends a scout a few days</b>
+168583 169416 <b>before Christmas Eve</b>
+169500 170833 <b>to make sure our house meets all the</b>
+170916 172333 <b>necessary safety requirements.</b>
+172958 173333 <b>Like what?</b>
+174125 175541 <b>Like making sure the roof is sturdy</b>
+175625 176291 <b>enough to hold all the</b>
+176375 177291 <b>reindeer, for one thing.</b>
+177375 179041 <b>And I've been crashing through the</b>
+179125 180291 <b>ceiling, running all through the house,</b>
+180375 181291 <b>pooping on everything.</b>
+182833 183291 <b>What else?</b>
+184000 185166 <b>I have to measure the chimney to make</b>
+185250 186000 <b>sure it's wide enough to</b>
+186083 187333 <b>fit Santa's big fat belly.</b>
+188458 190000 <b>Sometimes he's squirre just too much</b>
+190083 190791 <b>during the holidays.</b>
+191541 192291 <b>Just like Daddy?</b>
+193083 193875 <b>Just like Daddy.</b>
+194750 195541 <b>Can you move some milk</b>
+195625 196875 <b>and cookies out for me else?</b>
+198000 199875 <b>If you go to sleep right now, I'll go</b>
+199958 201000 <b>downstairs and leave them alone.</b>
+201791 202083 <b>Okay?</b>
+237375 253500 <b>You forgot to lock the front door again.</b>
+254875 255958 <b>Perhaps you got a little concerned</b>
+256041 257083 <b>through your family's safety.</b>
+260458 262125 <b>By the way, your daughter left a glass of</b>
+262208 262875 <b>milk and cookies for</b>
+262958 264000 <b>Santa's house in the kitchen.</b>
+266375 267125 <b>We should get that for school.</b>
+269833 270041 <b>Hello?</b>
+271500 272166 <b>Can you take care of that</b>
+272250 273000 <b>when you wake up, please?</b>
+273583 276708 <b>When I wake up, I am up, Jen.</b>
+277708 280083 <b>I win up because you keep talking to me.</b>
+284375 285208 <b>I will do their best.</b>
+287375 288375 <b>I'll do this.</b>
+299125 311333 <b>I don't care yet.</b>
+311416 342000 <b>No need to." Santa? Timmy! Timmy wake up!</b>
+342333 343000 <b>Santa's downstairs!</b>
+344041 346208 <b>Timmy, you were putting presents under</b>
+346291 347500 <b>the tree! I saw him!</b>
+348500 348750 <b>Away!</b>
+446375 450916 <b>Julian, I told you to stay out of my way!</b>
+507416 511875 <b>(water splashing)</b>
+513041 515000 <b>Maybe, maybe.</b>
+516916 519375 <b>(water splashing)</b>
+519458 526916 <b>(screaming)</b>
+536375 543916 <b>(screaming)</b>
+551208 552625 <b>Do it, do it, do it.</b>
+553541 559500 <b>Do it.</b>
+566375 580291 <b>(screaming)</b>
+580375 584041 <b>(screaming)</b>
+596375 606125 <b>(water splashing)</b>
+606208 606416 <b>(screaming)</b>
+606500 635000 <b>(screaming) (screaming)</b>
+635083 645958 <b>(water splashing)</b>
+646041 646458 <b>(water splashing)</b>
+656375 665166 <b>(water splashing)</b>
+665250 690208 <b>(singing in foreign language) (singing in foreign language)</b>
+716375 731708 <b>(singing in foreign language)</b>
+731791 738958 <b>(wind blowing)</b>
+741541 742958 <b>Once you are totally</b>
+743041 744166 <b>be advised not to miss</b>
+744291 745708 <b>a college-based possible assessment</b>
+745791 747791 <b>on maybe one of your heart and fingers.</b>
+750500 752041 <b>(wind blowing)</b>
+774833 782666 <b>(wind blowing)</b>
+785541 786416 <b>Do Spanish, I got a</b>
+786500 788041 <b>decapitated body down here.</b>
+788750 789750 <b>Do you think it appears to be male?</b>
+791958 793458 <b>All available units go to mode.</b>
+796000 796708 <b>Stand for it.</b>
+805041 806250 <b>Dispatch, I'm on a low down here.</b>
+806541 807791 <b>What's the easier way to back up?</b>
+810291 811791 <b>Multiple units are having to sleep.</b>
+834291 848666 <b>(wind blowing)</b>
+848750 853500 <b>(screaming)</b>
+864291 866625 <b>(screaming)</b>
+894291 908333 <b>(wind blowing)</b>
+908416 910041 <b>(screaming)</b>
+924291 937416 <b>(wind blowing)</b>
+940708 941375 <b>Get out of here,</b>
+941458 942791 <b>Jeff, the ship's on fire.</b>
+945125 947666 <b>(wind blowing)</b>
+955250 959541 <b>(wind blowing)</b>
+963375 964791 <b>Dean, I need you to get down here now.</b>
+965041 966375 <b>So three, swing.</b>
+966833 967708 <b>Let me get a situation.</b>
+970625 972666 <b>What for us?</b>
+972750 973583 <b>I can't get down here.</b>
+973958 974250 <b>Broncho.</b>
+977041 979000 <b>(wind blowing)</b>
+984291 990833 <b>(screaming)</b>
+992166 996166 <b>Are you helping?</b>
+997291 998625 <b>Are you ready to do it?</b>
+999000 1000250 <b>Please help me.</b>
+1002416 1002625 <b>(laughing)</b>
+1003458 1005833 <b>Help me, help me, you fucker.</b>
+1007875 1008708 <b>(laughing)</b>
+1008791 1011625 <b>Help me.</b>
+1014583 1020625 <b>Help me, help me.</b>
+1020708 1023250 <b>(laughing)</b>
+1023333 1028125 <b>(laughing)</b>
+1028208 1033500 <b>(screaming)</b>
+1044291 1046875 <b>(wind blowing)</b>
+1074291 1076625 <b>(screaming)</b>
+1105125 1109000 <b>Yo, yo, you guys, you look so good.</b>
+1109333 1110958 <b>I mean, way better than mine.</b>
+1111458 1113791 <b>I was gonna do the blood thing too,</b>
+1113875 1115500 <b>but I was just worried about the cleanup.</b>
+1115833 1117125 <b>But can I get a picture?</b>
+1118500 1119166 <b>I'm gonna place this.</b>
+1120416 1121958 <b>Seriously, you killed it.</b>
+1123666 1123958 <b>(screaming)</b>
+1134291 1147916 <b>(screaming)</b>
+1148000 1151125 <b>(screaming)</b>
+1151208 1158875 <b>(screaming)</b>
+1158958 1159750 <b>(screaming)</b>
+1159791 1159833 <b>(laughing)</b>
+1164291 1166166 <b>(screaming)</b>
+1166250 1168958 <b>(screaming)</b>
+1194291 1199875 <b>(laughing)</b>
+1199958 1210250 <b>(screaming)</b>
+1224875 1226375 <b>(screaming)</b>
+1250583 1252291 <b>(screaming)</b>
+1252375 1253708 <b>Please, please help me.</b>
+1255291 1255916 <b>What the fuck?</b>
+1258333 1260875 <b>(screaming)</b>
+1261375 1261958 <b>Free girl.</b>
+1263333 1265750 <b>Free girl.</b>
+1266458 1267333 <b>Free girl!</b>
+1269708 1270583 <b>(screaming)</b>
+1285291 1295750 <b>(screaming)</b>
+1295833 1298708 <b>(screaming)</b>
+1315291 1317625 <b>(screaming)</b>
+1345291 1366458 <b>(screaming)</b>
+1366541 1368666 <b>(screaming)</b>
+1368750 1369125 <b>(screaming) Good afternoon.</b>
+1370000 1370500 <b>I'm Ray.</b>
+1373291 1373333 <b>Hi.</b>
+1373958 1374541 <b>Good morning.</b>
+1375000 1375083 <b>I'm Ray.</b>
+1375166 1375958 <b>I'm here to pick up my niece.</b>
+1376208 1377166 <b>She's a patient here.</b>
+1377250 1377875 <b>What was her name?</b>
+1378500 1378708 <b>Shaw.</b>
+1379125 1379666 <b>See you in a shot.</b>
+1380250 1380833 <b>Oh, great.</b>
+1382458 1382875 <b>Nevermind.</b>
+1383791 1384000 <b>Hey.</b>
+1384708 1384958 <b>Hey.</b>
+1385666 1386208 <b>How are you?</b>
+1386291 1387000 <b>Good, how are you?</b>
+1387083 1387291 <b>Good.</b>
+1387583 1388416 <b>It's good to see you.</b>
+1388500 1388833 <b>You too.</b>
+1389791 1389833 <b>Wow.</b>
+1390208 1390625 <b>You look good.</b>
+1390875 1391333 <b>No, I got it.</b>
+1391416 1391833 <b>No, no, no.</b>
+1391916 1392375 <b>I got it.</b>
+1392500 1392916 <b>I insist.</b>
+1393166 1393500 <b>Thanks.</b>
+1393875 1394125 <b>Welcome.</b>
+1395208 1396291 <b>So do we run or?</b>
+1397041 1397833 <b>I gotta sign up first.</b>
+1398083 1398291 <b>Yeah.</b>
+1406291 1413333 <b>(screaming)</b>
+1424625 1424916 <b>So,</b>
+1426916 1427875 <b>has been a partner crime.</b>
+1428750 1431041 <b>Oh, she's not so little anymore.</b>
+1432166 1432666 <b>She's great.</b>
+1433416 1433708 <b>Man.</b>
+1434666 1435125 <b>Beautiful.</b>
+1436166 1436875 <b>Sassy's, uh,</b>
+1437166 1438375 <b>and talented like you.</b>
+1440000 1441416 <b>Back to her all she ever talks about.</b>
+1441666 1441875 <b>So,</b>
+1442708 1443291 <b>a little warning.</b>
+1443500 1444916 <b>Just get ready to have your hands full.</b>
+1446208 1446750 <b>Cause she misses.</b>
+1448291 1449000 <b>I miss her too.</b>
+1451791 1451958 <b>(eerie music)</b>
+1465125 1465250 <b>Hey,</b>
+1466458 1466875 <b>we're home.</b>
+1468500 1468833 <b>All right.</b>
+1471333 1471541 <b>Hello?</b>
+1474541 1474791 <b>Sienna!</b>
+1475958 1476208 <b>Incoming.</b>
+1476791 1478000 <b>Hey.</b>
+1480541 1481791 <b>Hey.</b>
+1484708 1485000 <b>Hey, guys.</b>
+1486583 1488916 <b>Oh my God, you've been so big.</b>
+1489000 1489791 <b>What did that happen?</b>
+1490750 1492916 <b>Never leave me for this long ever again.</b>
+1494333 1496500 <b>I promise.</b>
+1498125 1499500 <b>Oh, you got glitter all over your face.</b>
+1499791 1501083 <b>I just said you were gonna make it.</b>
+1501791 1502625 <b>Did you want to help?</b>
+1503083 1503958 <b>Gabby, Sienna's not</b>
+1504041 1504958 <b>even in here two minutes.</b>
+1505041 1505500 <b>Why don't you let her get</b>
+1505583 1507000 <b>set up first, all right?</b>
+1507708 1508083 <b>Fine.</b>
+1508791 1509541 <b>Yeah, I loved you.</b>
+1520541 1522083 <b>I'm so happy to see you.</b>
+1523041 1523916 <b>Me too.</b>
+1525291 1526333 <b>I'm on the truck.</b>
+1527000 1528166 <b>Fine, you wanna see her room?</b>
+1529041 1530166 <b>Go ahead, catch up later.</b>
+1530833 1531166 <b>Come on.</b>
+1531458 1532291 <b>All right, I'll see you guys later.</b>
+1532666 1532875 <b>Okay.</b>
+1534833 1535750 <b>Don't pull her arm out.</b>
+1541333 1543625 <b>Are you leaving?</b>
+1543750 1544000 <b>Yes.</b>
+1546333 1549500 <b>Oh my God.</b>
+1551541 1552125 <b>Oh my God.</b>
+1552375 1554666 <b>It looks like a fairy</b>
+1554750 1556000 <b>tale exploded in here.</b>
+1556583 1557208 <b>You like it?</b>
+1557875 1558291 <b>Me and Mommy were</b>
+1558375 1560708 <b>decorated, but I get down most of it.</b>
+1561208 1561875 <b>I know how much you</b>
+1561958 1563166 <b>like dragons and wizards.</b>
+1565000 1565416 <b>I love it.</b>
+1567458 1567583 <b>Really?</b>
+1568750 1569708 <b>Yes, really, this is</b>
+1569791 1570583 <b>the coolest room ever.</b>
+1570666 1571041 <b>Are you kidding?</b>
+1572000 1572916 <b>I don't know what to say.</b>
+1573000 1574333 <b>Is this beautiful?</b>
+1575000 1575750 <b>I need this for you too.</b>
+1578541 1578750 <b>Gabs.</b>
+1583833 1585958 <b>Toussina, my big</b>
+1586041 1587333 <b>sister from another mister.</b>
+1588500 1589541 <b>I've missed you more than ever,</b>
+1590000 1590458 <b>and getting into</b>
+1590541 1591750 <b>trouble hasn't been nearly</b>
+1591833 1593000 <b>as much fun without you.</b>
+1594208 1594833 <b>Looking forward to</b>
+1594916 1596416 <b>the best Christmas ever,</b>
+1596500 1599000 <b>filled with fun, smiles, and laughter.</b>
+1599791 1600416 <b>Love, Gabby.</b>
+1602208 1603708 <b>P.S., we still</b>
+1603791 1604750 <b>haven't made it to the moon.</b>
+1607958 1608666 <b>To the moon.</b>
+1610666 1612083 <b>Not our little cardboard rocket ship.</b>
+1613416 1613833 <b>She remembered.</b>
+1615750 1616291 <b>What was that thing?</b>
+1617791 1618041 <b>The camera.</b>
+1624291 1637375 <b>(eerie music)</b>
+1637583 1638166 <b>Jesus.</b>
+1640291 1641750 <b>She didn't stink, Sinaire.</b>
+1642333 1643666 <b>She's a real beauty.</b>
+1650291 1652625 <b>Oh, shit.</b>
+1656000 1658750 <b>It's a rat kid, not the devil.</b>
+1660125 1660333 <b>Yeah.</b>
+1661416 1662083 <b>Are you all right?</b>
+1663125 1664833 <b>Oh, you've been skittish all day.</b>
+1665791 1666916 <b>There's just places like this.</b>
+1667875 1668625 <b>It's like they got a</b>
+1668708 1669541 <b>soul and they're pissed</b>
+1669625 1670708 <b>that we're tearing apart.</b>
+1671000 1672250 <b>Oh, shit, please don't tell me</b>
+1672333 1672833 <b>you believe all the</b>
+1672916 1673750 <b>stories about this place.</b>
+1674541 1675000 <b>What stories?</b>
+1677125 1677625 <b>Back in the early</b>
+1677708 1681625 <b>90s, some maniac abducted</b>
+1681916 1683125 <b>and killed over a</b>
+1683208 1684458 <b>dozen kids in this town.</b>
+1685500 1686833 <b>He buried all the bodies in the basement</b>
+1686958 1687666 <b>here in this building.</b>
+1689375 1691791 <b>Now everyone swears the place is haunted.</b>
+1697875 1701708 <b>(eerie music)</b>
+1702291 1702958 <b>You fuck with me?</b>
+1706583 1708041 <b>You fuck with me?</b>
+1709916 1711166 <b>Go motherfucker with you.</b>
+1712833 1714833 <b>(laughing) Come on, I'll take the</b>
+1714916 1716083 <b>first floor in the basement,</b>
+1716500 1718625 <b>you upstairs.</b>
+1720541 1721375 <b>Skittish all day.</b>
+1724208 1726291 <b>The herald angels sing</b>
+1727250 1729666 <b>Glory to the newborn king</b>
+1730416 1733166 <b>He's son of Earth and mercy mild</b>
+1734250 1736416 <b>God has sent his back inside</b>
+1737208 1740041 <b>Joyful all ye nations rise</b>
+1740583 1743291 <b>Joyful the triumph of the sky</b>
+1744041 1746500 <b>With angelic host proclaim</b>
+1747500 1750250 <b>Christ is haunted by the pain</b>
+1750666 1752458 <b>(eerie music)</b>
+1756833 1759166 <b>(children playing)</b>
+1759750 1761750 <b>So, what do you think?</b>
+1763375 1764791 <b>More blaster man.</b>
+1766416 1767958 <b>What's the matter with blaster man?</b>
+1768708 1769375 <b>Thought you liked him?</b>
+1770166 1771208 <b>You only draw boys.</b>
+1772208 1773708 <b>Boys, boys, boys.</b>
+1774000 1774750 <b>That's not true.</b>
+1775500 1776375 <b>I draw girls all the time.</b>
+1776458 1778208 <b>There's a girl right there, look at that.</b>
+1779041 1779666 <b>That was a girl.</b>
+1780333 1782208 <b>But she's not a super hero.</b>
+1783083 1783916 <b>Last time you said you</b>
+1784000 1784833 <b>were gonna draw a girl</b>
+1785166 1786458 <b>I couldn't be the last man.</b>
+1787500 1787791 <b>Remember?</b>
+1789875 1790875 <b>You pinky swore.</b>
+1792166 1792875 <b>That's sacred.</b>
+1794833 1795750 <b>I'm sorry sweetheart.</b>
+1796833 1797916 <b>I will tell you what though.</b>
+1798500 1800166 <b>As soon as I finish you with this comic</b>
+1800375 1800916 <b>I'm gonna make you</b>
+1801000 1801791 <b>something really special.</b>
+1802000 1802333 <b>How's that?</b>
+1802833 1803041 <b>Good?</b>
+1803750 1804625 <b>Yeah, yeah.</b>
+1805166 1806250 <b>Yeah, yeah.</b>
+1809250 1809416 <b>Okay.</b>
+1811083 1811583 <b>Out of your bed.</b>
+1816166 1816458 <b>Cece.</b>
+1818250 1818750 <b>Wait a minute.</b>
+1821833 1823375 <b>I do have something for you.</b>
+1832166 1833750 <b>I woke up back in the clown cafe.</b>
+1834208 1835208 <b>Encased in glass.</b>
+1836000 1837625 <b>My lens filled with ice water.</b>
+1838333 1840375 <b>This wasn't a dream or a hallucination.</b>
+1840833 1841000 <b>Hey.</b>
+1841833 1842125 <b>Give me that.</b>
+1844375 1845791 <b>This isn't for public consumption, is he?</b>
+1847166 1848583 <b>It's my diary, okay?</b>
+1848666 1849750 <b>It's for my eyes only.</b>
+1850250 1850625 <b>Got it?</b>
+1851583 1852208 <b>Got it.</b>
+1853916 1854708 <b>What's the clown cafe?</b>
+1856583 1857166 <b>It's a bad place.</b>
+1858250 1859958 <b>At least I don't wanna think about.</b>
+1861208 1862583 <b>Happy thoughts from now on.</b>
+1862666 1862833 <b>Okay?</b>
+1877625 1884458 <b>(sniffing)</b>
+1884541 1886000 <b>(laughing)</b>
+1886458 1888833 <b>Jingle bells, jingle bells</b>
+1889500 1890958 <b>This place is fucking smell</b>
+1907916 1920916 <b>(eerie music)</b>
+1922541 1924041 <b>What the hell is that?</b>
+1928750 1929125 <b>Home.</b>
+1933208 1935583 <b>(phone ringing)</b>
+1935666 1938541 <b>What the fuck?</b>
+1943833 1944041 <b>Hello?</b>
+1946375 1948458 <b>(whistling)</b>
+1948833 1949250 <b>That's not me.</b>
+1950041 1951125 <b>That's not me, okay?</b>
+1953375 1954041 <b>Andy Jackson!</b>
+1958041 1958583 <b>(sighing)</b>
+1962958 1965583 <b>(screaming)</b>
+1967291 1967791 <b>Anybody home?</b>
+1969375 1969666 <b>Yo.</b>
+1976333 1977750 <b>What the fuck?</b>
+1980416 1980791 <b>Shh.</b>
+1982208 1983166 <b>Holy shit.</b>
+1985625 1989125 <b>(crickets chirping)</b>
+1994875 1995333 <b>It's Dennis!</b>
+2006541 2006666 <b>Dennis!</b>
+2010041 2013125 <b>(gasping)</b>
+2013208 2014958 <b>Dennis!</b>
+2018875 2020000 <b>Get your ass up here!</b>
+2020666 2020875 <b>Now!</b>
+2020958 2021375 <b>Now!</b>
+2025708 2026625 <b>Are you real?</b>
+2030541 2039000 <b>(dramatic music)</b>
+2039083 2044250 <b>(screaming)</b>
+2050958 2075666 <b>(crunching)</b>
+2075750 2078208 <b>Come on.</b>
+2080958 2089208 <b>(screaming)</b>
+2089291 2095208 <b>(crunching)</b>
+2095291 2097625 <b>(screaming)</b>
+2110958 2125083 <b>(crunching)</b>
+2125166 2126125 <b>(laughing)</b>
+2126208 2129458 <b>(screaming)</b>
+2140958 2154791 <b>(crunching)</b>
+2154875 2156125 <b>(screaming) (screaming)</b>
+2156208 2159541 <b>(panting)</b>
+2159625 2163291 <b>(crunching)</b>
+2163375 2166458 <b>(screaming)</b>
+2170958 2175458 <b>(crunching)</b>
+2178291 2179541 <b>I think we need to make some cookies.</b>
+2179833 2180458 <b>Yeah, for dessert.</b>
+2180541 2181500 <b>We need to, yeah.</b>
+2182500 2183041 <b>Wow, man.</b>
+2183458 2183791 <b>Chocolate and peanut</b>
+2183875 2184541 <b>butter, you are right.</b>
+2184625 2185208 <b>That's the combination.</b>
+2185583 2186625 <b>Oh, those coconut peanut</b>
+2186708 2187750 <b>butter ones are amazing.</b>
+2188583 2190958 <b>This is gonna be Christmas extravaganza.</b>
+2191041 2192833 <b>I'd like to go see those lights again.</b>
+2192916 2193750 <b>I wanna see the lights.</b>
+2194000 2195083 <b>I like the holiday market</b>
+2195166 2196041 <b>that they have over there.</b>
+2196875 2197625 <b>Yeah, stuff's there.</b>
+2199083 2199375 <b>It's rude.</b>
+2200333 2201375 <b>What, I like her scars.</b>
+2202083 2204291 <b>Gabby, none of this, it's fine.</b>
+2204916 2206708 <b>No, it's not, it's very inappropriate.</b>
+2207333 2208250 <b>I just think they're cool.</b>
+2209083 2210291 <b>You know what, why don't</b>
+2210375 2211166 <b>you show her your new scar.</b>
+2212541 2214333 <b>Look at this thing, bad boy.</b>
+2214583 2215500 <b>Ooh, how'd she get that?</b>
+2216083 2217250 <b>Fell off my neck during summer break.</b>
+2217750 2219083 <b>And landed on a broken bottle.</b>
+2220000 2221916 <b>Oh yeah, seven stitches too.</b>
+2222166 2223875 <b>There was so many blood, I like this</b>
+2223958 2225208 <b>piece of fat oozing.</b>
+2225291 2225791 <b>All right, all right,</b>
+2226041 2226833 <b>can we change the subject,</b>
+2227041 2228083 <b>please, I don't wanna think about blood</b>
+2228250 2229250 <b>and fat while we're eating.</b>
+2231208 2233291 <b>Okay honey, you're disgusting.</b>
+2235166 2236458 <b>Regardless, Christmas</b>
+2236541 2237541 <b>hasn't really been the same</b>
+2237625 2238166 <b>around here since</b>
+2238250 2239083 <b>someone stopped believing</b>
+2239208 2239958 <b>in Santa Claus.</b>
+2240500 2241250 <b>When did that happen?</b>
+2242000 2242791 <b>When I was like eight.</b>
+2243166 2244833 <b>Oh stop, you were older than that?</b>
+2244916 2245916 <b>No, I just went along</b>
+2246000 2246750 <b>with it so you and daddy</b>
+2246833 2247541 <b>wouldn't feel bad.</b>
+2248333 2248833 <b>I've been finding</b>
+2248916 2250000 <b>presents stuffed around the house</b>
+2250083 2250833 <b>for years now.</b>
+2251083 2252541 <b>Yeah, that's cause you're a little snoop.</b>
+2252833 2254041 <b>Yeah, finding is a loose</b>
+2254125 2255583 <b>term, more like investigating</b>
+2255666 2256958 <b>and discovering, really.</b>
+2257041 2257541 <b>Do you miss the rice?</b>
+2257958 2258875 <b>It's not my fault that</b>
+2258958 2259791 <b>they're really, really</b>
+2259875 2260708 <b>bad at hiding presents.</b>
+2261125 2261833 <b>Dude, it was under the</b>
+2261916 2263291 <b>floorboard, under carpet.</b>
+2264083 2264791 <b>Pass the rice please.</b>
+2265000 2265666 <b>Oh, she's also</b>
+2265750 2267041 <b>notorious for opening presents</b>
+2267125 2268250 <b>and then re-wrapping them.</b>
+2268333 2269250 <b>Not very well either.</b>
+2270833 2273750 <b>If you don't pass the</b>
+2273833 2274833 <b>rice, I'm not gonna leave.</b>
+2275750 2277208 <b>Please, pass the rice.</b>
+2279041 2281125 <b>Sienna, hello Sienna.</b>
+2282416 2284583 <b>You know, I'm dead because of you, okay?</b>
+2285000 2285958 <b>You led us to him, you</b>
+2286041 2286916 <b>and that little shithead</b>
+2287000 2287791 <b>brother of yours.</b>
+2289416 2289791 <b>I'm dead.</b>
+2291583 2293000 <b>And you killed me.</b>
+2293375 2294208 <b>I figure out which one.</b>
+2294333 2295416 <b>Just like you killed your mother.</b>
+2297125 2297666 <b>That was bad.</b>
+2298625 2300375 <b>But anyway, I'm in the dark here.</b>
+2304458 2305208 <b>He's kinda cute.</b>
+2307416 2307583 <b>Sienna?</b>
+2309208 2309541 <b>You all right?</b>
+2312041 2312208 <b>Yeah.</b>
+2313750 2314083 <b>Sienna.</b>
+2317000 2318625 <b>I mean, no amount of</b>
+2318708 2320125 <b>medication is gonna stop me</b>
+2320750 2322000 <b>from being here in front of you.</b>
+2323250 2324750 <b>You killed me.</b>
+2326500 2329833 <b>The least you can do is pass the rice.</b>
+2333375 2333916 <b>Pass the rice.</b>
+2334625 2335666 <b>Pass the rice.</b>
+2337333 2338291 <b>Pass the rice, pass</b>
+2338375 2339916 <b>the rice, pass the rice.</b>
+2340250 2340458 <b>Pass the rice.</b>
+2341500 2341583 <b>(screaming)</b>
+2342333 2342583 <b>Excuse me.</b>
+2347000 2350041 <b>(crowd chattering)</b>
+2350125 2351000 <b>Finish eating sweeties so we</b>
+2351083 2352416 <b>can have our forte cookies.</b>
+2356125 2359166 <b>(crowd chattering)</b>
+2371041 2373625 <b>Whoa, wow, thanks for knocking, Sienna.</b>
+2373875 2374250 <b>Sorry.</b>
+2374708 2377500 <b>Oh wait, aren't you gonna end this?</b>
+2379375 2382375 <b>Wow, hey, Shaw, this is Mia.</b>
+2382958 2383208 <b>Hi.</b>
+2384291 2385625 <b>She's a really big fan of yours.</b>
+2386000 2387208 <b>I'm not a fan, you asshole.</b>
+2387916 2389208 <b>She's obsessed with</b>
+2389291 2390333 <b>the Miles County clown,</b>
+2390416 2392083 <b>like all that true crime shit.</b>
+2392666 2393291 <b>She thinks you were</b>
+2393375 2394416 <b>so mad at her to do it.</b>
+2394500 2396625 <b>Don't listen to him, like literally ever.</b>
+2397583 2400375 <b>Hi, it is so nice to meet you.</b>
+2401333 2401541 <b>Hi.</b>
+2403708 2405208 <b>I seriously know my</b>
+2405291 2406333 <b>favorite thing about you,</b>
+2407083 2408791 <b>everything online, at least one.</b>
+2408875 2410166 <b>I've been following you for years,</b>
+2410500 2411833 <b>and dude, you're a legend.</b>
+2412250 2413666 <b>You survived Art the Clown.</b>
+2414000 2415833 <b>Si, fucking fangirl.</b>
+2416750 2417291 <b>Meet me.</b>
+2418375 2419375 <b>I have to get his autograph.</b>
+2422291 2423041 <b>Listen, I actually had</b>
+2423125 2423750 <b>a little bit of a favor</b>
+2423833 2424875 <b>that I wanted to ask you.</b>
+2425041 2425958 <b>You see my roommate and I,</b>
+2426041 2427083 <b>we have a true crime podcast,</b>
+2427291 2428250 <b>it's called Grave and Image,</b>
+2428500 2430083 <b>and our Miles County Massacre episodes,</b>
+2430166 2431541 <b>they get our biggest hits by far.</b>
+2432333 2433458 <b>So I was wondering if</b>
+2433541 2434125 <b>maybe you'd be willing</b>
+2434208 2435208 <b>to come on as a guest sometime.</b>
+2435416 2436833 <b>I seriously would be so honored.</b>
+2437250 2438291 <b>All right, I don't</b>
+2438375 2439666 <b>really do things like that.</b>
+2440708 2441583 <b>Jesus, do you really</b>
+2441666 2442916 <b>think he wants to dredge</b>
+2443000 2444750 <b>out the worst experience of his life?</b>
+2444833 2445458 <b>I mean, the kid's just</b>
+2445541 2446916 <b>trying to move on, right, Shaw?</b>
+2447125 2449041 <b>Okay, well, I get that, but I just,</b>
+2449708 2450958 <b>I think a lot of people</b>
+2451041 2452291 <b>would really like to hear</b>
+2452375 2453541 <b>from you after all this time.</b>
+2454000 2454791 <b>Oh, God.</b>
+2455416 2456166 <b>Come on.</b>
+2457250 2457291 <b>(phone ringing)</b>
+2457500 2458416 <b>I'll think about it.</b>
+2459041 2459916 <b>He'll think about it.</b>
+2460000 2460250 <b>First.</b>
+2461666 2462125 <b>Shaw, you coming to</b>
+2462208 2463375 <b>Beta Chris's best run?</b>
+2463458 2464291 <b>I won't take this.</b>
+2464500 2466666 <b>Oh, girl call me.</b>
+2467458 2468500 <b>It's great you need me up.</b>
+2468833 2469166 <b>You too.</b>
+2471125 2472875 <b>God, my man needs to get laid so bad.</b>
+2475625 2476833 <b>Hey, hey.</b>
+2478625 2479000 <b>How are you?</b>
+2480000 2482041 <b>I'm doing good, just got out of class.</b>
+2482791 2483041 <b>Good.</b>
+2484541 2485291 <b>I just got to head</b>
+2485375 2487125 <b>justice a couple hours ago.</b>
+2488375 2491500 <b>It's really good to hear your voice.</b>
+2492791 2494500 <b>You know, I miss you.</b>
+2496166 2497000 <b>I miss you too.</b>
+2497750 2499458 <b>Is everything all right?</b>
+2503208 2504500 <b>Yeah, yeah.</b>
+2505833 2510375 <b>I'm calling because I'm really excited</b>
+2510458 2510875 <b>we're gonna be</b>
+2510958 2512000 <b>spending Christmas together.</b>
+2513500 2514291 <b>It's been too long.</b>
+2515000 2515291 <b>Yeah, it has.</b>
+2515416 2516041 <b>Yeah, it has.</b>
+2516958 2518625 <b>I'm really looking forward to it.</b>
+2520916 2525041 <b>Well, I guess I'll see</b>
+2525125 2525625 <b>you in a couple days.</b>
+2527000 2527416 <b>See you soon.</b>
+2529458 2530000 <b>Love you all.</b>
+2532041 2532625 <b>Love you more.</b>
+2546333 2546875 <b>Are you okay?</b>
+2548958 2549125 <b>Yeah.</b>
+2550750 2553958 <b>It's just this new medication I'm on</b>
+2554041 2555708 <b>that makes me queasy sometimes.</b>
+2557500 2557708 <b>Oh.</b>
+2561875 2562833 <b>I need to be creative.</b>
+2564000 2564791 <b>I need my canvas.</b>
+2603375 2603541 <b>inside conversation was quite Truman.</b>
+2603916 2679583 <b>He goes around playing over the watch very quickly in one cartridge on the other. music)</b>
+2680125 2680333 <b>music)</b>
+2680916 2681083 <b>music)</b>
+2683125 2683333 <b>music)</b>
+2683583 2683791 <b>music)</b>
+2711333 2711625 <b>music) music)</b>
+2714958 2717208 <b>music) music)</b>
+2720458 2722166 <b>I got into a fight. Did you win?</b>
+2725083 2726333 <b>Yeah, I won. Should I?</b>
+2730791 2731500 <b>Alright, can we go to the knees?</b>
+2735375 2735750 <b>You're all done?</b>
+2736375 2737083 <b>You wanna see this through</b>
+2737166 2737916 <b>the mystical masterpiece?</b>
+2738291 2738500 <b>Yeah.</b>
+2740458 2740666 <b>Wow.</b>
+2743125 2743875 <b>It looks amazing.</b>
+2745583 2746791 <b>You've wasted all the work.</b>
+2752250 2754625 <b>Take a picture!</b>
+2758958 2761375 <b>This is called</b>
+2761458 2762708 <b>"Shag Me My</b>
+2762791 2763166 <b>Skin"</b>
+2765541 2766375 <b>I got my chimney.</b>
+2768083 2771166 <b>I got my</b>
+2771250 2771416 <b>ring.</b>
+2776458 2780583 <b>Oh shit!</b>
+2782750 2782875 <b>The</b>
+2782958 2784125 <b>Lord have 1 for Christmas.</b>
+2784625 2785416 <b>Then send out.</b>
+2785500 2786583 <b>That comes with some hurts.</b>
+2788416 2790875 <b>music)</b>
+2794416 2798166 <b>music and</b>
+2798250 2798833 <b>connections</b>
+2798916 2800333 <b>I like it.</b>
+2800833 2801250 <b>The result.</b>
+2804458 2808083 <b>(screaming)</b>
+2814791 2817041 <b>Shit, get a load of this fucking guy.</b>
+2818125 2819041 <b>How many years have you?</b>
+2819833 2821125 <b>That was a fucking first.</b>
+2821958 2822958 <b>When I hold on to listen,</b>
+2823833 2825250 <b>I'm wearing the after brace,</b>
+2825333 2827041 <b>which is like Elvis, he gets the full,</b>
+2827208 2829250 <b>same experience as you once, all right?</b>
+2830375 2831666 <b>Hello, hello.</b>
+2832875 2833583 <b>Aye, aye.</b>
+2834250 2835625 <b>Come on, come on over.</b>
+2836416 2836625 <b>Yeah.</b>
+2838625 2838916 <b>(laughing)</b>
+2839500 2842125 <b>Aye, yes, yes, yes, that's me.</b>
+2842250 2843583 <b>That's me, guilty as charged.</b>
+2844125 2846000 <b>Oh, it looks like you got a fan.</b>
+2846833 2847875 <b>This would be outfit, huh?</b>
+2848125 2849708 <b>Yeah, did the circus come in town?</b>
+2850416 2852916 <b>Oh, hey, buddy, watch it.</b>
+2853125 2853916 <b>It's the real deal.</b>
+2854458 2856041 <b>That's my fucking beard.</b>
+2856500 2858291 <b>If Santa doesn't have a real beard,</b>
+2858666 2861041 <b>he's not a real Santa Claus.</b>
+2861500 2863000 <b>(laughing)</b>
+2863208 2865166 <b>Hey, fella, what's in the bag?</b>
+2867541 2868458 <b>Oh, it's yours, yours, hey.</b>
+2869958 2872625 <b>This is like you're usually on the one</b>
+2872708 2873458 <b>who's bringing the</b>
+2873541 2874916 <b>best little sack of toys.</b>
+2882541 2882791 <b>Hi.</b>
+2884458 2885541 <b>(laughing)</b>
+2887916 2889708 <b>(laughing)</b>
+2890166 2891000 <b>Oh, that's good.</b>
+2892875 2893541 <b>(laughing)</b>
+2894541 2895750 <b>Okay, listen up.</b>
+2896083 2897041 <b>All right, now look, I'm</b>
+2897125 2898125 <b>starting to like this guy.</b>
+2898208 2898791 <b>Really, I'm planning.</b>
+2899041 2901583 <b>Put your little horn away, have a seat,</b>
+2902083 2903833 <b>and stand on by and retreat.</b>
+2904833 2906333 <b>(laughing)</b>
+2906750 2908208 <b>Clowning, I'm starting to like you.</b>
+2912041 2912583 <b>Here you go.</b>
+2913333 2914916 <b>I hope I gave you this marshmallow.</b>
+2915291 2916208 <b>It's perfect.</b>
+2917291 2917666 <b>Thank you.</b>
+2920375 2921250 <b>It's a decent quiet</b>
+2921333 2922541 <b>around here, finally, huh?</b>
+2923541 2924541 <b>You must be exhausted.</b>
+2926708 2929958 <b>No, I feel...</b>
+2933166 2933208 <b>What?</b>
+2936000 2936166 <b>Thorel.</b>
+2940666 2941708 <b>Look, then, they're gonna pretend</b>
+2941791 2943166 <b>that I know what you're going through.</b>
+2944541 2946625 <b>Because I don't, I can't</b>
+2946708 2948500 <b>even begin to imagine it.</b>
+2949208 2952000 <b>But I promise, it'll get better.</b>
+2954541 2955833 <b>You remind me so much of Mom.</b>
+2959166 2962333 <b>Before Dad died, she</b>
+2962416 2963541 <b>was the sweetest person.</b>
+2964583 2966208 <b>I talked about anything.</b>
+2967000 2968375 <b>Yeah, she was.</b>
+2970083 2971750 <b>Mouth like a truck driver, though.</b>
+2971875 2973208 <b>She hurts so much.</b>
+2975416 2977916 <b>She once called Sister Rosemary a C-U-N-T</b>
+2978000 2978791 <b>in the sixth grade.</b>
+2979583 2981208 <b>I don't know where she came from.</b>
+2981291 2983000 <b>Nobody in our family talked like that.</b>
+2985708 2986291 <b>I miss her.</b>
+2989166 2990583 <b>I miss her so much.</b>
+2993291 2993833 <b>I miss you.</b>
+2995208 2995541 <b>I know.</b>
+2998666 2999333 <b>I miss her too.</b>
+2999541 3004833 <b>(laughing)</b>
+3005333 3006083 <b>Hey, Santa, looks like</b>
+3006166 3007208 <b>you got some competition.</b>
+3007833 3008875 <b>It's clowny cars.</b>
+3010791 3013041 <b>No, hey, you're a natural, you look good.</b>
+3013250 3014458 <b>But I'll get him dirty,</b>
+3014541 3015375 <b>and remember to give him back</b>
+3015458 3016083 <b>if you don't want to get</b>
+3016166 3017500 <b>on Santa's naughty list.</b>
+3018083 3019416 <b>Why don't you tell Santa</b>
+3019500 3020541 <b>what you want for Christmas,</b>
+3020625 3021041 <b>little boy?</b>
+3021416 3022083 <b>Better hygiene.</b>
+3022750 3024000 <b>All right, come on, let's have a drink.</b>
+3024500 3026125 <b>For everybody, okay, come on.</b>
+3026208 3026750 <b>You got an ID?</b>
+3027875 3029916 <b>Come on, he's obviously old enough.</b>
+3030250 3030916 <b>All right, don't you think</b>
+3031000 3031750 <b>I'm gonna lose my license</b>
+3031833 3032500 <b>for this guy?</b>
+3032583 3034208 <b>Don't bust the clown's balls.</b>
+3034291 3035458 <b>This is normal to you?</b>
+3035541 3037083 <b>Sorry about this, clowny.</b>
+3038708 3040875 <b>There, see, he's got it.</b>
+3044500 3045625 <b>Maurice Jackson?</b>
+3046958 3047916 <b>And you're killing me,</b>
+3048000 3048958 <b>can we just celebrate?</b>
+3049208 3049583 <b>Come on.</b>
+3050125 3050875 <b>Fuckin' it, it's Christmas.</b>
+3051541 3052541 <b>All right, let's have a drink.</b>
+3052791 3054875 <b>To my new friend, huh?</b>
+3055083 3056416 <b>To Maurice Jackson.</b>
+3056916 3057625 <b>These checks.</b>
+3058375 3058666 <b>Cheers.</b>
+3063750 3066000 <b>What the fuck is the matter with you?</b>
+3066291 3067375 <b>What's your problem, pal?</b>
+3067625 3068500 <b>That vice you were drinking,</b>
+3068750 3070291 <b>he spit it back in his fucking face?</b>
+3070708 3071791 <b>Hey man, that's wrong.</b>
+3072333 3074833 <b>Look, you were just rude,</b>
+3074916 3075875 <b>and he's in a bit of a room.</b>
+3075958 3077250 <b>Let's go, clowny, get up.</b>
+3077958 3078458 <b>No, I'm not,</b>
+3079958 3080750 <b>I'm not.</b>
+3085666 3086500 <b>Oh shit.</b>
+3087083 3090750 <b>What the fuck are you doing?</b>
+3091166 3091875 <b>I'm being honest.</b>
+3092291 3093000 <b>Fuck you, children.</b>
+3093333 3094833 <b>Are you fucking kidding me?</b>
+3095208 3096916 <b>Hey, come here, get me out of here.</b>
+3097000 3098125 <b>You fucking fucker.</b>
+3098416 3099208 <b>Let me out of here.</b>
+3099708 3101000 <b>I'll get you killed.</b>
+3101500 3103000 <b>Hey, I'll come and kill you.</b>
+3103083 3103541 <b>Fuck you.</b>
+3104291 3104916 <b>Goddamn it.</b>
+3105166 3106041 <b>Smoky did his best.</b>
+3106375 3107041 <b>Son of a bitch.</b>
+3107708 3108833 <b>This is my busy weekend.</b>
+3109208 3109458 <b>I know.</b>
+3110666 3111458 <b>Fuck if I hit you,</b>
+3111541 3112708 <b>you're gonna be a fuck.</b>
+3113208 3114666 <b>There's no fuck out of here.</b>
+3115958 3116166 <b>What?</b>
+3116458 3118208 <b>Hey, hey, hey, hey, hey,</b>
+3118291 3118625 <b>hey, hey, hey, hey, hey.</b>
+3118708 3119166 <b>I got it.</b>
+3119500 3120291 <b>Want me to call the cops?</b>
+3120375 3121250 <b>I know what you call cops,</b>
+3121333 3121750 <b>I want you to call a</b>
+3121833 3122541 <b>fucking track leader.</b>
+3122958 3123250 <b>Track leader?</b>
+3123625 3124041 <b>Get a fucking--</b>
+3124500 3125500 <b>I told you all along though.</b>
+3125583 3126833 <b>You were fucking dead here.</b>
+3126916 3127916 <b>You said fucking normal.</b>
+3128208 3129208 <b>Sit down, sit down.</b>
+3130000 3131000 <b>Fucking you told me.</b>
+3131458 3132458 <b>Have a fucking drink.</b>
+3137875 3140000 <b>Oh fuck.</b>
+3145875 3146250 <b>Oh fuck.</b>
+3147458 3152541 <b>(screaming)</b>
+3154625 3158375 <b>Oh god, oh god no, oh god no no no no.</b>
+3158875 3159333 <b>No, no, no, no, no, no,</b>
+3159416 3161208 <b>sir, no, no, no, no, sir.</b>
+3161291 3163083 <b>No, no, please, please, please.</b>
+3163791 3165458 <b>Let me be the first to apologize</b>
+3165916 3167291 <b>for whatever's happened here tonight.</b>
+3167791 3169125 <b>I don't know what happened.</b>
+3169500 3171666 <b>Take it, take it, take it, take it.</b>
+3171750 3173208 <b>It's yours, you're the killing villain.</b>
+3173708 3174625 <b>Here, take it all.</b>
+3174958 3175625 <b>The only thing said,</b>
+3176083 3177291 <b>nothing with the same business.</b>
+3177958 3178916 <b>It's just me and you, brother.</b>
+3179583 3180583 <b>It's just me and you,</b>
+3180875 3181625 <b>with the same business.</b>
+3182291 3184500 <b>We're making people happy.</b>
+3191250 3194833 <b>(screaming)</b>
+3194916 3198916 <b>Help me, help me, help me.</b>
+3199541 3200833 <b>Thank you, thank you.</b>
+3201500 3205041 <b>This isn't funny, it's not funny.</b>
+3205416 3206958 <b>Come on, come on, come on.</b>
+3207041 3207625 <b>I'm sorry, please.</b>
+3208000 3212916 <b>Please help me, just please help me.</b>
+3213000 3214041 <b>Help me, I'm sorry.</b>
+3214416 3215250 <b>Let me come on.</b>
+3216166 3217541 <b>Oh, oh, oh, oh.</b>
+3217625 3218208 <b>Help, oh.</b>
+3220375 3223083 <b>Oh, it looks good, Connie.</b>
+3223583 3224166 <b>You look good.</b>
+3224916 3226375 <b>Oh yeah, that's never looked better.</b>
+3226958 3228541 <b>I'm not old now then.</b>
+3228958 3230958 <b>You know, you're just here, boy, right?</b>
+3231041 3231875 <b>So I can go.</b>
+3232875 3233083 <b>Yeah.</b>
+3234000 3236416 <b>Help, help me.</b>
+3237583 3241666 <b>Help me.</b>
+3242541 3243125 <b>Oh, Connie.</b>
+3247583 3248416 <b>What the hell was that?</b>
+3251041 3254916 <b>Oh God, Connie, Connie,</b>
+3255875 3256916 <b>Connie, look at me.</b>
+3257666 3259500 <b>I mean, I'm not really saying it, Connie.</b>
+3260500 3261250 <b>Don't, don't, Connie.</b>
+3262166 3263708 <b>I have a name.</b>
+3264666 3266125 <b>I have a real, no, I have a real name.</b>
+3266791 3269375 <b>My name is Charles Johnson Connie.</b>
+3269791 3270791 <b>And I have a wife, I</b>
+3270875 3272416 <b>have a wife and two kids.</b>
+3272875 3275333 <b>I'm Connie, I'm Connie, I'm Connie.</b>
+3276125 3279250 <b>Connie, I tell you, this and I have four</b>
+3279375 3280583 <b>gorgeous grandchildren.</b>
+3281208 3283083 <b>My name's, their names are fine.</b>
+3283458 3284000 <b>Help me please.</b>
+3286083 3292625 <b>(crowd cheering)</b>
+3292708 3297083 <b>(groaning)</b>
+3306125 3311916 <b>(screaming)</b>
+3312000 3317791 <b>(screaming)</b>
+3317875 3320708 <b>Oh my God.</b>
+3323500 3324500 <b>(screaming)</b>
+3324583 3327958 <b>(screaming)</b>
+3336125 3337791 <b>Oh my God.</b>
+3338875 3340000 <b>Oh my God.</b>
+3340958 3344583 <b>(screaming)</b>
+3344666 3349958 <b>(screaming)</b>
+3350041 3354416 <b>(screaming)</b>
+3354500 3358458 <b>(groaning)</b>
+3366125 3383916 <b>(screaming)</b>
+3384000 3384708 <b>(screaming)</b>
+3384791 3387541 <b>(screaming)</b>
+3387625 3403791 <b>(screaming)</b>
+3403875 3406083 <b>(screaming)</b>
+3409833 3411333 <b>So, how is she?</b>
+3413083 3414375 <b>It's good as can be expected.</b>
+3415500 3416291 <b>I think Gabby brought some</b>
+3416375 3417541 <b>life back into her today, right?</b>
+3418208 3419708 <b>It's nice to see her smile a little bit.</b>
+3420375 3422125 <b>Oh my God, Gabby.</b>
+3422750 3423416 <b>She follows Sienna</b>
+3423500 3424916 <b>around like a brand new puppy.</b>
+3425708 3426250 <b>It's concerning.</b>
+3427625 3428458 <b>Now they're going</b>
+3428541 3429541 <b>Christmas shopping tomorrow.</b>
+3431375 3432125 <b>Just the tool?</b>
+3432708 3432833 <b>Mm-hmm.</b>
+3433500 3434041 <b>Sienna wants to pick</b>
+3434125 3434875 <b>up a gift for Jonathan.</b>
+3436458 3438166 <b>You really think that's a good idea?</b>
+3439125 3439958 <b>Don't be fine.</b>
+3442250 3445208 <b>Just, did you not see</b>
+3445291 3446083 <b>what happened today?</b>
+3447208 3447791 <b>What if that little</b>
+3447875 3449500 <b>episode was just a microcosm</b>
+3449583 3450416 <b>of what's to come?</b>
+3451166 3452416 <b>What if that shit gets worse?</b>
+3453416 3454666 <b>I'm not gonna abandon her.</b>
+3455208 3456916 <b>She's healing, it's gonna take time.</b>
+3458541 3459791 <b>She's taking her medication.</b>
+3462375 3463041 <b>All I'm saying is let's</b>
+3463125 3464250 <b>keep her calm, all right?</b>
+3466625 3467208 <b>That's all I'm saying.</b>
+3523041 3529750 <b>(crowd singing)</b>
+3529833 3532958 <b>(crowd singing)</b>
+3533041 3535458 <b>This way please, this way.</b>
+3535666 3537250 <b>All right, as we look over here, ready?</b>
+3538583 3539166 <b>Don't come past this</b>
+3539250 3540125 <b>point, you're in trouble.</b>
+3540625 3541291 <b>Thank you.</b>
+3542291 3542500 <b>Next.</b>
+3543083 3543541 <b>All right, buddy,</b>
+3543625 3544416 <b>let's go for the camera.</b>
+3545708 3546875 <b>You guys ready to meet Santa?</b>
+3548000 3548791 <b>What are you gonna ask for?</b>
+3549958 3551000 <b>Makeup? Yeah.</b>
+3551583 3552916 <b>Are you holding up for makeup?</b>
+3553958 3554666 <b>Okay, thank you.</b>
+3555041 3555333 <b>Next.</b>
+3562208 3564208 <b>Hey guys, you can call like this.</b>
+3565041 3566083 <b>Hmm, not sure.</b>
+3566791 3567666 <b>I don't think Jonathan is</b>
+3567750 3568666 <b>really into black anymore.</b>
+3569833 3570916 <b>Jonathan doesn't wear black?</b>
+3571541 3572000 <b>Mr. Deathmetal?</b>
+3572708 3573541 <b>I don't think he listens</b>
+3573625 3574541 <b>to that anymore either.</b>
+3575458 3576541 <b>Just face I guess.</b>
+3579375 3580666 <b>All right, well then,</b>
+3581333 3582666 <b>where's he right now?</b>
+3583833 3584500 <b>I don't know.</b>
+3586291 3586708 <b>All the clothes?</b>
+3588333 3589125 <b>Really narrows it down.</b>
+3589583 3590041 <b>Thanks, guys.</b>
+3591333 3592250 <b>Okay, sweetie, you ready?</b>
+3594708 3594750 <b>(laughing)</b>
+3595500 3596750 <b>Okay, thank you.</b>
+3596916 3597625 <b>Bye, Santa. Bye.</b>
+3599916 3600916 <b>At least it's very little though.</b>
+3601541 3602208 <b>Got a boy vibe.</b>
+3603500 3604125 <b>Let's take a break.</b>
+3605041 3606958 <b>Oh, sorry folks.</b>
+3608500 3609916 <b>Santa's gotta go feed his reindeer.</b>
+3611333 3612875 <b>You know, I'm not in charge here, so.</b>
+3614166 3615458 <b>Are we gonna break too or?</b>
+3616083 3616291 <b>Sure.</b>
+3619000 3619791 <b>This one's nice.</b>
+3621500 3621666 <b>Okay.</b>
+3622416 3622791 <b>Is it your favorite?</b>
+3623333 3623666 <b>Top three.</b>
+3624416 3625250 <b>All right, well done.</b>
+3625625 3626250 <b>You choose, you know</b>
+3626333 3627000 <b>you're not better than me.</b>
+3635041 3637625 <b>(upbeat music)</b>
+3695208 3698125 <b>(crowd cheering)</b>
+3698916 3699333 <b>What are you saying?</b>
+3707250 3707291 <b>Nothing.</b>
+3708666 3709000 <b>Come on, ready?</b>
+3709125 3709500 <b>Let's get going.</b>
+3709791 3710333 <b>You okay?</b>
+3710916 3711083 <b>Yeah.</b>
+3714375 3716041 <b>Look, you know my theory of</b>
+3716125 3717375 <b>the subject hasn't changed.</b>
+3717458 3718333 <b>You don't even know.</b>
+3718541 3719791 <b>Because you know I'm right.</b>
+3720500 3722250 <b>Santa's shaw is the prime suspect.</b>
+3722500 3723875 <b>Stop, that is ludicrous.</b>
+3724416 3725416 <b>We can just look at the facts.</b>
+3725500 3726166 <b>Do you wanna just do that?</b>
+3726458 3727208 <b>Facts, okay, she's</b>
+3727291 3729166 <b>linked to every single victim.</b>
+3729708 3730958 <b>She was at every crime scene,</b>
+3731416 3732208 <b>a history of mental</b>
+3732291 3733541 <b>illness in her family,</b>
+3733625 3735333 <b>or a abusive father who</b>
+3735416 3736666 <b>just so happened to be obsessed</b>
+3736875 3737500 <b>with Art the Clown.</b>
+3737875 3738416 <b>And there's nobody.</b>
+3738958 3740083 <b>How about you show me</b>
+3740166 3741375 <b>the dead clowns, Mom?</b>
+3741458 3742458 <b>Dude, there's so many</b>
+3742541 3743583 <b>holes in that story.</b>
+3743666 3744833 <b>Like how do you not see that?</b>
+3745000 3745791 <b>Jonathan Shaw hadn't</b>
+3745875 3747000 <b>testified on a sister's behalf.</b>
+3747166 3747791 <b>She'd probably be serving</b>
+3747875 3749250 <b>a life sentence right now.</b>
+3749333 3750166 <b>You shouldn't be saying that shit.</b>
+3754333 3763541 <b>(dramatic music)</b>
+3766041 3766458 <b>You look great.</b>
+3767291 3769875 <b>Your scars are healed all next week.</b>
+3770958 3771500 <b>Yeah, yours too.</b>
+3773958 3776000 <b>Yeah, everything's so cool, apparently.</b>
+3778333 3780916 <b>So why'd you wanna see me right now?</b>
+3781000 3782791 <b>(audience laughing)</b>
+3783708 3784500 <b>I missed you.</b>
+3784833 3786375 <b>I mean, can't the sisters</b>
+3786458 3787208 <b>see your little brother?</b>
+3792875 3795291 <b>Actually, I was thinking,</b>
+3796875 3797500 <b>why don't you come for</b>
+3797583 3798333 <b>Aunt Justice tonight?</b>
+3798666 3800166 <b>I mean, why wait till Christmas Eve?</b>
+3800250 3801000 <b>You gotta be done with</b>
+3801083 3802208 <b>classes by now, right?</b>
+3802375 3804000 <b>I can't, I can't tonight.</b>
+3805208 3805666 <b>Why not?</b>
+3807375 3808416 <b>There's a party on</b>
+3808500 3809916 <b>campus that was invited to.</b>
+3810708 3810916 <b>Really?</b>
+3815000 3816291 <b>That's good, not happy yet.</b>
+3816375 3818500 <b>Jonathan Shaw spotted in public.</b>
+3818583 3820166 <b>What is this, a Christmas miracle?</b>
+3821041 3824166 <b>Dick, Santa, this is called my roommate.</b>
+3824875 3825083 <b>Called--</b>
+3825541 3826416 <b>Oh, wow, hey.</b>
+3827250 3827833 <b>What's this?</b>
+3828666 3830708 <b>I've heard a lot about you.</b>
+3831416 3832458 <b>It's nice to finally meet you.</b>
+3834083 3835666 <b>Well, you've gotta be cool.</b>
+3836375 3837416 <b>Baby broke here and I</b>
+3837500 3838416 <b>treat him like he's my own.</b>
+3838916 3839583 <b>You treat him like shit?</b>
+3840458 3841916 <b>What are you jokes?</b>
+3844125 3845333 <b>Oh shit, let me get out of here.</b>
+3845416 3845791 <b>Oh my God.</b>
+3846250 3846458 <b>Oh.</b>
+3847208 3847458 <b>Siena.</b>
+3848291 3849583 <b>Hey, you're Siena Shaw.</b>
+3850250 3853041 <b>I'm seriously so good at gambling.</b>
+3853125 3853750 <b>I'm sitting here with you guys.</b>
+3854291 3855125 <b>I was literally just</b>
+3855208 3856041 <b>telling your little brother.</b>
+3856416 3857041 <b>I'm sorry, I'm</b>
+3857125 3857750 <b>probably being a little weird.</b>
+3857833 3860208 <b>I'm just super stoked to see you.</b>
+3861666 3862625 <b>Mia has been following</b>
+3862708 3864208 <b>our story, very close.</b>
+3864791 3866708 <b>I am a true crime enthusiast</b>
+3867166 3868208 <b>and I've actually been</b>
+3868291 3869458 <b>following your case in particular</b>
+3869625 3871166 <b>for years on my podcast</b>
+3871250 3872958 <b>and no rush or anything,</b>
+3873041 3873750 <b>but I do know the five</b>
+3873833 3874750 <b>year anniversary's coming up</b>
+3874833 3876500 <b>and the fan base is rapid.</b>
+3877458 3880125 <b>We would literally kill for anything.</b>
+3880541 3881958 <b>I'm thinking, get ready, it's with me.</b>
+3882291 3883208 <b>What I eat in a day, just</b>
+3883291 3884041 <b>show us how you're coping.</b>
+3884333 3884958 <b>What you do on a daily</b>
+3885041 3886083 <b>basis, anything like that.</b>
+3887458 3888083 <b>How I'm coping?</b>
+3888750 3888958 <b>Yeah.</b>
+3891666 3892458 <b>How I'm coping?</b>
+3895333 3898833 <b>Well, I'm gonna now have a second</b>
+3899000 3899041 <b>I've been in the</b>
+3899083 3899125 <b>(mumbles)</b>
+3899166 3900500 <b>for the past five years.</b>
+3901583 3903208 <b>I see images of my</b>
+3903291 3904791 <b>dead friends and relatives</b>
+3905000 3906458 <b>on a daily basis, images</b>
+3906541 3907625 <b>that wave me up screaming</b>
+3908250 3909125 <b>in the middle of the night.</b>
+3909416 3912000 <b>I have hideous scars all over my body</b>
+3912083 3913166 <b>and every time I see</b>
+3913250 3914041 <b>that, I might think of how</b>
+3914125 3916458 <b>that sick fuck ruined our</b>
+3916541 3917666 <b>lives is still out there</b>
+3917750 3918916 <b>and you wanna know how I'm coping?</b>
+3919958 3920458 <b>With everything?</b>
+3922541 3923625 <b>You guys are all the same.</b>
+3925166 3925875 <b>It reaches.</b>
+3926541 3927000 <b>Siena.</b>
+3927208 3928083 <b>Why can't you act like a</b>
+3928166 3929625 <b>human being for one person?</b>
+3929958 3930833 <b>Fucking check it!</b>
+3941875 3942708 <b>Siena, what's wrong with you?</b>
+3943083 3943833 <b>I saw him today.</b>
+3944208 3944416 <b>Who?</b>
+3948041 3949291 <b>When I met them all.</b>
+3950000 3951458 <b>It's gotta be, how can you</b>
+3951541 3952416 <b>be sure it was really him?</b>
+3952500 3954541 <b>I'm not sure of anything anymore.</b>
+3954625 3954750 <b>I don't know, it's</b>
+3954833 3956083 <b>real, it's my fucking head.</b>
+3957500 3958125 <b>What'd you see exactly?</b>
+3960750 3961750 <b>He was dressed as Santa Claus.</b>
+3964458 3964916 <b>Santa Claus.</b>
+3965041 3966541 <b>Okay, I know, I know how that sounds.</b>
+3966625 3966791 <b>Okay.</b>
+3968250 3970500 <b>It was him, I can feel it.</b>
+3973166 3974083 <b>I both know this isn't over.</b>
+3975500 3976208 <b>You don't know that,</b>
+3976291 3977500 <b>I mean, Jesus Christ,</b>
+3977583 3978708 <b>he cut his fucking head off.</b>
+3979500 3979958 <b>Come here.</b>
+3984250 3985291 <b>Hey, what is this?</b>
+3985791 3986375 <b>Jonathan, hey!</b>
+3986916 3988125 <b>You weren't shutting me out!</b>
+3988458 3989541 <b>I'm not shutting you out.</b>
+3989750 3990541 <b>You don't believe me?</b>
+3991708 3992833 <b>Why would he come back here?</b>
+3993500 3995541 <b>Even if he was alive, which he isn't.</b>
+3996000 3996416 <b>Wouldn't you want to</b>
+3996500 3997166 <b>get as far away from here</b>
+3997250 3998458 <b>as possible as far away from you?</b>
+3998541 3999208 <b>Maybe it's me they wanted.</b>
+3999291 4000000 <b>Is that what you said?</b>
+4000833 4001333 <b>Boy genius.</b>
+4001791 4002750 <b>Wait, Mr. Academic, now</b>
+4002833 4003416 <b>you think you're too good</b>
+4003500 4003916 <b>for your own...</b>
+4007083 4007375 <b>I'm sorry.</b>
+4008666 4009708 <b>At least I'm fucking trying.</b>
+4014541 4015750 <b>I'm proud of you, Miss.</b>
+4017750 4019083 <b>We need each other, okay?</b>
+4021291 4022000 <b>I need you.</b>
+4023375 4025833 <b>What we need to do is move on.</b>
+4026666 4027208 <b>Let it go.</b>
+4028625 4029041 <b>It's over.</b>
+4032041 4033166 <b>We have to destroy the little girl</b>
+4033250 4034500 <b>before it's too late, Sienna.</b>
+4035416 4036041 <b>Destroy her because</b>
+4036125 4037416 <b>she's inhuman and demon.</b>
+4040041 4040583 <b>Still have her letters.</b>
+4042375 4044083 <b>You wrote me almost every week</b>
+4044166 4045458 <b>when I first went away, remember that?</b>
+4046166 4047166 <b>I heard theories about</b>
+4047250 4048666 <b>demonology, possession.</b>
+4048916 4050500 <b>You became obsessed, but you went crazy.</b>
+4051166 4051791 <b>You're right.</b>
+4052500 4053375 <b>I'm not listening to this.</b>
+4053458 4054000 <b>Don't listen to me.</b>
+4056875 4060416 <b>Sometimes demons try to enter our world,</b>
+4060791 4062000 <b>only they can't do it alone.</b>
+4062708 4063541 <b>They have to choose a vessel.</b>
+4064166 4065625 <b>Someone recently deceased who functions</b>
+4065875 4066541 <b>as a bridge between</b>
+4066625 4068458 <b>worlds, but not just anyone.</b>
+4069708 4070291 <b>Someone sinister,</b>
+4070916 4073000 <b>depraved, the worst kind of evil.</b>
+4074083 4076666 <b>Like a serial killer.</b>
+4087458 4098041 <b>If a demon enters</b>
+4098125 4098958 <b>this world in the flesh,</b>
+4099125 4100250 <b>a counterpart must be appointed</b>
+4100333 4101875 <b>to stop it from becoming too powerful.</b>
+4102208 4102416 <b>It's you, Sienna.</b>
+4104250 4104750 <b>As long as you're</b>
+4104833 4105666 <b>alive, you're vulnerable,</b>
+4105916 4107041 <b>and they know it.</b>
+4108166 4109541 <b>That's why daddy created the sword.</b>
+4109625 4111458 <b>Whoever chose me was guiding him.</b>
+4111541 4113666 <b>He was preparing me for this.</b>
+4117416 4118125 <b>She's in Victoria Hayes</b>
+4118208 4119250 <b>as a host now, isn't it?</b>
+4121833 4123041 <b>That's why she disappeared that night.</b>
+4135291 4135958 <b>What do you want to do?</b>
+4137208 4138291 <b>Why don't we just up and leave town?</b>
+4139083 4140125 <b>Call the cops?</b>
+4141500 4142916 <b>Tell Aunt Jess and Uncle Craig?</b>
+4143250 4143750 <b>No, they'll never</b>
+4143833 4144958 <b>believe us, especially me.</b>
+4151250 4153416 <b>I have to go back to the Terrifier.</b>
+4156500 4156708 <b>Why?</b>
+4160625 4161250 <b>It's still a bear there, isn't it?</b>
+4163250 4163958 <b>And if I'm right,</b>
+4165083 4165666 <b>it might be the only</b>
+4165750 4167250 <b>thing that could stop them.</b>
+4193291 4209916 <b>(eerie music)</b>
+4211250 4213083 <b>He's not with you.</b>
+4213833 4215666 <b>(singing in foreign language)</b>
+4223250 4229833 <b>(singing in foreign language)</b>
+4230125 4231916 <b>Sure, get back on your knees.</b>
+4232375 4233458 <b>Wow, thanks, Aunt</b>
+4233541 4234166 <b>(singing in foreign language)</b>
+4253250 4257000 <b>(singing in foreign language)</b>
+4258375 4259083 <b>What's going on here?</b>
+4261000 4261958 <b>That's not Bill.</b>
+4262625 4262916 <b>What?</b>
+4264500 4265708 <b>That's not our Santa Claus.</b>
+4270041 4272625 <b>(singing in foreign language)</b>
+4274375 4275041 <b>Hey, stay out here.</b>
+4276583 4277791 <b>Get down, let's go.</b>
+4277875 4278500 <b>Let's go.</b>
+4279916 4281875 <b>(singing in foreign language)</b>
+4283250 4286000 <b>(singing in foreign language)</b>
+4287541 4288333 <b>Who's this Santa?</b>
+4289291 4290291 <b>He's scaring my kid.</b>
+4291541 4293291 <b>Yeah, he's scaring me too.</b>
+4294458 4294958 <b>What are you thinking of?</b>
+4296958 4297541 <b>He can't be here.</b>
+4300250 4302916 <b>I swear that's the goal.</b>
+4304708 4306750 <b>Come on, let's do that.</b>
+4308208 4309375 <b>Sir, what did I say?</b>
+4310166 4311208 <b>I stole mine.</b>
+4311291 4312833 <b>You must stay up for evil.</b>
+4313500 4315458 <b>Get the fuck out of here.</b>
+4316041 4316541 <b>Move him back.</b>
+4321750 4321958 <b>Corey?</b>
+4334250 4336000 <b>Corey, get back over here.</b>
+4336250 4338500 <b>Back in line here, time for real Santa.</b>
+4339500 4340250 <b>I don't know where to hide.</b>
+4340750 4340958 <b>Corey.</b>
+4400291 4407541 <b>so</b>
+4413541 4416083 <b>um</b>
+4446125 4455291 <b>[Music]</b>
+4455375 4463958 <b>[Music]</b>
+4464041 4464166 <b>[Music]</b>
+4470125 4475041 <b>[Music]</b>
+4475125 4480791 <b>[Music]</b>
+4485083 4486916 <b>What's that? Jesus!</b>
+4488500 4489250 <b>You scared me. What are you</b>
+4489333 4490666 <b>doing? Stoop around like that.</b>
+4491625 4492166 <b>Is it for me?</b>
+4493541 4494958 <b>None of your business, nosy.</b>
+4495666 4496625 <b>This isn't it?</b>
+4496708 4497791 <b>No, it's not. Don't</b>
+4497875 4498875 <b>even think about it, okay?</b>
+4499083 4500583 <b>What happened to your hands?</b>
+4501625 4501833 <b>Hands.</b>
+4504666 4506208 <b>[Music]</b>
+4507750 4510375 <b>I fell. Okay? I slipped onto my ice and</b>
+4510458 4512041 <b>took a ridiculously nasty spill in front</b>
+4512125 4513291 <b>of like 20 college students.</b>
+4513375 4513958 <b>Is that what you want to hear?</b>
+4515083 4516666 <b>I wish I saw that.</b>
+4517375 4518916 <b>I think that's funny. Come here.</b>
+4519125 4528500 <b>[Music]</b>
+4528583 4537458 <b>[Music]</b>
+4548083 4556583 <b>[Music]</b>
+4593833 4594250 <b>[Music]</b>
+4596083 4597416 <b>Mmm, this thing smells amazing.</b>
+4599166 4600958 <b>You're back late. How's your brother?</b>
+4601083 4604875 <b>He's good. Yeah. He's going to a campus</b>
+4604958 4605916 <b>Christmas party tonight.</b>
+4606833 4608250 <b>Jonathan's going to a Christmas party?</b>
+4609500 4612250 <b>Oh, nice to resocializing. Yeah.</b>
+4614000 4615583 <b>God, these are so frigging cute, I guess.</b>
+4616875 4618458 <b>Those are my favorite. Johnson?</b>
+4620333 4620833 <b>Mmm. Thanks.</b>
+4621916 4623291 <b>Oh, sorry. I forgot you</b>
+4623375 4624250 <b>don't like cereal anymore.</b>
+4624833 4625666 <b>Who does like cereal?</b>
+4626083 4627166 <b>What?</b>
+4628166 4628375 <b>S</b>
+4628458 4632375 <b>I mean, I can understand tofu or lima</b>
+4632458 4634500 <b>beans, but cereal's the best.</b>
+4634708 4637375 <b>I know. Honey, chill. Yeah, I just try to</b>
+4637458 4638291 <b>stay away from people with sugar.</b>
+4639083 4640166 <b>I'm a little hotter than me.</b>
+4640375 4642416 <b>Hops. Would you stay in the groceryers</b>
+4642500 4643166 <b>and play some board games?</b>
+4644250 4645125 <b>Mm-hmm. Let's go.</b>
+4647083 4648458 <b>Yeah. I think we can do</b>
+4648541 4649541 <b>Christmas tree trickles.</b>
+4650000 4651125 <b>Eating Christmas tree trickles.</b>
+4652083 4653291 <b>I'm going to move forward. I have a time.</b>
+4654208 4656833 <b>Pictionary, guess who? Monopoly.</b>
+4657625 4659541 <b>I like Monopoly. Thanks for everything.</b>
+4661791 4663000 <b>I never told you I don't like cereal.</b>
+4666458 4667041 <b>What?</b>
+4669791 4670791 <b>How'd you know I don't like cereal?</b>
+4676041 4676333 <b>Gabby?</b>
+4678500 4679208 <b>Did you read my journal?</b>
+4680125 4680625 <b>I'm sorry.</b>
+4682541 4683791 <b>Please don't be mad at me.</b>
+4684166 4684375 <b>Huh?</b>
+4687416 4687833 <b>Where is it?</b>
+4688083 4689166 <b>I put it back in your room.</b>
+4689416 4690375 <b>How much of it did you read?</b>
+4692458 4692833 <b>Tell me.</b>
+4694166 4694916 <b>Olivette?</b>
+4696166 4697500 <b>Jesus. Gabby, you...</b>
+4698500 4699791 <b>You promised me.</b>
+4700625 4701916 <b>I'm sorry. I want to</b>
+4702000 4703250 <b>know what happened to you.</b>
+4704458 4705166 <b>Is it true?</b>
+4706416 4707708 <b>All that stuff about the</b>
+4707791 4709708 <b>clown and Uncle Michael.</b>
+4710791 4712000 <b>You saw him today, didn't you?</b>
+4713375 4713791 <b>I told them all</b>
+4713875 4715041 <b>that's why you freaked out.</b>
+4717625 4718250 <b>Gabby, I'm sick.</b>
+4720750 4722208 <b>I see things that aren't there,</b>
+4723083 4724416 <b>and sometimes I write</b>
+4724500 4725250 <b>about it in my journal</b>
+4726083 4728041 <b>and talk about it with</b>
+4728125 4729333 <b>people who can help me.</b>
+4730916 4732708 <b>So you didn't really chop off the clown's</b>
+4732791 4733750 <b>head with a magical sword?</b>
+4735083 4744708 <b>Damn, that wasn't so cool.</b>
+4748083 4751291 <b>Guys, you have to promise me</b>
+4751375 4753875 <b>you're not going to tell anyone what you</b>
+4753958 4755125 <b>read in my journal, okay?</b>
+4755583 4756791 <b>Not your parents, not</b>
+4756875 4757666 <b>your friends at school.</b>
+4758250 4759583 <b>No one. Promise me?</b>
+4761000 4761500 <b>I promise.</b>
+4763833 4764291 <b>Mickey's over.</b>
+4774083 4775250 <b>Let's play video games</b>
+4775333 4776458 <b>so I can kick your ass.</b>
+4781083 4782583 <b>Yo, shots, Cole.</b>
+4783041 4784500 <b>You probably still passed out.</b>
+4785000 4786125 <b>Look, I just want to call</b>
+4786208 4788833 <b>and see if you're okay, man.</b>
+4790083 4790958 <b>Yeah, give me a call</b>
+4791041 4792416 <b>back whenever you get this,</b>
+4792500 4793541 <b>but if you can't reach me,</b>
+4793625 4795750 <b>I'll be at the beta bash, so...</b>
+4796208 4796416 <b>Peace.</b>
+4798583 4799291 <b>You don't think I was</b>
+4799375 4801000 <b>that innocent before, do you?</b>
+4801541 4804666 <b>Uh, yes. Yes, I do, actually.</b>
+4805208 4805916 <b>Okay, I get it's like a</b>
+4806000 4807166 <b>touchy subject, you know?</b>
+4807250 4808625 <b>But come on, it didn't happen yesterday.</b>
+4809000 4810416 <b>It happened five years ago.</b>
+4810500 4811708 <b>Yeah, I don't think that's something you</b>
+4811791 4813208 <b>ever really get over.</b>
+4813541 4814208 <b>Well, she still didn't</b>
+4814291 4815291 <b>even sound the way she did.</b>
+4816750 4817958 <b>Besides, chalking it out</b>
+4818041 4818083 <b>is good therapy, I suppose.</b>
+4818125 4819916 <b>It's basically doing her a favor.</b>
+4821291 4822958 <b>Wow. How so, what's that about?</b>
+4824416 4825125 <b>Well, what about Jonathan?</b>
+4826041 4827375 <b>You think he's still willing to do it?</b>
+4829125 4830916 <b>I don't know, Mia.</b>
+4833333 4834375 <b>Cole, I want that interview.</b>
+4835375 4836583 <b>I mean, sitting across from someone who</b>
+4836666 4838583 <b>actually encountered Mark the Clown,</b>
+4839500 4841458 <b>the most famous serial police, Jack the</b>
+4841541 4842833 <b>Ripper, it's a story.</b>
+4843625 4844916 <b>I encountered that, um...</b>
+4845333 4846041 <b>What, a good mile away? What did she say?</b>
+4846125 4848666 <b>That Kim was on his butcher.</b>
+4849458 4850541 <b>You know what I mean.</b>
+4851791 4853958 <b>I want to know what it's like to be in a</b>
+4854041 4856000 <b>prison that's that kind of evil.</b>
+4857875 4860000 <b>What goes through your brain when he's</b>
+4860083 4861541 <b>close enough to you that you feel his</b>
+4861625 4862833 <b>breath on your body?</b>
+4863958 4865250 <b>What does he smell like?</b>
+4867416 4868750 <b>When you look into his eyes, what do you</b>
+4868833 4870958 <b>see? Is there a soul or...</b>
+4873250 4873958 <b>A place!</b>
+4874125 4874416 <b>He sounds...</b>
+4876708 4877916 <b>You sound like you want to fuck him.</b>
+4878166 4879458 <b>I don't want to fuck him.</b>
+4881791 4883750 <b>I mean, I don't know what you want with</b>
+4883833 4884750 <b>him, but you said he</b>
+4884833 4885500 <b>looks up to you, right?</b>
+4886250 4888000 <b>Maybe you can give it some for me.</b>
+4888291 4888500 <b>Mia.</b>
+4889291 4894083 <b>Come on. Do it for me. Please.</b>
+4895916 4898250 <b>I'll be nice. I promise.</b>
+4899625 4901625 <b>I'll end in just 20 minutes. Tops.</b>
+4904083 4905375 <b>I think it worked for your life.</b>
+4910291 4919875 <b>Well, you were very persuasive.</b>
+4921666 4923500 <b>I'll see you later.</b>
+4925500 4930791 <b>Okay, so remind me how to play</b>
+4930875 4931625 <b>this game. It's been a while.</b>
+4932250 4933791 <b>Wait. We need more players.</b>
+4935208 4935833 <b>Dad, come on.</b>
+4937791 4939666 <b>Dad?</b>
+4962083 4962333 <b>You're not supposed to be</b>
+4962416 4963750 <b>close. Do calls for my mic.</b>
+4963833 4965208 <b>You want to turn out my tears attack?</b>
+4965958 4966458 <b>Oh, no.</b>
+4966541 4966916 <b>Let me hear you,</b>
+4967000 4968083 <b>please. Let me just get out.</b>
+4968166 4970000 <b>He was dressed as Santa Claus and he was</b>
+4970083 4971791 <b>handing out presents to kids.</b>
+4971875 4972958 <b>Every little kid that was</b>
+4973041 4974250 <b>there, I heard a commotion.</b>
+4974666 4976500 <b>And I saw some caroling in the guy out.</b>
+4976583 4977375 <b>And then bam! There was</b>
+4977458 4979375 <b>an explosion right there.</b>
+4979541 4980166 <b>Holy shit.</b>
+4980958 4981333 <b>Oh, dear.</b>
+4982041 4982625 <b>Oh, dear.</b>
+4983791 4985416 <b>It's not safe. It's not safe.</b>
+4985958 4986625 <b>Oh, dear.</b>
+4987125 4989958 <b>It's not safe.</b>
+4990583 4991041 <b>It's not safe.</b>
+4991125 4992541 <b>Santa, what are you talking about?</b>
+4993125 4993666 <b>A mouse-crowding clown.</b>
+4994500 4996166 <b>I saw him. I saw him today.</b>
+4997083 4998833 <b>Listen to me. No, I saw him today.</b>
+4999083 5000000 <b>Okay, I saw him.</b>
+5000458 5001583 <b>And I was going to say the same thing</b>
+5001666 5002208 <b>because I knew you</b>
+5002291 5003000 <b>were going to believe me.</b>
+5003083 5003333 <b>Okay.</b>
+5003666 5004916 <b>And, um, I think he's</b>
+5005000 5005708 <b>going to come for us.</b>
+5005791 5007583 <b>No, no. He's going to come for us.</b>
+5008041 5009125 <b>We have to get--as long as</b>
+5009208 5010000 <b>we live here, we're in danger.</b>
+5010208 5011333 <b>Okay, we're in danger. We're going to be</b>
+5011416 5013125 <b>our way from here as possible.</b>
+5013208 5014375 <b>It's a mouse-crowding clown, Santa.</b>
+5014458 5016875 <b>No, it was him, okay? I saw him.</b>
+5017041 5017666 <b>Listen to me.</b>
+5018083 5018791 <b>Stop it. You're</b>
+5018875 5020041 <b>scaring, dad. We stopped him.</b>
+5020125 5021958 <b>Jonathan, Jonathan, we have to go.</b>
+5022041 5022791 <b>You called Jonathan?</b>
+5022958 5024041 <b>Jonathan, no, Jonathan.</b>
+5024416 5026416 <b>We have to go. Jonathan, break down.</b>
+5038916 5043416 <b>Yeah, we'll break.</b>
+5044166 5045833 <b>Jonathan, dude, your sister</b>
+5045916 5047250 <b>is freaking out over here, man.</b>
+5047750 5049041 <b>She saw something on the news.</b>
+5049125 5051041 <b>She's adamant about getting you over here</b>
+5051125 5052250 <b>as soon as possible.</b>
+5053708 5054666 <b>She thinks you're in danger.</b>
+5058041 5060333 <b>I am. What did you see?</b>
+5061166 5062000 <b>She saw the news,</b>
+5062083 5063166 <b>man, about the explosion.</b>
+5064333 5064958 <b>Look, I think a few</b>
+5065041 5066750 <b>people killed him. Now she's--</b>
+5067208 5068083 <b>Dude, it's bad. I need to--</b>
+5068958 5070166 <b>Okay, Jonathan.</b>
+5071083 5072875 <b>It's happening. It's happening.</b>
+5072958 5073791 <b>Okay, tell it up. I'm</b>
+5073875 5075208 <b>going to get you right now.</b>
+5075291 5076833 <b>You're not safe. You're not safe.</b>
+5078083 5079375 <b>Okay, I'll come over.</b>
+5082666 5083250 <b>Did you get it?</b>
+5086916 5088375 <b>You. I got it.</b>
+5098958 5105875 <b>I gave her something to help her sleep.</b>
+5106583 5106708 <b>Good.</b>
+5109125 5109541 <b>You're right.</b>
+5116083 5117750 <b>We'll talk about it when I get back.</b>
+5119708 5120000 <b>Be careful.</b>
+5121625 5122208 <b>Call me if anything.</b>
+5127500 5128500 <b>Hey, sweetie.</b>
+5129583 5130041 <b>You okay?</b>
+5131750 5132208 <b>Where's Deanna?</b>
+5133791 5134166 <b>She's sleeping.</b>
+5138833 5139916 <b>She's going to go back to the hospital.</b>
+5141166 5141791 <b>Is that she?</b>
+5143708 5145041 <b>I don't know, baby.</b>
+5146250 5146916 <b>I don't want her to.</b>
+5148166 5149291 <b>But if she's not well, we got to do</b>
+5149375 5150125 <b>what's best for her.</b>
+5152708 5155250 <b>But if she's right, what if the Miles</b>
+5155333 5156250 <b>County clown is back?</b>
+5156458 5158000 <b>He's not. Gabs.</b>
+5158916 5159458 <b>You're safe.</b>
+5160500 5161625 <b>Deanna's just scared. Nothing's going to</b>
+5161708 5162625 <b>happen to any of us.</b>
+5164083 5165750 <b>Okay, just get some rest.</b>
+5166750 5167791 <b>Jonathan and daddy will be back soon.</b>
+5169583 5169791 <b>Okay.</b>
+5171416 5172000 <b>I love you.</b>
+5173541 5174208 <b>I do, Mom.</b>
+5177375 5179083 <b>What's that?</b>
+5283083 5286083 <b>[Crickets chirping]</b>
+5313125 5316083 <b>[Screaming]</b>
+5343125 5345083 <b>[Crickets chirping]</b>
+5373125 5385083 <b>[Crickets chirping]</b>
+5385166 5388291 <b>[Screaming]</b>
+5389083 5390416 <b>Go, Miles!</b>
+5391208 5393458 <b>[Crickets chirping]</b>
+5393541 5393666 <b>Go!</b>
+5395250 5395750 <b>Go!</b>
+5397083 5397250 <b>Go!</b>
+5398500 5398625 <b>[Crickets chirping]</b>
+5401125 5411875 <b>[Crickets chirping]</b>
+5411958 5413333 <b>[Screaming]</b>
+5521125 5533250 <b>[BLANK_AUDIO]</b>
+5535500 5536250 <b>Hey, Uncle Greg.</b>
+5536875 5537833 <b>Jonathan, I'm here.</b>
+5539208 5539375 <b>Where?</b>
+5540000 5540875 <b>I don't see you.</b>
+5541375 5542166 <b>I'm parked right where you</b>
+5542250 5543375 <b>told me I'm in front of your door.</b>
+5544833 5545833 <b>[BLANK_AUDIO]</b>
+5546541 5548375 <b>Jonathan, can you hear me?</b>
+5548458 5555041 <b>I'll be right there.</b>
+5555375 5561000 <b>[BLANK_AUDIO]</b>
+5563708 5564125 <b>I'm here.</b>
+5566041 5566250 <b>[BLANK_AUDIO]</b>
+5566333 5566708 <b>I'm here.</b>
+5567583 5573291 <b>[BLANK_AUDIO]</b>
+5575416 5575750 <b>Ta-da.</b>
+5577416 5578041 <b>You're true.</b>
+5578625 5579791 <b>I knew you would.</b>
+5580416 5582958 <b>Yeah, I just, I didn't think it was</b>
+5583041 5587125 <b>really ready, but you are.</b>
+5587666 5589208 <b>I love her.</b>
+5591291 5592000 <b>She's beautiful.</b>
+5593625 5594500 <b>Is she an angel?</b>
+5595375 5596333 <b>Not just an angel.</b>
+5597375 5598750 <b>She's an angel warrior.</b>
+5600208 5601083 <b>You see the fire sword?</b>
+5602083 5603000 <b>It has special powers.</b>
+5604166 5605041 <b>She can defeat any</b>
+5605125 5606416 <b>bad guy with that sword.</b>
+5607416 5609041 <b>And I can never hurt her.</b>
+5609291 5609625 <b>Wow.</b>
+5610875 5612083 <b>Can't you defeat Blastromant?</b>
+5612708 5613166 <b>Oh, yeah.</b>
+5613958 5614833 <b>Ten Blastromant.</b>
+5617791 5618500 <b>So cool.</b>
+5619666 5622500 <b>Well, I need to get the name of her.</b>
+5623333 5624041 <b>I can name her?</b>
+5624958 5625625 <b>Of course you can.</b>
+5626208 5627333 <b>Is your character in it?</b>
+5628625 5629375 <b>[BLANK_AUDIO]</b>
+5629541 5630416 <b>Thanks, Dad.</b>
+5631750 5632375 <b>You are very welcome, sweetheart.</b>
+5632458 5632833 <b>Okay.</b>
+5636166 5638750 <b>[BLANK_AUDIO]</b>
+5638833 5641041 <b>[BLASTROMANT SOUNDS]</b>
+5643416 5645000 <b>Dad?</b>
+5648166 5648833 <b>[BLASTROMANT SOUNDS]</b>
+5648916 5649166 <b>Daddy?</b>
+5651875 5653125 <b>[BLASTROMANT SOUNDS]</b>
+5658458 5659583 <b>What the?</b>
+5673583 5674875 <b>[BLASTROMANT SOUNDS] [BLASTROMANT SOUNDS] What's that?</b>
+5677250 5677666 <b>[BLASTROMANT SOUNDS]</b>
+5677750 5678041 <b>See someone?</b>
+5678333 5679416 <b>I need you to listen to me.</b>
+5679625 5680333 <b>Don't forget to.</b>
+5681083 5682791 <b>[BLASTROMANT SOUNDS]</b>
+5682875 5684625 <b>I am always with you.</b>
+5685458 5697166 <b>[BLASTROMANT SOUNDS]</b>
+5748000 5752125 <b>[BLASTROMANT SOUNDS]</b>
+5752208 5763416 <b>We have to think about that.</b>
+5763833 5764875 <b>Shh.</b>
+5765083 5766125 <b>Just keep your voice down.</b>
+5767000 5768000 <b>That one's the end of yours.</b>
+5768375 5769000 <b>Oh, I don't give a</b>
+5769083 5770375 <b>fucking she hears us or not.</b>
+5770458 5771875 <b>As a matter of fact, you know what I</b>
+5771958 5773500 <b>think we should do to Siena?</b>
+5773916 5775041 <b>I think we should go upstairs</b>
+5775125 5777125 <b>and smother her under sleep.</b>
+5779375 5780625 <b>Then we'd be free.</b>
+5781750 5782958 <b>Free from our bullshit.</b>
+5783916 5784166 <b>Free.</b>
+5785041 5785291 <b>Free.</b>
+5785916 5786291 <b>Yes.</b>
+5787083 5787458 <b>Free.</b>
+5788583 5788791 <b>Free.</b>
+5789333 5789541 <b>Free.</b>
+5790708 5791250 <b>Free.</b>
+5792166 5792333 <b>Free.</b>
+5792416 5792541 <b>Free.</b>
+5792583 5792625 <b>Free. Free. Free.<br />Free. Free. Free. Free.</b>
+5799416 5800916 <b>Free.</b>
+5801291 5801500 <b>Free.</b>
+5805625 5805833 <b>Free.</b>
+5806708 5806750 <b>Free.</b>
+5807000 5807166 <b>Free.</b>
+5807958 5808125 <b>Free.</b>
+5809625 5809958 <b>Free.</b>
+5816041 5817000 <b>[BLASTROMMANT SOUNDS]</b>
+5817083 5820333 <b>[BLASTROMANT SOUNDS]</b>
+5820416 5822166 <b>[BLASTROMMANT SOUNDS]</b>
+5822250 5823666 <b>[BLASTROMMANT SOUNDS]</b>
+5823750 5824500 <b>[BLASTROMMANT SOUNDS]</b>
+5828250 5830250 <b>[screaming]</b>
+5860250 5896208 <b>[screaming] [defeated noises]</b>
+5897666 5897708 <b>Service</b>
+5897750 5900708 <b>bitch Mavericks</b>
+5900791 5916416 <b>[more Geez.</b>
+5917666 5919583 <b>[ice clinking]</b>
+5919666 5927125 <b>[vegetarian Ministry breathing]</b>
+5927208 5927375 <b>[</b>
+5927458 5930791 <b>investments [ sobs ]</b>
+5930875 5934625 <b>[ fussing continues ]</b>
+5944708 5947958 <b>[crying]</b>
+5948041 5950000 <b>[crinkling]</b>
+5950083 5960833 <b>[crying]</b>
+5962708 5973166 <b>[crying]</b>
+5973708 5975208 <b>Try it up on me.</b>
+5977708 5979000 <b>Oh, it's very funny.</b>
+5979708 5986791 <b>[crying]</b>
+5989000 5991333 <b>If you sleep, I'm gonna</b>
+5991416 5993250 <b>rip your fucking tongue out.</b>
+5996541 6003208 <b>Where's my daughter?</b>
+6004708 6006041 <b>Oh, what did you do to my daughter?</b>
+6007708 6009041 <b>I thought I could get her out.</b>
+6013625 6022333 <b>[crying]</b>
+6022416 6033166 <b>Merry Christmas, Mommy.</b>
+6037708 6039958 <b>Hi, Mommy.</b>
+6040416 6041541 <b>[screaming]</b>
+6041625 6046541 <b>Hi, Mommy.</b>
+6047250 6048416 <b>We love you.</b>
+6049041 6050291 <b>We miss you.</b>
+6053708 6056958 <b>My daughter does not like your daughter.</b>
+6057250 6058041 <b>She is.</b>
+6058583 6060750 <b>I can't recognize her on fucking blood.</b>
+6060833 6062708 <b>[screaming]</b>
+6067708 6072958 <b>I gave you a present, Mommy.</b>
+6073541 6076583 <b>And now I want you to give me one.</b>
+6077166 6077791 <b>Fuck you!</b>
+6080708 6105625 <b>[crying] [crying]</b>
+6109708 6110625 <b>Mommy, Santa.</b>
+6115166 6118333 <b>Kill the queen of summer.</b>
+6121708 6122166 <b>You first.</b>
+6124708 6124916 <b>No!</b>
+6125708 6128041 <b>No! No!</b>
+6131416 6134125 <b>[crying]</b>
+6134208 6143083 <b>No!</b>
+6144375 6144750 <b>No!</b>
+6153708 6153916 <b>No!</b>
+6154250 6154458 <b>No!</b>
+6164916 6165083 <b>No!</b>
+6165333 6166041 <b>[screaming] No!</b>
+6167916 6168125 <b>No!</b>
+6169208 6169458 <b>No!</b>
+6170041 6170791 <b>No!</b>
+6172291 6172583 <b>No!</b>
+6172833 6173041 <b>No!</b>
+6173333 6173833 <b>No!</b>
+6183708 6185708 <b>[crying]</b>
+6213708 6215666 <b>[crying]</b>
+6237333 6239583 <b>[crying]</b>
+6239708 6241500 <b>No, Santa.</b>
+6241708 6253750 <b>[crying]</b>
+6253833 6261041 <b>I'm gonna take everything you have.</b>
+6270708 6275333 <b>And then I'm gonna leave that pretty pink</b>
+6275416 6278500 <b>flesh of yours and throw you from inside</b>
+6278583 6281041 <b>out just like I did this, bitch.</b>
+6282416 6285416 <b>But first, I have the best drink.</b>
+6290708 6292416 <b>That's my cappy.</b>
+6294708 6295416 <b>Oh, cappy!</b>
+6296708 6299125 <b>[crying]</b>
+6299208 6310208 <b>No, you don't!</b>
+6311000 6311041 <b>[crying]</b>
+6311083 6311958 <b>[crying] [screaming] [crying]</b>
+6312041 6313750 <b>[crying]</b>
+6313791 6313833 <b>[crying]</b>
+6314708 6316416 <b>Where's my present?</b>
+6316708 6317250 <b>Santa, come.</b>
+6318333 6319208 <b>You can have me.</b>
+6319666 6321125 <b>You can have me.</b>
+6322708 6324625 <b>I'm very happy.</b>
+6324708 6329250 <b>But, cappy, I'll fucking kill you!</b>
+6329666 6330250 <b>Stop!</b>
+6331666 6332958 <b>You cruel fuck!</b>
+6333291 6334666 <b>You disobey me!</b>
+6334958 6335708 <b>Leave her alone!</b>
+6337000 6337750 <b>Stop!</b>
+6340333 6340708 <b>[crying]</b>
+6354708 6363666 <b>[crying]</b>
+6366708 6370416 <b>It's all your fault.</b>
+6372125 6374083 <b>I told you I was a cappy.</b>
+6376166 6376625 <b>Excuse me.</b>
+6376708 6379125 <b>[crying]</b>
+6379208 6380416 <b>Shut it down!</b>
+6381000 6383166 <b>No! No! No!</b>
+6384041 6385458 <b>You fucking thing!</b>
+6386208 6386416 <b>No!</b>
+6389875 6390000 <b>[crying]</b>
+6390083 6390541 <b>No!</b>
+6390625 6390791 <b>No!</b>
+6391416 6393125 <b>Come on!</b>
+6394666 6395583 <b>[crying]</b>
+6396708 6400000 <b>Everything you love is gone!</b>
+6400500 6401416 <b>There is no hope!</b>
+6401791 6402750 <b>There is no hope!</b>
+6403708 6405166 <b>Let's go!</b>
+6405541 6406458 <b>So you can let me.</b>
+6433708 6437750 <b>[crying]</b>
+6437833 6440458 <b>[crying]</b>
+6440541 6441541 <b>[crying]</b>
+6441625 6442083 <b>[crying]</b>
+6442166 6443208 <b>[crying]</b>
+6443708 6446083 <b>Oh, you are strong, aren't you?</b>
+6447041 6449416 <b>Now I know why they chose you.</b>
+6450583 6452416 <b>You really love them, don't you?</b>
+6453750 6454958 <b>She's right in the cappy.</b>
+6456125 6457875 <b>You're all she's got left.</b>
+6459083 6460041 <b>And you're the only</b>
+6460125 6462625 <b>thing that's keeping her.</b>
+6462708 6467625 <b>For letting me in.</b>
+6467833 6468666 <b>[crying]</b>
+6468750 6471041 <b>No! No! No!</b>
+6471625 6472416 <b>You're a fucking dudger!</b>
+6473000 6473208 <b>No!</b>
+6474041 6476041 <b>I'm sorry you didn't open the present.</b>
+6477625 6478291 <b>[crying]</b>
+6479125 6480041 <b>That's not fair.</b>
+6481125 6482416 <b>How much money is yours, sweetie?</b>
+6482958 6483666 <b>[crying]</b>
+6483750 6485291 <b>I said once more!</b>
+6485708 6487416 <b>What is it about? With angels?</b>
+6489416 6491291 <b>The angels, of course.</b>
+6491708 6501958 <b>[crying]</b>
+6502041 6508958 <b>[crying]</b>
+6509041 6511125 <b>[crying]</b>
+6511208 6511916 <b>[crying]</b>
+6512000 6512041 <b>[crying]</b>
+6512125 6513916 <b>[crying]</b>
+6514000 6514458 <b>[crying]</b>
+6514541 6515458 <b>[crying] You're after yourself.</b>
+6516166 6518041 <b>[crying]</b>
+6518333 6518958 <b>You're getting done.</b>
+6519708 6522666 <b>[crying]</b>
+6524041 6524833 <b>Do you want to know the</b>
+6524916 6525916 <b>cappy got me for Christmas?</b>
+6529000 6532000 <b>Yes. Do you want to open yourself?</b>
+6535041 6535250 <b>Yes.</b>
+6536708 6538041 <b>I'm doing it.</b>
+6538750 6541875 <b>[crying]</b>
+6541958 6544500 <b>[crying]</b>
+6547708 6553916 <b>[crying]</b>
+6554000 6554583 <b>[crying]</b>
+6554666 6559875 <b>No! No! No!</b>
+6563000 6563458 <b>[crying]</b>
+6563541 6567708 <b>[crying]</b>
+6567791 6573333 <b>[crying]</b>
+6573416 6574458 <b>[crying]</b>
+6575708 6576791 <b>Stop it!</b>
+6577708 6580166 <b>You said you wanted to open it.</b>
+6581708 6583666 <b>Stop it! Stop it!</b>
+6584083 6584583 <b>Let her go!</b>
+6586875 6588041 <b>[crying]</b>
+6588125 6589750 <b>Open it!</b>
+6591125 6593541 <b>[crying]</b>
+6593625 6596583 <b>[crying]</b>
+6596666 6599041 <b>[crying]</b>
+6599708 6600416 <b>Please!</b>
+6601708 6605291 <b>[crying]</b>
+6606208 6606958 <b>We're waiting!</b>
+6608708 6612000 <b>[crying]</b>
+6612083 6617000 <b>[crying]</b>
+6617083 6618291 <b>[crying]</b>
+6618375 6621000 <b>[crying]</b>
+6621083 6621583 <b>[crying]</b>
+6627708 6633625 <b>[crying]</b>
+6633708 6634791 <b>[crying]</b>
+6634875 6635791 <b>I hope you like it.</b>
+6637958 6643625 <b>[crying]</b>
+6644416 6645291 <b>Best gift ever.</b>
+6646833 6647833 <b>[crying]</b>
+6647916 6648125 <b>[crying]</b>
+6653708 6660208 <b>[crying]</b>
+6660291 6666958 <b>[crying]</b>
+6667041 6668375 <b>[crying]</b>
+6668458 6669958 <b>[crying]</b>
+6670041 6670833 <b>Let's have a taste.</b>
+6672333 6675750 <b>[crying]</b>
+6675833 6676500 <b>[crying]</b>
+6684708 6689583 <b>[crying]</b>
+6689666 6691583 <b>[crying]</b>
+6691666 6693333 <b>[crying]</b>
+6693416 6695083 <b>[crying]</b>
+6695166 6698875 <b>Oh, God! Oh, God!</b>
+6700000 6702500 <b>[crying]</b>
+6702583 6704500 <b>Did you know I opened</b>
+6704583 6706666 <b>it? I was new, remember?</b>
+6707708 6709083 <b>Yeah.</b>
+6737708 6747625 <b>[crying]</b>
+6747708 6754208 <b>[crying]</b>
+6754291 6757083 <b>[crying]</b>
+6757166 6758833 <b>[crying] [crying] Oh, God!</b>
+6759458 6760000 <b>[crying]</b>
+6768791 6769708 <b>C'mon fuckers!</b>
+6795166 6811416 <b>(C</b>
+6853500 6855833 <b>(screaming)</b>
+6883500 6902166 <b>(screaming)</b>
+6902250 6904583 <b>(screaming)</b>
+6904666 6907416 <b>(panting)</b>
+6919500 6928375 <b>(panting)</b>
+6928458 6931333 <b>(screaming)</b>
+6967458 6967958 <b>(screaming)</b>
+6968041 6968958 <b>Rachel, come in.</b>
+6969500 6970041 <b>Come on.</b>
+6970333 6979666 <b>(screaming)</b>
+6979750 6983375 <b>Yes, you can't get me to tell you why.</b>
+6986833 6992041 <b>Come on, baby, you're.</b>
+6992958 6995666 <b>(screaming)</b>
+7000333 7008625 <b>(screaming)</b>
+7020958 7021791 <b>Gabby!</b>
+7024291 7025125 <b>Gabby!</b>
+7030333 7032416 <b>(crying)</b>
+7060333 7062500 <b>(panting)</b>
+7097666 7110166 <b>(panting)</b>
+7110250 7113166 <b>Don't get me.</b>
+7113250 7117958 <b>(crying)</b>
+7119083 7119791 <b>I'll find you.</b>
+7136000 7138666 <b>Summer stars</b>
+7140041 7143208 <b>Holy night</b>
+7144916 7146666 <b>All is calm</b>
+7149166 7150500 <b>All is bright</b>
+7152625 7154125 <b>All is bright</b>
+7158000 7159250 <b>I'm sorry, you're reading a book?</b>
+7159791 7161083 <b>Just tell me to show up next night.</b>
+7161708 7162625 <b>Oh, no, it's okay.</b>
+7163291 7164625 <b>This book is actually a lot</b>
+7164708 7166000 <b>creamier than I anticipated.</b>
+7166791 7167208 <b>Are you?</b>
+7167791 7168083 <b>Yeah.</b>
+7168916 7169333 <b>How you doing?</b>
+7170708 7172375 <b>I don't get into all that blood and more.</b>
+7173416 7175041 <b>I'm more of a rom-com guy.</b>
+7176791 7178208 <b>Frankenstein, that's</b>
+7178291 7179083 <b>a good movie, classic.</b>
+7183875 7185791 <b>(singing)</b>
+7228916 7233958 <b>and h</b>
+7234041 7234083 <b>uh</b>
+7234125 7235541 <b>uh</b>
+7235625 7245708 <b>once</b>
+7245791 7247833 <b>you</b>

@@ -9,8 +9,8 @@ import type * as T from './FileManager.types';
 export class FileManager {
   public constructor(private readonly dir: string) {}
 
-  public async writeIndex(data: T.WriteIndexDataInputMovie[], userId: string, timestamp: string) {
-    const filePath = this.getIndexFilePath();
+  public async writeQueryIndex(data: T.WriteIndexDataInputMovie, userId: string, timestamp: string) {
+    const filePath = this.getQueryIndexFilePath(data.pageNumber);
     await this.writeJsonFile(filePath, data);
     await this.writeLog('WRITE_INDEX', {}, userId, timestamp);
     return filePath;
@@ -33,22 +33,28 @@ export class FileManager {
   public async writeSubtitleData(imdbId: string, data: T.WriteSubtitleDataInputSubtitle, userId: string, timestamp: string) {
     const filePath = this.getSubtitleDataFilePath(imdbId, data.subtitleId);
     await this.writeJsonFile(filePath, data);
-    await this.writeLog('WRITE_SUBTITLE_DATA', { imdbId, subtitleId: data.subtitleId }, userId, timestamp);
+    await this.writeLog('WRITE_Subtitle_DATA', { imdbId, subtitleId: data.subtitleId }, userId, timestamp);
     return filePath;
   }
 
   public async writeSubtitleText(imdbId: string, data: T.WriteSubtitleDataInputSubtitle, text: string, userId: string, timestamp: string) {
-    const filePath = this.getSubtitleTextFilePath(imdbId, data.subtitleId, data.subTextFileName);
+    const filePath = this.getSubtitleTextFilePath(imdbId, data.subtitleId, data.subtextFileName);
     await this.writeTextFile(filePath, text);
-    await this.writeLog('WRITE_SUBTITLE_TEXT', { imdbId, subtitleId: data.subtitleId }, userId, timestamp);
+    await this.writeLog('WRITE_Subtitle_TEXT', { imdbId, subtitleId: data.subtitleId }, userId, timestamp);
     return filePath;
   }
 
   public async getAllMovieIds(): Promise<string[]> {
-    const entries = await fs.promises.readdir(this.dir, { withFileTypes: true });
+    const moviesRootDir = this.getMoviesRootDir();
+    const entries = await fs.promises.readdir(moviesRootDir, { withFileTypes: true });
     const directories = filter(entries, (e) => e.isDirectory());
     const movieIds = map(directories, (d) => d.name);
     return movieIds;
+  }
+
+  public async deleteAllQueries(): Promise<void> {
+    const indexDir = this.getQueryDir();
+    await fs.promises.rm(indexDir, { recursive: true, force: true });
   }
 
   public async getMovieData(imdbId: string): Promise<T.GetMovieDataResponse | null> {
@@ -70,17 +76,29 @@ export class FileManager {
   }
 
   private async writeLog(action: string, data: any, userId: string, timestamp: string) {
-    const filePath = this.getLogFilePath(timestamp);
-    await this.writeJsonFile(filePath, { action, ...data, userId, timestamp });
+    // const filePath = this.getLogFilePath(timestamp);
+    // await this.writeJsonFile(filePath, { action, ...data, userId, timestamp });
   }
 
-  private getIndexFilePath() {
-    const filePath = path.resolve(this.dir, 'index.json');
+  private getMoviesRootDir() {
+    const filePath = path.resolve(this.dir, 'movies');
+    return filePath;
+  }
+
+  private getQueryDir() {
+    const filePath = path.resolve(this.dir, 'queries');
+    return filePath;
+  }
+
+  private getQueryIndexFilePath(pageNumber: number) {
+    const queryDir = this.getQueryDir();
+    const filePath = path.resolve(queryDir, 'release-date-asc', pageNumber.toString(), 'index.json');
     return filePath;
   }
 
   private getMovieDir(imdbId: string) {
-    const movieDir = path.resolve(this.dir, imdbId);
+    const movieRootDir = this.getMoviesRootDir();
+    const movieDir = path.resolve(movieRootDir, imdbId);
     return movieDir;
   }
 

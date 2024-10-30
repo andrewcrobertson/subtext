@@ -1,0 +1,40 @@
+{
+  "imdbId": "tt0062622",
+  "title": "2001: A Space Odyssey",
+  "releaseDate": "1968-05-12T00:00:00.000Z",
+  "releaseYear": 1968,
+  "posterFileName": "poster.jpg",
+  "rated": "G",
+  "genres": [
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "directors": [
+    "Stanley Kubrick"
+  ],
+  "writers": [
+    "Stanley Kubrick",
+    "Arthur C. Clarke"
+  ],
+  "actors": [
+    "Keir Dullea",
+    "Gary Lockwood",
+    "William Sylvester"
+  ],
+  "runTime": 149,
+  "plot": "When a mysterious artifact is uncovered on the Moon, a spacecraft manned by two humans and one supercomputer is sent to Jupiter to find its origins.",
+  "subtitleIds": [
+    "a65b7324",
+    "c0fafaf7",
+    "440304ba",
+    "218e375b",
+    "e5a266fe",
+    "c0abfb24",
+    "e809b3a2",
+    "4b3b1a0e",
+    "5e9f676a",
+    "eb49e662",
+    "6be6051d"
+  ],
+  "isAvailable": true
+}

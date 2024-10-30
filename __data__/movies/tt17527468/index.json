@@ -1,0 +1,39 @@
+{
+  "imdbId": "tt17527468",
+  "title": "Bottoms",
+  "releaseDate": "2024-02-14T00:00:00.000Z",
+  "releaseYear": 2023,
+  "posterFileName": "poster.jpg",
+  "rated": "R",
+  "genres": [
+    "Comedy"
+  ],
+  "directors": [
+    "Emma Seligman"
+  ],
+  "writers": [
+    "Emma Seligman",
+    "Rachel Sennott"
+  ],
+  "actors": [
+    "Rachel Sennott",
+    "Ayo Edebiri",
+    "Ruby Cruz"
+  ],
+  "runTime": 91,
+  "plot": "Two unpopular queer high-school students start a fight club to have sex before graduation.",
+  "subtitleIds": [
+    "50ef7824",
+    "e43fb844",
+    "df7ee502",
+    "7b86b9eb",
+    "b9442e92",
+    "1b5b90d7",
+    "257d6fd3",
+    "cc846cee",
+    "5194c781",
+    "1b57666f",
+    "70f3cfa6"
+  ],
+  "isAvailable": true
+}

@@ -1,0 +1,39 @@
+{
+  "imdbId": "tt1375666",
+  "title": "Inception",
+  "releaseDate": "2010-07-16T00:00:00.000Z",
+  "releaseYear": 2010,
+  "posterFileName": "poster.jpg",
+  "rated": "PG-13",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "directors": [
+    "Christopher Nolan"
+  ],
+  "writers": [
+    "Christopher Nolan"
+  ],
+  "actors": [
+    "Leonardo DiCaprio",
+    "Joseph Gordon-Levitt",
+    "Elliot Page"
+  ],
+  "runTime": 148,
+  "plot": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+  "subtitleIds": [
+    "f9422a6a",
+    "edfb2120",
+    "edfb2120",
+    "edfb2120",
+    "b84ef70e",
+    "9f18ed3e",
+    "3999869e",
+    "c95bf121",
+    "e1719617",
+    "9a8ba5cc"
+  ],
+  "isAvailable": true
+}

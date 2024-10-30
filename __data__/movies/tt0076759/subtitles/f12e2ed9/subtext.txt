@@ -1,0 +1,1499 @@
+120370 122413 Captain.<br />Yes, sir?
+122497 124665 Tell them we wish to board at once.
+124791 127460 With all due respect,
+127544 130963 the ambassadors for the supreme chancellor<br />wish to board immediately.
+131048 132965 Yes, of course.
+133050 136177 As you know, our blockade<br />is perfectly legal,
+136261 140389 and we'd be happy to<br />receive the ambassadors.
+162829 165498 I'm TC-14 at your service.
+165582 167500 This way, please.
+173590 176676 We are greatly honored<br />by your Visit, Ambassadors.
+176760 178678 Make yourselves comfortable.
+178762 181972 My master will be with you shortly.
+184976 187269 I have a bad feeling about this.
+187396 190439 I don't sense anything.<br />It's not about the mission, Master.
+190524 194485 It's something... elsewhere, elusive.
+194569 196987 Don't center on your anxieties, Obi-Wan.
+197072 200241 Keep your concentration here and now,<br />where it belongs.
+200325 203202 But Master Yoda said<br />I should be mindful of the future.
+203286 205329 But not at the expense of the moment.
+205414 208374 Be mindful of the living Force,<br />young Padawan.
+208458 210418 Yes, Master.
+212587 216257 How do you think this trade viceroy<br />will deal with the chancellor's demands?
+216341 218509 These Federation types are cowards.
+218593 221470 The negotiations will be short.
+221555 224849 What? What did you say?
+224933 227935 The ambassadors are Jedi knights,<br />I believe.
+228019 229937 I knew it.
+230021 232273 They're here to force a settlement.
+232357 236444 Distract them.<br />I will contact Lord Sidious.
+236528 238446 Are you brain-dead?
+238530 242450 I'm not going in there with two Jedi.
+242534 244493 Send a droid.
+248915 251792 <i>Is it in their nature to<br />make us wait this long?</i>
+251877 256505 No. I sense an unusual amount of fear for<br />something as trivial as this trade dispute.
+267392 269310 What is it?
+269394 272062 This scheme of yours has<br />failed, Lord Sidious.
+272147 275733 The blockade is finished.<br />We dare not go against these Jedi.
+275817 280696 Viceroy, I don't want this stunted slime<br />in my sight again.
+282032 284575 <i>This turn of events is unfortunate.</i>
+284659 288788 We must accelerate our plans.<br />Begin landing your troops.
+288872 292625 My lord, is that legal?
+292709 295044 I will make it legal.
+295128 297463 And the Jedi?
+297547 301967 The chancellor should never have brought<br />them into this. Kill them immediately.
+302052 306388 Yes. Yes, my lord. Uh, as you wish.
+308183 310017 Captain, look!
+310101 312561 Shields up!
+316024 317900 Sorry.
+319611 321570 Dioxis.
+326409 329036 They must be dead by now.
+329120 333082 Destroy what's left of them.
+339923 342341 Oh! Excuse me.
+342425 345386 - Check it out, Corporal. We'll cover you.<br />- Roger, roger.
+345470 348055 Uh-oh. Blast them.
+352978 355354 What is going on down there?
+355438 357439 We lost the transmission, sir.
+361862 364947 Have you ever encountered a<br />Jedi knight before, sir?
+365031 367992 Well, no, but I don't-Seal off the bridge.
+368118 370828 Yes, sir.<br />That won't be enough, sir.
+370912 372913 I want droidekas up here at once!
+372998 375624 We will not survive this.
+387137 389597 Close the blast doors!
+394519 397354 That will hold them.
+405822 408574 They are still coming through.
+408658 410618 This is impossible!
+415040 417958 Where are those droidekas?
+419502 421295 Master! Destroyers!
+427677 430429 They have shield generators!
+430513 433223 It's a standoff. Let's go.
+437395 439939 They're no match for droidekas.
+440023 444526 <i>Sir! They've gone up the ventilation shaft.</i>
+453286 455996 Battle droids.<br />It's an invasion army.
+457707 460376 This is an odd play for<br />the Trade Federation.
+460460 463629 We've got to warn the Naboo<br />and contact Chancellor Valorum.
+463713 468634 <i>Let's split up. Stow aboard separate ships</i><br /><i>and meet down on the planet.</i>
+468718 471637 You were right about one thing, Master.
+471721 475224 The negotiations were short.
+475433 478811 Sir, a transmission from the planet.
+478895 481021 It's Queen Amidala herself.
+481106 484817 At last we are getting results.
+484901 487945 Again you come before us, Your Highness.
+488029 491156 You will not be so pleased<br />when you hear what I have to say, Viceroy.
+491241 494994 Your trade boycott of our planet has ended.
+495078 497663 I was not aware of such failure.
+497747 500499 <i>I have word that the chancellor's<br />ambassadors are with you now...</i>
+500583 503335 and that you have been commanded<br />to reach settlement.
+503420 505713 <i>I know nothing of any ambassadors.</i>
+505797 508215 You must be mistaken.
+508299 510342 Beware, Viceroy.
+510427 513137 The Federation has gone too far this time.
+513221 517307 We would never do anything<br />without the approval of the senate.
+517392 519977 You assume too much.
+520061 522896 We will see.
+523023 527026 She's right. The senate will never-<br />It's too late now.
+527152 530154 Do you think she suspects an attack?<br /><i>I don't know.</i>
+530238 534658 But we must move quickly<br />to disrupt all communications down there.
+539497 543917 Negotiations haven't started<br />because the ambassadors aren't there?
+544002 546211 How could that be true?
+546296 550674 I have assurances from the chancellor<br />his ambassadors did arrive.
+550759 554511 It must-handiwork-negotiate-ambassadors...
+554637 557306 <i>nobody would-</i><br />Senator Palpatine.
+557390 559308 What's happening?
+559392 561310 Check the transmission generator.
+561394 566273 <i>A communications disruption</i><br /><I>CAN MEAN ONLY ONE THING: invasion.</i>
+566357 568692 The Federation would not dare go that far.
+568777 572654 The senate would revoke their trade<br />franchise, and they'd be finished.
+572739 575616 <i>We must continue to rely on negotiation.</i>
+575700 578952 <i>Negotiation? We've lost all communications.</i>
+579037 581371 And where are the chancellor's ambassadors?
+582707 585167 This is a dangerous<br />situation, Your Highness.
+585251 589671 Our security volunteers will be no match<br />against a battle-hardened Federation army.
+591216 595844 I will not condone a course of action<br />that will lead us to war.
+631339 634508 - Yes, Viceroy?<br />- Captain, we've searched the ship,
+634592 636718 and there is no trace of the Jedi.
+636803 639596 They may have gotten on<br />one of your landing craft.
+639681 642182 If they're down here, sir, we'll find them.
+642267 647146 Use caution.<br />These Jedi are not to be underestimated.
+660451 662995 - Oh, no!<br />- Get away! Get out of here!
+663121 666165 Get down!
+666249 668542 Ay-yee-yee! Wha!
+675091 678635 Was'n dat? Hey, wait!
+678845 680679 Oh, mooie-mooie! I love you!
+680763 682973 You almost got us killed.<br />Are you brainless?
+683099 686810 I spake. The ability to speak<br />does not make you intelligent.
+686936 689855 Now, get out of here.<br />No, no, mesa stay.
+689939 692983 Mesa culled JarJar Binks.<br />Mesa your humble servant.
+693109 695235 That won't be necessary.<br />Oh, but it 'tis.
+695320 698238 'Tis demanded by the gods, it 'tis.
+698323 701783 Oh, no! Whoo!<br />Stay down!
+707707 710334 You saved my again.
+710460 712336 What's this?<br />A local.
+712462 716215 Let's get out of here before<br />more droids show up. More?
+716299 718550 "More" did you spake?
+718635 723555 Ex-squeeze-me, but de mostest<br />safest place would be Gunga City.
+723640 726892 Is where I grew up. 'Tis a hidden city.
+728478 730354 A city?<br />Uh-huh.
+730480 734650 Can you take us there?<br />Uh, on second thought, no.
+734734 737236 Not really, no.<br />No?
+737320 739488 'Tis embarrassing,
+739572 743575 but, uh, my afraid my've been banished.
+743660 746787 My forgotten.<br />Da bosses would do terrible tings to me.
+746871 749957 Terrible tings to me if me goen back dare.
+750041 753126 You hear that?<br />Yah.
+753211 757005 That is the sound of a thousand<br />terrible things heading this way.
+757090 759675 If they find us, they will crush us,
+759759 764346 grind us into tiny pieces<br />and blast us into oblivion.
+764430 768350 Oh. Yousa point is well seen.
+768434 770852 This way. Hurry!
+776109 779444 How much further?<br />Wesa goen underwater, okeyday?
+779529 781446 Ah, my warning you.
+781531 785701 Gungans no liken outsiders,<br />so don't spect a warm welcome.
+785785 789121 Oh, don't worry.<br />This hasn't been our day forwarm welcomes.
+789205 793166 Ar, ar, ar! Ooh, ooh, ooh, ooh, ooh!
+799507 802009 Yousa follow me now, okeyday?
+847263 850182 So good bein home!
+856397 858398 Oh, me gusa.<br />Hata-hata.
+865114 867449 Hey, yousa.
+867533 871661 - Stopa dare!<br />- Heyo-dales, Cap'n Tarpals.
+871746 873622 Mesa back!
+873706 876708 Noah gain, JarJar. Yousa goen tada bosses.
+876793 879419 Yousa in big dudu dis time.
+879504 881088 Ohh.
+881172 883548 <i>Ay, ay.</i>
+883633 886843 How wude.
+893434 897896 Tkk-tkk-tkk-tkk-tkk-tkk-tkk!<br />Yousa cannot bees hair.
+897980 902526 Dis army of Mackineeks<br />up dare is new weesong.
+902610 907531 A droid army is about to attack the Naboo.<br />We must warn them.
+907615 911284 Wesa no like da Naboo.<br />Tkk-tkk-tkk-tkk-tkk.
+911369 914162 <i>Da Naboo tink day so smarty.</i>
+914247 917207 Day tink day brains so big.
+917291 921461 Once those droids take control of the<br />surface, they will take control of you.
+921546 923922 Mesa no tink so.
+924006 926883 Day not know of uss-en.
+926968 929970 You and the Naboo form a symbiont circle.
+930054 933473 What happens to one of you will affect the other.<br />You must understand this.
+933558 938353 Wesa no carrrre-nn about da Naboo.
+938438 941022 Then speed us on our way.
+941107 943692 Wesa ganna speed yous away.
+943776 946570 We could use a transport.
+946654 949489 Wesa give yousa una bongo.
+949615 952742 Hmm?<br /><i>Da speediest way tooda Naboo...</i>
+952827 957622 'tis goen through the planet core.
+957707 959583 Now...
+959667 961543 go.
+961627 963879 Thank you for your help. We leave in peace.
+963963 966089 Master, what's a bongo?
+966174 968175 A transport, I hope.
+968259 970343 Deysa setten yousa up.
+970428 974139 Goen through da planet core?<br />Bad bombin'.
+974223 978393 Mmm... any help here would be hot.
+979729 981605 Master, we're short on time.
+981689 985400 We'll need a navigator<br />to get us through the planet's core.
+985485 987444 This Gungan may be of help.
+989572 992657 What is to become of JarJar Binks here?
+992742 997621 <i>Hisen to be pune-ished.</i>
+997747 999998 Ohh.<br /><i>I saved his life.</i>
+1000082 1002584 He owes me what you call a ' "life-debt."
+1002668 1006546 Your gods demand<br />that his life belongs to me now.
+1006631 1009049 Binkssssss,
+1009133 1012761 yousa havena liveplay with thisen hisen?
+1012845 1016264 Mm, uh-huh.
+1019852 1021728 Begone wit him!
+1024315 1026775 Count me outta dis one.
+1026859 1030028 Better dead here than dead in da core.
+1030112 1033281 Yee gods! What mesa sayin?
+1051467 1054261 Dis is nutsen. Oh, gooberfish!
+1054387 1057639 Why were you banished, JarJar?<br />It's a longo tale-o,
+1057723 1062811 buta small part of it would be mesa...<br />clumsy.
+1062895 1067774 - You were banished because you were clumsy?<br />- Yousa might'n be sayin dat.
+1080621 1084916 Mesa caused mabbe<br />one, two-y lettle bitty axadentes, huh?
+1085001 1087085 Yud-say boom da gassar,
+1087169 1090005 den crashin der boss's heyblibber,<br />den banished.
+1094176 1097137 Wuh-oh!
+1097221 1099347 Big gooberfish! Huge-o teeth!
+1110067 1114195 - There's always a bigger fish.<br />- Mesa tink we goen back now.
+1125541 1128793 The invasion is on schedule, my lord.
+1128878 1131880 I have the senate<br />bogged down in procedures.
+1131964 1136468 They will have no choice<br />but to accept your control of the system.
+1136552 1141264 The queen has great faith<br />that the senate will side with her.
+1141349 1144392 Queen Amidala is young and naive.
+1144477 1147937 You will find controlling<br />her will not be difficult.
+1148022 1149981 Yes, my lord.
+1151359 1154319 You didn't tell him about the missing Jedi.
+1154403 1158948 No need to report that to him<br />until we have something to report.
+1163371 1167165 Where wesa goin?<br />Don't worry. The Force will guide us.
+1167249 1170043 Ohh, maxi big, da Force.
+1170127 1172921 Well, dat smells stinkowiff.
+1173047 1175006 We're losing power.
+1175091 1176758 Ohhh, no!
+1182640 1184933 Wesa dyin' here.
+1185059 1187727 Just relax. We're not in trouble yet.<br />What "yet"?
+1187812 1190855 <i>Monsters out dare. Leak'n in here.</i>
+1190940 1195944 All sink'n and no power?<br />Whena yousa tinkin wesa in trouble?
+1197154 1199531 Power's back.<br />Huh?
+1199615 1201700 Aah, monster's back!
+1208582 1210834 Relax.
+1210960 1212919 Ohh.<br />You overdid it.
+1227852 1230687 Horrible.<br />Head for that outcropping.
+1230771 1233773 Oh, boy.
+1269059 1271144 Viceroy, we have captured the queen.
+1271228 1273980 Ah, victory.
+1286577 1289621 Mmm, dis'n loverly.
+1294752 1298171 How will you explain this invasion<br />to the senate?
+1298255 1302467 The queen and I will sign a treaty<br />that will legitimize our occupation here.
+1302551 1305720 I have assurances<br />it will be ratified by the senate.
+1305846 1309349 I will not cooperate.<br />Now, now, Your Highness.
+1309433 1313561 In time, the suffering of your people<br />will persuade you to see our point of view.
+1314897 1316815 Commander.<br />Yes, sir.
+1316941 1320527 Process them.<br />Captain, take them to Camp 4.
+1320611 1322570 Roger, roger.
+1362862 1365446 Whoops!
+1365531 1367991 Whoo-hoo-hoo!
+1377084 1381087 - We should leave the street, Your Highness.<br />- Get their weapons.
+1381171 1384716 Whoa! Yousa guys bombad!
+1386802 1389220 We're ambassadors for<br />the supreme chancellor.
+1389305 1391222 Your negotiations seemed to<br />have failed, Ambassador.
+1391307 1393141 The negotiations never took place.
+1393225 1395643 <i>It's urgent that we make contact</i><br /><i>with the Republic.</i>
+1395728 1399188 - They've knocked out all our communications.<br />- Do you have transports?
+1399273 1401733 In the main hangar. This way.
+1406238 1409407 - There are too many of them.<br />- That won't be a problem.
+1409491 1413036 Your Highness, under the circumstances,<br />I suggest you come to Coruscant with us.
+1413120 1416247 Thank you, Ambassador,<br />but my place is with my people.
+1416332 1419083 - They will kill you if you stay.<br />- They wouldn't dare.
+1419168 1422921 They need her to sign a treaty to make this invasion legal.<br />They can't afford to kill her.
+1423005 1425173 There is something else behind all this,<br />Your Highness.
+1425257 1427258 There's no logic in the<br />Federation's move here.
+1427343 1429302 My feelings tell me they will destroy you.
+1429386 1431846 Our only hope is for the<br />senate to side with us.
+1431931 1434390 Senator Palpatine will need your help.
+1434475 1438519 Either choice presents great danger...<br />to us all.
+1438604 1440521 We are brave, Your Highness.
+1440606 1443858 <i>If you are to leave, Your<br />Highness, it must be now.</i>
+1443943 1446444 Then I will plead our case to the senate.
+1446528 1449322 Be careful, Governor.
+1458207 1461417 We'll need to free those pilots.
+1461502 1463461 I'll deal with that.
+1466882 1469384 Halt! I'm ambassador to<br />the supreme chancellor.
+1469468 1471469 I'm taking these people to Coruscant.
+1471553 1474806 - Where are you taking them?<br />- To Coruscant.
+1474890 1477558 Coruscant? Uh, that doesn't compute.
+1477643 1479560 Uh, wait. You're under arrest.
+1484984 1487360 Come on. Move!
+1491615 1494242 Go!
+1518142 1521477 Now, stay here and keep out of trouble.
+1525232 1528401 Hello, boyos.
+1533699 1535408 There's the blockade.
+1544209 1547420 The shield generator's been hit!
+1555888 1557513 How wude!
+1567524 1569108 We're losing droids fast.
+1569193 1572612 <i>If we can't get the shield generator fixed,</i><br /><i>we'll be sitting ducks.</i>
+1574698 1578826 The shields are gone.
+1582664 1585458 The power's back!
+1588212 1591756 That little droid did it.<br />He bypassed the main power drive.
+1591840 1594467 Deflector shields up at maximum.
+1603977 1607730 <i>There's not enough power to get us to Coruscant.<br />The hyper-drive is leaking.</i>
+1607815 1610733 We'll have to land somewhere<br />to refuel and repair the ship.
+1610818 1613027 Here, Master. Tatooine.
+1613112 1616739 Small, out of the way, poor. The Trade<br />Federation have no presence there.
+1616824 1618699 How can you be sure?
+1618784 1620743 It's controlled by the Hutts.
+1620828 1623704 You can't take Her Royal Highness there.<br />The Hutts are gangsters.
+1623789 1626124 - If they discovered her-<br />- It'd be no different than if we landed...
+1626208 1628084 on a system controlled by the Federation,
+1628168 1632547 except that the Hutts aren't looking<br />for her, which gives us the advantage.
+1636969 1640012 And Queen Amidala, has<br />she signed the treaty?
+1640097 1643808 She has disappeared, my lord.
+1643892 1648062 One Naboo cruiser got past the blockade.
+1648147 1651149 I want that treaty signed.
+1651233 1653317 My lord,
+1653402 1655987 it's impossible to locate the ship.
+1656071 1658322 It's out of our range.
+1658407 1661159 Not for a Sith.
+1661243 1663161 This is my apprentice,
+1663245 1665204 <i>Darth Maul.</i>
+1666456 1669834 He will find your lost ship.
+1674131 1676465 This is getting out of hand.
+1676550 1678593 Now there are two of them.
+1678677 1681762 We should not have made this bargain.
+1686977 1690605 An extremely well-put-together<br />little droid, Your Highness.
+1690689 1693608 Without a doubt,<br />it saved the ship, as well as our lives.
+1693692 1697028 It is to be commended. What is its number?
+1699698 1701866 R2-D2, Your Highness.
+1701950 1707079 Thank you, R2-D2.
+1707164 1709999 Padmé.
+1710083 1712251 Clean this droid up as best you can.
+1712336 1714337 It deserves our gratitude.
+1716089 1718716 Continue, Captain.
+1719760 1722220 Your Highness, with your permission,
+1722304 1725389 we're heading for a remote planet<br />called Tatooine.
+1725474 1728809 It's in a system far beyond the reach<br />of the Trade Federation.
+1728894 1731562 I do not agree with the Jedi on this.
+1731647 1734607 You must trust my judgment, Your Highness.
+1737986 1739695 <i>Hello.</i>
+1739780 1742782 Sorry. Husa are yousa?
+1742866 1745368 I'm Padmé.
+1745452 1748496 Mesa JarJar Binks.
+1748580 1750623 You're a Gungan, aren't you?
+1750707 1752792 Uh-huh.
+1752918 1756545 How'd you end up here with us?<br />My no know.
+1756630 1760341 Mesa day starten pitty okeyday<br />witda brisky morning munchen.
+1760425 1763261 Den boom! Getten berry scared...
+1763345 1766722 and grabben dat Jedi, and pow-mesa here.
+1766848 1769517 Huh. Mesa getten berry, berry scared.
+1776191 1779902 That's it-Tatooine.<br />There's a settlement.
+1779987 1784156 Land near the outskirts.<br />We don't want to attract attention.
+1801383 1804218 The hyper-drive generator's gone, Master.<br />We'll need a new one.
+1804303 1806762 That'll complicate things. Be wary.
+1806888 1810057 I sense a disturbance in the Force.<br />I feel it also, Master.
+1810142 1813019 Don't let them send any transmissions.
+1818275 1820735 This sun doen murder to mesa skin.
+1820819 1823321 <i>Wait!</i>
+1823405 1825364 Wait.
+1828243 1831120 Her Highness commands you<br />to take her handmaiden with you.
+1831204 1835041 No more commands<br />from Her Highness today, Captain.
+1835125 1837209 The spaceport is not going to be pleasant.
+1837294 1839503 The queen wishes it.
+1839588 1841547 She's curious about the planet.
+1842591 1845134 This is not a good idea.
+1845218 1847178 Stay close to me.
+1860942 1863819 Moisture farms, for the most part.
+1865072 1868824 Some indigenous tribes and scavengers.
+1868909 1873245 The few spaceports like this one are havens<br />for those that don't wish to be found.
+1873330 1875289 Like us.
+1876583 1879210 Dissen berry berry bad.
+1879294 1882505 Oh! Icky icky goo!
+1895477 1898771 We'll try one of the smaller dealers.
+1903485 1905611 Good day to you.
+1907114 1908531 What do you want?
+1908615 1911742 I need parts for a J-type 327 Nubian.
+1911827 1915955 Ah, yes! Nubian. We have lots of that.
+1916623 1918541 Boy, get in here now!
+1918625 1920543 My droid has a readout of what I need.
+1923130 1924839 What took you so long?
+1925549 1927049 I was cleaning the fan switches.
+1927134 1929677 Watch the store.<br />I've got some selling to do.
+1929761 1933305 So... let me take thee out back, huh?
+1933390 1937268 Ni you'll find what you need.
+1937394 1939770 Hmm?<br />Don't touch anything.
+1939855 1941814 Hmph!
+1947028 1948904 Hmm.
+1949030 1952783 Are you an angel?<br />What?
+1952868 1956620 An angel. I heard the deep<br />space pilots talk about them.
+1956705 1959623 They're the most beautiful creatures<br />in the universe.
+1959708 1962293 They live on the moons of lego, I think.
+1962377 1964753 You're a funny little boy.
+1964838 1966797 How do you know so much?
+1966882 1970759 I listen to all the traders and star pilots<br />who come through here.
+1970844 1975139 I'm a pilot, you know, and someday<br />I'm gonna fly away from this place.
+1975265 1979226 You're a pilot?<br />Mm-hmm. All my life.
+1979311 1981687 How long have you been here?
+1981771 1985816 Since I was very little. Three, I think.
+1985901 1988652 My mom and I were sold<br />to Gardulla the Hutt,
+1988737 1991447 but she lost us betting on the Podraces.
+1991531 1993324 You're a slave?
+1993450 1997661 I'm a person, and my name is Anakin.<br />I'm sorry.
+1997746 2001499 I don't fully understand.<br />This is a strange place to me.
+2001583 2004335 <i>Hmm. Hmm.</i>
+2004419 2007838 Where-Wheres yousa goin?
+2007964 2010299 Ugh!
+2012427 2015471 I got ya. <i>Hey!</i>
+2015555 2017348 <i>What?</i><br />Hit the nose.
+2017432 2020017 Oh! Uh.
+2022020 2025606 A T-14 hyper-drive generator.<br />Thee in luck.
+2025690 2028359 I'm the only one hereabouts who has one.
+2028443 2031946 But thee might as well buy a new ship.<br />It would be cheaper, huh?
+2032030 2035032 Saying of which,
+2035116 2037493 how's thee gonna pay for all this, huh?
+2037577 2039703 I have 20,000 Republic dataries.
+2039788 2041664 Republic credits?
+2041748 2044708 Republic credits are no good out here.<br />I need something more real.
+2044793 2047920 I don't have anything else,<br />but credits will do fine.
+2048046 2051715 No, they won't.<br />Credits will do fine.
+2051800 2053634 No, they won't!
+2053718 2057972 What, you think you're some kind of Jedi,<br />waving your hand around like that?
+2058056 2062309 I'm a Toydarian.<br />Mind tricks don't work on me. Only money.
+2062394 2066564 No money, no parts, no deal.
+2066648 2071193 And no one else has a T-14 hyper-drive,<br />I promise you that.
+2078034 2081829 Wouldn't have lasted long anyways<br />if I wasn't so good at building things.
+2081913 2084415 Oh! Aw! Ooh! Uh!
+2084541 2088127 Ai, ai! Whoa, ai!<br />We're leaving. JarJar.
+2088211 2090462 <i>Whaaa!</i>
+2090547 2093132 I'm glad to have met you, Anakin.
+2093216 2095134 I was glad to meet you too.
+2097220 2100222 What? Wha-Oh.
+2103643 2108022 Outlanders. They think we know nothing.
+2108106 2110065 They seemed nice to me.
+2110150 2112109 Clean the racks...
+2112193 2113569 then you can go home.
+2113653 2115529 Yippee!
+2121494 2123954 And you're sure<br />there's nothing left on board?
+2124039 2125956 A few containers of supplies.
+2126041 2129126 The queen's wardrobe, maybe,<br />but not enough for you to barter with,
+2129210 2131545 not in the amount you're talking about.
+2131630 2134131 All right. I'm sure<br />another solution will present itself.
+2134215 2136091 I'll check back later.
+2136176 2138594 Noah gain! Noah gain.
+2138678 2141513 Da beings hereabouts, cawazy!
+2141598 2144141 Wesa be wobbed un crunched!
+2144225 2147394 Not likely. We have nothing of value.<br />That's our problem.
+2155820 2159281 Hmm? Ah, mooie-mooie.
+2160659 2162534 <i>Hey, hey!</i>
+2162619 2164078 Are you going to pay for that?
+2164162 2165996 Huh? Wanga?
+2166081 2167956 It costs seven wupiupi.
+2170669 2173170 <i>Ah! Chubaa-</i>
+2173254 2175589 Oops.
+2179260 2181053 Is this yours?
+2181137 2182846 Who, mesa?
+2184891 2186892 Ouch! Ouch!
+2186976 2189144 Careful, Sebulba.
+2189229 2191271 He's a big-time outlander.
+2191356 2194942 I'd hate to see you diced<br />before we race again.
+2195026 2198946 Next time we race, boy,<br />it will be the end of you.
+2199030 2202116 If you weren't a slave,<br />I'd squash you now.
+2202784 2205661 Yeah, it'd be a pity<br />if you had to pay for me.
+2206746 2209915 - Hi.<br />- Hi there.
+2209999 2212876 <i>Your buddy here was about to be</i><br /><i>turned into orange goo.</i>
+2212961 2216463 He picked a fight with a Dug,<br />an especially dangerous Dug called Sebulba.
+2216548 2220217 Mesa haten crunchen.<br />Das da las ting mesa want.
+2220301 2224346 Nevertheless, the boy is right.<br />You were heading into trouble.
+2224431 2226306 Thanks, my young friend.
+2226391 2228475 <i>But-But-</i>
+2228560 2231979 But mesa doen nutten!
+2238987 2241613 This storm will slow them down.
+2241698 2244408 Looks pretty bad.
+2244534 2247119 Panaka. Receiving<br />a message from home.
+2247203 2249455 We'll be right there.
+2255378 2257546 <i>Here, you'll like these pallies.</i>
+2257630 2260299 Here.<br />Thank you.
+2261426 2263719 Oh, my bones are aching.
+2263803 2268348 Storm's coming up, Ani.<br />You better get home quick.
+2268475 2271393 Do you have shelter?<br />We'll head back to our ship.
+2271478 2274104 Is it far?<br />It's on the outskirts.
+2274189 2276607 You'll never reach the outskirts in time.
+2276691 2280611 Sandstorms are very, Very dangerous.
+2280695 2283197 Come on. I'll take you to my place.
+2296711 2299087 Mom!
+2299172 2302883 <i>Mom, I'm home!<br />Ahh, dissen cozy.</i>
+2303009 2305385 - These are my friends, Mom.<br />- Hello.
+2305512 2309097 I'm Qui-Gon Jinn.<br />I'm building a droid. You wanna see?
+2309182 2311558 Your son was kind enough<br />to offer us shelter.
+2311684 2315187 Come on. I'll show you 3PO.<br />Oh, mooie-mooie.
+2322862 2326156 Isn't he great? He's not finished yet.
+2326241 2328116 He's wonderful.
+2328243 2331119 <i>You really like him?</i>
+2331204 2334206 He's a protocol droid to help Mom. Watch.
+2335625 2339878 Oh. Oh. Uh-Where is everybody?
+2339963 2343298 Whoops. Yeah.
+2343383 2345592 Oh, hello.
+2345677 2349012 I am C-3PO, human-cyborg relations.
+2349097 2350973 How might I serve you?
+2351099 2353934 He's perfect.<br />Oh. Perfect.
+2354018 2357563 When the storm is over, I'll show you my racer.<br />I'm building a Podracer.
+2357647 2361525 I'm not sure this floor is entirely stable.
+2361609 2364820 Oh, hello.<br />I don't believe we have been introduced.
+2366698 2369032 R2-D2. A pleasure to meet you.
+2369117 2372160 I am C-3PO, human-cyborg relations.
+2374789 2378000 I beg your pardon,<br />but what do you mean, ' "naked"?
+2379669 2382963 My parts are showing? My goodness! Oh!
+2387510 2390053 The death toll is catastrophic.
+2390138 2392514 We must bow to their wishes.
+2392599 2394683 You must contact me.
+2394767 2397519 It's a trick. Send no reply.
+2397604 2401106 Send no transmissions of any kind.
+2401190 2404776 It sounds like bait to<br />establish a connection trace.
+2404861 2408864 What if it is true, and<br />the people are dying?
+2408948 2411491 Either way, we're running out of time.
+2425089 2427257 Tatooine is sparsely populated.
+2427342 2430177 If the trace was correct,<br />I will find them quickly, Master.
+2430261 2432179 Move against the Jedi first.
+2432263 2435015 You will then have no difficulty<br />in taking the queen to Naboo...
+2435099 2437017 to sign the treaty.
+2437101 2439311 At last we will reveal<br />ourselves to the Jedi.
+2439395 2441855 At last we will have revenge.
+2441940 2444858 You have been well-trained,<br />my young apprentice.
+2444943 2447361 They will be no match for you.
+2452200 2457204 All slaves have a transmitter<br />placed inside their bodies somewhere.
+2457288 2460290 I've been working on a scanner<br />to try and locate mine.
+2460416 2463919 Any attempt to escape-<br />And they blow you up!
+2464003 2466463 Boom!<br />How wude!
+2466547 2469007 I can't believe<br />there's still slavery in the galaxy.
+2469092 2471009 The Republic's antislavery laws-
+2471094 2473470 The Republic doesn't exist out here.
+2473554 2476598 <i>We must survive on our own.</i>
+2476683 2479351 Xcuse me.
+2479435 2482854 Has anybody ever seen a Podrace?
+2482939 2487609 <i>They have Podracing on Malastare.</i><br /><i>Very fast, very dangerous.</i>
+2487694 2490278 I'm the only human who can do it.
+2490363 2493573 You must have Jedi reflexes<br />if you race pods.
+2493658 2495951 Don't do that again.
+2501374 2503959 You're a Jedi knight, aren't you?
+2506004 2508463 What makes you think that?
+2508548 2512843 I saw your laser sword.<br />Only Jedis carry that kind of weapon.
+2512927 2515846 Perhaps I killed a Jedi<br />and took it from him.
+2515930 2517848 I don't think so.
+2517932 2520100 No one can kill a Jedi.
+2520184 2523020 I wish that were so.
+2523104 2525188 I had a dream I was a Jedi.
+2525273 2528400 I came back here and freed all the slaves.
+2528526 2531945 Have you come to free us?<br />No, I'm afraid not.
+2532030 2536408 I think you have.<br />Why else would you be here?
+2541247 2543999 I can see there's no fooling you, Anakin.
+2544083 2547169 We're on our way to Coruscant,<br />the central system in the Republic,
+2547253 2549254 on a very important mission.
+2549338 2552466 How did you end up out<br />here in the outer rim?
+2552550 2556178 <i>Our ship was damaged, and we're<br />stranded here until we can repair it.</i>
+2556262 2558388 I can help.
+2558514 2562267 <i>I can fix anything. I believe you can.</i>
+2562351 2565228 But first we must acquire<br />the parts we need.
+2565313 2568065 Wit no-nutten mula to trade.
+2568149 2571693 These junk dealers must have<br />a weakness of some kind.
+2571778 2576281 Gambling. Everything here revolves around<br />betting on those awful races.
+2576365 2580577 <i>Podracing. Greed can be a powerful ally.</i>
+2580661 2583580 I built a racer. It's the fastest ever.
+2583664 2586166 There's a big race tomorrow on Boonta Eve.
+2586292 2588877 - You could enter my pod.<br /><i>- Anakin!</i>
+2588961 2592089 - Watto won't let you.<br />- Watto doesn't know I've built it.
+2592173 2594049 You could make him think it was yours...
+2594133 2596426 <i>and get him to let me pilot it for you.</i>
+2596511 2600722 <i>I don't want you to race. It's awful.</i><br /><i>I die every time Watto makes you do it.</i>
+2600807 2603016 <i>But, Mom, I love it.</i>
+2603101 2606645 The prize money would more than pay<br />for the parts they need.
+2606729 2609064 Anakin.
+2609148 2611983 Your mother's right.
+2612068 2615195 Is there anyone friendly to the Republic<br />who can help us?
+2616489 2618406 No.
+2623412 2628041 Mom, you say the biggest problem in this<br />universe is nobody helps each other.
+2632046 2635799 I'm sure Qui-Gon doesn't want<br />to put your son in danger.
+2635883 2637801 We'll find some other way.
+2637885 2640178 No.
+2640263 2642764 There is no other way.
+2642849 2647185 I may not like it, but he can help you.
+2647270 2649896 He was meant to help you.
+2663494 2665370 Are you sure about this?
+2665454 2668165 <i>Trusting our fate to a boy we hardly know?</i>
+2668249 2670292 The queen will not approve.
+2670376 2673336 The queen doesn't need to know.
+2673421 2675005 Well, I don't approve.
+2675131 2678842 The boy tells me you<br />want to sponsor him in the race.
+2678926 2683972 How can you do this?<br />Not on the Republic credits, I think, huh?
+2684056 2686266 <i>My ship will be the entry fee.</i>
+2686350 2688476 <i>Oh, not bad!</i>
+2688561 2691563 Not bad, huh? A Nubian, huh?
+2691647 2694983 It's in good order,<br />except for the parts I need.
+2695067 2697611 <i>What would the boy ride?</i>
+2697695 2701281 He smashed up my pod in the last race.<br />It will take some long time to fix it.
+2701365 2705535 It wasn't my fault, really.<br />Sebulba flashed me with his vents.
+2705620 2709039 <i>I actually saved the pod, mostly.</i>
+2709123 2712626 <i>Mmm. That you did, huh.</i>
+2712710 2715545 The boy's good. No doubts there, huh?
+2715630 2719966 I have acquired a pod in a game of chance,<br />the fastest ever built.
+2720051 2725180 <i>I hope you didn't kill<br />anyone I know for it, huh?</i>
+2727141 2730227 So, you supply the pod and the entry fee,
+2730311 2732229 and I supply the boy.
+2732313 2736233 <i>We split the winnings,</i><br /><i>um, 50-50, I think, huh?</i>
+2736317 2740987 If it's going to be 50-50,<br />I suggest you front the cash for the entry.
+2741072 2743156 If we win,
+2743241 2747077 you keep all the winnings,<br />minus the cost of the parts I need.
+2747161 2750413 And if we lose, you keep my ship.
+2751666 2754251 Either way, you win.
+2760049 2762384 Deal!
+2767181 2770850 Your friend is a foolish one, methinks.
+2778776 2781778 What if this plan fails, Master?
+2781862 2784614 We could be stuck here a very long time.
+2784699 2787242 Well, it's too dangerous<br />to call for help,
+2787326 2790787 and a ship without a power supply<br />isn't going to get us anywhere.
+2790871 2792872 And...
+2792957 2795834 there's something about this boy.
+2800923 2804009 You should be very proud of your son.
+2804093 2807137 <i>He gives without any thought of reward.</i>
+2807221 2810098 Well, he knows nothing of greed.
+2810224 2814185 He has a-<br />He has special powers.
+2815313 2817188 Yes.
+2817273 2819983 He can see things before they happen.
+2820067 2822902 That's why he appears to<br />have such quick reflexes.
+2822987 2824863 <i>It's a Jedi trait.</i>
+2824989 2827824 <i>He deserves better than a slave's life.</i><br />Why, certainly.
+2827908 2831286 Had he been born in the Republic,<br />we would have identified him early.
+2833664 2836333 The Force is unusually strong with him.<br />That much is clear.
+2837418 2839377 Who was his father?
+2842048 2843965 There was no father.
+2845426 2848762 <i>I carried him, I gave birth, I raised him.</i>
+2848846 2852140 I can't explain what happened.
+2853809 2855602 Can you help him?
+2855686 2857645 I don't know.
+2860107 2863777 I didn't actually come here to free slaves.
+2870910 2872869 Hey, hi, Ani.
+2872953 2875455 Hi.
+2875581 2878792 Wow, a real astro droid.
+2880628 2884381 How did you get so lucky?<br />That isn't the half of it.
+2884507 2887509 I'm in the Boonta race tomorrow.<br /><i>What?</i>
+2887593 2889344 With this?
+2889428 2892222 You're such a joker, Ani.
+2892348 2895600 You've been working on that thing for years.<br />It's never gonna run.
+2895684 2897894 <i>Come on. Let's go and play ball.</i>
+2897978 2901272 Keep racing, Ani.<br />You're gonna be bug squash.
+2907780 2909656 Hey, JarJar.
+2909782 2912200 <i>Keep away from those energy binders.</i>
+2912284 2915787 If your hand gets caught in the beam,<br />it's gonna go numb for hours.
+2915871 2917956 Sorry. Okay.
+2921377 2923545 My tongue is fat.
+2923629 2926798 My tongue-Wrench.
+2926882 2929551 Where is da wrench? Oh, dare it is.
+2929635 2932262 Hey. Uh-oh.
+2932346 2935557 Uh, Ani, I'm stuck. Ani...
+2935641 2939686 You know, I find that JarJar creature<br />to be a little odd.
+2941522 2944399 You don't even know<br />if this thing's gonna run.
+2944483 2946609 It will.<br />I think it's time we found out.
+2946694 2948945 Here, use this power charge.<br />Yes, sir!
+2949029 2951114 Come on, Kitster. Let's move away.
+2951198 2953408 My-My mouth.
+2953492 2957162 <i>Ani, I'm stuck.</i>
+2958747 2962292 Uh, hey. My tongue is fat. Ani!
+2962376 2965378 You're quite right. He's very odd indeed.
+2966422 2969132 Oh. Th-Thank you.
+2969216 2971134 Go.
+2985608 2989277 It's working! It's working!
+2999914 3002415 Stay still, Ani. Let me clean this cut.
+3002500 3006503 There's so many.<br />Do they all have a system of planets?
+3006587 3008463 Most of them.
+3008547 3010590 Has anyone been to 'em all?
+3010674 3013510 Not likely.
+3013594 3016679 I wanna be the first one to see 'em all.
+3017973 3020433 <i>Ani, bedtime!</i> Ow!
+3020518 3023269 There we are. Good as new.
+3023354 3026231 Ani, I'm not gonna tell you again.
+3026357 3029859 What are you doing?<br />Checking your blood for infections.
+3029944 3033613 Go on. You have a big day tomorrow.
+3033697 3035615 Sleep well, Ani.
+3038327 3040370 Obi-Wan?<br />Yes, Master?
+3040454 3043122 I need an analysis<br />of this blood sample I'm sending you.
+3043249 3046584 Wait a minute.
+3046669 3048670 I need a midi-chlorian count.
+3051632 3054300 The reading is off the chart.
+3054385 3056261 Over 20,000.
+3056345 3060056 Even Master Yoda doesn't have<br />a midi-chlorian count that high.
+3060140 3061933 No Jedi has.
+3062017 3064102 What does that mean?
+3064186 3066145 I'm not sure.
+3136508 3139469 I wanna see your spaceship<br />the moment the race is over.
+3139553 3143306 Patience, my blue friend. You'll have<br />your winnings before the suns set.
+3143390 3145642 And we'll be far away from here.
+3145726 3149312 Not if your ship belongs to me,<br />I think, huh?
+3149396 3153274 I warn you, no funny business.
+3153400 3156527 You don't think Anakin can win?<br />Don't get me wrong, no.
+3156612 3159155 I have great faith in the boy.
+3159239 3161407 He's a credit to your race,
+3161492 3164744 but, uh, Sebulba there is<br />going to win, I think.
+3166830 3168581 Oh, no!
+3172711 3174587 Why do you think that?
+3174672 3178508 He always wins!
+3178592 3181094 I am betting heavily on Sebulba.
+3182888 3186224 - I'll take that bet.<br />- You what?
+3186308 3189727 I'll wager my new racing pod against, say,
+3189812 3191729 the boy and his mother.
+3191814 3195525 No pod is worth two slaves,<br />not by a long shot.
+3195609 3198194 The boy, then.
+3198278 3200988 Hmm. Well, uh...
+3204410 3206953 We'll let fate decide, huh?
+3207037 3210498 I just happen to have a chance cube here.
+3210582 3213668 Blue, it's the boy.
+3213752 3217964 Red, uh... his mother.
+3227641 3232311 You won this small toss, outlander,<br />but you won't win the race!
+3232396 3234522 So it makes little difference!
+3244324 3249245 Better stop your friend's<br />betting or I'll end up owning him too.
+3253000 3255543 What'd he mean by that?<br />I'll tell you later.
+3255627 3257712 Good morning.
+3257796 3259797 Oh, my.
+3259882 3261883 Space travel sounds rather perilous.
+3263927 3267972 I can assure you, they will never get me<br />onto one of those dreadful starships.
+3268056 3271476 This is so wizard, Ani.<br />I'm sure you'll do it this time.
+3271560 3275855 - Do what?<br />- Finish the race, of course.
+3275939 3280568 - You've never won a race?<br />- Well, not exactly.
+3280652 3282695 Not even finished?
+3282780 3285323 Kitster's right. I will this time.
+3285407 3287492 Of course you will.
+3314853 3316979 Podracers.
+3317064 3318981 That's absolutely right.
+3319066 3324153 And a big turnout here from all corners<br />of the outer rim territories.
+3324238 3327865 <i>I see the contestants are making their way</i><br /><i>out onto the starting grid.</i>
+3329952 3332829 <i>I see Ben Quadinaros from the Tund System.</i>
+3338460 3340920 <i>Two-time winner Boles Roor.</i>
+3343423 3346092 <i>Sebulba!</i>
+3355644 3358771 And in the front row,<br />nearside pole position,
+3358856 3360940 <i>Mawhonic!</i>
+3362109 3364151 <i>A hearty hello...</i>
+3364236 3368030 <i>to Clegg Holdfast and his Voltec KT9 Wasp!</i>
+3368115 3370867 Mm-hmm. Mm-hmm.
+3370951 3374036 <i>And back again, it's the mighty Dud Bolt...</i>
+3374121 3378749 <i>with that incredible racing machine,</i><br /><i>the Vulptereen 327.</i>
+3382004 3384380 <i>And hoping for a big win today,</i>
+3384464 3388885 <i>Ody Mandrell,</i><br /><i>with his record-setting pit droid team.</i>
+3393724 3397059 <i>And a late entry, young Anakin Skywalker,</i>
+3397144 3399645 <i>a local boy.</i>
+3401106 3403441 I see the flags are moving<br />out onto the track.
+3413452 3415912 Huh?
+3418498 3420541 Pee yousa!
+3423253 3425171 Be safe.
+3425255 3428674 I will, Mom. I promise.
+3438268 3441020 Uh-oh.
+3443774 3446484 You won't walk away from this one...
+3446568 3448861 you slave scum.
+3448946 3452239 Don't count on it, slime ball.
+3452324 3454575 You're bantha fodder!
+3459373 3461540 You all set, Ani?<br />Yep.
+3461625 3463542 Right.<br />Whoa!
+3467005 3470049 Remember, concentrate on the moment.
+3470133 3473928 Feel, don't think. Use your instincts.
+3474012 3475680 I will.
+3475764 3478015 May the Force be with you.
+3486942 3489986 Jabba the Hutt.
+3492406 3494907 Mmm.
+3499246 3502832 Welcome.
+3504584 3507461 Begin the race!
+3518348 3521559 <i>Hey, it looks<br />like they're clearing the grid.</i>
+3522728 3524645 Is he nervous?<br />He's fine.
+3526231 3529150 You Jedi are far too reckless.<br />The queen is not...
+3529234 3532153 The queen trusts my judgment,<br />young handmaiden.
+3532237 3534155 You should too.
+3534239 3536699 You assume too much.
+3536783 3539869 <i>Start your engines.</i>
+3579117 3582495 Oh, dissen gonna be messy.<br />Me no watch'n!
+3592506 3594381 Oh!
+3602474 3605142 Oh, no! No!
+3609397 3612733 Wait. Little Skywalker has stalled.
+3623161 3627414 <i>Well, it looks like<br />Quadinaros is having engine trouble also.</i>
+3628959 3631502 Come on, Ani!
+3636716 3639885 <i>- And there goes Skywalker!</i><br />- Go, Ani, go!
+3639970 3642179 <i>He will be hard-pressed</i><br /><i>to catch up with the leaders.</i>
+3644182 3647893 Ehh!
+3654025 3656277 Haaaa!
+3715754 3720591 <i>Looks like a few Tusken Raiders</i><br /><i>are camped out on the canyon dune turn.</i>
+3727474 3730517 <i>Doowat macroon!</i>
+3732812 3736523 Ooh, there goes Quadinaros' power coupling.
+3738193 3740110 <i>Cheespa wata!</i>
+3740195 3741820 Ooh!
+3741905 3745824 - Chubba ni chees Sebulba!<br /><i>- Paketa!</i>
+3745909 3747618 <i>Kulkah meeka!</i>
+3747827 3752373 Ody Mandrell coona wa wunda dungo!
+3759214 3760798 Whoa!
+3764219 3766428 Oh, no!
+3766554 3769390 Oh.
+3771226 3774353 Where is Master Anakin?
+3776356 3778649 Look. Here he comes.
+3780902 3783821 <i>It looks like<br />Skywalker is moving up in the field.</i>
+3783905 3786156 Yay! Yippee!
+3792163 3795165 He has to complete two more circuits?
+3795250 3797209 Oh, dear.
+3847802 3849428 Ah.
+3849512 3851930 Ha!
+3854392 3857311 Arrr!
+3864778 3866653 Skywalker's spinning out of control!
+3924587 3928549 Oh, I don't care what universe you're from.<br />That's gotta hurt!
+3935557 3937349 Here he comes! Owoo!
+3937434 3940602 <i>At the start of the<br />final lap, Sebulba's in the lead,</i>
+3940687 3943188 <i>followed closely by Skywalker!</i>
+3943273 3944857 Go, Ani!
+3969591 3973552 Skywalker's been forced<br />onto the service ramp!
+3977932 3980684 Whoa-oa!
+3990570 3992404 Huh?
+3995241 3998911 - It's Skywalker!<br />- Sebulba!
+3998995 4003332 Amazing! A quick control thrust,<br />and he's back on course!
+4003416 4005209 Did he crash-ed?
+4009631 4011965 <i>Wah hota!</i>
+4046125 4049336 Skywalker's in trouble!<br />Sebulba takes the lead!
+4102307 4105017 He's catching Sebulba!<br /><i>Inkabunga!</i>
+4105101 4107686 Careful, Ani. Careful, Ani!
+4108980 4111148 <i>Wha-Chuba da noya!</i>
+4137967 4141345 That little human being is out of his mind.<br /><i>Punda tah punda!</i>
+4141471 4144056 <i>They're side by side!</i><br />Bangu du bangu!
+4151272 4153398 Wa-waaaaah!
+4160865 4162783 Aaah!
+4163993 4165911 <i>Poo doo!</i>
+4171292 4173210 Yippee!<br />Yay!
+4173294 4175921 Ya eeka buta! Whoo-hoo-hoo!
+4176005 4179174 I can't believe it.
+4179258 4181176 The crowds are going nuts!
+4181260 4183428 Oh! Ah! Oh! Ah!
+4185598 4189976 Ooh! Ah! Ooh! Ah! Ooh! Ah! Ooh! Ah!
+4190061 4192145 Yay, Ani!
+4193439 4196525 Mom, I did it! Yeah!
+4203991 4205951 Ohh!
+4206994 4208912 Good going, Ani!
+4213251 4215252 We owe you everything, Ani.
+4215336 4217754 Mmm!<br /><i>Aww.</i>
+4217839 4220006 It's so wonderful, Ani.
+4220091 4222843 You have brought hope<br />to those who have none.
+4222927 4225178 I'm so very proud of you.
+4227265 4229182 <i>Aww.</i>
+4229267 4231685 <i>Oy chuba no.</i>
+4235606 4237524 You.
+4237608 4239943 You swindled me!
+4240027 4243905 You knew the boy was going to win.<br />Somehow you knew it.
+4243990 4245907 I lost everything.
+4245992 4248910 Whenever you gamble,<br />my friend, eventually you'll lose.
+4248995 4251913 Bring the parts to the main hangar.
+4251998 4255333 I'll come by your shop later on<br />so you can release the boy.
+4255418 4258795 You can't have him. It wasn't a fair bet.
+4261507 4264426 Would you like to discuss it<br />with the Hutts?
+4264510 4266595 I'm sure they can settle this.
+4269056 4271016 Take him.
+4277899 4279816 Hidoe!
+4279901 4282819 Well, we have<br />all the essential parts we need.
+4282904 4286072 I'm going back.<br />Some unfinished business. I won't be long.
+4286157 4289659 Why do I sense we've picked up<br />another pathetic life-form?
+4289744 4293622 It's the boy who's responsible<br />for getting us these parts.
+4293706 4295624 <i>Get this hyper-drive generator installed.</i>
+4295708 4298293 Yes, Master. That shouldn't take long.
+4298377 4300545 Come on. Hup!
+4305134 4308303 Hey. These are yours.
+4308387 4310347 Yes!
+4311808 4313683 Mom, we sold the pod!
+4313810 4316186 Look at all the money we have!<br />My goodness!
+4316312 4319231 But that's so wonderful, Ani.<br /><i>And he has been freed.</i>
+4319315 4322108 - What?<br />- You're no longer a slave.
+4323986 4325946 Did you hear that?
+4326030 4329199 Now you can make your<br />dreams come true, Ani.
+4329283 4332035 You are free.
+4335122 4337040 Will you take him with you?
+4337124 4339459 Is he to become a Jedi?<br />Yes.
+4339544 4341461 Our meeting was not a coincidence.
+4341546 4344005 <i>Nothing happens by accident.</i>
+4344090 4347676 You mean I get to come<br />with you in your starship?
+4347760 4349678 Anakin,
+4351055 4354391 training to become a Jedi<br />is not an easy challenge,
+4354475 4357394 and even if you succeed, it's a hard life.
+4357478 4360689 But I wanna go.<br />It's what I've always dreamed of doing.
+4360773 4363650 Can I go, Mom?
+4363734 4365986 Anakin,
+4366070 4369322 this path has been placed before you.
+4369407 4371950 The choice is yours alone.
+4375538 4377455 I wanna do it.
+4379000 4381251 <i>Then pack your things.</i><br /><i>We haven't much time.</i>
+4381335 4383461 Yippee!
+4388551 4390468 What about Mom?
+4393556 4395473 Is she free too?
+4395558 4399102 I tried to free your mother, Ani,<br />but Watto wouldn't have it.
+4399186 4402147 You're coming with us, aren't you, Mom?
+4409739 4413450 Son, my place is here. My future is here.
+4413534 4416953 <i>It is time for you to let go.</i>
+4417038 4419247 I don't want things to change.
+4419332 4421750 But you can't stop the change...
+4421834 4424920 any more than you can stop<br />the suns from setting.
+4426005 4427923 Oh, I love you.
+4433554 4435513 Now hurry.
+4440519 4442437 Thank you.
+4442521 4445440 I'll watch after him. You have my word.
+4447401 4450111 Will you be all right?
+4450196 4452155 Yeah.
+4454325 4456785 Oh! Oh, my. Oh!
+4456869 4458787 Hello, Master Anakin.
+4458871 4460956 Well, 3PO, I've been freed...
+4461040 4463458 and I'm going away in a starship.
+4463542 4466503 Master Anakin,<br />you are my maker and I wish you well.
+4466587 4470840 However, I should prefer it<br />if I were a little more completed.
+4470925 4476304 I'm sorry I wasn't able to finish you, 3PO,<br />give you coverings and all.
+4476389 4480350 <i>I'm gonna miss working on you.</i><br /><i>You've been a great pal.</i>
+4480434 4483353 I'll make sure<br />Mom doesn't sell you or anything.
+4483437 4485188 Sell me?
+4485272 4486940 Bye.
+4487024 4488942 Oh, my.
+4512383 4515301 I can't do it, Mom. I just can't do it.
+4515386 4518096 Ani.
+4519390 4521599 Will I ever see you again?
+4523019 4525937 What does your heart tell you?
+4527273 4529524 I hope so.
+4529608 4531526 Yes.
+4531610 4533528 I guess.
+4533612 4536531 Then we will see each other again.
+4539535 4542454 I will come back and free you, Mom.
+4542538 4544497 I promise.
+4552339 4555717 Now, be brave...
+4555801 4558511 and don't look back.
+4558596 4560513 Don't look back.
+4605726 4608728 - Qui-Gon, sir, wait! I'm tired!<br />- Anakin! Drop!
+4611190 4614150 Go! Tell them to take off!
+4627706 4629624 Qui-Gon's in trouble.
+4629708 4631417 Take off.
+4632503 4634337 Over there. Fly low.
+4655234 4657152 Are you all right?
+4657236 4659154 I think so.
+4659238 4661156 What was it?
+4661240 4664659 I'm not sure,<br />but it was well-trained in the Jedi arts.
+4664743 4667745 My guess is it was after the queen.
+4667830 4670373 What are we gonna do about it?
+4672293 4674210 We shall be patient.
+4674295 4677130 Anakin Skyalker, meet Obi-Wan Kenobi.
+4677214 4679424 - Hi.
+4679508 4683261 You're a Jedi too? Pleased to meet you.
+4690436 4693354 Your queen is lost, your<br />people are starving,
+4693439 4695356 and you, Governor, are going to die...
+4695441 4698359 much sooner than your people, I'm afraid.
+4698444 4700612 This invasion will gain you nothing.
+4700696 4703740 We're a democracy. The people have decided.
+4703824 4705783 Take him away.
+4709163 4712081 My troops are in position<br />to begin searching the swamps...
+4712166 4714584 for these rumored underwater villages.
+4714668 4717128 They will not stay hidden for long.
+4728140 4730892 The death toll is catastrophic.
+4730976 4733603 We must bow to their wishes.
+4733687 4735980 You must contact me.
+4750037 4751996 You all right?
+4752081 4754791 It's very cold.
+4762758 4765677 You come from a warm planet, Ani.
+4765761 4768179 A little too warm for my taste.
+4768264 4770556 Space is cold.
+4770641 4772850 You seem sad.
+4773936 4776271 The queen is worried.
+4776355 4778731 Her people are suffering, dying.
+4778816 4782402 She must convince the<br />senate to intervene, or...
+4783862 4786197 I'm not sure what'll happen.
+4787574 4789701 I made this for you...
+4791120 4793037 so you'd remember me.
+4793122 4796457 I carved it out of a japor snippet.
+4796542 4799377 It'll bring you good fortune.
+4799461 4801379 It's beautiful.
+4801463 4803881 But I don't need this to remember you by.
+4807511 4810930 Many things will change<br />when we reach the capital, Ani,
+4811015 4813599 but my caring for you will remain.
+4816270 4819480 I care for you, too, only I...
+4819565 4821733 Miss your mother.
+4840169 4844380 Coruscant.<br />The entire planet is one big city.
+4844465 4846257 There's Chancellor Valorum's shuttle.
+4846342 4849635 <i>And look over there.</i><br /><i>Senator Palpatine is waiting for us.</i>
+4878916 4882168 It is a great gift to see<br />you alive, Your Majesty.
+4882252 4885088 <i>With the communications breakdown,</i><br /><i>we've been very concerned.</i>
+4885172 4887882 <i>I'm anxious to hear your<br />report on the situation.</i>
+4887966 4890593 May I present Supreme Chancellor Valorum.
+4890677 4894847 Welcome, Your Highness. It's an honor<br />to finally meet you in person.
+4894932 4897558 Thank you, Supreme Chancellor.
+4897643 4900812 I must relay to you how distressed<br />everyone is over the current situation.
+4900896 4903657 I've called for a special session<br />of the senate to hear your position.
+4904733 4907652 I'm grateful for your concern, Chancellor.
+4907736 4909654 There is a question of procedure,
+4909738 4912490 but I'm confident we can overcome it.
+4912574 4915493 I must speak with the Jedi<br />Council immediately.
+4915577 4918454 The situation has become<br />much more complicated.
+4924169 4926129 Ani, come on.
+4936598 4940017 The queen's a bein'<br />grossly nice, mesa tinks.
+4941353 4943354 Pitty hot.
+4971175 4975511 <i>There is no civility, only politics.</i>
+4975596 4979515 <i>The Republic is not what it once was.</i>
+4979600 4984896 The senate is full of greedy,<br />squabbling delegates.
+4984980 4986898 There is no interest...
+4986982 4989108 in the common good.
+4989193 4991444 I must be frank, Your Majesty.
+4991528 4994447 There is little chance<br />the senate will act on the invasion.
+4994531 4997450 Chancellor Valorum<br />seems to think there is hope.
+4997534 5001662 <i>If I may say so, Your Majesty,</i><br /><i>the chancellor has little real power.</i>
+5001747 5005625 He is mired by baseless<br />accusations of corruption.
+5005751 5009504 <i>The bureaucrats are in charge now.</i><br />What options have we?
+5009588 5013174 Our best choice would be<br />to push for the election...
+5013258 5015176 of a stronger supreme chancellor,
+5015260 5017762 one who could control the bureaucrats...
+5017846 5019722 and give us justice.
+5019806 5024101 You could call for a<br />Vote of no confidence...
+5024186 5026103 in Chancellor Valorum.
+5026188 5028731 He has been our strongest supporter.
+5028815 5034070 Our only other choice<br />would be to submit a plea to the courts.
+5034154 5037532 The courts take even longer to<br />decide things than the senate.
+5037616 5040535 <i>Our people are dying, Senator.</i>
+5040619 5044372 We must do something quickly<br />to stop the Federation.
+5044456 5047083 To be realistic, Your Majesty,
+5047167 5052255 I think we're going to have to accept<br />Federation control for the time being.
+5053966 5056050 That is something I cannot do.
+5063350 5065977 He was trained in the Jedi arts.
+5066061 5070022 My only conclusion can be<br />that it was a Sith lord.
+5070107 5074318 Impossible. The Sith have been<br />extinct for a millennium.
+5074403 5078614 <i>I do not believe the Sith</i><br /><i>could have returned without us knowing.</i>
+5078699 5081826 Ah, hard to see, the dark side is.
+5081910 5084829 <i>We will use all our resources</i><br /><i>to unravel this mystery.</i>
+5084913 5087957 We will discover the identity<br />of your attacker.
+5088041 5090001 May the Force be with you.
+5093505 5095464 Master Qui-Gon.
+5095549 5098009 <i>More to say have you?</i>
+5100220 5102179 With your permission, my master,
+5103640 5106684 I have encountered a vergence in the Force.
+5107769 5109812 A vergence, you say?
+5109896 5112064 Located around a person?
+5112149 5114066 A boy.
+5114151 5117987 His cells have the highest concentration of<br />midi-chlorians I have seen in a life-form.
+5118071 5121032 It is possible he was conceived<br />by the midi-chlorians.
+5122659 5125036 <i>You refer to the prophecy...</i>
+5125120 5127538 <i>of the one who will bring<br />balance to the Force.</i>
+5127623 5129457 You believe it's this boy?
+5129583 5132209 I don't presume to-<br /><i>But you do.</i>
+5132294 5134962 Revealed your opinion is.
+5135047 5137089 I request the boy be tested, Master.
+5137174 5142428 <i>Oh? Trained as a Jedi you<br />request for him, hmm?</i>
+5142512 5145306 Finding him was the will of the Force.
+5145390 5147350 I have no doubt of that.
+5153482 5156067 Bring him before us, then.
+5166078 5168996 The boy's here to see Padmé.
+5169081 5171040 Let him in.
+5173919 5177838 I'm sorry, Ani,<br />but Padmé's not here right now.
+5177923 5180257 <i>Who is it?</i>
+5180342 5183386 <i>Anakin Skywalker to see Padmé,</i><br /><i>Your Highness.</i>
+5183470 5185388 I've sent Padmé on an errand.
+5185472 5190393 I'm on my way to the Jedi temple<br />to start my training, I hope.
+5190477 5194355 I may never see her again,<br />so I came to say good-bye.
+5194439 5196357 We will tell her for you.
+5196441 5199068 We are sure her heart goes with you.
+5199152 5201278 Thank you, Your Highness.
+5215210 5219338 The chair recognizes the senator<br />from the sovereign system of Naboo.
+5226096 5230516 Supreme Chancellor,<br />delegates of the senate,
+5230600 5233018 a tragedy has occurred...
+5233103 5236647 which started right here<br />with the taxation of trade routes...
+5236732 5239775 and has now engulfed our entire planet...
+5239860 5241902 in the oppression of the Trade Federation.
+5241987 5244238 This is outrageous!
+5244322 5246907 I object to the senator's statements.
+5246992 5251078 The chair does not recognize the senator<br />from the Trade Federation at this time.
+5251163 5255082 To state our allegations,<br />I present Queen Amidala,
+5255167 5257168 recently elected ruler of the Naboo,
+5257252 5259170 who speaks on our behalf.
+5265177 5267928 Honorable representatives of the Republic,
+5268013 5271140 I come to you<br />under the gravest of circumstances.
+5271224 5274268 The Naboo system has been invaded<br />by the droid armies of the Trade-
+5274352 5277813 <i>I object! There is no proof!</i>
+5277898 5279815 This is incredible.
+5279900 5283986 We recommend a commission be sent to Naboo<br />to ascertain the truth.
+5284070 5286322 <i>The Congress of Malastare concurs...</i>
+5286406 5289241 with the honorable delegate<br />from the Trade Federation.
+5289326 5291744 A commission must be appointed.<br />The point...
+5291828 5294997 Excuse me, Chancellor. <i><br />Enter the bureaucrat.</i>
+5295081 5297792 The true rulers of the Republic.
+5297876 5302046 And on the payroll of the Trade Federation,<br />I might add.
+5302130 5306383 This is where Chancellor Valorum's strength<br />will disappear.
+5307928 5310304 <i>The point is conceded.</i>
+5310388 5313307 Will you defer your motion<br />to allow a commission...
+5313391 5315935 to explore the validity<br />of your accusations?
+5316019 5317937 I will not defer.
+5318021 5321565 I've come before you to resolve this attack<br />on our sovereignty now.
+5321650 5324693 <i>I was not elected</i><br /><i>to watch my people suffer and die...</i>
+5324778 5327530 <i>while you discuss this invasion</i><br /><i>in a committee.</i>
+5329741 5332827 If this body is not capable of action,
+5332911 5335955 I suggest new leadership is needed.
+5337707 5340584 I move for a Vote of no confidence...
+5340669 5342670 in Chancellor Valorum's leadership.
+5349761 5351929 <i>Vote now! Vote now!</i>
+5352013 5354807 Vote now! Vote now!
+5354933 5357685 Vote now!<br />Vote now! Order!
+5357769 5360688 Now they will elect a new chancellor,
+5360772 5362690 a strong chancellor,
+5362774 5365693 one who will not let our tragedy continue.
+5367362 5371699 The boy will not pass the council's<br />test, Master. He's too old.
+5371783 5374743 Anakin will become a Jedi, I promise you.
+5374828 5377746 Do not defy the council, Master,<br />not again.
+5377831 5380624 I shall do what I must, Obi-Wan.
+5382460 5386255 If you would just follow the code,<br />you would be on the council.
+5386339 5389508 They will not<br />go along with you this time.
+5389593 5392511 You still have much to learn,<br />my young apprentice.
+5395807 5397182 A ship.
+5398810 5400769 A cup.
+5400854 5402688 <i>A ship.</i>
+5403773 5406317 A speeder.
+5408278 5410195 Hmm.
+5412824 5414742 How feel you?
+5414826 5416744 Cold, sir.
+5417954 5419872 Afraid are you?
+5419956 5421916 No, sir.
+5422000 5424627 See through you we can.
+5424711 5426629 Be mindful of your feelings.
+5426713 5429506 <i>Your thoughts dwell on your mother.</i>
+5431176 5433719 I miss her. <i> Mmm.</i>
+5433803 5436305 Afraid to lose her, I think, mmm?
+5436389 5438599 What has that got to do with anything?
+5438683 5441018 Everything.
+5441102 5444188 Fear is the path to the dark side.
+5444272 5447191 Fear leads to anger. Anger leads to hate.
+5447275 5450694 Hate leads to suffering.
+5457202 5460120 I sense much fear in you.
+5473009 5476428 Yousa tinking<br />yousa people ganna die?
+5476513 5478430 I don't know.
+5478515 5481100 Gungans get pasted too, eh?
+5482852 5485604 I hope not.
+5485689 5488315 Gungans no dyin' without a fight.
+5488400 5490317 Wesa warriors.
+5490402 5493821 Wesa got a grand army.
+5493905 5497324 <i>Dat's why you no liken us,</i><br /><i>mesa tinks.</i>
+5497409 5500285 <i>Your Highness?</i>
+5501413 5503580 Your Highness.
+5503665 5506834 Senator Palpatine has been nominated<br />to succeed Valorum...
+5506918 5509003 <i>as supreme chancellor.</i>
+5509087 5512006 A surprise, to be sure, but a welcome one.
+5512090 5516802 Your Majesty, if I am elected,<br />I promise to put an end to corruption.
+5516886 5518595 Who else has been nominated?
+5518680 5523017 Bail Antilles of Alderaan<br />and Ainlee Teem of Malastare.
+5523101 5528063 I feel confident our situation<br />will create a strong sympathy vote for us.
+5529774 5531775 I will be chancellor.
+5531860 5534528 I fear by the time you have control<br />of the bureaucrats,
+5534612 5537865 <i>there'll be nothing left of our people,</i><br /><i>our way of life.</i>
+5537949 5539867 I understand your concern, Your Majesty.
+5539951 5543495 Unfortunately, the Federation<br />has possession of our planet.
+5545248 5549376 Senator, this is your arena.
+5549461 5551420 I feel I must return to mine.
+5554007 5556925 I've decided to go back to Naboo.
+5557010 5559011 Go back?<br />But, Your Majesty, be realistic.
+5559095 5561013 They'll force you to sign the treaty.
+5561097 5563515 I will sign no treaty, Senator.
+5563600 5566143 My fate will be no different<br />than that of our people.
+5566227 5568145 Captain.<br /><i>Your Highness.</i>
+5568229 5570147 Ready my ship.
+5570231 5573942 Please, Your Majesty, stay<br />here where it's safe.
+5574027 5577237 It is clear to me now<br />that the Republic no longer functions.
+5577322 5581658 <i>I pray you will bring</i><br /><i>sanity and compassion back to the senate.</i>
+5591836 5594421 The Force is strong with him.
+5594506 5596465 He is to be trained, then?
+5597884 5600969 No, he will not be trained.
+5601054 5602805 No?
+5604766 5606850 He is too old.
+5606935 5610771 He is the chosen one. You must see it.
+5610855 5615526 Mmm. Clouded this boy's future is.
+5617695 5619530 I will train him, then.
+5623868 5626703 I take Anakin as my Padawan learner.
+5626788 5629790 An apprentice you have, Qui-Gon.
+5629874 5632251 Impossible to take on a second.
+5632335 5634002 The code forbids it.
+5634129 5637548 Obi-Wan is ready.<br />I am ready to face the trials.
+5637632 5641301 Our own counsel we will<br />keep on who is ready.
+5641386 5643303 He is headstrong,
+5643388 5646765 and he has much to learn of the<br />living Force, but he is capable.
+5646850 5648892 There is little more he can learn from me.
+5651437 5653355 <i>Young Skywalker's fate...</i>
+5653439 5655315 will be decided later.
+5655400 5657985 Now is not the time for this.
+5658069 5660737 <i>The senate is voting for a<br />new supreme chancellor,</i>
+5660822 5663532 <i>and Queen Amidala is returning home,</i>
+5663616 5666869 which will put pressure on the Federation<br />and could widen the confrontation.
+5666953 5669288 And draw out the queen's attacker.
+5669372 5673792 <i>Go with the queen to Naboo and discover<br />the identity of this dark warrior.</i>
+5675044 5676962 This is the clue we need...
+5677046 5679339 to unravel the mystery of the Sith.
+5679424 5682259 May the Force be with you.
+5695440 5698358 It's not disrespect, Master.<br />It's the truth.
+5698443 5700360 From your point of view.
+5700445 5703864 The boy is dangerous.<br />They all sense it. Why can't you?
+5703948 5706867 His fate is uncertain. He's not dangerous.
+5706951 5709369 The council will decide Anakin's future.
+5709454 5712372 That should be enough for you.<br />Now get on board.
+5718213 5721798 Qui-Gon, sir,<br />I don't want to be a problem.
+5721883 5724134 You won't be, Ani.
+5724219 5728347 I'm not allowed to train you,<br />so I want you to watch me and be mindful.
+5731434 5734102 Your focus determines your reality.
+5734187 5737397 Stay close to me and you'll be safe.
+5737482 5739316 Master, sir,
+5739400 5743028 I heard Yoda talking about midi-chlorians.
+5743112 5746657 I've been wondering-<br />What are midi-chlorians?
+5747909 5750327 Midi-chlorians are a<br />microscopic life-form...
+5750411 5752704 that resides within all living cells.
+5754123 5757000 They live inside me?<br />Inside your cells, yes.
+5757126 5760629 And we are symbionts with them.<br />Symbionts?
+5760713 5764633 Life-forms living together<br />for mutual advantage.
+5764717 5767636 Without the midi-chlorians,<br />life could not exist...
+5767720 5770555 and we would have no<br />knowledge of the Force.
+5770640 5772557 They continually speak to us,
+5772642 5775352 telling us the will of the Force.
+5775436 5777604 When you learn to quiet your mind,
+5777689 5779606 you'll hear them speaking to you.
+5779691 5781608 I don't understand.
+5781693 5785195 With time and training, Ani, you will.<br />You will.
+5789033 5793287 Your Majesty, it is our pleasure to<br />continue to serve and protect you.
+5793371 5795289 I welcome your help.
+5795373 5798792 Senator Palpatine fears<br />that the Federation means to destroy me.
+5798876 5802087 I assure you I will not<br />allow that to happen.
+5802171 5805090 Wesa goin' ho-o-o-me!
+5805174 5808093 Come on, R2.
+5816644 5819730 Is the planet secure?
+5819814 5823734 We have taken over the last pockets<br />of primitive life-forms.
+5823818 5826945 We are in complete control<br />of the planet now.
+5827030 5832909 Good. I will see to it that in the senate<br />things stay as they are.
+5832994 5836913 I am sending my apprentice,<br />Darth Maul, to join you.
+5836998 5838915 Yes, my lord.
+5839000 5840917 A Sith here?
+5846299 5848800 Those are the forward stabilizers.
+5848885 5851303 And those two control the pitch?
+5852847 5854765 You catch on pretty quick.
+5854849 5856767 <i>As soon as we land,</i>
+5856851 5859603 <i>the Federation will arrest you</i><br /><i>and force you to sign the treaty.</i>
+5859687 5863440 <i>I agree. I'm not sure</i><br /><i>what you wish to accomplish by this.</i>
+5863524 5866443 I will take back what's ours.
+5866527 5868987 <i>There are too few of us, Your Highness.</i>
+5869072 5870989 We have no army.
+5871074 5874659 <i>And I can only protect you.</i><br /><i>I can't fight a war for you.</i>
+5874744 5876745 JarJar Binks.
+5876829 5879873 Mesa, Your Highness?
+5879957 5882876 Yes. I need your help.
+5888091 5890342 I have one battleship on my scope.
+5890426 5892552 <i>It's a droid control ship.</i>
+5892637 5894554 <i>They've probably spotted us.</i>
+5894639 5896681 We haven't much time.
+5908152 5912072 JarJar is on his way to the<br />Gungan city, Master. Good.
+5912156 5915075 Do you think<br />the queen's idea will work?
+5915159 5918078 The Gungans will not be easily swayed.
+5918162 5921039 And we cannot use our power to help her.
+5922792 5925919 I'm-I'm sorry for my behavior, Master.
+5926003 5929798 It's not my place<br />to disagree with you about the boy.
+5931676 5935011 And I am grateful you think<br />I'm ready to take the trials.
+5936097 5938014 You've been a good apprentice, Obi-Wan.
+5939434 5942352 And you're a much wiser man than I am.
+5942437 5946189 I foresee you will become<br />a great Jedi knight.
+5959162 5961580 Desa nobody dare.
+5961664 5963874 The Gungan city is deserted.
+5963958 5966543 <i>Some kinda fight, mesa tinks.</i>
+5966627 5969754 Do you think they have been<br />taken to the camps?
+5969839 5972174 More likely they were wiped out.
+5972300 5975385 Mesa no tink so.<br />Do you know where they are, JarJar?
+5975470 5978930 When in trouble, Gungans<br />go to sacred place.
+5979015 5981933 Mesa show you. Come on. Mesa show you!
+5999452 6003914 Your Honor, Queen Amidala of the Naboo.
+6009086 6013882 Uh, h-heyo dadee,<br />Big Boss Nass, Your Honor.
+6013966 6017093 JarJar Binks.
+6017178 6021348 Who's da uss-en uthers?
+6021432 6023725 I am Queen Amidala of the Naboo.
+6023809 6026978 I come before you in peace.
+6027063 6029940 <i>Ah, Naboo biggen.</i>
+6030024 6033235 Yousa bringen da Mackineeks.
+6033319 6037072 Yousa all bombad.
+6037156 6040784 <i>We have searched you out</i><br /><i>because we wish to form an alliance.</i>
+6040868 6042786 Your Honor.
+6044455 6047374 Whosa dis?
+6047500 6050418 I am Queen Amidala.<br />Huh?
+6051379 6053296 This is my decoy,
+6053381 6056758 my protection, my loyal bodyguard.
+6056842 6061179 <i>I'm sorry for my deception,</i><br /><i>but it was necessary to protect myself.</i>
+6061264 6064182 <i>Although we do not always<br />agree, Your Honor,</i>
+6064267 6067185 our two great societies<br />have always lived in peace.
+6067270 6069187 - Ah.<br />- The Trade Federation...
+6069272 6071481 has destroyed all<br />that we have worked so hard to build.
+6071566 6074901 <i>If we do not act quickly,</i><br /><i>all will be lost forever.</i>
+6074986 6077237 I ask you to help us.
+6077321 6080073 No, I beg you to help us.
+6080157 6082534 <i>We are your humble servants.</i>
+6084996 6088582 Our fate is in your hands.
+6088666 6091167 Mmm.
+6099552 6102512 <i>Ha!</i>
+6105766 6110061 Yousa no tinken yousa<br />greater den da Gungans?
+6112523 6116443 Me-e-esa lika dis!
+6116527 6118361 <i>Maybe...</i>
+6118446 6121031 wesa...
+6121115 6123033 bein friends.
+6128205 6131124 Yippee! Ya-hoo!
+6131208 6133543 We've sent our patrols.
+6133628 6137130 We already located<br />their starship in the swamp.
+6137214 6139424 It won't be long, my lord.
+6139508 6142677 This is an unexpected move for her.
+6142762 6144804 It's too aggressive.
+6144889 6147349 Lord Maul, be mindful.
+6147433 6150018 <i>Let them make the first move.</i>
+6150102 6152062 Yes, my master.
+6155524 6157233 Deysa comin!
+6157318 6159736 All right!
+6161572 6163490 They're here!
+6163574 6165533 Good. They made it.
+6170039 6171915 Yousa doen grand.
+6172041 6175960 JarJar bring<br />uss-en and da Naboo together.
+6176045 6177962 Ah, no, no, no.
+6178047 6181049 So, wesa make you...
+6181133 6183176 bombad general.
+6183260 6185679 General?
+6187765 6189766 Captain.
+6189850 6192519 Your Highness.<br />What is the situation?
+6192603 6194521 Almost everyone's in camps.
+6194605 6197857 A few hundred police and guards have<br />formed an underground resistance movement.
+6197942 6200527 <i>I brought back</i><br /><i>as many of the leaders as I could.</i>
+6200611 6205281 The Federation army's also much larger<br />than we thought, and much stronger.
+6205366 6209703 Your Highness, this is a battle<br />I do not think that we can win.
+6209787 6211705 The battle is a diversion.
+6211789 6214999 The Gungans must draw the droid army<br />away from the cities.
+6215084 6217669 <i>R2.</i>
+6217753 6221381 We can enter the city using the secret<br />passages on the waterfall side.
+6221465 6223383 Once we get to the main entrance,
+6223467 6226302 Captain Panaka will create a diversion.
+6226387 6229347 <i>Then we can enter the palace</i><br /><i>and capture the viceroy.</i>
+6229432 6232726 Without the viceroy,<br />they will be lost and confused.
+6232810 6234728 What do you think, Master Jedi?
+6234812 6236980 The viceroy will be well-guarded.
+6237064 6239482 The difficulty is getting<br />into the throne room.
+6239567 6242026 Once we're inside,<br />we shouldn't have a problem.
+6242111 6246865 There is a possibility, with this<br />diversion, many Gungans will be killed.
+6246949 6250285 Wesa ready to do our-san part.
+6250369 6253580 <i>We have a plan which should</i><br /><i>immobilize the droid army.</i>
+6253664 6255582 We will send what pilots we have...
+6255666 6258710 to knock out the droid control ship<br />orbiting the planet.
+6258794 6261921 A well-conceived plan.<br />However, there's great risk.
+6262006 6264924 <i>The weapons on your fighters</i><br /><i>may not penetrate the shields.</i>
+6265009 6266926 <i>There's an even bigger danger.</i>
+6267011 6268928 If the viceroy escapes, Your Highness,
+6269013 6271264 he will return with another droid army.
+6271348 6274601 Well, that is why we must not<br />fail to get the viceroy.
+6274685 6276603 Everything depends on it.
+6282026 6284611 She is more foolish than I thought.
+6284695 6289657 We are sending all troops to meet this army<br />assembling near the swamp.
+6289742 6292452 It appears to be made up of primitives.
+6292536 6295121 This will work to our advantage.
+6295206 6297999 I have your approval to<br />proceed, then, my lord?
+6298083 6300543 Wipe them out.
+6302213 6304172 All of them.
+6334954 6336913 Halt!
+6339792 6342085 Starting up the shield.
+6371282 6372824 Open fire.
+6388257 6392176 Once we get inside, you find a<br />safe place to hide and stay there.
+6392303 6394220 Sure.<br />Stay there.
+6410154 6412280 Roger. Roger.
+6420247 6423374 I thought the battle<br />was going to take place far from here.
+6423459 6426002 This is too close.
+6431091 6432634 Ani, find cover.
+6434428 6436721 Quick!<br />Get to your ships!
+6448984 6450860 Aah!
+6463082 6465041 Aah!
+6495447 6497865 - Fighters straight ahead.<br />- Roger, Bravo Leader.
+6497950 6499242 Roger, Bravo Leader.
+6507084 6508960 Cease fire.
+6516510 6518970 Steady. Steady.
+6552046 6555298 Activate the droids.<br />Yes, sir.
+6571815 6573691 Ouch time.
+6587790 6590166 Fire!
+6590250 6592460 Whoa-ohh!
+6602846 6605139 Aah! Whoa!
+6610479 6613022 My guess is the viceroy's<br />in the throne room.
+6613107 6616526 <i>Red group! Blue group! Everybody, this way!</i>
+6616610 6618653 Hey, wait for me!
+6618737 6621155 Stay where you are. You'll be safe there.
+6621240 6623699 - But I-<br />- Stay in that cockpit.
+6635420 6638714 - We'll handle this.<br />- We'll take the long way.
+6658861 6660862 We gotta do something, R2.
+6683594 6686596 I'm trying to!<br />I don't know where the trigger is!
+6689933 6693102 Oops, wrong one. Maybe it's this one.
+6693187 6696606 Nope. Wait. Here it is.
+6697774 6700276 <i>Yeah!</i>
+6705115 6707617 Let's go!
+6707701 6709952 It's on automatic pilot.
+6719004 6722423 Try to override it.
+6780399 6782900 We don't have time for this, Captain.
+6789032 6790908 Look! There they are.
+6790993 6793369 <i>That's where the autopilot's taking us.</i>
+6804006 6807091 Huh? Waaah! Aah! Aah!
+6807175 6809135 Aah!
+6809219 6813014 Aaah! Hmm!<br />Dumb droid. Take that!
+6813098 6816350 Get off! Get off! Get off! Get off!
+6816435 6818436 Ooh! Ooh! Mooie!
+6818520 6820896 Whoo-hoo! Aah!
+6826403 6828779 The deflector shield is too strong.
+6837122 6839457 This is tense!
+6840834 6843794 <i>Whoa! R2, get us off this autopilot.</i>
+6843879 6846047 It's gonna get us both killed.
+6846131 6850176 <i>You did it, R2!</i>
+6850260 6851969 Okay, let's go left.
+6855057 6857850 <i>Go back?</i>
+6857934 6862271 Qui-Gon told me to stay in this cockpit,<br />so that's what I'm gonna do.
+6869112 6871572 I'll try spinning. That's a good trick.
+6871656 6873657 Whoa!
+6875619 6879789 I know we're in trouble.Just hang on.
+6886630 6888672 Go!
+6892469 6894261 Ascension guns!
+7020305 7021972 Retreat! Retreat!
+7023725 7025643 Dis is nutsen.
+7025727 7027728 Hyah!
+7028939 7030856 O-O-Ohh!
+7035487 7037488 Uh-oh. Big boomers.
+7037572 7040282 Ohh! Ohh!
+7044829 7047039 Uh-oh! Aaah!
+7055715 7058133 Hey! Hey!
+7058218 7061845 Give me a lift! Aaah! Oh!
+7062973 7065015 Aaah!
+7066142 7067768 Ohh!
+7067852 7069520 JarJar, usen da booma!
+7069604 7071564 What? Mesa no have a booma!
+7071648 7073607 Here. Taken dis one.
+7073692 7076819 Whoa! Whoa! Whoa! Whoa! Whoa! Aah!
+7077988 7079613 Aah! Aah! Aah!
+7079698 7082741 Whoa-ohh!
+7082826 7084743 Oh! Oh! Oh!
+7084828 7086370 Aaah!
+7086454 7088706 Help me!
+7089833 7093294 JarJar! Jump, JarJar, jump!
+7102929 7106181 Put down your weapons. They win this round.
+7119070 7121322 We're hit, R2! Aah!
+7126244 7128579 Aaah!
+7134419 7137504 I'm trying to stop! I'm trying to stop!
+7144638 7146180 Everything's overheated.
+7146264 7149683 Oops. This is not good.
+7195188 7199108 No!
+7221756 7224299 No giben up, General JarJar.
+7224384 7226260 Mesa tink of something.
+7226344 7228804 - Hands up.<br />- My give up.
+7228930 7230806 My give up.
+7239482 7242609 Your little insurrection<br />is at an end, Your Highness.
+7242694 7246655 <i>Time for you to sign the treaty and end<br />this pointless debate in the senate.</i>
+7246740 7248532 <i>Viceroy!</i>
+7248616 7250617 Your occupation here has ended.
+7252120 7255497 After her. This one's a decoy.
+7262046 7264673 <i>Captain!</i>
+7272223 7274850 Jam the doors.
+7277645 7281190 Now, Viceroy,<br />we will discuss a new treaty.
+7343461 7345754 <i>Yes! We have power.</i>
+7345839 7348382 Shields up.
+7350134 7351885 Take this!
+7353221 7355681 And this!
+7355765 7357724 Whoa!
+7362188 7364106 - Oops.<br />- We're losing power.
+7364232 7367442 There seems to be a problem with<br />the main reactor. <i>Impossible!</i>
+7367527 7369444 Nothing can get through our shield.
+7370655 7373448 Let's get outta here.
+7380540 7383250 What's that?<br />It's blowing up from the inside!
+7386212 7387796 We didn't hit it.
+7390884 7394428 Now, this is Podracing.
+7394512 7398307 - Look, one of ours, out of the main hold!<br />- Whoo!
+7402687 7405689 - Whoo!<br />- Yeah!<br />- Hee-hee!
+7415950 7419119 What the-
+7419203 7421496 Was'n they doing?
+7421581 7425167 The control ship has been destroyed. Look!
+7426878 7429254 They all broke-ed.
+7477637 7481056 No, it-it's too late.
+7481140 7483517 No.<br />Obi-Wan.
+7484727 7486645 Promise...
+7486729 7488981 Promise me you will train the boy.
+7489065 7491024 Yes, Master.
+7494612 7497656 He is the chosen one.
+7497740 7501034 He... will bring balance.
+7502203 7504121 Train him.
+7531107 7532941 Now, Viceroy,
+7533026 7536486 you're going to have to go back to<br />the senate and explain all this.
+7538197 7541491 I think you can kiss<br />your trade franchise good-bye.
+7555256 7558800 We are indebted to you for your bravery,<br />Obi-Wan Kenobi.
+7558885 7560761 And you, young Skyalker.
+7560845 7564931 We will watch your career<br />with great interest.
+7571355 7573982 Congratulations on your<br />election, Chancellor.
+7574067 7577527 Your boldness has saved<br />our people, Your Majesty.
+7577612 7580030 It's you who should be congratulated.
+7580114 7584076 Together we shall bring<br />peace and prosperity to the Republic.
+7588456 7593543 Confer on you the level of Jedi knight<br />the council does.
+7593628 7598381 But agree with your taking this boy<br />as your Padawan learner...
+7598466 7600425 I do not.
+7600510 7602552 Qui-Gon believed in him.
+7605014 7607933 The chosen one the boy may be.
+7608017 7609935 Nevertheless,
+7610019 7612938 grave danger I fear in his training.
+7613022 7616608 Master Yoda, I gave Qui-Gon my word.
+7616692 7618610 I will train Anakin.
+7618694 7621113 Ohh!
+7621197 7624116 Without the approval of the<br />council, if I must.
+7624200 7626618 Qui-Gon's defiance I sense in you.
+7626702 7628620 Need that you do not.
+7630706 7634000 Agree with you the council does.
+7635044 7638380 Your apprentice Skywalker will be.
+7665449 7667951 What will happen to me now?
+7668035 7671163 The council have granted me<br />permission to train you.
+7671247 7674624 You will be a Jedi, I promise.
+7683426 7686511 There's no doubt<br />the mysterious warrior was a Sith.
+7686596 7690056 Mmm. Always two there are.
+7690141 7693268 No more, no less.
+7693352 7696146 A master and an apprentice.
+7696230 7698148 But which was destroyed?
+7698232 7701151 The master or the apprentice?
+7725801 7727886 Hello, everybody!
+7774517 7776434 Peace!
+7776519 7779396 Ya-hoo!

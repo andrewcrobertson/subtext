@@ -4,7 +4,7 @@
   export let title = '';
 </script>
 
-<div class="" transition:fade>
+<div transition:fade class="">
   <div class="flex items-center mb-4">
     <ChatBubbleLeftRightIcon class="text-yellow-500 size-8 mr-2" />
     <p class="text-2xl font-bold text-yellow-500">SubText</p>

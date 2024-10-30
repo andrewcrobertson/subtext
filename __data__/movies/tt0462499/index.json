@@ -1,0 +1,39 @@
+{
+  "imdbId": "tt0462499",
+  "title": "Rambo",
+  "releaseDate": "2008-01-25T00:00:00.000Z",
+  "releaseYear": 2008,
+  "posterFileName": "poster.jpg",
+  "rated": "R",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Thriller"
+  ],
+  "directors": [
+    "Sylvester Stallone"
+  ],
+  "writers": [
+    "Art Monterastelli",
+    "Sylvester Stallone",
+    "David Morrell"
+  ],
+  "actors": [
+    "Sylvester Stallone",
+    "Julie Benz",
+    "Matthew Marsden"
+  ],
+  "runTime": 92,
+  "plot": "In Thailand, John Rambo joins a group of mercenaries to venture into war-torn Burma, and rescue a group of Christian aid workers who were kidnapped by the ruthless local infantry unit.",
+  "subtitleIds": [
+    "248a5d2c",
+    "5be46814",
+    "59c8e40a",
+    "34e8218f",
+    "e6198adb",
+    "4798b353",
+    "eb15eee5",
+    "c742133a"
+  ],
+  "isAvailable": true
+}

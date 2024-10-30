@@ -1,0 +1,740 @@
+151202 154037 Slave in the Magic Mirror,
+154580 157582 come from the farthest space.
+158376 161503 Through wind and darkness,<br />I summon thee.
+162213 163672 Speak!
+165007 167217 Let me see thy face.
+169845 172347 What wouldst thou know,<br />my Queen?
+173057 175225 Magic Mirror on the wall,
+175685 178395 who is the fairest one of all?
+179563 182983 Famed is thy beauty, Majesty.
+183067 187195 But hold, a lovely maid I see.
+188280 191574 Rags cannot hide her gentle grace.
+192743 197622 Alas, she is more fair than thee.
+197707 201751 Alas for her! Reveal her name.
+202545 204796 Lips red as the rose.
+205423 207882 Hair black as ebony.
+207967 210427 Skin white as snow.
+211929 213430 Snow White!
+248632 250633 Want to know a secret?
+250760 252510 Promise not to tell?
+252845 257307 <i>We are standing by a wishing well</i>
+258768 261436 <i>Make a wish into the well</i>
+261520 264147 <i>That's all you have to do</i>
+264273 267317 <i>And if you hear it echoing</i>
+267443 270820 <i>Your wish will soon come true</i>
+271864 275658 <i>- I'm wishing<br />- I'm wishing</i>
+275785 278495 <i>For the one I love</i>
+278621 281956 <i>- To find me<br />- To find me</i>
+282041 284667 <i>- Today<br />- Today</i>
+285127 288338 <i>- I'm hoping<br />- I'm hoping</i>
+288798 291508 <i>And I'm dreaming of</i>
+291634 294886 <i>- The nice things<br />- The nice things</i>
+294970 297847 <i>- He'll say<br />- He'll say</i>
+311195 314656 <i>- I'm wishing<br />- I'm wishing</i>
+314740 317534 <i>For the one I love</i>
+317660 321037 <i>- To find me<br />- To find me</i>
+321163 324874 <i>- Today<br />- Today</i>
+325709 327544 Hello.
+327670 329712 Did I frighten you?
+330506 332882 Wait! Wait, please.
+333592 335510 Don't run away.
+336220 339222 <i>Now that I've found you</i>
+339348 343601 <i>Hear what I have to say</i>
+344436 347105 <i>One song</i>
+347189 350775 <i>I have but one song</i>
+351569 356239 <i>One song only for you</i>
+358409 364372 <i>One heart tenderly beating</i>
+364874 368293 <i>Ever entreating</i>
+368711 372797 <i>Constant and true</i>
+373465 376384 <i>One love</i>
+376468 380263 <i>That has possessed me</i>
+380890 383766 <i>One love</i>
+383893 388438 <i>Thrilling me through</i>
+388564 391941 <i>One song</i>
+392067 396321 <i>My heart keeps singing</i>
+396405 399949 <i>Of one love</i>
+400784 405955 <i>Only for you</i>
+420512 422972 Take her far into the forest.
+423599 426309 Find some secluded glade
+426435 428937 where she can pick wildflowers.
+429313 431147 Yes, Your Majesty.
+431273 435026 And there, my faithful Huntsman,
+435653 437487 you will kill her!
+437613 440114 But, Your Majesty,<br />the little Princess!
+440199 441699 Silence!
+442284 445995 You know the penalty if you fail.
+447122 449624 Yes, Your Majesty.
+450376 452794 But to make doubly sure
+453462 455546 you do not fail,
+456966 460843 bring back her heart in this.
+469687 473356 <i>One song, I have but one song</i>
+488372 490081 Hello there.
+490332 492041 What's the matter?
+492668 494836 Where's your mama and papa?
+495337 497505 Why, I believe you're lost.
+498173 500049 Oh, please don't cry.
+505514 507515 Come on, perk up.
+508183 510184 Won't you smile for me?
+510686 512228 That's better.
+513397 515773 Your mama and papa can't be far.
+517943 519610 There they are!
+521613 523364 Can you fly?
+524408 527243 Good-bye. Good-bye!
+535377 537378 I can't, I can't do it.
+538213 542467 Forgive me.<br />I beg of Your Highness, forgive me.
+542885 544344 I don't understand!
+544428 547055 She's mad, jealous of you!<br />She'll stop at nothing!
+547139 549474 - But, but who?<br />- The Queen.
+549558 550558 - The Queen?<br />- Now, quick, child, run.
+551727 553061 Run away, hide!
+553145 556147 In the woods! Anywhere!<br />Never come back!
+556231 560109 Now, go. Go! Go!
+560652 564322 Run! Run! Hide!
+687446 689530 Please don't run away.
+690532 692283 I won't hurt you.
+694703 697872 I'm awfully sorry.<br />I didn't mean to frighten you.
+698373 701417 But you don't know<br />what I've been through.
+701543 704212 And all because I was afraid.
+704963 707882 I'm so ashamed of the fuss<br />I've made.
+709801 712470 What do you do<br />when things go wrong?
+714473 716891 You sing a song!
+745837 749882 <i>With a smile and a song</i>
+749967 753386 <i>Life is just like a bright,<br />sunny day</i>
+753470 756806 <i>Your cares fade away</i>
+757140 760601 <i>And your heart is young</i>
+762980 766816 <i>With a smile and a song</i>
+766942 770403 <i>All the world seems to waken anew</i>
+770487 773656 <i>Rejoicing with you</i>
+773782 776993 <i>As the song is sung</i>
+779329 781872 <i>There's no use in grumbling</i>
+781957 785334 <i>When raindrops come tumbling</i>
+785836 789964 <i>Remember you're the one</i>
+790507 795970 <i>Who can fill the world with sunshine</i>
+796555 799682 <i>When you smile and you sing</i>
+801143 804520 <i>Everything is in tune and it's spring</i>
+804646 808024 <i>And life flows along</i>
+808317 813195 <i>With a smile and a song</i>
+818327 820786 I really feel quite happy now.
+820871 823247 I'm sure I'll get along somehow.
+823665 826167 Everything's going to be all right.
+827336 830504 But I do need a place<br />to sleep at night.
+831757 834342 I can't sleep in the ground<br />like you
+835052 837345 or in a tree the way you do.
+838180 842016 And I'm sure no nest would possibly<br />be big enough for me.
+843268 845686 Maybe you know where I can stay.
+846188 848189 In the woods somewhere?
+849107 850441 You do?
+851610 853611 Will you take me there?
+898907 900616 Oh, it's adorable!
+902077 904161 Just like a doll's house.
+918427 920010 I like it here.
+931648 934775 Ooh, it's dark inside.
+945370 947455 Guess there's no one home.
+951042 952501 Hello?
+953128 954628 May I come in?
+983200 985242 What a cute little chair!
+987829 990331 Why, there's seven little chairs!
+990665 992917 Must be seven little children.
+993502 997546 And from the look of this table,<br />seven untidy little children.
+1000592 1003552 A pickaxe. A stocking too!
+1008225 1009892 And a shoe!
+1015065 1017650 And just look at that fireplace.
+1017734 1019610 It's covered with dust.
+1026910 1029411 And look, cobwebs everywhere!
+1030038 1032373 My, my, my!
+1032457 1034708 What a pile of dirty dishes!
+1037254 1039421 And just look at that broom!
+1042384 1045052 Why, they've never swept this room.
+1045929 1048389 You'd think their mother would...
+1048932 1051058 Maybe they have no mother.
+1052227 1053978 Then they're orphans.
+1054729 1056438 That's too bad.
+1057941 1059275 I know!
+1059401 1061902 We'll clean the house<br />and surprise them.
+1061987 1064405 Then maybe they'll let me stay.
+1070912 1073080 Now, you wash the dishes.
+1073456 1075416 You tidy up the room.
+1076084 1078377 You clean the fireplace.
+1078461 1080462 And I will use the broom.
+1087345 1089847 <i>Just whistle while you work</i>
+1092267 1096979 <i>And cheerfully together<br />we can tidy up the place</i>
+1097105 1099315 <i>So hum a merry tune</i>
+1101526 1106322 <i>It won't take long when there's a song<br />to help you set the pace</i>
+1106448 1108657 <i>And as you sweep the room</i>
+1108783 1110868 <i>Imagine that the broom</i>
+1110952 1116165 <i>Is someone that you love and soon<br />you'll find you're dancing to the tune</i>
+1116291 1120127 Oh, no, no, no, no!<br />Put them in the tub.
+1120211 1122671 <i>When hearts are high the time will fly</i>
+1122797 1125007 <i>So whistle while you work</i>
+1134517 1136352 Not under the rug.
+1266024 1268609 <i>So whistle while you work</i>
+1293301 1295594 <i>We dig, dig, dig, dig, dig, dig, dig</i>
+1295678 1297846 <i>In our mine the whole day through</i>
+1297972 1302559 <i>To dig, dig, dig, dig, dig, dig, dig<br />is what we like to do</i>
+1302644 1304812 <i>It ain't no trick to get rich quick</i>
+1304896 1307106 <i>If ya dig, dig, dig<br />with a shovel or a pick</i>
+1307190 1309525 <i>- In a mine<br />- In a mine</i>
+1309651 1311860 <i>- In a mine<br />- In a mine</i>
+1311986 1316657 <i>- Where a million diamonds<br />- Shine</i>
+1316741 1318826 <i>We dig, dig, dig, dig, dig, dig, dig</i>
+1318910 1321161 <i>From early morn 'til night</i>
+1321246 1325874 <i>We dig, dig, dig, dig, dig, dig, dig<br />up everything in sight</i>
+1326000 1328377 <i>We dig up diamonds by the score</i>
+1328503 1330629 <i>A thousand rubies,<br />sometimes more</i>
+1330713 1332923 <i>Though we don't know<br />what we dig 'em for</i>
+1333007 1335259 <i>We dig, dig, dig-a-dig, dig</i>
+1364038 1367082 <i>Heigh-ho</i>
+1367709 1370711 <i>Heigh-ho</i>
+1371212 1373338 <i>Heigh-ho, heigh-ho</i>
+1373423 1375841 <i>Heigh-ho</i>
+1375925 1380262 <i>Heigh-ho, heigh-ho,<br />it's home from work we go</i>
+1382974 1385350 <i>Heigh-ho, heigh-ho! Heigh-ho</i>
+1385435 1390147 <i>Heigh-ho, heigh-ho,<br />it's home from work we go</i>
+1392317 1394443 <i>Heigh-ho, heigh-ho</i>
+1401743 1406580 <i>Heigh-ho, heigh-ho<br />Heigh-ho, heigh-ho</i>
+1406664 1410959 <i>Heigh-ho, heigh-ho! Heigh-ho...</i>
+1411085 1415839 <i>Heigh-ho, heigh-ho,<br />it's home from work we go</i>
+1418134 1420302 <i>Heigh-ho, heigh-ho! Heigh-ho</i>
+1420428 1424640 <i>Heigh-ho, heigh-ho,<br />it's home from work we go</i>
+1427435 1429645 <i>Heigh-ho, heigh-ho! Heigh-ho</i>
+1429771 1434274 <i>Heigh-ho, heigh-ho,<br />it's home from work we go</i>
+1436611 1443116 <i>Heigh-ho, heigh-ho, heigh-ho,<br />heigh-ho, heigh-ho, heigh-ho...</i>
+1454545 1456713 Let's see what's upstairs.
+1480321 1482531 Oh, what adorable little beds!
+1484575 1487828 And look,<br />they have their names carved on them.
+1488371 1490872 Doc, Happy,
+1490999 1492666 Sneezy, Dopey...
+1493209 1495502 What funny names for children!
+1495878 1499298 Grumpy, Bashful and Sleepy.
+1500967 1503302 I'm a little sleepy myself.
+1533541 1537377 <i>Heigh-ho, heigh-ho</i>
+1538087 1542549 <i>Heigh-ho, heigh-ho</i>
+1543009 1547679 <i>Heigh-ho, heigh-ho,<br />it's home from work we go</i>
+1550016 1552267 <i>Heigh-ho, heigh-ho! Heigh-ho</i>
+1552393 1557064 <i>Heigh-ho, heigh-ho,<br />it's home from work we go</i>
+1568701 1570994 <i>Heigh-ho, heigh-ho! Heigh-ho</i>
+1571079 1575749 <i>Heigh-ho, heigh-ho,<br />it's home from work we go</i>
+1578086 1580337 <i>Heigh-ho, heigh-ho</i>
+1580421 1584925 <i>Heigh-ho, heigh-ho,<br />it's home from work we go</i>
+1587428 1589012 <i>Heigh-ho, heigh-ho, heigh-ho, heigh...</i>
+1589097 1590389 Look!
+1592100 1595268 Our house! The lit's light...<br />The light's lit.
+1601109 1602776 Jiminy Crickets!
+1603611 1605362 - The door is open.<br />- The chimney's smoking.
+1605446 1606947 - Something's in there.<br />- Maybe a ghost.
+1607073 1608615 - Or a goblin.<br />- A demon.
+1608741 1610117 Or a dragon.
+1610660 1613662 Mark my words,<br />there's trouble a-brewin'.
+1614330 1617165 Felt it coming all day.<br />My corns hurt.
+1618126 1619960 - Gosh!<br />- That's a bad sign.
+1620086 1622087 - What'll we do?<br />- Let's sneak up on it.
+1622171 1624923 Yes. We'll squeak up...<br />Sneak up.
+1625007 1627467 Come on, hen... Men.<br />Follow me.
+1675683 1678727 Careful, men.<br />Search every cook and nanny...
+1678853 1681188 Hook and granny...<br />Crooked fan...
+1681314 1683023 Search everywhere.
+1703836 1705045 Quiet.
+1709217 1712385 Look!<br />The floor, it's been swept!
+1716724 1718558 Chair's been dusted!
+1718893 1721394 Our window's been washed.
+1721521 1724272 Gosh, our cobwebs are missing.
+1724398 1727567 Why, why, why, why,<br />the whole place is clean!
+1728236 1730445 There's dirty work afoot.
+1731697 1733573 Sink's empty.
+1733699 1736576 Hey, someone stole our dishes!
+1737203 1740288 They ain't stole.<br />They're hid in the cupboard.
+1742458 1744376 My cup's been washed.
+1745086 1746711 Sugar's gone.
+1749048 1750924 Something's cooking.
+1751926 1753593 Smells good!
+1753719 1756888 Don't touch it, you fools!<br />Might be poison.
+1760643 1763144 See? It's witches' brew.
+1764647 1767607 Look what's happened<br />to our stable... Table.
+1768651 1770110 Flowers!
+1770486 1773071 Look, goldenrod.
+1773155 1776783 Don't do it. Take them away.<br />My nose! My hay fever!
+1777076 1780954 You know I can't stand it.<br />I can't... I can't... I...
+1788296 1789504 Thanks!
+1796512 1797804 Hey!
+1804145 1807480 Ya crazy fool!<br />Fine time you picked to sneeze!
+1807607 1810317 I couldn't help it.<br />I can't tell.
+1810443 1813862 When you gotta, you gotta.<br />I... I... I gotta.
+1815156 1816698 It's coming.
+1819493 1820744 - Don't let him.<br />- Stop him.
+1823331 1824914 - No, tie it tight.<br />- Don't let go.
+1824999 1826374 - Hold him tight.<br />- I'll tie it.
+1826500 1827917 Make a hard knot.
+1828002 1830128 There, that will hold him.
+1831505 1833173 Thanks!
+1833299 1836509 Quiet, you fool!<br />You want to get us all killed?
+1843184 1845018 - What's that?<br />- That's it.
+1845144 1848855 - Sounded close.<br />- It's in this room right now.
+1871337 1874714 - It's up there.<br />- Yeah. In the bedroom.
+1876676 1880053 One of us has gotta go down<br />and chase it up.
+1880846 1882263 Up. Down.
+1900449 1902242 Here, take it.
+1903577 1905245 Don't be nervous.
+1921887 1924931 Don't be afraid.<br />We're right behind you.
+1925057 1927142 Yes! Right behind ya.
+1969143 1970852 Here it comes!
+1981322 1982489 - It's after us.<br />- Don't let it out.
+1982615 1984157 Hold it shut.
+1996128 1997378 - Here it comes.<br />- Now's our chance.
+1997505 1998588 Get it now!
+1998672 1999964 - Quick!<br />- Give it to it!
+2000049 2002050 Don't let it get away!
+2005346 2008139 Hold on there. It's only Dopey.
+2008224 2010058 - Did you see it?<br />- How big is it?
+2010184 2012685 - Was it a dragon?<br />- Has it got horns?
+2012812 2014979 - Was it breathing fire?<br />- Was it droolin'?
+2015064 2016898 What was it doin'?
+2021028 2024405 He says it's a,<br />a monster asleep in our beds!
+2025199 2026449 - Let's attack.<br />- While it's sleeping.
+2026534 2027575 Yeah, while it's sleeping.
+2027701 2030036 - Hurry, men. It's now or never!<br />- Off with its head.
+2030162 2031663 - Break its bones.<br />- Chop it to pieces.
+2031747 2033498 We'll kill it dead.
+2060568 2062318 - Jiminy Crickets!<br />- Gosh!
+2062403 2064195 - Gee!<br />- What a monster!
+2064280 2065864 It covers three beds.
+2066574 2068575 Let's kill it before it wakes up.
+2068701 2070535 Which end do we kill?
+2098731 2100440 Well...
+2101275 2104944 - What is it?<br />- Why, it... It's a girl!
+2106488 2108781 She's mighty purdy.
+2108908 2113453 She's beautiful, just like a angel.
+2114413 2116956 Angel, hah! She's a female!
+2117082 2120960 And all females is poison!<br />They're full of wicked wiles.
+2122254 2124130 What are wicked wiles?
+2124256 2126633 I don't know. But I'm agin 'em.
+2128135 2130136 Not so loud. You'll wake her up.
+2130262 2133306 Let her wake up!<br />She don't belong here nohow.
+2133599 2134849 - Look out.<br />- She's movin'.
+2134975 2137018 - She's wakin' up.<br />- What'll we do?
+2137144 2138478 Hide.
+2142316 2144484 Oh, dear.
+2146153 2148655 I wonder if the children are...
+2159375 2162001 Why, why, you're little men!
+2167508 2169342 How do you do?
+2173639 2177517 - I said, how do you do?<br />- How do you do what?
+2177851 2180895 Oh, you can talk! I'm so glad!
+2181689 2184649 Now, don't tell me who you are.<br />Let me guess.
+2185651 2187652 I know, you're Doc.
+2187903 2191531 Why, why, why, yes.<br />Yes! That's true.
+2192241 2195535 And you're, you're Bashful.
+2196036 2199038 Oh, gosh!
+2201583 2203918 And you, you're Sleepy.
+2204044 2206045 How'd you guess?
+2208382 2210049 And you?
+2212553 2214262 And you're Sneezy.
+2219268 2222729 - Yes, and you must be...<br />- Happy, ma'am. That's me.
+2222855 2225690 And this is Dopey. He don't talk none.
+2225774 2229402 - You mean he can't talk?<br />- He don't know. He never tried.
+2229528 2231904 Oh, that's too bad.
+2237619 2239704 You must be Grumpy.
+2240581 2242457 Oh, yes! Yes!
+2243250 2245918 Hah! We know who we are.
+2246045 2249255 Ask her who she is<br />and what she's a-doin' here.
+2249381 2252133 Yeah!<br />What are you and who are you doin'?
+2252259 2255344 What are you... Who are you, my dear?
+2255429 2258014 Oh, how silly of me. I'm Snow White.
+2258098 2259891 - Snow White?<br />- The Princess?
+2259975 2261100 Yes.
+2261602 2265646 Well... Well, my,<br />my dear Quincess... Princess.
+2265773 2268191 We're, we're honored.<br />Yes, we're, we're...
+2268275 2271319 - Mad as hornets!<br />- Mad as hornets! No, no, we're not.
+2271445 2275156 We're bad as cornets...<br />No, no, as bad as... What was I sayin'?
+2275282 2277450 Nothing! Just standin' there<br />sputterin' like a doodlebug!
+2277576 2280244 Who, who, who,<br />who's butterin' like a spoodledug?
+2280329 2284123 - Who's... Gutter...<br />- Shut up and tell her to get out!
+2284792 2286709 Please don't send me away!
+2286794 2288878 - If you do, she'll kill me.<br />- Kill you?
+2288962 2290129 - Who will?<br />- Yes, who?
+2290255 2292215 - My stepmother, the Queen.<br />- The Queen?
+2292299 2293841 - She's wicked!<br />- She's bad!
+2293967 2297011 - She's mighty mean!<br />- She's an old witch!
+2297137 2298679 I'm warnin' ya.
+2299139 2300598 If the Queen finds her here,
+2300682 2304143 she'll swoop down<br />and wreak her vengeance on us!
+2304686 2306813 But she doesn't know where I am!
+2306939 2309816 She don't, eh? She knows everything.
+2310442 2312485 She's full of black magic.
+2312986 2315655 She can even make herself invisible.
+2317783 2320493 Might be in this room right now.
+2325124 2327333 Oh, she'll never find me here.
+2327793 2330962 And if you let me stay,<br />I'll keep house for you.
+2331046 2333673 I'll wash and sew<br />and sweep and cook and...
+2333799 2334966 Cook?
+2335050 2337635 Can you make dapple lumpkins...<br />Lumple dapplins?
+2337719 2340263 - Apple dumplings!<br />- Eh, yes!
+2340347 2341973 Crapple dumpkins.
+2342057 2344225 Yes, and plum pudding<br />and gooseberry pie...
+2344351 2347520 Gooseberry pie? Hooray! She stays!
+2369710 2371127 Soup!
+2371211 2372670 Hooray!
+2389730 2391397 Just a minute.
+2392774 2396444 Supper's not quite ready.<br />You'll just have time to wash.
+2397404 2399363 Wash? Wash?
+2399448 2403034 - Wash? Wash? Wash?<br />- Hah! Knew there was a catch to it.
+2405537 2408706 - Why wash?<br />- What for? We ain't goin' nowhere.
+2408790 2410791 'Tain't New Year's.
+2411585 2414003 Oh, perhaps you have washed.
+2414087 2415713 Perhaps we...
+2416256 2420927 - Yes! Perhaps we have.<br />- But when?
+2421470 2424472 When? When. You said whe...
+2425057 2429477 Why, last week. Why, recently!
+2431772 2433731 Yes, recently!
+2434608 2437235 Oh, recently!
+2438445 2440613 Let me see your hands.
+2447162 2449121 Let me see your hands!
+2454753 2457797 Why, Doc, I'm surprised!
+2461677 2463803 Come on, let's see them.
+2464596 2468015 Oh, Bashful, my, my, my!
+2468600 2469934 And you?
+2473772 2475606 Worse than I thought!
+2479653 2481279 How shocking!
+2483824 2486367 Goodness me, this will never do.
+2488328 2492498 March straight outside and wash,<br />or you'll not get a bite to eat.
+2528076 2530995 Well, aren't you going to wash?
+2532998 2535875 What's the matter?<br />Cat got your tongue?
+2546720 2548721 Did you hurt yourself?
+2560776 2562735 Hah, women!
+2564613 2566530 Courage, men, courage.
+2567240 2569742 Don't be nervous.
+2573580 2575247 Gosh, it's wet!
+2577417 2578918 It's cold too!
+2579586 2581670 We ain't gonna do it, are we?
+2581755 2584590 Well, it'll please the Princess.
+2585258 2587051 I'll take a chance for her!
+2587135 2588427 Me too!
+2588887 2591806 Her wiles are beginnin' to work.
+2592474 2595017 But I'm warnin' ya,<br />you give 'em an inch,
+2595102 2597311 and they'll walk all over ya!
+2597437 2600898 Don't listen to that old warthog.<br />Come on now, men.
+2600982 2604151 - How hard do ya scrub?<br />- Will our whiskers shrink?
+2604277 2605569 Do ya get in the tub?
+2605654 2608155 Do ya have to wash<br />where it doesn't show?
+2608281 2611409 Now, now, now, don't get excited.<br />Here we go.
+2611493 2614328 <i>Step up to the tub,<br />'tain't no disgrace</i>
+2614454 2617248 <i>Just pull up your sleeves<br />and get 'em in place</i>
+2617332 2621001 <i>Then scoop up the water<br />and rub it on your face and go...</i>
+2623964 2626924 <i>Pick up the soap,<br />now don't try to bluff</i>
+2627008 2629427 <i>Work up a lather<br />and when you got enough</i>
+2629511 2633639 <i>Get your hands full of water<br />and you snort and you snuff and go...</i>
+2635684 2638519 <i>You douse and you souse,<br />rub and you scrub</i>
+2638645 2641480 <i>You sputter and splash<br />all over the tub</i>
+2641815 2644358 <i>You may be cold<br />and wet when you're done</i>
+2644484 2647319 <i>But you gotta admit<br />it's good and clean fun</i>
+2647446 2650281 <i>So splash all you like,<br />'tain't any trick</i>
+2650365 2653784 <i>As soon as you're through<br />you'll feel mighty slick</i>
+2653869 2657496 Bunch of old nanny goats.<br />Ya make me sick going...
+2672679 2674722 Next thing ya know
+2674848 2677975 she'll be tyin' your beards up<br />in pink ribbons
+2678059 2682521 and smellin' ya up with<br />that stuff called perfoom.
+2708882 2712343 A fine bunch of water lilies<br />you turned out to be.
+2713762 2717431 I'd like to see anybody<br />make me wash if I didn't wanna.
+2749422 2750881 Get him!
+2752300 2754134 Hey, let go of me!
+2754261 2756845 Get him over to the tub.<br />Get him over to the tub.
+2756930 2759014 Let me loose, you fools!<br />Let me loose!
+2759099 2761976 Get him up on the tub. Get him up!<br />Hang on to him! Bang him! Pound him!
+2762102 2764562 Get him up on the tub! On the tub.<br />That's the tub. That's the tub.
+2764646 2769441 Don't, don't, don't, don't get excited!<br />Don't get... Don't get up... Don't get...
+2774406 2775948 Get the soap!
+2785125 2788627 - Hey, steady, men.<br />- We'll get him there. We'll get him.
+2796595 2798762 Never say die. Never say die.
+2798847 2800347 You don't...
+2821786 2824330 <i>Now, scrub good and hard,<br />it can't be denied</i>
+2824456 2826957 <i>That he'll look mighty cute<br />as soon as he's dried</i>
+2827042 2831128 <i>Well, it's good for the soul,<br />and it's good for the hide to go...</i>
+2846853 2848354 Ain't he sweet?
+2849314 2851190 Smells like a petunia.
+2851983 2853651 He sure is cute!
+2854736 2857029 You'll pay dearly for this!
+2857364 2858864 Supper!
+2860200 2862993 - Supper!<br />- Food. Hooray!
+2884849 2887476 Magic Mirror on the wall,
+2887560 2890896 who now is the fairest one of all?
+2891940 2894858 Over the seven jeweled hills
+2894943 2897486 beyond the seventh fall,
+2897570 2900072 in the cottage of the seven dwarfs
+2900532 2904868 dwells Snow White, fairest one of all.
+2905787 2909998 Snow White lies dead in the forest.
+2910083 2912751 The Huntsman has brought me proof.
+2913753 2916255 Behold her heart.
+2917257 2919758 Snow White still lives,
+2919884 2921969 the fairest in the land.
+2922762 2926807 'Tis the heart of a pig<br />you hold in your hand.
+2927642 2929435 The heart of a pig!
+2930103 2932104 Then I've been tricked!
+2955462 2957504 The heart of a pig!
+2958339 2960132 The blundering fool!
+2960842 2963927 I'll go myself to the dwarfs' cottage
+2964012 2966930 in a disguise so complete
+2967015 2970476 no one will ever suspect.
+2972479 2977691 Now, a formula to transform<br />my beauty into ugliness,
+2978359 2982154 change my queenly raiment<br />to a peddler's cloak.
+2984199 2986992 Mummy dust to make me old.
+2988328 2991455 To shroud my clothes,<br />the black of night.
+2995460 3000214 To age my voice, an old hag's cackle.
+3007722 3011683 To whiten my hair, a scream of fright.
+3015688 3017856 A blast of wind
+3018650 3021401 to fan my hate!
+3022904 3025155 A thunderbolt
+3027033 3029201 to mix it well.
+3030912 3032246 Now,
+3033248 3036375 begin thy magic spell.
+3059732 3061066 Look!
+3062026 3063402 My hands!
+3069409 3070742 My voice!
+3072579 3073954 My voice.
+3078126 3081086 A perfect disguise.
+3085425 3087092 And now...
+3088595 3091096 A special sort of death
+3091723 3093765 for one so fair.
+3094767 3096435 What shall it be?
+3099439 3101648 A poisoned apple!
+3101983 3104484 Sleeping Death.
+3165838 3167798 <i>I'd like to dance and tap my feet</i>
+3167882 3169800 <i>But they won't keep in rhythm</i>
+3169884 3173929 <i>You see, I washed 'em both today<br />and I can't do nothin' with 'em</i>
+3174013 3177933 <i>Ho-hum, the tune is dumb,<br />the words don't mean a thing</i>
+3178017 3181687 <i>Isn't this a silly song<br />for anyone to sing?</i>
+3194075 3195367 I...
+3201499 3203583 Oh, gosh!
+3208506 3212342 <i>I chased a polecat up a tree,<br />way out upon a limb</i>
+3212427 3216555 <i>And when he got the best of me,<br />I got the worst of him</i>
+3216681 3220559 <i>Ho-hum, the tune is dumb,<br />the words don't mean a thing</i>
+3220685 3224438 <i>Isn't this a silly song<br />for anyone to sing?</i>
+3294884 3297552 Watch out. Be ca... Watch... Watch...
+3297678 3299638 Watch... Watch...
+3302725 3304059 Thanks.
+3348688 3352607 Hey! Hey! Hey! Hey!
+3352692 3354568 Hey! Hey!
+3362743 3364202 Hooray!
+3403242 3404993 That was fun!
+3405077 3406828 Now you do something.
+3406913 3408538 Well, what shall I do?
+3409081 3412167 - Tell us a story.<br />- Yes, tell us a story.
+3412251 3415253 - A true story.<br />- A love story.
+3415755 3419341 Well, once there was a princess.
+3419759 3422010 Was the princess you?
+3422094 3425180 - And she fell in love.<br />- Was it hard to do?
+3425264 3427474 Oh, it was very easy.
+3427600 3430810 Anyone could see that the Prince<br />was charming.
+3431437 3433021 The only one for me.
+3433105 3435690 Was he strong and handsome?
+3435775 3437525 Was he big and tall?
+3437610 3441363 There's nobody like him<br />anywhere at all.
+3441447 3443490 Did he say he loved ya?
+3443616 3445617 Did he steal a kiss?
+3445701 3448870 <i>He was so romantic</i>
+3449705 3453875 <i>I could not resist</i>
+3463386 3469140 <i>Some day my prince will come</i>
+3470059 3474980 <i>Some day we'll meet again</i>
+3475690 3481653 <i>And away to his castle we'll go</i>
+3482530 3486032 <i>To be happy forever</i>
+3486158 3488243 <i>I know</i>
+3492206 3497585 <i>Some day when spring is here</i>
+3498504 3503758 <i>We'll find our love anew</i>
+3504593 3509431 <i>And the birds will sing</i>
+3510516 3515270 <i>And wedding bells will ring</i>
+3516772 3522193 <i>Some day when my dreams</i>
+3522862 3526239 <i>Come true</i>
+3538878 3540837 Oh, my goodness!
+3540921 3542839 It's past bedtime.
+3542923 3544924 Go right upstairs to bed.
+3547261 3549554 Wait! Hold on there, men!
+3551307 3555643 The Princess will sleep<br />in our beds upstairs.
+3555728 3557270 But where will you sleep?
+3557396 3562150 Oh, we'll be quite comfortable<br />down here in... in...
+3562234 3563401 In a pig's eye!
+3563486 3566654 In a pig's eye... Sty.<br />No, no! I mean...
+3566739 3569449 We'll be comfortable, won't we, men?
+3569992 3572619 Oh, yes. Mighty comfortable.
+3572745 3575622 Now don't you worry about us.
+3575748 3580752 - We'll be all right, ma'am.<br />- Go right on up now, my dear.
+3580836 3583088 Well, if you insist.
+3585091 3586633 Good night.
+3586759 3588593 Good night, Princess.
+3591806 3593556 You're sure you'll be comfortable?
+3593641 3596935 Oh, yes. Very comfortable.
+3598020 3600021 Well, pleasant dreams.
+3600940 3603024 Pleasant dreams.
+3608197 3609239 Let go!
+3609323 3611157 - I saw it first!<br />- Now, men, don't get excited.
+3611283 3613576 Remember, share.<br />It's share and share alike.
+3613661 3615995 Look out, it'll rip. It'll rip!
+3630302 3633847 Bless the seven little men<br />who have been so kind to me.
+3634723 3638393 And... And may my dreams come true.
+3638978 3640145 Amen.
+3641647 3644566 Oh, yes!<br />And please make Grumpy like me.
+3645734 3647402 Women!
+3653325 3655743 A fine kettle of fish!
+3759932 3762517 Dip the apple in the brew.
+3763352 3766980 Let the Sleeping Death seep through!
+3777783 3780702 Look! On the skin!
+3781287 3784872 The symbol of what lies within.
+3785624 3790211 Now, turn red to tempt Snow White.
+3790629 3793047 To make her hunger for a bite.
+3796343 3797969 Have a bite?
+3801140 3803182 It's not for you.
+3803642 3805560 It's for Snow White.
+3806687 3809314 When she breaks the tender peel
+3809815 3812150 to taste the apple in my hand,
+3812526 3815987 her breath will still,<br />her blood congeal.
+3816572 3819907 Then I'll be fairest in the land!
+3822703 3824162 But wait!
+3825748 3828082 There may be an antidote.
+3828167 3830335 Nothing must be overlooked.
+3832755 3835089 Oh, here it is!
+3845517 3847935 Love's First Kiss.
+3849938 3851773 No fear of that.
+3852274 3854734 The dwarfs will think she's dead.
+3855361 3858363 She'll be buried alive!
+3869792 3872418 Buried alive!
+3884139 3885473 Thirsty?
+3886100 3887642 Have a drink!
+3948162 3949871 Now, don't forget, my dear.
+3949955 3952623 The... The old Queen's a sly one,
+3953125 3954751 full of witchcraft.
+3954835 3957044 So beware of strangers.
+3957546 3960214 Don't worry. I'll be all right.
+3962718 3964385 See you tonight.
+3966305 3969223 Yes. We... Well, c'mon, men.
+3973729 3975396 Be awful careful
+3975898 3979233 'cause if anything'd happen to you, I, I...
+3979318 3983488 - Good-bye.<br />- Oh, gosh!
+3984865 3987492 Disgustin'!
+3988327 3991204 And be sure to watch out...<br />to wa... to wa...
+3991330 3992830 To wa...
+3993207 3994665 Watch out.
+3996084 3997376 Thanks.
+4026406 4028908 Well... All right.
+4031537 4033830 But that's the last...
+4035374 4037416 Oh, go on. Run along.
+4039086 4043256 <i>Heigh-ho, heigh-ho,<br />it's off to work we go</i>
+4045884 4046884 <i>Heigh-ho</i>
+4047010 4049095 Good-bye! Good-bye!
+4050722 4055017 Now I'm warnin' ya.<br />Don't let nobody or nothin' in the house.
+4055602 4058354 Why, Grumpy, you do care.
+4098270 4099979 Good-bye, Grumpy!
+4110824 4113951 The little men will be away
+4114077 4116579 and she'll be all alone
+4117122 4120625 with a harmless old peddler woman.
+4122920 4126130 A harmless old peddler woman!
+4136266 4141020 <i>Some day my prince will come</i>
+4141813 4146776 <i>Some day we'll meet again</i>
+4146860 4151697 <i>And away to his castle we'll go</i>
+4152658 4156869 <i>To be happy forever I know</i>
+4159665 4164460 <i>Some day when spring is here</i>
+4165212 4169382 <i>We'll find our love anew</i>
+4170008 4174053 <i>And the birds will sing</i>
+4175013 4179183 <i>And wedding bells will ring</i>
+4179851 4183646 <i>Some day when my dreams</i>
+4184398 4186899 <i>Come true</i>
+4194741 4197076 All alone, my pet?
+4198370 4200705 Why, why, yes, I am. But...
+4200831 4204417 The, the little men are not here?
+4205419 4207545 No, they're not, but...
+4211008 4212717 Making pies?
+4213927 4215678 Yes, gooseberry pies.
+4215762 4218014 It's apple pies
+4218098 4221392 that make the menfolks' mouths water.
+4222394 4226772 Pies made from apples like these.
+4229276 4231861 - Oh, they do look delicious.<br />- Yes!
+4231945 4235406 But wait 'til you taste one, dearie.
+4239953 4241787 Like to try one?
+4244124 4247293 Go on. Go on, have a bite.
+4254926 4257636 Stop it! Stop it! Go away! Go away!
+4257763 4260598 Shame on you,<br />frightening a poor old lady.
+4262225 4264310 Oh, I thought I'd lost it.
+4266396 4269106 There, there. I'm sorry.
+4269608 4272109 Oh! My heart!
+4272819 4275154 Oh, my... My poor heart.
+4276073 4279116 Take me into the house and let me rest.
+4279785 4282328 A drink of water, please.
+4313151 4314318 <i>Heigh-ho, heigh-ho</i>
+4314444 4318656 <i>Heigh-ho, heigh-ho,<br />it's off to work we go</i>
+4321368 4322993 <i>Heigh-ho, heigh-ho</i>
+4337717 4339385 Hey, look!
+4344391 4347643 - Stop that!<br />- Get away, boy. Get away! Go on, shoo!
+4347727 4349562 Go on! Get outta here!
+4354526 4356735 What ails these crazy birds?
+4357529 4358988 They've gone plumb daffy.
+4359072 4360906 Yeah, they've...
+4366496 4370833 And because you've been<br />so good to poor old Granny,
+4371418 4374044 I'll share a secret with you.
+4374588 4376714 This is no ordinary apple.
+4377215 4379425 It's a magic wishing apple.
+4380552 4382261 A wishing apple?
+4382387 4383721 Yes!
+4384222 4388767 One bite and all your dreams<br />will come true.
+4389227 4391854 - Really?<br />- Yes, girlie.
+4393106 4395024 Now, make a wish
+4395734 4397443 and take a bite.
+4397903 4400196 - Go on, get!<br />- These pesky critters won't stop.
+4400280 4401947 - 'Tain't natural.<br />- There's something wrong.
+4402073 4404909 They ain't actin' this way for nothin'.
+4405410 4408787 Maybe the old Queen's<br />got Snow White.
+4408914 4410581 - The Queen!<br />- Snow White!
+4410707 4413083 The Queen'll kill her!<br />We gotta save her!
+4413210 4415628 Yes! Yes!<br />We, we, we gotta save her!
+4415754 4417171 - She'll kill her!<br />- What'll we do?
+4417255 4419465 Yes, yes, what'll we do?
+4419591 4422801 Come on! Giddap!
+4432229 4434730 Wait for me! Wait for...
+4448954 4453165 There must be something<br />your little heart desires.
+4454125 4456627 Perhaps there's someone you love.
+4457254 4459213 Well, there is someone.
+4459297 4461674 I thought so. I thought so!
+4463176 4466553 Old Granny knows a young girl's heart.
+4466638 4469515 Now, take the apple, dearie,
+4469641 4471183 and make a wish.
+4473645 4476105 I wish... I wish...
+4476189 4478482 That's it, go on! Go on.
+4492205 4495207 And that he will carry me away<br />to his castle
+4496501 4499586 where we will live happily ever after.
+4499671 4502631 Fine! Fine! Now take a bite.
+4507053 4509305 Don't let the wish grow cold!
+4511057 4514059 Oh, I feel strange.
+4515020 4519148 Her breath will still.
+4520317 4523527 Her blood congeal.
+4534205 4537875 Now I'll be fairest in the land!
+4546259 4548052 Hurry, hurry.
+4553892 4555517 There she goes!
+4575455 4576914 After her!
+4606277 4609113 I'm trapped! What will I do?
+4609948 4612366 The meddling little fools!
+4617288 4621208 I'll fix ya. I'll fix ya.
+4621292 4625045 I'll fix ya!<br />I'll crush your bones!
+4626464 4628132 Look out!
+4756177 4759680 <i>- One song<br />- One song</i>
+4759764 4764268 <i>I have but one song</i>
+4764394 4766937 <i>- One song<br />- One song</i>
+4767063 4771775 <i>- Only for you<br />- For you</i>
+4771901 4774861 <i>One heart</i>
+4774946 4778615 <i>Tenderly beating</i>
+4778950 4782452 <i>Ever entreating</i>
+4783037 4788458 <i>- Constant and true<br />- So true</i>
+4788543 4791878 <i>- One love<br />- One love</i>
+4791963 4795966 <i>That has possessed me</i>
+4796593 4799553 <i>- One love<br />- One love</i>
+4799637 4804891 <i>- Thrilling me through<br />- So true</i>
+4804976 4808145 <i>- One song<br />- One song</i>
+4808271 4812774 <i>- My heart keeps singing<br />- Keeps singing</i>
+4813651 4818155 <i>- Of one love<br />- One love</i>
+4818781 4824661 <i>Only for you...</i>
+4851189 4856777 <i>And away to his castle you'll go</i>
+4857862 4862866 <i>To be happy forever we know</i>
+4901239 4902698 Good-bye.
+4906077 4907828 Good-bye, Grumpy.
+4908538 4910080 Good-bye.
+4917422 4919089 Oh, Dopey.
+4923094 4924720 Good-bye!
+4940945 4946199 <i>Some day when spring is here</i>
+4947076 4951955 <i>We'll find our love anew</i>
+4952081 4956209 <i>And the birds will sing</i>
+4956294 4960964 <i>And wedding bells will ring</i>
+4961048 4965218 <i>Some day when my dreams</i>
+4965303 4968597 <i>Come true!</i>

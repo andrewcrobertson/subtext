@@ -1,0 +1,374 @@
+8304 9632 Ready?
+9722 11097 Ready.
+28282 30570 Wait, Mom. Don't look.<br />Okay.
+36790 38747 Okay, Mom. You can look now.
+43213 45087 That's great.
+47008 48502 Stay here.
+59062 60472 Ouch.
+61105 62932 Stop that! No! Don't!
+63024 64399 Ouch.
+65151 67357 It's a fake knife. It's a fake.
+67445 69402 Ouch.<br />Okay.
+75327 76608 All right.
+78497 80288 You look great!
+80457 81951 - Thank you.<br />- Thank you.
+82042 83750 Thank you.
+92386 95221 Be back one hour after sundown. No later.
+100560 101805 'Bye.
+104814 106688 Gertie, come here. Come on.
+129713 131256 Trick or treat?
+136845 138387 Trick or treat?
+163288 165576 Home. Home.
+165665 168500 Home.
+173589 176127 Be back one hour after sunset. No later.
+176509 179178 I'll try as fast as I can, Mike.
+179261 181337 You got to cover me.
+184809 186931 Well, come on. Help me.
+187061 190512 We'll be waiting for you, Elliott.<br />So come back for sure.
+217340 220127 It's too bumpy. We'll have to walk from here!
+220301 222258 E.T!
+233731 236056 Not so high! Not so high!
+274854 276348 Don't crash, please.
+361438 363846 I really can't believe you did this.
+370072 373275 Your father's going to hear<br />about this one.
+380081 381540 Mexico.
+428336 429368 Boo!
+429921 431546 Trick or treat?
+443726 445137 Bull's-eye.
+449440 450685 Good shot.
+451984 453443 Where's Elliott?
+455780 458021 I'm asking you a question.
+459700 463912 Anyways, why would Elliott go to the forest?
+464413 467200 Why would he do such a thing?
+468542 470084 Get in the car.
+470919 472414 Get in the car, now.
+518215 520124 E.T., it's working.
+521719 523296 It's working!
+523554 524799 Home.
+526056 527515 You did it!
+528517 529928 It's working!
+530435 531846 Home.
+533397 536267 E.T., it's working!
+580401 582274 We have to go now, E.T.
+583237 584945 We're so late already.
+592329 594784 We have to go home now, E.T.
+601171 603210 You should give them some time.
+605925 607633 Ouch.
+615143 616969 You could be happy here.
+617103 619012 I could take care of you.
+619188 621513 I wouldn't let anybody hurt you.
+621607 623730 We could grow up together, E.T.
+629573 631281 Home.
+633118 634862 Home.
+667986 669528 Home.
+674909 676533 Home.
+711236 712516 E.T?
+716074 717272 E.T?
+724499 726824 How was he dressed when last seen?
+727668 729542 He was dressed as a...
+730713 732124 ...hunchback.
+732673 734049 Hunchback.
+735051 737968 Is there anything to indicate<br />that he might have run away?
+738054 740591 Any family problems or recent arguments?
+743976 746846 My husband and I just separated recently...
+747313 750812 ...and it hasn't been easy on the children,<br />but...
+751233 753558 My father's in Mexico.
+760033 761942 But run away, I...
+762494 764368 Where would he have gone?
+764538 765783 Elliott.
+765872 767664 Oh, Elliott!
+769042 771747 Don't ever do this again, Elliott!
+774130 776253 Oh, my. You're so hot.
+776925 779462 Run up and draw him a bath. Quick, Gert.
+780261 782218 Sorry I yelled at you.
+785641 788013 Thanks very much for all your trouble.
+788686 790429 Is he here?
+792773 795395 You've got to find him.<br />Where is he?
+796318 797943 In the forest.
+798612 800404 At the bald spot.
+801156 802864 You've got to find him.
+853666 854864 E.T!
+858587 859785 E.T!
+862800 864175 E.T!
+902797 904077 No!
+904382 905757 No!
+936162 938618 Mom, would you come with me?
+939165 940541 What is it?
+940625 942416 Mary, just come with me.
+942836 944413 Michael, what?
+944879 947915 - Mom, remember the goblin?<br />- What are you talking about?
+948007 950498 Swear the most excellent promise<br />you can make.
+950593 951921 Michael.
+958559 960053 That's terrific.
+966650 968144 Mom.
+974032 975657 We're sick.
+978078 980201 I think we're dying.
+983875 985951 Michael.<br />Mom, it's okay.
+987838 989166 Downstairs.
+989506 991629 He's not going to hurt you, Mom.
+992300 993581 He won't hurt you.
+993677 995384 Michael, get her downstairs.
+995470 997178 It's the man from the moon.
+997263 999256 The man from the moon!
+1003186 1005937 You don't know him! You don't know him!
+1010902 1012894 We can't leave him alone.
+1051816 1054058 This is my home!
+1102782 1104241 Home.
+1106202 1107317 Home.
+1147576 1151490 The Collagen Unit,<br />report to the Blue Level immediately.
+1185404 1187313 Does he sleep?<br />I don't know.
+1187406 1189446 What's the matter with Elliott?
+1190242 1192816 Have you noticed any sweating?<br />No.
+1193370 1196075 Has it lost hair?<br />He never had any hair.
+1196331 1198158 Are the children all right?
+1198250 1200871 Did it build or write anything?
+1200961 1202455 No.
+1202587 1206122 You say it has the ability<br />to manipulate its own environment?
+1207426 1210379 He's smart.<br />He communicates through Elliott.
+1210887 1213212 Elliott thinks its thoughts.
+1213306 1216841 No. Elliott feels his feelings.
+1221189 1223976 We've identified<br />his primary carrier protein.
+1224067 1225609 It's definitely not albumin.
+1225693 1228694 The testing shows no deficits<br />on FNF and HTS testing.
+1228780 1232824 EEG analysis shows complete coherence<br />and synchronization of brainwave activity...
+1232909 1234237 ...between subjects.
+1241459 1244958 There's no response at 20 per kilo.<br />Let's move to hypertonic saline.
+1245546 1247289 Cut five per kilo.
+1252261 1254419 You have no right to do this.
+1256181 1257675 You're scaring him.
+1258308 1259553 You're scaring him!
+1259643 1261054 Respiratory rate: 12.
+1261144 1263931 Good air entry<br />but decreased tidal volume on the boy.
+1264022 1267723 Put him on 025 liters by nasal cannula<br />and draw blood gas in 20 minutes.
+1267817 1270106 Temperature's dropped<br />from 20 to 17 degrees.
+1270195 1272520 Get a hypothermia blanket<br />and some rags.
+1272614 1274238 Leave him alone.
+1274324 1277989 Leave him alone. I can take care of him.
+1278286 1280409 ...and set me up for a 2D cardiac echo.
+1280496 1282489 Skin is cool and diaphoretic.
+1282582 1285583 He's not refusing at all.<br />He needs anatropic support.
+1285668 1287246 PH is down to 7.03.
+1287336 1291500 He's got a metabolic acidosis. It could be sepsis.
+1292216 1294588 We've drawn two sets of blood cultures.
+1294677 1297168 He needs broad spectrum coverage.
+1304937 1306265 Elliott.
+1309066 1310975 I've been to the forest.
+1312027 1313818 He shouldn't talk now.
+1314446 1316984 Well, he has to talk now, Major.
+1319618 1321491 Elliott, that machine...
+1321912 1324034 ...what does it do?
+1325540 1327616 The communicator?
+1329294 1331619 Is it still working?
+1332172 1334164 It's doing something.
+1335258 1336800 What?
+1337635 1339544 I really shouldn't tell.
+1340513 1342506 He came to me.
+1343015 1345008 He came to me.
+1346102 1348937 Elliott, he came to me, too.
+1350398 1353683 I've been wishing for this<br />since I was 10 years old.
+1354485 1356608 I don't want him to die.
+1357321 1360073 What can we do that we're not already doing?
+1361033 1363738 He needs to go home.
+1365454 1367696 He's calling his people...
+1369791 1372163 ...and I don't know where they are.
+1373211 1375334 He needs to go home.
+1376381 1380165 Elliott, I don't think<br />that he was left here intentionally.
+1383263 1386014 But his being here is a miracle, Elliott.
+1387684 1389510 It's a miracle...
+1390561 1393515 ...and you did the best that anybody could do.
+1396901 1398940 I'm glad he met you first.
+1408537 1409700 He's got DNA.
+1411290 1412701 He's got DNA.<br />DNA?
+1412791 1415543 He doesn't have four nucleotides like<br />we do. He has six.
+1415627 1418747 I've got de-synchronization<br />of the two brain wave activities.
+1421175 1422170 E.T!
+1422259 1425710 The boy's condition is stabilizing.<br />Blood pressure's back up.
+1426847 1428638 E.T.
+1429975 1431599 Elliott.
+1432310 1434184 He's speaking.<br />He's talking.
+1434271 1435848 E. T...
+1436523 1438100 ...stay with me.
+1439943 1441188 Please.
+1441277 1443069 Stay.
+1443363 1444691 Together.
+1446115 1448357 I'll be right here.
+1448785 1450777 I'll be right here.
+1453498 1455075 Stay...
+1456459 1459294 ...Elliott.
+1460838 1462416 Stay.
+1464383 1465842 Stay.
+1469555 1471013 Stay.
+1473142 1474387 Stay.
+1474643 1478012 The creature's pressure is bottoming out.<br />His complexes are slow.
+1478105 1479729 How's the boy?
+1480399 1483020 He's converting back to normal sinus rhythm.
+1484778 1487814 They're separating.<br />Boy and creature are separating.
+1487906 1491441 What does that mean?<br />Boy's coming back. We're losing E.T.
+1491534 1494405 E.T., answer me, please.
+1495830 1497408 Please.
+1497832 1499113 Just relax.
+1566691 1567805 No!
+1567900 1569442 E.T., don't go!
+1569777 1572897 - No blood pressure.<br />- He's got no pulse or respiration.
+1574782 1579159 We can't get a pulse or blood pressure.<br />He's not breathing.
+1582289 1585872 Leave him alone! You're killing him!
+1586084 1587662 Leave him alone!
+1587753 1589580 Let's move it!
+1589838 1591878 Get the boy out.
+1592049 1595500 Stop it! You're killing him!<br />You're killing him!
+1597596 1600513 You're killing him! You're killing him!
+1601057 1604391 You're killing him! He came to me!
+1604477 1606102 Any pulses?
+1606688 1608561 He came to me!
+1614028 1615653 Minimal breath sounds.
+1616072 1619571 Calm down. Calm.
+1621244 1624410 Let's try some bretylium.<br />Can we have some bretylium?
+1626207 1627749 Getting a pulse?
+1627833 1630324 Compressed air. Compressed air's fine.
+1635966 1639002 His pupils are fixed and dilated.
+1639928 1641802 Defibrillate him.
+1646476 1648848 Everybody, stand clear.<br />Clear.
+1648937 1650645 We're losing him.
+1653400 1654775 Quiet.
+1655277 1657649 It's still defib.<br />Okay, let's go.
+1657737 1659279 Let's go. Let's go.
+1665829 1667157 Elliott?
+1668915 1670160 Mom.
+1684096 1685923 Let's continue CPR, please.
+1701530 1703439 Would you people stand back?
+1708537 1710280 Something's happening.
+1711039 1713530 - They're going to die.<br />- Shut up, Greg.
+1713625 1715534 Something is definitely happening.
+1715627 1717454 Anybody have any ideas?
+1717629 1720380 EKG's flat.<br />I'm going to call it.
+1722717 1725006 - I think he's dead.<br />- No. I don't know.
+1725094 1727799 I'm calling it. What time do you have?<br />15:36.
+1728056 1730214 15 hours, 36 minutes.
+1730808 1732267 Okay.
+1732810 1734518 Let's pack him in ice.
+1735688 1737348 Let's leave.
+1803712 1805752 Is he dead, Mama?
+1806215 1808041 I think so, sweetheart.
+1808467 1811384 Can we wish for him to come back?
+1812596 1814138 Yeah.
+1814556 1816098 I wish.
+1816850 1818428 I wish, too.
+1827944 1831147 Come on, Gert.<br />We'll wait for Elliott in the front room.
+1833741 1838035 Cardiac arrest was terminated<br />at 1500 hours and 36 minutes.
+1838621 1840993 He received intravenous lidocaine...
+1841082 1843833 ...intravenous epinephrine, a lidocaine drip...
+1844335 1846873 ...2.7 percent sodium-chloride solution...
+1847046 1849085 ...catheters from the "A" line.
+1850716 1853088 The intravenous line should be sent for culture.
+1853177 1855882 He was monitored with a...
+1855971 1860882 ...EEG and an EKG, he was defibrillated...
+1860976 1863681 They're going to have to take him away now.
+1863771 1866178 They'll just cut him all up.
+1868567 1871437 Would you like<br />to spend some time alone with him?
+1886793 1889959 Could we all step out for a minute,<br />please?
+1944182 1946554 Look at what they've done to you.
+1949520 1951477 I'm so sorry.
+1956819 1958776 You must be dead...
+1960906 1962449 ...because...
+1962533 1965368 ...I don't know how to feel.
+1968831 1970989 I can't feel anything anymore.
+1974336 1976708 You've gone someplace else now.
+1985013 1987421 I'll believe in you all my life.
+1989100 1990725 Every day.
+1995523 1996804 E. T...
+2000320 2001814 ...I love you.
+2033560 2035304 Oh, my God.
+2041443 2043519 E.T. Phone home.
+2045947 2047739 Phone home.
+2047824 2049318 Phone home.
+2049409 2051532 Does this mean they're coming?
+2051703 2053078 Yes.
+2055707 2058743 E.T. Phone home. E.T. Phone home.
+2059043 2060241 Stay.
+2060378 2062121 Shut up.
+2062296 2063292 Phone.
+2063381 2065338 - Phone home.<br />- Quiet!
+2065466 2066877 Phone! Phone!
+2066968 2068759 Would you shut up?
+2068844 2071133 Phone home. E.T. Phone home.
+2071222 2073973 E.T. Phone home.
+2075601 2077060 Phone home.
+2077186 2078300 Phone home.
+2078604 2079932 Elliott.
+2081565 2082763 Stay.
+2082858 2084269 Stay.
+2099082 2102036 Elliott, why don't you come with me?<br />No.
+2103712 2105585 No.
+2109134 2110414 It's all right.
+2111511 2113302 Would you like the flowers?
+2117683 2120091 He's alive! He's alive!
+2121896 2124138 He's glowing right here.
+2134783 2136741 Are they gone, Mama?
+2136869 2139490 - Who's gone, honey?<br />- The boys.
+2139580 2140825 What boys?
+2141415 2144499 I'm supposed to give you<br />this note when they're gone.
+2146420 2148211 Give it to me now, Gertie.
+2155762 2157387 Oh, my God.
+2166439 2168348 Give me a hand with this.
+2176532 2178691 - Where's your mask?<br />- Back here.
+2178826 2180902 Well, get it on!<br />I'm trying!
+2188544 2190038 Who are you?
+2190129 2191753 I'm driving.
+2193382 2194959 Open the door, son.
+2195050 2199379 - There's a guy out here. What do I do?<br />- What are you waiting for? Let's go!
+2200222 2202049 Let's get out of here!
+2202266 2205136 I've never driven forward before!
+2213777 2217359 Get the bikes. Meet us at the playground<br />at the top of the hill.
+2217447 2218562 Let's do it!
+2219699 2221241 Come on, Michael!
+2238843 2242093 We'll all die, and they'll never give me my license.
+2245057 2246516 Where's the playground?
+2246600 2248474 It's near the preschool!
+2248727 2251099 - Where's that?<br />- I don't know streets.
+2251188 2253181 Mom always drives me.
+2253565 2254894 Son of a bitch.
+2281134 2284467 - Where are you going?<br />- To the spaceship.
+2285012 2288381 To the spaceship to the moon.
+2288474 2290016 Quiet!
+2291310 2292804 Oh, my God.
+2293854 2296226 Stop the van!
+2299360 2300984 Don't pull them off!
+2314249 2315578 That did it!
+2364381 2366954 Okay. He's a man from outer space...
+2367092 2369464 ...and we're taking him to his spaceship.
+2369553 2371878 Well, can't he just beam up?
+2371972 2374011 This is reality, Greg.
+2375892 2377552 Keep her back!<br />No!
+2377644 2381642 Hold her back!
+2381731 2384483 No!
+2384567 2386026 Where are they?
+2386319 2388027 There's nobody here.
+2395620 2397030 Where are we going?
+2397121 2398663 To the forest!
+2401792 2403121 Follow me!
+2435575 2437484 We got them at the bottom of the hill.
+2453593 2455003 This is Unit 302.
+2455094 2457929 We've cut the kids off at the bottom of the hill.
+2483330 2484741 Let's split up.
+2485248 2486328 Okay!
+2494549 2496127 Hang on!
+2516862 2518440 We made it! Oh, shit!
+2557318 2559311 Tell me when it's over!
+2632016 2633474 Home.
+2681397 2683188 Stop the car, Mama!
+2683274 2684602 They're over there!
+2684692 2686400 They're over there!
+2701959 2705043 I just wanted to say goodbye.
+2706713 2708587 He doesn't know goodbye.
+2710926 2713333 Be good.
+2714596 2715876 Yes.
+2743707 2745250 Thank...
+2745626 2747334 ...you.
+2748295 2750039 You're welcome.
+2776364 2777692 Come.
+2782120 2783495 Stay.
+2794507 2795965 Ouch.
+2802556 2803801 Ouch.
+2875043 2877581 I'll be...
+2877796 2880168 ...right here.
+2890016 2891214 'Bye.

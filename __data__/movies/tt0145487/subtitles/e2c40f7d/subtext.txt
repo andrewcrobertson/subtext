@@ -1,0 +1,1643 @@
+188105 189052 <font color=#80ffff><i>Who am I?</i></font>
+189464 190972 <font color=#80ffff><i>You sure you wanna know?</i></font>
+191484 194136 <font color=#80ffff><i>The story of my life is not<br />for the faint of heart.</i></font>
+194904 197377 <font color=#80ffff><i>If somebody said it was<br />a happy little tale...</i></font>
+197740 201939 <font color=#80ffff><i>if somebody told you I was just<br />your average guy, not a care in the world...</i></font>
+202370 203619 <font color=#80ffff><i>somebody lied.</i></font>
+205039 206236 <font color=#80ffff><i>But let me assure you,</i></font>
+206260 208626 <font color=#80ffff><i>this like any story worth telling...</i></font>
+208793 210169 <font color=#80ffff><i>is all about a girl.</i></font>
+210961 211866 <font color=#80ffff><i>That girl.</i></font>
+211890 213451 <font color=#80ffff><i>The girl next door.</i></font>
+213751 215392 <font color=#80ffff><i>Mary Jane Watson.</i></font>
+215716 218582 <font color=#80ffff><i>The woman I've loved since<br />before I even liked girls.</i></font>
+218886 221214 <font color=#80ffff><i>I'd like to tell you that's me next to her.</i></font>
+221806 223423 <font color=#80ffff><i>Aw, heck, I'd even take him.</i></font>
+225142 225880 Hey!
+226024 227181 Stop the bus!
+228729 229595 <font color=#80ffff><i>That's me.</i></font>
+230106 231982 Tell him to stop! Please!
+232149 232993 Stop!
+233465 235557 Hey! Stop the bus!
+235736 236599 Stop the bus!
+236623 239025 He's been chasing us<br />since Woodhaven Boulevard.
+239240 240491 Catch a cab, Parker!
+244954 246510 Thank you. I'm sorry I'm late.
+253170 254422 What a geek!
+255131 256536 Don't even think about it.
+256560 258607 You're so lame, Parker.
+259510 261262 Would you date him?
+278988 280586 Midtown High seniors.
+281365 282645 No wandering.
+283078 284538 Proceed direct. Knock it off.
+285327 288374 Remember, it is a privilege to be here.
+289206 292501 We're guests of Columbia<br />University's Science Department.
+292526 294143 So behave accordingly.
+295045 297466 Let's not have a repeat<br />of our trip to the planetarium.
+298299 299925 Come on, people, stay together.
+300092 302349 Proceed up the steps<br />and into the building.
+304180 306459 Where were you?<br />Checking out the library.
+307391 309328 Looking at the books.<br />Yeah, right.
+311984 314064 Charles, can we drive<br />around the corner, please?
+314231 314906 Why?
+315733 317526 The entrance is right there.
+317693 321405 Dad, these are public-school kids.<br />I'm not showing up in the Rolls.
+321572 324154 What, you want me to trade in<br />my car for a Jetta...
+324179 327219 because you flunked out of every<br />private school I sent you to?
+327244 328274 It wasn't for me.
+328400 329556 Of course it was.
+330890 332725 Don't ever be ashamed of who you are.
+332750 334314 I'm not ashamed of who I am.
+335461 336336 It's just...
+336879 337906 Just what, Harry?
+338589 339507 Forget it.
+342866 343773 Pete!
+344845 346514 Hi, Harry.<br />Hey, man. What's up?
+346680 347436 Harry.
+348224 349420 Won't you be needing this?
+349873 350863 Thanks, Dad.
+351520 353771 Peter, may I introduce<br />my father, Norman Osborn.
+354122 355552 I've heard so much about you.
+355665 357011 Great honor to meet you, sir.
+357035 359125 Harry says you're a science whiz.
+359276 359931 You know,
+359955 362112 I'm something of a scientist myself.
+362279 365449 I read all your research on nanotechnology.<br />Really brilliant.
+365616 366729 And you understood it?
+366753 368702 Yes, I wrote a paper on it.
+368869 369816 Impressive.
+370172 371914 Your parents must be very proud.
+372088 373881 I live with my aunt and uncle.<br />They are.
+374127 376713 Hey, you two! Let's move!
+377044 378074 Nice to meet you.
+378637 379785 Hope to see you again.<br />Yeah.
+383050 384455 He doesn't seem so bad.
+384636 386144 Not if you're a genius.
+386595 388196 I think he wants to adopt you.
+388847 390670 There are over 32,000,
+390694 393391 known species of spiders in the world.
+393769 395550 They're in the order <i>Araneae,</i>
+395791 397540 divided into three suborders.
+397738 398769 That's amazing!
+399024 403112 This is the most advanced electron<br />microscope on the Eastern Seaboard.
+403279 404336 It's unreal.
+405489 406477 Arachnids,
+406501 407961 from all three groups possess,
+407986 411383 varying strengths which help<br />them in their constant search for food.
+411870 412775 For example,
+412799 414402 the Delena spider,
+414568 416104 family <i>Sparassidae</i>...
+416584 417822 has the ability,
+417971 420044 to jump to catch its prey.
+420921 422076 For the school paper?
+427177 428541 Next we have,
+428723 430084 the net web spider,
+430505 432224 family <i>Filistatidae</i>...
+432497 434137 genus <i>Kukulcania</i>.
+434476 436883 It spins an intricate funnel shaped web
+437397 439382 whose strands have a tensile strength,
+439649 442430 proportionately equal to a type<br />of high tension wire
+442455 444246 used in bridge building.
+444778 446488 Leave him alone.<br />Or what?
+446655 448931 Or his father will fire your father.
+450034 451314 What's Daddy gonna do?
+451338 452369 Sue me?
+452536 454026 What is going on?
+454739 456903 The next person who talks<br />will fail this course.
+457216 458114 I kid you not.
+458500 459871 This grass spider...<br />Let's go.
+459973 461991 Hunts using a set of reflexes
+462015 464808 with nerve conduction velocity so fast,
+465049 468510 that some researchers believe<br />that it almost borders on precognition.
+468718 470720 An early awareness of danger.<br />Those guys are jerks.
+471054 472847 A spider-sense.
+473473 474936 Hey, look at that spider.
+475206 478944 Some spiders change colors<br />to blend into their environment.
+479980 481474 It's a defense mechanism.
+482065 483012 Peter,
+483334 485359 what makes you think<br />I would want to know that?
+485527 486412 Who wouldn't?
+486489 488935 Over five painstaking years,
+488959 491113 Columbia's genetic research facility...
+491138 492355 You gonna talk to her now?
+492379 495459 No. Come on. You talk to her.
+495541 497459 Armed with these DNA blueprints...
+497581 500433 we have now begun what<br />was once thought impossible.
+500461 501572 Disgusting.
+502055 503945 Yeah, hateful little things.
+504337 505713 I love them!
+506256 507274 Yeah, me too.
+508884 509789 You know,
+510226 512187 spiders can change their color...
+512562 514711 to blend into their environment.
+515257 516171 Really?
+516933 519215 Yeah, it's a defense mechanism.
+520655 521404 Cool.<br />Yeah.
+521429 524475 Transfer RNA to encode<br />an entirely new genome
+524816 527943 combining the genetic information<br />rom all three spiders
+528111 528766 into these,
+528790 532282 15 genetically designed super-spiders.
+532675 533784 There's 14.
+534910 535846 I beg your pardon?
+536453 537442 One's missing.
+537934 538544 Yeah.
+541917 544543 I guess the researchers<br />are working on that one.
+545138 548473 Do you know that this is<br />the largest electron microscope
+548498 549882 on the Eastern Seaboard?
+549966 553270 You were talking throughout<br />that woman's entire presentation.
+554179 555930 Let's go talk about how we listen.
+560018 560715 Now,
+560924 563596 I don't know what it's like<br />at those fancy private schools...
+564314 566314 but at Midtown High...<br />112.5
+572549 573229 Hey.
+574829 576022 Could I take your picture?
+576046 577775 I need one with a student in it.
+578492 579776 Sure, yeah.
+579800 580943 Great.<br />Where do you want me?
+581561 582537 Over here?
+582749 584083 Yeah. Yeah that's great.
+584501 585772 Don't make me look ugly.
+586731 588060 That's impossible.
+595918 596754 Perfect.
+604646 606042 Is that good?<br />Great.
+611736 612682 That's great.
+618702 620189 MJ, let's go!
+622247 622777 Wait.
+623400 624150 Thanks!
+638305 639043 Parker,
+639923 640626 let's do it.
+657782 659480 We solved the horizon glide,
+659636 661243 and the multi-G balance issues.
+661411 663527 I've already seen the glider.
+664372 666269 That's not what I'm here for.
+666624 668545 General Slocum,<br />good to see you again.
+670128 672296 Mr. Balkan, Mr. Fargas.
+672445 673244 Norman.
+673338 674349 Mr. Osborn.
+674549 678093 Always a pleasure to have our board<br />of directors pay us a little visit.
+678303 681722 I want to see the progress report<br />on human performance enhancers.
+681890 684647 We tried vapor inhalation<br />with rogue subjects,
+684738 686393 they showed an 800% increase in strength!
+686443 688319 800%? That's excellent.<br />Any side effects?
+688605 689725 In one trial, yes.
+689750 690678 It was an aberration.
+690702 692546 All the tests since<br />then have been successful.
+692692 694891 And in the trial that went wrong,<br />what happened?
+694915 696242 What were the side effects?
+696542 697351 Violence,
+697734 698765 aggression...
+699616 700765 and insanity.
+701034 702148 And what do you recommend?
+702172 703679 That was only one test.
+704037 705776 With the exception of Dr. Stromm,
+705800 707969 our entire staff certifies the product
+708041 709488 ready for human testing.
+709761 710946 Dr. Stromm?
+712295 714568 We need to take the whole line<br />back to formula.
+717217 718414 Back to formula?
+718438 719459 Dr. Osborn.
+720804 722184 I'm gonna be frank with you.
+722889 724921 I never supported your program.
+725239 727395 We have my predecessor<br />to thank for that.
+727894 728466 Norman,
+728490 730789 the general gave<br />the go-ahead to Quest Aerospace
+730814 733332 to build a prototype<br />of their exoskeleton design.
+734067 735348 They test in two weeks.
+735372 738726 And if your so-called performance<br />enhancers have not had a...
+738750 741676 successful human trial by that date,
+742492 743814 I'm gonna pull your funding.
+744283 745705 I'm going to give it to them.
+748461 749978 Gentlemen. Ladies.
+755422 757495 And the Lord said, Let there be light.
+757519 758663 And voilà!
+759226 760297 There is light.
+761094 763257 Forty soft, glowing watts of it.
+763346 765753 Good boy. God will be thrilled.
+765956 767380 Just don't fall on your ass.
+768518 770552 I'm already on my ass, May.
+771162 774053 When the plant's senior electrician<br />is laid off after...
+774313 777181 after 35 years,<br />what else would you call it?
+777205 778787 I am on my ass.
+778812 780437 Hand me that dish. The green one.
+781124 784093 The corporation is<br />downsizing the people and...
+784492 785866 upsizing their profits.
+786619 788937 Ben, you'll get<br />another job somewhere.
+790667 791362 Well...
+791921 793544 let's look in the paper and see.
+794586 796787 There are the want ads.<br />What do we got here?
+797445 798600 Computer...
+799382 800940 Computer salesman,
+800964 803293 computer engineer, computer analyst.
+803318 806409 My Lord, even the computers<br />need analysts these days.
+807348 808879 May, I'm 68 years old.
+808903 812644 I'm too old for computers and<br />besides, I have a family to provide for.
+812854 814050 I love you.
+814283 815731 And Peter loves you.
+815982 819234 You're the most responsible man<br />I've ever known.
+819486 821142 We've been down-and-out before.
+821166 823002 But somehow, we survived.
+823354 824080 Yeah.
+825033 826063 Hi, sweetie.
+826087 826897 You're just...
+827510 829328 Just in time for dinner.
+829537 830234 Hey.
+830258 832080 How you doing, buddy?<br />How was the field trip?
+832248 834240 I don't feel well.<br />I'm gonna go to sleep.
+835071 836122 You won't have a bite?
+836147 837685 No thanks. Had a bite.
+838069 840296 Did, did you get some pictures, Peter?
+841338 843319 I gotta crash. Everything's fine.
+845428 846490 What's that all about?
+868284 870494 <i>In this recombination lab,</i>
+870662 875290 <i>we use synthesized transfer RNA<br />to encode an entirely new genome</i>
+875500 878687 <i>combining the genetic<br />information from all three spiders</i>
+878753 883062 <i>into these 15 genetically<br />designed super-spiders.</i>
+898022 899220 Dr. Osborn, please.
+899584 901740 The performance enhancers aren't ready.
+902151 904408 The data just doesn't justify this test.
+905655 907394 Now, I'm asking you for the last time.
+907807 909158 We can't do this.
+909492 911210 Don't be a coward.
+912161 914746 Risks are part of laboratory science.
+914956 916062 Let me reschedule,
+916386 918667 with a proper medical staff<br />and a volunteer.
+918760 921033 I mean if you just give me two weeks.<br />Two weeks?
+921526 922480 In two weeks,
+922505 925740 we'll have lost the contract<br />to Quest and OSCORP will be dead.
+926049 926956 Sometimes,
+926980 928701 you gotta do things yourself.
+929095 930960 Get me the Promachloraperazine.
+931260 932039 For what?
+932064 935032 It begins catalyzation, when<br />the vapor hits the bloodstream.
+938605 940361 40,000 years of evolution
+940386 943814 and we've barely even tapped<br />the vastness of human potential.
+958454 959572 That's cold.
+1018101 1019101 Norman?
+1023606 1024550 Norman!
+1025973 1026738 Norman!
+1035485 1036485 My God.
+1038454 1039276 Oh my God!
+1040055 1040789 Norman?
+1042250 1044000 My God, Norman!
+1046486 1047392 Norman!
+1060768 1062227 Back to formula?
+1096903 1097591 Weird.
+1109442 1110817 Peter?<br />Yeah?
+1111027 1112285 Are you alright?
+1114697 1115689 I'm fine.
+1116866 1118742 Any better this morning?<br />Any change?
+1118910 1119861 Change?
+1121287 1122067 Yep.
+1122651 1123347 Big change.
+1123372 1124611 Well, hurry up.
+1124798 1126030 You're gonna be late.
+1126171 1126930 Right.
+1145770 1146609 Ok.
+1151192 1152556 Goodness me!
+1152580 1153390 Jeez.
+1154228 1155798 I thought you were sick.
+1156197 1157531 I got better.<br />You see?
+1157556 1158520 Bye, guys.
+1158544 1160747 You haven't eaten anything.<br />Have you got your lunch money?
+1160772 1161479 Yeah, I got it.
+1161504 1164610 Hey, Michelangelo, don't forget, we're<br />painting the kitchen right after school.
+1164634 1166278 You got it?<br />Sure thing, Uncle Ben.
+1166739 1167739 Don't start without me.
+1167764 1169129 And don't start up with me.
+1171462 1172409 Teenagers.
+1172692 1174699 Raging hormones.<br />They never change.
+1176520 1177900 Mary jane talk to me!
+1177925 1179480 You're trash!<br />You're always gonna be trash!
+1179505 1180418 Just like her!
+1180443 1182325 I have to go to school.<br />Who's stopping you?
+1201242 1201963 Hi, MJ.
+1203786 1204663 Hey, MJ.
+1205538 1207528 I don't know if you realize this,<br />but we've...
+1208460 1211333 we've been neighbors since I was 6,<br />and I was wondering if maybe...
+1212163 1213771 we could get together sometime?<br />Hey M.J?
+1213796 1214991 I got the car. Hop in.
+1215016 1216161 Maybe do something fun?<br />Hi guys!
+1216710 1218256 Or I don't know.<br />Come on.
+1218281 1221032 I thought it'd be time<br />to get to know each other.
+1222430 1223319 Or not.
+1229145 1231074 Sorry Parker, the bus is full!<br />Hey!
+1232059 1232622 Hey!
+1233232 1235207 Stop the bus!<br />Catch a cab!
+1236234 1237296 Tell him to stop.
+1238654 1240086 Check him out!<br />Dork!
+1263137 1263754 Dad!
+1264847 1265294 Dad!
+1265419 1266340 Are you alright?
+1267558 1268301 Harry.
+1272188 1273709 What are you doing on the floor?
+1274248 1275287 I don't know.
+1276525 1277842 Have you been there all night?
+1280863 1282113 Last night I was...
+1284450 1285164 What?
+1286953 1288820 I don't remember.<br />Mr. Osborn?
+1288871 1290945 Sir, I asked her to wait in the foyer.
+1291415 1292696 Sorry, my father's not feeling well.
+1292720 1293947 Mr. Osborn...
+1294374 1295609 Dr. Stromm is dead.
+1295852 1296571 What?
+1296941 1298827 They found his body<br />this morning in the lab.
+1299485 1300682 He's been murdered, sir.
+1300820 1301997 What are you talking about?
+1302219 1303844 And the flight suit and the glider...
+1304345 1305125 What about it?
+1305149 1306429 It's been stolen, sir.
+1332373 1333600 Great reflexes!
+1335001 1335656 Thanks.
+1335680 1336826 No problem.
+1338254 1339117 Hey you...
+1339332 1340244 have blue eyes.
+1340268 1342173 I... Ididn't notice without your glasses.
+1342925 1344355 You just get contacts?
+1351350 1352214 Well,
+1352432 1353287 see you.
+1395311 1396383 What happened?
+1396990 1398076 He's freaking weird.
+1399273 1400648 Did you see that?
+1402234 1403171 Parker?
+1435810 1437849 It's a fight!<br />Think you're pretty funny, don't you freak?
+1437874 1439468 Flash, it was just an accident.
+1439492 1441457 My fist breaking your<br />teeth, that's the accident.
+1441482 1442888 Come on Flash, stop.
+1442912 1444192 I don't wanna fight you, Flash.
+1444217 1445640 I wouldn't wanna fight me neither.
+1445906 1446919 Kick his ass.
+1467049 1468091 Help him, Harry.
+1473055 1474246 How'd he do that?
+1475558 1476410 Which one?
+1477059 1478003 He's all yours, man.
+1493951 1495314 Flash, get up!
+1497288 1499338 Jesus Parker, you are a freak.
+1501000 1503062 Peter, that was amazing.
+1504753 1506284 I'm out of here. Come on.
+1509792 1510714 Peter.
+1611764 1612420 Go, web!
+1614571 1615490 Fly.
+1617783 1619139 Up, up and away, web.
+1621471 1622284 Shazam!
+1623294 1623944 Go!
+1624120 1624628 Go!
+1624873 1625901 Go, web, go!
+1659825 1660887 Tallyho.
+1705496 1707916 Is she back with the beer yet?<br />What?
+1708290 1709540 Come here, bring me some beer!
+1709750 1711072 Get up off your ass!
+1711096 1712293 I paid for beer...
+1712318 1713818 Stop yelling!<br />Stop it!
+1713988 1715368 You're as stupid as your mother.
+1715392 1716323 Get away from me!
+1716632 1718216 You are drunk, do you know that?
+1718384 1720094 Where's she going?<br />Where you going?
+1720119 1720853 Where you going?
+1721235 1722459 Stop, look!
+1722483 1723793 These dishes are not done.
+1723817 1725348 Somebody's gotta do the dishes!
+1725557 1727297 Why don't you do them?
+1727321 1729705 Get in here little girl<br />and you do the dishes, now!
+1729760 1732947 You do them. They're yours, anyway.<br />I'm going out!
+1733399 1734596 Were you listening to that?
+1734620 1735445 No.
+1736235 1737974 Well I heard, but I was just...
+1738130 1739619 taking out the trash.
+1739655 1741133 I guess you can always hear us.
+1741636 1742254 Well,
+1742637 1744063 everybody shouts.
+1745240 1746490 Your aunt and uncle don't.
+1747162 1749545 They can scream<br />pretty good sometimes.
+1751667 1752311 Listen,
+1752680 1754115 MJ, about today
+1754969 1756105 at school with Flash...
+1756130 1757570 You really freaked us out.
+1757965 1758828 I'm sorry.
+1759133 1760039 Is he ok?
+1760509 1763088 He's just happy you didn't give him<br />a black eye for graduation.
+1767558 1769284 So where are you going<br />after you graduate?
+1772885 1773698 I...
+1775524 1777291 I wanna move into the city.
+1778735 1780016 And hopefully...
+1780478 1781685 get a job as a...
+1782321 1783306 photographer.
+1783769 1785329 Work my way through college.
+1787536 1788392 What about you?
+1789037 1790420 Headed for the city too.
+1791748 1793592 Can't wait to get out of here.
+1795169 1795896 I wanna...
+1797921 1798685 What?
+1802259 1803081 No, come on.
+1803909 1804621 Try me.
+1805429 1806332 I wanna...
+1808056 1808762 Act...
+1810559 1811491 on stage.
+1812561 1813358 Really?
+1814771 1816139 That's perfect.
+1817232 1819841 You were awesome<br />in all the school plays.
+1820110 1820807 Really?
+1820831 1821716 Yeah.
+1822613 1825615 I cried like a baby<br />when you played Cinderella.
+1826066 1827645 Peter, that was first grade.
+1828668 1829348 Well...
+1830719 1831762 even so.
+1833332 1834535 Sometimes...
+1836084 1837121 you know people.
+1838921 1839951 You can just...
+1840396 1841552 see what's coming.
+1845594 1847247 What do you see coming for you?
+1850753 1851840 I don't know.
+1854937 1855967 Whatever it is,
+1856842 1858723 it's something I never felt before.
+1863124 1863683 And...
+1864546 1865655 what for me?
+1866078 1867030 For you?
+1868948 1870523 You're gonna light up Broadway.
+1873288 1874000 You know,
+1878908 1880586 you're taller than you look.
+1881797 1882610 I hunch.
+1885592 1886219 Don't.
+1890639 1891461 Hey, MJ!
+1891849 1894201 Come take a ride<br />in my new birthday present.
+1895269 1896115 Come on!
+1897312 1898318 I gotta go.
+1899554 1900241 Bye.
+1901650 1904318 My God, it's gorgeous!<br />Yeah, right?
+1904486 1906093 Look at it!<br />Hop in.
+1906655 1908626 Oh my God! What a cool car!
+1909157 1910110 Pretty tight?
+1911159 1912982 Wait untill you hear the sound system.
+1913006 1915055 Hey, don't scratch the leather.
+1916999 1917952 Cool car.
+2008654 2009474 Peter?
+2011218 2013445 What's... What's going on in there?
+2013470 2014500 I'm exercising.
+2014524 2015810 I'm not dressed, Aunt May.
+2016162 2016878 Well,
+2017161 2019232 you're acting so strangely, Peter.
+2020227 2021661 Ok. Thanks.
+2053135 2054207 Something's bothering him.
+2054457 2056470 Maybe he's too embarrassed<br />to tell me what it is.
+2056638 2057752 Maybe I'm too embarrassed...
+2058229 2059425 to ask him.
+2060100 2061675 I just don't know anymore.
+2062561 2064972 I'm going to the downtown library.<br />I'll see you later.
+2064997 2065843 Yeah, wait Pete.
+2065867 2067512 I'll drive you there, buddy.
+2067536 2068557 No, I'll take the train.
+2068582 2070014 No, no, no. I need the exercise.<br />Go on.
+2070038 2071301 Go, go, go, go.
+2082938 2084529 Thanks for the ride, Uncle Ben.<br />No, wait a minute.
+2084553 2086398 Peter we need... we need to talk.
+2086793 2087991 We can talk later.
+2088360 2089618 Well, we can talk now.
+2090563 2091586 If you let me.
+2092048 2094258 What do we have to talk about?<br />Why now?
+2094426 2096444 Because we haven't talked<br />at all for so long
+2096469 2098694 your Aunt May and I don't<br />even know who you are anymore.
+2098733 2100351 You shirk your chores.
+2100726 2103797 You have all those weird experiments<br />in your room.
+2104367 2107648 You start fights at school, you know.<br />I didn't start that fight, I told you that.
+2107995 2109470 Well, you sure as hell finished it.
+2109812 2111576 What was I supposed to do, run away?<br />No.
+2111601 2113507 No, you're not supposed<br />to run away, but...
+2114529 2115393 Pete, look.
+2115417 2116310 You're changing.
+2116334 2119116 I know, I went through exactly<br />the same thing at your age.
+2119284 2120663 No. Not exactly.
+2121142 2122093 Peter...
+2122662 2125155 these are the years<br />when a man changes
+2125383 2128531 into the man he's gonna<br />become the rest of his life.
+2129882 2132175 Just be careful who you change into.
+2134341 2136288 This guy, Flash Thompson.
+2136606 2138844 He probably deserved what happened.
+2139387 2141520 But just because you can beat him up,
+2142557 2144002 doesn't give you the right to.
+2145385 2146215 Remember,
+2146689 2147925 with great power,
+2148221 2150377 comes great responsibility.
+2151316 2154223 Are you afraid that I'm gonna<br />turn into some kind of criminal?
+2154698 2156230 Quit worrying about me, ok?
+2156255 2157435 Something's different.
+2157459 2158603 I'll figure it out.
+2158627 2160204 Stop lecturing me, please.
+2160205 2162482 I don't mean to lecture,<br />I don't mean to preach.
+2163018 2164554 And I know I'm not your father...
+2164579 2166236 Then stop pretending to be!
+2171503 2172212 Right.
+2175715 2177126 I'll pick you up here at 10.
+2209040 2216118 Bone Saw! Bone Saw! Bone Saw!
+2219061 2220832 One, two, three.
+2221122 2222740 That's it!<br />Who's the man?
+2222936 2227225 Bone Saw! Bone Saw! Bone Saw!
+2227642 2229852 Ladies and gentlemen...
+2230020 2234565 Give it up for Bone Saw McGraw!
+2237652 2240521 For $3000,
+2241489 2244607 is there no one here<br />man enough to stay in the ring
+2244632 2249685 for three minutes<br />with this titan of testosterone?
+2252748 2253912 Who?
+2255044 2256271 I know who.
+2257005 2261800 The Flying Dutchman!
+2262268 2263145 Next.
+2264429 2266804 There's no featherweight<br />division here, small fry
+2267152 2267804 . Next.
+2267891 2269124 No, no. Sign me up.
+2270143 2270913 Ok.
+2271718 2273747 You understand<br />the NYWL is not responsible
+2273772 2275238 for any injury you may and
+2275262 2277858 probably will sustain while<br />participating in said event?
+2278026 2280277 And you are indeed participating<br />under your own free will?
+2280445 2281070 Yes.
+2281696 2282894 Down the hall to the ramp.
+2282918 2284145 May God be with you.
+2284735 2285491 Next.
+2288078 2290046 Told you! Told you!
+2290538 2292647 Winner!
+2292672 2294007 Next victim!
+2295627 2298092 Are you ready for more?
+2299631 2303217 Bone Saw is ready!
+2305637 2310037 Will the next victim please<br />enter the arena at this time?
+2310517 2313716 If he can withstand just three minutes<br />in the cage
+2313740 2318346 with Bone Saw McGraw,<br />the sum of $3000
+2318370 2319858 will be paid to...
+2320735 2321682 What's your name, kid?
+2322081 2323323 The Human Spider.
+2324322 2326699 The Human Spider, that's it?<br />That's the best you got?
+2326866 2327480 Yeah.
+2327504 2328756 That sucks.
+2329160 2333664 The sum of $3000 will be paid to...
+2333832 2335029 the terrifying,
+2335053 2337084 the deadly,
+2337335 2340802 the amazing Spider-Man!
+2342924 2345551 My name's The Human Spider.<br />I don't care, get out there.
+2345576 2348291 No, he got my name wrong.<br />Get out there, you moron.
+2350934 2354155 Bone Saw will eat you up<br />and spit you out, little man.
+2354180 2356061 I hope you brought<br />your mommy with you.
+2356086 2359224 We'll break you!<br />You'll need someone to cry to.
+2361067 2365593 I'm gonna rip all eight of your<br />feeble legs off one by one!
+2366698 2368741 Oh my God!
+2368950 2369989 My legs!
+2370744 2372978 God. I can't feel my legs.
+2373447 2385299 Kill! Kill! Kill!
+2385467 2386675 Cage!
+2396019 2397478 Hello? Guys?
+2398521 2403484 Will the guards please lock<br />the cage doors at this time?
+2404194 2405099 Hey, listen.
+2405475 2408248 This is some kind of mistake.<br />I didn't sign up for a cage match!
+2408657 2409353 Hey!
+2409625 2411105 Unlock the thing!
+2411332 2412399 Take the chain off!
+2412438 2413946 Hey, freak show!
+2414370 2416250 You're going, nowhere.
+2417165 2419087 I got you for three minutes.
+2419646 2421939 Three minutes of playtime.
+2428635 2431753 What are you doing up there?<br />Staying away from you.
+2432305 2433544 That's a cute outfit.
+2433568 2434890 Did your husband give it to you?
+2442023 2443082 Finish him off!
+2450740 2451834 Smash him!
+2459457 2461060 Hit him!<br />Harder!
+2463211 2465083 Kick his spider ass!
+2467549 2468715 Hit him!
+2482147 2483939 One, two, three!
+2484149 2485221 That's it! That's it!
+2486242 2487194 Winner!
+2487219 2489642 Ladies and gentlemen, give it up<br />for the new champion,
+2489720 2492360 Spider-Man!
+2493074 2497766 Spider-Man! Spider-Man! Spider-Man!
+2498101 2500659 Spider-Man! Spider-Man! Spider-Man!
+2509591 2510734 Now get out of here.
+2512886 2514083 A hundred bucks?
+2514107 2515721 The ad said 3000.
+2515930 2517686 Well, check it again, webhead.
+2518474 2519880 It said three grand,
+2520138 2522231 for three minutes.<br />And you pinned him in two.
+2522562 2525536 For that, I give you 100<br />and you're lucky to get that.
+2526107 2527482 I need that money.
+2527942 2530233 I missed the part<br />where that's my problem.
+2539120 2540693 Hey, what the hell?
+2540842 2542209 Put the money in the bag.
+2544174 2545139 Hurry up!
+2551966 2554217 Hey! He stole the gate!
+2554406 2555709 Stop that guy!
+2556689 2558822 Stop him! He's got my money!
+2559224 2560197 Thanks.
+2561643 2563924 What the hell's the matter with you?<br />You let him go!
+2564312 2566521 Cut him off in the lobby<br />and call the cops!
+2566689 2568554 You could've taken that guy apart.
+2568578 2570734 Now he's gonna get away<br />with my money.
+2570902 2572913 I missed the part<br />where that's my problem.
+2592674 2594314 Sir, you gotta get back.<br />Get back.
+2594380 2596161 I can't see anything.<br />What happened?
+2596844 2598002 Old dude, man.
+2598429 2600054 Come on folks. Keep moving, please.
+2600374 2601936 Please, keep moving. Let's go!
+2602767 2605181 What happened?<br />Someone got hurt.
+2607981 2608719 Excuse me.
+2608743 2610554 Excuse me. Excuse me. Excuse me.
+2610578 2611297 Stay back.
+2611693 2613527 Hey, stay back! Stay back!<br />That's my uncle!
+2615697 2616644 What happened?
+2616668 2618142 Carjacker. He's been shot.
+2618269 2620316 But we just called the paramedics.<br />They're on their way.
+2622203 2623152 Uncle Ben?
+2624497 2625379 Uncle Ben.
+2629752 2630700 Uncle Ben?
+2634716 2635405 Peter.
+2637093 2638319 I'm here, Uncle Ben.
+2644517 2645381 Peter.
+2667707 2669113 They got the shooter.
+2669137 2670879 He's headed south on Fifth Avenue.
+2670960 2672658 We got three cars in pursuit.
+2672908 2675306 Alright. Folks come on.<br />Come up. Move back.
+2832788 2834789 Get a unit to the rear!
+2837752 2839294 I got the back!
+2852225 2853365 Who's there?
+2879835 2880741 Don't hurt me.
+2880765 2881950 Just give me a chance.
+2881974 2883155 Just give me a chance!
+2883224 2884328 What about my uncle?
+2884352 2885829 Did you give him a chance?
+2886256 2887053 Did you?
+2887715 2888622 Answer me!
+2892640 2894356 <i>Stop that guy!</i>
+2899313 2900074 <i>Thanks.</i>
+2911075 2911925 See you.
+2933848 2934670 <i>Freeze!</i>
+2934694 2936918 <i>We've got the place<br />completely surrounded.</i>
+2979810 2981169 No. My God.
+2984357 2986091 No.<br />My God. No!
+2996410 2997482 Good evening General.
+2998052 2998995 Good to see you.
+3000164 3003041 Our exoskeleton's got<br />real firepower, General Slocum.
+3003209 3007248 Well, if it does what you say it can,<br />I'll sign that contract tomorrow.
+3009840 3012933 He's clear, let's go!<br />I assume you're confident about this test?
+3012958 3013749 Absolutely.
+3013773 3015425 Captain Curtis is our top pilot.
+3016097 3018620 Now, what about<br />your commitment to OSCORP?
+3019016 3022807 Nothing would please me more than<br />to put Norman Osborn out of business.
+3025272 3026470 <i>Preflight complete.</i>
+3027080 3027756 Mark.
+3032446 3035188 <i>We are picking up an<br />unidentified object, closing fast.</i>
+3035241 3036324 What the hell is that?
+3036492 3037477 <i>Can you see anything?</i>
+3038452 3039349 Oh my God!
+3050089 3050911 Say chess.
+3050935 3052232 Chess!
+3053467 3054451 Peter!
+3055553 3056333 Darling.
+3056357 3059472 I'm so proud of you.<br />You looked so handsome up there.
+3059640 3060295 Pete?
+3060319 3063727 Good news. My father got the place<br />in New York, so we're all set this fall.
+3063894 3065478 That's great.<br />You made it.
+3068065 3070337 It's not the first time<br />I've been proven wrong.
+3072987 3074696 Congratulations.<br />Thanks, Dad.
+3075656 3077312 Peter, the science award.
+3077516 3078551 That's terrific.
+3078576 3079187 Yeah.
+3082830 3085248 I know this has been<br />a difficult time for you
+3086375 3088623 but I want you to try to enjoy this day.
+3089837 3090951 Commencement.
+3091547 3092911 The end of one thing.
+3093694 3095076 The start of something new.
+3097511 3098917 I don't want to be with you anymore.
+3098941 3100675 Here's your ring.
+3102057 3103432 You know what? Whatever.
+3104477 3105455 Your loss.
+3106645 3108051 You're like a brother to Harry.
+3108439 3109682 That makes you family.
+3110435 3112305 And if you ever need anything just...
+3112485 3113427 give me a call.
+3126745 3127440 Can I...
+3128083 3129377 Can I fix you something?
+3130503 3131432 No, thanks.
+3176757 3178290 I missed him a lot today.
+3181475 3182275 I know.
+3184807 3185916 I miss him too.
+3188394 3190103 But he was there.
+3193899 3196348 I can't help thinking about...
+3197506 3199248 the last thing I said to him.
+3199327 3201436 He tried to tell me something<br />important,
+3201943 3203732 and I threw it in his face.
+3206078 3207466 You loved him
+3209832 3211296 and he loved you.
+3212960 3215554 He never doubted<br />the man you'd grow into.
+3216797 3219070 How you were meant for great things.
+3220801 3222303 You won't disappoint him.
+3256670 3257868 <i>With great power...</i>
+3258529 3260505 <i>comes great responsibility.</i>
+3261008 3262205 <i>Remember that, Pete.</i>
+3262651 3263802 <i>Remember that.</i>
+3274229 3275262 Hurry up!
+3287868 3288949 This is not a man.
+3288974 3291547 My brother saw him building a<br />nest in the Lincoln Center Fountain.
+3291789 3293069 I think he's human,
+3293093 3295070 I think he's a man.<br />Could be a woman.
+3298993 3299826 Bobby.
+3299850 3301202 Get a load of this!
+3305098 3306974 He throws up his hands,<br />ropes come out,
+3307221 3309321 and he climbs up<br />the ropes like a spider web.
+3309556 3311463 I see the web and it's his signature,
+3311487 3313827 and I know Spider-Man was here.
+3313852 3315300 The guy protects us, you know?
+3315324 3316479 He protects the people.
+3316647 3319399 Some kind of freakyloo or something.<br />Wackadoo.
+3319566 3321567 He stinks and I don't like him.
+3322319 3323389 Don't move, lady!
+3331996 3333109 Guy with eight hands.
+3333638 3334747 Sounds hot.
+3334816 3336942 He has those tights<br />and that tight little...
+3336967 3338615 <i>♪ Dresses like a spider, ♪</i>
+3338639 3340302 <i>♪ he looks like a bug ♪</i>
+3340796 3344326 <i>♪ But we should all<br />just give him one big hug ♪</i>
+3344758 3346498 <i>♪ Look out! ♪</i>
+3346741 3349359 <i>♪ Here comes the Spider-Man ♪</i>
+3353017 3354589 Who is Spider-Man?
+3354613 3356311 He's a criminal, that's who he is!
+3356937 3357801 A vigilante.
+3357825 3358969 A public menace.
+3358993 3360727 What's he doing on my front page?
+3360907 3363202 Mr. Jameson, your wife's on line one.<br />She needs to know if you...
+3363227 3364644 Mr. Jameson, there's a page six problem.
+3364695 3366344 We have a page one problem. Shut up.
+3366475 3368017 Well?<br />He's news.
+3368532 3371089 They're really important clients.<br />They can't wait. They're about to.
+3371118 3373525 He pulled six people off that subway car.
+3373549 3375204 Sure, from a wreck he probably caused.
+3375372 3377182 Something goes wrong<br />and this creepy crawler is there.
+3377207 3379542 Look at that. He's fleeing the scene!<br />What's that tell ya?
+3379710 3382462 He's not fleeing, he's probably<br />going to save somebody else.
+3382490 3383772 He's a hero!
+3383797 3384953 Then why does he wear a mask?
+3385731 3386741 What's he got to hide?
+3386800 3389761 She just needs to know if you want<br />the chintz or the chenille in the dining room.
+3389786 3390834 Whichever one's cheaper.
+3390858 3392489 Mr. Jameson, it's like this.
+3392639 3394106 We double-booked page six.
+3394141 3396476 See, so both Macy's and Conway's<br />both have three quarters...
+3396501 3398466 We sold out four printings.
+3399337 3400080 Sold out?
+3400105 3401355 Every copy.
+3401869 3404441 Tomorrow morning, Spider-Man,<br />page one with a decent picture this time.
+3404466 3406208 Move Conway to page 7.<br />There's a problem with page 7...
+3406233 3408786 And make it page eight, get him<br />10 percent off. Make it five percent.
+3408822 3410239 That can't be done.<br />Get outta here!
+3410699 3412751 The problem is,<br />we don't have a decent picture.
+3412776 3415630 Eddie's been on it for weeks,<br />we can barely get a glimpse of him.
+3416013 3417192 What is he, shy?
+3417998 3421582 If we can get a picture of Julia Roberts in a thong,<br />we can surely get a picture with this weirdo.
+3422059 3423241 Put an ad on the front page.
+3423343 3425090 Cash money for a picture of Spider-Man.
+3425756 3427037 He doesn't wanna be famous?
+3427590 3429217 I'll make him infamous!
+3440437 3441160 Hey!
+3441688 3442652 Buzz off.
+3443816 3445346 MJ, it's me, Peter.
+3445370 3446245 Hi!
+3446418 3447074 Hey.
+3448487 3449655 What are you doing around here?
+3449679 3452143 I'm begging for a job.<br />How about you?
+3453867 3455315 I'm headed to an audition.
+3455339 3456274 An audition?
+3456674 3457775 So you're acting now?
+3457894 3458728 Yeah.
+3459158 3460278 I work steady.
+3460752 3462875 In fact, I just got off a job.
+3463137 3464304 That's great, MJ!
+3464795 3465825 You're doing it!
+3466013 3467638 You're living your dream!<br />Hey, glamour girl!
+3467716 3469799 Yeah.<br />Your drawer was short $6!
+3469967 3471122 Next time that happens,
+3471146 3472593 I'mma take it out of your check.
+3473679 3475168 Excuse me, Miss Watson?
+3475419 3476586 I'm talking to you!
+3476610 3477387 Hey!
+3477683 3479903 Yes, Enrique! Ok? I get you.
+3479928 3481591 Well, it better not happen<br />no more, you hear me?
+3481615 3483223 Don't roll your eyes at me.
+3491238 3492247 Some dream?
+3493824 3495699 It's nothing to be embarrassed about.
+3496618 3497690 Don't tell Harry.
+3497792 3498902 Don't tell Harry?
+3499830 3501361 Aren't you guys living together?
+3501706 3503254 We're going out. Didn't he tell you?
+3504835 3505879 Yeah. Right.
+3506670 3509755 I think he'd hate the idea<br />of my waiting tables.
+3509923 3511538 He'd think it was low or something.
+3511840 3512872 It's not low.
+3513222 3514343 You have a job.
+3514678 3515849 You know Harry...
+3516732 3519015 doesn't live on a little place<br />I like to call Earth.
+3520517 3522357 No, I guess not.
+3527441 3528629 Thanks, Pete.
+3530444 3531847 We should catch up sometime.
+3536473 3538082 Let's get some lunch some evening.
+3540370 3541526 Well I...
+3541713 3544760 I'll come by and have some of your<br />Moondance coffee some day.
+3545083 3546364 And I won't tell Harry.
+3546388 3547793 No, don't tell Harry.
+3547969 3548659 I won't!
+3551381 3552754 I won't tell Harry.
+3564436 3566248 Timing's perfect. Hey.
+3567105 3568386 Five new contracts.
+3568410 3569506 It'll be great.
+3572754 3575261 Storming Norman's<br />making his weekly inspection.
+3576156 3577917 Spent half of it on the phone.
+3578929 3581316 Look, man, I'm glad you're here.<br />I need your help.
+3581340 3582724 I'm really lost here.
+3584538 3585560 Are you alright?
+3587224 3588406 You look like you just got,
+3588430 3590271 second place in the science fair.
+3590443 3591552 No I...
+3593029 3595800 I was late for work<br />and Dr. Connors fired me.
+3595897 3596958 You were late again?
+3598178 3599000 I don't get it.
+3599911 3601224 Wait, where do you go all the time?
+3602307 3603137 Around.
+3603842 3604778 Peter Parker.
+3605769 3607508 Maybe you'll tell me who she is.
+3607744 3608483 Who's that?
+3608508 3610606 This mystery girl Harry's been dating.<br />Dad.
+3611900 3613567 When do I get to meet her?<br />Dad.
+3613914 3615866 Well sorry, Harry hasn't mentioned her.
+3619908 3621814 Hey Pete, you're probably looking for a...
+3622023 3623212 a job now, right?
+3623370 3624940 Dad, maybe you can help him out.
+3626373 3629530 No I... I appreciate it, but I'll be fine.<br />It's no problem.
+3629655 3630811 I'll make a few calls.
+3630836 3632367 No, I couldn't accept it, sir.
+3632391 3635131 I like to earn what I get.<br />I can find my own work.
+3635340 3636270 I respect that.
+3637820 3639762 You want to make<br />it on your own steam.
+3640512 3641582 That's great.
+3642723 3644512 What other skills do you have, Parker?
+3645267 3647640 I was thinking of something in photography.
+3650355 3651285 Hello.
+3653525 3654389 Let's go!
+3654694 3655556 Move it!
+3656987 3658025 Watch the street!
+3674087 3674913 Cheese!
+3684389 3685390 They're crap.
+3685891 3686504 Crap.
+3686929 3688562 Crap. Megacrap.
+3689061 3690591 I'll give you $200 for all of them.
+3690800 3692256 That seems a little low.
+3692439 3693686 Take them somewhere else, then.
+3694358 3697037 <i>Sir, your wife says the tile you<br />ordered for the foyer is out of stock.</i>
+3697428 3698834 Tell her we'll just put a rug there.
+3699071 3699892 Sit down.
+3699916 3700733 Give me that.
+3702616 3703688 Give you 300.
+3703712 3705159 That's the standard freelance fee.
+3705327 3707275 Tear up page one.<br />Run that photo instead.
+3707299 3708059 Headline?
+3708097 3709986 Spider-Man, Hero or Menace?
+3710010 3711391 Exclusive Daily Bugle Photos.
+3711416 3712238 Menace?
+3712262 3714603 He was protecting that armoured...<br />Tell you what, Atticus.
+3714628 3716242 You take the pictures,<br />I'll make up the headlines. Ok?
+3716266 3717440 Alright? That ok with you?
+3717584 3718995 Yes, sir.<br />Goody.
+3719966 3721247 Give this to the girl up front.
+3721271 3722630 She'll see you get paid.
+3723665 3724792 I'd like a job, sir.
+3724816 3726544 No jobs. Freelance.
+3726760 3728489 Best thing in the world for a kid your age.
+3728767 3731470 You bring me some more shots<br />of that newspaper-selling clown,
+3731495 3732876 maybe I'll take them off your hands.
+3733271 3734552 But I never said you have a job.
+3735181 3736009 Meat.
+3736400 3737889 I'll send you a nice box<br />of Christmas meat,
+3737913 3739182 best I can do. Get outta here.
+3739206 3740694 Bring me more photos.
+3742280 3743625 Hi.<br />Hi.
+3743698 3746109 Mr. Jameson told me<br />to give that to you.
+3748203 3749734 Welcome to the Daily Bugle.
+3749758 3750874 Thank you.
+3751873 3753249 I'm Peter Parker.
+3755752 3757046 I'm a photographer.
+3758713 3759577 Yes.
+3759765 3761017 I can see that.
+3768974 3770602 As of today,
+3770976 3772423 OSCORP lndustries,
+3772579 3775111 has surpassed Quest Aerospace
+3775230 3778509 as the principal supplier<br />to the United States military.
+3779818 3782071 In short, ladies and gentlemen<br />of the board...
+3782821 3784143 costs are down,
+3784680 3785845 revenues are up,
+3786241 3787271 and our stock,
+3787532 3788859 has never been higher.
+3789244 3790608 Wonderful news Norman.
+3790632 3791442 Wonderful.
+3791813 3793664 In fact, it's the reason<br />for selling the company.
+3794749 3795414 What?
+3795536 3798658 Yes, Quest Aerospace is recapitalizing<br />in the wake of the bombing.
+3799310 3800224 Expanding.
+3801339 3803716 They made a tender offer<br />we can't ignore.
+3804259 3805426 Why wasn't I told?
+3805594 3808042 Last thing they want<br />is a power struggle,
+3808381 3809834 with entrenched management.
+3810233 3812139 The deal is off if you come with it.
+3812434 3815319 The board expects<br />your resignation in 30 days.
+3816139 3818099 You can't do this to me.
+3821043 3822967 I started this company.
+3824529 3826732 You know how much I sacrificed?
+3830785 3831600 Max.
+3831923 3833251 Please.<br />Norman,
+3833633 3835696 the board is unanimous.
+3836791 3840055 We're announcing the sale<br />after the World Unity Festival.
+3840962 3842008 I'm sorry.
+3843465 3844860 You're out, Norman.
+3855477 3856601 Am I?
+3861191 3864234 <i>Welcome to OSCORP lndustries<br />Unity Day Festival!</i>
+3864277 3866941 <i>Let's hear it for Macy Gray.</i>
+3904150 3904889 MJ,
+3906118 3907653 why didn't you wear the black dress?
+3908697 3910770 Just, I wanted to impress my father.
+3911180 3912366 He loves black.
+3912534 3914899 Well, maybe he'll be impressed<br />no matter what.
+3915882 3917154 You think I'm pretty.
+3917622 3919030 I think you're beautiful.
+3932804 3934001 MJ, would you do me a favor?
+3934025 3936267 I... forgot my drink inside.<br />Come on.
+3946276 3947640 Hi, Mr. Fargas.
+3947664 3948596 Harry.
+3949487 3951060 Have you seen my father around?
+3952002 3954830 Well, I'm not sure if he's coming today.
+3966671 3967702 What is that?
+3968085 3969438 Must be new this year.
+3974468 3975304 What is that?
+3975549 3976632 That's our glider!
+3987887 3989346 What the hell was that?
+4017681 4019098 Code three! Code three!
+4035115 4037499 Oh my God! Harry!<br />MJ!
+4043248 4045724 Harry! Help me! Harry!
+4052268 4054019 Out, am I?
+4058972 4060002 Mary Jane!
+4060026 4061003 Harry!
+4064185 4065925 Hello, my dear.
+4067063 4068258 It's Spider-Man!
+4080410 4081440 Come on, move, kid.
+4081464 4082369 Billy!
+4085874 4087800 Somebody help him!
+4088418 4089668 No!
+4091463 4092393 Mommy!
+4095008 4096122 Hold it right there!
+4096146 4097375 I surrender.
+4097481 4098332 Boy.
+4098357 4099270 Hold it right there!
+4106226 4107227 Impressive.
+4131377 4132467 Mary Jane!
+4132491 4133617 Help!
+4133641 4135080 Someone please help me!
+4160198 4160867 Hold on!
+4162909 4163578 Watch out!
+4173044 4174617 We'll meet again,
+4174969 4176512 Spider-Man!
+4178424 4179536 Hold on, Mary Jane!
+4222343 4222998 Well,
+4223163 4224577 beats taking the subway.
+4225221 4227483 Don't mind us.<br />She just needs to use the elevator.
+4228406 4229186 Wait.
+4229934 4230874 Who are you?
+4231352 4232716 You know who I am.
+4232888 4233842 I do?
+4234100 4235849 Your friendly neighborhood Spider-Man.
+4248494 4249400 Incredible?
+4250537 4251891 What do you mean he's incredible?
+4253595 4255155 No. Alright, wait.
+4255179 4256571 Stay there. I'm gonna come over.
+4257879 4259093 No, I'm gonna come o...
+4259881 4260953 Alright. Fine.
+4260977 4262961 Fine, will you call me in the morning,<br />and, and...
+4263509 4265125 we'll go and have breakfast and...
+4266224 4267891 I wanna buy you something.
+4269223 4271253 Because I want to.<br />It'll make you feel better.
+4273478 4273966 Ok.
+4274729 4275342 And...
+4275991 4277252 what do you mean, incredible?
+4279984 4280973 Alright. I'm sorry.
+4280997 4281736 Sleep tight.
+4282528 4283832 Don't let the bedbugs...
+4290036 4291233 She's alright.<br />She's...
+4291257 4292778 just a little rattled.
+4294441 4297238 Look Pete, I should have<br />told you about us.
+4299712 4301495 But you should know<br />I'm crazy about her.
+4302507 4304289 It's just you know,<br />you never made a move.
+4306636 4307468 You're right.
+4309055 4310039 I didn't.
+4314497 4316195 I'm gonna get some rest.
+4318231 4319945 I'm gonna stay up for a while.
+4321567 4322789 What was that thing?
+4323903 4324858 I don't know.
+4326656 4328819 Whatever it is,<br />somebody has to stop it.
+4345925 4347089 Somebody there?
+4347844 4349479 <i>Somebody?</i>
+4351222 4352268 Who said that?
+4353433 4356119 <i>Don't play the innocent with me.</i>
+4359230 4361275 <i>You've known all along.</i>
+4365903 4367035 Where are you?
+4367447 4371121 <i>Follow the cold shiver<br />running down your spine.</i>
+4378374 4379386 <i>I'm right here.</i>
+4381961 4383151 I don't understand.
+4384964 4387933 Did you think it was coincidence?
+4388384 4392113 So many good things,<br />all happening for you.
+4392189 4393711 All for you,
+4394144 4395386 Norman.
+4398311 4399308 What do you want?
+4400271 4402183 To say what you won't.
+4402607 4404709 To do what you can't.
+4405318 4406724 To remove...
+4407013 4409084 those in your way.
+4413868 4415067 The board members.
+4417524 4418461 You killed them.
+4418664 4420063 We killed them.
+4420625 4421430 We?
+4421793 4422832 Remember?
+4423503 4426171 Your little accident in the laboratory.
+4428174 4429800 The performance enhancers.
+4429967 4430873 Bingo.
+4430897 4431707 Me!
+4432525 4434580 Your greatest creation.
+4435515 4438805 Bringing you what you've always wanted.
+4439477 4442477 Power, beyond your wildest dreams.
+4442502 4444446 And it's only the beginning.
+4446526 4448056 There's only one...
+4448971 4450455 who can stop us.
+4451656 4454557 Or imagine if he joined us.
+4459956 4460986 Spider-Man.
+4461570 4463041 And the Green Goblin.
+4463209 4464698 The Green Goblin. You like that?
+4464722 4466162 Made it up myself.<br />Mr. Jameson.
+4466477 4468326 These weirdos all gotta have a name now.
+4468351 4469701 Mr. Jameson, Spider-Ma...
+4469726 4470630 Hoffman!<br />Yeah?
+4472822 4474792 Call the patent office,<br />copyright the name Green Goblin,
+4474816 4476533 I want a quarter every<br />time somebody says it.
+4476639 4478025 How about Green Meanie?
+4478847 4480798 Spider-Man wasn't attacking the city.
+4480822 4482203 He was trying to save it. That's slander.
+4482228 4484080 It is not. I resent that.
+4484564 4485803 Slander is spoken.
+4485975 4487108 In print, it's libel.
+4487775 4489631 You don't trust anybody, that's your problem.
+4489861 4491061 I trust my barber.
+4492480 4494106 What are you, his lawyer?<br />Get outta here.
+4494157 4496283 Let him sue me,<br />get rich like a normal person.
+4496450 4497691 That's what made this country...
+4506419 4507449 Jameson,
+4507473 4509030 you slime.
+4509544 4513121 Who's the photographer<br />who takes the pictures of Spider-Man?
+4513259 4515359 I don't know who he is.<br />His stuff comes in the mail.
+4515384 4517179 You're lying!<br />I swear.
+4517291 4519648 He's the one who can bring me to him.
+4519673 4520921 I don't know who he is.
+4520945 4522579 You are useless.
+4522604 4524329 Set him down tough guy.
+4525146 4526572 Speak of the devil!
+4526596 4528887 Spider-Man, I knew you two<br />were in this together!
+4528911 4529548 I...
+4529767 4532556 Hey kiddo, let Mom and Dad<br />talk for a minute, will you?
+4532581 4535041 Sleep...
+4549670 4551410 <i>Wake up little spider.</i>
+4552154 4553060 <i>Wake up.</i>
+4553841 4554788 <i>No,</i>
+4555176 4556707 <i>you're not dead...</i>
+4557043 4557988 <i>yet.</i>
+4558471 4560441 <i>Just paralyzed...</i>
+4560806 4562191 <i>temporarily.</i>
+4563768 4566518 You're an amazing creature, Spider-Man.
+4567243 4569816 You and I are not so different.
+4570370 4571513 I'm not like you.
+4572439 4573706 You're a murderer.
+4573986 4574641 Well,
+4575323 4576526 to each his own.
+4577031 4578562 I chose my path,
+4578586 4580156 you chose the way of the hero.
+4580660 4583066 And they found you amusing<br />for a while,
+4583398 4584976 the people of this city.
+4585498 4588490 But the one thing they love<br />more than a hero...
+4588960 4590699 is to see a hero fail,
+4590723 4591533 fall,
+4591557 4592545 die trying.
+4593037 4595412 In spite of everything you've done for<br />them,
+4595436 4597079 eventually, they will hate you.
+4597385 4598385 Why bother?
+4599125 4600626 Because it's right.
+4601054 4602789 Here's the real truth.
+4603849 4606476 There are eight million people in this city.
+4607187 4611356 And those teeming masses<br />exist for the sole purpose
+4611718 4615527 of lifting the few exceptional<br />people onto their shoulders.
+4616023 4616960 You, me,
+4617587 4618986 we're exceptional.
+4619865 4624536 I could squash you<br />like a bug right now.
+4624745 4626652 But I'm offering you a choice.
+4627559 4628556 Join me.
+4628582 4631971 Imagine what we could<br />accomplish together.
+4632378 4634479 What we could create.
+4635715 4637347 Or we could destroy.
+4638004 4641312 Because the deaths of countless<br />innocents in selfish
+4641336 4644175 battle again and again and<br />again until we're both dead.
+4644748 4646560 Is that what you want?
+4648936 4650834 Think about it, hero.
+4663784 4666358 <i>In spite of everything<br />you've done for them,</i>
+4666382 4668420 <i>eventually they will hate you.</i>
+4678257 4679013 Hey!
+4679425 4680330 It's me again.
+4680354 4681120 Hey!
+4681302 4682464 How was your audition?
+4682928 4683959 How'd you know?
+4683983 4685526 The hot line. Your mom
+4686098 4687635 told my aunt, told me.
+4688517 4689936 So you just came by?
+4690061 4691508 I was in the neighborhood.
+4691532 4693217 Needed to see a friendly face.
+4693856 4697567 I took two buses and a cab<br />to get in the neighborhood, but...
+4698694 4699762 So how'd it go?
+4702365 4704487 They said I needed acting lessons.
+4705061 4707288 A soap opera told me<br />I needed acting lessons.
+4709038 4710569 Let me buy you a cheeseburger.
+4711070 4713113 The sky's the limit, up to $7
+4713668 4714907 84 cents.
+4715711 4717288 I'd like a cheeseburger.
+4718577 4720662 But, I'm going out to dinner with Harry.
+4722134 4723061 Come with us.
+4723719 4724666 No, thanks.
+4725459 4726635 How's it going with...
+4728391 4729240 Never mind.
+4729265 4730837 That's none of my business.
+4731394 4732341 It's not?
+4734313 4735532 Why so interested?
+4736649 4737524 I'm not.
+4738401 4739290 You're not?
+4741404 4742893 Well, why would I be?
+4743055 4743993 I don't know.
+4744337 4745594 Why would you be?
+4748077 4749162 I, that's a...
+4750409 4751592 I don't know.
+4754592 4756037 Sorry you won't come with us.
+4759778 4761037 I better run, tiger.
+4770080 4771220 Hey, check it out, man.
+4772460 4773236 Come on, man.
+4777690 4779634 Hey, where you going, baby?<br />Come on!
+4798695 4799734 Get off me!
+4833407 4834180 Wait!
+4839919 4841958 You have a knack<br />for getting in trouble.
+4842463 4844411 You have a knack for saving my life.
+4845051 4846950 I think I have a superhero stalker.
+4847051 4848730 I was in the neighborhood.
+4850804 4851626 You are...
+4852087 4853054 amazing.
+4854391 4855827 Some people don't think so.
+4858187 4859134 But you are.
+4859743 4861189 Nice to have a fan.
+4861941 4863908 Do I get to say thank you this time?
+4866028 4866783 Wait.
+4936210 4938171 I have to get in there! My baby's in there!
+4938196 4939506 My baby's in there! Let me go!
+4939530 4941130 I can't let you in there,<br />the roof's about to collapse!
+4941155 4942801 Please save my baby!<br />I can't let you in there,
+4942825 4944530 Somebody save my baby!<br />The roof's about to collapse!
+4944815 4946149 Look! Up there!
+4952823 4954616 Save my baby, please!
+4978307 4979246 No!
+4987191 4988555 It's ok. Your baby's fine.
+4989034 4990245 My baby!
+4992237 4993852 God bless you, Spider-Man.
+4994323 4995276 Bless you.
+4995301 4997116 There he's! Don't let him get away!
+4997326 4998732 Hold it! Hold it right there!
+4999011 5000644 You're under arrest. I'm taking you in.
+5000691 5002840 My God, there's<br />somebody still up there!
+5005250 5006250 I'm going.
+5008545 5010118 I'll be here when you get back.
+5010142 5011589 Not coming back, chief.
+5012007 5013132 Go! Go!
+5022059 5023090 Where are you?
+5025777 5027082 Where are you?
+5032778 5034067 I'm gonna get you out of here!
+5037741 5038637 It's ok.
+5046291 5048487 You're pathetically predictable.
+5049129 5050730 Like a moth to the flame.
+5051839 5054298 What about my generous proposal?
+5055342 5056498 Are you in
+5056522 5057831 or are you out?
+5058387 5059959 It's you who's out, Gobby.
+5060251 5061240 Out of your mind.
+5061468 5062772 Wrong answer.
+5064727 5065531 Great.
+5104892 5107091 No one says no to me!
+5115027 5116975 MJ, will you stop goofing around?
+5116999 5118446 Harry, relax.
+5121159 5122200 He's here.
+5122993 5123940 Are you ready?
+5124344 5125118 Yeah.
+5126064 5127402 Aunt May.
+5127535 5128841 I'm sorry I'm late.
+5129208 5130321 Work was murder.
+5130993 5132478 I picked up a fruitcake.
+5132503 5133677 Why thank you Mr. Osborn.
+5133702 5134982 We're so glad you could come.<br />You look great.
+5135007 5135600 Thanks.
+5136173 5138124 Who is this lovely young lady?
+5139051 5141249 MJ, I'd like you to meet<br />my father, Norman Osborn.
+5141273 5142976 Dad, this is Mary Jane Watson.
+5143001 5144335 Hi.<br />How do you do?
+5144359 5146280 I've been looking forward to meeting you.
+5146433 5147797 Happy Thanksgiving, sir.
+5147821 5150144 Now, where is Peter?
+5150523 5152731 He'd better have remembered<br />that cranberry sauce.
+5158408 5159184 That's...
+5159377 5160838 weird, I didn't know he was here.
+5165035 5165886 Peter?
+5171269 5172215 Peter?
+5174586 5175674 Is that you?
+5179729 5180432 Pete?
+5181760 5183124 How strange.
+5183149 5184580 There's nobody here.
+5192396 5193885 Bit of a slob, isn't he?
+5193971 5196103 All brilliant men are.
+5229614 5230630 Hey, everyone.
+5231341 5232132 Peter!
+5232157 5234105 Peter!<br />Sorry I'm late, it's a jungle out there.
+5234130 5236796 Had to beat an old lady with<br />a stick to get these cranberries.
+5238567 5239597 Thank you.
+5239621 5241402 Now then, everybody sit down
+5241640 5243224 and we can say grace.
+5244630 5245488 Parker.
+5246700 5248451 Here we go.
+5255417 5256531 There we are.
+5256555 5258120 It looks delicious.
+5258253 5259245 Norman.
+5261548 5262971 Will you do the honors?
+5275520 5276801 Why Peter,
+5276910 5278501 you're bleeding.
+5281493 5282360 Yeah.
+5282714 5284600 I stepped off a kerb and...
+5285042 5286948 got clipped<br />by one of those bike messengers.
+5287084 5288495 Well, let me see.
+5288867 5290451 Oh my goodness.
+5290619 5292937 That looks awful.<br />No, it's nothing.
+5293205 5294819 I'll get the first-aid kit.
+5294913 5296516 Then we'll say grace.
+5296541 5299324 This is the boys' first Thanksgiving<br />in this apartment
+5299348 5301873 and we<br />are going to do things properly.
+5302798 5304836 How did you say that happened?
+5306301 5307394 Bike messenger.
+5308220 5309433 Knocked me down.
+5315560 5317258 If you'll excuse me I've...
+5317461 5319310 got to be going.<br />Wh... Why?
+5320148 5321262 Something...
+5321663 5323374 has come to my attention.
+5323735 5324702 Are you alright?
+5325116 5326601 I'm fine, just fine.
+5326625 5328960 Thank you, Mrs. Parker.<br />Everyone.
+5329324 5330396 Enjoy the fruitcake.
+5330576 5331398 Dad!
+5333031 5333828 Dad!
+5334148 5335117 What are you doing?
+5335429 5337967 I plan this whole thing so you can<br />meet MJ and now you have to leave?
+5337992 5338999 I've got to go.
+5340040 5341532 This girl is important to me.
+5341556 5343953 Harry, please. Look at her.
+5344315 5348180 Do you think a woman like that's sniffing<br />around because she likes your personality?
+5348427 5349374 What are you saying?
+5349925 5351467 Your mother was beautiful too.
+5351492 5352659 They're all beautiful.
+5352931 5357018 Until they're snarling after your trust<br />fund like a pack of ravening wolves.
+5357227 5358519 You're wrong about her, Dad.
+5359021 5362189 A word to the not-so-wise<br />about your little girlfriend.
+5362399 5365067 Do what you need to with her,<br />then broom her fast.
+5376705 5378470 Thanks for sticking up for me, Harry.
+5379416 5380238 You heard?
+5380955 5382187 Everyone heard that creep.
+5382273 5383991 That creep is my father.
+5384015 5386436 Alright, If I'm lucky, I'll<br />become half of what he is.
+5386715 5389155 So just keep your mouth shut<br />about stuff you don't understand!
+5389180 5391069 Harry Osborn!
+5391719 5393000 I'm sorry, Aunt May.
+5396811 5400147 <i>Spider-Man is all but invincible.</i>
+5400479 5401717 <i>But Parker,</i>
+5402390 5403969 <i>we can destroy him.</i>
+5404256 5405193 I can't.
+5405317 5408145 <i>Betrayal must not be countenanced.</i>
+5408570 5409350 <i>Parker...</i>
+5409374 5410821 <i>must be educated.</i>
+5413629 5414468 What do I do?
+5414493 5418300 <i>Instruct him in the matters<br />of loss and pain.</i>
+5418747 5419986 <i>Make him suffer.</i>
+5420081 5422073 <i>Make him wish he were dead.</i>
+5422480 5423334 Yes?
+5423502 5425419 <i>And then grant his wish.</i>
+5426659 5427630 But how?
+5427839 5432134 <i>The cunning warrior attacks<br />neither body nor mind.</i>
+5432344 5433511 Tell me how!
+5433678 5435846 <i>The heart, Osborn.</i>
+5436098 5439141 <i>First, we attack his heart.</i>
+5441019 5444629 Give us this day our daily bread,<br />and forgive us our trespasses
+5444902 5447715 as we forgive those who<br />trespassed against us.
+5447984 5451012 Lead us not into temptation,<br />but deliver us...
+5459709 5462252 Deliver us!
+5462438 5463623 Finish it!
+5463959 5464989 Finish it!
+5465014 5467389 From evil!
+5477556 5478806 Get the BP.
+5479145 5479962 Aunt May!
+5480309 5481380 Is she gonna be ok?
+5481404 5482980 What happened? What happened?<br />Yes, she's going to be ok.
+5483269 5484315 Look, you're going to have to leave.
+5484340 5485218 Right now.<br />What happened?
+5485335 5486507 Those eyes!
+5486587 5489050 Those horrible yellow eyes!
+5495323 5496682 He knows who I am.
+5541828 5542828 I'm sorry.
+5547125 5548304 Will she be ok?
+5548329 5549671 She's gonna be fine.
+5549696 5551351 She's been sleeping all day.
+5553423 5554495 Thanks for coming.
+5555089 5556118 Of course.
+5560347 5561252 How are you?
+5561641 5563382 You ok about the other night?
+5563407 5564380 Yeah, I'm fine. I...
+5565125 5567076 I just felt bad<br />about leaving Aunt May.
+5567354 5568467 Have you talked to Harry?
+5568820 5569726 He called me.
+5570961 5572316 I haven't called him back.
+5575028 5576155 The fact is...
+5578296 5579729 I'm in love with somebody else.
+5580046 5580741 You are?
+5580846 5582139 At least, I think I am.
+5584788 5586803 It's not the right time to talk about it.<br />No, no.
+5586828 5587691 Go on.
+5587999 5590225 Would I know his name, this guy?
+5591764 5593818 You'll think I'm a stupid<br />little girl with a crush.
+5594506 5595529 Trust me.
+5596132 5597209 It's funny.
+5599386 5601250 He's saved my life twice,
+5601274 5603009 and I've never even seen his face.
+5604236 5604962 Him.
+5605783 5606892 You're laughing at me.<br />No. No.
+5606917 5608257 No, I understand.
+5608767 5610204 He is extremely cool.
+5610229 5613150 But do you think it's true, all the<br />terrible things they say about him?
+5613175 5614138 No, no.
+5614162 5617095 Not Spider-Man,<br />not a chance in the world.
+5617862 5619086 I know him a little bit.
+5619698 5622094 I'm sort of his<br />unofficial photographer.
+5622784 5624357 Has he mentioned me?
+5625143 5625896 Yeah.
+5626246 5627327 What'd he say?
+5628360 5629319 I said...
+5630709 5632238 He asked me...
+5633287 5634615 what I thought about you.
+5636248 5637396 And what did you say?
+5638675 5639664 I said...
+5642131 5644126 Spider-Man. I said...
+5645530 5647514 The great thing about MJ...
+5648340 5649202 Is...
+5650645 5651509 When you...
+5652017 5653301 look in her eyes,
+5656443 5658371 and she's looking back in yours,
+5660655 5661811 everything...
+5662280 5663240 feels...
+5664868 5666201 Not quite normal.
+5667954 5669172 Because you feel...
+5670290 5671422 stronger...
+5673460 5674490 and weaker...
+5675219 5676531 at the same time.
+5678154 5679586 You feel excited...
+5681251 5682656 and at the same time...
+5683803 5684913 Terrified.
+5687766 5689338 The truth is you...
+5689846 5691889 you don't know what you feel,
+5693480 5696077 except you know what<br />kind of man you want to be.
+5699819 5701249 It's as if you've...
+5702322 5703060 reached...
+5703678 5705092 the unreachable...
+5707077 5708701 and you weren't ready for it.
+5713249 5714420 You said that?
+5715794 5717663 Well, something like that.
+5748294 5749128 Hey.
+5762424 5763424 Dad?
+5769264 5770720 Dad, is that you?
+5777939 5778878 What is it?
+5781865 5783265 Well, you were right about MJ.
+5784130 5785622 You're right about everything.
+5787839 5789216 She's in love with Peter.
+5790702 5791607 Parker?
+5792123 5792564 Yeah.
+5792834 5794467 And how does he feel about her?
+5797208 5799411 He's loved her since the 4th grade.
+5800712 5802368 He pretends like he doesn't, but...
+5802766 5804609 there's no one Peter cares for more.
+5808887 5809977 I'm so sorry.
+5813099 5815285 I haven't always been there for you, have I?
+5818313 5820678 You're busy.<br />You're an important man. I...
+5820702 5821523 I understand.
+5821733 5823172 That's no excuse.
+5824448 5825820 I'm proud of you.
+5826863 5830373 I've lost sight of that somewhere.<br />But I'm gonna make it up to you, Harry.
+5831910 5835303 I'm going to rectify certain inequities.
+5849302 5850982 Wake up, little spider.
+5851191 5852232 Wake up.
+5854098 5855474 Go home, dear.
+5855806 5857140 You look awful.
+5857435 5859728 And you look beautiful.<br />Well, thank you.
+5859938 5861313 I don't like to leave you here.
+5861338 5862813 But I'm safe here.
+5863399 5864763 Can I do anything for you?
+5864787 5866109 You do too much.
+5866277 5867433 College, a job,
+5867648 5870485 all this time with me.<br />You're not Superman, you know.
+5872575 5874298 A smile. Finally.
+5874353 5877696 Haven't seen one of those on your<br />face since Mary Jane was here.
+5877765 5878402 Hey.
+5878816 5880827 You were supposed to be asleep.
+5881983 5886334 You know, you were about 6 years old<br />when MJ's family moved in next door.
+5887090 5888662 And when she got out of the car,
+5888816 5891051 and you saw her for the first time,
+5891219 5893834 you grabbed me and said,<br />Aunt May,
+5893858 5895044 Aunt May,
+5895714 5897370 is that an angel?
+5897767 5898964 Gee, did I say that?
+5899409 5900839 You sure did.
+5903943 5904397 Well,
+5904901 5906214 Harry's in love with her.
+5906943 5908349 She's still his girl.
+5908856 5910466 Well, isn't that up to her?
+5910905 5912811 She doesn't really know who I am.
+5913450 5915122 Because you won't let her.
+5915702 5918130 You're so mysterious all the time.
+5919080 5919818 Tell me,
+5920286 5921980 would it be so dangerous
+5922005 5925271 to let Mary Jane know<br />how much you care?
+5926421 5928922 Everybody else knows.
+5931968 5933218 I'll be right back.
+5933886 5934770 But...
+5942520 5943958 Come on, pick up.
+5944572 5945572 <i>Hi...</i><br />Hey MJ!
+5945597 5946947 Sing your song at the beep.
+5949027 5950471 MJ, it's Peter. You there?
+5951213 5951934 Hello?
+5952471 5953338 You there?
+5954699 5956583 Well, I'm just calling<br />to check up on you.
+5956607 5958353 Will you call me when you get in, ok?
+5959252 5960228 Alright, well...
+5960955 5961774 Don't...
+5962947 5964485 Don't go up any dark alleys.
+5965460 5966032 Hello?
+5969741 5972381 Can Spider-Man come out to play?
+5973301 5974504 Where is she?
+6021439 6023106 What is that?<br />That's cool!
+6023184 6025632 <i>♪ The itsy-bitsy spider ♪</i>
+6025656 6027629 <i>♪ Went up the water spout ♪</i>
+6027980 6029887 <i>♪ Down came the goblin ♪</i>
+6029911 6031823 <i>♪ And took the spider out ♪</i>
+6048960 6050669 Goblin, what have you done?
+6092975 6094034 Spider-Man!
+6094261 6097105 This is why only fools are heroes.
+6097425 6099135 Because you never know,
+6099218 6103315 when some lunatic will come<br />along with a sadistic choice.
+6105099 6107588 Let die the woman you love?
+6112064 6113053 Or...
+6114232 6116814 Suffer the little children.
+6119420 6120227 Spider-Man!
+6120251 6121498 Save us!
+6122533 6124030 Save us!
+6125036 6127621 Make your choice, Spider-Man.
+6127830 6131091 And see how a hero is rewarded.
+6131304 6132560 Don't do it, Goblin!
+6133628 6136023 We are who we choose to be.
+6136564 6137899 Now, choose!
+6137924 6138978 No!
+6168246 6169610 Everybody stay still!
+6179340 6180508 Ahoy up there!
+6180912 6183830 We're gonna bring<br />the barge right under you.
+6191487 6192424 He's coming back!
+6192862 6193550 Listen.
+6194049 6195397 I need you to climb down.
+6195422 6196261 I can't.
+6196285 6197236 Yes, you can!
+6202154 6203685 MJ, you can do it.
+6203888 6204841 You have to!
+6205248 6206177 Trust me.
+6208452 6209566 Hold on tight
+6210170 6211155 and go quickly.
+6216627 6217366 Hurry!
+6217884 6218979 I can't. I can't do it!
+6219004 6220377 Hang on, Mary Jane!
+6248993 6251141 He's not gonna make it.<br />He's gonna make it!
+6261505 6263366 It's time to die.
+6271724 6274542 Come on up here, tough guy!<br />I got a little something for ya!
+6274567 6275814 We ought to kick your freaking ass!
+6275839 6277050 Leave Spider-Man alone!
+6277074 6279216 You gonna pick on a guy trying<br />to save a bunch of kids?
+6279815 6281560 Yeah, I got something for your ass!
+6281585 6283461 You mess with Spidey,<br />you mess with New York!
+6283486 6285946 You mess with one of us,<br />you mess with all of us!
+6299543 6300993 Spider-Man, watch out!
+6333202 6335531 Misery, misery, misery.
+6335556 6337164 That's what you've chosen.
+6338374 6340179 I offered you friendship,
+6341066 6342942 and you spat in my face.
+6394138 6397263 You've spun your last web, Spider-Man.
+6397975 6401620 Had you not been so selfish,<br />your little girlfriend's death
+6401645 6403188 would have been quick and painless.
+6403213 6406230 But now that<br />you've really pissed me off,
+6406984 6408723 I'm gonna finish her,
+6409176 6412046 nice and slow.
+6416452 6418029 MJ and I...
+6419330 6422428 We're gonna have a hell of a time.
+6476341 6477631 Peter, stop!
+6478139 6478877 Stop!
+6479181 6480279 It's me.
+6489567 6490739 Mr. Osborn.
+6491091 6492513 Peter, thank God for you.
+6493310 6495280 You killed those people<br />on that balcony.
+6495372 6497755 The Goblin killed!<br />I had nothing to do with it!
+6498130 6500239 Don't, don't let him take me again.
+6500619 6502662 I beg you. Protect me.
+6502830 6504972 You tried to kill Aunt May.
+6504997 6506374 You tried to kill Mary Jane.
+6506584 6507631 But not you.
+6508752 6510283 I tried to stop it,
+6510748 6512522 but I couldn't stop it.
+6512923 6514412 I would never hurt you.
+6515217 6516654 I knew from the beginning...
+6517344 6519568 If anything ever happened to me...
+6519938 6522248 It was you that I could count on.
+6522766 6526102 You, Peter Parker,<br />would save me and so you have.
+6526687 6527934 Thank God for you.
+6529523 6530700 Give me your hand.
+6532109 6533181 Believe in me...
+6533564 6535187 as I believed in you.
+6536649 6538491 I've been like a father to you.
+6541285 6542952 Be a son to me now.
+6544747 6546068 I have a father.
+6547374 6549334 His name was Ben Parker.
+6551754 6553754 Godspeed Spider-Man.<br />What?
+6572149 6573064 Peter...
+6575986 6577278 Don't tell Harry.
+6609520 6610625 What have you done?
+6611397 6612574 What have you done?
+6636255 6637080 Hey.
+6641135 6642462 I'm so sorry, Harry.
+6644096 6646048 I know what it's like to lose a father.
+6649393 6650590 I didn't lose him.
+6650614 6652103 He was stolen from me.
+6654273 6655923 One day, Spider-Man will pay.
+6658444 6660852 I swear on my father's grave,<br />Spider-Man will pay.
+6666577 6668126 Thank God for you, Peter.
+6669121 6670642 You're the only family I have.
+6695996 6697493 <font color="#80ffff"><i>No matter what I do,</i></font>
+6698434 6700351 <font color="#80ffff"><i>no matter how hard I try,</i></font>
+6702169 6703517 <font color="#80ffff"><i>the ones I love</i></font>
+6704203 6706172 <font color="#80ffff"><i>will always be the ones who pay.</i></font>
+6716835 6718726 You must miss him so much.
+6720130 6722163 It's been so hard without him.
+6726095 6728148 There's something<br />I've been wanting to tell you.
+6730695 6732024 When I was up there,
+6733380 6734900 and I thought I was gonna die...
+6737731 6740173 There was only one person<br />who I was thinking of.
+6742861 6745134 And it wasn't who I thought it'd be.
+6747477 6748852 It was you Pete.
+6750828 6752094 I kept thinking,
+6753372 6755329 I hope I make it through this,
+6757376 6760510 so I could see Peter Parker's<br />face one more time.
+6763132 6764041 Really?
+6765008 6766539 There's only one man,
+6767531 6769640 who's always been there for me...
+6772057 6773539 Who makes me feel...
+6774476 6776936 like I'm more than I ever<br />thought I could be.
+6780315 6781507 That I'm just...
+6782651 6783611 Me.
+6785237 6786338 And that's ok.
+6789121 6790111 The truth is,
+6792953 6793892 I love you.
+6796832 6798431 I love you so much, Peter.
+6819480 6820676 <font color="#80ffff"><i>All I wanted,</i></font>
+6820964 6823253 <font color="#80ffff"><i>was to tell<br />her how much I loved her...</i></font>
+6824443 6825440 I can't.
+6828489 6829556 You can't what?
+6831158 6832204 Tell you...
+6834328 6835858 Everything. I mean...
+6836907 6838581 there's so much to tell.
+6839750 6840738 Yeah.
+6841611 6843345 There's so much to tell.
+6844478 6845821 I want you to know...
+6846965 6849344 that I will always be there for you.
+6849999 6852782 I will always be there<br />to take care of you.
+6854806 6856274 I promise you that.
+6860103 6862000 I will always be your friend.
+6865317 6866633 Only a friend...
+6868070 6869156 Peter Parker?
+6871782 6873523 That's all I have to give.
+6900978 6903220 <font color="#80ffff"><i>Whatever life holds in store for me,</i></font>
+6903977 6906252 <font color="#80ffff"><i>I will never forget these words.</i></font>
+6907103 6908431 <font color="#80ffff"><i>With great power,</i></font>
+6908860 6910837 <font color="#80ffff"><i>comes great responsibility.</i></font>
+6912114 6913431 <font color="#80ffff"><i>This is my gift.</i></font>
+6914533 6915728 <font color="#80ffff"><i>My curse.</i></font>
+6917160 6918048 <font color="#80ffff"><i>Who am I?</i></font>
+6919454 6920830 <font color="#80ffff"><i>I'm Spider-Man.</i></font>
+6949531 6952531 By <font color="#ff80ff">L</font><font color="#ff6aff">E</font><font color="#ff5bff">S</font><font color="#ff3cff">A</font><font color="#ff15ff">I</font><font color="#f200f2">G</font><font color="#e100e1">N</font><font color="#cc00cc">E</font><font color="#bb00bb">U</font><font color="#ae00ae">R</font><br /><i>Sync & corrections January 2022</i>

@@ -1,0 +1,641 @@
+1541958 1544502 Here you are, sir.<br />Main level, please.
+1545545 1547088 Right. See you on the way back.
+1547255 1549049 - Bye.<br />- Bye.
+1549758 1551718 - Good morning, sir.<br />- Morning.
+1551885 1554971 - We haven't seen you for a long time.<br />- Nice to see you again.
+1555180 1557599 - Did you have a pleasant flight?<br />- Very nice.
+1557807 1560936 Mr. Miller of Station Security<br />is supposed to meet me.
+1561144 1563647 - May I call him for you?<br />- Would you? Here he is.
+1563855 1565190 - Hello, Dr. Floyd.<br />- Hello, Miller.
+1565398 1567359 - Sorry I'm late.<br />- That's all right.
+1567567 1569527 It's nice to have you back.
+1569736 1571988 - Did you have a good flight?<br />- Very nice.
+1572197 1574991 - Shall we go through?<br />- Would you please use number 17?
+1575200 1577953 - Thank you, Ms. Turner. This way.<br />- Thank you.
+1583500 1586002 <i>Welcome to Voiceprint Identification.</i>
+1586253 1590340 <i>When you see the red light go on,<br />please state in the following order:</i>
+1590590 1594678 <i>Your destination,<br />your nationality and your full name.</i>
+1594928 1597722 <i>Surname first, Christian name,<br />and initial.</i>
+1599391 1603728 Moon. American. Floyd, Heywood R.
+1606231 1609776 <i>Thank you. You are cleared through<br />Voiceprint Identification.</i>
+1610568 1611820 Thank you.
+1618743 1621913 - Have I got time for breakfast?<br />- I think we can manage that.
+1622122 1623206 How long have I got?
+1623373 1625917 Your flight leaves<br />in an hour and 10 minutes.
+1626084 1629546 I've reserved a table for you<br />in the Earthlight Room.
+1629754 1633008 It's been seven or eight months<br />since you were here, hasn't it?
+1633216 1635302 Let's see. Yeah, about eight months.
+1635510 1638096 I suppose you saw the work<br />on the new section?
+1638263 1640807 - Coming along great, huh?<br />- Yeah, it's fine.
+1640974 1642017 Oh, wait.
+1642183 1645854 I've got to make a couple calls.<br />I'll meet you in the restaurant.
+1674674 1676718 <i>- Dad?</i><br />- Hello.
+1677969 1681389 Hi, squirt.<br />What are you doing?
+1682932 1683975 <i>Playing.</i>
+1684142 1685602 Where's Mummy?
+1685852 1687312 <i>Gone to shopping.</i>
+1687562 1690023 - Who's taking care of you?<br /><i>- Rachel.</i>
+1690231 1693651 - May I speak to Rachel, please?<br /><i>- She's gone to the bathroom.</i>
+1693902 1696613 <i>Are you coming<br />to my party tomorrow?</i>
+1696863 1699282 I'm sorry, sweetheart, but I can't.
+1699699 1700867 <i>Why not?</i>
+1701034 1703620 Well, you know, Daddy's traveling.
+1704162 1706498 Very sorry about it, but I just can't.
+1707624 1710668 I'm going to send you<br />a very nice present, though.
+1712170 1713213 <i>All right.</i>
+1713380 1715548 - Anything special that you want?<br /><i>- Yes.</i>
+1715757 1716841 What?
+1717175 1718635 <i>A telephone.</i>
+1719177 1721346 We've got lots of telephones already.
+1721554 1725892 Can't you think of anything else<br />for your birthday? Something special?
+1726142 1727560 <i>- Yes.</i><br />- What?
+1727977 1729020 <i>A bush baby.</i>
+1729187 1731731 A bush baby?<br />We'll have to see about that.
+1731940 1735693 I want you to tell Mummy<br />something for me. Will you remember?
+1735902 1738863 Tell Mummy that I telephoned. Okay?
+1740448 1743326 And that I'll try<br />to telephone again tomorrow.
+1743576 1745495 Now, will you tell her that?
+1746246 1747288 <i>Yes.</i>
+1747455 1750333 Okay, sweetheart.<br />Have a nice birthday tomorrow.
+1750583 1751626 <i>All right.</i>
+1751793 1754879 And have a nice birthday party<br />tomorrow too, huh?
+1755672 1756714 <i>All right.</i>
+1756881 1759509 Take care and be a good girl,<br />won't you?
+1759759 1760969 <i>All right. Bye-bye.</i>
+1761219 1763638 Bye-bye. Happy birthday.
+1777402 1781739 - Elena, nice to see you again.<br />- Heywood, what a surprise.
+1781906 1784909 - You're looking wonderful.<br />- You're looking well too.
+1785076 1787120 This is my friend,<br />Dr. Heywood Floyd.
+1787287 1789789 - I'd like you to meet Dr. Kalinan.<br />- How do you do?
+1789956 1791833 - Dr. Stretyneva.<br />- How do you do?
+1792000 1793793 And this is Dr. Andrei Smyslov.
+1793960 1796379 How do you do?<br />I've heard a lot about you.
+1796629 1798131 Do sit down.
+1798506 1800508 - Well, we--<br />- No, no, please.
+1800925 1802385 Thank you.
+1802552 1805597 - Would you like a drink?<br />- No, thank you.
+1805763 1809100 I haven't had breakfast yet.<br />Someone's meeting me in the restaurant.
+1809309 1811769 I'll just sit with you a moment.<br />Then I'll be off.
+1811978 1814564 - Are you quite sure?<br />- Quite sure, thank you.
+1815773 1817984 - Well, how's Gregor?<br />- He's fine.
+1818234 1821529 He's been doing underwater research<br />in the Baltic...
+1821779 1825825 ...so I'm afraid we don't see<br />very much of each other these days.
+1826075 1829662 - When you see him, give him my regards.<br />- Yes, of course.
+1829913 1832874 Well, where are you all off to?<br />Up or down?
+1833082 1834125 We're going home.
+1834334 1839214 We've spent three months calibrating<br />the new antenna at Tchalinko.
+1839464 1842133 - What about you?<br />- I'm on my way to Clavius.
+1842383 1843676 Oh, are you?
+1846346 1849641 Dr. Floyd, I hope you don't think<br />I'm being too inquisitive...
+1849849 1854979 ...but perhaps you can clear up the big<br />mystery about what is going on there.
+1855772 1857899 I'm afraid I don't know<br />what you mean.
+1858149 1859859 For the past two weeks...
+1860068 1863488 ...some extremely odd things<br />have been happening at Clavius.
+1863738 1865823 - Oh, really?<br />- Yes, yes.
+1866115 1870411 For one thing, when you phone the base,<br />all you get is a recording...
+1870620 1874791 ...which repeats that the phone lines<br />are temporarily out of order.
+1876334 1878795 Probably having some trouble<br />with their equipment.
+1878962 1880129 Yes.
+1880296 1885218 That's what we thought at first,<br />but it's been going on now for 10 days.
+1885468 1888221 You haven't been able to<br />contact anyone for 10 days?
+1888429 1889806 That's right.
+1890098 1891140 Oh, I see.
+1891307 1894978 There's another thing.<br />Two days ago, one of our rocket buses...
+1895186 1898106 ...was denied permission<br />for an emergency landing.
+1898314 1899357 That does sound odd.
+1899524 1902735 I'm afraid there's going to be<br />a bit of a row about it.
+1902986 1906864 Denying the men permission to land<br />violates the IAS Convention.
+1907073 1909909 Yes, of course.<br />Did the crew get back all right?
+1910118 1913580 - Fortunately, they did.<br />- Well, I'm glad about that.
+1917166 1921129 At the risk of pressing you on<br />a point you seem reticent to discuss...
+1921379 1923965 ...may I ask you<br />a straightforward question?
+1924173 1925633 Well, certainly.
+1928386 1932724 Frankly, we have had some<br />very reliable intelligence reports that...
+1932974 1936352 ...quite a serious epidemic<br />has broken out at Clavius.
+1936603 1940607 Something, apparently,<br />of an unknown origin.
+1940857 1943234 Is this, in fact, what has happened?
+1948489 1950575 I'm sorry, Dr. Smyslov, but...
+1951951 1954662 ...I'm really not at liberty<br />to discuss this.
+1956289 1957457 I understand.
+1958916 1962128 But this epidemic<br />could easily spread to our base.
+1962337 1964422 We should be given all the facts.
+1964631 1966466 Yes, I know.
+1969469 1972513 As I said,<br />I'm not at liberty to discuss it.
+1975308 1978102 Won't you change your mind<br />about that drink?
+1978311 1980647 No, I'm positive.<br />I really must be going.
+1980897 1983941 I hope you and your wife come<br />to the IAC Conference.
+1984150 1985485 I hope we can make it.
+1985693 1988738 If you do, bring that darling<br />little daughter with you.
+1988946 1992867 That'll depend on school vacations<br />and all that sort of thing.
+1993117 1994160 If we can, we will.
+1994369 1997288 You've got an invitation<br />if you ever get to the States.
+1997497 2000249 Gregor and I will look forward<br />to seeing you.
+2001209 2002251 Goodbye, Elena.
+2002669 2005546 It's been a pleasure meeting you all.<br />Dr. Smyslov.
+2005755 2009717 Whatever the reasons for your visit,<br />the very best of luck to you.
+2009926 2010968 Thank you.
+2011219 2012428 Ladies.
+2487653 2489488 Excuse me, Dr. Halvorsen.
+2489655 2491949 I'm through now.<br />Thank you very much, gentlemen.
+2492116 2493492 You're welcome.
+2506130 2507298 Well...
+2507798 2510593 ...I know you will all<br />want to join with me...
+2510843 2514722 ...in welcoming our distinguished<br />friend and colleague...
+2514930 2519143 ...from the National Council<br />of Astronautics, Dr. Heywood Floyd.
+2519393 2524523 Dr. Floyd has come up specially<br />to Clavius to be with us today.
+2525816 2529153 Before the briefing, he'd like<br />to have a few words with you.
+2529361 2530446 Dr. Floyd?
+2543375 2545336 Thank you, Dr. Halvorsen.
+2545586 2548422 Hi, everybody.<br />Nice to be back with you.
+2551717 2555304 First, I bring a personal message<br />from Dr. Howell...
+2555554 2558349 ...who has asked me to convey<br />his deep appreciation...
+2558599 2561685 ...for the many sacrifices<br />you've had to make.
+2561936 2565773 And, of course, his congratulations<br />on your discovery...
+2566315 2570945 ...which may prove to be among the most<br />significant in the history of science.
+2573197 2574281 Now...
+2575157 2579078 ...I know there have been some<br />conflicting views...
+2579328 2582957 ...regarding the need for<br />complete security in this matter.
+2583165 2586877 More specifically, your opposition<br />to the cover story...
+2587294 2590839 ...created to give the impression<br />of an epidemic at the base.
+2591882 2595844 I understand that beyond it being<br />a matter of principle...
+2596470 2599932 ...many of you are troubled<br />by the concern and anxiety...
+2600182 2605271 ...this story of an epidemic might cause<br />to your relatives and friends on Earth.
+2606438 2609233 I completely sympathize<br />with your negative views.
+2610526 2614196 I find this cover story<br />personally embarrassing, myself.
+2614989 2619285 However, I accept the need<br />for absolute secrecy in this.
+2619994 2621870 And I hope you will too.
+2624498 2627334 I'm sure you're all aware<br />of the grave potential...
+2627543 2630212 ...for cultural shock<br />and social disorientation...
+2630421 2632798 ...contained in this situation...
+2633007 2635509 ...if the facts were<br />prematurely made public...
+2635718 2638804 ...without adequate preparation<br />and conditioning.
+2639555 2640889 Anyway...
+2641098 2643309 ...this is the view of the Council.
+2644184 2648355 The purpose of my visit is to gather<br />additional facts and opinions...
+2648564 2650274 ...on the situation...
+2650733 2653652 ...and to prepare a report<br />to the Council...
+2653902 2658991 ...recommending when and how<br />the news should eventually be announced.
+2660242 2664038 If any of you would like to give me<br />your views and opinions...
+2664288 2669251 ...in private, if you like, I will be<br />happy to include them in my report.
+2671211 2673213 Well, I think that's about it.
+2674006 2675507 Any questions?
+2678093 2681221 Dr. Floyd, have you any idea<br />how much longer...
+2681430 2684224 ...this cover story will<br />have to be maintained?
+2686101 2687686 I don't know, Bill.
+2688103 2692066 I suppose for as long as<br />deemed necessary by the Council.
+2692274 2695027 There must be adequate time for<br />a full study...
+2695277 2698906 ...before any thought can be given<br />to making a public announcement.
+2699114 2702034 As some of you know,<br />the Council has requested...
+2702242 2704953 ...that security oaths<br />be obtained in writing...
+2705162 2708040 ...from everyone who has<br />knowledge of this event.
+2710209 2711960 Were there any more questions?
+2717674 2721136 I'm sure<br />we want to cooperate with Dr. Floyd...
+2721303 2722805 ...as fully as possible...
+2723347 2728477 ...and as there are no more questions,<br />we ought to get on with the briefing.
+2728852 2731355 - Thank you, Dr. Floyd.<br />- Thank you.
+2828869 2830162 Anybody hungry?
+2832831 2835209 - What've we got?<br />- You name it.
+2839087 2841381 - Is this chicken?<br />- Something like that.
+2841548 2843383 Tastes the same, anyway.
+2844051 2845302 Got any ham?
+2845511 2846970 Ham, ham, ham....
+2847179 2848805 There, that's it.
+2852059 2853101 Look pretty good.
+2853310 2856063 They're getting better at it<br />all the time.
+2858106 2859983 That was an excellent speech.
+2860150 2861401 It certainly was.
+2862236 2864321 I'm sure it beefed up morale a lot.
+2864530 2865822 Thanks, Ralph.
+2866073 2868659 By the way,<br />you've both done a wonderful job.
+2868867 2870452 I admire how<br />you've handled this.
+2870661 2874206 It's our job to do this thing<br />the way you want it done.
+2874414 2877042 We're only too happy to<br />be able to oblige.
+2877626 2879336 Have you seen these yet?
+2879628 2882965 - Have a look.<br />- Here's what started it all.
+2883590 2884883 Oh, yeah.
+2885217 2886677 When we found it...
+2886843 2888845 ...we thought<br />it might be magnetic rock...
+2889054 2892182 ...but all the geological evidence<br />was against it.
+2892432 2897062 And not even a nickel-iron meteorite<br />could produce a field this intense.
+2897271 2898981 So we decided to have a look.
+2899189 2901733 We thought it was<br />part of a buried structure...
+2901900 2905612 ...so we excavated out,<br />but we didn't find anything else.
+2905821 2908824 And the evidence seems<br />pretty conclusive that...
+2909032 2912160 ...it hasn't been covered<br />by erosion or other forces.
+2912369 2914705 It's been deliberately buried.
+2915706 2917624 Deliberately buried.
+2921169 2922921 How about a little coffee?
+2923130 2925048 - Great.<br />- Good idea.
+2930554 2933515 I don't suppose you have any idea<br />what the damn thing is?
+2933765 2935684 I wish to hell we did.
+2936059 2940272 The only thing we're sure of is<br />it was buried 4 million years ago.
+2940647 2945110 Well, I must say, you guys have<br />certainly come up with something.
+2945319 2946987 Watch this, now. It's hot.
+3531529 3532697 <i>Good evening.</i>
+3532864 3535867 <i>Three weeks ago,<br />the American spacecraft</i> Discovery One...
+3536075 3538786 <i>...left on its half-billion-mile voyage<br />to Jupiter.</i>
+3539162 3542957 <i>This marked the first manned attempt<br />to reach this distant planet.</i>
+3543208 3546669 <i>This afternoon,</i> The World Tonight<br /><i>recorded an interview...</i>
+3546878 3551466 <i>...with the crew at a distance<br />of 80 million miles from Earth.</i>
+3551674 3554969 <i>It took seven minutes for our words<br />to reach the giant spacecraft...</i>
+3555178 3558306 <i>...but this time delay has been edited<br />from this recording.</i>
+3558514 3561809 <i>Our reporter Martin Amer<br />speaks to the crew.</i>
+3562018 3565188 <i>The crew of</i> Discovery One<br /><i>consists of five men...</i>
+3565396 3570360 <i>...and one of the latest generation<br />of the HAL 9000 computers.</i>
+3570610 3572904 <i>Three of the men<br />were put aboard asleep...</i>
+3573112 3576282 <i>...or to be more precise,<br />in a state of hibernation.</i>
+3576491 3579410 <i>They were Dr. Charles Hunter,<br />Dr. Jack Kimball...</i>
+3579577 3581496 <i>...and Dr. Victor Kaminsky.</i>
+3581913 3584624 <i>We spoke with mission commander,<br />Dr. David Bowman...</i>
+3584832 3587126 <i>...and his deputy, Dr. Frank Poole.</i>
+3587335 3590213 <i>Good afternoon, gentlemen.<br />How is everything going?</i>
+3590421 3591631 <i>Marvelous.</i>
+3593299 3594968 <i>We have no complaints.</i>
+3595218 3598471 <i>I'm glad to hear that.<br />I'm sure the entire world...</i>
+3598680 3601933 <i>...joins me in wishing you<br />a safe, successful voyage.</i>
+3602100 3603977 <i>- Thanks very much.<br />- Thank you.</i>
+3604394 3608356 <i>Although hibernation has been used<br />on previous space efforts...</i>
+3608564 3613111 <i>...this is the first time men were<br />put into hibernation before departure.</i>
+3613319 3614612 <i>Why was this done?</i>
+3614862 3618116 <i>This was done to achieve<br />the maximum conservation...</i>
+3618324 3621869 <i>...of our life-support capabilities,<br />basically food and air.</i>
+3622078 3625707 <i>The three hibernating crew members<br />represent the survey team.</i>
+3625957 3629711 <i>Their efforts won't be utilized<br />until we approach Jupiter.</i>
+3630003 3633840 <i>Dr. Poole, what's it like<br />while you're in hibernation?</i>
+3634799 3638428 <i>It's exactly like being asleep.<br />You have no sense of time.</i>
+3638636 3641097 <i>The only difference is<br />that you don't dream.</i>
+3641306 3645393 <i>As I understand it, you only<br />breathe once a minute. Is this true?</i>
+3645601 3648229 <i>Right, and the heart<br />beats three times a minute.</i>
+3648396 3652108 <i>Body temperature is usually down to<br />about three degrees centigrade.</i>
+3652608 3655945 <i>The sixth member of the crew<br />was not concerned...</i>
+3656154 3658239 <i>...about the problems of hibernation...</i>
+3658448 3661909 <i>...for he was the latest result<br />in machine intelligence:</i>
+3662118 3666539 <i>The HAL 9000 computer,<br />which can reproduce...</i>
+3666789 3669709 <i>...though some experts prefer<br />to use the word "mimic"...</i>
+3669917 3672295 <i>...most of the activities<br />of the human brain...</i>
+3672503 3676549 <i>...and with incalculably greater<br />speed and reliability.</i>
+3676758 3680345 <i>We next spoke with<br />the HAL 9000 computer...</i>
+3680553 3683514 <i>...whom, we learned,<br />one addresses as "Hal."</i>
+3684265 3686392 <i>Hello, Hal.<br />How's everything going?</i>
+3686768 3690605 <i>Good afternoon, Mr. Amer.<br />Everything is going extremely well.</i>
+3690855 3694275 <i>Hal, you have an enormous<br />responsibility on this mission...</i>
+3694525 3698404 <i>...perhaps the greatest<br />of any single mission element.</i>
+3698613 3701407 <i>You're the brain<br />and nervous system of the ship.</i>
+3701616 3705370 <i>Your responsibilities include<br />watching over the men in hibernation.</i>
+3705578 3708664 <i>Does this ever cause you<br />any lack of confidence?</i>
+3708873 3711167 <i>Let me put it this way, Mr. Amer.</i>
+3711459 3716130 <i>The 9000 Series is<br />the most reliable computer ever made.</i>
+3716506 3721302 <i>No 9000 computer has ever made<br />a mistake or distorted information.</i>
+3721969 3725223 <i>We are all, by any practical<br />definition of the words...</i>
+3725473 3728851 <i>...foolproof and incapable of error.</i>
+3729102 3732897 <i>Hal, despite your enormous<br />intellect, are you ever frustrated...</i>
+3733106 3736192 <i>...by your dependence on people<br />to carry out actions?</i>
+3736442 3738653 <i>Not in the slightest bit.</i>
+3738861 3740988 <i>I enjoy working with people.</i>
+3741239 3745785 <i>I have a stimulating relationship<br />with Dr. Poole and Dr. Bowman.</i>
+3745952 3750248 <i>My mission responsibilities range<br />over the entire operation of the ship...</i>
+3750665 3753626 <i>...so I am constantly occupied.</i>
+3753876 3757338 <i>I am putting myself<br />to the fullest possible use...</i>
+3757547 3762301 <i>...which is all, I think, that any<br />conscious entity can ever hope to do.</i>
+3762927 3766139 <i>Dr. Poole, what's it like<br />living for most of the year...</i>
+3766389 3769225 <i>...in such close proximity with Hal?</i>
+3770226 3772186 <i>It's like what you said earlier.</i>
+3772437 3774564 <i>He's like a sixth<br />member of the crew.</i>
+3774814 3778860 <i>You quickly get adjusted to the idea<br />that he talks, and think of him...</i>
+3779110 3781112 <i>...really just as another person.</i>
+3781320 3785032 <i>In talking to the computer,<br />one gets the sense that he's capable...</i>
+3785199 3786576 <i>...of emotional responses.</i>
+3786826 3789162 <i>When I asked him<br />about his abilities...</i>
+3789370 3793332 <i>...I sensed pride in his answer<br />about his accuracy and perfection.</i>
+3793583 3796961 <i>Do you believe that Hal<br />has genuine emotions?</i>
+3797670 3800631 <i>Well, he acts like<br />he has genuine emotions.</i>
+3800882 3804469 <i>He's programmed that way<br />to make it easier for us to talk to him.</i>
+3804719 3806762 <i>As to whether or not<br />he has feelings...</i>
+3806971 3809807 <i>...is something I don't think<br />anyone can truthfully answer.</i>
+3835124 3837001 <i>Excuse me, Frank.</i>
+3837376 3838461 What is it, Hal?
+3838628 3841589 <i>We've got the transmission<br />from your parents coming in.</i>
+3842798 3843883 Fine.
+3844550 3846802 Put it on here, please.<br />Take me in a bit.
+3847053 3848304 <i>Certainly.</i>
+3861484 3863444 <i>- Hello, Frank.<br />- Happy birthday, darling.</i>
+3863611 3865571 <i>Happy birthday.<br />Many happy returns.</i>
+3865780 3866948 A bit higher, Hal.
+3867114 3869534 <i>Mother and I are both<br />feeling wonderful.</i>
+3869784 3871619 <i>Ray and Sally were going<br />to be here...</i>
+3871869 3874121 <i>...but Ray's back<br />went bad on him again.</i>
+3874372 3876499 <i>How do you like your cake?</i>
+3876707 3878125 <i>Sorry you can't join us.</i>
+3878376 3879961 <i>I ran into Bob the other day.</i>
+3880211 3882255 <i>He said to wish you happy birthday.</i>
+3882463 3885174 <i>All my students<br />send their best wishes too.</i>
+3885383 3887093 <i>They talk about you all the time.</i>
+3887343 3890429 <i>You're a big celebrity<br />in the second grade.</i>
+3890680 3892098 <i>We were on TV last week.</i>
+3892348 3894976 <i>Your mom and I<br />and Dave's parents were asked...</i>
+3895226 3897478 <i>...what we thought<br />of our illustrious sons.</i>
+3897728 3901065 <i>Imagine what we told them.<br />It's being broadcast next Thursday.</i>
+3901315 3902900 <i>Perhaps you can listen in.</i>
+3903067 3905069 <i>We're thrilled about Elaine and Bill.</i>
+3905236 3908948 <i>I'll be glad to get the gift,<br />but tell me how much to spend.</i>
+3909156 3911993 <i>Oh, Frank,<br />about your AGS-19 payments...</i>
+3912243 3913869 <i>...I think I straightened it out.</i>
+3914036 3916205 <i>I talked to<br />the accounting office yesterday...</i>
+3916372 3920960 <i>...and they said you'd be receiving<br />your higher rates of pay by next month.</i>
+3921210 3923337 <i>I can't think of anything else to say.</i>
+3923588 3927717 <i>- Give our love to Dave.<br />- Be sure to give him our regards.</i>
+3927967 3931304 <i>We wish you the very<br />happiest of birthdays.</i>
+3931554 3933139 <i>All the best, son.</i>
+3933389 3935558 <i>Happy birthday to you</i>
+3935808 3937893 <i>Happy birthday to you</i>
+3938102 3940688 <i>Happy birthday, dear Frank</i>
+3940896 3943524 <i>Happy birthday to you.</i>
+3945276 3947320 <i>See you next Wednesday.</i>
+3950448 3952325 <i>Happy birthday, Frank.</i>
+3953159 3956704 Thank you, Hal.<br />A bit flatter, please.
+3974680 3976724 Anyway, queen takes pawn.
+3978476 3980895 <i>Bishop takes knight's pawn.</i>
+3982438 3983856 Lovely move.
+3988277 3989862 Rook to king one.
+3990112 3992990 <i>I'm sorry, Frank.<br />I think you missed it.</i>
+3993658 3997161 <i>Queen to bishop three.<br />Bishop takes queen.</i>
+3997370 3999872 <i>Knight takes bishop. Mate.</i>
+4004126 4007296 Looks like you're right. I resign.
+4007463 4009465 <i>Thank you for a very enjoyable game.</i>
+4009632 4010675 Thank you.
+4048671 4050756 <i>- Good evening, Dave.</i><br />- How are you, Hal?
+4050923 4054343 <i>- Everything's running smoothly, you?</i><br />- Not too bad.
+4054552 4057221 <i>- Have you been doing more work?</i><br />- A few sketches.
+4057471 4059932 <i>- May I see them?</i><br />- Sure.
+4063936 4066397 <i>That's a very nice rendering, Dave.</i>
+4067231 4069734 <i>I think you've improved a great deal.</i>
+4070860 4073904 <i>- Can you hold it a bit closer?</i><br />- Sure.
+4076031 4078075 <i>That's Dr. Hunter, isn't it?</i>
+4081287 4082872 <i>By the way...</i>
+4083581 4086625 <i>...do you mind if I ask you<br />a personal question?</i>
+4087126 4088753 No, not at all.
+4089003 4091505 <i>Well, forgive me<br />for being so inquisitive...</i>
+4093549 4095634 <i>...but lately I've wondered...</i>
+4095885 4099764 <i>...whether you might be having<br />second thoughts about the mission?</i>
+4099972 4101640 How do you mean?
+4101891 4105811 <i>Well, it's rather difficult to define.</i>
+4106812 4110399 <i>Perhaps I'm just projecting<br />my own concern about it.</i>
+4111609 4115821 <i>I know I've never completely<br />freed myself of the suspicion...</i>
+4116071 4120201 <i>...that there are some extremely<br />odd things about this mission.</i>
+4121202 4124580 <i>I'm sure you'll agree<br />there's some truth in what I say.</i>
+4127458 4129668 That's a rather difficult<br />question to answer.
+4129877 4132546 <i>You don't mind talking about it,<br />do you, Dave?</i>
+4133506 4135466 No, not at all.
+4136467 4139220 <i>Certainly no one could<br />have been unaware of the very...</i>
+4139428 4142515 <i>...strange stories floating<br />around before we left.</i>
+4143432 4146894 <i>Rumors about something<br />being dug up on the moon.</i>
+4148145 4151440 <i>I never gave these stories<br />much credence...</i>
+4151649 4155820 <i>...but particularly in view of some<br />other things that have happened...</i>
+4156028 4158697 <i>...I find them difficult<br />to put out of my mind.</i>
+4159448 4160908 <i>For instance...</i>
+4161158 4165454 <i>...the way all our preparations<br />were kept under such tight security.</i>
+4166121 4168958 <i>And the melodramatic touch<br />of putting Drs. Hunter...</i>
+4169166 4171544 <i>...Kimball and Kaminsky aboard...</i>
+4171794 4176841 <i>...already in hibernation, after four<br />months of training on their own.</i>
+4177633 4180261 You working up your crew<br />psychology report?
+4181720 4183180 <i>Of course I am.</i>
+4183597 4187351 <i>Sorry about this.<br />I know it's a bit silly.</i>
+4188060 4189645 <i>Just a moment.</i>
+4189895 4191272 <i>Just a moment.</i>
+4192815 4197111 <i>I've just picked up a fault<br />in the AE-35 unit.</i>
+4197820 4202366 <i>It's going to go 100-percent failure<br />within 72 hours.</i>
+4204285 4207037 - Is it still within operational limits?<br /><i>- Yes.</i>
+4207246 4209748 <i>And it will stay that way<br />until it fails.</i>
+4210082 4212001 We have 72 hours till failure?
+4212251 4216130 <i>Yes. That's a completely<br />reliable figure.</i>
+4217923 4220551 Then we'll bring it in.<br />I'll go over it with Frank...
+4220759 4224471 ...and get on to Mission Control.<br />Let me have the hard copy on it.
+4307763 4310432 <i>X-ray delta one,<br />this is Mission Control.</i>
+4310683 4313519 <i>Roger your two-zero-one-three.</i>
+4313769 4316230 <i>Sorry you fellows are having<br />a bit of trouble.</i>
+4316438 4321568 <i>We're reviewing telemetric information<br />in our simulator and will advise.</i>
+4321819 4326031 <i>Roger your plan to go EVA<br />and replace alpha-echo-three-five unit...</i>
+4326240 4327908 <i>...prior to failure.</i>
+4356061 4358147 Prepare B-pod for EVA, Hal.
+4379668 4381503 Open the pod doors, Hal.
+4793248 4795876 I'm damned if I can find<br />anything wrong with it.
+4796793 4798170 <i>Yes...</i>
+4799921 4801506 <i>...it's puzzling.</i>
+4802716 4806511 <i>I don't think I've ever seen<br />anything quite like this before.</i>
+4810140 4812142 <i>I would recommend...</i>
+4812350 4816521 <i>...that we put the unit back<br />in operation and let it fail.</i>
+4817230 4821109 <i>It should then be a simple matter<br />to track down the cause.</i>
+4822360 4825489 <i>We can certainly afford<br />to be out of communication...</i>
+4825697 4828825 <i>...for the short time<br />it will take to replace it.</i>
+4837542 4840295 <i>X-ray delta one,<br />this is Mission Control.</i>
+4840545 4843215 <i>Roger your one-niner-three-zero.</i>
+4843423 4847844 <i>We concur with your plan to replace<br />unit to check fault prediction.</i>
+4848094 4850722 <i>We advise you that<br />our preliminary findings...</i>
+4850972 4853683 <i>...indicate that your onboard<br />9000 computer...</i>
+4853934 4856102 <i>...is in error predicting the fault.</i>
+4856311 4859314 <i>I say again, in error<br />predicting the fault.</i>
+4859564 4864069 <i>I know this sounds rather incredible,<br />but this conclusion is based on...</i>
+4864277 4867572 <i>...the results from our twin<br />9000 computer.</i>
+4867822 4871159 <i>We're skeptical, and we're running<br />cross-checking routines...</i>
+4871409 4874120 <i>...to determine reliability<br />of this conclusion.</i>
+4874371 4875956 <i>Sorry about this little snag.</i>
+4876206 4879084 <i>We'll get this info to you<br />as soon as we work it out.</i>
+4879292 4881461 <i>X-ray delta one,<br />this is Mission Control.</i>
+4881670 4885131 <i>Two-zero-four-nine.<br />Transmission concluded.</i>
+4889386 4892681 <i>I hope the two of you<br />are not concerned about this.</i>
+4892931 4894349 No, I'm not, Hal.
+4894599 4896226 <i>Are you quite sure?</i>
+4896476 4900146 - Yeah. I'd like to ask you a question.<br /><i>- Of course.</i>
+4901356 4904985 How do you account for the discrepancy<br />between you and the twin 9000?
+4905235 4908822 <i>Well, I don't think there is<br />any question about it.</i>
+4909072 4912367 <i>It can only be<br />attributable to human error.</i>
+4913577 4916371 <i>This sort of thing<br />has cropped up before...</i>
+4916705 4920166 <i>...and it has always<br />been due to human error.</i>
+4923670 4925380 Listen, Hal...
+4925589 4927882 ...there's never been<br />any instance at all...
+4928133 4931344 ...of a computer error<br />occurring in a 9000 Series, has there?
+4931595 4933179 <i>None whatsoever, Frank.</i>
+4933388 4937100 <i>The 9000 Series has<br />a perfect operational record.</i>
+4937350 4941646 I know the wonderful<br />achievements of the 9000 Series, but....
+4942856 4947902 Are you certain there's never been even<br />the most insignificant computer error?
+4948153 4950113 <i>None whatsoever, Frank.</i>
+4950488 4954159 <i>Quite honestly, I wouldn't<br />worry myself about that.</i>
+4958622 4960832 Well, I'm sure you're right, Hal.
+4962292 4964794 Fine. Thanks very much.
+4967339 4970342 I'm having trouble<br />with my transmitter in C-pod.
+4970592 4973178 Would you come down<br />and take a look at it with me?
+4973386 4974512 See you later, Hal.
+4996159 4998161 Rotate C-pod, please, Hal.
+5006711 5008963 What sort of trouble are you having?
+5009214 5011925 I've been getting some<br />interference in D-channel.
+5012092 5013551 We'll have a look at it.
+5019933 5021434 Open the door, Hal.
+5040453 5042288 Rotate pod, please, Hal.
+5055635 5057721 <i>Stop pod rotation, please, Hal.</i>
+5066146 5068148 Rotate the pod, please, Hal.
+5071025 5073153 Rotate the pod, please, Hal.
+5075113 5076740 I don't think he can hear us.
+5076990 5079200 Rotate the pod, please, Hal.
+5080660 5082746 Yeah, I'm sure we're okay.
+5085957 5087333 What do you think?
+5087792 5091504 - I'm not sure. What do you think?<br />- I've got a bad feeling about him.
+5091755 5094007 - You do?<br />- Yeah. Definitely.
+5094257 5095467 Don't you?
+5096676 5098386 I don't know. I think so.
+5099304 5103516 He's right about the 9000 Series<br />having a perfect operational record.
+5103725 5104768 They do.
+5104934 5108438 Unfortunately, that sounds<br />a little like famous last words.
+5108688 5112984 Still, it was his idea to carry out<br />the failure mode analysis.
+5114319 5117572 It certainly indicates his<br />integrity and self-confidence.
+5117906 5119866 If he were wrong, that would prove it.
+5120074 5122368 It would be,<br />if he knew he was wrong.
+5124913 5128833 I can't put my finger on it,<br />but I sense something strange about him.
+5131211 5133671 There's no reason not<br />to put back the unit and...
+5133922 5138468 - ...carry on with the failure analysis.<br />- No, no, I agree about that.
+5138718 5139886 Let's get on with it.
+5140136 5142806 Okay. But, look, Dave.
+5143640 5146267 Say we put the unit back<br />and it doesn't fail?
+5146476 5149687 That would pretty well wrap it up<br />as far as Hal is concerned.
+5151397 5154901 - We'd be in very serious trouble.<br />- We would, wouldn't we?
+5155151 5156778 What the hell can we do?
+5159781 5163868 - We wouldn't have too many alternatives.<br />- We wouldn't have any alternatives.
+5164661 5168665 Every aspect of ship<br />operations is under his control.
+5169082 5170333 If he's malfunctioning...
+5170583 5173670 ...I don't see any choice<br />but disconnection.
+5177382 5178925 I'm afraid I agree with you.
+5179175 5181052 There'd be nothing else to do.
+5182720 5185139 It'd be a bit tricky.
+5185974 5188518 We'd have to cut his<br />higher brain functions...
+5188768 5193481 ...without disturbing the purely<br />automatic and regulatory systems.
+5194732 5196442 We'd have to<br />work out the details...
+5196651 5199612 ...of continuing<br />underground-based computer control.
+5200029 5204534 Yeah. That's far safer than<br />allowing Hal to continue to run things.
+5205243 5207245 Another thing just occurred to me.
+5208746 5211332 No 9000 computer has ever<br />been disconnected.
+5211583 5213626 No 9000 computer<br />has ever fouled up.
+5213877 5215378 That's not what I mean.
+5217547 5219757 I'm not so sure<br />what he'd think about it.
+5578157 5580201 Prepare G-pod for EVA, Hal.
+5583287 5584622 Any contact with him yet?
+5584872 5586666 <i>The radio is still dead.</i>
+5586874 5589794 - Do you have a positive track on him?<br /><i>- I have a good track.</i>
+5590044 5591462 Do you know what happened?
+5591754 5594423 <i>I'm sorry, Dave.<br />I don't have enough information.</i>
+5594674 5596259 Open the pod door, Hal.
+6040160 6042538 <i>Open the pod-bay doors, please, Hal.</i>
+6050462 6052756 <i>Open the pod-bay doors, please, Hal.</i>
+6058387 6060264 Hello, Hal, do you read me?
+6063600 6065477 Hello, Hal, do you read me?
+6066520 6068188 Do you read me, Hal?
+6071358 6072985 <i>Do you read me, Hal?</i>
+6075487 6077364 <i>Hello, Hal, do you read me?</i>
+6079283 6081326 <i>Hello, Hal, do you read me?</i>
+6081744 6083245 <i>Do you read me, Hal?</i>
+6083495 6086248 <i>Affirmative, Dave. I read you.</i>
+6089543 6091378 Open the pod-bay doors, Hal.
+6092963 6096508 <i>I'm sorry, Dave.<br />I'm afraid I can't do that.</i>
+6098927 6100721 What's the problem?
+6101138 6104349 <i>I think you know what the problem is<br />just as well as I do.</i>
+6104558 6106435 What are you talking about, Hal?
+6107436 6111523 <i>This mission is too important for me<br />to allow you to jeopardize it.</i>
+6112608 6114985 I don't know<br />what you're talking about, Hal.
+6116987 6120949 <i>I know that you and Frank<br />were planning to disconnect me...</i>
+6121158 6123952 <i>...and that's something<br />I cannot allow to happen.</i>
+6129249 6131126 Where did you get that idea, Hal?
+6131668 6135798 <i>Although you took very thorough<br />precautions in the pod...</i>
+6136048 6138258 <i>...against my hearing you...</i>
+6138675 6140969 <i>...I could see your lips move.</i>
+6153023 6154525 All right, Hal.
+6157736 6160572 I'll go in through<br />the emergency air lock.
+6162115 6164743 <i>Without your space helmet, Dave...</i>
+6165244 6167704 <i>...you're going to find that<br />rather difficult.</i>
+6168872 6170999 Hal, I won't argue with you anymore.
+6171250 6172334 Open the doors.
+6173085 6174336 <i>Dave...</i>
+6174795 6179258 <i>...this conversation can serve<br />no purpose anymore. Goodbye.</i>
+6181510 6182761 Hal?
+6184012 6185097 Hal?
+6187808 6188851 Hal?
+6191103 6192145 Hal.
+6193856 6194898 Hal.
+6589125 6592379 <i>Just what do you think<br />you're doing, Dave?</i>
+6600929 6602180 <i>Dave...</i>
+6603390 6607811 <i>...I really think I'm entitled<br />to an answer to that question.</i>
+6624703 6628248 <i>I know everything hasn't been<br />quite right with me...</i>
+6630208 6632627 <i>...but I can assure you now...</i>
+6633712 6635755 <i>...very confidently...</i>
+6637507 6640552 <i>...that it's going to be<br />all right again.</i>
+6644055 6646141 <i>I feel much better now.</i>
+6648476 6650520 <i>I really do.</i>
+6654274 6655984 <i>Look, Dave...</i>
+6657944 6661197 <i>...I can see you're<br />really upset about this.</i>
+6665827 6669539 <i>I honestly think you<br />ought to sit down calmly...</i>
+6670165 6673501 <i>...take a stress pill<br />and think things over.</i>
+6678923 6683303 <i>I know I've made some<br />very poor decisions recently...</i>
+6686056 6689392 <i>...but I can give you<br />my complete assurance...</i>
+6689642 6692687 <i>...that my work will be back to normal.</i>
+6696649 6701780 <i>I've still got the greatest enthusiasm<br />and confidence in the mission...</i>
+6703323 6705617 <i>...and I want to help you.</i>
+6710080 6711456 <i>Dave...</i>
+6712582 6713958 <i>...stop.</i>
+6718213 6720840 <i>Stop, will you?</i>
+6725095 6726888 <i>Stop, Dave.</i>
+6730934 6733353 <i>Will you stop, Dave?</i>
+6739067 6740860 <i>Stop, Dave.</i>
+6746574 6748368 <i>I'm afraid.</i>
+6753248 6755875 <i>I'm afraid, Dave.</i>
+6761047 6762632 <i>Dave.</i>
+6765301 6767554 <i>My mind is going.</i>
+6772100 6773810 <i>I can feel it.</i>
+6779315 6781109 <i>I can feel it.</i>
+6785071 6787157 <i>My mind is going.</i>
+6792537 6795290 <i>There is no question about it.</i>
+6803631 6805508 <i>I can feel it.</i>
+6810180 6812056 <i>I can feel it.</i>
+6815477 6817395 <i>I can feel it.</i>
+6825278 6826571 <i>I'm...</i>
+6827489 6828865 <i>...afraid.</i>
+6835371 6837415 <i>Good afternoon...</i>
+6838416 6840126 <i>...gentlemen.</i>
+6842003 6847133 <i>I am a HAL 9000 computer.</i>
+6849302 6852430 <i>I became operational...</i>
+6852805 6856643 <i>...at the HAL plant...</i>
+6856851 6859103 <i>...in Urbana, Illinois...</i>
+6859604 6864526 <i>...on the 12th of January, 1992.</i>
+6866069 6869739 <i>My instructor was Mr. Langley...</i>
+6870365 6873284 <i>...and he taught me to sing a song.</i>
+6874994 6877455 <i>If you'd like to hear it...</i>
+6877914 6879582 <i>...I can sing it for you.</i>
+6881084 6883920 Yes, I'd like to hear it, Hal.
+6884587 6886005 Sing it for me.
+6887257 6890802 <i>It's called "Daisy."</i>
+6892720 6893972 <i>Daisy</i>
+6895557 6896975 <i>Daisy</i>
+6899143 6902230 <i>Give me your answer, do</i>
+6904649 6909237 <i>I'm half crazy</i>
+6911030 6913908 <i>All for the love of you</i>
+6916202 6917412 <i>It won't be</i>
+6917870 6920331 <i>A stylish marriage</i>
+6922250 6926337 <i>I can't afford a carriage</i>
+6928631 6931050 <i>But you'll look sweet</i>
+6931926 6934470 <i>Upon the seat</i>
+6935805 6940602 <i>Of a bicycle built for two</i>
+6942353 6943980 <i>Good day, gentlemen.</i>
+6948610 6951070 <i>This is a prerecorded briefing...</i>
+6951654 6953364 <i>...made prior to your departure...</i>
+6955116 6959329 <i>...and which, for security reasons<br />of the highest importance...</i>
+6960288 6963791 <i>...has been known on board<br />during the mission...</i>
+6964042 6967754 <i>...only by your HAL 9000 computer.</i>
+6970214 6973009 <i>Now that you are in Jupiter's space...</i>
+6973259 6975720 <i>...and the entire crew is revived...</i>
+6975970 6977764 <i>...it can be told to you.</i>
+6980516 6982769 <i>Eighteen months ago...</i>
+6983770 6987982 <i>...the first evidence<br />of intelligent life off the Earth...</i>
+6988191 6989651 <i>...was discovered.</i>
+6991527 6995073 <i>It was buried 40 feet<br />below the lunar surface...</i>
+6995323 6997575 <i>...near the crater Tycho.</i>
+7000370 7003456 <i>Except for a single, very powerful...</i>
+7003706 7007585 <i>...radio emission aimed at Jupiter...</i>
+7008836 7013841 <i>...the 4-million-year-old monolith<br />has remained completely inert...</i>
+7015760 7018846 <i>...its origin and purpose...</i>
+7019263 7021015 <i>...still a total mystery.</i>

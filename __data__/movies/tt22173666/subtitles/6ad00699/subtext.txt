@@ -1,0 +1,13 @@
+2198222 2202412 Are you one of the survivors?
+2216463 2218983 Why are you covered in blood?
+2232644 2235084 Are you alone?
+2235975 2237985 Let�s go.
+2278333 2279533 Take it.
+2290511 2293445 I live at the end of the road.
+2295034 2297126 Have you ever been there?
+2298832 2300934 There�s food, you know�
+2305121 2306534 Food.
+2307334 2308635 Do you understand?
+2310234 2312136 Food.
+2341734 2343834 You have to eat.
+2344957 2349425 What kind of cross is that?<br />Where did It come from?

@@ -12,7 +12,6 @@ export interface MovieRaw {
   runTime: number | null;
   plot: string | null;
   subtitleIds: string[];
-  isAvailable: boolean;
 }
 
 export interface MovieSubtitle {

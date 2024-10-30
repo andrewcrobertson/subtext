@@ -1,0 +1,46 @@
+{
+  "imdbId": "tt0087597",
+  "title": "The Last Starfighter",
+  "releaseDate": "1984-07-13T00:00:00.000Z",
+  "releaseYear": 1984,
+  "posterFileName": "poster.jpg",
+  "rated": "PG",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "directors": [
+    "Nick Castle"
+  ],
+  "writers": [
+    "Jonathan R. Betuel"
+  ],
+  "actors": [
+    "Lance Guest",
+    "Robert Preston",
+    "Kay E. Kuter"
+  ],
+  "runTime": 100,
+  "plot": "High schooler Alex Rogan conquers the Starfighter video game, only to find out it was just a test, and is transported to another planet. He has been recruited to join a team of the best starfighters to defend their world from the ...",
+  "subtitleIds": [
+    "c0075cb2",
+    "a0206d31",
+    "d8147d6b",
+    "8370fedb",
+    "22c0b0fa",
+    "4afa7e72",
+    "14da73ff",
+    "51c689bf",
+    "c0075cb2",
+    "d8147d6b",
+    "a0206d31",
+    "fd4df19c",
+    "1aa8e1ff",
+    "3704a2a2",
+    "46fa1985",
+    "742ab896",
+    "46fa1985"
+  ],
+  "isAvailable": true
+}

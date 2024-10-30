@@ -1,0 +1,28 @@
+{
+  "imdbId": "tt1489887",
+  "title": "Booksmart",
+  "releaseDate": "2019-05-24T00:00:00.000Z",
+  "releaseYear": 2019,
+  "posterFileName": "poster.jpg",
+  "rated": "R",
+  "genres": [
+    "Comedy"
+  ],
+  "directors": [
+    "Olivia Wilde"
+  ],
+  "writers": [
+    "Emily Halpern",
+    "Sarah Haskins",
+    "Susanna Fogel"
+  ],
+  "actors": [
+    "Kaitlyn Dever",
+    "Beanie Feldstein",
+    "Jessica Williams"
+  ],
+  "runTime": 102,
+  "plot": "On the eve of their high-school graduation, two academic superstars and best friends realize they should have worked less and played more. Determined not to fall short of their peers, the girls try to cram four years of fun into o...",
+  "subtitleIds": [],
+  "isAvailable": true
+}

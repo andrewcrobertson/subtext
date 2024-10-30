@@ -1,0 +1,17 @@
+954566 955609 <i>Cheers.</i>
+3695404 3696864 <i>Good evening.</i>
+3697088 3700188 <i>Good evening, little black woman, yes.</i>
+3703113 3704313 <i>Enter.</i>
+3810640 3812440 <i>Come on.....there you go.</i>
+3917130 3920430 <i>Come on, come on,<br />you can do it, you're faster.</i>
+3931518 3934418 <i>Put it with your back to the<br />target, shoulders down to the mat.</i>
+4008292 4010092 <i>Goodbye Luigi.</i>
+4015942 4017042 <i>The seat.</i>
+4077441 4078442 <i>Umberto, let's go.</i>
+4224430 4226332 <i>Cheers.......Cheers.</i>
+5867409 5868836 <i>But you don't need to be afraid.</i>
+5919731 5920734 <i>Thank you.</i>
+6009426 6011119 <i>I promise it.</i>
+6940608 6941620 <i>With regard to....</i>
+7708306 7710266 <i>Normally, I would<br />say.....till I see you again.</i>
+9219264 9220640 <i>Goodbye.</i>

@@ -1,8 +1,8 @@
 {
   "$schema": "https://raw.githubusercontent.com/SchemaStore/schemastore/refs/heads/master/src/schemas/json/web-manifest.json",
-  "name": "SubText",
-  "short_name": "SubText",
-  "description": "SubText provides a way for hearing impaired people to look at subtitles whilst in a movie theatre",
+  "name": "subtext",
+  "short_name": "subtext",
+  "description": "subtext provides a way for hearing impaired people to look at subtitles whilst in a movie theatre",
   "start_url": "/subtext",
   "display": "fullscreen",
   "background_color": "#000000",

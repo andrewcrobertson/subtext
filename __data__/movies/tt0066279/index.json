@@ -1,0 +1,37 @@
+{
+  "imdbId": "tt0066279",
+  "title": "The Railway Children",
+  "releaseDate": "1970-12-22T00:00:00.000Z",
+  "releaseYear": 1970,
+  "posterFileName": "poster.jpg",
+  "rated": "G",
+  "genres": [
+    "Drama",
+    "Family"
+  ],
+  "directors": [
+    "Lionel Jeffries"
+  ],
+  "writers": [
+    "E. Nesbit",
+    "Lionel Jeffries"
+  ],
+  "actors": [
+    "Dinah Sheridan",
+    "Bernard Cribbins",
+    "William Mervyn"
+  ],
+  "runTime": 109,
+  "plot": "After the enforced absence of their father, three children move with their mother to Yorkshire, where during their adventures they attempt to discover the reason for his disappearance.",
+  "subtitleIds": [
+    "62fc5868",
+    "4fae32aa",
+    "385638b1",
+    "846266fd",
+    "f49ca6dd",
+    "a0636e0d",
+    "846266fd",
+    "f49ca6dd"
+  ],
+  "isAvailable": true
+}

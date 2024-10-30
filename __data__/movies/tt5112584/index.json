@@ -1,0 +1,36 @@
+{
+  "imdbId": "tt5112584",
+  "title": "Lee",
+  "releaseDate": "2024-09-13T00:00:00.000Z",
+  "releaseYear": 2023,
+  "posterFileName": "poster.jpg",
+  "rated": "R",
+  "genres": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "directors": [
+    "Ellen Kuras"
+  ],
+  "writers": [
+    "Liz Hannah",
+    "Marion Hume",
+    "John Collee"
+  ],
+  "actors": [
+    "Kate Winslet",
+    "Andy Samberg",
+    "Alexander Skarsgård"
+  ],
+  "runTime": 116,
+  "plot": "The story of American photographer Lee Miller, a fashion model who became an acclaimed war correspondent for Vogue magazine during World War II.",
+  "subtitleIds": [
+    "f73445ae",
+    "f73445ae",
+    "d06a08",
+    "9078e517",
+    "70d4f19d"
+  ],
+  "isAvailable": true
+}

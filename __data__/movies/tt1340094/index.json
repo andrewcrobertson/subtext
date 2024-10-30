@@ -1,0 +1,16 @@
+{
+  "imdbId": "tt1340094",
+  "title": "The Crow",
+  "releaseDate": "2024-08-23T00:00:00.000Z",
+  "releaseYear": 2024,
+  "posterFileName": "poster.jpg",
+  "rated": "R",
+  "genres": ["Action", "Crime", "Fantasy"],
+  "directors": ["Rupert Sanders"],
+  "writers": ["James O'Barr", "Zach Baylin", "William Josef Schneider"],
+  "actors": ["Bill Skarsgård", "FKA twigs", "Danny Huston"],
+  "runTime": 111,
+  "plot": "Soulmates Eric and Shelly are brutally murdered. Given a chance to save the love of his life, Eric must sacrifice himself and traverse the worlds of the living and the dead, seeking revenge.",
+  "subtitleIds": ["80fc2245", "80fc2245", "80fc2245", "80fc2245", "3e35363a", "b111be8f"],
+  "isAvailable": true
+}

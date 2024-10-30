@@ -1,0 +1,16 @@
+{
+  "imdbId": "tt1462764",
+  "title": "Indiana Jones and the Dial of Destiny",
+  "releaseDate": "2023-06-30T00:00:00.000Z",
+  "releaseYear": 2023,
+  "posterFileName": "poster.jpg",
+  "rated": "PG-13",
+  "genres": ["Action", "Adventure", "Sci-Fi"],
+  "directors": ["James Mangold"],
+  "writers": ["Jez Butterworth", "John-Henry Butterworth", "David Koepp"],
+  "actors": ["Harrison Ford", "Phoebe Waller-Bridge", "Antonio Banderas"],
+  "runTime": 154,
+  "plot": "Archaeologist Indiana Jones races against time to retrieve a legendary artifact that can change the course of history.",
+  "subtitleIds": ["224a0a73", "da4e4fb6", "49fbc1fc", "2d2a1699", "a94c7f6d", "61bdb822", "b6933e26", "c42546a6", "9feae5c", "50d23a40", "b6933e26"],
+  "isAvailable": true
+}

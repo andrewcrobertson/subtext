@@ -36,7 +36,7 @@ export class Logger {
     this.logInfo(magenta(`=== ${title} (${imdbId}) ===`));
   }
 
-  public infoReadGithubIssue(gitHubIssueUrl: string) {
+  public infoReadGitHubIssue(gitHubIssueUrl: string) {
     this.logInfo(`Read GitHub issue '${green(gitHubIssueUrl)}'`);
   }
 

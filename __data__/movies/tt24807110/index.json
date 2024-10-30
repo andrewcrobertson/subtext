@@ -1,0 +1,16 @@
+{
+  "imdbId": "tt24807110",
+  "title": "Don't Move",
+  "releaseDate": "2024-10-25T00:00:00.000Z",
+  "releaseYear": 2024,
+  "posterFileName": "poster.jpg",
+  "rated": "R",
+  "genres": ["Horror", "Thriller"],
+  "directors": ["Brian Netto", "Adam Schindler"],
+  "writers": ["T.J. Cimfel", "David White"],
+  "actors": ["Kelsey Asbille", "Finn Wittrock", "Daniel Francis"],
+  "runTime": 92,
+  "plot": "It follows a seasoned killer as he injects a grieving woman with a paralytic agent. She must run, fight and hide before her body shuts down.",
+  "subtitleIds": ["39b9242", "6d6c6c99", "da35e112"],
+  "isAvailable": true
+}

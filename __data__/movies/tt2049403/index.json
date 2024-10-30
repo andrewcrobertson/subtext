@@ -1,0 +1,36 @@
+{
+  "imdbId": "tt2049403",
+  "title": "Beetlejuice Beetlejuice",
+  "releaseDate": "2024-09-06T00:00:00.000Z",
+  "releaseYear": 2024,
+  "posterFileName": "poster.jpg",
+  "rated": "PG-13",
+  "genres": [
+    "Comedy",
+    "Fantasy",
+    "Horror"
+  ],
+  "directors": [
+    "Tim Burton"
+  ],
+  "writers": [
+    "Michael McDowell",
+    "Larry Wilson",
+    "Alfred Gough"
+  ],
+  "actors": [
+    "Michael Keaton",
+    "Winona Ryder",
+    "Catherine O'Hara"
+  ],
+  "runTime": 105,
+  "plot": "After a family tragedy, three generations of the Deetz family return home to Winter River. Still haunted by Beetlejuice, Lydia's life is turned upside down when her teenage daughter, Astrid, accidentally opens the portal to the Af...",
+  "subtitleIds": [
+    "a0918e18",
+    "890ead6c",
+    "a2a8abc8",
+    "8cdf5dae",
+    "8a57a815"
+  ],
+  "isAvailable": true
+}

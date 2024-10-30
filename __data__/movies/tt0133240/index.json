@@ -1,0 +1,42 @@
+{
+  "imdbId": "tt0133240",
+  "title": "Treasure Planet",
+  "releaseDate": "2002-11-29T00:00:00.000Z",
+  "releaseYear": 2002,
+  "posterFileName": "poster.jpg",
+  "rated": "PG",
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Family"
+  ],
+  "directors": [
+    "Ron Clements",
+    "John Musker"
+  ],
+  "writers": [
+    "Robert Louis Stevenson",
+    "Ron Clements",
+    "John Musker"
+  ],
+  "actors": [
+    "Joseph Gordon-Levitt",
+    "Emma Thompson",
+    "Martin Short"
+  ],
+  "runTime": 95,
+  "plot": "Jim Hawkins is a teenager who finds the map of a great treasure hidden by a space pirate. Together with some friends, he sets off in a large spaceship, shaped like a caravel, on his quest.",
+  "subtitleIds": [
+    "7932729e",
+    "7932729e",
+    "fb402dd5",
+    "e169b7ff",
+    "752c98a0",
+    "39c95d07",
+    "9ae7a11e",
+    "152ab01a",
+    "37ae73da",
+    "1bad7f5d"
+  ],
+  "isAvailable": true
+}

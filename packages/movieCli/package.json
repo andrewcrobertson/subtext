@@ -11,7 +11,7 @@
     "build.off": "run-s clean checktypes test pkgroll",
     "clean": "shx rm -rf ./dist ./coverage",
     "checktypes": "tsc --noEmit",
-    "dev:load": "dotenvx run -- tsx ./src/index.ts load -u dev -i tt0073195 -d ../../__data__ -f",
+    "dev:load": "dotenvx run -- tsx ./src/index.ts load -u dev -i tt0062622 -d ../../__data__ -f",
     "dev:remove": "dotenvx run -- tsx ./src/index.ts remove -u dev -i tt0062622 -d ../../__data__",
     "dev:flag": "dotenvx run -- tsx ./src/index.ts flag -u dev -i tt0062622 -s 4b3b1a0e -r test -d ../../__data__",
     "dev:index": "dotenvx run -- tsx ./src/index.ts index -u dev -d ../../__data__",

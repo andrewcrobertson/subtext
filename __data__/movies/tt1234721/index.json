@@ -1,0 +1,41 @@
+{
+  "imdbId": "tt1234721",
+  "title": "RoboCop",
+  "releaseDate": "2014-02-12T00:00:00.000Z",
+  "releaseYear": 2014,
+  "posterFileName": "poster.jpg",
+  "rated": "PG-13",
+  "genres": [
+    "Action",
+    "Crime",
+    "Sci-Fi"
+  ],
+  "directors": [
+    "José Padilha"
+  ],
+  "writers": [
+    "Joshua Zetumer",
+    "Edward Neumeier",
+    "Michael Miner"
+  ],
+  "actors": [
+    "Joel Kinnaman",
+    "Gary Oldman",
+    "Michael Keaton"
+  ],
+  "runTime": 117,
+  "plot": "In 2028 Detroit, when Alex Murphy, a loving husband, father and good cop, is critically injured in the line of duty, the multinational conglomerate OmniCorp sees their chance for a part-man, part-robot police officer.",
+  "subtitleIds": [
+    "dadb7fb2",
+    "fb7ab775",
+    "b4ad4794",
+    "8e676f9d",
+    "1c624fd6",
+    "f43bd659",
+    "ef927150",
+    "6c7d855",
+    "a5163f4f",
+    "781864d3"
+  ],
+  "isAvailable": true
+}

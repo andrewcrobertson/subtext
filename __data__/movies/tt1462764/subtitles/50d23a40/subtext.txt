@@ -1,0 +1,141 @@
+68131 69341 An American, Colonel.
+69633 71635 He was at the gate,<br />impersonating an Officer.
+110674 112134 Take him upstairs.
+116096 117389 A moment. Please!
+118181 119683 Stop! I must speak to the Commander.
+119975 121852 Colonel. I found it!
+123936 125314 Do as he says. Open it.
+139703 141705 The Lance of Longinus.
+143248 145542 The blade that drew Christ's blood.
+146418 147669 The Holy Lance.
+157971 160140 Double the guard.<br />This is the prize the Führer seeks.
+160307 161183 Colonel, we need to talk.
+161350 162517 No time, Doctor.
+162768 164144 The train to Berlin is waiting.
+165646 166605 Search the woods!
+166772 167648 Take the dogs.
+168649 170025 Do you think that spy was alone?
+170651 172152 Go! Go! Go! We're moving out!
+172444 173362 On the double!
+326014 328100 This man was with the American.
+329851 330936 This is the American's bag.
+332813 333772 What have I done?
+338360 339695 Bring him to my carriage.
+347577 350372 Careful.<br />This is the Führer's special relic!
+379943 381236 Stay seated.
+382112 383447 So...
+386325 388243 you are a birdwatcher?
+391913 393790 Yes. Because of the bombing,
+394082 396710 the wagtails are following<br />a completely different trajectory.
+400672 402382 We caught your accomplice.
+403592 405093 The American.
+557704 559790 There is a problem.
+560832 562125 I must speak to the Colonel.
+562626 564419 It's urgent.
+623228 624688 I must speak with the Colonel.
+625981 627024 It's about the Lance.
+673779 675155 I only had a moment to look at it.
+675364 677074 Of course, my training is in physics,
+677574 679534 For God's sake, spit it out!
+681620 682454 The Lance...
+687376 688251 It's a fake.
+688627 689753 A fake?
+692005 693548 The blade is an alloy.
+693715 695050 Fifty years old,
+695258 697386 the engravings recent. It's a replica.
+697594 698512 We're dead.
+713819 715153 There is another relic on this train.
+716321 717739 One with real power.
+718198 719324 What are you talking about?
+721368 722286 The Antikythera.
+722995 723829 The Antikythera?!
+723912 725914 Enough about that old dial!
+726164 728333 Colonel, the Führer has lost the war...
+728750 730127 and his mind!
+732462 733672 Let me explain.
+735674 738135 The Antikythera's<br />power is not supernatural.
+738593 740470 It is mathematics.
+742180 743682 Whoever harnesses it...
+745767 747269 will not be King...
+748020 749021 nor Emperor...
+750397 751607 or Führer.
+755110 756903 He will be God.
+780802 783430 And how do you propose we tell him this?
+784097 784931 My Führer,
+785474 787517 I'm sorry the Lance of Christ is fake.
+787768 788936 But here is...
+790354 793106 half of something you've never heard of.
+794650 795609 Tell me,
+796068 797569 have you ever MET HITLER?!!
+800155 801239 A saboteur aboard.
+801448 802741 And Hitler's Lance is gone.
+844116 845325 That way!
+848996 850289 What are you doing here?!
+904343 905177 Who are you?
+1034598 1035974 They have the Antikythera!
+1202599 1204309 Drop the gun.
+1207062 1208605 Give me the Antikythera.
+7389953 7391288 Time to destination?
+7392497 7394041 60 seconds.
+7442464 7444049 30 seconds.
+7455394 7456311 20 seconds.
+7462192 7463485 15 seconds.
+7468657 7469491 10 seconds.
+7470409 7471243 9!
+7472160 7472995 8!
+7473287 7474121 7!
+7474788 7475622 6!
+7475706 7476957 Turn around!
+7477666 7478542 Abort!
+7479042 7479960 Turn around!
+7480752 7481628 ABORT!!!
+7481878 7483839 We're being pulled in!
+7493849 7495183 What are you doing?!
+7495392 7496226 This is my plane!
+7496560 7497894 You're flying my plane!
+7522711 7523879 We're going to DIE!!!
+7525213 7526923 We need to pull up!
+7548779 7549947 Restart engines!
+7586108 7587818 Setting coordinates for Munich.
+7673487 7674363 Master...
+7674446 7676865 The Romans are getting closer.
+7678617 7679493 They have dragons!
+7724246 7725080 Master...
+7728500 7729751 Don't ride out there, Master!
+7730335 7731545 The dragons!!
+7741805 7745309 We must take down their dragons!
+7753483 7754318 Change course!
+7754568 7755944 The portal closes in minutes!
+7756361 7757279 I have to go back!
+7757738 7758864 I can't be here!
+7759072 7760157 I CAN'T STAY HERE!!
+7760324 7761783 The plane won't make it!!
+7895876 7897336 We're losing altitude!
+7898587 7899504 We're going down!
+7901423 7903008 I've lost control!
+7990554 7991930 Eureka.
+8121643 8122561 Master!
+8125272 8127065 We have to leave, Master.
+8144124 8146877 Two thousand years.
+8147502 8148670 We've come...
+8149254 8152257 two thousand years.
+8154593 8157721 But we didn't expect to meet...
+8158263 8160766 the great...
+8161308 8163352 Archimedes.
+8169024 8169942 You...
+8171151 8172486 were always...
+8173153 8174404 going to...
+8174988 8176573 meet me.
+8186166 8187792 Apologies, Archimedes.
+8188001 8189336 I'm a fan...
+8189586 8191587 but we need to leave. He's hurt.
+8202057 8202890 I want...
+8202975 8204059 to stay...
+8204434 8206185 with you.
+8208897 8211149 You are a brilliant man...
+8211399 8213402 a wise man...
+8213943 8215279 a genius...
+8216446 8218782 a hero to your people.
+8219491 8223036 But he can't help you.
+8224121 8225831 This is your time.
+8226872 8228834 He must be in his own time!

@@ -1,0 +1,39 @@
+{
+  "imdbId": "tt2321549",
+  "title": "The Babadook",
+  "releaseDate": "2014-11-28T00:00:00.000Z",
+  "releaseYear": 2014,
+  "posterFileName": "poster.jpg",
+  "rated": "Not Rated",
+  "genres": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "directors": [
+    "Jennifer Kent"
+  ],
+  "writers": [
+    "Jennifer Kent"
+  ],
+  "actors": [
+    "Essie Davis",
+    "Noah Wiseman",
+    "Daniel Henshall"
+  ],
+  "runTime": 94,
+  "plot": "A single mother and her child fall into a deep well of paranoia when an eerie children's book titled \"Mister Babadook\" manifests in their home.",
+  "subtitleIds": [
+    "a5efb1c9",
+    "1268f96e",
+    "7e631d85",
+    "b856a17",
+    "e9706b32",
+    "61c492f0",
+    "615a79d2",
+    "627a322e",
+    "1658647c",
+    "6fdb5387"
+  ],
+  "isAvailable": true
+}

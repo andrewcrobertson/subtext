@@ -1,0 +1,39 @@
+{
+  "imdbId": "tt3908142",
+  "title": "The Love Witch",
+  "releaseDate": "2017-03-10T00:00:00.000Z",
+  "releaseYear": 2016,
+  "posterFileName": "poster.jpg",
+  "rated": "Unrated",
+  "genres": [
+    "Comedy",
+    "Horror",
+    "Romance"
+  ],
+  "directors": [
+    "Anna Biller"
+  ],
+  "writers": [
+    "Anna Biller"
+  ],
+  "actors": [
+    "Samantha Robinson",
+    "Jeffrey Vincent Parise",
+    "Laura Waddell"
+  ],
+  "runTime": 120,
+  "plot": "A modern-day witch uses spells and magic to get men to fall in love with her, with deadly consequences.",
+  "subtitleIds": [
+    "77bb4606",
+    "c9018a",
+    "5fc9efc5",
+    "ed87eb0a",
+    "5ba6df56",
+    "63e1ac8a",
+    "2375c7bb",
+    "9573cce5",
+    "99317ce1",
+    "56e8c70"
+  ],
+  "isAvailable": true
+}

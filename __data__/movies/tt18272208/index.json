@@ -1,0 +1,28 @@
+{
+  "imdbId": "tt18272208",
+  "title": "Here",
+  "releaseDate": "2024-11-01T00:00:00.000Z",
+  "releaseYear": 2024,
+  "posterFileName": "poster.jpg",
+  "rated": "PG-13",
+  "genres": [
+    "Drama"
+  ],
+  "directors": [
+    "Robert Zemeckis"
+  ],
+  "writers": [
+    "Eric Roth",
+    "Robert Zemeckis",
+    "Richard McGuire"
+  ],
+  "actors": [
+    "Kelly Reilly",
+    "Tom Hanks",
+    "Michelle Dockery"
+  ],
+  "runTime": 104,
+  "plot": "From the reunited director, writer, and stars of Forrest Gump (1994), Here is an original film about multiple families and a special place they inhabit. The story travels through generations, capturing the human experience in its ...",
+  "subtitleIds": [],
+  "isAvailable": true
+}

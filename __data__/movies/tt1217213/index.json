@@ -1,0 +1,31 @@
+{
+  "imdbId": "tt1217213",
+  "title": "Secret of the Wings",
+  "releaseDate": "2012-08-16T00:00:00.000Z",
+  "releaseYear": 2012,
+  "posterFileName": "poster.jpg",
+  "rated": "G",
+  "genres": [
+    "Animation",
+    "Family",
+    "Fantasy"
+  ],
+  "directors": [
+    "Bobs Gannaway",
+    "Peggy Holmes"
+  ],
+  "writers": [
+    "Bobs Gannaway",
+    "Peggy Holmes",
+    "Ryan Rowe"
+  ],
+  "actors": [
+    "Mae Whitman",
+    "Lucy Hale",
+    "Timothy Dalton"
+  ],
+  "runTime": 75,
+  "plot": "Tinkerbell wanders into the forbidden Winter woods and meets Periwinkle. Together they learn the secret of their wings and try to unite the warm fairies and the winter fairies to help Pixie Hollow.",
+  "subtitleIds": [],
+  "isAvailable": true
+}

@@ -54,7 +54,7 @@ export class GithubApi {
   }
 
   private getHeaders() {
-    const headers = { Authorization: `token ${this.token}`, Accept: 'application/vnd.gitHub.v3+json' };
+    const headers = { Authorization: `token ${this.token}`, Accept: 'application/vnd.github.v3+json' };
     return headers;
   }
 }

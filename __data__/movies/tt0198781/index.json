@@ -1,0 +1,48 @@
+{
+  "imdbId": "tt0198781",
+  "title": "Monsters, Inc.",
+  "releaseDate": "2001-11-23T00:00:00.000Z",
+  "releaseYear": 2001,
+  "posterFileName": "poster.jpg",
+  "rated": "G",
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "directors": [
+    "Pete Docter",
+    "David Silverman",
+    "Lee Unkrich"
+  ],
+  "writers": [
+    "Pete Docter",
+    "Jill Culton",
+    "Jeff Pidgeon"
+  ],
+  "actors": [
+    "Billy Crystal",
+    "John Goodman",
+    "Mary Gibbs"
+  ],
+  "runTime": 92,
+  "plot": "In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, two monsters realize things may not be what they think.",
+  "subtitleIds": [
+    "c33ee141",
+    "91be9f17",
+    "f15a61a6",
+    "fd213dc3",
+    "21a90c0",
+    "8606071b",
+    "994f8bb9",
+    "4cb8dc42",
+    "b68da311",
+    "9e81b791",
+    "cf2b5d47",
+    "4cb8dc42",
+    "7fc5ad77",
+    "6c44982f",
+    "d1f5414b"
+  ],
+  "isAvailable": true
+}

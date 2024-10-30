@@ -1,0 +1,45 @@
+{
+  "imdbId": "tt0073195",
+  "title": "Jaws",
+  "releaseDate": "1975-06-20T00:00:00.000Z",
+  "releaseYear": 1975,
+  "posterFileName": "poster.jpg",
+  "rated": "PG",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Thriller"
+  ],
+  "directors": [
+    "Steven Spielberg"
+  ],
+  "writers": [
+    "Peter Benchley",
+    "Carl Gottlieb"
+  ],
+  "actors": [
+    "Roy Scheider",
+    "Robert Shaw",
+    "Richard Dreyfuss"
+  ],
+  "runTime": 124,
+  "plot": "When a massive killer shark unleashes chaos on a beach community off Long Island, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.",
+  "subtitleIds": [
+    "7df5cc69",
+    "a71bf4f3",
+    "b5e55013",
+    "cb1e5f40",
+    "85176509",
+    "cb07fa49",
+    "16adebab",
+    "3e5c4acd",
+    "4572c75f",
+    "a05d1b6a",
+    "34566629",
+    "22b3bad5",
+    "d37a6057",
+    "3958c04a",
+    "4572c75f"
+  ],
+  "isAvailable": true
+}

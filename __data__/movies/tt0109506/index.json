@@ -1,0 +1,43 @@
+{
+  "imdbId": "tt0109506",
+  "title": "The Crow",
+  "releaseDate": "1994-05-13T00:00:00.000Z",
+  "releaseYear": 1994,
+  "posterFileName": "poster.jpg",
+  "rated": "R",
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "directors": [
+    "Alex Proyas"
+  ],
+  "writers": [
+    "James O'Barr",
+    "David J. Schow",
+    "John Shirley"
+  ],
+  "actors": [
+    "Brandon Lee",
+    "Michael Wincott",
+    "Rochelle Davis"
+  ],
+  "runTime": 102,
+  "plot": "The night before his wedding, musician Eric Draven and his fiancée are brutally murdered by members of a violent gang. On the anniversary of their death, Eric rises from the grave and assumes the mantle of the Crow, a supernatural...",
+  "subtitleIds": [
+    "80fc2245",
+    "80fc2245",
+    "80fc2245",
+    "80fc2245",
+    "46f4dd7a",
+    "3e35363a",
+    "b111be8f",
+    "257e2383",
+    "162f2245",
+    "aa321b07",
+    "69454f85",
+    "2b4aac2b"
+  ],
+  "isAvailable": true
+}

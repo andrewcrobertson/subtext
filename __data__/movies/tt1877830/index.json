@@ -1,0 +1,41 @@
+{
+  "imdbId": "tt1877830",
+  "title": "The Batman",
+  "releaseDate": "2022-03-04T00:00:00.000Z",
+  "releaseYear": 2022,
+  "posterFileName": "poster.jpg",
+  "rated": "PG-13",
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "directors": [
+    "Matt Reeves"
+  ],
+  "writers": [
+    "Matt Reeves",
+    "Peter Craig",
+    "Bob Kane"
+  ],
+  "actors": [
+    "Robert Pattinson",
+    "Zoë Kravitz",
+    "Jeffrey Wright"
+  ],
+  "runTime": 176,
+  "plot": "When a sadistic serial killer begins murdering key political figures in Gotham, The Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+  "subtitleIds": [
+    "2655250e",
+    "128f425f",
+    "eb65213b",
+    "e32ef948",
+    "c4722f9a",
+    "ec7deaf7",
+    "7404ec50",
+    "57140466",
+    "fc1a8f42",
+    "41293d22"
+  ],
+  "isAvailable": true
+}

@@ -1,0 +1,40 @@
+{
+  "imdbId": "tt8864596",
+  "title": "Transformers One",
+  "releaseDate": "2024-09-20T00:00:00.000Z",
+  "releaseYear": 2024,
+  "posterFileName": "poster.jpg",
+  "rated": "PG",
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "directors": [
+    "Josh Cooley"
+  ],
+  "writers": [
+    "Eric Pearson",
+    "Andrew Barrer",
+    "Gabriel Ferrari"
+  ],
+  "actors": [
+    "Chris Hemsworth",
+    "Brian Tyree Henry",
+    "Scarlett Johansson"
+  ],
+  "runTime": 104,
+  "plot": "The untold origin story of Optimus Prime and Megatron, better known as sworn enemies, but who once were friends bonded like brothers who changed the fate of Cybertron forever.",
+  "subtitleIds": [
+    "675d6726",
+    "675d6726",
+    "944a76dc",
+    "29a6373e",
+    "c3c69952",
+    "675d6726",
+    "473ccca5",
+    "b17657be",
+    "59058a90"
+  ],
+  "isAvailable": true
+}

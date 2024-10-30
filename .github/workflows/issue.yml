@@ -1,71 +1,48 @@
 name: Process New Movie Issue
 
-permissions:
-  issues: write
-  contents: write
-
 on:
   issues:
     types: [opened]
 
 jobs:
-  check-duplicate:
+  process:
     runs-on: ubuntu-latest
+
+    permissions:
+      issues: write
+      contents: write
+
     steps:
-      - name: Check for duplicate issues
-        id: check_duplicate
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          # Get the issue title (IMDb ID) and the current issue number
-          ISSUE_TITLE="${{ github.event.issue.title }}"
-          CURRENT_ISSUE_NUMBER=${{ github.event.issue.number }}
-          
-          # Search for open issues with the same title (IMDb ID)
-          RESPONSE=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
-            "https://api.github.com/search/issues?q=repo:${{ github.repository }}+in:title+state:open+${ISSUE_TITLE}")
-          
-          # Extract issue numbers into an array
-          ISSUE_NUMBERS=($(echo "$RESPONSE" | jq '.items[].number'))
-          
-          # Check if any issue has a number less than the current issue number
-          DUPLICATE_FOUND=false
-          for ISSUE_NUMBER in "${ISSUE_NUMBERS[@]}"; do
-            if [ "$ISSUE_NUMBER" -lt "$CURRENT_ISSUE_NUMBER" ]; then
-              DUPLICATE_FOUND=true
-              break
-            fi
-          done
-          
-          if [ "$DUPLICATE_FOUND" = true ]; then
-            echo "Duplicate issue found"
-            echo "duplicate_found=true" >> $GITHUB_ENV
-          else
-            echo "No duplicate issue found"
-            echo "duplicate_found=false" >> $GITHUB_ENV
-          fi
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Close duplicate issue
-        if: env.duplicate_found == 'true'
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          ISSUE_NUMBER=${{ github.event.issue.number }}
-          curl -s -X PATCH -H "Authorization: token $GITHUB_TOKEN" \
-            -H "Accept: application/vnd.github.v3+json" \
-            https://api.github.com/repos/${{ github.repository }}/issues/$ISSUE_NUMBER \
-            -d '{"state":"closed", "body": "This issue is a duplicate of an existing issue with the same IMDb ID and has been closed."}'
-            
-      - name: Process unique issue
-        if: env.duplicate_found == 'false'
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          echo "Processing movie data for unique issue..."
-          # Place your movie processing logic here
+      - name: Install pnpm
+        uses: pnpm/action-setup@v3
+        with:
+          version: 9
 
-          ISSUE_NUMBER=${{ github.event.issue.number }}
-          curl -s -X PATCH -H "Authorization: token $GITHUB_TOKEN" \
-            -H "Accept: application/vnd.github.v3+json" \
-            https://api.github.com/repos/${{ github.repository }}/issues/$ISSUE_NUMBER \
-            -d '{"state":"closed", "body": "This issue has been processed and has been closed."}'
+      - name: Install Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: pnpm
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Process
+        env:
+          REPO_TOKEN: ${{ secrets.REPO_TOKEN }}
+          OMDB_TOKEN: ${{ secrets.OMDB_TOKEN }}
+          OPEN_SUBTITLES_TOKEN: ${{ secrets.OPEN_SUBTITLES_TOKEN }}
+          SUBDL_TOKEN: ${{ secrets.SUBDL_TOKEN }}
+        run: |
+          pnpm run load -i ${{ github.event.issue.number }}
+
+      - name: Commit
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: automated data update
+          commit_options: '--no-verify --allow-empty'

@@ -1,0 +1,1707 @@
+10000 20000 <b><font face="Forte" color="#ff80ff">jmg subs</font></b>
+86511 88046 <font face="Comic Sans MS" color="#ffff80"><b>(ELECTRICITY SPARKING)</b></font>
+92550 94118 <font face="Comic Sans MS" color="#ffff80"><b>(PREDATOR CLICKING)</b></font>
+116341 120078 <font face="Comic Sans MS" color="#ffff80"><b>(CRACKLING)</b></font>
+125916 127919 <font face="Comic Sans MS" color="#ffff80"><b>(INSECTS TRILLING)</b></font>
+149941 151341 <font face="Comic Sans MS" color="#ffff80"><b>HAINES (ON RADIO):<br />Picket One, copy.</b></font>
+151343 152977 <font face="Comic Sans MS" color="#ffff80"><b>Do you got eyes<br />on the hostages?</b></font>
+153244 154445 <font face="Comic Sans MS" color="#ffff80"><b>Still negative.</b></font>
+154946 157082 <font face="Comic Sans MS" color="#ffff80"><b>DUPREE (ON RADIO): 20 bucks<br />says they don't show.</b></font>
+157381 158880 <font face="Comic Sans MS" color="#ffff80"><b>You two morons<br />really making bets</b></font>
+158882 161718 <font face="Comic Sans MS" color="#ffff80"><b>on whether a drug cartel<br />has executed these hostages?</b></font>
+161720 162621 <font face="Comic Sans MS" color="#ffff80"><b>DUPREE: Abso-fucking-lutely.</b></font>
+162954 164286 <font face="Comic Sans MS" color="#ffff80"><b>HAINES: I believe<br />that was implied. Yeah.</b></font>
+164288 166090 <font face="Comic Sans MS" color="#ffff80"><b>Just checking. I'm in for 20.</b></font>
+184508 186208 <font face="Comic Sans MS" color="#ffff80"><b>(INDISTINCT CHATTER)</b></font>
+186210 187612 <font face="Comic Sans MS" color="#ffff80"><b>QUINN: I got two hostages.</b></font>
+192383 193719 <font face="Comic Sans MS" color="#ffff80"><b>No crosswind.</b></font>
+194585 197089 <font face="Comic Sans MS" color="#ffff80"><b>I'm not waiting. 10-50, out.</b></font>
+200559 203529 <font face="Comic Sans MS" color="#ffff80"><b>(SPACESHIP WHIRRING)</b></font>
+208066 209234 <font face="Comic Sans MS" color="#ffff80"><b>- (GUNSHOT)<br />- (GROANS)</b></font>
+220978 222179 <font face="Comic Sans MS" color="#ffff80"><b>(GRUNTING)</b></font>
+228019 229320 <font face="Comic Sans MS" color="#ffff80"><b>(YELLS, GRUNTS)</b></font>
+238996 240197 <font face="Comic Sans MS" color="#ffff80"><b>(GRUNTS)</b></font>
+241667 242767 <font face="Comic Sans MS" color="#ffff80"><b>(RADIO BEEPS)</b></font>
+242966 244835 <font face="Comic Sans MS" color="#ffff80"><b>Bluebill Two,<br />are you out there?</b></font>
+245303 246572 <font face="Comic Sans MS" color="#ffff80"><b>Over.</b></font>
+260351 264690 <font face="Comic Sans MS" color="#ffff80"><b>(ENGINE SLOWLY POWERING DOWN)</b></font>
+310868 312203 <font face="Comic Sans MS" color="#ffff80"><b>- (RUSTLING)<br />- (GASPS)</b></font>
+313738 314973 <font face="Comic Sans MS" color="#ffff80"><b>Goddamn it!</b></font>
+317041 318342 <font face="Comic Sans MS" color="#ffff80"><b>Dupree, Jesus!</b></font>
+319276 321142 <font face="Comic Sans MS" color="#ffff80"><b>(PANTS) Where's Haines?</b></font>
+321144 323147 <font face="Comic Sans MS" color="#ffff80"><b>Don't know.<br />Comm's not fucking working.</b></font>
+324115 325283 <font face="Comic Sans MS" color="#ffff80"><b>Give me the pack.</b></font>
+330788 331953 <font face="Comic Sans MS" color="#ffff80"><b>It's evidence.</b></font>
+331955 334058 <font face="Comic Sans MS" color="#ffff80"><b>Ain't nobody<br />gonna believe this one.</b></font>
+339397 340966 <font face="Comic Sans MS" color="#ffff80"><b>The fuck is that, Cap?</b></font>
+342733 344368 <font face="Comic Sans MS" color="#ffff80"><b>It's above our pay grade.</b></font>
+345536 347839 <font face="Comic Sans MS" color="#ffff80"><b>- (RADIO BEEPS)<br />- Haines! Come in. Over.</b></font>
+348272 349340 <font face="Comic Sans MS" color="#ffff80"><b>(GRUNTS)</b></font>
+350740 353945 <font face="Comic Sans MS" color="#ffff80"><b>Haines, goddamn it,<br />come in. Over! (ECHOES)</b></font>
+355447 356945 <font face="Comic Sans MS" color="#ffff80"><b>(CLICKING SOUND)</b></font>
+356947 357983 <font face="Comic Sans MS" color="#ffff80"><b>Sir?</b></font>
+358582 359948 <font face="Comic Sans MS" color="#ffff80"><b>(QUIET CRACKLING)</b></font>
+359950 361683 <font face="Comic Sans MS" color="#ffff80"><b>PREDATOR (DISTORTED VOICE):<br />The fuck is that, Cap?</b></font>
+361685 362784 <font face="Comic Sans MS" color="#ffff80"><b>The fuck is that, Cap?</b></font>
+362786 364356 <font face="Comic Sans MS" color="#ffff80"><b>Comm's not fucking working.</b></font>
+367791 369894 <font face="Comic Sans MS" color="#ffff80"><b>- (BIRDS SQUAWKING)<br />- (GASPS)</b></font>
+373932 374933 <font face="Comic Sans MS" color="#ffff80"><b>Haines?</b></font>
+378101 379137 <font face="Comic Sans MS" color="#ffff80"><b>Light it up!</b></font>
+379404 381106 <font face="Comic Sans MS" color="#ffff80"><b>(GUN FIRING)</b></font>
+385743 387745 <font face="Comic Sans MS" color="#ffff80"><b>(GROANING)</b></font>
+390281 391382 <font face="Comic Sans MS" color="#ffff80"><b>(GROANS)</b></font>
+395420 396988 <font face="Comic Sans MS" color="#ffff80"><b>(QUIET WARBLING)</b></font>
+399690 400959 <font face="Comic Sans MS" color="#ffff80"><b>(PREDATOR GROWLS)</b></font>
+403194 404496 <font face="Comic Sans MS" color="#ffff80"><b>(GRUNTING)</b></font>
+434759 436061 <font face="Comic Sans MS" color="#ffff80"><b>(GROWLS)</b></font>
+436728 438329 <font face="Comic Sans MS" color="#ffff80"><b>(GRUNTS)</b></font>
+445902 448005 <font face="Comic Sans MS" color="#ffff80"><b>(HELICOPTER WHIRRING)</b></font>
+455479 457381 <font face="Comic Sans MS" color="#ffff80"><b>(WHIRRING)</b></font>
+466558 468526 <font face="Comic Sans MS" color="#ffff80"><b>(PANTING)</b></font>
+477969 479504 <font face="Comic Sans MS" color="#ffff80"><b>(INDISTINCT RADIO CHATTER)</b></font>
+490014 492016 <font face="Comic Sans MS" color="#ffff80"><b>Gentlemen, remember...</b></font>
+492483 493884 <font face="Comic Sans MS" color="#ffff80"><b>they're large, they're fast,</b></font>
+494185 496421 <font face="Comic Sans MS" color="#ffff80"><b>and fucking you up's<br />their idea of tourism!</b></font>
+497255 498255 <font face="Comic Sans MS" color="#ffff80"><b>Go!</b></font>
+498455 499890 <font face="Comic Sans MS" color="#ffff80"><b>SOLDIER: Eyes up! Come on!</b></font>
+500425 502623 <font face="Comic Sans MS" color="#ffff80"><b>I want the passenger.<br />I want the pod.</b></font>
+502625 503592 <font face="Comic Sans MS" color="#ffff80"><b>If it's not from here...</b></font>
+503594 504963 <font face="Comic Sans MS" color="#ffff80"><b>- You want it.<br />- ...I want it.</b></font>
+513671 516838 <font face="Comic Sans MS" color="#ffff80"><b>(MARIACHI MUSIC PLAYING)</b></font>
+516840 518075 <font face="Comic Sans MS" color="#ffff80"><b>(CLEARS THROAT)</b></font>
+523515 524583 <font face="Comic Sans MS" color="#ffff80"><b>Get out.<br />(SPEAKS SPANISH)</b></font>
+530988 532389 <font face="Comic Sans MS" color="#ffff80"><b>(IN ENGLISH) I need help.</b></font>
+532824 534289 <font face="Comic Sans MS" color="#ffff80"><b>And I have money.</b></font>
+534291 536493 <font face="Comic Sans MS" color="#ffff80"><b>Why should I help a man with a gun, eh?<br />(SPEAKS SPANISH)</b></font>
+538595 539597 <font face="Comic Sans MS" color="#ffff80"><b>(IN ENGLISH) All right.</b></font>
+550641 551642 <font face="Comic Sans MS" color="#ffff80"><b>(GASPS)</b></font>
+557147 559715 <font face="Comic Sans MS" color="#ffff80"><b>I need you<br />to mail this for me.</b></font>
+559717 561651 <font face="Comic Sans MS" color="#ffff80"><b>You send it to this address.</b></font>
+561951 565022 <font face="Comic Sans MS" color="#ffff80"><b>Mail what's in the pack,<br />not the backpack.</b></font>
+565422 566490 <font face="Comic Sans MS" color="#ffff80"><b>Ahora. Go!</b></font>
+570761 573298 <font face="Comic Sans MS" color="#ffff80"><b>(SIRENS BLARING IN DISTANCE)</b></font>
+574599 575633 <font face="Comic Sans MS" color="#ffff80"><b>Okay.</b></font>
+581238 584075 <font face="Comic Sans MS" color="#ffff80"><b>- (THUDDING)<br />- (COPS SHOUTING INDISTINCTLY)</b></font>
+584342 585573 <font face="Comic Sans MS" color="#ffff80"><b>COP: Back up!</b></font>
+585575 587342 <font face="Comic Sans MS" color="#ffff80"><b>GIRL: It was so amazing!</b></font>
+587344 588579 <font face="Comic Sans MS" color="#ffff80"><b>Yeah, it was.</b></font>
+590915 592117 <font face="Comic Sans MS" color="#ffff80"><b>Bye, Mom!</b></font>
+615940 617374 <font face="Comic Sans MS" color="#ffff80"><b>(EXCLAIMS)</b></font>
+619944 622544 <font face="Comic Sans MS" color="#ffff80"><b>- (LAUGHS) Do it, man.<br />- No, you do it.</b></font>
+622546 623580 <font face="Comic Sans MS" color="#ffff80"><b>Okay.</b></font>
+624214 625880 <font face="Comic Sans MS" color="#ffff80"><b>- Do it.<br />- (BOTH LAUGHING)</b></font>
+625882 627584 <font face="Comic Sans MS" color="#ffff80"><b>(ALARM BLARING)</b></font>
+628920 631421 <font face="Comic Sans MS" color="#ffff80"><b>(ALARM CONTINUES BLARING)</b></font>
+631756 633325 <font face="Comic Sans MS" color="#ffff80"><b>(WHIMPERING)</b></font>
+638563 639631 <font face="Comic Sans MS" color="#ffff80"><b>(CONTINUES WHIMPERING)</b></font>
+639830 641199 <font face="Comic Sans MS" color="#ffff80"><b>(BOTH LAUGHING)</b></font>
+642666 643667 <font face="Comic Sans MS" color="#ffff80"><b>Oh, shit.</b></font>
+645136 647202 <font face="Comic Sans MS" color="#ffff80"><b>Looky, looky, loo.</b></font>
+647204 648904 <font face="Comic Sans MS" color="#ffff80"><b>Hey, EJ, you hungry?</b></font>
+648906 651506 <font face="Comic Sans MS" color="#ffff80"><b>I'm hungry for an ass-burger.</b></font>
+651508 652810 <font face="Comic Sans MS" color="#ffff80"><b>Mmm. Sounds delicious.</b></font>
+653076 655244 <font face="Comic Sans MS" color="#ffff80"><b>A nice, big, juicy ass-burger.</b></font>
+655246 657515 <font face="Comic Sans MS" color="#ffff80"><b>- EJ: Oh, yeah.<br />- (WHIMPERING)</b></font>
+659483 661051 <font face="Comic Sans MS" color="#ffff80"><b>The hell are you doing?</b></font>
+662185 664288 <font face="Comic Sans MS" color="#ffff80"><b>- DEREK: He's a goner.<br />- All right.</b></font>
+716739 718709 <font face="Comic Sans MS" color="#ffff80"><b>- (DOG BARKING)<br />- (GASPS)</b></font>
+724549 725683 <font face="Comic Sans MS" color="#ffff80"><b>(DOOR CLOSES)</b></font>
+736060 737262 <font face="Comic Sans MS" color="#ffff80"><b>(DOORBELL RINGS)</b></font>
+742999 744034 <font face="Comic Sans MS" color="#ffff80"><b>Hi, there.</b></font>
+744301 746570 <font face="Comic Sans MS" color="#ffff80"><b>Does, uh, Quinn McKenna<br />live here?</b></font>
+747037 749773 <font face="Comic Sans MS" color="#ffff80"><b>His post office box payments<br />are past due.</b></font>
+751608 752843 <font face="Comic Sans MS" color="#ffff80"><b>Department of Defense.</b></font>
+753477 755313 <font face="Comic Sans MS" color="#ffff80"><b>He works for the government,<br />does he?</b></font>
+755945 758749 <font face="Comic Sans MS" color="#ffff80"><b>MOS-1-1-B-3-V-W-3.</b></font>
+759717 761018 <font face="Comic Sans MS" color="#ffff80"><b>Military designation.</b></font>
+761350 763720 <font face="Comic Sans MS" color="#ffff80"><b>- Ah.<br />- He kills people...</b></font>
+765156 766657 <font face="Comic Sans MS" color="#ffff80"><b>so you can be a mailman.</b></font>
+780171 781439 <font face="Comic Sans MS" color="#ffff80"><b>Dr. Brackett?</b></font>
+788411 791483 <font face="Comic Sans MS" color="#ffff80"><b>I understand<br />you enjoy stargazing?</b></font>
+794118 795550 <font face="Comic Sans MS" color="#ffff80"><b>My men<br />will take care of your dog.</b></font>
+795552 796887 <font face="Comic Sans MS" color="#ffff80"><b>Will you come with me, please?</b></font>
+808666 809700 <font face="Comic Sans MS" color="#ffff80"><b>What am I looking at?</b></font>
+811234 813537 <font face="Comic Sans MS" color="#ffff80"><b>It's exactly<br />what you think it is. Yeah.</b></font>
+815940 817773 <font face="Comic Sans MS" color="#ffff80"><b>They've been here before.</b></font>
+817775 819911 <font face="Comic Sans MS" color="#ffff80"><b>'87. '97.</b></font>
+822113 825717 <font face="Comic Sans MS" color="#ffff80"><b>Lately, the visits<br />are increasing in frequency.</b></font>
+836326 839596 <font face="Comic Sans MS" color="#ffff80"><b>EMILY: Rory, I'm home!<br />Hey, I got you something.</b></font>
+840765 841766 <font face="Comic Sans MS" color="#ffff80"><b>Hey.</b></font>
+845169 847371 <font face="Comic Sans MS" color="#ffff80"><b>Did you do<br />one of these after school?</b></font>
+847671 848873 <font face="Comic Sans MS" color="#ffff80"><b>I did all of them.</b></font>
+849706 851374 <font face="Comic Sans MS" color="#ffff80"><b>Oh. Okay.</b></font>
+851941 855345 <font face="Comic Sans MS" color="#ffff80"><b>Well, I got you two options.</b></font>
+856513 857614 <font face="Comic Sans MS" color="#ffff80"><b>We have...</b></font>
+858282 860450 <font face="Comic Sans MS" color="#ffff80"><b>pirate, or...</b></font>
+862820 863854 <font face="Comic Sans MS" color="#ffff80"><b>Frankenstein.</b></font>
+866256 868059 <font face="Comic Sans MS" color="#ffff80"><b>Frankenstein,<br />you know, green skin?</b></font>
+868559 870594 <font face="Comic Sans MS" color="#ffff80"><b>Threw a girl<br />to see if she would float?</b></font>
+872696 873627 <font face="Comic Sans MS" color="#ffff80"><b>No. Okay.</b></font>
+873629 876200 <font face="Comic Sans MS" color="#ffff80"><b>Well, let's go with pirate.<br />Yeah?</b></font>
+876700 877734 <font face="Comic Sans MS" color="#ffff80"><b>This is dumb.</b></font>
+879103 880805 <font face="Comic Sans MS" color="#ffff80"><b>The guys will...</b></font>
+881571 883340 <font face="Comic Sans MS" color="#ffff80"><b>They will still<br />be able to see.</b></font>
+884642 885676 <font face="Comic Sans MS" color="#ffff80"><b>See what?</b></font>
+886643 887678 <font face="Comic Sans MS" color="#ffff80"><b>That it's me.</b></font>
+889946 892215 <font face="Comic Sans MS" color="#ffff80"><b>PSYCHOLOGIST: You were once<br />quoted as saying,</b></font>
+892416 894484 <font face="Comic Sans MS" color="#ffff80"><b>"I dropped<br />from my mother's womb...</b></font>
+894719 896487 <font face="Comic Sans MS" color="#ffff80"><b>I hit the floor...</b></font>
+896853 897952 <font face="Comic Sans MS" color="#ffff80"><b>and I started crawling</b></font>
+897954 900755 <font face="Comic Sans MS" color="#ffff80"><b>through hostile territory<br />toward my grave."</b></font>
+900757 902626 <font face="Comic Sans MS" color="#ffff80"><b>(LAUGHING)</b></font>
+902892 903792 <font face="Comic Sans MS" color="#ffff80"><b>QUINN: About right, yeah.</b></font>
+903794 906062 <font face="Comic Sans MS" color="#ffff80"><b>- That's badass.<br />- It's pretty morbid.</b></font>
+906064 907332 <font face="Comic Sans MS" color="#ffff80"><b>It's pretty dark.</b></font>
+907998 910598 <font face="Comic Sans MS" color="#ffff80"><b>What's with the polygraph?</b></font>
+910600 912034 <font face="Comic Sans MS" color="#ffff80"><b>I thought<br />this was a psych eval.</b></font>
+912335 914437 <font face="Comic Sans MS" color="#ffff80"><b>We need to know<br />if you pose a threat.</b></font>
+914439 915772 <font face="Comic Sans MS" color="#ffff80"><b>Oh, I'm a sniper.</b></font>
+916440 918709 <font face="Comic Sans MS" color="#ffff80"><b>Isn't posing a threat<br />kind of the fucking point?</b></font>
+919377 922613 <font face="Comic Sans MS" color="#ffff80"><b>You spend most of your time<br />now in-country...</b></font>
+922946 924916 <font face="Comic Sans MS" color="#ffff80"><b>estranged from your wife<br />and son?</b></font>
+928151 929586 <font face="Comic Sans MS" color="#ffff80"><b>(SIGHS)</b></font>
+930887 932189 <font face="Comic Sans MS" color="#ffff80"><b>Look, I get it.</b></font>
+932790 936191 <font face="Comic Sans MS" color="#ffff80"><b>Something went down in Mexico<br />and nobody wants any witnesses.</b></font>
+936193 937127 <font face="Comic Sans MS" color="#ffff80"><b>Excuse me?</b></font>
+937426 939863 <font face="Comic Sans MS" color="#ffff80"><b>You're not here<br />to find out if I'm crazy.</b></font>
+940363 942496 <font face="Comic Sans MS" color="#ffff80"><b>You wanna make sure<br />the label sticks.</b></font>
+942498 944067 <font face="Comic Sans MS" color="#ffff80"><b>So, you feel<br />you're being railroaded?</b></font>
+944300 946704 <font face="Comic Sans MS" color="#ffff80"><b>I can see the tracks<br />on the floor!</b></font>
+948039 950040 <font face="Comic Sans MS" color="#ffff80"><b>I don't see tracks<br />on the floor, for the record.</b></font>
+950306 951840 <font face="Comic Sans MS" color="#ffff80"><b>You feel<br />like you're a stranger</b></font>
+951842 953578 <font face="Comic Sans MS" color="#ffff80"><b>on your own planet,<br />don't you, Captain?</b></font>
+955146 957448 <font face="Comic Sans MS" color="#ffff80"><b>Like an alien, you mean?</b></font>
+960550 962387 <font face="Comic Sans MS" color="#ffff80"><b>That's what you wanted.</b></font>
+964522 966023 <font face="Comic Sans MS" color="#ffff80"><b>Do I get a cookie now?</b></font>
+966824 967990 <font face="Comic Sans MS" color="#ffff80"><b>He saw something.</b></font>
+967992 969294 <font face="Comic Sans MS" color="#ffff80"><b>- Oh, yeah.<br />- Yeah.</b></font>
+1014772 1016074 <font face="Comic Sans MS" color="#ffff80"><b>Wow!</b></font>
+1028818 1029886 <font face="Comic Sans MS" color="#ffff80"><b>Ow.</b></font>
+1038194 1039429 <font face="Comic Sans MS" color="#ffff80"><b>(BEEPS)</b></font>
+1050073 1052844 <font face="Comic Sans MS" color="#ffff80"><b>(DEVICE TRILLING)</b></font>
+1058048 1059683 <font face="Comic Sans MS" color="#ffff80"><b>(EXHALES DEEPLY)</b></font>
+1060784 1063121 <font face="Comic Sans MS" color="#ffff80"><b>You shove me again,<br />I'm gonna break your neck.</b></font>
+1063988 1065456 <font face="Comic Sans MS" color="#ffff80"><b>Did I say that out loud?</b></font>
+1069594 1071429 <font face="Comic Sans MS" color="#ffff80"><b>- (QUINN CLEARS THROAT)<br />- McKenna.</b></font>
+1074131 1075264 <font face="Comic Sans MS" color="#ffff80"><b>OFFICER: Last one.</b></font>
+1075266 1076868 <font face="Comic Sans MS" color="#ffff80"><b>Thanks for your kindness.<br />Thank you.</b></font>
+1082706 1083841 <font face="Comic Sans MS" color="#ffff80"><b>(SIGHS)</b></font>
+1086076 1087444 <font face="Comic Sans MS" color="#ffff80"><b>(KEYS JANGLING)</b></font>
+1094719 1095719 <font face="Comic Sans MS" color="#ffff80"><b>Oh, yeah?</b></font>
+1098355 1099589 <font face="Comic Sans MS" color="#ffff80"><b>(BAXLEY MUMBLES)</b></font>
+1100524 1102193 <font face="Comic Sans MS" color="#ffff80"><b>(CLICKS AND SNIFFS)</b></font>
+1103126 1104192 <font face="Comic Sans MS" color="#ffff80"><b>You all right over there?</b></font>
+1104194 1106026 <font face="Comic Sans MS" color="#ffff80"><b>No, don't worry about him.<br />He's just got Tourettes.</b></font>
+1106028 1108228 <font face="Comic Sans MS" color="#ffff80"><b>- He can't control it.<br />- Fuck you, Coyle.</b></font>
+1108230 1109767 <font face="Comic Sans MS" color="#ffff80"><b>You get used to it, bro.</b></font>
+1115038 1116571 <font face="Comic Sans MS" color="#ffff80"><b>Welcome to Group Two.</b></font>
+1116573 1118140 <font face="Comic Sans MS" color="#ffff80"><b>Oh, yeah? What's that?</b></font>
+1118142 1119274 <font face="Comic Sans MS" color="#ffff80"><b>Like a unit?</b></font>
+1119276 1120978 <font face="Comic Sans MS" color="#ffff80"><b>No, group. Group Two.</b></font>
+1121210 1122947 <font face="Comic Sans MS" color="#ffff80"><b>Group therapy, room two.</b></font>
+1124114 1125313 <font face="Comic Sans MS" color="#ffff80"><b>Oh.</b></font>
+1125315 1127082 <font face="Comic Sans MS" color="#ffff80"><b>- McKenna.<br />- Nebraska Williams.</b></font>
+1127084 1128216 <font face="Comic Sans MS" color="#ffff80"><b>That's your real name?</b></font>
+1128218 1129253 <font face="Comic Sans MS" color="#ffff80"><b>Gaylord.</b></font>
+1129453 1131254 <font face="Comic Sans MS" color="#ffff80"><b>- That's a good call, then.<br />- Yeah, I thought so.</b></font>
+1131455 1132720 <font face="Comic Sans MS" color="#ffff80"><b>(CHUCKLES)</b></font>
+1132722 1134157 <font face="Comic Sans MS" color="#ffff80"><b>Where did you serve?</b></font>
+1134624 1136559 <font face="Comic Sans MS" color="#ffff80"><b>Operation<br />Enduring Freedom, '03.</b></font>
+1137094 1140030 <font face="Comic Sans MS" color="#ffff80"><b>Went for the Taliban,<br />stayed for the opium.</b></font>
+1140998 1142099 <font face="Comic Sans MS" color="#ffff80"><b>(LAUGHING)</b></font>
+1143900 1146336 <font face="Comic Sans MS" color="#ffff80"><b>That's Coyle.<br />Friendly fire incident.</b></font>
+1146636 1149506 <font face="Comic Sans MS" color="#ffff80"><b>Got turned around, fired<br />at one of his own vehicles.</b></font>
+1150473 1151706 <font face="Comic Sans MS" color="#ffff80"><b>Now, he tells jokes.</b></font>
+1151708 1152841 <font face="Comic Sans MS" color="#ffff80"><b>(COYLE CLEARS THROAT)</b></font>
+1152843 1154946 <font face="Comic Sans MS" color="#ffff80"><b>- (THUDS)<br />- (GRUNTS) That's Lynch.</b></font>
+1155313 1157782 <font face="Comic Sans MS" color="#ffff80"><b>Got a medal for blowing up<br />half a mountain in Mosul.</b></font>
+1158282 1159684 <font face="Comic Sans MS" color="#ffff80"><b>Entropy.</b></font>
+1160317 1161718 <font face="Comic Sans MS" color="#ffff80"><b>That's my game.</b></font>
+1162151 1163752 <font face="Comic Sans MS" color="#ffff80"><b>Things like to fall apart</b></font>
+1163754 1165990 <font face="Comic Sans MS" color="#ffff80"><b>and I... make it happen.</b></font>
+1167157 1168823 <font face="Comic Sans MS" color="#ffff80"><b>Just... Just like that.</b></font>
+1168825 1171228 <font face="Comic Sans MS" color="#ffff80"><b>- (GASPING)<br />- Ooh! Wow! Oh.</b></font>
+1172328 1174130 <font face="Comic Sans MS" color="#ffff80"><b>- Hey.<br />- Hey. Don't.</b></font>
+1176132 1177133 <font face="Comic Sans MS" color="#ffff80"><b>Don't.</b></font>
+1177401 1178535 <font face="Comic Sans MS" color="#ffff80"><b>That's Nettles.</b></font>
+1178802 1181072 <font face="Comic Sans MS" color="#ffff80"><b>(STUTTERS) Okay, I'm Nettles.</b></font>
+1181372 1183005 <font face="Comic Sans MS" color="#ffff80"><b>Did three tours flying Hueys.</b></font>
+1183007 1185439 <font face="Comic Sans MS" color="#ffff80"><b>He loves his Bible.<br />Hey, Netty?</b></font>
+1185441 1187175 <font face="Comic Sans MS" color="#ffff80"><b>Is it end times yet?</b></font>
+1187177 1188409 <font face="Comic Sans MS" color="#ffff80"><b>Yeah, laugh all you want.</b></font>
+1188411 1190612 <font face="Comic Sans MS" color="#ffff80"><b>But when you're standing at<br />attention before your Maker...</b></font>
+1190614 1192647 <font face="Comic Sans MS" color="#ffff80"><b>I always stand at attention<br />before I make her.</b></font>
+1192649 1194448 <font face="Comic Sans MS" color="#ffff80"><b>- (WHISTLES)<br />- (LAUGHTER)</b></font>
+1194450 1196086 <font face="Comic Sans MS" color="#ffff80"><b>God makes shitty people.</b></font>
+1196819 1197719 <font face="Comic Sans MS" color="#ffff80"><b>Yeah.</b></font>
+1197721 1199955 <font face="Comic Sans MS" color="#ffff80"><b>I mean, why do you think<br />people make war?</b></font>
+1199957 1201555 <font face="Comic Sans MS" color="#ffff80"><b>Why, Baxley?<br />Why do we make war?</b></font>
+1201557 1203891 <font face="Comic Sans MS" color="#ffff80"><b>- Come on, Baxley!<br />- Because fuck-cock-cock!</b></font>
+1203893 1205893 <font face="Comic Sans MS" color="#ffff80"><b>- Because we fuck cock-cock?<br />- Yes, we fuck cocks.</b></font>
+1205895 1207329 <font face="Comic Sans MS" color="#ffff80"><b>That's it,<br />because we fuck cocks,</b></font>
+1207331 1208565 <font face="Comic Sans MS" color="#ffff80"><b>that's why. We get upset.</b></font>
+1208865 1211234 <font face="Comic Sans MS" color="#ffff80"><b>How'd you snag a ticket<br />on this shitmobile?</b></font>
+1211768 1213570 <font face="Comic Sans MS" color="#ffff80"><b>Put a bullet in a CO.</b></font>
+1214404 1215972 <font face="Comic Sans MS" color="#ffff80"><b>Any particular reason?</b></font>
+1217574 1218942 <font face="Comic Sans MS" color="#ffff80"><b>He was an asshole.</b></font>
+1242065 1243300 <font face="Comic Sans MS" color="#ffff80"><b>Keep your head down.</b></font>
+1251674 1253009 <font face="Comic Sans MS" color="#ffff80"><b>Here, throw this on.</b></font>
+1257980 1259215 <font face="Comic Sans MS" color="#ffff80"><b>(BELL RINGS)</b></font>
+1261317 1262920 <font face="Comic Sans MS" color="#ffff80"><b>Is it just your imagination?</b></font>
+1263254 1266724 <font face="Comic Sans MS" color="#ffff80"><b>Or is this haunted room<br />actually stretching?</b></font>
+1268191 1269359 <font face="Comic Sans MS" color="#ffff80"><b>Every fucking time?</b></font>
+1270393 1271594 <font face="Comic Sans MS" color="#ffff80"><b>(ELEVATOR DINGS)</b></font>
+1271928 1273795 <font face="Comic Sans MS" color="#ffff80"><b>AUTOMATED VOICE:<br />Your attention, please.</b></font>
+1273797 1277498 <font face="Comic Sans MS" color="#ffff80"><b>The GRC meeting has been moved<br />to section 3, room A.</b></font>
+1277500 1279769 <font face="Comic Sans MS" color="#ffff80"><b>Aha! There you are!</b></font>
+1280836 1283440 <font face="Comic Sans MS" color="#ffff80"><b>Welcome.<br />I'm Sean Keyes.</b></font>
+1283973 1286174 <font face="Comic Sans MS" color="#ffff80"><b>Wow. I heard you basically<br />wrote the book</b></font>
+1286176 1287542 <font face="Comic Sans MS" color="#ffff80"><b>on evolutionary biology.</b></font>
+1287544 1289278 <font face="Comic Sans MS" color="#ffff80"><b>Um, I'm sorry, can I just...</b></font>
+1289513 1290781 <font face="Comic Sans MS" color="#ffff80"><b>Is that...?</b></font>
+1293417 1294986 <font face="Comic Sans MS" color="#ffff80"><b>Oh, my God!</b></font>
+1296452 1299021 <font face="Comic Sans MS" color="#ffff80"><b>(CHUCKLES NERVOUSLY)<br />Holy shit.</b></font>
+1299421 1301057 <font face="Comic Sans MS" color="#ffff80"><b>That's alien technology.</b></font>
+1303125 1305028 <font face="Comic Sans MS" color="#ffff80"><b>This is what<br />you brought me here to see?</b></font>
+1305629 1307331 <font face="Comic Sans MS" color="#ffff80"><b>KEYES: Well, yeah.</b></font>
+1307965 1310801 <font face="Comic Sans MS" color="#ffff80"><b>Can I... Can I see this?<br />Can I get into this?</b></font>
+1311101 1312103 <font face="Comic Sans MS" color="#ffff80"><b>Doc.</b></font>
+1312702 1313900 <font face="Comic Sans MS" color="#ffff80"><b>Let's go.</b></font>
+1313902 1316172 <font face="Comic Sans MS" color="#ffff80"><b>(INDISTINCT PA ANNOUNCEMENT)</b></font>
+1326682 1328652 <font face="Comic Sans MS" color="#ffff80"><b>- TRAEGER: Everything good?<br />- Yes, sir.</b></font>
+1329620 1330988 <font face="Comic Sans MS" color="#ffff80"><b>TRAEGER: What is it?</b></font>
+1332789 1334056 <font face="Comic Sans MS" color="#ffff80"><b>Dr. Brackett.</b></font>
+1334557 1336326 <font face="Comic Sans MS" color="#ffff80"><b>Would you like<br />to meet a Predator?</b></font>
+1337128 1338429 <font face="Comic Sans MS" color="#ffff80"><b>(CHUCKLES) Come on.</b></font>
+1346870 1348402 <font face="Comic Sans MS" color="#ffff80"><b>WOMAN (ON PA):<br />Please observe</b></font>
+1348404 1350240 <font face="Comic Sans MS" color="#ffff80"><b>decontamination protocol.</b></font>
+1350807 1352742 <font face="Comic Sans MS" color="#ffff80"><b>KEYES: So, how'd they<br />rope you into this?</b></font>
+1353043 1355444 <font face="Comic Sans MS" color="#ffff80"><b>I wrote a letter to<br />the president when I was six.</b></font>
+1355446 1356777 <font face="Comic Sans MS" color="#ffff80"><b>Told him how much<br />I loved animals,</b></font>
+1356779 1358414 <font face="Comic Sans MS" color="#ffff80"><b>and that if NASA<br />ever found a space animal,</b></font>
+1358649 1359815 <font face="Comic Sans MS" color="#ffff80"><b>they should call me.</b></font>
+1360182 1362918 <font face="Comic Sans MS" color="#ffff80"><b>Couple years ago,<br />I was put on a short list</b></font>
+1362920 1364721 <font face="Comic Sans MS" color="#ffff80"><b>for a paper<br />I wrote on hybrid strains.</b></font>
+1364955 1368459 <font face="Comic Sans MS" color="#ffff80"><b>Computer cross-referenced<br />the letter, and... here I am.</b></font>
+1370227 1371762 <font face="Comic Sans MS" color="#ffff80"><b>(MACHINE WHIRRING)</b></font>
+1376267 1377401 <font face="Comic Sans MS" color="#ffff80"><b>Dr. Brackett.</b></font>
+1378468 1379867 <font face="Comic Sans MS" color="#ffff80"><b>Thanks for coming.</b></font>
+1379869 1381304 <font face="Comic Sans MS" color="#ffff80"><b>I'm sure you have questions.</b></font>
+1381571 1384175 <font face="Comic Sans MS" color="#ffff80"><b>- Oh. Just two, actually.<br />- Okay.</b></font>
+1384575 1386142 <font face="Comic Sans MS" color="#ffff80"><b>Why do you call it<br />"the Predator"?</b></font>
+1386776 1388344 <font face="Comic Sans MS" color="#ffff80"><b>It's a nickname.</b></font>
+1388978 1391748 <font face="Comic Sans MS" color="#ffff80"><b>You know, the data suggests<br />that it tracks its prey.</b></font>
+1391949 1393417 <font face="Comic Sans MS" color="#ffff80"><b>Exploits weakness.</b></font>
+1393651 1395186 <font face="Comic Sans MS" color="#ffff80"><b>Seems to...</b></font>
+1395652 1396920 <font face="Comic Sans MS" color="#ffff80"><b>well, enjoy it.</b></font>
+1397153 1398253 <font face="Comic Sans MS" color="#ffff80"><b>Like a game.</b></font>
+1398255 1400487 <font face="Comic Sans MS" color="#ffff80"><b>That's not a predator,<br />that's a sports hunter.</b></font>
+1400489 1401590 <font face="Comic Sans MS" color="#ffff80"><b>Sorry?</b></font>
+1401592 1403624 <font face="Comic Sans MS" color="#ffff80"><b>A predator<br />kills its prey to survive.</b></font>
+1403626 1407528 <font face="Comic Sans MS" color="#ffff80"><b>I mean, what you're describing<br />is more like a bass fisherman.</b></font>
+1407530 1409730 <font face="Comic Sans MS" color="#ffff80"><b>Well, we took a vote.<br />Predator's cooler, right?</b></font>
+1409732 1411634 <font face="Comic Sans MS" color="#ffff80"><b>- SAPIR: Fuck yeah.<br />- Fuck yeah.</b></font>
+1411869 1413802 <font face="Comic Sans MS" color="#ffff80"><b>Found his escape pod<br />in Mexico.</b></font>
+1413804 1415739 <font face="Comic Sans MS" color="#ffff80"><b>Still looking<br />for the ship he came in.</b></font>
+1416440 1417975 <font face="Comic Sans MS" color="#ffff80"><b>He's heavily sedated.</b></font>
+1423646 1425849 <font face="Comic Sans MS" color="#ffff80"><b>You are<br />one beautiful motherfucker.</b></font>
+1426683 1429886 <font face="Comic Sans MS" color="#ffff80"><b>I'm gonna guess your second<br />question is, why are you here?</b></font>
+1431889 1435159 <font face="Comic Sans MS" color="#ffff80"><b>Our test results yielded<br />something a little... odd.</b></font>
+1436826 1438461 <font face="Comic Sans MS" color="#ffff80"><b>(SCOFFS) Is this a joke?</b></font>
+1438996 1441396 <font face="Comic Sans MS" color="#ffff80"><b>KEYES: We ran the genome<br />sequence ten times.</b></font>
+1441398 1443331 <font face="Comic Sans MS" color="#ffff80"><b>This specimen has...</b></font>
+1443333 1445099 <font face="Comic Sans MS" color="#ffff80"><b>- Human DNA?<br />- Yeah.</b></font>
+1445101 1445902 <font face="Comic Sans MS" color="#ffff80"><b>Yeah.</b></font>
+1446103 1448903 <font face="Comic Sans MS" color="#ffff80"><b>Look, we know<br />about spontaneous speciation.</b></font>
+1448905 1450371 <font face="Comic Sans MS" color="#ffff80"><b>Mostly plants and insects,<br />but...</b></font>
+1450373 1453341 <font face="Comic Sans MS" color="#ffff80"><b>But some mammals,<br />sheep, goats, uh...</b></font>
+1453343 1454044 <font face="Comic Sans MS" color="#ffff80"><b>Yeah.</b></font>
+1454311 1455909 <font face="Comic Sans MS" color="#ffff80"><b>KEYES: The red wolf<br />is known to be a hybrid</b></font>
+1455911 1457178 <font face="Comic Sans MS" color="#ffff80"><b>between the coyote<br />and the grey wolf...</b></font>
+1457180 1459680 <font face="Comic Sans MS" color="#ffff80"><b>Or possibly some form of<br />recombinant technology...</b></font>
+1459682 1462118 <font face="Comic Sans MS" color="#ffff80"><b>Guys, guys, guys.<br />I get it, I get it.</b></font>
+1462753 1464789 <font face="Comic Sans MS" color="#ffff80"><b>You wanna know<br />if someone fucked an alien?</b></font>
+1467090 1468125 <font face="Comic Sans MS" color="#ffff80"><b>Yeah.</b></font>
+1470293 1472861 <font face="Comic Sans MS" color="#ffff80"><b>Okay, it's got some kind of<br />atmospheric mask,</b></font>
+1472863 1473764 <font face="Comic Sans MS" color="#ffff80"><b>biohelmet, and...</b></font>
+1474198 1476363 <font face="Comic Sans MS" color="#ffff80"><b>What are these? Like,<br />some kind of wrist gauntlets?</b></font>
+1476365 1477401 <font face="Comic Sans MS" color="#ffff80"><b>Exactly.</b></font>
+1477968 1480101 <font face="Comic Sans MS" color="#ffff80"><b>So, where's the helmet<br />and the other gauntlet?</b></font>
+1480103 1481305 <font face="Comic Sans MS" color="#ffff80"><b>We've looked, believe me.</b></font>
+1483840 1485075 <font face="Comic Sans MS" color="#ffff80"><b>Who is this?</b></font>
+1485874 1487678 <font face="Comic Sans MS" color="#ffff80"><b>He made first contact<br />with the Predator.</b></font>
+1487878 1489546 <font face="Comic Sans MS" color="#ffff80"><b>Great.<br />I'd like to talk to him.</b></font>
+1490046 1492982 <font face="Comic Sans MS" color="#ffff80"><b>Well, he's<br />being evaluated, so...</b></font>
+1496286 1497185 <font face="Comic Sans MS" color="#ffff80"><b>Okay.</b></font>
+1497187 1498686 <font face="Comic Sans MS" color="#ffff80"><b>Well, before<br />you lobotomize him,</b></font>
+1498688 1500457 <font face="Comic Sans MS" color="#ffff80"><b>I'd like to ask him<br />a few questions.</b></font>
+1503324 1504292 <font face="Comic Sans MS" color="#ffff80"><b>MAN (ON RADIO):<br />We have a request to reroute.</b></font>
+1504294 1506897 <font face="Comic Sans MS" color="#ffff80"><b>OFFICER: Read you<br />five-by-five. Destination?</b></font>
+1507163 1509096 <font face="Comic Sans MS" color="#ffff80"><b>Starkweather Dam.<br />Proceed at once.</b></font>
+1509098 1511167 <font face="Comic Sans MS" color="#ffff80"><b>You'll be met<br />by military personnel. Over.</b></font>
+1512803 1514205 <font face="Comic Sans MS" color="#ffff80"><b>COYLE: Hey, Baxley!</b></font>
+1514604 1515769 <font face="Comic Sans MS" color="#ffff80"><b>Question for ya.</b></font>
+1515771 1517104 <font face="Comic Sans MS" color="#ffff80"><b>All right, here we go.</b></font>
+1517106 1519407 <font face="Comic Sans MS" color="#ffff80"><b>How do you circumcise<br />a homeless man?</b></font>
+1519409 1520307 <font face="Comic Sans MS" color="#ffff80"><b>Here it comes.</b></font>
+1520309 1522243 <font face="Comic Sans MS" color="#ffff80"><b>Kick your mom in the chin.<br />(CHUCKLES)</b></font>
+1522245 1523978 <font face="Comic Sans MS" color="#ffff80"><b>Fuck your mother...<br />Fuck your mother...</b></font>
+1523980 1525880 <font face="Comic Sans MS" color="#ffff80"><b>- (IMITATES BARKING)<br />- (LAUGHTER)</b></font>
+1525882 1527948 <font face="Comic Sans MS" color="#ffff80"><b>- Shut the fuck up!<br />- WILLIAMS: All right.</b></font>
+1527950 1529383 <font face="Comic Sans MS" color="#ffff80"><b>You shut the fuck up.</b></font>
+1529385 1531119 <font face="Comic Sans MS" color="#ffff80"><b>(LAUGHTER)</b></font>
+1531121 1533588 <font face="Comic Sans MS" color="#ffff80"><b>Hold on, hold on, hold on.<br />Y'all going too fucking much.</b></font>
+1533590 1535792 <font face="Comic Sans MS" color="#ffff80"><b>I just wanna know<br />who this motherfucker is.</b></font>
+1535992 1537360 <font face="Comic Sans MS" color="#ffff80"><b>Why are you here?</b></font>
+1539828 1541963 <font face="Comic Sans MS" color="#ffff80"><b>Come on, man,<br />this is the loony bus.</b></font>
+1541965 1543698 <font face="Comic Sans MS" color="#ffff80"><b>- Look at this motherfucker.<br />- LYNCH: Loonies!</b></font>
+1543700 1545067 <font face="Comic Sans MS" color="#ffff80"><b>Loonies, yeah. (ULULATES)</b></font>
+1545302 1546570 <font face="Comic Sans MS" color="#ffff80"><b>Ah... (SIGHS)</b></font>
+1546902 1549403 <font face="Comic Sans MS" color="#ffff80"><b>I had a run-in<br />with a space alien.</b></font>
+1549405 1551605 <font face="Comic Sans MS" color="#ffff80"><b>Oh, shit!</b></font>
+1551607 1553275 <font face="Comic Sans MS" color="#ffff80"><b>(ALL LAUGHING)</b></font>
+1553509 1554942 <font face="Comic Sans MS" color="#ffff80"><b>- No, let him...<br />- COYLE: Okay, that guy wins.</b></font>
+1554944 1556277 <font face="Comic Sans MS" color="#ffff80"><b>That's the best story<br />I've ever heard.</b></font>
+1556279 1557012 <font face="Comic Sans MS" color="#ffff80"><b>Classic story...</b></font>
+1557279 1559146 <font face="Comic Sans MS" color="#ffff80"><b>That's the winner right there.<br />Fuckin' hell.</b></font>
+1559148 1561251 <font face="Comic Sans MS" color="#ffff80"><b>Would you shut the fuck up?</b></font>
+1561450 1562518 <font face="Comic Sans MS" color="#ffff80"><b>Oh.</b></font>
+1565121 1566657 <font face="Comic Sans MS" color="#ffff80"><b>They want to put a lid on it,</b></font>
+1567725 1569056 <font face="Comic Sans MS" color="#ffff80"><b>so here I am.</b></font>
+1569058 1570526 <font face="Comic Sans MS" color="#ffff80"><b>Stuck in Group Two.</b></font>
+1570928 1572662 <font face="Comic Sans MS" color="#ffff80"><b>The sequel to Group One,<br />only stupider.</b></font>
+1573729 1574998 <font face="Comic Sans MS" color="#ffff80"><b>Oh, huh.</b></font>
+1575899 1578100 <font face="Comic Sans MS" color="#ffff80"><b>(LAUGHING)</b></font>
+1578102 1579534 <font face="Comic Sans MS" color="#ffff80"><b>NETTLES: Give this man<br />a fuckin' cigar.</b></font>
+1579536 1580601 <font face="Comic Sans MS" color="#ffff80"><b>Shut the fuck up.</b></font>
+1580603 1582536 <font face="Comic Sans MS" color="#ffff80"><b>"Would you shut the fuck up?"</b></font>
+1582538 1585041 <font face="Comic Sans MS" color="#ffff80"><b>(LAUGHTER CONTINUES)</b></font>
+1585976 1587175 <font face="Comic Sans MS" color="#ffff80"><b>COYLE: It's a conspiracy.</b></font>
+1587177 1589613 <font face="Comic Sans MS" color="#ffff80"><b>The goddamn space aliens, huh?</b></font>
+1602381 1604178 <font face="Comic Sans MS" color="#ffff80"><b>SENSORS ENGAGED</b></font>
+1606365 1608318 <font face="Comic Sans MS" color="#ffff80"><b>SCANNING FOR TARGET</b></font>
+1610566 1612268 <font face="Comic Sans MS" color="#ffff80"><b>(BEEPING)</b></font>
+1616773 1618676 <font face="Comic Sans MS" color="#ffff80"><b>(TRILLING)</b></font>
+1622078 1625148 <font face="Comic Sans MS" color="#ffff80"><b>(QUIET BUZZING)</b></font>
+1628852 1630353 <font face="Comic Sans MS" color="#ffff80"><b>(SNARLS)</b></font>
+1631188 1632122 <font face="Comic Sans MS" color="#ffff80"><b>(GROWLS)</b></font>
+1632389 1634425 <font face="Comic Sans MS" color="#ffff80"><b>EMILY: What are you<br />doing down there, Rory?</b></font>
+1635223 1638359 <font face="Comic Sans MS" color="#ffff80"><b>Uh, just... just playing games.</b></font>
+1638361 1640130 <font face="Comic Sans MS" color="#ffff80"><b>EMILY: Well,<br />dinner's getting cold.</b></font>
+1640363 1642099 <font face="Comic Sans MS" color="#ffff80"><b>(TRILLING)</b></font>
+1643799 1644934 <font face="Comic Sans MS" color="#ffff80"><b>Major?</b></font>
+1645267 1646870 <font face="Comic Sans MS" color="#ffff80"><b>Weird-ass bogey, sir.</b></font>
+1647536 1650373 <font face="Comic Sans MS" color="#ffff80"><b>One second it's on the grid,<br />the next it's ghosting.</b></font>
+1650707 1652342 <font face="Comic Sans MS" color="#ffff80"><b>GENERAL (SIGHS): Damn it.</b></font>
+1652709 1654443 <font face="Comic Sans MS" color="#ffff80"><b>We need something in the air.</b></font>
+1654777 1655844 <font face="Comic Sans MS" color="#ffff80"><b>Get me NORAD.</b></font>
+1656345 1658545 <font face="Comic Sans MS" color="#ffff80"><b>I feel like I'm missing<br />something in the research.</b></font>
+1658547 1659915 <font face="Comic Sans MS" color="#ffff80"><b>There's something<br />I'm just not seeing.</b></font>
+1660415 1663352 <font face="Comic Sans MS" color="#ffff80"><b>Look, if this is<br />the blood, okay, I think...</b></font>
+1663952 1665553 <font face="Comic Sans MS" color="#ffff80"><b>can you just tell me<br />what that is?</b></font>
+1665555 1667054 <font face="Comic Sans MS" color="#ffff80"><b>Because I was trying</b></font>
+1667056 1668989 <font face="Comic Sans MS" color="#ffff80"><b>to get into this earlier,<br />but somebody stopped me.</b></font>
+1668991 1670524 <font face="Comic Sans MS" color="#ffff80"><b>He gave me the hairy eyeball.</b></font>
+1670526 1672561 <font face="Comic Sans MS" color="#ffff80"><b>- That guy actually.<br />- KEYES: Hold that thought.</b></font>
+1672563 1674361 <font face="Comic Sans MS" color="#ffff80"><b>Sir, NORAD's reporting<br />a 202 anomaly</b></font>
+1674363 1675832 <font face="Comic Sans MS" color="#ffff80"><b>possibly heading<br />our direction.</b></font>
+1676065 1677498 <font face="Comic Sans MS" color="#ffff80"><b>Is it coming here?</b></font>
+1677500 1678469 <font face="Comic Sans MS" color="#ffff80"><b>God, I hope not.</b></font>
+1681537 1683673 <font face="Comic Sans MS" color="#ffff80"><b>(TRILLING)</b></font>
+1687777 1688842 <font face="Comic Sans MS" color="#ffff80"><b>Holy shit!</b></font>
+1688844 1690314 <font face="Comic Sans MS" color="#ffff80"><b>(ALARM BLARING)</b></font>
+1693883 1694985 <font face="Comic Sans MS" color="#ffff80"><b>How far away<br />are we talking about?</b></font>
+1695219 1697084 <font face="Comic Sans MS" color="#ffff80"><b>MAN: Unknown. But it's<br />definitely heading your way.</b></font>
+1697086 1698854 <font face="Comic Sans MS" color="#ffff80"><b>AUTOMATED VOICE:<br />Level two alert.</b></font>
+1699088 1701022 <font face="Comic Sans MS" color="#ffff80"><b>- Level two alert.<br />- Shit!</b></font>
+1701024 1702092 <font face="Comic Sans MS" color="#ffff80"><b>Hey, what's happening?</b></font>
+1702292 1704158 <font face="Comic Sans MS" color="#ffff80"><b>Proximity alert. Bogey's<br />inbound. Range 200 miles.</b></font>
+1704160 1705226 <font face="Comic Sans MS" color="#ffff80"><b>KEYES: Lock it down.</b></font>
+1705228 1707861 <font face="Comic Sans MS" color="#ffff80"><b>He's awake!<br />He's awake! He's awake!</b></font>
+1707863 1710232 <font face="Comic Sans MS" color="#ffff80"><b>- Hey!<br />- (CLICKING)</b></font>
+1710967 1713034 <font face="Comic Sans MS" color="#ffff80"><b>Hey, hold him down!<br />Keep him down!</b></font>
+1713036 1714203 <font face="Comic Sans MS" color="#ffff80"><b>Hold him down!</b></font>
+1715071 1716437 <font face="Comic Sans MS" color="#ffff80"><b>(SCREAMING)</b></font>
+1716439 1717304 <font face="Comic Sans MS" color="#ffff80"><b>Oh, shit!</b></font>
+1717306 1719242 <font face="Comic Sans MS" color="#ffff80"><b>- (FLESH TEARS)<br />- (SNARLING)</b></font>
+1719910 1721445 <font face="Comic Sans MS" color="#ffff80"><b>Doc, on me, now!</b></font>
+1721878 1723514 <font face="Comic Sans MS" color="#ffff80"><b>Move! Move!</b></font>
+1724013 1725282 <font face="Comic Sans MS" color="#ffff80"><b>Church, Thomas, J.</b></font>
+1731421 1732623 <font face="Comic Sans MS" color="#ffff80"><b>(KEYPAD BEEPING)</b></font>
+1734223 1735625 <font face="Comic Sans MS" color="#ffff80"><b>(GROANING AND YELLING)</b></font>
+1739896 1742231 <font face="Comic Sans MS" color="#ffff80"><b>- (ROARS)<br />- (SCREAMS)</b></font>
+1744601 1745768 <font face="Comic Sans MS" color="#ffff80"><b>(SNARLS)</b></font>
+1747437 1748439 <font face="Comic Sans MS" color="#ffff80"><b>Move!</b></font>
+1755045 1756110 <font face="Comic Sans MS" color="#ffff80"><b>AUTOMATED VOICE:<br />Please observe</b></font>
+1756112 1757514 <font face="Comic Sans MS" color="#ffff80"><b>decontamination protocol.</b></font>
+1760049 1763186 <font face="Comic Sans MS" color="#ffff80"><b>Chamber secure.<br />Remove outer garments.</b></font>
+1765955 1767457 <font face="Comic Sans MS" color="#ffff80"><b>(SCREAMING)</b></font>
+1767657 1768592 <font face="Comic Sans MS" color="#ffff80"><b>(GASPS)</b></font>
+1769759 1771127 <font face="Comic Sans MS" color="#ffff80"><b>(MAN SCREAMS)</b></font>
+1776333 1777633 <font face="Comic Sans MS" color="#ffff80"><b>(ROARS)</b></font>
+1785307 1787176 <font face="Comic Sans MS" color="#ffff80"><b>(ALARM CONTINUES BLARING)</b></font>
+1787977 1789709 <font face="Comic Sans MS" color="#ffff80"><b>(DISTORTED VOICES)</b></font>
+1789711 1791278 <font face="Comic Sans MS" color="#ffff80"><b>PREDATOR (IMITATES VOICE):<br />Church, Thomas, J.</b></font>
+1791280 1792782 <font face="Comic Sans MS" color="#ffff80"><b>Church, Thomas, J.</b></font>
+1795552 1796719 <font face="Comic Sans MS" color="#ffff80"><b>(SHUDDERS)</b></font>
+1798988 1800356 <font face="Comic Sans MS" color="#ffff80"><b>(PREDATOR CLICKING)</b></font>
+1803927 1805629 <font face="Comic Sans MS" color="#ffff80"><b>(CASEY SHUDDERING)</b></font>
+1814904 1816507 <font face="Comic Sans MS" color="#ffff80"><b>(HISSING)</b></font>
+1820776 1823313 <font face="Comic Sans MS" color="#ffff80"><b>Please observe<br />decontamination protocol.</b></font>
+1829987 1831986 <font face="Comic Sans MS" color="#ffff80"><b>(ALARM BLARING)</b></font>
+1831988 1833390 <font face="Comic Sans MS" color="#ffff80"><b>(GRUNTING)</b></font>
+1852007 1853776 <font face="Comic Sans MS" color="#ffff80"><b>(TRILLING)</b></font>
+1870192 1871359 <font face="Comic Sans MS" color="#ffff80"><b>(SIREN WAILS)</b></font>
+1871361 1873160 <font face="Comic Sans MS" color="#ffff80"><b>MALE SECURITY:<br />All personnel, Code Orange.</b></font>
+1873162 1874294 <font face="Comic Sans MS" color="#ffff80"><b>Code Orange.</b></font>
+1874296 1876200 <font face="Comic Sans MS" color="#ffff80"><b>This is not a drill.</b></font>
+1877100 1879469 <font face="Comic Sans MS" color="#ffff80"><b>Sit tight.<br />There's been a breach.</b></font>
+1880068 1881703 <font face="Comic Sans MS" color="#ffff80"><b>OFFICER:<br />Do you have an estimate?</b></font>
+1881970 1883105 <font face="Comic Sans MS" color="#ffff80"><b>SOLDIER: Not right now.</b></font>
+1883539 1884840 <font face="Comic Sans MS" color="#ffff80"><b>SOLDIER:<br />I'll give you cover fire.</b></font>
+1885174 1886274 <font face="Comic Sans MS" color="#ffff80"><b>Get him out!</b></font>
+1886276 1888478 <font face="Comic Sans MS" color="#ffff80"><b>SOLDIER 2:<br />Movement, twelve o'clock!</b></font>
+1889580 1891248 <font face="Comic Sans MS" color="#ffff80"><b>(ALARM BLARING)</b></font>
+1892882 1894718 <font face="Comic Sans MS" color="#ffff80"><b>(ALARM CONTINUES BLARING)</b></font>
+1900723 1902925 <font face="Comic Sans MS" color="#ffff80"><b>Hey. Hey.</b></font>
+1903159 1904661 <font face="Comic Sans MS" color="#ffff80"><b>- (BANGS)<br />- (GASPS)</b></font>
+1905628 1907698 <font face="Comic Sans MS" color="#ffff80"><b>(INAUDIBLE)</b></font>
+1911133 1912969 <font face="Comic Sans MS" color="#ffff80"><b>Don't let him get away.</b></font>
+1915439 1917274 <font face="Comic Sans MS" color="#ffff80"><b>Not my space animal.</b></font>
+1920576 1921944 <font face="Comic Sans MS" color="#ffff80"><b>(SCREAMING)</b></font>
+1927917 1929286 <font face="Comic Sans MS" color="#ffff80"><b>(GROWLS)</b></font>
+1931019 1932388 <font face="Comic Sans MS" color="#ffff80"><b>COYLE: What the fuck?</b></font>
+1937227 1938228 <font face="Comic Sans MS" color="#ffff80"><b>Alien.</b></font>
+1938428 1939796 <font face="Comic Sans MS" color="#ffff80"><b>Your green boy?</b></font>
+1940162 1941430 <font face="Comic Sans MS" color="#ffff80"><b>Yep.</b></font>
+1941831 1943398 <font face="Comic Sans MS" color="#ffff80"><b>Goddamn space aliens.</b></font>
+1943400 1944532 <font face="Comic Sans MS" color="#ffff80"><b>What? What?</b></font>
+1944534 1946300 <font face="Comic Sans MS" color="#ffff80"><b>Did you not just<br />fucking see that, man?</b></font>
+1946302 1947435 <font face="Comic Sans MS" color="#ffff80"><b>- (SHUSHING)<br />- Am I going fucking mad?</b></font>
+1947437 1948505 <font face="Comic Sans MS" color="#ffff80"><b>- Hey.<br />- Shut up.</b></font>
+1948805 1950839 <font face="Comic Sans MS" color="#ffff80"><b>- BAXLEY: Take it easy, man.<br />- I didn't fucking see it.</b></font>
+1950841 1951805 <font face="Comic Sans MS" color="#ffff80"><b>Nettles, be quiet.</b></font>
+1951807 1953507 <font face="Comic Sans MS" color="#ffff80"><b>Where the fuck is it?<br />I wanna see it.</b></font>
+1953509 1954443 <font face="Comic Sans MS" color="#ffff80"><b>Hey!</b></font>
+1957514 1959148 <font face="Comic Sans MS" color="#ffff80"><b>That's the thing<br />that killed my men.</b></font>
+1959347 1960916 <font face="Comic Sans MS" color="#ffff80"><b>Yeah, they'll do that.</b></font>
+1961418 1963686 <font face="Comic Sans MS" color="#ffff80"><b>We gotta get off this thing.<br />We gotta move.</b></font>
+1964053 1965889 <font face="Comic Sans MS" color="#ffff80"><b>Brother, it's a bus.</b></font>
+1966756 1967958 <font face="Comic Sans MS" color="#ffff80"><b>It moves.</b></font>
+1972295 1973396 <font face="Comic Sans MS" color="#ffff80"><b>Hey, Baxley!</b></font>
+1973863 1975862 <font face="Comic Sans MS" color="#ffff80"><b>If your mom's vagina<br />were a video game,</b></font>
+1975864 1978801 <font face="Comic Sans MS" color="#ffff80"><b>it'd be rated "E"<br />for "Everyone." (LAUGHS)</b></font>
+1979201 1980469 <font face="Comic Sans MS" color="#ffff80"><b>OFFICER: Hey!</b></font>
+1981171 1982238 <font face="Comic Sans MS" color="#ffff80"><b>Knock it off.</b></font>
+1982471 1983771 <font face="Comic Sans MS" color="#ffff80"><b>What's the difference between</b></font>
+1983773 1986409 <font face="Comic Sans MS" color="#ffff80"><b>five big black guys<br />and a joke?</b></font>
+1986976 1989879 <font face="Comic Sans MS" color="#ffff80"><b>Baxley's mom<br />can't take a joke. (CHOKING)</b></font>
+1990246 1991547 <font face="Comic Sans MS" color="#ffff80"><b>BAXLEY: What, motherfucker!</b></font>
+1991882 1993483 <font face="Comic Sans MS" color="#ffff80"><b>(BAXLEY SCREAMING)</b></font>
+1993850 1995719 <font face="Comic Sans MS" color="#ffff80"><b>Come on, bitch!</b></font>
+1997520 2000623 <font face="Comic Sans MS" color="#ffff80"><b>Everyone, on the floor,<br />face down!</b></font>
+2001524 2004026 <font face="Comic Sans MS" color="#ffff80"><b>Face down! Now!<br />Come on!</b></font>
+2005295 2006796 <font face="Comic Sans MS" color="#ffff80"><b>(GRUNTING)</b></font>
+2009498 2010866 <font face="Comic Sans MS" color="#ffff80"><b>- (GUNSHOT)<br />- (GROANS)</b></font>
+2011801 2012869 <font face="Comic Sans MS" color="#ffff80"><b>Keys!</b></font>
+2016072 2017407 <font face="Comic Sans MS" color="#ffff80"><b>Gun!</b></font>
+2020709 2022842 <font face="Comic Sans MS" color="#ffff80"><b>Hey! Nettles! Nettles!<br />Wait, hey! Hey!</b></font>
+2022844 2024581 <font face="Comic Sans MS" color="#ffff80"><b>You got him, all right?<br />You got him, brother.</b></font>
+2028084 2029853 <font face="Comic Sans MS" color="#ffff80"><b>(SIRENS BLARING)</b></font>
+2031054 2032622 <font face="Comic Sans MS" color="#ffff80"><b>(PANTING)</b></font>
+2033989 2034990 <font face="Comic Sans MS" color="#ffff80"><b>(SIRENS BLARING)</b></font>
+2038327 2040096 <font face="Comic Sans MS" color="#ffff80"><b>(ALARM BLARING)</b></font>
+2042832 2045432 <font face="Comic Sans MS" color="#ffff80"><b>Hey, Nebraska,<br />you mind, uh, making a detour?</b></font>
+2045434 2046735 <font face="Comic Sans MS" color="#ffff80"><b>WILLIAMS:<br />What, for your green boy?</b></font>
+2046969 2049705 <font face="Comic Sans MS" color="#ffff80"><b>I'm a sniper,<br />just get me close, baby.</b></font>
+2050339 2052306 <font face="Comic Sans MS" color="#ffff80"><b>- You wanna kill him?<br />- Oh, yeah!</b></font>
+2052308 2053607 <font face="Comic Sans MS" color="#ffff80"><b>Why didn't you just<br />say so, man?</b></font>
+2053609 2055176 <font face="Comic Sans MS" color="#ffff80"><b>NETTLES: You're gonna kill<br />a fucking alien?</b></font>
+2055178 2056112 <font face="Comic Sans MS" color="#ffff80"><b>Hey. Hold on.</b></font>
+2056446 2058179 <font face="Comic Sans MS" color="#ffff80"><b>(TIRES SQUEALING)</b></font>
+2058181 2059413 <font face="Comic Sans MS" color="#ffff80"><b>(MEN EXCLAIMING)</b></font>
+2059415 2060617 <font face="Comic Sans MS" color="#ffff80"><b>Fuck!</b></font>
+2073495 2075164 <font face="Comic Sans MS" color="#ffff80"><b>(INDISTINCT RADIO CHATTER)</b></font>
+2079067 2080102 <font face="Comic Sans MS" color="#ffff80"><b>(GASPS)</b></font>
+2081270 2082605 <font face="Comic Sans MS" color="#ffff80"><b>(RUMBLING)</b></font>
+2083873 2085509 <font face="Comic Sans MS" color="#ffff80"><b>(SPACESHIP WHIRRING)</b></font>
+2092281 2094183 <font face="Comic Sans MS" color="#ffff80"><b>(GASPING)</b></font>
+2098321 2099956 <font face="Comic Sans MS" color="#ffff80"><b>(PANTING)</b></font>
+2113102 2115037 <font face="Comic Sans MS" color="#ffff80"><b>Yo, what the fuck is that?</b></font>
+2126850 2127950 <font face="Comic Sans MS" color="#ffff80"><b>(MAN EXCLAIMS)</b></font>
+2128216 2129485 <font face="Comic Sans MS" color="#ffff80"><b>(EXCLAIMS)</b></font>
+2133089 2134591 <font face="Comic Sans MS" color="#ffff80"><b>(GRUNTING)</b></font>
+2140997 2142598 <font face="Comic Sans MS" color="#ffff80"><b>(COCKS RIFLE)</b></font>
+2148603 2150540 <font face="Comic Sans MS" color="#ffff80"><b>- (TIRE HISSING)<br />- (GROANS)</b></font>
+2156145 2157781 <font face="Comic Sans MS" color="#ffff80"><b>BAXLEY: Easy, easy. Hey! Hey!</b></font>
+2161850 2162952 <font face="Comic Sans MS" color="#ffff80"><b>(GRUNTS)</b></font>
+2164254 2165518 <font face="Comic Sans MS" color="#ffff80"><b>- QUINN: Hey.<br />- BAXLEY: Take cover!</b></font>
+2165520 2166920 <font face="Comic Sans MS" color="#ffff80"><b>Behind the fucking bus!</b></font>
+2166922 2169290 <font face="Comic Sans MS" color="#ffff80"><b>What are you doing up there?<br />Come on. Come on, I got you.</b></font>
+2169292 2171792 <font face="Comic Sans MS" color="#ffff80"><b>- Yep. I got you, lady.<br />- Okay.</b></font>
+2171794 2173328 <font face="Comic Sans MS" color="#ffff80"><b>Let's go! Hey.<br />Come on, come on.</b></font>
+2173330 2175065 <font face="Comic Sans MS" color="#ffff80"><b>Goddamn it.</b></font>
+2175397 2176596 <font face="Comic Sans MS" color="#ffff80"><b>- Sorry.<br />- Move!</b></font>
+2176598 2177834 <font face="Comic Sans MS" color="#ffff80"><b>NETTLES: Damn.</b></font>
+2179134 2180504 <font face="Comic Sans MS" color="#ffff80"><b>Get to the choppers!</b></font>
+2181370 2182839 <font face="Comic Sans MS" color="#ffff80"><b>(MOANS)</b></font>
+2205661 2207661 <font face="Comic Sans MS" color="#ffff80"><b>SOLDIER: Stargazer, I got eyes<br />on the woman.</b></font>
+2207663 2208830 <font face="Comic Sans MS" color="#ffff80"><b>Instructions?</b></font>
+2208832 2210563 <font face="Comic Sans MS" color="#ffff80"><b>- TRAEGER: Eliminate her.<br />- Hey.</b></font>
+2210565 2211832 <font face="Comic Sans MS" color="#ffff80"><b>Retrieve any contraband.</b></font>
+2211834 2213636 <font face="Comic Sans MS" color="#ffff80"><b>SOLDIER:<br />Roger that, Stargazer.</b></font>
+2220810 2221978 <font face="Comic Sans MS" color="#ffff80"><b>(GROANS)</b></font>
+2222377 2223379 <font face="Comic Sans MS" color="#ffff80"><b>(GROANS)</b></font>
+2223913 2225649 <font face="Comic Sans MS" color="#ffff80"><b>That's it, that's it, girl.</b></font>
+2226116 2227480 <font face="Comic Sans MS" color="#ffff80"><b>Hey, Nebraska!</b></font>
+2227482 2228785 <font face="Comic Sans MS" color="#ffff80"><b>Got it.</b></font>
+2233656 2235658 <font face="Comic Sans MS" color="#ffff80"><b>(SIRENS BLARING)</b></font>
+2236459 2238027 <font face="Comic Sans MS" color="#ffff80"><b>(THUDS)</b></font>
+2241431 2242866 <font face="Comic Sans MS" color="#ffff80"><b>(MEN GROANING)</b></font>
+2245634 2247203 <font face="Comic Sans MS" color="#ffff80"><b>Everything okay back there?</b></font>
+2251506 2253142 <font face="Comic Sans MS" color="#ffff80"><b>You fucking guys.</b></font>
+2257614 2259115 <font face="Comic Sans MS" color="#ffff80"><b>(CLICKING)</b></font>
+2266455 2267958 <font face="Comic Sans MS" color="#ffff80"><b>(GROWLS)</b></font>
+2277500 2279065 <font face="Comic Sans MS" color="#ffff80"><b>(SNIFFS)</b></font>
+2279067 2280502 <font face="Comic Sans MS" color="#ffff80"><b>(GROWLS)</b></font>
+2280935 2283038 <font face="Comic Sans MS" color="#ffff80"><b>- (LAUGHING)<br />- (INDISTINCT CHATTER)</b></font>
+2287609 2289243 <font face="Comic Sans MS" color="#ffff80"><b>COYLE: We found the one place<br />to hide out</b></font>
+2289245 2290647 <font face="Comic Sans MS" color="#ffff80"><b>where we don't look crazy.</b></font>
+2292381 2294084 <font face="Comic Sans MS" color="#ffff80"><b>(SNORING)</b></font>
+2295785 2298451 <font face="Comic Sans MS" color="#ffff80"><b>It's been a long time since<br />I had a gun in my hand.</b></font>
+2298453 2299722 <font face="Comic Sans MS" color="#ffff80"><b>What's it feel like?</b></font>
+2301189 2302725 <font face="Comic Sans MS" color="#ffff80"><b>Like a gun.</b></font>
+2303893 2306129 <font face="Comic Sans MS" color="#ffff80"><b>Hey, you think she's safe<br />in there with them?</b></font>
+2306962 2307997 <font face="Comic Sans MS" color="#ffff80"><b>The girl?</b></font>
+2308897 2310299 <font face="Comic Sans MS" color="#ffff80"><b>They're soldiers, man.</b></font>
+2311500 2313836 <font face="Comic Sans MS" color="#ffff80"><b>Sleeping ladies? Nah, bro.</b></font>
+2315605 2316906 <font face="Comic Sans MS" color="#ffff80"><b>Sit down.</b></font>
+2321143 2322145 <font face="Comic Sans MS" color="#ffff80"><b>Here.</b></font>
+2323645 2325414 <font face="Comic Sans MS" color="#ffff80"><b>It's the end of times, huh?</b></font>
+2327616 2329885 <font face="Comic Sans MS" color="#ffff80"><b>Worst thing<br />about the end times...</b></font>
+2330685 2332221 <font face="Comic Sans MS" color="#ffff80"><b>they never fucking are.</b></font>
+2332955 2334189 <font face="Comic Sans MS" color="#ffff80"><b>(CHUCKLES)</b></font>
+2335024 2336292 <font face="Comic Sans MS" color="#ffff80"><b>So, um...</b></font>
+2338060 2339195 <font face="Comic Sans MS" color="#ffff80"><b>did he live?</b></font>
+2339495 2340529 <font face="Comic Sans MS" color="#ffff80"><b>Say again?</b></font>
+2340863 2343129 <font face="Comic Sans MS" color="#ffff80"><b>The CO? The asshole you shot,<br />did he live?</b></font>
+2343131 2344166 <font face="Comic Sans MS" color="#ffff80"><b>Ah.</b></font>
+2344567 2346369 <font face="Comic Sans MS" color="#ffff80"><b>Yeah. He did.</b></font>
+2346636 2348238 <font face="Comic Sans MS" color="#ffff80"><b>Yeah, and where is he at now?</b></font>
+2352509 2354007 <font face="Comic Sans MS" color="#ffff80"><b>You're shitting me.</b></font>
+2354009 2355111 <font face="Comic Sans MS" color="#ffff80"><b>I missed.</b></font>
+2355544 2356911 <font face="Comic Sans MS" color="#ffff80"><b>(WILLIAMS CHUCKLES)</b></font>
+2356913 2358511 <font face="Comic Sans MS" color="#ffff80"><b>Why did you do that?</b></font>
+2358513 2360616 <font face="Comic Sans MS" color="#ffff80"><b>- Miss?<br />- No, shoot yourself.</b></font>
+2361116 2363018 <font face="Comic Sans MS" color="#ffff80"><b>Doctors asked me<br />the same thing.</b></font>
+2364853 2367256 <font face="Comic Sans MS" color="#ffff80"><b>Walked to the hospital with<br />a bullet in my skull.</b></font>
+2367890 2369893 <font face="Comic Sans MS" color="#ffff80"><b>- Good times.<br />- Hey.</b></font>
+2371593 2372961 <font face="Comic Sans MS" color="#ffff80"><b>Should I be worried?</b></font>
+2379902 2382171 <font face="Comic Sans MS" color="#ffff80"><b>Probably. (CHUCKLES)</b></font>
+2382504 2384170 <font face="Comic Sans MS" color="#ffff80"><b>- NETTLES: There we go.<br />- COYLE: Did you get that?</b></font>
+2384172 2385906 <font face="Comic Sans MS" color="#ffff80"><b>- That's too close to her hand.<br />- NETTLES: Yeah, yeah. Yeah.</b></font>
+2385908 2387373 <font face="Comic Sans MS" color="#ffff80"><b>But then<br />she's gonna drop that there.</b></font>
+2387375 2388544 <font face="Comic Sans MS" color="#ffff80"><b>Guys!</b></font>
+2389245 2391277 <font face="Comic Sans MS" color="#ffff80"><b>What the hell are you doing?<br />What is all that shit?</b></font>
+2391279 2393181 <font face="Comic Sans MS" color="#ffff80"><b>We're trying<br />to make her feel comfortable.</b></font>
+2393183 2394083 <font face="Comic Sans MS" color="#ffff80"><b>WILLIAMS: Come on.</b></font>
+2394450 2395748 <font face="Comic Sans MS" color="#ffff80"><b>She's gonna wake up and see</b></font>
+2395750 2397317 <font face="Comic Sans MS" color="#ffff80"><b>a bunch of motherfuckers.<br />Come on.</b></font>
+2397319 2398386 <font face="Comic Sans MS" color="#ffff80"><b>What are you doin'?</b></font>
+2398886 2400788 <font face="Comic Sans MS" color="#ffff80"><b>(WHISPERS) Nettles! Nettles!</b></font>
+2400790 2402156 <font face="Comic Sans MS" color="#ffff80"><b>BOTH: Move!</b></font>
+2402158 2403323 <font face="Comic Sans MS" color="#ffff80"><b>WILLIAMS: Move!</b></font>
+2403325 2404761 <font face="Comic Sans MS" color="#ffff80"><b>QUINN: Get out of there!</b></font>
+2418908 2420243 <font face="Comic Sans MS" color="#ffff80"><b>Morning, sunshine.</b></font>
+2421576 2422978 <font face="Comic Sans MS" color="#ffff80"><b>(EXHALES)</b></font>
+2424180 2426850 <font face="Comic Sans MS" color="#ffff80"><b>I really wish people<br />would stop calling me that.</b></font>
+2428183 2429317 <font face="Comic Sans MS" color="#ffff80"><b>COYLE: Chill, hey!</b></font>
+2430285 2433254 <font face="Comic Sans MS" color="#ffff80"><b>(LAUGHS) I told you<br />she'd grab it. Ten bucks!</b></font>
+2433256 2434754 <font face="Comic Sans MS" color="#ffff80"><b>Pay up! Whoo!</b></font>
+2434756 2436757 <font face="Comic Sans MS" color="#ffff80"><b>- Fuck it, fuck it.<br />- (LAUGHING)</b></font>
+2436759 2438725 <font face="Comic Sans MS" color="#ffff80"><b>- Where's my phone?<br />- You're not gonna need that.</b></font>
+2438727 2440159 <font face="Comic Sans MS" color="#ffff80"><b>(COCKS GUN)</b></font>
+2440161 2442295 <font face="Comic Sans MS" color="#ffff80"><b>COYLE: Oh, that's not cool.</b></font>
+2442297 2443299 <font face="Comic Sans MS" color="#ffff80"><b>It's okay.</b></font>
+2443866 2445235 <font face="Comic Sans MS" color="#ffff80"><b>I said it's okay.</b></font>
+2446402 2447567 <font face="Comic Sans MS" color="#ffff80"><b>Give me the gun.</b></font>
+2447569 2449372 <font face="Comic Sans MS" color="#ffff80"><b>- Give me the gun.<br />- No. No.</b></font>
+2451172 2452505 <font face="Comic Sans MS" color="#ffff80"><b>(GUN CLICKS)</b></font>
+2452507 2454442 <font face="Comic Sans MS" color="#ffff80"><b>(ALL GASP)</b></font>
+2455042 2456710 <font face="Comic Sans MS" color="#ffff80"><b>WILLIAMS: Oh, she pulled...</b></font>
+2456712 2459846 <font face="Comic Sans MS" color="#ffff80"><b>Oh! Shit, I told you<br />she'd pull the trigger!</b></font>
+2459848 2461080 <font face="Comic Sans MS" color="#ffff80"><b>I should have bet you<br />that time!</b></font>
+2461082 2462248 <font face="Comic Sans MS" color="#ffff80"><b>WILLIAMS: I like her.<br />I like her.</b></font>
+2462250 2463583 <font face="Comic Sans MS" color="#ffff80"><b>I should have bet you<br />that time!</b></font>
+2463585 2464851 <font face="Comic Sans MS" color="#ffff80"><b>- I like her.<br />- NETTLES: I like her.</b></font>
+2464853 2466187 <font face="Comic Sans MS" color="#ffff80"><b>I like her. I like her a lot.</b></font>
+2466189 2467721 <font face="Comic Sans MS" color="#ffff80"><b>QUINN: Give me that,<br />ding-dong.</b></font>
+2467723 2470326 <font face="Comic Sans MS" color="#ffff80"><b>COYLE: Oh, shit! Attagirl.</b></font>
+2470558 2474028 <font face="Comic Sans MS" color="#ffff80"><b>What? You're a scientist, huh?<br />What they got you working on?</b></font>
+2474730 2476966 <font face="Comic Sans MS" color="#ffff80"><b>You're not gonna last a day<br />out there!</b></font>
+2478966 2480702 <font face="Comic Sans MS" color="#ffff80"><b>What, you think you're special?</b></font>
+2481169 2483605 <font face="Comic Sans MS" color="#ffff80"><b>Back at the dam, they were gonna<br />put a bullet in your head.</b></font>
+2484073 2485505 <font face="Comic Sans MS" color="#ffff80"><b>They were gonna shoot her?</b></font>
+2485507 2486509 <font face="Comic Sans MS" color="#ffff80"><b>Yes.</b></font>
+2487210 2488444 <font face="Comic Sans MS" color="#ffff80"><b>Oh, I'm sorry.</b></font>
+2488843 2491079 <font face="Comic Sans MS" color="#ffff80"><b>Get out of the way.<br />See you around.</b></font>
+2493149 2494951 <font face="Comic Sans MS" color="#ffff80"><b>(STUTTERS) Eat your pussy.</b></font>
+2495417 2496616 <font face="Comic Sans MS" color="#ffff80"><b>Wait, what?</b></font>
+2496618 2497917 <font face="Comic Sans MS" color="#ffff80"><b>How you doing?</b></font>
+2497919 2499518 <font face="Comic Sans MS" color="#ffff80"><b>No, you just said,<br />"Eat your pussy."</b></font>
+2499520 2500256 <font face="Comic Sans MS" color="#ffff80"><b>Hey...</b></font>
+2500522 2502121 <font face="Comic Sans MS" color="#ffff80"><b>- How you doing?<br />- No, you said, "Eat my pussy."</b></font>
+2502123 2503357 <font face="Comic Sans MS" color="#ffff80"><b>What the fuck<br />is wrong with him?</b></font>
+2503359 2505091 <font face="Comic Sans MS" color="#ffff80"><b>- I said you're pushy.<br />- He said you're pushy.</b></font>
+2505093 2506158 <font face="Comic Sans MS" color="#ffff80"><b>No, you said,<br />"Eat your pussy."</b></font>
+2506160 2507928 <font face="Comic Sans MS" color="#ffff80"><b>No. I said,<br />"Sheesh! You're pushy!"</b></font>
+2507930 2509161 <font face="Comic Sans MS" color="#ffff80"><b>CASEY: No, you said,<br />"Eat my pussy."</b></font>
+2509163 2510663 <font face="Comic Sans MS" color="#ffff80"><b>No, that's what he said,<br />I heard it.</b></font>
+2510665 2512498 <font face="Comic Sans MS" color="#ffff80"><b>- He said... pushy.<br />- What the fuck?</b></font>
+2512500 2514033 <font face="Comic Sans MS" color="#ffff80"><b>Which is also fucking rude.</b></font>
+2514035 2515669 <font face="Comic Sans MS" color="#ffff80"><b>He doesn't mean your pussy<br />in particular.</b></font>
+2515671 2517036 <font face="Comic Sans MS" color="#ffff80"><b>You're insane, right?</b></font>
+2517038 2518571 <font face="Comic Sans MS" color="#ffff80"><b>- Are you fucking insane?<br />- COYLE: Probably.</b></font>
+2518573 2519374 <font face="Comic Sans MS" color="#ffff80"><b>Well, what's it gonna be?</b></font>
+2519774 2521375 <font face="Comic Sans MS" color="#ffff80"><b>- BAXLEY: He's fucking crazy.<br />- NETTLES: Fuck you, Baxley.</b></font>
+2521377 2522411 <font face="Comic Sans MS" color="#ffff80"><b>BAXLEY: I feel fine.</b></font>
+2522911 2524247 <font face="Comic Sans MS" color="#ffff80"><b>CASEY: They were gonna<br />shoot me?</b></font>
+2524747 2525748 <font face="Comic Sans MS" color="#ffff80"><b>Why?</b></font>
+2526181 2529953 <font face="Comic Sans MS" color="#ffff80"><b>Uh, maybe 'cause of this?</b></font>
+2534756 2536225 <font face="Comic Sans MS" color="#ffff80"><b>Well, I guess I'm in.</b></font>
+2537526 2539161 <font face="Comic Sans MS" color="#ffff80"><b>Stay the fuck away from me.</b></font>
+2542564 2543932 <font face="Comic Sans MS" color="#ffff80"><b>What the fuck is this?</b></font>
+2544834 2546165 <font face="Comic Sans MS" color="#ffff80"><b>What is this?</b></font>
+2546167 2548736 <font face="Comic Sans MS" color="#ffff80"><b>- What is that? Like a unicorn?<br />- NETTLES: A unicorn.</b></font>
+2548738 2550205 <font face="Comic Sans MS" color="#ffff80"><b>- It's a unicorn.<br />- A unicorn.</b></font>
+2550439 2551938 <font face="Comic Sans MS" color="#ffff80"><b>I made a unicorn...</b></font>
+2551940 2553540 <font face="Comic Sans MS" color="#ffff80"><b>I'm sorry,<br />it's a piece of shit.</b></font>
+2553542 2556609 <font face="Comic Sans MS" color="#ffff80"><b>So, what's the upside to me<br />staying here with you guys?</b></font>
+2556611 2558411 <font face="Comic Sans MS" color="#ffff80"><b>Uh, maybe staying alive?</b></font>
+2558413 2559712 <font face="Comic Sans MS" color="#ffff80"><b>We are soldiers.</b></font>
+2559714 2560948 <font face="Comic Sans MS" color="#ffff80"><b>We're the good guys, okay?</b></font>
+2560950 2562283 <font face="Comic Sans MS" color="#ffff80"><b>CASEY: Well, that's debatable.</b></font>
+2562285 2566554 <font face="Comic Sans MS" color="#ffff80"><b>I read your file.<br />The guys in Mexico it killed?</b></font>
+2566556 2567590 <font face="Comic Sans MS" color="#ffff80"><b>They yours?</b></font>
+2568024 2569623 <font face="Comic Sans MS" color="#ffff80"><b>They're gonna need<br />a patsy for that.</b></font>
+2569625 2570760 <font face="Comic Sans MS" color="#ffff80"><b>You're looking at him.</b></font>
+2570960 2572128 <font face="Comic Sans MS" color="#ffff80"><b>Yeah, I figured.</b></font>
+2572328 2574828 <font face="Comic Sans MS" color="#ffff80"><b>Ex-sniper with PTSD? That's<br />actually kind of perfect.</b></font>
+2574830 2576031 <font face="Comic Sans MS" color="#ffff80"><b>How about you telling us</b></font>
+2576265 2578098 <font face="Comic Sans MS" color="#ffff80"><b>what you were doing<br />in a secret base.</b></font>
+2578100 2581169 <font face="Comic Sans MS" color="#ffff80"><b>Surrounded by<br />trained soldiers. Mercs.</b></font>
+2582437 2586341 <font face="Comic Sans MS" color="#ffff80"><b>I'm a biologist, and they have<br />me on call in case there's...</b></font>
+2588310 2589379 <font face="Comic Sans MS" color="#ffff80"><b>contact.</b></font>
+2590846 2592045 <font face="Comic Sans MS" color="#ffff80"><b>What did I tell you?</b></font>
+2592047 2593948 <font face="Comic Sans MS" color="#ffff80"><b>End days. End days.</b></font>
+2593950 2595582 <font face="Comic Sans MS" color="#ffff80"><b>Nettles, if you don't stop<br />with this Bible shit,</b></font>
+2595584 2596817 <font face="Comic Sans MS" color="#ffff80"><b>I'm gonna set you on fire.</b></font>
+2596819 2598217 <font face="Comic Sans MS" color="#ffff80"><b>Guys, if we wanna<br />keep breathing,</b></font>
+2598219 2600020 <font face="Comic Sans MS" color="#ffff80"><b>we need to find this thing.</b></font>
+2600022 2601290 <font face="Comic Sans MS" color="#ffff80"><b>Expose it.</b></font>
+2601924 2603426 <font face="Comic Sans MS" color="#ffff80"><b>It's called the Predator.</b></font>
+2603826 2605326 <font face="Comic Sans MS" color="#ffff80"><b>It hunts people for sport.</b></font>
+2605328 2607761 <font face="Comic Sans MS" color="#ffff80"><b>Technically, that's not<br />a predator. That's like...</b></font>
+2607763 2608862 <font face="Comic Sans MS" color="#ffff80"><b>Thank you.</b></font>
+2608864 2610297 <font face="Comic Sans MS" color="#ffff80"><b>- It's a hunter.<br />- I said the same thing.</b></font>
+2610299 2611998 <font face="Comic Sans MS" color="#ffff80"><b>NETTLES: A sportsman,<br />or a hunter, or a fisherman.</b></font>
+2612000 2613002 <font face="Comic Sans MS" color="#ffff80"><b>COYLE: Well, look at you...</b></font>
+2613402 2615405 <font face="Comic Sans MS" color="#ffff80"><b>I was there when it escaped.<br />It's looking for something.</b></font>
+2615904 2617973 <font face="Comic Sans MS" color="#ffff80"><b>Equipment. Weapons.</b></font>
+2620509 2621710 <font face="Comic Sans MS" color="#ffff80"><b>I took its gear.</b></font>
+2622777 2623810 <font face="Comic Sans MS" color="#ffff80"><b>What?</b></font>
+2623812 2625011 <font face="Comic Sans MS" color="#ffff80"><b>You took something<br />from the thing?</b></font>
+2625013 2627049 <font face="Comic Sans MS" color="#ffff80"><b>- What?<br />- So, I'd have evidence.</b></font>
+2628317 2630152 <font face="Comic Sans MS" color="#ffff80"><b>I think I know<br />where it's going.</b></font>
+2633888 2635524 <font face="Comic Sans MS" color="#ffff80"><b>(WHIRRING)</b></font>
+2661716 2663018 <font face="Comic Sans MS" color="#ffff80"><b>(GROWLS)</b></font>
+2663652 2664754 <font face="Comic Sans MS" color="#ffff80"><b>What?</b></font>
+2675230 2677600 <font face="Comic Sans MS" color="#ffff80"><b>(INDISTINCT CHATTERING)</b></font>
+2683439 2685074 <font face="Comic Sans MS" color="#ffff80"><b>(DOOR OPENS)</b></font>
+2688277 2690112 <font face="Comic Sans MS" color="#ffff80"><b>Oh, hi, honey, you're home.</b></font>
+2690678 2693346 <font face="Comic Sans MS" color="#ffff80"><b>- I'm looking for a package.<br />- A package?</b></font>
+2693348 2694149 <font face="Comic Sans MS" color="#ffff80"><b>Rory!</b></font>
+2694348 2696116 <font face="Comic Sans MS" color="#ffff80"><b>Hey! This is<br />not your house anymore!</b></font>
+2696118 2697384 <font face="Comic Sans MS" color="#ffff80"><b>QUINN: Rory!</b></font>
+2697386 2700256 <font face="Comic Sans MS" color="#ffff80"><b>Hey, buddy. Where are ya?</b></font>
+2700622 2701956 <font face="Comic Sans MS" color="#ffff80"><b>He's not here.</b></font>
+2702223 2703692 <font face="Comic Sans MS" color="#ffff80"><b>What do you mean,<br />he's not here?</b></font>
+2705060 2706225 <font face="Comic Sans MS" color="#ffff80"><b>Oh, shit!</b></font>
+2706227 2708161 <font face="Comic Sans MS" color="#ffff80"><b>What? So we<br />ordered some video games.</b></font>
+2708163 2710163 <font face="Comic Sans MS" color="#ffff80"><b>No! No! No!</b></font>
+2710165 2712399 <font face="Comic Sans MS" color="#ffff80"><b>The whole fucking reason<br />I sent it to a P.O. box,</b></font>
+2712401 2714069 <font face="Comic Sans MS" color="#ffff80"><b>was so<br />I didn't put you in danger.</b></font>
+2714536 2715902 <font face="Comic Sans MS" color="#ffff80"><b>Goddamn it,<br />we need to find him.</b></font>
+2715904 2717239 <font face="Comic Sans MS" color="#ffff80"><b>Wait, Quinn,<br />you're scaring me now.</b></font>
+2717506 2718807 <font face="Comic Sans MS" color="#ffff80"><b>(FOOTSTEPS)</b></font>
+2720109 2722178 <font face="Comic Sans MS" color="#ffff80"><b>(INDISTINCT CHATTER)</b></font>
+2727183 2728348 <font face="Comic Sans MS" color="#ffff80"><b>I specifically said</b></font>
+2728350 2730250 <font face="Comic Sans MS" color="#ffff80"><b>no first-person shooter.<br />No combat games.</b></font>
+2730252 2732018 <font face="Comic Sans MS" color="#ffff80"><b>Did you ever think that<br />maybe he plays them</b></font>
+2732020 2733118 <font face="Comic Sans MS" color="#ffff80"><b>to connect with his father?</b></font>
+2733120 2734420 <font face="Comic Sans MS" color="#ffff80"><b>Oh, my God.<br />We're doing this again.</b></font>
+2734422 2736325 <font face="Comic Sans MS" color="#ffff80"><b>Hey! Can you<br />stop taking all my...</b></font>
+2738294 2739859 <font face="Comic Sans MS" color="#ffff80"><b>Who are these people<br />in my house?</b></font>
+2739861 2741995 <font face="Comic Sans MS" color="#ffff80"><b>Emily, loonies.<br />Loonies, Emily.</b></font>
+2741997 2743362 <font face="Comic Sans MS" color="#ffff80"><b>Good evening.</b></font>
+2743364 2744765 <font face="Comic Sans MS" color="#ffff80"><b>Uh, the brushstrokes on this</b></font>
+2744767 2746567 <font face="Comic Sans MS" color="#ffff80"><b>are really dynamic.<br />It's a wonderful piece.</b></font>
+2746569 2748268 <font face="Comic Sans MS" color="#ffff80"><b>Okay, you need<br />to put that down.</b></font>
+2748270 2750203 <font face="Comic Sans MS" color="#ffff80"><b>What exactly is she doing<br />with her right hand?</b></font>
+2750205 2751638 <font face="Comic Sans MS" color="#ffff80"><b>They're my unit.<br />They're soldiers.</b></font>
+2751640 2754075 <font face="Comic Sans MS" color="#ffff80"><b>Marines. There's his unit.<br />(LAUGHING)</b></font>
+2754310 2755775 <font face="Comic Sans MS" color="#ffff80"><b>Hi. You seem like<br />a really nice...</b></font>
+2755777 2757409 <font face="Comic Sans MS" color="#ffff80"><b>Oh, no, don't touch me. No.</b></font>
+2757411 2759580 <font face="Comic Sans MS" color="#ffff80"><b>Hang on. Back up.<br />Your unit?</b></font>
+2759582 2761717 <font face="Comic Sans MS" color="#ffff80"><b>What happened<br />to Haines and Dupree?</b></font>
+2763018 2764018 <font face="Comic Sans MS" color="#ffff80"><b>They're dead.</b></font>
+2764486 2766185 <font face="Comic Sans MS" color="#ffff80"><b>And the thing that killed them<br />is out there looking for Rory.</b></font>
+2766187 2767453 <font face="Comic Sans MS" color="#ffff80"><b>What are you talking about?</b></font>
+2767455 2768723 <font face="Comic Sans MS" color="#ffff80"><b>There's something out there.</b></font>
+2769457 2771692 <font face="Comic Sans MS" color="#ffff80"><b>It tore my friends apart.<br />What is it?</b></font>
+2771694 2772427 <font face="Comic Sans MS" color="#ffff80"><b>(COYLE STUTTERING)</b></font>
+2772828 2774895 <font face="Comic Sans MS" color="#ffff80"><b>Like, it's a creature.<br />Seriously, it's not a person.</b></font>
+2774897 2775797 <font face="Comic Sans MS" color="#ffff80"><b>Like from the Bible.</b></font>
+2776064 2777498 <font face="Comic Sans MS" color="#ffff80"><b>- Revelations.<br />- From the Bible?</b></font>
+2777500 2779699 <font face="Comic Sans MS" color="#ffff80"><b>That's the most ridiculous<br />thing I've ever heard.</b></font>
+2779701 2780602 <font face="Comic Sans MS" color="#ffff80"><b>It's a space alien.</b></font>
+2781102 2782437 <font face="Comic Sans MS" color="#ffff80"><b>Know who Whoopi Goldberg is?</b></font>
+2782672 2784407 <font face="Comic Sans MS" color="#ffff80"><b>It's like<br />an alien Whoopi Goldberg.</b></font>
+2785408 2786542 <font face="Comic Sans MS" color="#ffff80"><b>Oh, shit!</b></font>
+2787009 2788007 <font face="Comic Sans MS" color="#ffff80"><b>Shit.</b></font>
+2788009 2789509 <font face="Comic Sans MS" color="#ffff80"><b>I want a grid search.</b></font>
+2789511 2790578 <font face="Comic Sans MS" color="#ffff80"><b>Three teams.</b></font>
+2790946 2792346 <font face="Comic Sans MS" color="#ffff80"><b>(MEN EXCLAIMING)</b></font>
+2792348 2793282 <font face="Comic Sans MS" color="#ffff80"><b>Hey!</b></font>
+2794082 2796083 <font face="Comic Sans MS" color="#ffff80"><b>- No.<br />- No, no, I'm coming with you.</b></font>
+2796085 2797518 <font face="Comic Sans MS" color="#ffff80"><b>QUINN: No, nix that.</b></font>
+2797520 2798752 <font face="Comic Sans MS" color="#ffff80"><b>(GUN COCKING)</b></font>
+2798754 2800323 <font face="Comic Sans MS" color="#ffff80"><b>(QUINN CLEARS THROAT)</b></font>
+2801823 2803258 <font face="Comic Sans MS" color="#ffff80"><b>Is there a problem?</b></font>
+2804326 2806259 <font face="Comic Sans MS" color="#ffff80"><b>Thing is, we're<br />kind of moving targets.</b></font>
+2806261 2808627 <font face="Comic Sans MS" color="#ffff80"><b>Yeah, in case you haven't<br />noticed, we're fugitives.</b></font>
+2808629 2810563 <font face="Comic Sans MS" color="#ffff80"><b>Yeah. Plus, like where are we<br />gonna get our meds and stuff?</b></font>
+2810565 2812299 <font face="Comic Sans MS" color="#ffff80"><b>I get it. Fine,<br />stay here and watch TV.</b></font>
+2812301 2815435 <font face="Comic Sans MS" color="#ffff80"><b>You know what? If you try<br />to split? Or draw the Feds?</b></font>
+2815437 2816703 <font face="Comic Sans MS" color="#ffff80"><b>Or if you jeopardize my son</b></font>
+2816705 2819071 <font face="Comic Sans MS" color="#ffff80"><b>by your half-assed<br />yardbird bullshit...</b></font>
+2819073 2820540 <font face="Comic Sans MS" color="#ffff80"><b>I will come back here,<br />and I will happily</b></font>
+2820542 2822511 <font face="Comic Sans MS" color="#ffff80"><b>kill every single<br />fucking one of you.</b></font>
+2828384 2830419 <font face="Comic Sans MS" color="#ffff80"><b>WILLIAMS: Come on,<br />brothers. Let's go.</b></font>
+2830919 2832320 <font face="Comic Sans MS" color="#ffff80"><b>(DOOR CLOSES)</b></font>
+2833122 2834323 <font face="Comic Sans MS" color="#ffff80"><b>Seriously?</b></font>
+2834790 2836259 <font face="Comic Sans MS" color="#ffff80"><b>It's not our fight.</b></font>
+2841096 2842899 <font face="Comic Sans MS" color="#ffff80"><b>Is your husband<br />the man I think he is?</b></font>
+2843966 2845000 <font face="Comic Sans MS" color="#ffff80"><b>Excuse me?</b></font>
+2845734 2847436 <font face="Comic Sans MS" color="#ffff80"><b>Tell me<br />about your husband, please?</b></font>
+2849305 2851237 <font face="Comic Sans MS" color="#ffff80"><b>He's a security<br />counter-sniper.</b></font>
+2851239 2852707 <font face="Comic Sans MS" color="#ffff80"><b>- Mmm.<br />- Army Rangers.</b></font>
+2853875 2854743 <font face="Comic Sans MS" color="#ffff80"><b>He supervised</b></font>
+2855011 2857844 <font face="Comic Sans MS" color="#ffff80"><b>23 close precision engagements<br />across five continents</b></font>
+2857846 2860114 <font face="Comic Sans MS" color="#ffff80"><b>and he has 13 confirmed kills.</b></font>
+2860549 2863415 <font face="Comic Sans MS" color="#ffff80"><b>And he is one of only 14<br />captains in the armed forces,</b></font>
+2863417 2865317 <font face="Comic Sans MS" color="#ffff80"><b>to ever receive<br />a Distinguished Service Medal</b></font>
+2865319 2866622 <font face="Comic Sans MS" color="#ffff80"><b>and the Silver Star.</b></font>
+2867857 2869321 <font face="Comic Sans MS" color="#ffff80"><b>So, he might be<br />a lousy husband,</b></font>
+2869323 2870892 <font face="Comic Sans MS" color="#ffff80"><b>but he is a good soldier.</b></font>
+2872794 2875895 <font face="Comic Sans MS" color="#ffff80"><b>Well, sounds like he can<br />probably take care of himself.</b></font>
+2875897 2877330 <font face="Comic Sans MS" color="#ffff80"><b>- Yeah.<br />- Jesus Christ.</b></font>
+2877332 2878634 <font face="Comic Sans MS" color="#ffff80"><b>That's what I thought.</b></font>
+2879602 2880770 <font face="Comic Sans MS" color="#ffff80"><b>Fucking pussies.</b></font>
+2882437 2884337 <font face="Comic Sans MS" color="#ffff80"><b>(DOOR OPENS AND CLOSES)</b></font>
+2884339 2885674 <font face="Comic Sans MS" color="#ffff80"><b>Where you going, Nettles?</b></font>
+2887442 2890044 <font face="Comic Sans MS" color="#ffff80"><b>I didn't like your speech.<br />It didn't really inspire me.</b></font>
+2890611 2893513 <font face="Comic Sans MS" color="#ffff80"><b>But... he called me a pussy</b></font>
+2893515 2895515 <font face="Comic Sans MS" color="#ffff80"><b>and nobody<br />calls me a pussy, so...</b></font>
+2895517 2897150 <font face="Comic Sans MS" color="#ffff80"><b>- Fuck off, pussy.<br />- Okay...</b></font>
+2897152 2898554 <font face="Comic Sans MS" color="#ffff80"><b>(CLEARS THROAT)</b></font>
+2901288 2903357 <font face="Comic Sans MS" color="#ffff80"><b>Come on, Bax, let's go.<br />Let's get some.</b></font>
+2903359 2905895 <font face="Comic Sans MS" color="#ffff80"><b>Before these army fuckers<br />screw up the whole thing.</b></font>
+2910165 2911531 <font face="Comic Sans MS" color="#ffff80"><b>Come on, what are you doing?<br />Let's move.</b></font>
+2911533 2912332 <font face="Comic Sans MS" color="#ffff80"><b>Hey!</b></font>
+2912334 2913400 <font face="Comic Sans MS" color="#ffff80"><b>You too, lucky charms.</b></font>
+2913402 2914670 <font face="Comic Sans MS" color="#ffff80"><b>LYNCH: Coyle, you wanker.</b></font>
+2916906 2918138 <font face="Comic Sans MS" color="#ffff80"><b>I'd like to watch TV</b></font>
+2918140 2919438 <font face="Comic Sans MS" color="#ffff80"><b>- with you sometime.<br />- Okay.</b></font>
+2919440 2920574 <font face="Comic Sans MS" color="#ffff80"><b>I liked your speech.</b></font>
+2920576 2921978 <font face="Comic Sans MS" color="#ffff80"><b>BAXLEY: I liked the couch.</b></font>
+2924011 2925948 <font face="Comic Sans MS" color="#ffff80"><b>Whoa, what's happening? What?</b></font>
+2926448 2928716 <font face="Comic Sans MS" color="#ffff80"><b>Well, we're finding my son,<br />that's what.</b></font>
+2929417 2931118 <font face="Comic Sans MS" color="#ffff80"><b>All right,<br />when all this is over...</b></font>
+2931120 2933219 <font face="Comic Sans MS" color="#ffff80"><b>Fuck me in the face<br />with an aardvark.</b></font>
+2933221 2934523 <font face="Comic Sans MS" color="#ffff80"><b>(GROANING)</b></font>
+2936325 2937458 <font face="Comic Sans MS" color="#ffff80"><b>I just want to be famous.</b></font>
+2937460 2938393 <font face="Comic Sans MS" color="#ffff80"><b>LYNCH: Ostensibly,</b></font>
+2938660 2939993 <font face="Comic Sans MS" color="#ffff80"><b>if Forrest Gump<br />just read the side of the box,</b></font>
+2939995 2941694 <font face="Comic Sans MS" color="#ffff80"><b>it would tell him exactly<br />what he would get.</b></font>
+2941696 2943330 <font face="Comic Sans MS" color="#ffff80"><b>COYLE: You're using<br />"ostensibly" incorrectly.</b></font>
+2943332 2944431 <font face="Comic Sans MS" color="#ffff80"><b>Is this for me?</b></font>
+2944433 2946034 <font face="Comic Sans MS" color="#ffff80"><b>This is like the reverse<br />of a clown car.</b></font>
+2946368 2947467 <font face="Comic Sans MS" color="#ffff80"><b>All right, Nebraska,</b></font>
+2947469 2948902 <font face="Comic Sans MS" color="#ffff80"><b>let's find some wheels,<br />nothing flashy.</b></font>
+2948904 2949969 <font face="Comic Sans MS" color="#ffff80"><b>Copy.</b></font>
+2949971 2952741 <font face="Comic Sans MS" color="#ffff80"><b>All right. Find my son.</b></font>
+2952973 2954509 <font face="Comic Sans MS" color="#ffff80"><b>Casey, you're with me.</b></font>
+2954910 2955978 <font face="Comic Sans MS" color="#ffff80"><b>Let's go.</b></font>
+2957145 2958613 <font face="Comic Sans MS" color="#ffff80"><b>DEREK: Hey, ass-burger.</b></font>
+2962017 2963415 <font face="Comic Sans MS" color="#ffff80"><b>What are you supposed to be?</b></font>
+2963417 2964486 <font face="Comic Sans MS" color="#ffff80"><b>RORY: Leave me alone.</b></font>
+2964786 2967786 <font face="Comic Sans MS" color="#ffff80"><b>EJ: Or what? You'll wash our<br />hands five hundred times?</b></font>
+2967788 2968890 <font face="Comic Sans MS" color="#ffff80"><b>(SNICKERS)</b></font>
+2969725 2970892 <font face="Comic Sans MS" color="#ffff80"><b>(DOORBELL RINGS)</b></font>
+2971158 2972627 <font face="Comic Sans MS" color="#ffff80"><b>RORY: Trick or treat?</b></font>
+2977531 2979066 <font face="Comic Sans MS" color="#ffff80"><b>EJ: What's the matter, dude?</b></font>
+2979334 2980533 <font face="Comic Sans MS" color="#ffff80"><b>(CHUCKLES)</b></font>
+2980535 2982437 <font face="Comic Sans MS" color="#ffff80"><b>Here's a treat,<br />you little shit.</b></font>
+2982805 2983973 <font face="Comic Sans MS" color="#ffff80"><b>- Oh!<br />- (LAUGHS)</b></font>
+2984439 2985774 <font face="Comic Sans MS" color="#ffff80"><b>(HELMET WHIRRING)</b></font>
+2989243 2990745 <font face="Comic Sans MS" color="#ffff80"><b>(GRUNTING)</b></font>
+2994015 2996085 <font face="Comic Sans MS" color="#ffff80"><b>(TIRES SCREECHING)</b></font>
+2999421 3001857 <font face="Comic Sans MS" color="#ffff80"><b>(INDISTINCT SHOUTING)</b></font>
+3002091 3004426 <font face="Comic Sans MS" color="#ffff80"><b>- (HORNS HONKING)<br />- (ALARMS BLARING)</b></font>
+3011799 3013368 <font face="Comic Sans MS" color="#ffff80"><b>(WHIMPERING)</b></font>
+3020274 3021940 <font face="Comic Sans MS" color="#ffff80"><b>OFFICER (ON RADIO):<br />I got a male juvenile.</b></font>
+3021942 3023408 <font face="Comic Sans MS" color="#ffff80"><b>10 to 12 years old.</b></font>
+3023410 3024643 <font face="Comic Sans MS" color="#ffff80"><b>Metal cast on his arm.</b></font>
+3024645 3025779 <font face="Comic Sans MS" color="#ffff80"><b>Yo, McKenna, do you hear that?</b></font>
+3025781 3027483 <font face="Comic Sans MS" color="#ffff80"><b>OFFICER:<br />Ran right in front of my car.</b></font>
+3028216 3029415 <font face="Comic Sans MS" color="#ffff80"><b>Moving east on Woodruff.</b></font>
+3029417 3031687 <font face="Comic Sans MS" color="#ffff80"><b>Repeat, moving<br />east on Woodruff.</b></font>
+3035056 3037058 <font face="Comic Sans MS" color="#ffff80"><b>(SIRENS WAILING IN DISTANCE)</b></font>
+3037960 3039761 <font face="Comic Sans MS" color="#ffff80"><b>(PANTING)</b></font>
+3040027 3041694 <font face="Comic Sans MS" color="#ffff80"><b>Nebraska, you got wheels?</b></font>
+3041696 3043832 <font face="Comic Sans MS" color="#ffff80"><b>WILLIAMS: Yeah, I got wheels.<br />Something flashy.</b></font>
+3045299 3047801 <font face="Comic Sans MS" color="#ffff80"><b>Listen, the kid's spooked,<br />he's rabbiting.</b></font>
+3047803 3050772 <font face="Comic Sans MS" color="#ffff80"><b>Where's he headed?<br />Where's some place he knows?</b></font>
+3054143 3055578 <font face="Comic Sans MS" color="#ffff80"><b>(FAINT GROWL)</b></font>
+3060448 3061883 <font face="Comic Sans MS" color="#ffff80"><b>(WHIMPERING)</b></font>
+3071326 3072762 <font face="Comic Sans MS" color="#ffff80"><b>(WHIMPERS)</b></font>
+3085073 3086674 <font face="Comic Sans MS" color="#ffff80"><b>(SNARLING)</b></font>
+3091379 3092946 <font face="Comic Sans MS" color="#ffff80"><b>(DOG BARKING)</b></font>
+3092948 3094683 <font face="Comic Sans MS" color="#ffff80"><b>(CREATURE HISSING)</b></font>
+3105993 3106995 <font face="Comic Sans MS" color="#ffff80"><b>There he is.</b></font>
+3113134 3114203 <font face="Comic Sans MS" color="#ffff80"><b>Dad!</b></font>
+3118040 3119973 <font face="Comic Sans MS" color="#ffff80"><b>How you doing, buddy, huh?</b></font>
+3119975 3121009 <font face="Comic Sans MS" color="#ffff80"><b>I'm good.</b></font>
+3126314 3127649 <font face="Comic Sans MS" color="#ffff80"><b>(GRUNTS)</b></font>
+3130285 3131553 <font face="Comic Sans MS" color="#ffff80"><b>(GRUNTS)</b></font>
+3132321 3134457 <font face="Comic Sans MS" color="#ffff80"><b>- Move! Move!<br />- (GASPS)</b></font>
+3135223 3137026 <font face="Comic Sans MS" color="#ffff80"><b>Hey, Doc, come get my kid.</b></font>
+3141363 3142862 <font face="Comic Sans MS" color="#ffff80"><b>(ROARS)</b></font>
+3142864 3144767 <font face="Comic Sans MS" color="#ffff80"><b>Let's go! Let's go! Let's go!<br />Come on!</b></font>
+3145500 3146869 <font face="Comic Sans MS" color="#ffff80"><b>BAXLEY: Oh, shit!</b></font>
+3148837 3149972 <font face="Comic Sans MS" color="#ffff80"><b>(SNARLING)</b></font>
+3151073 3152107 <font face="Comic Sans MS" color="#ffff80"><b>(GRUNTS)</b></font>
+3154776 3155978 <font face="Comic Sans MS" color="#ffff80"><b>(ROARS)</b></font>
+3156245 3157310 <font face="Comic Sans MS" color="#ffff80"><b>WILLIAMS: McKenna!</b></font>
+3157312 3158514 <font face="Comic Sans MS" color="#ffff80"><b>(GRUNTS)</b></font>
+3160348 3162214 <font face="Comic Sans MS" color="#ffff80"><b>NETTLES: Take cover!<br />Take cover!</b></font>
+3162216 3163651 <font face="Comic Sans MS" color="#ffff80"><b>(GROWLS)</b></font>
+3167422 3168891 <font face="Comic Sans MS" color="#ffff80"><b>(SNARLING)</b></font>
+3181437 3183136 <font face="Comic Sans MS" color="#ffff80"><b>BAXLEY: Williams!<br />Get the fuck out of there!</b></font>
+3183138 3184406 <font face="Comic Sans MS" color="#ffff80"><b>(INDISTINCT SHOUTING)</b></font>
+3184772 3186908 <font face="Comic Sans MS" color="#ffff80"><b>COYLE: What are you doing?<br />Get out of there!</b></font>
+3187375 3188709 <font face="Comic Sans MS" color="#ffff80"><b>Oh, shit!</b></font>
+3188910 3190178 <font face="Comic Sans MS" color="#ffff80"><b>(WHINING)</b></font>
+3193147 3194616 <font face="Comic Sans MS" color="#ffff80"><b>Oh. Okay.</b></font>
+3203292 3205991 <font face="Comic Sans MS" color="#ffff80"><b>WILLIAMS: Doc, the dreads.<br />What's that all about?</b></font>
+3205993 3208661 <font face="Comic Sans MS" color="#ffff80"><b>CASEY: I don't know.<br />Maybe, like, sensor receptors.</b></font>
+3208663 3209998 <font face="Comic Sans MS" color="#ffff80"><b>Kind of like cat whiskers.</b></font>
+3210732 3212866 <font face="Comic Sans MS" color="#ffff80"><b>Whoa! What the...<br />I'm getting a sample.</b></font>
+3212868 3214303 <font face="Comic Sans MS" color="#ffff80"><b>It's a fucking space dog.</b></font>
+3215671 3216906 <font face="Comic Sans MS" color="#ffff80"><b>You okay? Huh?</b></font>
+3217872 3218906 <font face="Comic Sans MS" color="#ffff80"><b>(GRUNTS)</b></font>
+3219540 3221241 <font face="Comic Sans MS" color="#ffff80"><b>What, is your mom<br />cutting your hair now?</b></font>
+3221243 3222111 <font face="Comic Sans MS" color="#ffff80"><b>CASEY: You kidding me?<br />This is</b></font>
+3222444 3223777 <font face="Comic Sans MS" color="#ffff80"><b>- a once-in-a-lifetime moment.<br />- Shut up. Please shut up.</b></font>
+3223779 3224978 <font face="Comic Sans MS" color="#ffff80"><b>All I wanted<br />was a little sample.</b></font>
+3224980 3225681 <font face="Comic Sans MS" color="#ffff80"><b>Please shut up.</b></font>
+3225913 3227080 <font face="Comic Sans MS" color="#ffff80"><b>All I wanted was<br />a goddamn fucking sample.</b></font>
+3227082 3228083 <font face="Comic Sans MS" color="#ffff80"><b>Come here.</b></font>
+3231285 3232351 <font face="Comic Sans MS" color="#ffff80"><b>- Sample.<br />- (GRUNTS)</b></font>
+3232353 3233420 <font face="Comic Sans MS" color="#ffff80"><b>- There you go.<br />- Thank you.</b></font>
+3233422 3235020 <font face="Comic Sans MS" color="#ffff80"><b>- You're welcome.<br />- Fucking space dog, man.</b></font>
+3235022 3236522 <font face="Comic Sans MS" color="#ffff80"><b>- My man, you need to...<br />- It's a fucking...</b></font>
+3236524 3237656 <font face="Comic Sans MS" color="#ffff80"><b>I can't. I can't.</b></font>
+3237658 3239561 <font face="Comic Sans MS" color="#ffff80"><b>- QUINN: Get it together.<br />- I can't do this.</b></font>
+3240227 3241563 <font face="Comic Sans MS" color="#ffff80"><b>- Oh, my God!<br />- Whoa!</b></font>
+3242163 3243631 <font face="Comic Sans MS" color="#ffff80"><b>LYNCH: Fucking hell!</b></font>
+3245767 3247232 <font face="Comic Sans MS" color="#ffff80"><b>- (YELPS)<br />- (PREDATOR SNARLS)</b></font>
+3247234 3249037 <font face="Comic Sans MS" color="#ffff80"><b>Fuck!</b></font>
+3249638 3251906 <font face="Comic Sans MS" color="#ffff80"><b>Go now! Please!</b></font>
+3252274 3253275 <font face="Comic Sans MS" color="#ffff80"><b>Rory!</b></font>
+3254509 3256945 <font face="Comic Sans MS" color="#ffff80"><b>NETTLES: Shoot him! Shoot him!</b></font>
+3257145 3259181 <font face="Comic Sans MS" color="#ffff80"><b>Hey!<br />No! No! No!</b></font>
+3260482 3261917 <font face="Comic Sans MS" color="#ffff80"><b>No! No! No!</b></font>
+3264285 3267121 <font face="Comic Sans MS" color="#ffff80"><b>Oh, fuck, fuck. No, no, no!</b></font>
+3267823 3268754 <font face="Comic Sans MS" color="#ffff80"><b>(COUGHS)</b></font>
+3268756 3270190 <font face="Comic Sans MS" color="#ffff80"><b>Cock! Cock! Fuck! Dick!</b></font>
+3270192 3272692 <font face="Comic Sans MS" color="#ffff80"><b>Suck! Suck my cock!<br />Fuck! Goddamn it!</b></font>
+3272694 3274194 <font face="Comic Sans MS" color="#ffff80"><b>- (SCREAMS)<br />- (ROARS)</b></font>
+3274196 3275527 <font face="Comic Sans MS" color="#ffff80"><b>- Go! Go! Go!<br />- (GRUNTS)</b></font>
+3275529 3276728 <font face="Comic Sans MS" color="#ffff80"><b>BAXLEY: I got him! I got him!</b></font>
+3276730 3279067 <font face="Comic Sans MS" color="#ffff80"><b>COYLE: Go, go, go!<br />On Williams! On Williams!</b></font>
+3280602 3281804 <font face="Comic Sans MS" color="#ffff80"><b>Rory!</b></font>
+3283404 3284607 <font face="Comic Sans MS" color="#ffff80"><b>(SNARLS)</b></font>
+3286940 3288977 <font face="Comic Sans MS" color="#ffff80"><b>- NETTLES: Take cover!<br />- WILLIAMS: Move!</b></font>
+3291013 3292379 <font face="Comic Sans MS" color="#ffff80"><b>QUINN: Go! Go!</b></font>
+3292381 3293446 <font face="Comic Sans MS" color="#ffff80"><b>CASEY: Come on!</b></font>
+3293448 3294683 <font face="Comic Sans MS" color="#ffff80"><b>Come on!</b></font>
+3295917 3297783 <font face="Comic Sans MS" color="#ffff80"><b>CASEY: FYI, back at Stargazer,</b></font>
+3297785 3300085 <font face="Comic Sans MS" color="#ffff80"><b>I was naked and unarmed,<br />it walked right past me.</b></font>
+3300087 3302825 <font face="Comic Sans MS" color="#ffff80"><b>Can you tell your kid to tone<br />down the psychosis, please?</b></font>
+3307495 3309629 <font face="Comic Sans MS" color="#ffff80"><b>All right, let's do this.<br />Let's do this.</b></font>
+3309631 3310531 <font face="Comic Sans MS" color="#ffff80"><b>Wait, and do what?</b></font>
+3311031 3312098 <font face="Comic Sans MS" color="#ffff80"><b>You know,<br />we could keep running,</b></font>
+3312100 3313699 <font face="Comic Sans MS" color="#ffff80"><b>or we give him back<br />what he wants.</b></font>
+3313701 3315270 <font face="Comic Sans MS" color="#ffff80"><b>(TRILLING)</b></font>
+3318506 3320142 <font face="Comic Sans MS" color="#ffff80"><b>What, this is it?</b></font>
+3323178 3324611 <font face="Comic Sans MS" color="#ffff80"><b>Oh, my God. Shit.</b></font>
+3324613 3327049 <font face="Comic Sans MS" color="#ffff80"><b>(FOOTSTEPS THUDDING)</b></font>
+3330252 3331317 <font face="Comic Sans MS" color="#ffff80"><b>Shit.</b></font>
+3331319 3333118 <font face="Comic Sans MS" color="#ffff80"><b>No, no, no! Move! Move! Move!</b></font>
+3333120 3334122 <font face="Comic Sans MS" color="#ffff80"><b>Hey, come on.</b></font>
+3334388 3335453 <font face="Comic Sans MS" color="#ffff80"><b>WILLIAMS: You good?</b></font>
+3335455 3336357 <font face="Comic Sans MS" color="#ffff80"><b>Fucked!</b></font>
+3336591 3337656 <font face="Comic Sans MS" color="#ffff80"><b>NETTLES: Let's get<br />the fuck out of here.</b></font>
+3337658 3338792 <font face="Comic Sans MS" color="#ffff80"><b>Netty, get the vehicle.</b></font>
+3338794 3340460 <font face="Comic Sans MS" color="#ffff80"><b>- The rest of you on me.<br />- NETTLES: Copy.</b></font>
+3340462 3341864 <font face="Comic Sans MS" color="#ffff80"><b>QUINN: Move back.</b></font>
+3342163 3343899 <font face="Comic Sans MS" color="#ffff80"><b>(FOOTSTEPS THUDDING)</b></font>
+3345667 3346732 <font face="Comic Sans MS" color="#ffff80"><b>(GASPS)</b></font>
+3346734 3348671 <font face="Comic Sans MS" color="#ffff80"><b>(QUINN GRUNTING)</b></font>
+3352239 3353776 <font face="Comic Sans MS" color="#ffff80"><b>(CHOKING)</b></font>
+3355977 3358277 <font face="Comic Sans MS" color="#ffff80"><b>- No! No! No!<br />- (PREDATOR CLICKING)</b></font>
+3358279 3359281 <font face="Comic Sans MS" color="#ffff80"><b>No!</b></font>
+3363218 3364420 <font face="Comic Sans MS" color="#ffff80"><b>(PREDATOR CLICKING)</b></font>
+3372160 3373161 <font face="Comic Sans MS" color="#ffff80"><b>(GASPS)</b></font>
+3375397 3376998 <font face="Comic Sans MS" color="#ffff80"><b>Incoming!</b></font>
+3380201 3381402 <font face="Comic Sans MS" color="#ffff80"><b>What the fuck?</b></font>
+3389511 3391113 <font face="Comic Sans MS" color="#ffff80"><b>(SNARLING)</b></font>
+3394315 3395951 <font face="Comic Sans MS" color="#ffff80"><b>(GROANS)</b></font>
+3398928 3400881 <font face="Comic Sans MS" color="#ffff80"><b>TELL ME WHERE IT IS<br />(SPEAKING ALIEN LANGUAGE)</b></font>
+3406627 3408229 <font face="Comic Sans MS" color="#ffff80"><b>(GROWLING)</b></font>
+3411165 3413501 <font face="Comic Sans MS" color="#ffff80"><b>Come here!<br />Roll out! Roll out, let's go!</b></font>
+3413768 3415203 <font face="Comic Sans MS" color="#ffff80"><b>Let's go, let's go, let's go!</b></font>
+3415569 3417105 <font face="Comic Sans MS" color="#ffff80"><b>- Move!<br />- Move out, move out!</b></font>
+3418540 3419641 <font face="Comic Sans MS" color="#ffff80"><b>(GROWLING)</b></font>
+3419875 3421176 <font face="Comic Sans MS" color="#ffff80"><b>Move! Move out!</b></font>
+3421777 3423479 <font face="Comic Sans MS" color="#ffff80"><b>- Let's go!<br />- Let's move!</b></font>
+3425413 3427013 <font face="Comic Sans MS" color="#ffff80"><b>NETTLES: Go, go, go! Let's go!</b></font>
+3427015 3428183 <font face="Comic Sans MS" color="#ffff80"><b>WILLIAMS: Let's go!</b></font>
+3428482 3429582 <font face="Comic Sans MS" color="#ffff80"><b>NETTLES: Move!</b></font>
+3429584 3430850 <font face="Comic Sans MS" color="#ffff80"><b>Come on!</b></font>
+3430852 3432819 <font face="Comic Sans MS" color="#ffff80"><b>Move! Come on,<br />get in! Come on!</b></font>
+3432821 3434254 <font face="Comic Sans MS" color="#ffff80"><b>QUINN: Sit down!</b></font>
+3434256 3436524 <font face="Comic Sans MS" color="#ffff80"><b>Good! Good! Good!</b></font>
+3438227 3439625 <font face="Comic Sans MS" color="#ffff80"><b>(HIGH-PITCHED GROAN)</b></font>
+3439627 3440995 <font face="Comic Sans MS" color="#ffff80"><b>Go! Last man!</b></font>
+3442163 3443165 <font face="Comic Sans MS" color="#ffff80"><b>Go! Go! Go!</b></font>
+3443531 3444900 <font face="Comic Sans MS" color="#ffff80"><b>(SNARLS)</b></font>
+3460748 3462047 <font face="Comic Sans MS" color="#ffff80"><b>COYLE: What's the big one?</b></font>
+3462049 3463951 <font face="Comic Sans MS" color="#ffff80"><b>What's the big one, Doc?<br />Is that like the male?</b></font>
+3464185 3465784 <font face="Comic Sans MS" color="#ffff80"><b>He didn't even<br />give a shit about us.</b></font>
+3465786 3467055 <font face="Comic Sans MS" color="#ffff80"><b>Just wanted<br />to kill that thing.</b></font>
+3470459 3472024 <font face="Comic Sans MS" color="#ffff80"><b>You saw that, right?</b></font>
+3472026 3474393 <font face="Comic Sans MS" color="#ffff80"><b>Guys! Did you see that? He...</b></font>
+3474395 3477166 <font face="Comic Sans MS" color="#ffff80"><b>He grew an exoskeleton<br />under his fucking skin.</b></font>
+3479667 3481370 <font face="Comic Sans MS" color="#ffff80"><b>What, are they hunting<br />each other now?</b></font>
+3489828 3492468 <font face="Comic Sans MS" color="#ffff80"><b>TRAITOR ELIMINATED TRACKING STOLEN CARGO<br />(SPEAKING ALIEN LANGUAGE)</b></font>
+3498599 3499764 <font face="Comic Sans MS" color="#ffff80"><b>SEVERAL.</b></font>
+3501422 3503191 <font face="Comic Sans MS" color="#ffff80"><b>(SIRENS WAILING)</b></font>
+3514502 3516571 <font face="Comic Sans MS" color="#ffff80"><b>MAN: We're still sorting<br />through it right now.</b></font>
+3521009 3522211 <font face="Comic Sans MS" color="#ffff80"><b>(CELL PHONE VIBRATES)</b></font>
+3525247 3527080 <font face="Comic Sans MS" color="#ffff80"><b>- QUINN: Hey, it's me.<br />- Tell me he's okay.</b></font>
+3527082 3528880 <font face="Comic Sans MS" color="#ffff80"><b>He's fine.<br />I'm going to bring him back.</b></font>
+3528882 3530082 <font face="Comic Sans MS" color="#ffff80"><b>It's okay, don't say anything,<br />just be safe.</b></font>
+3530084 3532020 <font face="Comic Sans MS" color="#ffff80"><b>MAN: Hey, no! Don't do that!</b></font>
+3532252 3534957 <font face="Comic Sans MS" color="#ffff80"><b>- What? Hello?<br />- (LINE DISCONNECTS)</b></font>
+3539328 3540393 <font face="Comic Sans MS" color="#ffff80"><b>MAN: Damn it.</b></font>
+3540395 3542564 <font face="Comic Sans MS" color="#ffff80"><b>You guys fucked<br />with the wrong family.</b></font>
+3543531 3544565 <font face="Comic Sans MS" color="#ffff80"><b>(SIGHS)</b></font>
+3545200 3547766 <font face="Comic Sans MS" color="#ffff80"><b>- How tall?<br />- Witnesses say 11 feet.</b></font>
+3547768 3549303 <font face="Comic Sans MS" color="#ffff80"><b>TRAEGER: That's<br />pretty fucking tall.</b></font>
+3549571 3550605 <font face="Comic Sans MS" color="#ffff80"><b>Okay.</b></font>
+3553774 3555943 <font face="Comic Sans MS" color="#ffff80"><b>- Fucked that nigga up.<br />- Sir?</b></font>
+3556743 3558012 <font face="Comic Sans MS" color="#ffff80"><b>Nothing.</b></font>
+3559647 3561149 <font face="Comic Sans MS" color="#ffff80"><b>I'd be careful with that, sir.</b></font>
+3561783 3563047 <font face="Comic Sans MS" color="#ffff80"><b>(BREATHES DEEPLY)</b></font>
+3563049 3564250 <font face="Comic Sans MS" color="#ffff80"><b>You know what I think?</b></font>
+3564252 3566687 <font face="Comic Sans MS" color="#ffff80"><b>I think this one<br />went rogue. A runner.</b></font>
+3566953 3568554 <font face="Comic Sans MS" color="#ffff80"><b>Hmm. And the big one?</b></font>
+3568556 3569721 <font face="Comic Sans MS" color="#ffff80"><b>He's a tracker.</b></font>
+3569723 3570959 <font face="Comic Sans MS" color="#ffff80"><b>Sent to take that one out.</b></font>
+3571625 3573861 <font face="Comic Sans MS" color="#ffff80"><b>Some kind of interstellar<br />cops and robbers.</b></font>
+3574294 3576630 <font face="Comic Sans MS" color="#ffff80"><b>Now he's going after<br />that missing ship.</b></font>
+3577031 3578567 <font face="Comic Sans MS" color="#ffff80"><b>And whatever's on board.</b></font>
+3579201 3581500 <font face="Comic Sans MS" color="#ffff80"><b>I want that fucking ship.</b></font>
+3581502 3582637 <font face="Comic Sans MS" color="#ffff80"><b>We're in the ballpark.</b></font>
+3583036 3584573 <font face="Comic Sans MS" color="#ffff80"><b>Captain McKenna's son?</b></font>
+3584872 3585973 <font face="Comic Sans MS" color="#ffff80"><b>Mother confirms.</b></font>
+3586207 3587806 <font face="Comic Sans MS" color="#ffff80"><b>He has the operating system.</b></font>
+3587808 3589975 <font face="Comic Sans MS" color="#ffff80"><b>- Get the fuck out of here.<br />- Thought it was a video game.</b></font>
+3589977 3591478 <font face="Comic Sans MS" color="#ffff80"><b>So, we find the kid,<br />we find the ship.</b></font>
+3591480 3593615 <font face="Comic Sans MS" color="#ffff80"><b>What the fuck we<br />still standing here for?</b></font>
+3593948 3595380 <font face="Comic Sans MS" color="#ffff80"><b>You don't want to know<br />what that one is?</b></font>
+3595382 3597250 <font face="Comic Sans MS" color="#ffff80"><b>I know what it is.<br />Our big boy's a hunter.</b></font>
+3597252 3598687 <font face="Comic Sans MS" color="#ffff80"><b>He brought his dogs with him.</b></font>
+3603491 3604790 <font face="Comic Sans MS" color="#ffff80"><b>No, it had to be like</b></font>
+3604792 3606560 <font face="Comic Sans MS" color="#ffff80"><b>a government experiment<br />or some shit.</b></font>
+3607228 3608495 <font face="Comic Sans MS" color="#ffff80"><b>Like a robot, or whatever.</b></font>
+3608497 3610228 <font face="Comic Sans MS" color="#ffff80"><b>Nettles, are you<br />fucking retarded, man?</b></font>
+3610230 3612065 <font face="Comic Sans MS" color="#ffff80"><b>Use another word, would ya?</b></font>
+3612067 3614100 <font face="Comic Sans MS" color="#ffff80"><b>Yeah, man.<br />Show a little sensitivity.</b></font>
+3614102 3615569 <font face="Comic Sans MS" color="#ffff80"><b>His son's retarded.</b></font>
+3616004 3617504 <font face="Comic Sans MS" color="#ffff80"><b>BAXLEY: Here you go.</b></font>
+3617506 3618573 <font face="Comic Sans MS" color="#ffff80"><b>Here you go.</b></font>
+3618973 3620542 <font face="Comic Sans MS" color="#ffff80"><b>He does this from time to time.</b></font>
+3621176 3622411 <font face="Comic Sans MS" color="#ffff80"><b>Just give him a minute.</b></font>
+3622877 3624446 <font face="Comic Sans MS" color="#ffff80"><b>Hey, Lynch.</b></font>
+3625379 3627145 <font face="Comic Sans MS" color="#ffff80"><b>What's the deal<br />with these two?</b></font>
+3627147 3628982 <font face="Comic Sans MS" color="#ffff80"><b>Coyle lit up<br />one of his own vehicles?</b></font>
+3628984 3631686 <font face="Comic Sans MS" color="#ffff80"><b>Back in '09, yeah.<br />It was bad business. Six dead.</b></font>
+3631953 3633152 <font face="Comic Sans MS" color="#ffff80"><b>What, no survivors?</b></font>
+3633154 3635056 <font face="Comic Sans MS" color="#ffff80"><b>Yeah, there was one.</b></font>
+3639828 3641096 <font face="Comic Sans MS" color="#ffff80"><b>It's fucking romantic.</b></font>
+3641529 3643629 <font face="Comic Sans MS" color="#ffff80"><b>Are you kidding me,<br />they're friends?</b></font>
+3643631 3644431 <font face="Comic Sans MS" color="#ffff80"><b>Picture it.</b></font>
+3644665 3646466 <font face="Comic Sans MS" color="#ffff80"><b>Military inquiries,<br />sitting outside courtroom,</b></font>
+3646468 3648268 <font face="Comic Sans MS" color="#ffff80"><b>waiting to go in,<br />side by side,</b></font>
+3648270 3650338 <font face="Comic Sans MS" color="#ffff80"><b>- day after fucking day.<br />- After fucking day.</b></font>
+3650672 3651703 <font face="Comic Sans MS" color="#ffff80"><b>Unbelievable.</b></font>
+3651705 3653107 <font face="Comic Sans MS" color="#ffff80"><b>It's the loonies.</b></font>
+3662149 3663417 <font face="Comic Sans MS" color="#ffff80"><b>QUINN: All right, kid.</b></font>
+3664051 3665419 <font face="Comic Sans MS" color="#ffff80"><b>I've talked to your mother.</b></font>
+3665953 3667255 <font face="Comic Sans MS" color="#ffff80"><b>She's doing fine.</b></font>
+3667922 3669457 <font face="Comic Sans MS" color="#ffff80"><b>Mom says you're a killer.</b></font>
+3670725 3673326 <font face="Comic Sans MS" color="#ffff80"><b>- Well, I'm a soldier.<br />- (WILLIAMS CLEARS THROAT)</b></font>
+3673694 3675130 <font face="Comic Sans MS" color="#ffff80"><b>What's the difference?</b></font>
+3678500 3679768 <font face="Comic Sans MS" color="#ffff80"><b>Well, when you like it,</b></font>
+3680201 3681636 <font face="Comic Sans MS" color="#ffff80"><b>that's when you're a killer.</b></font>
+3684205 3685741 <font face="Comic Sans MS" color="#ffff80"><b>- (SNIFFLES)<br />- Are you good?</b></font>
+3688243 3689678 <font face="Comic Sans MS" color="#ffff80"><b>Sorry I never grew up.</b></font>
+3691046 3693515 <font face="Comic Sans MS" color="#ffff80"><b>You know...<br />the way you wanted.</b></font>
+3699687 3700721 <font face="Comic Sans MS" color="#ffff80"><b>Tell you a secret.</b></font>
+3703091 3704359 <font face="Comic Sans MS" color="#ffff80"><b>Truth is, kid,</b></font>
+3705527 3707362 <font face="Comic Sans MS" color="#ffff80"><b>I never grew up<br />the way I wanted.</b></font>
+3710397 3713433 <font face="Comic Sans MS" color="#ffff80"><b>(SIGHS)<br />Are we gonna get killed?</b></font>
+3713435 3714536 <font face="Comic Sans MS" color="#ffff80"><b>(GRUNTS SOFTLY)</b></font>
+3717471 3718473 <font face="Comic Sans MS" color="#ffff80"><b>Nope.</b></font>
+3719908 3721543 <font face="Comic Sans MS" color="#ffff80"><b>Come on.<br />(CLEARS THROAT) Get up.</b></font>
+3721743 3724045 <font face="Comic Sans MS" color="#ffff80"><b>I'm single.<br />I don't know if you knew that.</b></font>
+3724344 3726314 <font face="Comic Sans MS" color="#ffff80"><b>No, I could tell<br />that you're single.</b></font>
+3726982 3729315 <font face="Comic Sans MS" color="#ffff80"><b>We got so much stuff<br />in common, you know...</b></font>
+3729783 3732618 <font face="Comic Sans MS" color="#ffff80"><b>You like music, I like music.<br />You like music, right?</b></font>
+3732620 3734489 <font face="Comic Sans MS" color="#ffff80"><b>- Shit.<br />- What?</b></font>
+3735422 3737022 <font face="Comic Sans MS" color="#ffff80"><b>This is more than spinal fluid.</b></font>
+3737024 3738192 <font face="Comic Sans MS" color="#ffff80"><b>What does that mean?</b></font>
+3738493 3739527 <font face="Comic Sans MS" color="#ffff80"><b>If I'm right,</b></font>
+3740627 3742862 <font face="Comic Sans MS" color="#ffff80"><b>they're trying<br />to upgrade themselves.</b></font>
+3742864 3744365 <font face="Comic Sans MS" color="#ffff80"><b>McKenna, I got something.</b></font>
+3744899 3746232 <font face="Comic Sans MS" color="#ffff80"><b>I think I know<br />what they're up to</b></font>
+3746234 3747435 <font face="Comic Sans MS" color="#ffff80"><b>on Predator World these days.</b></font>
+3747634 3750837 <font face="Comic Sans MS" color="#ffff80"><b>You see this? They found this<br />in the Predator's plexus.</b></font>
+3751038 3752205 <font face="Comic Sans MS" color="#ffff80"><b>So, remember how I told you</b></font>
+3752207 3753741 <font face="Comic Sans MS" color="#ffff80"><b>how they take<br />people's spines, right?</b></font>
+3754276 3755641 <font face="Comic Sans MS" color="#ffff80"><b>Yeah, for trophies.</b></font>
+3755643 3758243 <font face="Comic Sans MS" color="#ffff80"><b>Yes! Yes!<br />From the strongest, smartest,</b></font>
+3758245 3761246 <font face="Comic Sans MS" color="#ffff80"><b>most dangerous species<br />on every planet they visit.</b></font>
+3761248 3762448 <font face="Comic Sans MS" color="#ffff80"><b>Collecting survival traits</b></font>
+3762450 3763951 <font face="Comic Sans MS" color="#ffff80"><b>from the most<br />high-end specimens.</b></font>
+3764317 3766520 <font face="Comic Sans MS" color="#ffff80"><b>I think they're<br />attempting hybridization.</b></font>
+3767989 3769487 <font face="Comic Sans MS" color="#ffff80"><b>You're just pulling this<br />out of your ass.</b></font>
+3769489 3771625 <font face="Comic Sans MS" color="#ffff80"><b>Did you not see<br />the new Predator?</b></font>
+3773462 3774596 <font face="Comic Sans MS" color="#ffff80"><b>It's evolving.</b></font>
+3775062 3776330 <font face="Comic Sans MS" color="#ffff80"><b>Or being upgraded.</b></font>
+3783837 3785069 <font face="Comic Sans MS" color="#ffff80"><b>QUINN: That little boy</b></font>
+3785071 3787374 <font face="Comic Sans MS" color="#ffff80"><b>managed to figure out<br />alien technology.</b></font>
+3788408 3790308 <font face="Comic Sans MS" color="#ffff80"><b>You know,<br />a lot of experts say that</b></font>
+3790310 3792413 <font face="Comic Sans MS" color="#ffff80"><b>being on the spectrum<br />isn't really a disorder.</b></font>
+3792980 3795515 <font face="Comic Sans MS" color="#ffff80"><b>It's actually the next step<br />in the evolutionary chain.</b></font>
+3795950 3797283 <font face="Comic Sans MS" color="#ffff80"><b>NETTLES: Hey, yo!<br />What the fuck?</b></font>
+3797285 3798683 <font face="Comic Sans MS" color="#ffff80"><b>Get the fuck away from me!</b></font>
+3798685 3800855 <font face="Comic Sans MS" color="#ffff80"><b>Yo! Casey! (WHISTLING)</b></font>
+3801790 3803291 <font face="Comic Sans MS" color="#ffff80"><b>QUINN: Casey, get inside.</b></font>
+3803924 3804926 <font face="Comic Sans MS" color="#ffff80"><b>Casey!</b></font>
+3805192 3807694 <font face="Comic Sans MS" color="#ffff80"><b>Hey, hey, hey! Calm down!<br />Calm down! Calm down!</b></font>
+3807696 3808826 <font face="Comic Sans MS" color="#ffff80"><b>Casey! Look.</b></font>
+3808828 3811230 <font face="Comic Sans MS" color="#ffff80"><b>I think this thing's<br />been following us, all right?</b></font>
+3811232 3814000 <font face="Comic Sans MS" color="#ffff80"><b>- Move, Netty!<br />- Hey, hey, hey!</b></font>
+3814002 3815768 <font face="Comic Sans MS" color="#ffff80"><b>- Space dog!<br />- Move, Netty!</b></font>
+3815770 3817205 <font face="Comic Sans MS" color="#ffff80"><b>(WHIMPERS)</b></font>
+3819841 3820940 <font face="Comic Sans MS" color="#ffff80"><b>Fuck that.</b></font>
+3820942 3822375 <font face="Comic Sans MS" color="#ffff80"><b>Hey! You had<br />your fucking chance.</b></font>
+3822377 3823710 <font face="Comic Sans MS" color="#ffff80"><b>(CREATURE WHINES)</b></font>
+3823712 3826444 <font face="Comic Sans MS" color="#ffff80"><b>Look, I'm just saying,<br />what the fuck is it gonna do?</b></font>
+3826446 3828380 <font face="Comic Sans MS" color="#ffff80"><b>You know, maybe we can<br />use it, or something?</b></font>
+3828382 3830415 <font face="Comic Sans MS" color="#ffff80"><b>Okay, what are we doing?<br />What are we doing with it?</b></font>
+3830417 3832652 <font face="Comic Sans MS" color="#ffff80"><b>We're gonna study it. That's<br />what we're gonna do with it.</b></font>
+3832654 3834252 <font face="Comic Sans MS" color="#ffff80"><b>What's to learn?<br />Except Williams sucks</b></font>
+3834254 3835654 <font face="Comic Sans MS" color="#ffff80"><b>at shooting shit in the head.</b></font>
+3835656 3837556 <font face="Comic Sans MS" color="#ffff80"><b>Williams, you lobotomized him.<br />(CHUCKLES)</b></font>
+3837558 3840092 <font face="Comic Sans MS" color="#ffff80"><b>Okay, new rule.<br />No one shoots my fucking dog.</b></font>
+3840094 3841159 <font face="Comic Sans MS" color="#ffff80"><b>(CREATURE GROWLS)</b></font>
+3841161 3842328 <font face="Comic Sans MS" color="#ffff80"><b>BAXLEY: There it is.<br />It's official.</b></font>
+3842330 3844165 <font face="Comic Sans MS" color="#ffff80"><b>You were right,<br />we can use this.</b></font>
+3848136 3849137 <font face="Comic Sans MS" color="#ffff80"><b>BAXLEY: Shit.</b></font>
+3849569 3851172 <font face="Comic Sans MS" color="#ffff80"><b>COYLE: Netty, what is that?</b></font>
+3853408 3854476 <font face="Comic Sans MS" color="#ffff80"><b>WILLIAMS:<br />Everybody, tighten up.</b></font>
+3854709 3856375 <font face="Comic Sans MS" color="#ffff80"><b>- Little man, come here.<br />- NETTLES: That's an EC-130.</b></font>
+3856377 3857710 <font face="Comic Sans MS" color="#ffff80"><b>That's not civilian.</b></font>
+3857712 3858513 <font face="Comic Sans MS" color="#ffff80"><b>Hey, hey, hey!</b></font>
+3858812 3861145 <font face="Comic Sans MS" color="#ffff80"><b>You are not starting<br />a firefight with my kid here.</b></font>
+3861147 3862182 <font face="Comic Sans MS" color="#ffff80"><b>WILLIAMS: There you go.</b></font>
+3862517 3865183 <font face="Comic Sans MS" color="#ffff80"><b>Do you wanna help? Go get<br />a helicopter and some pyro.</b></font>
+3865185 3867020 <font face="Comic Sans MS" color="#ffff80"><b>All right! On me!</b></font>
+3867221 3868386 <font face="Comic Sans MS" color="#ffff80"><b>Now go!</b></font>
+3868388 3870855 <font face="Comic Sans MS" color="#ffff80"><b>- Casey! I'll be right back!<br />- No, you won't.</b></font>
+3870857 3872525 <font face="Comic Sans MS" color="#ffff80"><b>Hold on. Hey. See this?</b></font>
+3872527 3874863 <font face="Comic Sans MS" color="#ffff80"><b>Come on. Let's go!<br />Let's go! Come on!</b></font>
+3875062 3876765 <font face="Comic Sans MS" color="#ffff80"><b>- Fetch!<br />- (CREATURE HUFFING)</b></font>
+3880835 3882204 <font face="Comic Sans MS" color="#ffff80"><b>(COUGHING)</b></font>
+3900221 3901456 <font face="Comic Sans MS" color="#ffff80"><b>Where is it?</b></font>
+3901656 3902657 <font face="Comic Sans MS" color="#ffff80"><b>Where's what?</b></font>
+3903890 3904925 <font face="Comic Sans MS" color="#ffff80"><b>The device.</b></font>
+3905259 3907728 <font face="Comic Sans MS" color="#ffff80"><b>It goes, right in here.</b></font>
+3909297 3910565 <font face="Comic Sans MS" color="#ffff80"><b>(GRUNTING)</b></font>
+3913334 3915402 <font face="Comic Sans MS" color="#ffff80"><b>Okay, so, the first Predator,<br />Thing One.</b></font>
+3915636 3917772 <font face="Comic Sans MS" color="#ffff80"><b>Why'd he come here? To Earth?</b></font>
+3918038 3920105 <font face="Comic Sans MS" color="#ffff80"><b>The "Thing One",<br />as you called him,</b></font>
+3920107 3922509 <font face="Comic Sans MS" color="#ffff80"><b>arrived in<br />a hijacked spacecraft.</b></font>
+3922944 3924411 <font face="Comic Sans MS" color="#ffff80"><b>We think there's<br />something on it.</b></font>
+3924745 3926614 <font face="Comic Sans MS" color="#ffff80"><b>Something he didn't want<br />his enemies to have.</b></font>
+3927181 3928283 <font face="Comic Sans MS" color="#ffff80"><b>CASEY: Wait, enemies?</b></font>
+3928582 3930815 <font face="Comic Sans MS" color="#ffff80"><b>Other Predators.<br />Like that big one.</b></font>
+3930817 3933618 <font face="Comic Sans MS" color="#ffff80"><b>So, he brought some what?<br />Gift for the human race?</b></font>
+3933620 3935254 <font face="Comic Sans MS" color="#ffff80"><b>I'll help you find it.<br />We can analyze it...</b></font>
+3935256 3936690 <font face="Comic Sans MS" color="#ffff80"><b>Shut the fuck up!</b></font>
+3940361 3941796 <font face="Comic Sans MS" color="#ffff80"><b>Why are they here?</b></font>
+3943797 3946633 <font face="Comic Sans MS" color="#ffff80"><b>You remember a few years back<br />when Hostess went bust?</b></font>
+3947167 3949069 <font face="Comic Sans MS" color="#ffff80"><b>There was a run on Twinkies?</b></font>
+3949303 3951237 <font face="Comic Sans MS" color="#ffff80"><b>Snapped up<br />from coast-to-coast.</b></font>
+3951239 3952941 <font face="Comic Sans MS" color="#ffff80"><b>Get 'em while they still last.</b></font>
+3953808 3954809 <font face="Comic Sans MS" color="#ffff80"><b>Remember?</b></font>
+3955810 3959314 <font face="Comic Sans MS" color="#ffff80"><b>How long before climate change<br />renders this planet unlivable?</b></font>
+3960649 3961815 <font face="Comic Sans MS" color="#ffff80"><b>Two generations?</b></font>
+3962850 3963848 <font face="Comic Sans MS" color="#ffff80"><b>One?</b></font>
+3963850 3965951 <font face="Comic Sans MS" color="#ffff80"><b>CASEY: That's why their visits<br />are increasing?</b></font>
+3965953 3966919 <font face="Comic Sans MS" color="#ffff80"><b>They're trying to snap up</b></font>
+3966921 3968489 <font face="Comic Sans MS" color="#ffff80"><b>all of our best DNA<br />before we're gone.</b></font>
+3968756 3972125 <font face="Comic Sans MS" color="#ffff80"><b>Adapt themselves with it<br />and then move in.</b></font>
+3972627 3975426 <font face="Comic Sans MS" color="#ffff80"><b>We're an endangered species,<br />and they know it.</b></font>
+3975428 3977131 <font face="Comic Sans MS" color="#ffff80"><b>They thrive<br />in a hothouse environment.</b></font>
+3977431 3979500 <font face="Comic Sans MS" color="#ffff80"><b>Maybe they want<br />to move into ours.</b></font>
+3980234 3981466 <font face="Comic Sans MS" color="#ffff80"><b>And that dead Predator</b></font>
+3981468 3983437 <font face="Comic Sans MS" color="#ffff80"><b>was bringing us<br />a way to stop them.</b></font>
+3984839 3985804 <font face="Comic Sans MS" color="#ffff80"><b>(GRUNTS)</b></font>
+3985806 3988306 <font face="Comic Sans MS" color="#ffff80"><b>You've hidden this thing<br />before in the mail.</b></font>
+3988308 3989276 <font face="Comic Sans MS" color="#ffff80"><b>(GROANS)</b></font>
+3989542 3991176 <font face="Comic Sans MS" color="#ffff80"><b>So, where is it this time?</b></font>
+3991178 3992713 <font face="Comic Sans MS" color="#ffff80"><b>Your mother's ass.</b></font>
+3993080 3994783 <font face="Comic Sans MS" color="#ffff80"><b>Wait, did I say that out loud?</b></font>
+3995315 3996750 <font face="Comic Sans MS" color="#ffff80"><b>(GRUNTS)</b></font>
+3998486 4001520 <font face="Comic Sans MS" color="#ffff80"><b>Hey! Hey! Hey! No, no, no.<br />That is not for you.</b></font>
+4001522 4002522 <font face="Comic Sans MS" color="#ffff80"><b>That is my son's,</b></font>
+4002790 4004223 <font face="Comic Sans MS" color="#ffff80"><b>and you are violating<br />his privacy reading that.</b></font>
+4004225 4005359 <font face="Comic Sans MS" color="#ffff80"><b>You both need<br />to leave right now.</b></font>
+4005558 4007460 <font face="Comic Sans MS" color="#ffff80"><b>Ma'am, I don't wanna<br />restrain you.</b></font>
+4007727 4009863 <font face="Comic Sans MS" color="#ffff80"><b>Really? Well,<br />why don't you try?</b></font>
+4011131 4012900 <font face="Comic Sans MS" color="#ffff80"><b>(OBJECTS CLATTERING)</b></font>
+4015035 4017371 <font face="Comic Sans MS" color="#ffff80"><b>(FOOTSTEPS RUNNING)</b></font>
+4023810 4025113 <font face="Comic Sans MS" color="#ffff80"><b>(SNARLING)</b></font>
+4029616 4030685 <font face="Comic Sans MS" color="#ffff80"><b>(YELLS)</b></font>
+4031852 4032953 <font face="Comic Sans MS" color="#ffff80"><b>(GUNSHOTS)</b></font>
+4033187 4034889 <font face="Comic Sans MS" color="#ffff80"><b>(SNARLING)</b></font>
+4038859 4041528 <font face="Comic Sans MS" color="#ffff80"><b>(LOW GROWLING)</b></font>
+4050301 4052090 <font face="Comic Sans MS" color="#ffff80"><b>McKenna<br />(SPEAKING ALIEN LANGUAGE)</b></font>
+4061982 4063716 <font face="Comic Sans MS" color="#ffff80"><b>CRYPTOGRAPHER: You haven't<br />found the spacecraft?</b></font>
+4063718 4065551 <font face="Comic Sans MS" color="#ffff80"><b>Why are we trying<br />to crack the entry code?</b></font>
+4065553 4067618 <font face="Comic Sans MS" color="#ffff80"><b>SAPIR: Because when we do<br />find it, wouldn't it be great</b></font>
+4067620 4068987 <font face="Comic Sans MS" color="#ffff80"><b>if we could<br />get into the fucking thing?</b></font>
+4068989 4070125 <font face="Comic Sans MS" color="#ffff80"><b>What's that?</b></font>
+4070957 4072059 <font face="Comic Sans MS" color="#ffff80"><b>A map.</b></font>
+4072493 4073493 <font face="Comic Sans MS" color="#ffff80"><b>A map to what?</b></font>
+4073893 4075661 <font face="Comic Sans MS" color="#ffff80"><b>CRYPTOGRAPHER: ...give us<br />a clue of where this place is,</b></font>
+4075863 4077596 <font face="Comic Sans MS" color="#ffff80"><b>maybe we can try<br />to get into it.</b></font>
+4077598 4079734 <font face="Comic Sans MS" color="#ffff80"><b>But if you don't give us<br />anything, we can't get in!</b></font>
+4088174 4089176 <font face="Comic Sans MS" color="#ffff80"><b>(GRUNTS)</b></font>
+4091411 4092779 <font face="Comic Sans MS" color="#ffff80"><b>(WHIMPERING)</b></font>
+4092980 4095183 <font face="Comic Sans MS" color="#ffff80"><b>Hey, Rory, I'm Will.</b></font>
+4095849 4096718 <font face="Comic Sans MS" color="#ffff80"><b>How you doing?</b></font>
+4097117 4099453 <font face="Comic Sans MS" color="#ffff80"><b>I understand you know<br />where the spaceship is.</b></font>
+4113268 4114469 <font face="Comic Sans MS" color="#ffff80"><b>Golf tomorrow?</b></font>
+4114769 4115837 <font face="Comic Sans MS" color="#ffff80"><b>Why not?</b></font>
+4116403 4118605 <font face="Comic Sans MS" color="#ffff80"><b>You two never read<br />my file, did ya?</b></font>
+4119105 4120006 <font face="Comic Sans MS" color="#ffff80"><b>What makes you say that?</b></font>
+4120241 4122777 <font face="Comic Sans MS" color="#ffff80"><b>'Cause you two morons<br />are making plans for tomorrow.</b></font>
+4123176 4124276 <font face="Comic Sans MS" color="#ffff80"><b>(LAUGHING)</b></font>
+4124278 4125379 <font face="Comic Sans MS" color="#ffff80"><b>The worst part is,</b></font>
+4125580 4127849 <font face="Comic Sans MS" color="#ffff80"><b>you're making me lie to my son.</b></font>
+4129250 4130919 <font face="Comic Sans MS" color="#ffff80"><b>What lie did you<br />tell him, hmm?</b></font>
+4132219 4133755 <font face="Comic Sans MS" color="#ffff80"><b>That I won't enjoy this.</b></font>
+4135122 4136623 <font face="Comic Sans MS" color="#ffff80"><b>(GRUNTING)</b></font>
+4138158 4139223 <font face="Comic Sans MS" color="#ffff80"><b>(SCREAMS)</b></font>
+4139225 4140828 <font face="Comic Sans MS" color="#ffff80"><b>(MOUTHING)</b></font>
+4142462 4144031 <font face="Comic Sans MS" color="#ffff80"><b>- (GUN COCKING)<br />- Hey, please, don't.</b></font>
+4144864 4146798 <font face="Comic Sans MS" color="#ffff80"><b>Look, I don't know<br />what they told you...</b></font>
+4146800 4149302 <font face="Comic Sans MS" color="#ffff80"><b>Can you just wait<br />for a second? Just wait!</b></font>
+4149304 4150839 <font face="Comic Sans MS" color="#ffff80"><b>No, no, no!</b></font>
+4151272 4152272 <font face="Comic Sans MS" color="#ffff80"><b>No.</b></font>
+4152473 4154108 <font face="Comic Sans MS" color="#ffff80"><b>(GRUNTING SOFTLY)</b></font>
+4157478 4159344 <font face="Comic Sans MS" color="#ffff80"><b>- Jeez!<br />- (YIPPING)</b></font>
+4159346 4160614 <font face="Comic Sans MS" color="#ffff80"><b>Oh, my God.</b></font>
+4165819 4166821 <font face="Comic Sans MS" color="#ffff80"><b>(RETCHES)</b></font>
+4172359 4173760 <font face="Comic Sans MS" color="#ffff80"><b>(BOTH GRUNTING)</b></font>
+4187407 4188609 <font face="Comic Sans MS" color="#ffff80"><b>(GASPING)</b></font>
+4193014 4194516 <font face="Comic Sans MS" color="#ffff80"><b>(GRUNTING)</b></font>
+4197885 4198719 <font face="Comic Sans MS" color="#ffff80"><b>Nebraska!</b></font>
+4198919 4200785 <font face="Comic Sans MS" color="#ffff80"><b>- Yeah?<br />- You just kill somebody?</b></font>
+4200787 4202120 <font face="Comic Sans MS" color="#ffff80"><b>Well, he ain't well.</b></font>
+4202122 4203355 <font face="Comic Sans MS" color="#ffff80"><b>Untie my friend.</b></font>
+4203357 4204858 <font face="Comic Sans MS" color="#ffff80"><b>They got Rory. We gotta move.</b></font>
+4205325 4206559 <font face="Comic Sans MS" color="#ffff80"><b>Shit, they rough you up?</b></font>
+4206859 4208893 <font face="Comic Sans MS" color="#ffff80"><b>Did worse on myself,<br />back in the day.</b></font>
+4208895 4210128 <font face="Comic Sans MS" color="#ffff80"><b>(GRUNTING)</b></font>
+4210130 4211965 <font face="Comic Sans MS" color="#ffff80"><b>What do you want to do<br />with this guy?</b></font>
+4214702 4216468 <font face="Comic Sans MS" color="#ffff80"><b>Sorry, buddy,<br />that was a dumb question.</b></font>
+4216470 4217805 <font face="Comic Sans MS" color="#ffff80"><b>Yeah, that was<br />a dumb question.</b></font>
+4218572 4220140 <font face="Comic Sans MS" color="#ffff80"><b>(PANTING)</b></font>
+4225545 4226880 <font face="Comic Sans MS" color="#ffff80"><b>(LOW GROWLING)</b></font>
+4231019 4232020 <font face="Comic Sans MS" color="#ffff80"><b>QUINN: Casey!</b></font>
+4234888 4237091 <font face="Comic Sans MS" color="#ffff80"><b>Can I interest you in getting<br />the fuck out of here?</b></font>
+4237724 4239727 <font face="Comic Sans MS" color="#ffff80"><b>"Getting the fuck out of here"<br />is my middle name.</b></font>
+4240394 4242093 <font face="Comic Sans MS" color="#ffff80"><b>And I thought Gaylord was bad.</b></font>
+4242095 4243161 <font face="Comic Sans MS" color="#ffff80"><b>(QUINN GROANS)</b></font>
+4243163 4244364 <font face="Comic Sans MS" color="#ffff80"><b>(STOMACH GRUMBLING)</b></font>
+4244799 4246768 <font face="Comic Sans MS" color="#ffff80"><b>What? What's wrong?</b></font>
+4247367 4248969 <font face="Comic Sans MS" color="#ffff80"><b>(TOILET FLUSHING)</b></font>
+4250104 4251773 <font face="Comic Sans MS" color="#ffff80"><b>Whew! All right.</b></font>
+4251973 4254071 <font face="Comic Sans MS" color="#ffff80"><b>Hey! Just let me unpack this.</b></font>
+4254073 4255841 <font face="Comic Sans MS" color="#ffff80"><b>You're saying my son's headed<br />towards a spaceship</b></font>
+4255843 4257308 <font face="Comic Sans MS" color="#ffff80"><b>and so is a 10-foot alien.</b></font>
+4257310 4258610 <font face="Comic Sans MS" color="#ffff80"><b>Uh, 11, actually.</b></font>
+4258612 4259880 <font face="Comic Sans MS" color="#ffff80"><b>Used to be a contractor.</b></font>
+4260113 4261813 <font face="Comic Sans MS" color="#ffff80"><b>This thing is a hybrid?<br />What does that mean?</b></font>
+4261815 4263915 <font face="Comic Sans MS" color="#ffff80"><b>Meaning it's the Chinese menu<br />of DNA.</b></font>
+4263917 4265950 <font face="Comic Sans MS" color="#ffff80"><b>Comprised of the deadliest<br />species in the entire...</b></font>
+4265952 4267386 <font face="Comic Sans MS" color="#ffff80"><b>In the entire universe, yeah?</b></font>
+4267388 4268786 <font face="Comic Sans MS" color="#ffff80"><b>- Galaxy.<br />- What?</b></font>
+4268788 4270856 <font face="Comic Sans MS" color="#ffff80"><b>Galaxy. 250 billion stars.</b></font>
+4270858 4272726 <font face="Comic Sans MS" color="#ffff80"><b>Why go universe? Just saying.</b></font>
+4273193 4274729 <font face="Comic Sans MS" color="#ffff80"><b>(HELICOPTER WHIRRING)</b></font>
+4286607 4288606 <font face="Comic Sans MS" color="#ffff80"><b>Jesus Tap-Dancing Christ!</b></font>
+4288608 4289674 <font face="Comic Sans MS" color="#ffff80"><b>That's what you asked for?</b></font>
+4289676 4290877 <font face="Comic Sans MS" color="#ffff80"><b>Yeah, that'll do.</b></font>
+4292380 4293748 <font face="Comic Sans MS" color="#ffff80"><b>Saddle up!</b></font>
+4297151 4298853 <font face="Comic Sans MS" color="#ffff80"><b>COYLE: It's the best<br />we could do, man.</b></font>
+4301788 4302853 <font face="Comic Sans MS" color="#ffff80"><b>WILLIAMS: Go ahead. Go!</b></font>
+4302855 4304356 <font face="Comic Sans MS" color="#ffff80"><b>That's it? Another one.</b></font>
+4304358 4305490 <font face="Comic Sans MS" color="#ffff80"><b>QUINN: The other one!</b></font>
+4305492 4307060 <font face="Comic Sans MS" color="#ffff80"><b>Come on.<br />Let's go get my kid.</b></font>
+4310264 4312834 <font face="Comic Sans MS" color="#ffff80"><b>Figured something out.<br />I think we're gonna die.</b></font>
+4313701 4315734 <font face="Comic Sans MS" color="#ffff80"><b>We're gonna go hunt and fight<br />the what, the army?</b></font>
+4315736 4317002 <font face="Comic Sans MS" color="#ffff80"><b>COYLE: We're not gonna<br />fight the army...</b></font>
+4317004 4318771 <font face="Comic Sans MS" color="#ffff80"><b>BAXLEY: And some<br />fucking people from space!</b></font>
+4318773 4320341 <font face="Comic Sans MS" color="#ffff80"><b>You wanna talk survival, huh?</b></font>
+4320974 4321874 <font face="Comic Sans MS" color="#ffff80"><b>Fine!</b></font>
+4321876 4324209 <font face="Comic Sans MS" color="#ffff80"><b>You, yesterday,<br />you were on a prison bus</b></font>
+4324211 4325410 <font face="Comic Sans MS" color="#ffff80"><b>barking to yourself,</b></font>
+4325412 4327279 <font face="Comic Sans MS" color="#ffff80"><b>now you got a gun<br />in your hand.</b></font>
+4327281 4328649 <font face="Comic Sans MS" color="#ffff80"><b>Who's a survivor now?</b></font>
+4330350 4331717 <font face="Comic Sans MS" color="#ffff80"><b>We put bullets in our head</b></font>
+4331719 4333287 <font face="Comic Sans MS" color="#ffff80"><b>and walk<br />to the fucking hospital.</b></font>
+4333755 4335023 <font face="Comic Sans MS" color="#ffff80"><b>We're soldiers!</b></font>
+4336523 4337991 <font face="Comic Sans MS" color="#ffff80"><b>Nettles, what's our 20?</b></font>
+4338459 4340025 <font face="Comic Sans MS" color="#ffff80"><b>I can follow<br />your boy's chopper.</b></font>
+4340027 4341429 <font face="Comic Sans MS" color="#ffff80"><b>I locked into its frequency.</b></font>
+4355742 4357044 <font face="Comic Sans MS" color="#ffff80"><b>SOLDIER: Fence is hot!</b></font>
+4374261 4375830 <font face="Comic Sans MS" color="#ffff80"><b>(INDISTINCT RADIO CHATTER)</b></font>
+4376930 4378299 <font face="Comic Sans MS" color="#ffff80"><b>What do you say, buddy?</b></font>
+4379065 4380535 <font face="Comic Sans MS" color="#ffff80"><b>You think you can get us<br />in there?</b></font>
+4381234 4383403 <font face="Comic Sans MS" color="#ffff80"><b>Because I'm not sure<br />that you can.</b></font>
+4383836 4385272 <font face="Comic Sans MS" color="#ffff80"><b>Nice reverse psychology.</b></font>
+4385773 4387207 <font face="Comic Sans MS" color="#ffff80"><b>I can do that, too.</b></font>
+4387407 4388776 <font face="Comic Sans MS" color="#ffff80"><b>Don't go fuck yourself.</b></font>
+4390010 4391112 <font face="Comic Sans MS" color="#ffff80"><b>(LAUGHS)</b></font>
+4391912 4393480 <font face="Comic Sans MS" color="#ffff80"><b>TRAEGER: That's good. Come on.</b></font>
+4393880 4396248 <font face="Comic Sans MS" color="#ffff80"><b>Good. Almost up and running.<br />Five minutes.</b></font>
+4396250 4397115 <font face="Comic Sans MS" color="#ffff80"><b>TRAEGER: Right on.</b></font>
+4397117 4398618 <font face="Comic Sans MS" color="#ffff80"><b>It's a translator unit, Rory.</b></font>
+4398885 4400052 <font face="Comic Sans MS" color="#ffff80"><b>Been trying to figure out</b></font>
+4400054 4401518 <font face="Comic Sans MS" color="#ffff80"><b>what these<br />bird-chirping motherfuckers</b></font>
+4401520 4402855 <font face="Comic Sans MS" color="#ffff80"><b>been saying since '87.</b></font>
+4402857 4404655 <font face="Comic Sans MS" color="#ffff80"><b>Gave the Harvard School<br />of Linguistics</b></font>
+4404657 4405957 <font face="Comic Sans MS" color="#ffff80"><b>a billion-dollar grant.</b></font>
+4405959 4408328 <font face="Comic Sans MS" color="#ffff80"><b>Voila. Watch your step,<br />come on.</b></font>
+4420474 4423176 <font face="Comic Sans MS" color="#ffff80"><b>Goddamn, kid, I don't know<br />where you get it from.</b></font>
+4424377 4426214 <font face="Comic Sans MS" color="#ffff80"><b>(TRILLING)</b></font>
+4450403 4452570 <font face="Comic Sans MS" color="#ffff80"><b>TRAEGER: Put the translator<br />into the mainframe.</b></font>
+4452572 4453907 <font face="Comic Sans MS" color="#ffff80"><b>Download everything.</b></font>
+4460647 4461849 <font face="Comic Sans MS" color="#ffff80"><b>SAPIR: What the hell's<br />inside there?</b></font>
+4462082 4463781 <font face="Comic Sans MS" color="#ffff80"><b>It's property<br />of Project Stargazer.</b></font>
+4463783 4466019 <font face="Comic Sans MS" color="#ffff80"><b>That's what the fuck it is.<br />(LAUGHS)</b></font>
+4467854 4469353 <font face="Comic Sans MS" color="#ffff80"><b>OFFICER (ON COMMS):<br />Code three. Code three.</b></font>
+4469355 4470858 <font face="Comic Sans MS" color="#ffff80"><b>We have motion<br />at the south fence line.</b></font>
+4471224 4472692 <font face="Comic Sans MS" color="#ffff80"><b>Send a fireteam<br />to check it out.</b></font>
+4472960 4475263 <font face="Comic Sans MS" color="#ffff80"><b>That's my dad.<br />He's gonna come save me now.</b></font>
+4475696 4476930 <font face="Comic Sans MS" color="#ffff80"><b>Oh, is he?</b></font>
+4477965 4479466 <font face="Comic Sans MS" color="#ffff80"><b>Is that what he's gonna do?</b></font>
+4480065 4481501 <font face="Comic Sans MS" color="#ffff80"><b>I'll tell you what, buddy...</b></font>
+4482636 4483836 <font face="Comic Sans MS" color="#ffff80"><b>if it is your daddy,</b></font>
+4484170 4486206 <font face="Comic Sans MS" color="#ffff80"><b>and I truly hope that it is...</b></font>
+4486739 4488440 <font face="Comic Sans MS" color="#ffff80"><b>he's gotta be just about</b></font>
+4488442 4491979 <font face="Comic Sans MS" color="#ffff80"><b>the dumbest motherfucker<br />I've ever met. (LAUGHING)</b></font>
+4493947 4497382 <font face="Comic Sans MS" color="#ffff80"><b>I mean, a Ranger sniper<br />tripping wire sensors?</b></font>
+4497384 4498586 <font face="Comic Sans MS" color="#ffff80"><b>He's gotta be...</b></font>
+4500321 4501619 <font face="Comic Sans MS" color="#ffff80"><b>creating a diversion.</b></font>
+4501621 4503123 <font face="Comic Sans MS" color="#ffff80"><b>It's a fucking diversion.</b></font>
+4503489 4504556 <font face="Comic Sans MS" color="#ffff80"><b>(GRUNTS)</b></font>
+4504558 4505824 <font face="Comic Sans MS" color="#ffff80"><b>Oh, shit!</b></font>
+4505826 4507094 <font face="Comic Sans MS" color="#ffff80"><b>Wow. Howdy.</b></font>
+4507327 4509295 <font face="Comic Sans MS" color="#ffff80"><b>What, are you gonna kill us<br />with a fucking tranq gun?</b></font>
+4509862 4511565 <font face="Comic Sans MS" color="#ffff80"><b>You took my boy, so yeah.</b></font>
+4512332 4513334 <font face="Comic Sans MS" color="#ffff80"><b>Told you.</b></font>
+4514268 4515069 <font face="Comic Sans MS" color="#ffff80"><b>Take this, son.</b></font>
+4515502 4518136 <font face="Comic Sans MS" color="#ffff80"><b>You outta your mind? We<br />literally have you surrounded.</b></font>
+4518138 4519503 <font face="Comic Sans MS" color="#ffff80"><b>That's why<br />you're coming with me.</b></font>
+4519505 4521373 <font face="Comic Sans MS" color="#ffff80"><b>I just want the boy.<br />Nobody's got to die.</b></font>
+4521375 4522276 <font face="Comic Sans MS" color="#ffff80"><b>Dad?</b></font>
+4524745 4526143 <font face="Comic Sans MS" color="#ffff80"><b>From here forward.</b></font>
+4526145 4527915 <font face="Comic Sans MS" color="#ffff80"><b>Don't look at the dead guy.</b></font>
+4542196 4543464 <font face="Comic Sans MS" color="#ffff80"><b>(GRUNTING)</b></font>
+4548402 4549668 <font face="Comic Sans MS" color="#ffff80"><b>That was pretty good.</b></font>
+4549670 4550835 <font face="Comic Sans MS" color="#ffff80"><b>You all right? Did I get you?</b></font>
+4550837 4552038 <font face="Comic Sans MS" color="#ffff80"><b>No, I'm good.</b></font>
+4552773 4553937 <font face="Comic Sans MS" color="#ffff80"><b>Welcome back.</b></font>
+4553939 4555242 <font face="Comic Sans MS" color="#ffff80"><b>Fuck you. I never left.</b></font>
+4558045 4559244 <font face="Comic Sans MS" color="#ffff80"><b>You open your mouth,</b></font>
+4559246 4561079 <font face="Comic Sans MS" color="#ffff80"><b>I'm gonna blow your brains<br />right through it.</b></font>
+4561081 4562215 <font face="Comic Sans MS" color="#ffff80"><b>Come on, just get behind me.</b></font>
+4562616 4564548 <font face="Comic Sans MS" color="#ffff80"><b>SOLDIER (ON RADIO):<br />All units. They got Traeger.</b></font>
+4564550 4565585 <font face="Comic Sans MS" color="#ffff80"><b>They got Traeger.</b></font>
+4567019 4568354 <font face="Comic Sans MS" color="#ffff80"><b>(SOFTLY) Let's go. Let's go.</b></font>
+4568889 4570625 <font face="Comic Sans MS" color="#ffff80"><b>Just tell them<br />to put the guns down.</b></font>
+4580434 4581469 <font face="Comic Sans MS" color="#ffff80"><b>Tell them!</b></font>
+4583237 4584802 <font face="Comic Sans MS" color="#ffff80"><b>If Captain McKenna<br />doesn't lower his weapon</b></font>
+4584804 4585771 <font face="Comic Sans MS" color="#ffff80"><b>in the next 10 seconds...</b></font>
+4586038 4587838 <font face="Comic Sans MS" color="#ffff80"><b>shoot the kid's knees out.<br />That work for you?</b></font>
+4587840 4589108 <font face="Comic Sans MS" color="#ffff80"><b>Oh, that's a really bad idea.</b></font>
+4589376 4591642 <font face="Comic Sans MS" color="#ffff80"><b>My guys got this place covered<br />on every angle.</b></font>
+4591644 4593611 <font face="Comic Sans MS" color="#ffff80"><b>That's a funny story.<br />See, I don't give a shit.</b></font>
+4593613 4594547 <font face="Comic Sans MS" color="#ffff80"><b>10.</b></font>
+4595815 4597050 <font face="Comic Sans MS" color="#ffff80"><b>Nine.</b></font>
+4597617 4598618 <font face="Comic Sans MS" color="#ffff80"><b>Eight.</b></font>
+4599920 4600921 <font face="Comic Sans MS" color="#ffff80"><b>Seven.</b></font>
+4601455 4603621 <font face="Comic Sans MS" color="#ffff80"><b>Come on, you just give<br />the fucking word, man.</b></font>
+4603623 4604688 <font face="Comic Sans MS" color="#ffff80"><b>TRAEGER: Six. Five.</b></font>
+4604690 4606091 <font face="Comic Sans MS" color="#ffff80"><b>(PREDATOR CLICKING)</b></font>
+4606093 4607694 <font face="Comic Sans MS" color="#ffff80"><b>(PREDATOR GRUNTING)</b></font>
+4608562 4609563 <font face="Comic Sans MS" color="#ffff80"><b>(GRUNTS)</b></font>
+4610697 4611896 <font face="Comic Sans MS" color="#ffff80"><b>(GROWLING)</b></font>
+4611898 4614000 <font face="Comic Sans MS" color="#ffff80"><b>(SCREAMING)</b></font>
+4615269 4617004 <font face="Comic Sans MS" color="#ffff80"><b>(YELLING)</b></font>
+4619907 4621442 <font face="Comic Sans MS" color="#ffff80"><b>- (DISTANT YELLING)<br />- Oh, shit!</b></font>
+4621809 4623075 <font face="Comic Sans MS" color="#ffff80"><b>(GRUNTING)</b></font>
+4623077 4624345 <font face="Comic Sans MS" color="#ffff80"><b>Come on, son!</b></font>
+4625446 4626844 <font face="Comic Sans MS" color="#ffff80"><b>(INDISTINCT SHOUTING)</b></font>
+4626846 4628081 <font face="Comic Sans MS" color="#ffff80"><b>Take them down!</b></font>
+4633987 4635119 <font face="Comic Sans MS" color="#ffff80"><b>Get down, sir.</b></font>
+4635121 4636754 <font face="Comic Sans MS" color="#ffff80"><b>Let's go, son. Go!</b></font>
+4636756 4638091 <font face="Comic Sans MS" color="#ffff80"><b>SOLDIER: Come on. Come on.</b></font>
+4643863 4645565 <font face="Comic Sans MS" color="#ffff80"><b>Okay, take this. (SPITS)</b></font>
+4646899 4647966 <font face="Comic Sans MS" color="#ffff80"><b>You wanna vanish,</b></font>
+4647968 4649603 <font face="Comic Sans MS" color="#ffff80"><b>you really vanish, son,<br />you understand?</b></font>
+4649903 4652339 <font face="Comic Sans MS" color="#ffff80"><b>All right, we're going home.<br />I promise you.</b></font>
+4657577 4658980 <font face="Comic Sans MS" color="#ffff80"><b>(PREDATOR GROWLS)</b></font>
+4662049 4663250 <font face="Comic Sans MS" color="#ffff80"><b>It's here.</b></font>
+4669822 4671424 <font face="Comic Sans MS" color="#ffff80"><b>- (PREDATOR GROWLS)<br />- No! No! No!</b></font>
+4677363 4678897 <font face="Comic Sans MS" color="#ffff80"><b>SOLDIER 2: Come on,<br />go around the end there!</b></font>
+4679264 4680599 <font face="Comic Sans MS" color="#ffff80"><b>Stay on him!<br />Stay on him!</b></font>
+4680901 4682167 <font face="Comic Sans MS" color="#ffff80"><b>Move, move, move!</b></font>
+4682169 4683671 <font face="Comic Sans MS" color="#ffff80"><b>- You got him?<br />- SOLDIER 3: Yeah!</b></font>
+4695114 4696815 <font face="Comic Sans MS" color="#ffff80"><b>- (EXPLOSION)<br />- QUINN: Stay back.</b></font>
+4696817 4698152 <font face="Comic Sans MS" color="#ffff80"><b>Get down! Get down!</b></font>
+4700386 4704491 <font face="Comic Sans MS" color="#ffff80"><b>SOLDIER 4: Cease fire!<br />Cease fire! Cease fire!</b></font>
+4713733 4715902 <font face="Comic Sans MS" color="#ffff80"><b>(LOW GROWLING)</b></font>
+4716303 4718372 <font face="Comic Sans MS" color="#ffff80"><b>(BOTH PANTING QUIETLY)</b></font>
+4731117 4732718 <font face="Comic Sans MS" color="#ffff80"><b>- COYLE: Huh?<br />- All right.</b></font>
+4732986 4734086 <font face="Comic Sans MS" color="#ffff80"><b>Hey, McKenna.</b></font>
+4734287 4737223 <font face="Comic Sans MS" color="#ffff80"><b>Be reasonable. There's six<br />of you, seven of us.</b></font>
+4737858 4739126 <font face="Comic Sans MS" color="#ffff80"><b>(GRUNTS)</b></font>
+4739326 4740258 <font face="Comic Sans MS" color="#ffff80"><b>Fuck!</b></font>
+4740260 4741829 <font face="Comic Sans MS" color="#ffff80"><b>Who taught you math?</b></font>
+4742062 4744265 <font face="Comic Sans MS" color="#ffff80"><b>You ain't the only<br />fucking sniper, white boy.</b></font>
+4746032 4748334 <font face="Comic Sans MS" color="#ffff80"><b>You can walk away<br />from this, Captain.</b></font>
+4748902 4750334 <font face="Comic Sans MS" color="#ffff80"><b>I just want the ship.</b></font>
+4750336 4752736 <font face="Comic Sans MS" color="#ffff80"><b>- Dad, he's lying.<br />- Yeah.</b></font>
+4752738 4754974 <font face="Comic Sans MS" color="#ffff80"><b>McKenna! I don't like this.</b></font>
+4755341 4756743 <font face="Comic Sans MS" color="#ffff80"><b>What's he doing in there?</b></font>
+4758778 4760214 <font face="Comic Sans MS" color="#ffff80"><b>(PREDATOR WARBLING)</b></font>
+4761282 4763684 <font face="Comic Sans MS" color="#ffff80"><b>- (LOUD WARBLING)<br />- (FEEDBACK WHINES)</b></font>
+4765452 4767521 <font face="Comic Sans MS" color="#ffff80"><b>(ALL GROAN)</b></font>
+4768656 4770357 <font face="Comic Sans MS" color="#ffff80"><b>It's using the translator.</b></font>
+4772358 4774327 <font face="Comic Sans MS" color="#ffff80"><b>PREDATOR (OVER SPEAKER):<br />Hello. I have enjoyed</b></font>
+4774528 4776096 <font face="Comic Sans MS" color="#ffff80"><b>watching you kill each other.</b></font>
+4776496 4778931 <font face="Comic Sans MS" color="#ffff80"><b>I came here<br />to destroy this vessel.</b></font>
+4779232 4781031 <font face="Comic Sans MS" color="#ffff80"><b>You cannot have it.</b></font>
+4781033 4783169 <font face="Comic Sans MS" color="#ffff80"><b>What you can do is run.</b></font>
+4783702 4786839 <font face="Comic Sans MS" color="#ffff80"><b>I detect one among you<br />who is a true warrior.</b></font>
+4787206 4789309 <font face="Comic Sans MS" color="#ffff80"><b>The one called McKenna.</b></font>
+4791144 4792580 <font face="Comic Sans MS" color="#ffff80"><b>He will be your leader.</b></font>
+4793179 4794580 <font face="Comic Sans MS" color="#ffff80"><b>He will be my prize.</b></font>
+4794915 4796783 <font face="Comic Sans MS" color="#ffff80"><b>I offer time advantage.</b></font>
+4797751 4798752 <font face="Comic Sans MS" color="#ffff80"><b>Go.</b></font>
+4799118 4800752 <font face="Comic Sans MS" color="#ffff80"><b>What the fuck<br />is time advantage?</b></font>
+4800754 4801822 <font face="Comic Sans MS" color="#ffff80"><b>Like a head start?</b></font>
+4802889 4805024 <font face="Comic Sans MS" color="#ffff80"><b>(ALARM SOUNDING)</b></font>
+4805325 4806894 <font face="Comic Sans MS" color="#ffff80"><b>I'm gonna wake up on a bus.</b></font>
+4807861 4809296 <font face="Comic Sans MS" color="#ffff80"><b>I'm gonna wake up on a bus.</b></font>
+4812065 4813265 <font face="Comic Sans MS" color="#ffff80"><b>Hey!</b></font>
+4813599 4814634 <font face="Comic Sans MS" color="#ffff80"><b>I'm coming out!</b></font>
+4824178 4825379 <font face="Comic Sans MS" color="#ffff80"><b>We're in.</b></font>
+4826112 4827579 <font face="Comic Sans MS" color="#ffff80"><b>- Baxley!<br />- Shit!</b></font>
+4827581 4829149 <font face="Comic Sans MS" color="#ffff80"><b>Watch where the fuck you're<br />throwing, dickhead.</b></font>
+4829616 4831318 <font face="Comic Sans MS" color="#ffff80"><b>- (VEHICLE ENGINE STALLING)<br />- Will do.</b></font>
+4832118 4834319 <font face="Comic Sans MS" color="#ffff80"><b>Okay, so we split up.<br />12 different directions.</b></font>
+4834321 4836221 <font face="Comic Sans MS" color="#ffff80"><b>- McKenna's the one he wants.<br />- TRAEGER: No, no, no!</b></font>
+4836223 4838490 <font face="Comic Sans MS" color="#ffff80"><b>We stay together,<br />or it'll take us one by one.</b></font>
+4838492 4839924 <font face="Comic Sans MS" color="#ffff80"><b>He's right. It's their MO.</b></font>
+4839926 4841927 <font face="Comic Sans MS" color="#ffff80"><b>- Grow a dick, will you?<br />- SOLDIER: Nothing's starting!</b></font>
+4841929 4844197 <font face="Comic Sans MS" color="#ffff80"><b>Son of a bitch. He must have<br />hacked the vehicles.</b></font>
+4844397 4846798 <font face="Comic Sans MS" color="#ffff80"><b>If we can get to the helicopter,<br />go two klicks north.</b></font>
+4846800 4847601 <font face="Comic Sans MS" color="#ffff80"><b>- Got you.<br />- Hey?</b></font>
+4847867 4849935 <font face="Comic Sans MS" color="#ffff80"><b>When this is over, you and me,<br />we're gonna dance.</b></font>
+4849937 4851102 <font face="Comic Sans MS" color="#ffff80"><b>I got my shoes all picked out.</b></font>
+4851104 4852306 <font face="Comic Sans MS" color="#ffff80"><b>All right.</b></font>
+4858278 4860177 <font face="Comic Sans MS" color="#ffff80"><b>(SOFT GROWLING)</b></font>
+4860179 4862248 <font face="Comic Sans MS" color="#ffff80"><b>- Fuck.<br />- No, no, no! Don't.</b></font>
+4862983 4864885 <font face="Comic Sans MS" color="#ffff80"><b>Here, boy. Fetch.</b></font>
+4866053 4867652 <font face="Comic Sans MS" color="#ffff80"><b>- (CREATURE BARKS)<br />- Here, boy. (WHISTLES)</b></font>
+4867654 4868656 <font face="Comic Sans MS" color="#ffff80"><b>Here you go.</b></font>
+4871424 4873194 <font face="Comic Sans MS" color="#ffff80"><b>That was a valuable weapon.</b></font>
+4875062 4876830 <font face="Comic Sans MS" color="#ffff80"><b>Let's go.<br />He'll be coming for us.</b></font>
+4877797 4879567 <font face="Comic Sans MS" color="#ffff80"><b>(ALARM BLARING)</b></font>
+4903689 4905023 <font face="Comic Sans MS" color="#ffff80"><b>(WARBLING)</b></font>
+4905257 4906460 <font face="Comic Sans MS" color="#ffff80"><b>(DEVICE BEEPS)</b></font>
+4915434 4916903 <font face="Comic Sans MS" color="#ffff80"><b>Give me the goody bag.</b></font>
+4918438 4921105 <font face="Comic Sans MS" color="#ffff80"><b>Hey. On Halloween,<br />this blew up a whole house.</b></font>
+4921107 4922707 <font face="Comic Sans MS" color="#ffff80"><b>- How do you shoot it?<br />- You don't.</b></font>
+4922709 4924976 <font face="Comic Sans MS" color="#ffff80"><b>It just fires by itself<br />when it's being attacked.</b></font>
+4924978 4926547 <font face="Comic Sans MS" color="#ffff80"><b>Seriously? Oh, shit.</b></font>
+4928114 4929750 <font face="Comic Sans MS" color="#ffff80"><b>(MAN COUGHING)</b></font>
+4930951 4932786 <font face="Comic Sans MS" color="#ffff80"><b>(FAINT RUSTLING)</b></font>
+4934920 4936254 <font face="Comic Sans MS" color="#ffff80"><b>I heard something.</b></font>
+4936256 4938558 <font face="Comic Sans MS" color="#ffff80"><b>TRAEGER: Hey, man.<br />That's Predator technology.</b></font>
+4939725 4940892 <font face="Comic Sans MS" color="#ffff80"><b>Fuck.</b></font>
+4940894 4942393 <font face="Comic Sans MS" color="#ffff80"><b>That... It's gonna come back.</b></font>
+4942395 4944398 <font face="Comic Sans MS" color="#ffff80"><b>You got, uh, a catcher<br />on the wrist.</b></font>
+4944965 4946267 <font face="Comic Sans MS" color="#ffff80"><b>That's gonna come back.</b></font>
+4947667 4948669 <font face="Comic Sans MS" color="#ffff80"><b>No!</b></font>
+4949501 4951604 <font face="Comic Sans MS" color="#ffff80"><b>- (SCREAMING)<br />- Quiet. Quiet.</b></font>
+4952404 4954204 <font face="Comic Sans MS" color="#ffff80"><b>- Let me see. Let me see.<br />- My fucking hand.</b></font>
+4954206 4955709 <font face="Comic Sans MS" color="#ffff80"><b>- Shit.<br />- My fucking hand.</b></font>
+4958011 4959279 <font face="Comic Sans MS" color="#ffff80"><b>Gotta be quiet.</b></font>
+4964283 4965518 <font face="Comic Sans MS" color="#ffff80"><b>(SCREAMING)</b></font>
+4969822 4971392 <font face="Comic Sans MS" color="#ffff80"><b>(PREDATOR WARBLES)</b></font>
+4977964 4979065 <font face="Comic Sans MS" color="#ffff80"><b>Moving!</b></font>
+4994980 4997451 <font face="Comic Sans MS" color="#ffff80"><b>No, no, no!<br />This way. This way. This way.</b></font>
+4998550 4999819 <font face="Comic Sans MS" color="#ffff80"><b>There's a clearing up ahead.</b></font>
+5000187 5002520 <font face="Comic Sans MS" color="#ffff80"><b>Lynch left some pyro up there.<br />To cover our retreat.</b></font>
+5002522 5004321 <font face="Comic Sans MS" color="#ffff80"><b>Let's find it<br />and trap the motherfucker.</b></font>
+5004323 5006826 <font face="Comic Sans MS" color="#ffff80"><b>You guys go set it up.<br />We'll lure him in.</b></font>
+5007126 5008826 <font face="Comic Sans MS" color="#ffff80"><b>- Who?<br />- You and me.</b></font>
+5008828 5009828 <font face="Comic Sans MS" color="#ffff80"><b>Yeah? All right.</b></font>
+5010095 5011698 <font face="Comic Sans MS" color="#ffff80"><b>- Yeah.<br />- Let's go.</b></font>
+5012732 5013734 <font face="Comic Sans MS" color="#ffff80"><b>Come on.</b></font>
+5015469 5017133 <font face="Comic Sans MS" color="#ffff80"><b>Can I talk to you<br />for a second?</b></font>
+5017135 5018369 <font face="Comic Sans MS" color="#ffff80"><b>What's this "we" shit?</b></font>
+5018371 5019670 <font face="Comic Sans MS" color="#ffff80"><b>What, are you gonna<br />live forever, Coyle?</b></font>
+5019672 5021338 <font face="Comic Sans MS" color="#ffff80"><b>- Just calm down.<br />- COYLE: Calm down?</b></font>
+5021340 5024275 <font face="Comic Sans MS" color="#ffff80"><b>Me, calm down?<br />Yeah, okay, thanks, twitchy.</b></font>
+5024277 5026480 <font face="Comic Sans MS" color="#ffff80"><b>Move, move, move!<br />Up here. Up, up, up.</b></font>
+5044031 5045565 <font face="Comic Sans MS" color="#ffff80"><b>(OWL HOOTING)</b></font>
+5048468 5050504 <font face="Comic Sans MS" color="#ffff80"><b>- (INDISTINCT ANIMAL CROAKING)<br />- Shit!</b></font>
+5053139 5054407 <font face="Comic Sans MS" color="#ffff80"><b>Okay, fuck this.</b></font>
+5055475 5057009 <font face="Comic Sans MS" color="#ffff80"><b>Hey! Asshole!</b></font>
+5057410 5058443 <font face="Comic Sans MS" color="#ffff80"><b>What the fuck was that?</b></font>
+5058711 5060414 <font face="Comic Sans MS" color="#ffff80"><b>COYLE: It's a chance for you<br />to survive.</b></font>
+5061114 5062181 <font face="Comic Sans MS" color="#ffff80"><b>Go! I got this.</b></font>
+5062482 5064518 <font face="Comic Sans MS" color="#ffff80"><b>That's the stupidest fucking<br />thing I've ever heard.</b></font>
+5070690 5072593 <font face="Comic Sans MS" color="#ffff80"><b>Come and get us, asshole!</b></font>
+5074794 5075893 <font face="Comic Sans MS" color="#ffff80"><b>Contact!</b></font>
+5075895 5077163 <font face="Comic Sans MS" color="#ffff80"><b>- Alien!<br />- Contact!</b></font>
+5079265 5080765 <font face="Comic Sans MS" color="#ffff80"><b>- Contact!<br />- Alien!</b></font>
+5080767 5081969 <font face="Comic Sans MS" color="#ffff80"><b>- Contact!<br />- He's coming!</b></font>
+5087407 5089309 <font face="Comic Sans MS" color="#ffff80"><b>Come on. Come on. Come on.</b></font>
+5089542 5091812 <font face="Comic Sans MS" color="#ffff80"><b>(FAINT WARBLING)</b></font>
+5101354 5102989 <font face="Comic Sans MS" color="#ffff80"><b>(FAINT GROWLING)</b></font>
+5113032 5114100 <font face="Comic Sans MS" color="#ffff80"><b>(GROANS)</b></font>
+5136689 5137723 <font face="Comic Sans MS" color="#ffff80"><b>(GRUNTS)</b></font>
+5146800 5147899 <font face="Comic Sans MS" color="#ffff80"><b>(SOFT GROAN)</b></font>
+5147901 5148902 <font face="Comic Sans MS" color="#ffff80"><b>Light him up!</b></font>
+5155375 5157578 <font face="Comic Sans MS" color="#ffff80"><b>(PAINED SCREECHING)</b></font>
+5164184 5165786 <font face="Comic Sans MS" color="#ffff80"><b>BAXLEY: Coyle!</b></font>
+5166720 5167721 <font face="Comic Sans MS" color="#ffff80"><b>Bax, no!</b></font>
+5170122 5171491 <font face="Comic Sans MS" color="#ffff80"><b>(YELLS)</b></font>
+5172692 5174928 <font face="Comic Sans MS" color="#ffff80"><b>- (LAUGHS)<br />- Traeger!</b></font>
+5179965 5181602 <font face="Comic Sans MS" color="#ffff80"><b>(SCREECHING)</b></font>
+5182434 5183869 <font face="Comic Sans MS" color="#ffff80"><b>Baxley!</b></font>
+5183871 5184872 <font face="Comic Sans MS" color="#ffff80"><b>BAXLEY: Die!</b></font>
+5188241 5189743 <font face="Comic Sans MS" color="#ffff80"><b>- (GRUNTS)<br />- (GASPS)</b></font>
+5194214 5196183 <font face="Comic Sans MS" color="#ffff80"><b>(PREDATOR SCREECHING)</b></font>
+5198518 5199953 <font face="Comic Sans MS" color="#ffff80"><b>(GRUNTS)</b></font>
+5202121 5203122 <font face="Comic Sans MS" color="#ffff80"><b>(WATER SPLASHES)</b></font>
+5203889 5205725 <font face="Comic Sans MS" color="#ffff80"><b>Oh, shit.</b></font>
+5205992 5207060 <font face="Comic Sans MS" color="#ffff80"><b>Fuck.</b></font>
+5226144 5227281 <font face="Comic Sans MS" color="#ffff80"><b>(BOTH GRUNT)</b></font>
+5229515 5230817 <font face="Comic Sans MS" color="#ffff80"><b>WILLIAMS: Move, move!</b></font>
+5234020 5235022 <font face="Comic Sans MS" color="#ffff80"><b>(ALL GRUNTING)</b></font>
+5236389 5237924 <font face="Comic Sans MS" color="#ffff80"><b>- QUINN: Nettles!<br />- CASEY: Let's go!</b></font>
+5241426 5242795 <font face="Comic Sans MS" color="#ffff80"><b>(GROWLS)</b></font>
+5244263 5245899 <font face="Comic Sans MS" color="#ffff80"><b>PREDATOR: McKenna.</b></font>
+5248835 5249937 <font face="Comic Sans MS" color="#ffff80"><b>Rory.</b></font>
+5250536 5251537 <font face="Comic Sans MS" color="#ffff80"><b>I love you.</b></font>
+5251871 5254204 <font face="Comic Sans MS" color="#ffff80"><b>Hey! I'm the one you want.</b></font>
+5254206 5256642 <font face="Comic Sans MS" color="#ffff80"><b>Right here! Come on! You...</b></font>
+5257544 5259110 <font face="Comic Sans MS" color="#ffff80"><b>RORY: Dad!</b></font>
+5259112 5260113 <font face="Comic Sans MS" color="#ffff80"><b>No!</b></font>
+5264184 5265185 <font face="Comic Sans MS" color="#ffff80"><b>Dad!</b></font>
+5268921 5270156 <font face="Comic Sans MS" color="#ffff80"><b>(GROANING)</b></font>
+5271523 5273160 <font face="Comic Sans MS" color="#ffff80"><b>(WARBLING)</b></font>
+5274560 5277229 <font face="Comic Sans MS" color="#ffff80"><b>- No! No! No!<br />- McKenna</b></font>
+5278331 5279663 <font face="Comic Sans MS" color="#ffff80"><b>No! No!</b></font>
+5279665 5282031 <font face="Comic Sans MS" color="#ffff80"><b>I hate you,<br />you stupid fucking...</b></font>
+5282033 5283804 <font face="Comic Sans MS" color="#ffff80"><b>No! No!</b></font>
+5284336 5285571 <font face="Comic Sans MS" color="#ffff80"><b>He said he wanted me.</b></font>
+5285837 5287538 <font face="Comic Sans MS" color="#ffff80"><b>He said he wanted me!</b></font>
+5287540 5289874 <font face="Comic Sans MS" color="#ffff80"><b>No. He said he wanted McKenna.</b></font>
+5289876 5292479 <font face="Comic Sans MS" color="#ffff80"><b>The next step<br />in the evolutionary chain.</b></font>
+5292813 5295047 <font face="Comic Sans MS" color="#ffff80"><b>Not you. Your son.</b></font>
+5297317 5298618 <font face="Comic Sans MS" color="#ffff80"><b>(GRUNTS)</b></font>
+5300287 5302055 <font face="Comic Sans MS" color="#ffff80"><b>(PANTING)</b></font>
+5307626 5308993 <font face="Comic Sans MS" color="#ffff80"><b>(GRUNTS)</b></font>
+5308995 5310631 <font face="Comic Sans MS" color="#ffff80"><b>(PANTING)</b></font>
+5312031 5313300 <font face="Comic Sans MS" color="#ffff80"><b>NETTLES: Yo, he's taking off.</b></font>
+5315669 5317004 <font face="Comic Sans MS" color="#ffff80"><b>(SCREAMS)</b></font>
+5320273 5321708 <font face="Comic Sans MS" color="#ffff80"><b>No!</b></font>
+5322274 5323643 <font face="Comic Sans MS" color="#ffff80"><b>(GRUNTING)</b></font>
+5323876 5325642 <font face="Comic Sans MS" color="#ffff80"><b>Come on, man. Come on.</b></font>
+5325644 5326979 <font face="Comic Sans MS" color="#ffff80"><b>- Come on.<br />- (SCREAMS)</b></font>
+5337523 5338825 <font face="Comic Sans MS" color="#ffff80"><b>Let's take it down!</b></font>
+5339125 5340193 <font face="Comic Sans MS" color="#ffff80"><b>Come on!</b></font>
+5347532 5348868 <font face="Comic Sans MS" color="#ffff80"><b>(GRUNTS)</b></font>
+5358278 5359446 <font face="Comic Sans MS" color="#ffff80"><b>Hang on!</b></font>
+5361648 5362812 <font face="Comic Sans MS" color="#ffff80"><b>(ALL GRUNTING)</b></font>
+5362814 5365685 <font face="Comic Sans MS" color="#ffff80"><b>NETTLES: Fuck! Nebraska!</b></font>
+5369322 5371425 <font face="Comic Sans MS" color="#ffff80"><b>(ALL STRAINING)</b></font>
+5376595 5377830 <font face="Comic Sans MS" color="#ffff80"><b>(YELLING)</b></font>
+5382669 5383870 <font face="Comic Sans MS" color="#ffff80"><b>I got you!</b></font>
+5385205 5386473 <font face="Comic Sans MS" color="#ffff80"><b>(PANTING)</b></font>
+5391178 5394480 <font face="Comic Sans MS" color="#ffff80"><b>Dad, there's a force field<br />coming online. Look out!</b></font>
+5398451 5400787 <font face="Comic Sans MS" color="#ffff80"><b>Guys! Something's coming!</b></font>
+5403156 5404224 <font face="Comic Sans MS" color="#ffff80"><b>Go!</b></font>
+5405492 5407160 <font face="Comic Sans MS" color="#ffff80"><b>(ALL GRUNTING)</b></font>
+5411663 5412866 <font face="Comic Sans MS" color="#ffff80"><b>Netty!</b></font>
+5414099 5415102 <font face="Comic Sans MS" color="#ffff80"><b>(GROANS)</b></font>
+5417237 5419172 <font face="Comic Sans MS" color="#ffff80"><b>(SCREAMS) Fuck!</b></font>
+5419639 5420741 <font face="Comic Sans MS" color="#ffff80"><b>Netty!</b></font>
+5427380 5428915 <font face="Comic Sans MS" color="#ffff80"><b>(COUGHING)</b></font>
+5430349 5431516 <font face="Comic Sans MS" color="#ffff80"><b>QUINN: Hey, hey, hey.</b></font>
+5431518 5433086 <font face="Comic Sans MS" color="#ffff80"><b>No, no, no! Bro!</b></font>
+5434086 5435087 <font face="Comic Sans MS" color="#ffff80"><b>Bro.</b></font>
+5438224 5440227 <font face="Comic Sans MS" color="#ffff80"><b>(ENGINE WHOOSHING)</b></font>
+5443129 5444430 <font face="Comic Sans MS" color="#ffff80"><b>No.</b></font>
+5445331 5446433 <font face="Comic Sans MS" color="#ffff80"><b>(LAUGHS)</b></font>
+5448100 5450036 <font face="Comic Sans MS" color="#ffff80"><b>(YELLING)</b></font>
+5454006 5455075 <font face="Comic Sans MS" color="#ffff80"><b>Fuck!</b></font>
+5474660 5476162 <font face="Comic Sans MS" color="#ffff80"><b>(GRUNTS)</b></font>
+5489375 5491044 <font face="Comic Sans MS" color="#ffff80"><b>(GROWLS)</b></font>
+5494447 5496082 <font face="Comic Sans MS" color="#ffff80"><b>- (ROARS)<br />- (YELLS)</b></font>
+5519872 5521308 <font face="Comic Sans MS" color="#ffff80"><b>(YELLING)</b></font>
+5533353 5534955 <font face="Comic Sans MS" color="#ffff80"><b>(PANTING)</b></font>
+5544697 5546399 <font face="Comic Sans MS" color="#ffff80"><b>(GRUNTING)</b></font>
+5571690 5572893 <font face="Comic Sans MS" color="#ffff80"><b>Shit!</b></font>
+5579866 5581067 <font face="Comic Sans MS" color="#ffff80"><b>Rory!</b></font>
+5583502 5584603 <font face="Comic Sans MS" color="#ffff80"><b>(ROARS)</b></font>
+5586538 5588474 <font face="Comic Sans MS" color="#ffff80"><b>(SCREECHING)</b></font>
+5589541 5590509 <font face="Comic Sans MS" color="#ffff80"><b>(GROWLS)</b></font>
+5598852 5600487 <font face="Comic Sans MS" color="#ffff80"><b>(PREDATOR GROWLING)</b></font>
+5607593 5609429 <font face="Comic Sans MS" color="#ffff80"><b>(GRUNTING)</b></font>
+5612331 5613696 <font face="Comic Sans MS" color="#ffff80"><b>(SCREAMS)</b></font>
+5613698 5615134 <font face="Comic Sans MS" color="#ffff80"><b>(GROANS)</b></font>
+5617836 5619171 <font face="Comic Sans MS" color="#ffff80"><b>(PREDATOR GROANS)</b></font>
+5623910 5626211 <font face="Comic Sans MS" color="#ffff80"><b>- (GROWLING)<br />- (GASPS)</b></font>
+5628714 5629983 <font face="Comic Sans MS" color="#ffff80"><b>(PREDATOR BELLOWS)</b></font>
+5633051 5634520 <font face="Comic Sans MS" color="#ffff80"><b>(SCREECHES)</b></font>
+5635888 5637122 <font face="Comic Sans MS" color="#ffff80"><b>(ROARS)</b></font>
+5638190 5639392 <font face="Comic Sans MS" color="#ffff80"><b>Toss it!</b></font>
+5655974 5657475 <font face="Comic Sans MS" color="#ffff80"><b>(BEEPING)</b></font>
+5657477 5658478 <font face="Comic Sans MS" color="#ffff80"><b>(CREATURE WHINES)</b></font>
+5661846 5663116 <font face="Comic Sans MS" color="#ffff80"><b>(ROARS)</b></font>
+5682969 5684304 <font face="Comic Sans MS" color="#ffff80"><b>(PREDATOR WHIMPERS)</b></font>
+5693380 5694578 <font face="Comic Sans MS" color="#ffff80"><b>What are you?</b></font>
+5695152 5696558 <font face="Comic Sans MS" color="#ffff80"><b>FUCK YOU<br />(SPEAKING ALIEN LANGUAGE)</b></font>
+5696648 5697616 <font face="Comic Sans MS" color="#ffff80"><b>Shut the fuck up.</b></font>
+5698783 5700219 <font face="Comic Sans MS" color="#ffff80"><b>(GASPS)</b></font>
+5718336 5719538 <font face="Comic Sans MS" color="#ffff80"><b>My unit.</b></font>
+5721873 5723175 <font face="Comic Sans MS" color="#ffff80"><b>Nettles.</b></font>
+5725411 5726578 <font face="Comic Sans MS" color="#ffff80"><b>Coyle.</b></font>
+5729014 5730816 <font face="Comic Sans MS" color="#ffff80"><b>I see you saw Lynch's card.</b></font>
+5733251 5735421 <font face="Comic Sans MS" color="#ffff80"><b>Baxley had this<br />the whole time.</b></font>
+5738757 5740225 <font face="Comic Sans MS" color="#ffff80"><b>Nebraska's bad habit.</b></font>
+5741727 5742796 <font face="Comic Sans MS" color="#ffff80"><b>Son...</b></font>
+5743095 5745431 <font face="Comic Sans MS" color="#ffff80"><b>these are the ones<br />that no one's gonna remember.</b></font>
+5746599 5747800 <font face="Comic Sans MS" color="#ffff80"><b>Just us.</b></font>
+5748434 5750370 <font face="Comic Sans MS" color="#ffff80"><b>What do you say<br />we put them to rest?</b></font>
+5788241 5791544 <font face="Comic Sans MS" color="#ffff80"><b>(INDISTINCT ANNOUNCEMENT<br />OVER PA)</b></font>
+5794147 5795547 <font face="Comic Sans MS" color="#ffff80"><b>Captain McKenna.</b></font>
+5798550 5799517 <font face="Comic Sans MS" color="#ffff80"><b>Hiroshi Yamada.</b></font>
+5799519 5801387 <font face="Comic Sans MS" color="#ffff80"><b>- Sir.<br />- First things first.</b></font>
+5801586 5803920 <font face="Comic Sans MS" color="#ffff80"><b>I want to say thank you<br />for having such a great kid.</b></font>
+5803922 5804989 <font face="Comic Sans MS" color="#ffff80"><b>He loves it here.</b></font>
+5805224 5807091 <font face="Comic Sans MS" color="#ffff80"><b>Yeah, he's something else.<br />What do we got, Doctor?</b></font>
+5807093 5809161 <font face="Comic Sans MS" color="#ffff80"><b>Well, I assume<br />that you know by now,</b></font>
+5809461 5812130 <font face="Comic Sans MS" color="#ffff80"><b>but the first Predator,<br />it didn't come here to hunt us.</b></font>
+5812364 5814298 <font face="Comic Sans MS" color="#ffff80"><b>- He brought something.<br />- Exactly.</b></font>
+5814300 5815835 <font face="Comic Sans MS" color="#ffff80"><b>Now, you want<br />to hear the good news?</b></font>
+5817069 5818470 <font face="Comic Sans MS" color="#ffff80"><b>The cargo survived.</b></font>
+5819237 5820771 <font face="Comic Sans MS" color="#ffff80"><b>With some sort of fail-safe.</b></font>
+5820773 5823007 <font face="Comic Sans MS" color="#ffff80"><b>Before the upgrade Predator<br />blew up the ship,</b></font>
+5823242 5824475 <font face="Comic Sans MS" color="#ffff80"><b>a pod escaped.</b></font>
+5824477 5826246 <font face="Comic Sans MS" color="#ffff80"><b>Jettisoned.<br />Saved itself.</b></font>
+5827313 5830783 <font face="Comic Sans MS" color="#ffff80"><b>It seems that our boy<br />wasn't taking any chances.</b></font>
+5831216 5833350 <font face="Comic Sans MS" color="#ffff80"><b>He wanted us to have this.</b></font>
+5833352 5834821 <font face="Comic Sans MS" color="#ffff80"><b>(DOOR SLIDING OPEN)</b></font>
+5837122 5839325 <font face="Comic Sans MS" color="#ffff80"><b>(INDISTINCT ANNOUNCEMENT)</b></font>
+5847065 5849068 <font face="Comic Sans MS" color="#ffff80"><b>What is it again<br />you do here, exactly?</b></font>
+5849635 5852605 <font face="Comic Sans MS" color="#ffff80"><b>He's the world's number one<br />authority on cybernetics.</b></font>
+5854706 5856175 <font face="Comic Sans MS" color="#ffff80"><b>QUINN: Hey, kiddo.</b></font>
+5858243 5859409 <font face="Comic Sans MS" color="#ffff80"><b>RORY: Pretty cool, huh?</b></font>
+5859411 5860944 <font face="Comic Sans MS" color="#ffff80"><b>Pretty cool.<br />You got your own desk.</b></font>
+5860946 5862448 <font face="Comic Sans MS" color="#ffff80"><b>I'll make sure to tell Mom.</b></font>
+5863515 5867386 <font face="Comic Sans MS" color="#ffff80"><b>So, this is his gift<br />to humankind?</b></font>
+5873693 5876763 <font face="Comic Sans MS" color="#ffff80"><b>(STATIC INTERFERENCE)</b></font>
+5881265 5883234 <font face="Comic Sans MS" color="#ffff80"><b>- (ELECTRICITY CRACKLING)<br />- (WOMAN SCREAMS)</b></font>
+5883236 5885235 <font face="Comic Sans MS" color="#ffff80"><b>- MAN 1: Get back!<br />- MAN 2: Look out!</b></font>
+5885237 5886669 <font face="Comic Sans MS" color="#ffff80"><b>MAN 3: Everyone, stand back!</b></font>
+5886671 5887873 <font face="Comic Sans MS" color="#ffff80"><b>MAN 4: Stand back!<br />Clear the area!</b></font>
+5888073 5889741 <font face="Comic Sans MS" color="#ffff80"><b>(POD HISSING)</b></font>
+5890142 5891577 <font face="Comic Sans MS" color="#ffff80"><b>(INDISTINCT SHOUTING)</b></font>
+5894380 5896382 <font face="Comic Sans MS" color="#ffff80"><b>Dad, the pod<br />sent me a message.</b></font>
+5898550 5900886 <font face="Comic Sans MS" color="#ffff80"><b>- Rory, what's in that pod?<br />- Don't know!</b></font>
+5902321 5903788 <font face="Comic Sans MS" color="#ffff80"><b>Oh, wow... Oh, shit!</b></font>
+5903790 5905757 <font face="Comic Sans MS" color="#ffff80"><b>- It's got a name!<br />- Name? What name?</b></font>
+5906090 5908025 <font face="Comic Sans MS" color="#ffff80"><b>I guess you'd call it,</b></font>
+5908027 5909362 <font face="Comic Sans MS" color="#ffff80"><b>the Predator Killer.</b></font>
+5909694 5911797 <font face="Comic Sans MS" color="#ffff80"><b>- QUINN: Get him out of here!<br />- Come with me. Let's go.</b></font>
+5913299 5915132 <font face="Comic Sans MS" color="#ffff80"><b>SOLDIER 1: Get back.<br />Clear the area.</b></font>
+5915134 5916368 <font face="Comic Sans MS" color="#ffff80"><b>SOLDIER 2: Eyes on it.</b></font>
+5943062 5945364 <font face="Comic Sans MS" color="#ffff80"><b>(DEVICE TRILLING)</b></font>
+5948200 5950403 <font face="Comic Sans MS" color="#ffff80"><b>Whatever it is,<br />it appears to be dormant.</b></font>
+5950870 5953369 <font face="Comic Sans MS" color="#ffff80"><b>- I assume it needs to be...<br />- (WOMEN GASP)</b></font>
+5953371 5955941 <font face="Comic Sans MS" color="#ffff80"><b>SOLDIER: Eyes on.<br />Keep your weapons trained.</b></font>
+5956274 5958777 <font face="Comic Sans MS" color="#ffff80"><b>(GASPS) Get it off!<br />Get it off me!</b></font>
+5959045 5961047 <font face="Comic Sans MS" color="#ffff80"><b>(SCREAMING)</b></font>
+5991844 5993145 <font face="Comic Sans MS" color="#ffff80"><b>What the hell is that?</b></font>
+5993511 5995380 <font face="Comic Sans MS" color="#ffff80"><b>That's my new suit, bubba.</b></font>
+5997517 5999551 <font face="Comic Sans MS" color="#ffff80"><b>I hope they got it<br />in a 42 long.</b></font>
