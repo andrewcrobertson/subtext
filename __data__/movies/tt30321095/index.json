@@ -1,0 +1,31 @@
+{
+  "imdbId": "tt30321095",
+  "title": "Ghostlight",
+  "releaseDate": "2024-06-14T00:00:00.000Z",
+  "releaseYear": 2024,
+  "posterFileName": "poster.jpg",
+  "rated": "R",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "directors": [
+    "Kelly O'Sullivan",
+    "Alex Thompson"
+  ],
+  "writers": [
+    "Kelly O'Sullivan"
+  ],
+  "actors": [
+    "Keith Kupferer",
+    "Katherine Mallen Kupferer",
+    "Tara Mallen"
+  ],
+  "runTime": 115,
+  "plot": "When a construction worker unexpectedly joins a local theater's production of Romeo and Juliet, the drama onstage starts to mirror his own life.",
+  "subtitleIds": [
+    "59a60b44",
+    "a2423ac5"
+  ],
+  "isAvailable": true
+}
