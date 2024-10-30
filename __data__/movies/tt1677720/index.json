@@ -1,0 +1,40 @@
+{
+  "imdbId": "tt1677720",
+  "title": "Ready Player One",
+  "releaseDate": "2018-03-29T00:00:00.000Z",
+  "releaseYear": 2018,
+  "posterFileName": "poster.jpg",
+  "rated": "PG-13",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "directors": [
+    "Steven Spielberg"
+  ],
+  "writers": [
+    "Zak Penn",
+    "Ernest Cline"
+  ],
+  "actors": [
+    "Tye Sheridan",
+    "Olivia Cooke",
+    "Ben Mendelsohn"
+  ],
+  "runTime": 140,
+  "plot": "When the creator of a virtual reality called the OASIS dies, he makes a posthumous challenge to all OASIS users to find his Easter Egg, which will give the finder his fortune and control of his world.",
+  "subtitleIds": [
+    "552aa828",
+    "5a156646",
+    "311cb0",
+    "e32fd896",
+    "6b53a31c",
+    "d2c0b21a",
+    "d761310e",
+    "60d15aaf",
+    "43e0a01b",
+    "cc142974"
+  ],
+  "isAvailable": true
+}

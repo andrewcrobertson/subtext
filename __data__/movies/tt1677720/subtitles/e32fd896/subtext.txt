@@ -1,0 +1,1641 @@
+2785 5455 <font color="#ec14bd">Sync & corrections </Font> by <font color="Skyblue" size=10 face=Times New Roman>Blue-Bird™</font>
+5455 9254 <i><font color="#80ffff">Vod2srt </Font>by <font color="Lime">Blue-Bird™</font>
+78300 82370 <i><font color="#80ffff">Get ready for the<br />feel, the feel of real. X1.</font>
+82370 83940 <i><font color="#80ffff">No pain, no gain.</font>
+106030 107430 Pizza, guys.
+113370 114570 Whoo-hoo!
+129020 130550 Hello, Wade.
+130550 132290 Hello, Mrs. Gilmore.
+132290 134920 What's the matter? Life getting you down?
+139860 142390 <i><font color="#80ffff">I was born in 2027.</font>
+142400 146000 <i><font color="#80ffff">After the Corn Syrup Droughts,<br />after the Bandwidth Riots.</font>
+146000 148400 <i><font color="#80ffff">After people stopped trying<br />to fix problems</font>
+148400 150640 <i><font color="#80ffff">and just tried to outlive them.</font>
+157080 159740 <i><font color="#80ffff">My parents, they didn't make<br />it through those times,</font>
+159750 163710 <i><font color="#80ffff">so I live here in Columbus,<br />Ohio, with my Aunt Alice.</font>
+163720 169050 <i><font color="#80ffff">In 2045, Columbus is the<br />fastest-growing city on Earth.</font>
+169060 172330 <i><font color="#80ffff">It's where Halliday and Morrow<br />started Gregarious Games.</font>
+177060 179660 <i><font color="#80ffff">These days, reality is a bummer.</font>
+179660 181630 <i><font color="#80ffff">Everyone is looking for a way to escape,</font>
+181630 182960 <i><font color="#80ffff">and that's why Halliday...</font>
+182970 186000 <i><font color="#80ffff">That's why he was such a hero to us.</font>
+186000 189510 <i><font color="#80ffff">He showed us that we could go somewhere<br />without going anywhere at all.</font>
+191510 193080 <i><font color="#80ffff">You don't need a destination</font>
+193080 195010 <i><font color="#80ffff">when you're running on<br />an omnidirectional treadmill</font>
+195010 197280 <i><font color="#80ffff">with quadraphonic,<br />pressure-sensitive underlay.</font>
+198080 200680 <i><font color="#80ffff">James Halliday saw the future.</font>
+200680 202420 <i><font color="#80ffff">And then he built it.</font>
+202420 204590 <i><font color="#80ffff">He gave us a place to go.</font>
+204590 206920 <i><font color="#80ffff">A place called</font>
+206920 208290 <i><font color="#80ffff">the OASIS.</font>
+221470 223870 <i><font color="#80ffff">This is the OASIS.</font>
+223870 227980 <i><font color="#80ffff">It's a place where the limits of<br />reality are your own imagination.</font>
+241460 243530 <i><font color="#80ffff">You can do anything...</font>
+244560 245560 <i><font color="#80ffff">...go anywhere.</font>
+246990 248860 <i><font color="#80ffff">Like the vacation planet.</font>
+248860 251660 <i><font color="#80ffff">Surf a 50-foot monster wave in Hawaii.</font>
+251660 254570 <i><font color="#80ffff">You can ski down the pyramids.</font>
+254570 256470 <i><font color="#80ffff">You can climb Mount Everest</font>
+256470 257910 <i><font color="#80ffff">with Batman.</font>
+260670 264110 <i><font color="#80ffff">Check out this place. It's a<br />casino the size of a planet.</font>
+264110 265980 <i><font color="#80ffff">You can lose your money there.</font>
+265980 268180 <i><font color="#80ffff">You can get married. You can get divorced.</font>
+268180 272020 <i><font color="#80ffff">You can... You can go in there.</font>
+272020 275120 <i><font color="#80ffff">People come to the OASIS for<br />all the things they can do,</font>
+275120 278420 <i><font color="#80ffff">but they stay because of all<br />the things they can be.</font>
+279990 283760 <i><font color="#80ffff">Tall, beautiful, scary, a different sex,</font>
+283760 287000 <i><font color="#80ffff">a different species, live-action, cartoon.</font>
+287000 289600 <i><font color="#80ffff">It's all your call.</font>
+289600 292940 <i><font color="#80ffff">Yeah, that's me. Well, that's my avatar.</font>
+292940 296910 <i><font color="#80ffff">At least, until I feel like changing it.</font>
+296910 299140 <i><font color="#80ffff">Except for eating, sleeping,<br />and bathroom breaks,</font>
+299140 303210 <i><font color="#80ffff">whatever people wanna do,<br />they do it in the OASIS.</font>
+303210 306220 <i><font color="#80ffff">And since everyone is here, this<br />is where we meet each other.</font>
+306220 307750 <i><font color="#80ffff">It's where we make friends.</font>
+307750 310080 Locate Aech.
+310090 312160 <i><font color="#80ffff">Locating Aech.</font>
+315230 317090 <i><font color="#80ffff">Aech located.</font>
+317090 320590 <i><font color="#80ffff">Sector 12. Planet Doom.</font>
+320600 323930 <i><font color="#80ffff">Planet Doom, the most dangerous place<br />in the OASIS,</font>
+323930 327030 <i><font color="#80ffff">and a pretty great place to pick up coin.</font>
+327040 328570 <i><font color="#80ffff">Figures Aech would be there.</font>
+331240 334710 <i><font color="#80ffff">Aech is my best friend in the OASIS.</font>
+334710 337180 <i><font color="#80ffff">He's my best friend, period.</font>
+337180 340020 <i><font color="#80ffff">Even though I've never actually met him<br />in the real world.</font>
+344120 346250 <i><font color="#80ffff">- What's up, Aech?</i></font><br />- Hey, what up, Z?
+346250 348890 <i><font color="#80ffff">Next race is in 20 minutes,<br />and I can't do the late one.</font>
+348890 350590 <i><font color="#80ffff">What the hell are you up to?</font>
+350590 353230 Man, gettin' my kills on, bro.
+353230 354260 <i><font color="#80ffff">Is that Daito?</font>
+354260 356000 Daito and Sho.
+362270 363930 <i><font color="#80ffff">This an artifact hunt?</font>
+363940 366240 Yup. Gregarious 120.
+366240 370810 <i><font color="#80ffff">Turn into any giant robot<br />for two minutes. That's rad.</font>
+370810 372110 <i><font color="#80ffff">Artifacts.</font>
+372910 375780 <i><font color="#80ffff">Those were key.</font>
+375780 377950 <i><font color="#80ffff">Halliday made sure the OASIS was littered</font>
+377950 380650 <i><font color="#80ffff">with enough randomly powerful stuff</font>
+380650 385020 <i><font color="#80ffff">that anyone could win<br />if they had the skills.</font>
+385020 387860 <i><font color="#80ffff">Death matches and artifact hunts<br />are a good way to coin-snatch,</font>
+387860 390630 <i><font color="#80ffff">but depending on your level of armor,<br />they're risky.</font>
+392130 394260 <i><font color="#80ffff">You see, everyone starts the same,</font>
+394270 395930 <i><font color="#80ffff">but the more coin you make...</font>
+395930 398100 - Mom! Mom!<br /><i><font color="#80ffff">- ...the more you level up.</font>
+398100 400000 <i><font color="#80ffff">If you get killed, your avatar<br />can come back to life...</font>
+400000 401300 Go get your dad!
+401310 402780 <i><font color="#80ffff">...but you lose all your stuff.</font>
+404770 406540 <i><font color="#80ffff">Everything you've ever worked for.</font>
+407280 408940 <i><font color="#80ffff">All your money.</font>
+410980 412310 <i><font color="#80ffff">Your clothes.</font>
+414050 416120 <i><font color="#80ffff">Your weapons.</font>
+416120 418720 <i><font color="#80ffff">Since people spend most of their time<br />in the OASIS...</font>
+421560 423190 <i><font color="#80ffff">...losing your shit means...</font>
+423190 426030 <i><font color="#80ffff">Well, losing your shit.</font>
+428200 430830 Aech, 10 minutes until the race starts.
+430830 433030 <i><font color="#80ffff">Okay, Mom, I heard you.</font>
+433040 437170 <i><font color="#80ffff">You see, the OASIS was the brainchild<br />of James Halliday.</font>
+437170 442070 <i><font color="#80ffff">He and his partner, Ogden Morrow,<br />released the first OASIS build in 2025.</font>
+442080 446350 <i><font color="#80ffff">It was an instant success, and<br />it made them both very rich.</font>
+446350 449980 <i><font color="#80ffff">But Morrow was out of the picture<br />after a few years. And Halliday?</font>
+449980 453320 <i><font color="#80ffff">He wasn't just the owner<br />of the world's biggest company.</font>
+453320 457260 <i><font color="#80ffff">He was like a god. People loved him.</font>
+457260 459220 <i><font color="#80ffff">They worshiped him as much as his creation.</font>
+459230 462260 Maybe we should stop talking about it
+462260 464760 and start, uh, showing it.
+464760 467070 If you all wanna reach under your seats,
+467070 469200 you'll find that there's nothing there.
+469200 473610 But we're gonna... we're each<br />gonna bring you one now.
+473610 477740 <i><font color="#80ffff">And then, on January 7, 2040...</font>
+480380 481580 <i><font color="#80ffff">He died.</font>
+484620 486540 <i><font color="#80ffff">And what he left behind</font>
+487220 489060 <i><font color="#80ffff">changed everything.</font>
+489320 496320 FarangSiam thanks you.<br />Enjoy!
+502300 506330 Hello. I am James Halliday.
+506340 509970 If you're watching this, I'm dead.
+509970 515510 <i><font color="#80ffff">Before I died, I created what we<br />in the biz call an "Easter Egg".</font>
+517210 522760 <i><font color="#80ffff">A hidden object in a game that gives<br />special powers to whoever discovers it.</font>
+525350 528120 <i><font color="#80ffff">The first person to find the Egg</font>
+528120 531160 <i><font color="#80ffff">I've hidden somewhere inside the OASIS</font>
+531360 534900 <i><font color="#80ffff">will inherit my stock in Gregarious Games,</font>
+535400 538970 <i><font color="#80ffff">currently valued in excess<br />of half a million do...</font>
+539270 542270 <i><font color="#80ffff">Uh, half a trillion dollars' worth,</font>
+542270 547840 <i><font color="#80ffff">and total control of the OASIS itself.</font>
+548740 554250 In the form of my avatar,<br />Anorak the All-Knowing,
+554450 558120 I created three keys.
+558120 561560 Three hidden challenges<br />test for worthy traits
+561560 566100 revealing three hidden keys<br />to three magic gates.
+566100 570270 And those with the skill<br />to survive these straits
+570270 575080 will reach the end,<br />where the prize awaits.
+575080 577580 Off you go, keys.
+579710 584720 The keys aren't just laying<br />around under a rock somewhere.
+584720 587650 I suppose you could say they're invisible,
+587650 591390 hidden in a dark room<br />that's at the center of a maze
+591390 594300 that's located somewhere
+595290 597730 up here.
+597730 601570 Let the hunt for Halliday's Easter Egg
+602440 603730 begin.
+609780 612410 <i><font color="#80ffff">The challenge is to find three keys,</font>
+612410 616010 <i><font color="#80ffff">but in five years,<br />no one has even gotten one key.</font>
+616010 619020 <i><font color="#80ffff">And the big scoreboard? Still empty.</font>
+619020 620750 <i><font color="#80ffff">Some long-forgotten gunter<br />cracked the first clue</font>
+620750 622620 <i><font color="#80ffff">and found the first challenge.</font>
+622620 625520 <i><font color="#80ffff">Then, this portal appeared.</font>
+625520 628980 <i><font color="#80ffff">But the challenge to win the first key<br />was a race designed by Halliday</font>
+628990 631990 <i><font color="#80ffff">that was so hard,<br />no one had ever finished it.</font>
+631990 635690 <i><font color="#80ffff">The only ones still trying are the gunters,<br />as in "Egg hunters,"</font>
+635690 639260 <i><font color="#80ffff">like me and Sho and Daito,<br />and my best friend, Aech.</font>
+639260 642860 <i><font color="#80ffff">Oh, and of course, the Sixers.</font>
+642860 644030 <i><font color="#80ffff">The Sixers work for IOI...</font>
+644030 645830 <i><font color="#80ffff">Sixers!</font>
+645830 647570 <i><font color="#80ffff">...Innovative Online Industries.</font>
+647570 649040 <i><font color="#80ffff">They're the second-largest company<br />in the world</font>
+649040 651270 <i><font color="#80ffff">with designs on becoming the first.</font>
+651270 653040 <i><font color="#80ffff">Which is why they're putting<br />everything they got</font>
+653040 654570 <i><font color="#80ffff">into winning Halliday's contest.</font>
+654580 656210 Buckle up!
+657040 659280 Sit in!
+659280 661950 <i><font color="#80ffff">We call 'em "Sixers"<br />'cause that's the company rule.</font>
+661950 665020 <i><font color="#80ffff">No name, just numbers.</font>
+665020 668050 <i><font color="#80ffff">They have a support team<br />made up of Halliday scholars.</font>
+668060 670760 <i><font color="#80ffff">Like me, they spend all their time<br />studying pop culture</font>
+670760 672420 <i><font color="#80ffff">that Halliday was obsessed with,</font>
+672430 674360 <i><font color="#80ffff">trying to find clues to solve the contest.</font>
+677030 679960 <i><font color="#80ffff">They're just following<br />the orders of the head of IOI,</font>
+679970 682840 <i><font color="#80ffff">this dickweed named Nolan Sorrento.</font>
+689080 690710 How'd you get here before me?
+690710 692940 Well, I didn't make a pit stop<br />at the hair salon.
+692940 695640 - What up, Z?<br />- What's up, Aech?
+695650 696950 Saved you a spot.
+696950 698310 Thanks, bro.
+702490 704050 I gotta go to the back.
+704060 706720 Ugh. So you can skim coins<br />from crashed cars?
+706720 709490 - That's just sad, man.<br />- Fuel's low.
+709490 713100 Oh, but you still had enough to pay<br />for that "Something About Mary" hairdo.
+754540 755630 First to the key.
+756940 758100 First to the Egg!
+807490 809360 Aech, are you seeing this?
+812160 814590 <i><font color="#80ffff">Yeah, I see it.<br />That's Kaneda's bike from "Akira".</font>
+814590 816830 <i><font color="#80ffff">It's a licensed skin<br />over a standard frame.</font>
+816830 819690 <i><font color="#80ffff">No, not the bike. Forget the bike.</font>
+819700 821530 <i><font color="#80ffff">The girl, I think it's Art3mis.</font>
+821530 823830 The Art3mis? The Sixer Fixer?
+823830 826770 I've seen all her walk-throughs,<br />her Twitch streams.
+826770 828670 It's her. It's definitely her.
+935800 937880 Go, go, go! Get there! Come on!
+943710 944870 <i><font color="#80ffff">You got it, you got it!</font>
+954290 955660 Balls.
+961160 962160 She's not gonna make it.
+965170 967000 Bail! Bail out!
+967000 968000 Bail!
+974210 975840 Ow!
+1006240 1007940 Damn, I loved that bike.
+1007940 1009610 Oh, Aech could...
+1009610 1011840 Well, he's my friend,<br />but he could fix it for you.
+1019250 1022020 This is my workshop. Touch nothing.
+1028360 1030690 Where did you find an Iron Giant?
+1030690 1033360 Find it? I'm building it.<br />That's a commission.
+1033360 1036330 Oh, yeah.<br />Aech is top-rated on the mod boards.
+1036330 1039370 People all over the OASIS<br />pay him serious coin.
+1039370 1041740 Oh, hey, check this out!
+1041740 1044740 Hey. Z, yo.
+1044740 1047210 - The "Galactica", of course.<br />- These are my babies, all right, man?
+1047210 1048980 "Sulaco", from "Aliens".
+1048980 1051380 Dude, how are you showing off my shit?
+1051380 1053150 "Valley Forge", from "Silent Running".<br />Oh, where's the Harkonnen Drop-Ship?
+1053150 1055710 That thing is sick.<br />Folds space like a boss.
+1055720 1057780 I mean, you can get from Incipio<br />to Arrakis in three seconds...
+1057790 1059350 Fingers!
+1059350 1060990 You'll have to excuse him.
+1060990 1063120 He gets a little nervous<br />around pretty girls.
+1070230 1072670 I can fix it in 10 minutes.
+1074070 1076670 Yup. He's pretty great.
+1076670 1079740 I assume you and Shoulder<br />Blades are clanned up.
+1079740 1082010 Oh, Aech? Nah.
+1082010 1086980 I mean, he's really good,<br />but I don't clan.
+1086980 1089680 Oh, 'cause you're Parzival,
+1089680 1092250 as in the knight who found<br />the Holy Grail by himself.
+1092250 1094250 What about you, Art3mis?
+1094250 1097190 Goddess of the hunt. Clans must<br />be killing to sign you up.
+1098830 1100790 - Favorite shooter?<br />- Excuse me?
+1100790 1102760 James Halliday's<br />favorite first-person shooter.
+1102760 1104330 - What?<br />- Oh. <i>GoldenEye.</i>
+1104330 1106700 - Playing as?<br />- Oddjob. Is this a test?
+1106700 1108430 Favorite game variant?
+1108430 1110030 Game variant was "slappers only".<br />No weapons.
+1110040 1111700 I know what "slappers only" means. Racer?
+1111700 1114000 "Turbo".<br />And his favorite food was Hot Pockets.
+1114010 1115970 Favorite restaurant was Chuck E Cheese.
+1115970 1118310 Song was "Video Killed the Radio Star"<br />by the Buggles.
+1118310 1120210 Video was "Take on Me" by A-ha.
+1120210 1124810 Oh, oh...<br />His favorite quote was from "Superman".
+1124820 1126780 "Some people can read "War and Peace""
+1126780 1128980 "and come away thinking<br />it's a simple adventure story..."
+1128990 1131450 "Others can read the ingredients<br />on the back of a chewing-gum wrapper"
+1131460 1134320 "and unlock the secrets of the universe."
+1134330 1136960 Lex Luthor.
+1136960 1139430 Cool.
+1139430 1143360 What would you do? If you won.<br />The whole contest, I mean.
+1143370 1146470 Oh! I mean, I've got tons of plans<br />in the real world.
+1146470 1151410 I'd... I'd move into a huge mansion,<br />buy a bunch of cool shit, not be poor.
+1152480 1156380 Now I know why you stopped short.
+1156380 1159350 I stopped because of Kong.<br />No one ever makes it past Kong.
+1159350 1161810 That... That's... That's, like, a rule.
+1161820 1165150 Well, then you know it can't be true.<br />Because Halliday hated making rules.
+1165150 1166890 I can't afford to zero out.
+1166890 1168490 - You're afraid to lose your shit.<br />- No, I'm not!
+1168490 1170260 What happens when IOI<br />offers you guaranteed coin
+1170260 1171460 for the keys to the kingdom?
+1171460 1173990 Nolan Sorrento takes over the world.
+1174000 1178330 A real gunter would risk everything<br />to save the OASIS from IOI.
+1178330 1179830 Who said that?
+1179830 1181240 Me.
+1183500 1185400 There you go. Good as new.
+1185410 1187880 Thanks for the fix-up, my man.
+1197420 1199520 That's better.
+1199520 1203490 I'll wave to you from the finish line,<br />McFly.
+1207090 1208390 That went well.
+1208390 1210290 Thanks to you, Captain Big Mouth.
+1210300 1213530 <i><font color="#80ffff">Wade? Wade? Where the hell are my gloves?</font>
+1213530 1215500 Shit. I gotta go.
+1218500 1220800 <i><font color="#80ffff">X1.</font>
+1220810 1223570 When I'm after gold on Planet Doom,<br />I need every edge I can get.
+1223580 1227510 Every push, punch, gunshot,<br />you feel it all.
+1227510 1232050 <i><font color="#80ffff">Get ready for the feel,<br />the feel of real. X1.</font>
+1232050 1234380 <i><font color="#80ffff">The X1 is like wearing a second skin.</font>
+1234390 1236320 <i><font color="#80ffff">A skin that kicks ass.</font>
+1238090 1240990 I zeroed out 'cause<br />of your broke-ass gloves.
+1240990 1242420 Who told you to use them?
+1242430 1244500 You took hers.
+1245600 1247590 So you lost a death match.
+1247600 1251500 Why don't you just respawn and<br />level up like everyone else?
+1251500 1253470 You don't get it.
+1253470 1255900 I bought all these power-ups<br />for this challenge, and I lost it all.
+1255900 1257570 That artifact was gonna pay for the house!
+1257570 1259440 Wait.
+1259440 1263440 How much of our house money<br />did you spend on upgrades?
+1263440 1266310 Well, all of it, but I was gonna win.
+1266320 1269180 That was our ticket out of here.
+1271620 1273350 You idiot.
+1273360 1275350 No, but I only lost 'cause<br />of the bad gloves.
+1275360 1277120 Our house! Our goddamn house!
+1277120 1278620 My boys were in that challenge.
+1278630 1281130 You couldn't have beat them<br />in a bootsuit, you noob.
+1281130 1284300 Stop! No! No!
+1284300 1285600 Alice, call the police!
+1285600 1287270 No, we are not calling the cops.
+1287270 1289130 Go to your room, Rick.
+1289140 1291470 Aw, come on, Alice.
+1291470 1295470 Why do you put up with this guy?<br />He's a shitshow.
+1295480 1300040 I ought to kick the both of you out.<br />I swear to G-O-D, Wade Watts,
+1300050 1302610 if I catch you touching my stuff again,
+1302620 1305350 not joking... Out.
+1312290 1314630 <i><font color="#80ffff">"Wade Watts."</font>
+1314630 1316390 <i><font color="#80ffff">My dad picked that name</font>
+1316390 1318630 <i><font color="#80ffff">because it sounded<br />like a superhero's alter ego,</font>
+1318630 1322300 <i><font color="#80ffff">like Peter Parker or Bruce Banner.</font>
+1322300 1324370 <i><font color="#80ffff">But he died when I was a kid.</font>
+1324370 1327570 <i><font color="#80ffff">My mom, too, and I ended up here,</font>
+1327570 1329470 <i><font color="#80ffff">living with Aunt Alice</font>
+1329470 1331840 <i><font color="#80ffff">and her endless string<br />of hard-loving losers.</font>
+1334510 1337580 <i><font color="#80ffff">"Halliday hated making rules".</font>
+1337580 1340190 <i><font color="#80ffff">Why is that line sticking in my head?</font>
+1342550 1346090 <i><font color="#80ffff">Maybe it's 'cause Art3mis said it,<br />and she's hot.</font>
+1346090 1348360 <i><font color="#80ffff">Maybe it's because she called me out,</font>
+1348360 1351530 <i><font color="#80ffff">sitting here in my tiny corner of nowhere,</font>
+1351530 1354260 <i><font color="#80ffff">protecting my small slice of nothing.</font>
+1354260 1356530 <i><font color="#80ffff">Or maybe...</font>
+1356530 1359030 <i><font color="#80ffff">Maybe it's because<br />that line means something</font>
+1359030 1360530 <i><font color="#80ffff">and I missed it.</font>
+1363540 1365110 <i><font color="#80ffff">The day the contest was announced,</font>
+1365110 1367440 <i><font color="#80ffff">the Halliday Journals appeared.</font>
+1367440 1370610 <i><font color="#80ffff">He told us to look in his brain.<br />This was the next best thing.</font>
+1370610 1374110 <i><font color="#80ffff">At first, it was jammed<br />with gunters looking for answers.</font>
+1374120 1376550 <i><font color="#80ffff">Now, the once-crowded halls<br />of Halliday's memories</font>
+1376550 1378020 <i><font color="#80ffff">are left to people like me.</font>
+1378020 1380590 Parzival. Oh, joy!
+1380590 1384290 And how will you eat up<br />my valuable search time today?
+1384290 1386460 Gregarious Games, 2029... Office party.
+1386460 1389630 Office party. Yes, you've only<br />seen it a thousand times.
+1389630 1392400 Why not go back?
+1392400 1396100 Each entry into Halliday's<br />Journals is meticulously assembled
+1396100 1398600 from personal photographs,<br />home video recordings,
+1398610 1400540 surveillance, and nanny cams.
+1400540 1404380 All rendered into a three-dimensional<br />virtual experience.
+1404380 1408050 Also, Halliday archived every film,<br />game, book, and television program
+1408050 1411380 he ever saw, located on the mezzanine.
+1411380 1414750 No weapons or mature-themed avatars<br />are permitted within the Journals.
+1414750 1418760 Please enjoy your time with<br />us, and happy gunting!
+1418760 1420590 I like cleaning up.
+1420590 1422960 Okay, Jim, I'm, uh... I'm going.
+1427730 1430700 Everything changes, Jim.<br />Everything evolves.
+1430700 1434270 Some things are perfect<br />just the way they are. "Asteroids".
+1434270 1438280 People don't live inside<br />an "Asteroids" arcade cabinet.
+1439640 1441510 I know that.
+1441510 1443750 Yeah, well, people are living<br />inside the arcade we built.
+1443750 1445710 - I built.<br />- Uh, well...
+1445720 1448620 Right. Well, I guess you<br />can say whatever you want.
+1448620 1450150 I don't really wanna<br />talk about it anymore.
+1450150 1451320 No, of course<br />you don't wanna talk about it.
+1451320 1452750 You're forcing me out.
+1452760 1454290 Closer on Halliday.
+1454290 1456160 Look, invention<br />comes with responsibilities
+1456160 1458330 you didn't ask for.
+1458330 1460530 All right, if you make<br />something people want or need
+1460530 1463330 then it's up to you to set the limits.<br />You have to make some rules.
+1463330 1464730 "I don't wanna make any more rules."
+1464730 1466770 I don't wanna make any more rules.
+1466770 1468200 "I'm a dreamer."
+1468200 1469500 I'm a dreamer.
+1469510 1472440 - I build worlds.<br />- "I build worlds."
+1472440 1475210 We created something beautiful,<br />Jim, but it's changed.
+1475210 1476640 Okay? It's really not a game anymore.
+1476640 1478480 Are we finished?
+1478480 1482750 I liked how things were when they were...
+1484450 1486620 When it was a game.
+1486620 1489390 And we're back to where we started.<br />But that's the point, isn't it?
+1489390 1491690 Things move forward<br />whether you like it or not.
+1491690 1493830 Yeah, we're finished.
+1493830 1495660 Fine.
+1497700 1501670 Why can't we go backwards, for once?
+1503840 1508240 Backwards, really fast. Fast as we can.
+1508240 1510340 Really put the pedal to<br />the metal, you know?
+1510340 1512840 Go back 10 seconds!
+1512850 1517680 Why can't we go backwards, for once?
+1517680 1522090 Backwards, really fast. Fast as we can.
+1522090 1524620 Really put the pedal to<br />the metal, you know?
+1525690 1527690 Bill and Ted did it.
+1548810 1550810 Back again so soon?
+1552620 1554750 Careful not to lose your shit.
+1558860 1561220 You figured something out.
+1561220 1563390 Parzival, tell me.
+1663520 1668360 Nice racing, Padawan.<br />You're the first to finish.
+1668360 1672830 Mr. Halliday... Anorak.
+1674230 1675800 It's such an honor.
+1675800 1677830 The honor is all mine.
+1688980 1690910 Get yourself a clue.
+1706490 1708890 Who is this Parzival, and<br />how the hell is he winning?
+1708890 1711730 Well, here's a better question. Who cares?
+1711730 1713830 Halliday's contest is vitally important.
+1713830 1716930 I mean, it's nothing less than a<br />war for control of the future.
+1716940 1719970 But this Parzival?<br />He's not even clanned up.
+1719970 1723510 He's alone. We have an army.
+1723510 1725040 And yet, he's got the first key.
+1725040 1726910 Yeah, he has a key,
+1726910 1729910 but you have to get three<br />of 'em to win the contest.
+1729910 1732780 Our stock dove 6% yesterday.
+1732790 1736750 Loyalty division is reporting<br />profits of 28%. F'Nale.
+1736760 1739590 We're opening five new<br />loyalty centers this month.
+1739590 1741620 Debt Services dwarfs Hardware.
+1741630 1743690 Now, you really wanna talk<br />to me about stock prices?
+1743690 1745730 The shareholders won't be happy.
+1745730 1748400 It's not our job to make them happy.<br />It's our job to make them money,
+1748400 1752440 but once we launch this little<br />baby, they're gonna flip.
+1753770 1756970 We call this "Pure O2".
+1756970 1758870 This is the first of our planned upgrades.
+1758880 1761480 Once we can roll back some of<br />Halliday's ad restrictions,
+1761480 1765550 we estimate we can sell up to 80%
+1765550 1770950 of an individual's visual field before<br />inducing seizures, so picture this...
+1770950 1773960 All of this implies we win the contest.
+1776930 1779090 Indeed, it does.
+1780900 1783660 Dude, you won the key and 100,000 coins?
+1783670 1784970 As soon as I took the key,
+1784970 1787070 all the coins just appeared in my account.
+1787070 1789150 I'll tell you what, I'm<br />soiling my haptics right now.
+1793010 1794810 What the hell's a Cataclyst?
+1794810 1798580 A bomb. Kills every avatar<br />on a planet, even the owner.
+1798580 1799810 Who'd want that?
+1799810 1801820 IOI. They buy everything.
+1802980 1805980 Twenty-thou for the holy hand grenade?
+1805990 1807660 That's a steal!
+1809990 1813830 Whoa! Zemeckis Cube! I need one of those.
+1813830 1815500 Okay, don't spend all your money.
+1818960 1821470 X1 haptic bootsuit.
+1836120 1837520 Oh, yeah!
+1890570 1893700 I-R0k, old friend. How are you?
+1895940 1897600 To be honest, I have kind of a neck thing.
+1897600 1899570 It's like a carpel-tunnel deal
+1899570 1901440 but with your neck,<br />if that's even a thing.
+1901440 1904080 So if you could just stand<br />to... to your right.
+1904080 1905080 My right, your left.
+1907220 1910520 Thanks, it's the repetitive stress. Oh.
+1911620 1912720 Here he is.
+1914850 1919860 The steampunk pirate king.<br />I knew him well, Sorrento.
+1919860 1922230 There are only three things<br />in this world I hate,
+1922230 1926200 steampunk, pirates, and tabbouleh.
+1926200 1929030 I mean, why do they even have it?
+1929030 1931730 Is there a reason we're meeting here?
+1931740 1936970 Yes, Nolan. The Orb of Osuvox.
+1936980 1940080 You wanted it. He had it.<br />And so here it is.
+1944120 1948080 It creates an impenetrable magic<br />shield that can only be taken down
+1948090 1950250 by a magic spell.
+1950250 1952890 The Orb of Osuvox.
+1952890 1954090 Don't say that again.
+1954090 1955130 Okay.
+1957560 1961260 Now, I'm gonna need you<br />to keep this for now.
+1961260 1963500 I'm gonna let you know<br />when I wanna use it.
+1963500 1964500 Okay?
+1967970 1972010 Right now, though,<br />I have another job for you.
+1972010 1973140 Ah.
+1973140 1975280 Parzival.
+1975280 1978180 Let me guess, you want<br />him off the scoreboard.
+1979080 1980580 Can you do that?
+1980580 1983120 Well, he's a superstar.
+1983120 1984990 He made it through the first gate
+1984990 1987590 and avatars are gonna be<br />on him like hoes on Santa.
+1987590 1990830 I-R0k, how much more do you want?
+1990830 1994260 That's what I like about you, Nolan.<br />You never lick.
+1994260 1996300 You bite straight to the chocolaty center
+1996300 1998630 of the Tootsie Pop.
+1998630 2001030 Remember that old commercial,<br />with the owl?
+2001040 2002040 I-R0k.
+2004040 2005840 Three times my normal fee.
+2005840 2007270 Done.
+2007280 2009140 Wait, really?<br />I should have asked for five.
+2009140 2011080 Is four still on the table?
+2013550 2016550 <i><font color="#80ffff">There's five of us on the big board now.</font>
+2016550 2019150 <i><font color="#80ffff">Art3mis was next, no surprise there.</font>
+2019150 2022690 <i><font color="#80ffff">She was on the track when I won.<br />She saw me going backwards.</font>
+2022690 2027730 <i><font color="#80ffff">I gave Aech a tip, made him promise<br />not to say anything, and then he won next.</font>
+2027730 2030190 <i><font color="#80ffff">I'm pretty sure he bragged to<br />our pal Daito,</font>
+2030200 2033130 <i><font color="#80ffff">'cause he won right after.</font>
+2033130 2036730 <i><font color="#80ffff">And of course, Daito told<br />his best friend, Sho...</font>
+2036740 2038870 <i><font color="#80ffff">He totally totaled his car,</font>
+2038870 2040970 <i><font color="#80ffff">but then Sho got it, too.</font>
+2050020 2052250 "A creator who hates his own creation."
+2052250 2056750 "A hidden key, a leap not taken.<br />Retrace your steps, escape your past."
+2056750 2059290 "A creator who hates his own creation."
+2059290 2063930 "A hidden key, a leap not taken.<br />Retrace your steps, escape your past."
+2063930 2066130 "And the key of jade<br />will be yours at last."
+2108240 2110140 "Escape your past."
+2113880 2116780 What part of your past are you<br />trying to escape, Halliday?
+2128660 2130420 - Hey, it's Parzival!<br />- Dude!
+2131890 2133420 You're, like, totally my hero!
+2133430 2134390 Hey, Parzival! Over here!
+2134390 2136730 Dude, you're amazing!
+2136730 2139010 Hey, Parzival! Right here!<br />Let me get an autograph!
+2144800 2146440 Watch it!
+2146440 2150780 You're famous now! You can't<br />just go wherever you want!
+2150780 2152170 No, no, no, I...
+2156810 2158920 Huh?
+2162450 2164790 Ahh!
+2170930 2175130 That is... That is not funny.
+2175130 2177800 Oh, God.
+2177800 2180440 Ugh.
+2180440 2183200 Oh, God. Don't you get it?
+2183210 2185710 You're "the Parzival" now.
+2185710 2187140 You have to have a disguise.
+2189480 2191050 Okay, here.
+2192350 2194050 Clark Kent glasses.
+2194050 2196290 They hide your identity<br />without changing your look.
+2205060 2206460 I'm not wearing that.
+2216200 2218840 This is great.
+2218840 2220910 The way your inventory bursts out<br />when you die.
+2220910 2222370 They didn't want any more blood.
+2222380 2224210 This is right before the OASIS went live.
+2224210 2227810 Six days prior. December 2nd, 2025.
+2227820 2229850 Check this out.
+2229850 2231420 You know who that is?
+2233090 2234850 Is that Sorrento?
+2234850 2236820 Sorrento started as an intern.
+2236820 2239260 He claims he learned<br />at the feet of the master.
+2239260 2241990 That's how he convinced IOI<br />to create the Sixers for him,
+2241990 2243360 his Halliday knowledge.
+2243360 2245860 But ask Ogden Morrow?
+2245870 2250030 He says the only thing Sorrento<br />actually knew about Halliday
+2250030 2251500 was how he liked his coffee.
+2251500 2254200 You could have, like,<br />different tiers of accounts,
+2254210 2255840 like a gold member.
+2255840 2259510 A person could be silver, platinum, bronze.
+2259510 2261380 You know, depending on what they paid.
+2261380 2264450 You know, highest one maybe being<br />"Water" because "OASIS," right?
+2264450 2266380 Hell of a latte.
+2266380 2268450 Can you fast-forward to the stuff<br />about Halliday's date?
+2268450 2270220 What? Halliday actually went on a date?
+2274390 2276060 So, what happened?
+2276060 2279290 Nothing. I invited her over.
+2279300 2281930 Well, did you at least get her name?
+2281930 2285430 Yeah. Kira, I told you,<br />like the character in "The Dark Crystal".
+2285440 2287400 That's her gamer tag.
+2289540 2290510 - Karen.<br />- Karen.
+2290510 2293040 Yeah, okay? Karen Underwood.
+2293040 2296440 No, no. Karen Underwood,<br />as in Ogden Morrow's wife?
+2296440 2298440 Just watch.
+2298450 2302420 So, listen, you and Karen Underwood.<br />What'd you do?
+2302420 2304880 She wanted to go dancing,
+2304890 2307160 so we watched a movie.
+2308460 2309460 And?
+2311430 2313460 Where's the juice?
+2313460 2315460 Give me some juice!
+2315460 2319070 - There is no juice!<br />- Oh, God!
+2319070 2320530 Hold the phone.
+2320530 2324840 Halliday went on a date<br />with Ogden Morrow's wife?
+2324840 2328270 Just once, years before they<br />were even married, but yeah.
+2328270 2330440 And despite that,<br />and the fact that she died,
+2330440 2333950 the name "Kira" is only mentioned once<br />in all of Halliday's Journals.
+2333950 2335280 That's not possible.
+2335280 2337180 It is. Look it up.
+2337180 2339620 What we just saw is the only<br />time she's ever mentioned.
+2339620 2341120 It makes no sense.
+2341120 2343490 She was an important part<br />of both their lives.
+2343490 2345360 I'll bet you anything. All my coin.
+2347260 2351130 Search "Karen Underwood Morrow".
+2351130 2354300 <i><font color="#80ffff">Kira, I told you, like the<br />character in "The Dark Crystal".</font>
+2354300 2356500 <i><font color="#80ffff">That's her gamer tag.</font>
+2356500 2359200 Halliday purposely removed<br />every mention of her except for this one.
+2359200 2360640 That's weird. Why?
+2360640 2362640 It's like, it was just so painful for him
+2362640 2365980 to have to see her face or hear her name.
+2365980 2367640 Well, he loved her.
+2367650 2369510 He couldn't tell that to Morrow.
+2369510 2371380 Oh, that's sad.<br />He should have told her how he felt.
+2371380 2372880 Yeah, well, he missed his chance.
+2372880 2375020 Look.
+2375020 2378220 I found the clue to the race<br />in the other scene, but...
+2378220 2379620 I've always felt that the biggest clue
+2379620 2381490 to the contest was hidden here.
+2381490 2383390 You're right.
+2384530 2386530 I lose.
+2386530 2388330 Don't sweat it, Curator.
+2388330 2390630 You see, Kira is the "Rosebud"<br />at the center of his story.
+2390630 2392030 She's the big mystery.
+2392030 2394340 No, no. A bet is a bet.
+2395910 2398970 Oh, wow. A quarter. You can keep it.
+2398980 2401050 No. You can keep it.
+2404410 2406520 - You free Thursday?<br />- Who, me?
+2407520 2409220 No, him.
+2410490 2412250 Oh, my God. Yes, you!
+2414590 2416360 You know "The Distracted Globe"?
+2416360 2418390 Yeah, the dance club.
+2420400 2423230 Meet me there. 10:00 p.m.
+2423230 2425430 There's something I wanna show you.
+2426270 2427570 Uh, bye-bye!
+2428700 2430700 Did she just ask me out?
+2430710 2432570 And I was starting to like her.
+2432570 2434410 All right.
+2434410 2435910 I don't do that.
+2439550 2441610 Z, I can't believe<br />you told her about Kira.
+2441620 2444180 What? I told you.
+2444180 2448090 Hey, what about this?
+2448090 2450960 No. Have you considered that<br />Art3mis could be using you?
+2450960 2455430 Hey, dude, she's giving me a clue.<br />Maybe I'm the one using her.
+2455430 2459030 Should I go more "Thriller?"
+2459030 2460400 No.
+2461200 2462300 Punk?
+2462300 2463300 No.
+2465400 2466570 Duran Duran.
+2466570 2468610 No.
+2468610 2469570 Does it look like I'm trying too hard?
+2469570 2473040 Yes! Listen to yourself!
+2473040 2476210 You have a massive cyber crush<br />on this girl.
+2476210 2478520 She's hacking your heart<br />to get to your head.
+2480290 2482090 I got it!
+2483290 2485320 - "Buckaroo Banzai?"<br />- Yeah!
+2485320 2488590 Really? You're gonna wear the<br />outfit from your favorite movie?
+2488590 2489760 Don't be that guy.
+2489760 2491990 I am that guy.
+2492000 2493760 Z, you gotta be more careful<br />about who you meet in the OASIS.
+2493760 2497070 Aech, Art3mis gets me.<br />She'll get my outfit.
+2497070 2500070 There's just this connection.<br />I mean, sometimes, we even...
+2500070 2501770 - Finish each other's sentences?<br />- Yeah!
+2501770 2504670 We have that. Me and you.
+2504670 2508240 Yeah, I know, but that's because<br />we're best friends, dude.
+2508240 2510180 She could be a dude, too, dude.
+2510180 2511340 Come on.
+2511350 2513080 I'm serious!
+2513080 2515650 She could actually be a 300-pound dude
+2515650 2519020 who lives in his mama's basement<br />in suburban Detroit.
+2519020 2520660 And her name is Chuck.
+2522590 2525190 Think about that.
+2554390 2555790 Whoa, dude, is that Parzival?
+2555790 2557520 - Parzival!<br />- Oh, my God, Parzival!
+2557520 2560790 Come here, man. Hey, can we get a photo?
+2562800 2565130 - Thank you so much!<br />- Dude, you're my hero!
+2565130 2566400 Hey, Parzival.
+2568700 2570540 Thank you.
+2584380 2587480 Get out of town! "Buckaroo Banzai"?
+2587480 2589820 - Huh?<br />- I like it. I like "Buckaroo Banzai".
+2589820 2591490 - Oh, thanks!<br />- It's great!
+2591490 2593250 - Yeah! You look...<br />- Oh.
+2593260 2594760 You look awesome!
+2594760 2595760 - Thank you.<br />- Wow.
+2597690 2599560 A big one, a small one?
+2599560 2600700 A big one!
+2615740 2619610 Get out of here.
+2619620 2621550 What a freak!<br />I thought he was kind of cute.
+2621550 2622880 Have you been here before?
+2622890 2624790 It's cool, right? I mean...
+2624790 2627190 <i><font color="#80ffff">So, what's the plan?</font>
+2627190 2629620 <i><font color="#80ffff">Are you gonna kill their avatars?<br />Zero them out?</font>
+2629620 2631760 They're both here at The Distracted Globe.
+2631760 2634230 I can't talk.
+2634230 2636130 <i><font color="#80ffff">"The Distracted Globe"<br />was one of the first clubs</font>
+2636130 2637400 <i><font color="#80ffff">Halliday created in the OASIS.</font>
+2637400 2638900 <i><font color="#80ffff">That's common knowledge.</font>
+2638900 2641230 But I double-checked
+2641240 2643700 and it turns out he started building it<br />right after that moment you showed me.
+2643700 2644770 The date with Kira.
+2644770 2646870 Right, and she was a serious dancer.
+2646870 2649140 Maybe he thought he'd take her here,
+2649140 2651780 like on a virtual date.
+2651780 2653880 As if that ever works.
+2653880 2655380 So Halliday built it for her?
+2655380 2656710 But they never made it<br />past the first date.
+2656720 2658150 So Halliday's the creator...
+2658150 2659480 Who hates his own creation.
+2659490 2660890 And the club is the thing he hates.
+2660890 2663120 And "A hidden key, a leap not taken"?
+2666590 2667860 But people jump off it all night long.
+2667860 2669790 But none of those people<br />had the Copper Key,
+2669800 2673630 <i><font color="#80ffff">so when we jump off,<br />maybe it's different. Right?</font>
+2673630 2674630 <i><font color="#80ffff">Right.</font>
+2677500 2678770 So we take it together?
+2678770 2680140 Sure.
+2681940 2684270 We're not clanning up or anything.
+2684280 2687310 Of course not. I don't clan.
+2688450 2689610 Wait...
+2689610 2690720 Whoa!
+2692320 2693790 Ow! Whoa.
+2698490 2702290 I don't think this is it.<br />No scoreboard, no obstacles.
+2702290 2704730 - Maybe a dance challenge?<br />- Huh? Whoa!
+2720440 2722380 Old-school!
+2730650 2733620 ♪ Well, you can tell ♪<br />♪ by the way I use my walk ♪
+2733620 2735990 ♪ I'm a woman's man No time to talk ♪
+2735990 2738360 ♪ Music loud and women warm ♪
+2738360 2740530 ♪ I've been kicked around<br />since I was born ♪
+2740530 2742960 ♪ And now it's all right I'm okay ♪
+2742960 2745800 ♪ And you may look the other way ♪
+2745800 2746930 You come prepared?
+2746930 2748340 "Prepared"?
+2751970 2754540 What kind of haptics you rockin'?
+2754540 2756840 You got the gloves and full visor,<br />or a full body?
+2756840 2760980 ♪ Stayin' alive, stayin' alive ♪<br />♪ Ah, ha, ha, ha ♪
+2760980 2762680 Can you feel this?
+2762680 2765420 ♪ Stayin' alive, stayin' alive ♪<br />♪ Ah, ha, ha, ha ♪
+2765420 2767520 Um, yeah.
+2767520 2770390 I got the X1 haptic bootsuit with<br />the microfiber crotch inlay.
+2782670 2785570 My, Parzival, you did come prepared.
+2788940 2792540 So, I've been thinking.
+2792540 2794980 Maybe it'd be cool if we met up<br />in the real world.
+2794980 2796750 No, you'd be disappointed.
+2796750 2799380 No, I wouldn't. I like you.
+2799380 2801620 You don't even know me.
+2801620 2803450 This isn't what I really look like.
+2803450 2807450 This isn't my real body, or my real face.
+2807460 2808990 I don't care.
+2808990 2810760 I wanna know your real name.
+2810760 2814060 ♪ Stayin' alive, stayin' alive ♪<br />♪ Ah, ha, ha, ha ♪
+2815470 2817770 ♪ Stayin' alive ♪
+2823970 2825440 - My name's Wade.<br />- What?
+2826980 2828940 - I said my name's...<br />- Stop!
+2828940 2831810 Well, Buckaroo blows it. Shocking.
+2831810 2834450 Are you crazy? You don't<br />tell anyone who you are.
+2834450 2835950 You can't use your real name.
+2835950 2837020 You're not just anyone.
+2837020 2838920 You don't know me.
+2838920 2840050 You don't know anything about me.<br />We've never met.
+2840060 2841990 I do know you, Arty.
+2843790 2845290 I'm in love with you.
+2853830 2856030 - Is this part of the challenge?<br />- No.
+2856040 2857410 It's an ambush.
+2864910 2867640 IOI, always in the way.
+2867650 2869480 Did you hear what I said?<br />I said I'm in love with you.
+2869480 2870850 No, you're not.
+2872450 2874080 You only know what I want you to know.
+2874090 2875920 You only see what I want you to see.
+2878860 2880660 That's what you're in love with.
+2894540 2895670 Watch out!
+2905950 2907350 Pull.
+2920000 2923000 Head back! Z! Your armor is running low.
+2923000 2924330 I just bought this.
+2932410 2933710 Zemeckis Cube.
+2933710 2935540 Turns everything back in time 60 seconds.
+2940180 2941980 And you waited until now to use it?
+2950120 2952430 Wow, you were amazing.
+2955600 2957770 This isn't a game, Z.
+2959100 2961070 I'm doing this to stop IOI.
+2961070 2963570 I'm talking about real-world consequences.
+2963570 2965170 People suffering.
+2965170 2967040 - Actual life-and-death stuff.<br />- I know. I know...
+2967040 2971940 No, you don't know! My dad<br />died in a loyalty center.
+2971940 2975110 - He borrowed gear.<br />- He built up debt.
+2975110 2978620 He moved in with the promise<br />of working it off, but he never did.
+2978620 2980520 IOI just raised his living expenses,
+2980520 2982080 then he got sick,<br />and he couldn't afford to get out.
+2982090 2984590 And then he died!
+2984590 2985960 I'm so sorry, I didn't...
+2985960 2988060 No, you don't live in the real world, Z.
+2988060 2991130 From what you've told me,<br />I don't think you ever have.
+2991130 2994730 You live inside this... This illusion,
+2994730 2996740 and I can't afford to let you distract me.
+3009210 3011750 How the hell did they get away?
+3011750 3014050 <i><font color="#80ffff">Do you want the long version?<br />Your guys suck.</font>
+3014050 3015750 <i><font color="#80ffff">They failed to kill his avatar,</font>
+3015750 3017990 <i><font color="#80ffff">which, if we're offering<br />constructive criticism,</font>
+3017990 3020820 <i><font color="#80ffff">was a lame idea and<br />only would've slowed him down.</font>
+3020820 3025160 <i><font color="#80ffff">Whereas my plan, which was cool<br />because I rock, actually worked.</font>
+3025160 3026930 He's still on the board.
+3026930 3030260 <i><font color="#80ffff">I know that, Nolan.<br />But he won't be for long.</font>
+3030270 3032230 <i><font color="#80ffff">I did a search for all the Wades</font>
+3032240 3034630 <i><font color="#80ffff">who had recently bought an X1 bootsuit,</font>
+3034640 3037840 <i><font color="#80ffff">cross-referenced that with public records,<br />and "voilà",</font>
+3037840 3041840 <i><font color="#80ffff">which is French for...<br />"And then I found out."</font>
+3042280 3044240 <i><font color="#80ffff">Ready?</font>
+3044250 3048480 <i><font color="#80ffff">The real-world identity<br />of Parzival is Wade Watts.</font>
+3049280 3050820 Voilà.
+3052520 3055220 Are you loyal, Ms. Zandor?
+3055220 3057190 You really want me to answer that?
+3057190 3058760 Well, when you're at war,
+3058760 3061790 you need people who are loyal to a fault.
+3061800 3063660 People you can count on<br />to get things done.
+3063660 3066130 I just get people arrested<br />for not paying their bills.
+3066130 3069270 Yeah, 'cause there are some problems<br />that require a physical solution,
+3069270 3071840 but there are other times,<br />particularly at war,
+3071840 3073540 when you need a different set of rules.
+3073540 3075170 - The rules of war.<br />- Exactly.
+3075170 3077980 It's too bad my division doesn't operate<br />inside the OASIS.
+3077980 3080880 Yeah, but if this war remains in the OASIS,
+3080880 3083280 then you can't do anything.
+3083280 3086020 So, this is one of those conversations<br />that we're not really having.
+3086020 3087980 Well, we've had these kind<br />of conversations before,
+3087990 3089720 and look where you are now.
+3089720 3092020 You got a seat on the board,<br />head of your own division,
+3092020 3095690 a division that will cease to exist if<br />the wrong person wins this contest.
+3095690 3099030 F'Nale, a game decides our fate.
+3099030 3102800 The only question is,<br />how far are we willing to go to win it?
+3105000 3107040 Tell me what you need, Nolan.
+3185410 3186910 Whoa.
+3190750 3192420 Where am I?
+3192420 3194650 IOI Plaza.<br />You're a hologram in the real world.
+3195390 3197250 That's a really cool rig.
+3197260 3201290 Thank you.<br />It's a brand-new Habashaw, OIR 9400.
+3201290 3203290 It looks like a giant hamster ball.
+3203290 3208060 You know, if you came to work at IOI,<br />you'd get one of these.
+3208070 3210000 I don't clan up.
+3210000 3212240 You'd also get your own penthouse apartment<br />in Columbus
+3212240 3214300 with the highest-speed connection.
+3214300 3219910 In the OASIS, you'd get unlimited weapons,<br />magic items, ships.
+3219910 3221780 You want the ship from "Defender"?
+3221780 3224310 You know, the kind that can just jump<br />into hyperspace?
+3224310 3226350 You want the "Millennium Falcon"?
+3227320 3228780 You have that?
+3228790 3231420 Anything you need<br />to help you find that Egg,
+3231420 3232920 and then there's the salary.
+3234090 3236190 Four million a year.
+3236190 3239790 And if you do happen to find<br />that Easter Egg, there's a bonus.
+3239800 3242030 Twenty-five million dollars.
+3247470 3251040 I can see you're using<br />emotion-suppressing software right now,
+3251040 3253880 and why wouldn't you?<br />It's smart, not to show your hand.
+3259380 3263050 It is a lot of money.<br />I could really use it.
+3268050 3270460 But I don't think you and<br />I would have the same plans.
+3270460 3273490 Well, I don't know about that.<br />What, for the OASIS?
+3273490 3276430 I guess if you're not a John Hughes fan...
+3277800 3279330 Of course I am.
+3279330 3282170 Because the first thing that I would do
+3282170 3285900 is convert all the schools<br />on Ludus to replicas
+3285900 3289070 from "The Breakfast Club" and<br />"Ferris Bueller".
+3289070 3292240 No way. That's a great idea.
+3292250 3294510 Which school, Ridgemont or Faber?
+3294510 3297810 "Fast Times at Ridgemont High",<br />not John Hughes.
+3297820 3301050 It's a trap.<br />Faber College from "Animal House".
+3301050 3302490 John Hughes didn't direct
+3302490 3305490 "Fast Times at Ridgemont High"<br />or "Animal House".
+3305490 3309020 "Ferris Bueller" and "The Breakfast Club",<br />they went to Shermer High School,
+3309030 3312360 which is in Shermer, Illinois.<br />I know what you think.
+3312360 3314260 You think I'm a corporate asshole,
+3314270 3317470 that I don't appreciate pop culture, but...
+3317470 3320770 Man, that's not true. You know,<br />when I wanna blow off steam...
+3320770 3324540 Drink Tab, play "Robotron",<br />listen to Duran Duran.
+3324540 3326340 I crack open a Tab.
+3326340 3328540 I put on some Duran Duran.<br />I play "Robotron".
+3328540 3330880 That's why I love the OASIS.
+3330880 3334210 'Cause it's just full<br />of all these things, man,
+3334220 3335490 that people love. You know?
+3343560 3346060 I'm a businessman. I get it.
+3346060 3348860 But I gotta do my job.
+3348860 3354400 But I didn't ask you here just<br />to help us find the Egg, Parzival.
+3354400 3358370 I asked you here for what comes after.
+3359410 3361240 What would Halliday say?
+3362310 3364980 James Halliday is dead.
+3366280 3370280 Yeah. He is.
+3370290 3375220 All that's left of him is this contest.<br />And you know what?
+3375220 3377590 It just seems like<br />he wouldn't want you winning it.
+3377590 3379590 A fanboy knows a hater,
+3379590 3381460 and I know you've got a whole<br />department of oologists in your ear.
+3381460 3383930 So, if you wanna know<br />what I really think...
+3383930 3385400 I think you're full of shit.
+3390570 3392440 Here's my offer.
+3392440 3393940 Your board of directors,<br />you got them in the other ear?
+3393940 3395810 Why don't you tell 'em this.
+3397010 3399610 If they dump you, I'll consider it.
+3399610 3401850 I might say something off the record.
+3402920 3404950 I had to make the offer.
+3404950 3407950 The board expected it,<br />but I was really hoping you'd say no.
+3407950 3411350 Because if anyone's gonna win<br />this competition, it's me.
+3411360 3413420 My avatar gets the Egg
+3413430 3416590 'cause I'm the only one here<br />with the balls to run this place.
+3416590 3419300 Wow, you really switched gears there.
+3419300 3422360 From fairly reasonable<br />to maniacal overlord.
+3422370 3425370 You should be grateful, Wade.
+3425370 3428600 <i><font color="#80ffff">You won't be around<br />to endure my maniacal reign.</font>
+3428610 3430610 Yeah, that's right. I know who you are.
+3430610 3435640 Wade Owen Watts, born August 12, 2027.
+3435650 3439650 I also know where you are.<br />Unit 56K, Columbus stacks.
+3439650 3442620 You were last seen entering<br />your trailer three days ago.
+3442620 3444050 You haven't left since.
+3444050 3445390 What are you doing? You can't...
+3445390 3446990 With all that's going on in the world,
+3446990 3448360 do you really think that<br />anyone's gonna give a damn
+3448360 3449890 about an explosion
+3449890 3452460 in some ghetto trash rat warren<br />in Columbus?
+3452460 3454490 Sorrento, don't do this.<br />I'm not even there!
+3454500 3456530 Not for long.
+3460230 3462470 Call Alice.
+3462470 3464140 Dial Alice.
+3490660 3492500 Pick up! Pick up! Alice!
+3497600 3500070 This bootsuit's pretty awesome.<br />Thanks for that.
+3500070 3502170 Rick! Rick, the place is gonna blow!
+3502170 3503670 Rick, is that Wade?
+3503680 3505680 - Put Alice on!<br />- Let me talk to him.
+3505680 3507680 Don't call here anymore, you got me?
+3509380 3512120 I don't wanna hear your voice ever again.
+3549150 3553550 Contact Aech, Daito, Sho, and Art3mis.
+3553560 3555760 IOI came for me in the real world.
+3555760 3558560 They gotta be coming after you,<br />so wherever you are...
+3584620 3586650 Sorry about the blindfold.
+3586650 3588590 My guys are a little paranoid.
+3589660 3591660 Say that again.
+3591660 3594190 My guys are a little paranoid.
+3595330 3596560 Art3mis?
+3598330 3602340 My real name is Samantha,<br />but yeah, I'm Art3mis.
+3604270 3606740 Showers are that way, clean clothes, too.
+3610280 3614280 Welcome to the rebellion, Wade.
+3625490 3630790 That's IOI. So the stacks are over there?
+3630800 3633600 We've been living this close<br />to each other the whole time?
+3635300 3637470 Next door,
+3637470 3641510 around the world, it's...<br />It's all the same in the OASIS.
+3643810 3646410 For the record,
+3646410 3647710 um...
+3647710 3651710 I'm not disappointed.
+3651710 3654820 You said I... I would be disappointed<br />when I met you, but...
+3654820 3658250 I'm not.
+3658250 3661020 I've lived with it my whole life.<br />You don't have to pretend.
+3675600 3678340 You have a birthmark, so what?
+3679270 3680740 Why would that scare me?
+3688220 3690850 Z, if I hurt you, I'm... I'm sorry.
+3690850 3692850 No, it's...
+3692850 3696350 Wait, did... did you just call me "Z"?
+3696360 3698390 - Oh, my God. Did I?<br />- I think you did.
+3698390 3700260 Wade, I'm sorry.
+3700260 3702590 Yeah, Wade, Z.
+3702600 3705900 You can call me whatever you want.<br />And I'll call you Sam.
+3705900 3706900 No.
+3707830 3709530 Uh, Samantha?
+3709540 3711740 Okay. Cool.
+3718880 3720780 Wow.
+3721650 3723720 It's so much slower here.
+3724920 3728420 I mean, the wind, the people...
+3730320 3732120 Everything.
+3737390 3739830 We forget what it's like to be outside.
+3739830 3740830 Yeah.
+3744170 3747640 - Uh...<br />- Oh, shit!
+3747640 3749300 - I just figured it out.<br />- Figured what out?
+3749310 3750790 The second clue. I know what it means.
+3756880 3758950 We've been thinking about it too literally.
+3758950 3760680 "The leap not taken,"
+3760680 3762920 the leap Halliday didn't take,<br />is with Kira.
+3762920 3766750 Yeah, but... I mean, he blamed her<br />for breaking up him and Morrow.
+3766760 3769690 No. Halliday was madly in love with her.
+3769690 3771920 He had a chance with Kira.<br />He had a chance to kiss her, but...
+3771930 3773460 He didn't take the leap.
+3773460 3777200 Right. So that's where we go next.
+3777200 3778760 The place where the leap wasn't taken.
+3778770 3780430 Where the date was.
+3780440 3782600 At the movies!
+3782600 3784370 Hey, Curator.
+3784370 3786370 We figured out the second clue.<br />The challenge is here.
+3786370 3788440 Halliday kept track of every movie<br />he ever watched,
+3788440 3791510 the week and the year he watched it,<br />and how many times.
+3791510 3796280 Curator, can we see<br />November 23 to 27, 2025?
+3796280 3798080 That's the week<br />he went on the date with Kira.
+3802690 3806320 Okay, so our options for that week are<br />"The Fly" remake.
+3806330 3808460 "Great flick", terrible date movie.
+3808460 3811960 "Say Anything..." That would make sense.
+3811970 3816340 We gotta remember the clue.<br />"A creator who hates his own creation."
+3821010 3822970 "The Shining"!
+3822980 3825240 It's Halliday's 11th favorite horror film,
+3825240 3827640 and it's based on the best-selling book<br />by Stephen King,
+3827650 3829250 who hated the movie!
+3829250 3831350 Hey! No side chitchat.
+3831350 3832650 I think we found it.
+3836420 3838950 Are you absolutely sure<br />you want to go here?
+3838960 3841020 Absolutely positive.
+3841030 3843860 Let's hope you have the belly for it.
+3886800 3887900 Look.
+3889400 3891570 Ticking clock.
+3891570 3894310 Okay, so I'm estimating about
+3895410 3897440 five minutes to find the key.
+3897440 3899080 Yeah, there are so many keys<br />in "The Shining", though.
+3899080 3901910 Where do we start?
+3901910 3905320 I've never seen "The Shining".<br />Is it really scary?
+3905320 3909050 Uh, I had to watch it through my fingers.
+3909060 3912020 Okay, so we got the key from room 237,
+3912030 3913930 the keys to the Snowcat,
+3913930 3915960 or the keys they give Jack<br />at the beginning of the movie.
+3915960 3917760 Well, if it's "the leap not taken,"
+3917760 3919030 maybe the key isn't a key at all.
+3919030 3920100 I know where the Snowcat keys are!
+3920100 3921500 I say we split up.
+3921500 3922970 We get all the keys
+3922970 3924930 and then we meet back<br />at the Torrances' apartment.
+3928640 3930280 Hello, Danny.
+3931510 3933110 Come play with us.
+3933110 3936520 Little girls, y'all know<br />how to get out of here?
+3941520 3942680 Wait, wait!
+3942690 3944820 Wait, where's Aech?
+3944820 3945890 Wait!
+3946990 3947990 Aech!
+3948990 3950030 No, no, no, no!
+3968080 3969880 Ahh!
+3974620 3975990 Ahh!
+4009720 4012580 Oh, uh, hi, naked lady. I'm sorry.
+4012590 4014680 I didn't mean to interrupt,<br />uh, your bath time.
+4014690 4016750 Uh, I know self-care can be important.
+4016760 4019860 Uh, but can you do me a favor and tell me,<br />where are all the exits?
+4023500 4025060 Huh. Whoa.
+4025060 4027430 Okay, am I being punked?
+4027430 4029770 'Cause you're likin' me<br />a little way too much.
+4031140 4033440 All right, you know what? I'ma go with it.
+4047020 4048050 Ahh!
+4085190 4086790 Time's running out.
+4086790 4088920 Yo, Z, is Art3mis pissed at me?
+4088920 4091120 Dude, I'm pissed at you.<br />You've never seen "The Shining", have you?
+4091130 4092720 You know I hate scary movies!
+4092730 4093890 We got the key.
+4093900 4095090 Sweet! To room 237!
+4095100 4097830 We ain't got no business goin' to room 237!
+4097830 4099630 We should stay out!
+4099630 4101270 Plus, there was this crazy,<br />naked zombie lady in there.
+4101270 4102970 There are no zombies in "The Shining".
+4102970 4104940 Well, maybe it's not supposed<br />to be like the movie.
+4104940 4106640 Kira is the key.<br />You're the one who said it.
+4106640 4108840 Hey, y'all. I saw a picture of Kira!
+4108840 4110910 Huh?
+4113250 4114480 Where?
+4121290 4125620 It's Kira. "Escape your past."
+4125630 4128830 "The leap not taken."
+4128830 4130830 Halliday's greatest fear<br />wasn't "The Shining"
+4130830 4133300 or any book or movie.
+4133300 4136870 His biggest fear was kissing a girl.
+4136870 4140240 That's the leap he couldn't take.
+4147180 4149010 The ballroom.
+4163660 4165730 Aech, come on.
+4169330 4171100 Zombies. Told you.
+4172740 4173970 That's her.
+4175070 4176710 That's Kira.
+4179580 4181580 None of this is in "The Shining".
+4181580 4183840 Z, look. That's "the zombie-circle level"<br />in "Mayhem Mansion",
+4183850 4185280 one of Halliday's first games.
+4185280 4187250 The whole "Shining" trivia<br />is just a diversion.
+4188320 4190090 One minute left.
+4191350 4192890 How do we get to her?
+4192890 4194050 Take the leap.
+4194060 4195060 Wait!
+4196290 4197560 Whoa!
+4203230 4206200 Okay, Mr. Dead Guy. Cool if I lead?
+4253810 4256110 Care to dance?
+4256110 4259580 Do you know how long<br />I've been waiting for you to ask?
+4265260 4268060 Well, well, well.
+4268060 4272230 So you found my Jade Key.
+4274930 4276830 Imagine that.
+4281840 4283210 Thank you.
+4288180 4290250 - Kira was a very beautiful...<br />- Go on.
+4319310 4322370 One of our oologists saw them<br />enter the media library.
+4322380 4324040 She cracked the clue.
+4324040 4327840 Now, we just have to win<br />"The Shining" challenge.
+4330180 4332980 Get her off me! Get her off me!
+4342400 4346900 Mr. Sorrento, I really think<br />you need to see this.
+4349030 4350840 Now Parzival's got the Jade Key.
+4361250 4363440 He's alive.
+4363450 4366380 I know. I'll get back to you.
+4366380 4368390 I got what you're looking for.
+4372520 4376730 Freeze. This guy.<br />The one with the lame tattoo.
+4377330 4378490 Enlarge.
+4381030 4384270 Run him through our database,<br />every IOI drone in Columbus.
+4384270 4385700 Find him.
+4412430 4414360 Groceries are here.
+4414360 4415860 All right. Gluten-O's...
+4415860 4417100 "If you know the answer ultimate,"
+4417100 4419370 "divide it by the number magic,"
+4419370 4422200 "and what you need, want, and desire<br />will be found in the fortress tragic."
+4422200 4424300 "Tragic", that's gotta be<br />Halliday referring to himself.
+4424300 4425400 Why?
+4425410 4427200 Because he was lonely.
+4427210 4429110 He had no one to spend his life<br />with towards the end.
+4429110 4431210 Yeah, that's true.
+4431210 4433140 The contest has gotta be somehow<br />about connecting with someone.
+4433150 4434510 Anyone.
+4434510 4436210 He wants the person<br />who cares for the OASIS
+4436220 4437920 to be connected with the world.
+4437920 4440390 That's what I think<br />he's trying to tell us.
+4446390 4447990 Wade.
+4450060 4452400 You understand Halliday.
+4452400 4456100 You know him better than anyone.
+4456100 4459100 It's exactly why I think you'll win.
+4459100 4462910 Really? You really think I'm gonna win?
+4466850 4468380 Do not move!
+4474020 4475450 Target identified!
+4476520 4478090 Freeze! Don't move!
+4484960 4487590 - This leads right to the alley.<br />- You first.
+4487600 4489270 I'm right behind you. Go now!
+4490870 4492470 Come on!
+4492470 4494970 - Wade, the OASIS needs you.<br />- What?
+4494970 4496270 - I'm gonna delay them.<br />- Wait!
+4496270 4498500 No, no, no, wait! No, no, no!
+4498510 4500880 You'll forgive me for this, I promise.
+4510120 4511490 Freeze, freeze, freeze!
+4512520 4513520 Don't move!
+4519030 4521530 Samantha Evelyn Cook.
+4521530 4525400 IOI has purchased and consolidated<br />all of your outstanding debt,
+4525400 4528670 currently in excess of 23,000 credits.
+4528670 4531540 You will be remanded<br />to the nearest IOI loyalty center
+4531540 4533040 until your debt is paid in full,
+4533040 4535640 including any interest, processing,
+4535640 4538510 or late fees you incur henceforth.
+4538510 4541070 - Does anybody have eyes?<br />- Check down the next street!
+4553520 4555530 - "First to the key."<br />- "First to the Egg."
+4555530 4558030 Wait, what?
+4558030 4561400 "Never trust someone you meet<br />in the OASIS".
+4561400 4564030 "She might be a 300-pound dude<br />named Chuck..."
+4564040 4567240 "Who lives in his mama's basement<br />in suburban Detroit."
+4569610 4571540 Aech!
+4571540 4575050 Helen. My dad called me "H".<br />It kinda stuck. Let's go!
+4584720 4587090 That thing's IDing my van.
+4601740 4603940 Come on. They've spotted us.
+4604570 4606370 Daito.
+4606370 4609210 My real name is Toshiro.<br />Samantha got us a message.
+4609210 4611040 She told us to meet you here.
+4611050 4612450 Samantha, they took her to the...
+4612450 4614480 The loyalty center, I know.
+4614480 4618050 Look, in other awesome news,<br />the Sixers found the third challenge.
+4618050 4619750 - What?<br />- Just come on, get in!
+4619750 4621150 All right. Let's go.
+4621150 4623290 Hurry up. Go, go, go. All right.
+4635070 4637570 How did IOI find<br />the third challenge so fast?
+4637570 4639670 IOI cracked the first three lines<br />of the clue,
+4639670 4641340 so they knew it was sector 14
+4641340 4642740 but they couldn't figure out<br />"the fortress tragic".
+4642740 4645340 So they sent every guide<br />they had into that sector
+4645340 4647250 until they found the right fortress.
+4648350 4649610 Sho?
+4649620 4652120 Yeah, yeah, yeah. I'm 11, so what?
+4652120 4654150 His real name is Xo.
+4654150 4656720 But everyone else calls me Sho,<br />no big deal.
+4656720 4659690 No. It is a big deal.
+4659690 4663260 Sho, you're the world's most<br />badass 11-year-old ever.
+4663260 4664330 He knows.
+4664330 4666530 Shut up! Let him tell me.
+4666530 4667600 Aech!
+4671140 4672640 We have to go save Samantha.
+4672640 4675200 Well, we can't just go<br />through the doors of IOI.
+4675210 4677440 Look, I've been thinkin' about it.<br />I got a better plan.
+4677440 4679440 You saw Sorrento's rig, right?
+4679440 4681540 Yeah.
+4681540 4683780 Let's go after the man himself and<br />make him give Art3mis back to us.
+4683780 4685680 But first, I have to know exactly,
+4685680 4687620 how much about Sorrento's rig<br />do you remember?
+4689290 4691520 Kind of everything.
+4705300 4709140 <i><font color="#80ffff">Maintenance, report to loyalty pod 31-B.</font>
+4713240 4717610 <i><font color="#80ffff">Security, please report<br />to section 97 for escort.</font>
+4738600 4741400 Hey! Newbie, get to work.
+4743600 4745140 Get to work.
+4750840 4754110 <i><font color="#80ffff">Work violation. Work violation.</font>
+4755710 4758750 Lay those charges every six feet.
+4763820 4766130 Keep it moving!
+4767460 4768460 Hey, you!
+4770630 4772460 Those are explosives!
+4774200 4777400 IOI will not reimburse any lost coin<br />if you zero out.
+4777400 4779140 Keep it moving!
+4783910 4786740 So what is this challenge,<br />some sort of video game thing?
+4786740 4788840 An Atari 2600, sir.
+4788840 4792580 And every game ever made for it,<br />thousands of possibilities.
+4793420 4794780 Come up!
+4799260 4800720 Halliday,
+4800720 4802660 this is how you plan to resolve
+4802660 4805890 the fate of the world's most important<br />economic resource?
+4805900 4807860 - Call me when you're close.<br />- Yes, sir.
+4807860 4809600 Go, go! No! Ahh!
+4811930 4814900 One minute into "Centipede", the ice broke.
+4814900 4817170 It has to be "Joust"!
+4817170 4819910 Halliday still holds the world record<br />on the 2600 port of that game.
+4819910 4821910 Maybe we just need to beat his high score.
+4821910 4824410 "Pitfall"! One of the only 2600 games<br />that still hasn't ended.
+4824410 4825840 And how about those "Swordquest" games?
+4825850 4827750 Yes! The "Swordquest" games.
+4827750 4829910 They were created for a contest Atari<br />held with real...
+4837490 4840490 I-R0k, how are we doin'?
+4840490 4842760 To be honest, I think I need<br />physical therapy because it's not...
+4842760 4844770 Is the Orb ready?
+4845770 4847430 Um, as you wish.
+4851600 4852770 The Orb...
+4852770 4854170 Of Osuvox.
+4854840 4856210 Ah...
+4856210 4858280 How does it work?
+4858280 4861710 Has it got, like, a remote or<br />is there a button or something?
+4861710 4865350 Nolan, it's a level-99 magic artifact,
+4865350 4868950 not one of your drones,<br />so it is activated by a magic spell.
+4868950 4871190 Would you care to do the honors?
+4922970 4924540 Where is she?
+4924540 4925840 How'd you get in here?
+4925840 4926910 - Art3mis.<br />- Who?
+4926910 4931780 Samantha Cook. Where is she?
+4931780 4935680 If you wanna talk, we can talk,<br />but you gotta put that gun down.
+4935680 4938580 You killed my mom's sister.
+4938590 4940020 You think I won't kill you?
+4940020 4944420 Whoa, whoa, whoa. Just slow down, okay?
+4944420 4947790 That was a corporate decision.<br />It was not personal.
+4947790 4948930 Where is she?
+4948930 4951460 She's downstairs in the loyalty center!
+4951460 4954800 I know she's in the goddamn loyalty center.
+4954800 4957070 You're gonna tell me exactly<br />which rig she's in
+4957070 4959610 and the access code to contact her.
+4960710 4962940 Yeah, that seems appropriate.
+4965810 4967810 Start with access code.
+4969050 4971310 6, 45, 7, 25.
+4971320 4972580 Where's the rig?
+4983490 4985730 I think he pissed himself.
+4985730 4987730 Good job, Z. We're in his account.
+4987730 4989470 So he really doesn't know<br />he's in the OASIS?
+4991840 4994440 This is what Sorrento should be seeing,
+4994440 4998670 but this...<br />This is what we're making him see.
+4998670 5001740 We grabbed him in transit just as<br />he was logging out of the OASIS,
+5001750 5004610 so he thinks he's back in his office<br />in the real world.
+5004610 5008450 But actually, he's here,<br />in the identical office that Aech built.
+5008450 5010950 So, you basically just remotely<br />hacked his rig.
+5010950 5013990 A fixed rig like Sorrento's<br />is easy to locate, hard to hack.
+5013990 5016920 Unless he's stupid enough<br />to leave his password lying around.
+5016930 5018130 Loyalty center, I'm in.
+5018130 5019900 All right, let's get to work.
+5027870 5030000 <i><font color="#80ffff">- Arty.</i></font><br />- Z? Z? Z?
+5030000 5031770 Arty, don't say anything.
+5031770 5033710 I'm tapped directly into your audio feed.
+5035140 5036840 <i><font color="#80ffff">How did you find me?</font>
+5036850 5038550 We got his password,<br />hacked Sorrento's rig.
+5039980 5042650 Z, I have something to tell you.
+5042650 5044650 <i><font color="#80ffff">Not now. I have something to show you<br />that'll get you out of there.</font>
+5044650 5048120 The Sixers found the third challenge.<br />It's on Planet Doom.
+5048120 5049650 And there's more,<br />they just put a force field
+5049660 5051460 around Anorak's Castle.
+5055900 5058560 I heard one of the guards calling it<br />"the Orb of Osuvox,"
+5058560 5061130 and the only way to take it down<br />is from the inside.
+5061130 5064100 She's right. Level-99 artifact,
+5064100 5067040 creates a magic-resistant,<br />impenetrable barrier.
+5067040 5068970 No way through it.
+5068970 5070710 Okay, listen.<br />That's not important right now.
+5070710 5072710 What's important is that<br />we get you out of the rig.
+5074850 5076950 <i><font color="#80ffff">All right, so I'm looking<br />at a diagram of your rig.</font>
+5079880 5082120 If you reach up with your left hand<br />at 11 o'clock,
+5082120 5084090 there's some...<br />There's a panel above your head.
+5088890 5091060 Yeah, yeah. Yeah, I can feel it.
+5091060 5093100 <i><font color="#80ffff">Okay, there should be two release handles.</font>
+5093100 5094730 <i><font color="#80ffff">Nine o'clock and three o'clock.<br />Can you feel them?</font>
+5094730 5096940 - Yeah, I got it.<br />- <i><font color="#80ffff">Okay, pull it towards you.</i></font>
+5099140 5101040 <i><font color="#80ffff">Okay, inside the panel, there's a lever.</font>
+5101040 5103600 <i><font color="#80ffff">Grab it with your right hand<br />and slide it to the left.</font>
+5103610 5105110 <i><font color="#80ffff">That should release you.</font>
+5112180 5115120 It worked. It worked, I'm out.
+5115120 5117050 <i><font color="#80ffff">Loyalty pod 41-F,</font>
+5117050 5119990 <i><font color="#80ffff">you are on an authorized break<br />for 10 minutes.</font>
+5125530 5128700 <i><font color="#80ffff">Pod 41-F, you are on 10-minute break.</font>
+5128700 5130800 <i><font color="#80ffff">Proceed to break area.</font>
+5132100 5133470 Wade, are you still there?
+5133470 5134700 <i><font color="#80ffff">Yeah, I'm here. Where are you?</font>
+5134700 5136900 Where is Sorrento's office?
+5136900 5138100 <i><font color="#80ffff">It's in the IOI war room,<br />two levels above where you are now.</font>
+5138100 5140110 <i><font color="#80ffff">But that's not the way out.</font>
+5140110 5141640 What's his password?
+5142980 5144180 Wade, answer me.
+5144180 5148110 <i><font color="#80ffff">Okay, it's capital B-0-55-man-69.</font>
+5148120 5150720 <i><font color="#80ffff">But, Arty, you need to go.</font>
+5150720 5151990 You need to raise an army.
+5152920 5154550 An army?
+5154550 5156150 <i><font color="#80ffff">Get to Planet Doom,<br />and wait for my signal.</font>
+5156160 5157260 What signal?
+5157260 5159590 I'm gonna take down that shield.
+5159590 5161590 <i><font color="#80ffff">Wait, Arty, wait!<br />You gotta get out of there! Arty!</font>
+5169940 5172570 Hey, how much are they paying you?
+5172570 5174140 'Cause, man, I got a lot of paper.
+5174140 5176740 You know, I can make you, like, a forest.
+5176740 5179010 Hey, shut up.
+5179010 5180110 Okay.
+5202770 5205000 This isn't real, you're tapping my feed.
+5205000 5207000 Uh-oh. Guys.
+5225550 5228290 F'Nale, they've hacked my rig.<br />They're after the girl.
+5228290 5230560 Meet me at loyalty.
+5244070 5247670 <i><font color="#80ffff">Pod 41-F,<br />you have exceeded your break time.</font>
+5247680 5251180 <i><font color="#80ffff">Report to security or your coin count<br />will be reset to zero.</font>
+5260350 5265160 So, she just walks out of here,<br />how does that happen?
+5265160 5267220 They're smart.<br />They knew what they were doing.
+5267230 5270260 But we know they're in Columbus.<br />And now, all five of them are together.
+5270260 5272760 Wait. Wait, we know what? How do we know?
+5272760 5276330 We have the make and model of the van.<br />We'll spot them.
+5276340 5278670 "We'll spot them"?
+5278670 5281900 That sounds like a great inscription<br />for our tombstones.
+5281910 5283240 Why didn't you tell me this earlier?
+5283240 5285040 It wasn't relevant yet.
+5285040 5286240 I need to know where they are.
+5286240 5287840 We need to know. We need to find them!
+5287850 5290880 They're kids, Nolan. Man the hell up!
+5290880 5294080 Do your job, and I'll do mine,<br />unless you wanna take this
+5294090 5296090 and go after them yourself.
+5300690 5301930 Find them!
+5310940 5315340 "The Complete Nancy Drew",<br />Kegel Exercises for...
+5317210 5319940 Bingo. Okay.
+5319940 5322210 "Congratulations, you are the proud owner<br />of the Orb of Osuvox,"
+5322210 5324140 "a 99th level magic artifact."
+5324150 5326980 "Read these instructions before deploying.<br />To turn orb on, off."
+5326980 5328280 Off! Yes, off.
+5328280 5330750 "Utter spell within 10 feet of orb."
+5344730 5346930 <i><font color="#80ffff">Citizens of the OASIS,</font>
+5346930 5349770 <i><font color="#80ffff">I am Parzival, first to the key.</font>
+5349770 5352810 I'm here talking to all of you now<br />because our future's being threatened
+5352810 5356910 by people who will stop at nothing<br />to win this contest.
+5356910 5358940 Some of you already know this,
+5358950 5362910 and you've lost much more<br />than just your avatars or your weapons.
+5362920 5366790 Some have lost their freedom.<br />Some have lost their lives.
+5369290 5372090 And now, this.
+5372090 5375030 <i><font color="#80ffff">A force field around the third challenge.</font>
+5377400 5381400 <i><font color="#80ffff">I only came here to escape the shitty hand<br />that life dealt me.</font>
+5381400 5384370 <i><font color="#80ffff">But I stayed, like many of you,</font>
+5384370 5389470 <i><font color="#80ffff">because I found something<br />much bigger than just myself.</font>
+5389480 5391280 <i><font color="#80ffff">I found a cause.</font>
+5392440 5395710 <i><font color="#80ffff">I found my friends.</font>
+5395710 5399150 And yes, I know<br />it's kind of a groaner, but...
+5400480 5402050 <i><font color="#80ffff">I found love.</font>
+5403350 5404990 <i><font color="#80ffff">And I don't wanna lose that</font>
+5404990 5407460 <i><font color="#80ffff">to this colossal douchebag,<br />Nolan Sorrento.</font>
+5407460 5411860 This guy. Back to work, people.
+5411860 5416130 <i><font color="#80ffff">He thinks that we're all too distracted<br />to even notice...</font>
+5416130 5420900 <i><font color="#80ffff">Nolan Sorrento thinks<br />that we won't put up a fight.</font>
+5420900 5422170 Sir! Sir!
+5422170 5423970 This is going out live!
+5423970 5426070 The only thing Halliday let this guy do...
+5426080 5427740 - It's absolutely everywhere.<br />- ...was get him a cup of coffee.
+5427740 5429540 <i><font color="#80ffff">And now, we're supposed<br />to hand him the OASIS?</font>
+5436520 5439250 This Parzival... Oh, man.
+5443360 5445860 Come on, come on. Give me this thing.
+5445860 5447000 Yes, sir.
+5447500 5449830 Left arm.
+5449830 5452330 - Left arm!<br />- Sir.
+5452330 5454330 No, I need the left arm.
+5454340 5456400 No, I don't care if... I want it on.
+5458510 5461270 He thinks that<br />we won't even put up a fight!
+5461280 5464080 Well, I say he's wrong.
+5464080 5467880 I say, tell that to the gunter clans<br />in the gold mines of Gygax.
+5467880 5471050 Activate the Iron Giant.
+5495210 5500280 Ask yourselves, are you willing to zero out<br />for the OASIS?
+5500280 5502150 Are you willing to fight?
+5503410 5506220 I am Parzival of the High Five.
+5506220 5508950 In the name of Art3mis,<br />in the name of Aech,
+5508950 5511450 in the name of Daito and Sho,
+5511460 5515220 we ask you to join us on Planet Doom.
+5515230 5518330 In the name of James Halliday himself,
+5518330 5520330 help us save the OASIS.
+5575350 5577520 No, no, no, no.
+5587660 5590490 "No man is a failure who has friends."
+5612580 5615550 <i><font color="#80ffff">Squadron 14, armor up, you're in the lead.</font>
+5628700 5633100 One minute into "Swordquest",<br />the ice broke.
+5633100 5636670 Well, all three "Swordquests". What's next?
+5636670 5638710 "Dark Cavern, Laser Blast".
+5638710 5639940 It's "Adventure".
+5639940 5642210 Released in 1979, for the 2600,
+5642210 5644280 "Adventure" was created by Warren Robinett,
+5644280 5646450 who was the first video game designer<br />ever to hide his name. In fact...
+5646450 5648450 Try "Adventure".
+5649720 5651220 Play "Adventure".
+5703600 5705740 More than a minute, we're still alive.
+5705740 5707770 This must be the right game.
+5714750 5717520 How long does it last, this orb thing?
+5724790 5727760 I'd say about ten...
+5727760 5731130 Yeah, about 10 million years,<br />so we should be fine.
+5748310 5750180 First to the key!
+5750180 5751810 First to the Egg!
+5751810 5753450 First to the Egg!
+5753450 5754680 First to the Egg!
+5754680 5758120 ♪ We're not gonna take it ♪
+5758120 5761490 ♪ No, we ain't gonna take it ♪
+5761490 5765660 ♪ We're not gonna take it anymore ♪
+5771530 5774470 ♪ We've got the right to choose it ♪
+5774470 5777800 ♪ There ain't no way we'll lose it ♪
+5777800 5780240 ♪ This is our life, this is our song ♪
+5783210 5784840 "Adventure".
+5784840 5787580 ♪ We'll fight the powers that be just ♪
+5787580 5790680 ♪ Don't pick our destiny 'cause ♪
+5790680 5793520 ♪ You don't know us, you don't belong ♪
+5800730 5802730 What? Come on!
+5813340 5816570 ♪ Your gall is never-ending ♪
+5816570 5820110 ♪ We don't want nothin'<br />Not a thing from you ♪
+5832560 5834130 Whoa, whoa, whoa!
+5836290 5838860 The Sixers are in the final challenge.<br />It's an Atari 2600.
+5838860 5841290 Are you in the Sixer war room?
+5841300 5842900 No, no, no. You gotta get out of there.
+5842900 5845200 They're playing "Adventure".
+5845200 5847600 "Adventure", of course!
+5847600 5849400 Created by Warren Robinett!
+5849400 5850740 He was the first designer to ever hide<br />an Easter Egg in...
+5850740 5851740 Dude!
+5856780 5859810 We're looking for a USPS truck,<br />Ohio plates,
+5859820 5862820 a drone spitter, 2036 model.
+5881400 5884740 Daito!<br />When are you getting into this fight?
+5898750 5899780 I'm out. Inventory's empty.
+5899780 5900950 Last clip for me.
+5900950 5902350 More weapons!
+5902350 5904520 Anti-personnel ordinance cannon!
+5904520 5906460 Anti-personnel ordinance cannon!
+5909430 5910860 Railgun!
+5910860 5911900 Railgun!
+5917300 5918800 Yo, Z!
+5918800 5922640 Yo, Z! Try this little guy.
+5926210 5927880 Ow!
+5927880 5929720 Get rid of it! Get rid of it!
+5930850 5932710 It's fucking Chucky!
+5937990 5939850 Move! Move!
+5939860 5941560 Go, go, go!
+5999340 6000910 Mechagodzilla!
+6022030 6025540 Daito, we need you! Daito, now!
+6025540 6027770 Get to the bridge.<br />Go now, he's distracted.
+6027770 6028770 Go, go, go.
+6070110 6071110 Z!
+6091030 6092830 Arty!
+6092830 6094870 Get to the castle!<br />Win the third key before they do!
+6106140 6107840 What is that?
+6107850 6110020 He's only got 30 seconds<br />before changing back!
+6121460 6124330 Daito, abort, abort! You got 10 seconds!
+6139010 6140010 First to the Egg!
+6179680 6180950 Shit, it's her.
+6201030 6204170 Arty! Arty!
+6204170 6206900 Z! Got to get to the castle!
+6212910 6215480 She never left. She's still here.
+6218250 6220050 The girl's in the war room.
+6258120 6259660 No, no, no.
+6273800 6276140 Sho! Hang on!
+6295790 6297160 No!
+6319850 6321750 Arty, we've got this. You need to log out.
+6321750 6324310 If the game is "Adventure",<br />why haven't they won yet?
+6324320 6326180 I don't know. Arty, Arty.
+6326190 6328120 I'm serious, Sorrento's crazy.<br />He'll kill you.
+6330350 6332320 <i><font color="#80ffff">What are you looking at?</font>
+6332320 6334260 There's nothing over there.
+6335330 6336530 You're in trouble, aren't you?
+6339760 6343330 Samantha, you know I love you.
+6343340 6344700 Not the time, Z.
+6344700 6346270 I can handle the challenge,
+6346270 6349240 but I can't let you get hurt<br />in the real world.
+6349240 6352210 Get out of IOI,<br />and meet us at River South.
+6358780 6360310 Wade, no.
+6360320 6362380 You'll forgive me for this, I promise.
+6362380 6363380 Wade, no, no, no.
+6373630 6377100 Get it together, Sixer. Back to respawn.
+6377100 6378230 Let's go, move.
+6378230 6379640 You're in.
+6397920 6400350 Holy hand grenade! How much did that cost?
+6400350 6402990 Less than it's gonna cost them.
+6404130 6405630 What is that?
+6416000 6418740 Sir, the gunters are approaching<br />the challenge.
+6418740 6420740 - I-R0k?<br />- In position, sir.
+6420740 6422010 Prepare my rig.
+6422010 6424640 The ice is holding. Still going.
+6434990 6436320 Wait.
+6436320 6437320 He's trying to win.
+6440820 6443360 Yeah! I won.
+6446860 6448830 He lost.
+6448830 6450840 Not "Adventure".
+6454970 6459440 Everyone who wins loses.
+6459440 6462710 It's not about winning.<br />It's about playing.
+6463850 6466350 Remember Halliday's announcement.
+6466350 6468780 "The keys are invisible, and<br />they're hidden in a dark room"
+6468780 6471350 "that's at the center of a maze".
+6471350 6475020 Well, there's a secret in "Adventure",<br />and you don't find it by winning.
+6475020 6477960 You find it by wandering<br />around in a dark room.
+6477960 6479460 Until you get to the invisible dot.
+6479460 6481360 It's pretty easy<br />if you know what you're doing.
+6481360 6482430 Really?
+6483330 6485900 Let me finish it for you.
+6489870 6491800 It's your last chance, Wade.
+6491810 6494510 Last chance. Give me the key.
+6494510 6499750 I give you 50 million<br />in your account right now.
+6499750 6501320 Why the hell would I ever do that?
+6503320 6505250 Dude! That's the Cataclyst.
+6505250 6507150 Now, personally, I don't care.
+6507150 6508890 I'd just as soon never set foot<br />in the OASIS again,
+6508890 6511060 let alone have to deal<br />with any of this absurdity.
+6511060 6516260 But I know how important Halliday's<br />competition is to you, so...
+6516260 6520500 I will never let the future of the OASIS<br />rest in your hands, Nolan Sorrento.
+6520500 6524540 Well, that's fine. Three easy steps. One.
+6524540 6527200 Wait, I thought you were bluffing.<br />You know that kills all of us, right?
+6527210 6529270 I've got 10 years' worth of shit<br />inside of me.
+6529280 6530940 Last chance. Two.
+6530940 6532340 I'm not goin' out like that.
+6532350 6533880 That's a camper move.
+6533880 6535560 You don't even know<br />how to activate an orb.
+6547190 6548260 Yeah, I felt those.
+6549490 6551760 But this is my world, Sorrento.
+6555530 6556970 Hadouken!
+6576590 6579220 - No, no, no!<br />- Step three.
+6579220 6580920 No, no, no!
+6638440 6640110 Get me out of this thing.
+6654560 6655990 Uh...
+6655990 6657230 Guys?
+6663630 6665470 Z. He's still alive!
+6673580 6675380 Extra life.
+6677610 6679220 Thanks, Curator.
+6682080 6683220 Hold on.
+6690990 6693590 Live feed in all OASIS channels.
+6693590 6696200 Halliday's letting everyone watch<br />the end of the contest.
+6696200 6697560 That's so Halliday.
+6697560 6699630 God damn it, we tried "Adventure".
+6699630 6701400 No, we tried to win it.
+6701400 6703670 But the hidden room isn't<br />at the end of the game.
+6703670 6706610 You've gotta go straight<br />to the invisible dot at the start.
+6720050 6722020 Is that her?
+6722020 6725420 Red hair, IOI uniform,<br />doesn't know what planet she's on?
+6725430 6726460 That's her.
+6738300 6741040 I'm Toshiro. You know me as Daito.
+6743740 6744980 Oh.
+6747750 6749150 Hey, Arty.
+6751220 6755380 Yeah, I know.<br />Not what you were expecting, huh?
+6755390 6759920 Yeah, I wasn't expecting<br />a late '30s-model postal van.
+6761990 6764160 Wade?
+6764160 6766130 Wait, I thought the Cataclyst went off.<br />How are you still playing?
+6766130 6768630 Extra life, long story. Sorry I shot you.
+6770770 6772600 Sho?
+6772600 6775140 What? Do I have to wear a sign saying,
+6775140 6778270 "I am 11 years old, shoot me first"?<br />No, thanks.
+6778270 6780610 - Dude, give me a hug.<br />- Ninjas don't hug!
+6780610 6782290 All right, everybody,<br />hold on to somethin'.
+6803730 6805200 Got you.
+6808770 6810670 Come on, Nolan. Pick up.
+6812670 6815710 F'Nale, tell me something good.
+6815710 6818280 I've got a drone on their tail. I'm close.
+6818280 6819550 Send me coordinates.
+6819550 6821780 Maybe you should leave this to me, Nolan.
+6823550 6826150 Nolan? Nolan.
+6827620 6828720 Out.
+6837700 6840170 Give me that.
+6843670 6845570 What's goin' on out there?
+6849770 6852410 The game is over for them.<br />What are they watching?
+6854710 6857220 The final key! It's being broadcast.
+6859320 6860780 <i><font color="#80ffff">You see,</font>
+6860790 6863690 <i><font color="#80ffff">Warren Robinett was proud of "Adventure".</font>
+6863690 6866760 <i><font color="#80ffff">He wanted people to know<br />who was behind it.</font>
+6866760 6869490 That's why he created<br />the first digital Easter Egg
+6869490 6872190 and to find it,<br />you didn't even have to win.
+6872200 6876360 You just had to blindly play,<br />searching around
+6876370 6880500 in rooms for an invisible dot.
+6880500 6882870 You took the dot back to the main screen
+6882870 6884440 and that's when you found
+6884480 6887710 the first Easter Egg ever put<br />in a video game.
+6887710 6888990 The creator's name.
+6913630 6915730 What's going on, man? I can't see shit.
+6915740 6917110 Parzival just got the Crystal Key!
+6932420 6934120 Do you want it or not?
+6937460 6939560 Aech, what the hell's going on?
+6939560 6941560 Just practicing my "Mario Kart".<br />What do you think?
+6941560 6943600 IOI's trying to kill us, man!
+6957840 6960180 Everyone watching,<br />if you're in the Columbus stacks,
+6960180 6962250 this is Parzival.
+6962250 6964450 My real-world name is Wade Watts,<br />and we're gonna need your help.
+6964450 6965810 Aech, head for the stacks!
+6965820 6968280 Okay, hold on!
+6992940 6994880 Stick the key in, how hard is it?
+7000620 7001780 Come on.
+7009230 7011230 Yeah! Yes!
+7027470 7028680 That's it?
+7029510 7031380 Yeah, that's it.
+7031380 7035880 Now, you just sign these papers,<br />and the OASIS is yours.
+7035880 7039990 You will be its sole proprietor.
+7039990 7041660 That ain't so bad, is it?
+7063510 7064540 I'm gonna need a second.
+7093040 7095870 This is wrong.
+7095870 7098740 This pen, this contract.
+7101980 7103740 This is the moment<br />that Halliday made Morrow
+7103750 7106310 sign over his shares in Gregarious.
+7106310 7108980 That was the biggest mistake of his life.
+7108980 7110920 He knew that.
+7112890 7114920 This can't be the end.
+7115920 7117830 It's a test.
+7122400 7124870 I won't make the same mistake you did.
+7130770 7132640 Oh, good.
+7135340 7138780 I just needed to be sure.
+7152790 7154990 This is where you grew up.
+7164070 7167000 Oh, that's just me a long time ago.
+7167000 7170810 I like to have him around<br />from time to time.
+7170810 7173110 Hey, I have to show you something.
+7173110 7174810 This, uh... Come on.
+7174810 7176650 This is the button.
+7176650 7179950 If you push it,<br />the whole simulation shuts down
+7179950 7183550 and a tapeworm program will erase<br />all of the backup servers.
+7183550 7187120 So you now have the power<br />to turn the OASIS off forever.
+7187120 7188890 Do you understand?
+7194130 7195500 Yeah,
+7195500 7197460 try not to accidentally erase
+7197470 7199940 the whole of the OASIS on your first day.
+7209510 7211010 The stacks are straight ahead!
+7227030 7230000 Well, I expect you have to go.<br />I know I do.
+7230000 7232530 So, now is the time for you<br />to receive your prize
+7232530 7235070 because you won all three keys.
+7235070 7239770 Once you take this Egg,<br />the game will be over.
+7239770 7242840 The Egg, the Egg...
+7250080 7252720 We know what you did here.
+7252720 7256020 You turn around and walk out of here<br />while you still can.
+7268630 7271200 I created the OASIS
+7271200 7275940 because I never felt at home<br />in the real world.
+7275940 7280210 I just didn't know how to connect<br />with the people there.
+7280210 7283910 I was afraid for all of my life.
+7283910 7286650 Right up until the day<br />I knew my life was ending.
+7292090 7297090 Now, that...<br />That was when I realized that,
+7297090 7302200 as terrifying and painful<br />as reality can be,
+7303270 7307070 it's also the only place
+7308940 7310570 that you can get a decent meal.
+7317250 7318750 Because
+7320280 7322080 reality
+7327260 7328920 is real.
+7328920 7330630 You understand what I'm saying?
+7332260 7335100 Yes. Yes, I do.
+7344870 7346140 He did it.
+7347840 7349110 He got the Egg.
+7350140 7351180 Hooray.
+7352550 7354180 - No!<br />- No! Please!
+7387740 7389010 Hold it!
+7391080 7394850 Drop the gun! Now! On the ground!
+7394850 7397590 Turn around! Hands on your head.
+7397590 7399160 Walk back towards me.
+7414870 7420110 Mr. Halliday.<br />Something I don't understand.
+7420110 7422850 You're not an avatar, are you?
+7423250 7425080 No.
+7426620 7428620 Is Halliday really dead?
+7430290 7431890 Yes.
+7437630 7439190 Then what are you?
+7442630 7444600 Goodbye, Parzival.
+7446270 7447270 Thanks.
+7448900 7451110 Thanks for playing my game.
+7480130 7481230 Wade?
+7482830 7484770 - Ogden Morrow?<br />- Ogden Morrow?
+7484770 7486940 You can call me "Og".
+7486940 7489900 Now, there are some people out here<br />that would very much like to meet you.
+7489910 7493140 Wow, this is incredible.
+7493140 7495910 It's an honor to meet you, Og, but I...
+7500120 7501790 There's something I need to do first.
+7505690 7507260 I'm not like Halliday.
+7511190 7513260 I'm taking the leap.
+7529710 7532850 We're looking for Wade Watts.
+7532850 7535120 We need you to make a statement<br />about the clip you sent in
+7535120 7537320 of Nolan Sorrento's confession.
+7537320 7540050 Uh, that was me.
+7540050 7542420 What? I record everything in my workshop.
+7549030 7550900 Help me out of this.
+7557240 7559340 Who are you guys?
+7559340 7563840 The people you need right now, lawyers.<br />From Gregarious Games.
+7566480 7568310 They want your signature, Wade.
+7576250 7578520 I'm splitting it with my clan.
+7578520 7580330 We're gonna run things together.
+7584860 7587060 That's a good choice.
+7614860 7618460 F'Nale, listen to me very carefully.
+7627100 7630040 Mr. Morrow... I mean, Og,
+7630040 7631540 how'd you get here so fast?
+7631540 7634240 I flew from the stars on my magic sleigh.
+7634240 7636810 Everyone's been watching.
+7636810 7640050 Of course, I've been watching<br />a little closer than most.
+7644080 7645980 You?
+7645990 7647220 You're the Curator?
+7650960 7654430 Well played, Parzival.
+7654430 7656460 Jim told me nothing about the contest,
+7656460 7659830 so there was no rule about me<br />losing a bet to a smart kid.
+7659830 7662470 Not that you needed my help.
+7662470 7666600 You figured out<br />that Kira was the key on your own.
+7666610 7669440 Yeah, but... Kira wasn't the key.
+7670580 7672450 It was you, Mr. Morrow.
+7674580 7676610 You were the Rosebud.
+7676620 7678820 And Halliday's biggest regret was
+7680520 7682120 losing his only friend.
+7686360 7688490 You know, Jim used to say the OASIS
+7688490 7691160 was never supposed to be<br />a one-player game.
+7694870 7697470 Now, who do we have here?
+7697470 7700340 Oh. Well, look who it is.
+7700340 7702100 It's my heroes, the High Five.
+7702110 7703570 - You must be Art3mis.<br />- Samantha.
+7703570 7705510 <i><font color="#80ffff">The High Five took over the OASIS,</font>
+7705510 7707610 <i><font color="#80ffff">and the first thing we did</font>
+7707610 7710640 <i><font color="#80ffff">was sign Ogden Morrow<br />to a non-exclusive consultancy.</font>
+7710650 7713650 <i><font color="#80ffff">The salary, per his demand,</font>
+7713650 7717120 <i><font color="#80ffff">was 25 cents. One quarter.</font>
+7720320 7722520 <i><font color="#80ffff">With his guidance,<br />our second move was to ban</font>
+7722530 7726190 <i><font color="#80ffff">any loyalty centers<br />from accessing the OASIS.</font>
+7726190 7729430 <i><font color="#80ffff">IOI had no choice. They shut 'em all down.</font>
+7732400 7735400 <i><font color="#80ffff">The third thing we did wasn't as popular.</font>
+7735400 7739410 <i><font color="#80ffff">We closed the OASIS<br />on Tuesdays and Thursdays.</font>
+7739410 7741910 <i><font color="#80ffff">I know, it sounds like a weird move,</font>
+7741910 7744610 <i><font color="#80ffff">but people need to spend<br />more time in the real world.</font>
+7746480 7749550 <i><font color="#80ffff">'Cause, like Halliday said,</font>
+7749550 7753890 <i><font color="#80ffff">"reality is the only thing that's real".</font>
+8376455 8380785 <i><font color="#80ffff">Modify </Font>by <font color="Lime">Blue-Bird™</font>
+8380785 8383254 <font color="#ec14bd">Sync & corrections </Font> by <font color="Skyblue" size=10 face=Times New Roman>Blue-Bird™</font>
