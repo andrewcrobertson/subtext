@@ -11,6 +11,7 @@ import { SubdlApi } from '$services/subdl/SubdlApi';
 import { SubdlMovieReader } from '$services/subdl/SubdlMovieReader';
 import { getPkgMeta } from '$utils/getPkgMeta';
 import { createRequestProcessor } from '@get-subtext/automation.process.request';
+import { createRequestGateway } from '@get-subtext/automation.process.request.github';
 import { last, split } from 'lodash';
 import { rootDir } from '../rootDir';
 import { config } from './config';
@@ -43,6 +44,7 @@ export const movieReader = new MovieReader(omdbMovieReader, openSubtitlesMovieRe
 export const getHandler = (dataDir: string, verbose: boolean) => {
   const logger = makeLogger(verbose);
   const fileManager = new FileManager(dataDir);
-  const requestProcessor = createRequestProcessor({ separator: '===', requestGateway: null, requestHandlers: [] });
+  const requestGateway = createRequestGateway({ apiUrlBase: gitHubApiUrlBase, token: gitHubPublicToken, label: '' });
+  const requestProcessor = createRequestProcessor({ separator: '===', requestGateway, requestHandlers: [] });
   return new Handler(gitHubApi, movieReader, fileManager, logger);
 };

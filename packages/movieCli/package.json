@@ -20,6 +20,7 @@
   },
   "dependencies": {
     "@get-subtext/automation.process.request": "workspace:^",
+    "@get-subtext/automation.process.request.github": "workspace:^",
     "@types/adm-zip": "^0.5.5",
     "@types/lodash": "^4.17.12",
     "@types/node": "^22.8.1",

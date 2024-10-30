@@ -1,5 +1,7 @@
-import type { RequestGateway, RequestHandler, RequestProcessor } from '$services/RequestProcessor.types';
-import { StandardRequestProcessor } from '$services/StandardRequestProcessor';
+import { StandardRequestProcessor } from '$services/GitHubRequestGateway';
+import type { RequestGateway, RequestHandler, RequestProcessor } from '$services/GitHubRequestGateway.types';
+
+export type { RequestGateway, RequestHandler, RequestProcessor } from '$services/GitHubRequestGateway.types';
 
 export interface CreateRequestProcessorOptions {
   separator?: string;

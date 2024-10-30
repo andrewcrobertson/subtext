@@ -4,6 +4,7 @@
     "baseUrl": ".",
     "paths": {
       "@get-subtext/automation.process.request": ["packages.automation/process.request/src"],
+      "@get-subtext/automation.process.request.github": ["packages.automation/process.request.github/src"],
       "app": ["packages/app/src"],
       "download": ["packages/download/src"],
       "movie-cli": ["packages/movieCli/src"]

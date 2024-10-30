@@ -1,13 +1,9 @@
 {
   "extends": "@tsconfig/recommended/tsconfig.json",
+  "lib": ["es2022.error"],
   "compilerOptions": {
-    "lib": ["es2022.error"],
     "paths": {
       "@get-subtext/automation.process.request": ["../../packages.automation/process.request/src"],
-      "@get-subtext/automation.process.request.github": ["../../packages.automation/process.request.github/src"],
-      "$composition/*": ["./src/composition/*"],
-      "$config/*": ["./src/config/*"],
-      "$constants/*": ["./src/constants/*"],
       "$services/*": ["./src/services/*"],
       "$utils/*": ["./src/utils/*"]
     }
