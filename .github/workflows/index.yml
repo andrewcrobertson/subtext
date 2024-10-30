@@ -52,3 +52,4 @@ jobs:
         with:
           commit_message: automated data update
           commit_options: '--no-verify --allow-empty'
+          push_options: '--force'
