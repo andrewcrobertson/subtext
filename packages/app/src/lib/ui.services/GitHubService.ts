@@ -8,7 +8,7 @@ export class GitHubService {
 
   public async submitAddMovieRequestIssue(userId: string, imdbId: string) {
     try {
-      const lines = [':robot: This issue is automated.', '', '===', '', 'type: REQUEST_MOVIE', `userId: ${userId}`, `imdbIdId: ${imdbId}`];
+      const lines = [':robot: This issue is automated.', '', '===', '', 'type: REQUEST_MOVIE', `userId: ${userId}`, `imdbId: ${imdbId}`];
 
       const url = `${this.baseApi}/issues`;
       const headers = { Authorization: `token ${this.token}`, Accept: 'application/vnd.github+json', 'Content-Type': 'application/json' };
