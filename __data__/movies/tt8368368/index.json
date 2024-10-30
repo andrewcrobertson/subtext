@@ -1,0 +1,31 @@
+{
+  "imdbId": "tt8368368",
+  "title": "The Apprentice",
+  "releaseDate": "2024-10-11T00:00:00.000Z",
+  "releaseYear": 2024,
+  "posterFileName": "poster.jpg",
+  "rated": "R",
+  "genres": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "directors": [
+    "Ali Abbasi"
+  ],
+  "writers": [
+    "Gabriel Sherman"
+  ],
+  "actors": [
+    "Sebastian Stan",
+    "Jeremy Strong",
+    "Maria Bakalova"
+  ],
+  "runTime": 120,
+  "plot": "The story of how a young Donald Trump started his real-estate business in 1970s and '80s New York with the helping hand of infamous lawyer Roy Cohn.",
+  "subtitleIds": [
+    "50743f69",
+    "538c0814"
+  ],
+  "isAvailable": true
+}
