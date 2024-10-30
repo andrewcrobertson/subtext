@@ -1,0 +1,41 @@
+{
+  "imdbId": "tt0435651",
+  "title": "The Giver",
+  "releaseDate": "2014-08-15T00:00:00.000Z",
+  "releaseYear": 2014,
+  "posterFileName": "poster.jpg",
+  "rated": "PG-13",
+  "genres": [
+    "Drama",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "directors": [
+    "Phillip Noyce"
+  ],
+  "writers": [
+    "Michael Mitnick",
+    "Robert B. Weide",
+    "Lois Lowry"
+  ],
+  "actors": [
+    "Brenton Thwaites",
+    "Jeff Bridges",
+    "Meryl Streep"
+  ],
+  "runTime": 97,
+  "plot": "In a seemingly perfect community without war, pain, suffering, differences or choices, a young boy is chosen to learn from an elderly man, the true pain and pleasure of the \"real\" world.",
+  "subtitleIds": [
+    "912b4aba",
+    "6e4b6558",
+    "6093e417",
+    "e68668cb",
+    "7a0bbb22",
+    "1028b4e8",
+    "d7abb604",
+    "15c3e012",
+    "97b4b1c8",
+    "6093e417"
+  ],
+  "isAvailable": true
+}
