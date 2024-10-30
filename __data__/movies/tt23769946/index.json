@@ -1,0 +1,27 @@
+{
+  "imdbId": "tt23769946",
+  "title": "Un mondo a parte",
+  "releaseDate": "2024-03-28T00:00:00.000Z",
+  "releaseYear": 2024,
+  "posterFileName": "poster.jpg",
+  "rated": "N/A",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "directors": [
+    "Riccardo Milani"
+  ],
+  "writers": [
+    "Riccardo Milani"
+  ],
+  "actors": [
+    "Antonio Albanese",
+    "Virginia Raffaele",
+    "Alessandra Barbonetti"
+  ],
+  "runTime": 113,
+  "plot": "Michele relocates from capital to remote village Rupe in Abruzzo park. Challenges emerge as she aims to keep local school with few students open, set against idyllic winter and summer backdrops.",
+  "subtitleIds": [],
+  "isAvailable": true
+}
