@@ -1,0 +1,27 @@
+{
+  "imdbId": "tt31711040",
+  "title": "Look Back",
+  "releaseDate": "2024-06-28T00:00:00.000Z",
+  "releaseYear": 2024,
+  "posterFileName": "poster.jpg",
+  "rated": "N/A",
+  "genres": [
+    "Animation",
+    "Drama"
+  ],
+  "directors": [
+    "Kiyotaka Oshiyama"
+  ],
+  "writers": [
+    "Kiyotaka Oshiyama",
+    "Tatsuki Fujimoto"
+  ],
+  "actors": [
+    "Yumi Kawai",
+    "Mizuki Yoshida"
+  ],
+  "runTime": 58,
+  "plot": "The overly confident Fujino and the shut-in Kyomoto couldn't be more different, but a love of drawing manga brings these two small-town girls together.",
+  "subtitleIds": [],
+  "isAvailable": true
+}
