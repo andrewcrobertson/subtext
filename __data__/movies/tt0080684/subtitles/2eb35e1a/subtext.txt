@@ -1,0 +1,1135 @@
+203880 205632 Echo Three to Echo Seven.
+205760 207671 Han, old buddy,<br />do you read me?
+207800 209756 <i>Loud and clear, kid.<br />What's up?</i>
+209880 212440 I finished my circle.<br />I don't pick up any life readings.
+212560 215358 <i>There isn't enough life on this ice cube<br />to fill a space cruiser.</i>
+215480 217198 <i>The sensors are placed.<br />I'm going back.</i>
+217320 219117 Right. I'll see you shortly.
+219240 221232 There's a meteorite<br />that hit the ground near here.
+221361 223477 I want to check it out.<br />It won't take long.
+223601 224590 Steady.
+225961 229078 Steady, girl. What's the matter?<br />You smell something?
+268562 270314 Chewie. Chewie?
+276002 278197 All right.<br />Don't lose your temper.
+278322 280631 I'll come right back<br />and give you a hand.
+300403 301392 Solo.
+301523 304162 No sign of life out there, General.<br />The sensors are in place.
+304283 306956 - You'll know if anything comes around.<br />- Commander Skywalker reported in yet?
+307083 309756 No. He's checking out<br />a meteorite that hit near him.
+309883 313239 With all the meteor activity, it's gonna<br />be difficult to spot approaching ships.
+313363 315194 General, I gotta leave.<br />I can't stay any more.
+315323 318042 - I'm sorry to hear that.<br />- There's a price on my head.
+318163 320393 If I don't pay off Jabba the Hutt,<br />I'm a dead man.
+320523 322276 A death mark's not<br />an easy thing to live with.
+323724 326192 You're a good fighter, Solo.<br />I hate to lose you.
+326324 327677 Thank you, General.
+335484 337361 Well, Your Highness,<br />guess this is it.
+338284 339273 That's right.
+342044 344319 Don't get all mushy on me.<br />So long, Princess.
+347204 348353 Han.
+349964 353036 - Yes, Your Highnessness.<br />- I thought you had decided to stay.
+353164 355884 The bounty hunter we ran into<br />in Ord Mantell changed my mind.
+356005 358155 Han, we need you.
+358285 360276 - We need?<br />- Yes.
+360405 362760 - What about you need?<br />- I need?
+362885 365240 <i>I don't know what<br />you're talking about.</i>
+365365 368721 - You probably don't.<br />- What precisely am I supposed to know?
+368845 372155 Come on. You want me to stay because<br />of the way you feel about me.
+372285 374753 Yes. You're a great help to us.<br />You're a natural leader.
+374885 377319 No. That's not it.
+377445 379003 Come on.
+380245 382156 - Come on.<br />- You're imagining things.
+382285 384116 Am I?<br />Then why are you following me?
+384245 386361 Afraid I'd leave<br />without giving you a goodbye kiss?
+386485 388953 - I'd just as soon kiss a Wookiee.<br />- I can arrange that.
+389086 391122 You could use a good kiss!
+392126 394720 Don't blame me. I didn't ask you<br />to turn on the thermal heater.
+394846 398122 I merely commented that it was freezing<br />in the princess's chamber.
+398246 399998 It's supposed to be freezing.
+400126 402435 How we're going to dry<br />her clothes I really don't know.
+402566 403715 Oh, switch off!
+403846 406804 Why did you take this apart now?<br />I'm trying to get us out of here.
+406926 408962 - Excuse me.<br />- Put them back together right now.
+409086 411042 - Might I have a word?<br />- What do you want?
+411166 413555 Princess Leia's been trying<br />to get you on the communicator.
+413686 415756 I turned it off.<br />I don't want to talk to her.
+415886 418639 Princess Leia is wondering about<br />Master Luke. He hasn't come back.
+418766 420916 - She doesn't know where he is.<br />- I don't know where he is.
+421046 423720 - Nobody knows where he is.<br />- What do you mean, nobody knows?
+423847 425075 Deck Officer.
+425207 427596 - Deck Officer.<br />- Excuse me, sir. Might I-
+427727 429399 Do you know where<br />Commander Skywalker is?
+429527 432087 I haven't seen him. It's possible<br />he came in the south entrance.
+432207 434323 It's possible?<br />Why don't you go find out?
+434447 436881 - It's getting dark out there.<br />- Yes, sir.
+437007 439282 Excuse me, sir.<br />Might I enquire what's going on?
+439407 441602 - Why not?<br />- Impossible man.
+441727 443638 Come along, R2.<br />Let's find Princess Leia.
+443767 446679 Between ourselves, I think<br />Master Luke is in considerable danger.
+455927 457998 Commander Skywalker<br />hasn't come in the south entrance.
+458128 460483 - Maybe he forgot to check in.<br />- Not likely. Are the speeders ready?
+460608 462599 Not yet. We're having trouble<br />adapting them to the cold.
+462728 465561 - We'll have to go out on tauntauns.<br />- The temperature's dropping too rapidly.
+465688 467644 That's right,<br />and my friend's out in it.
+472248 474603 Your tauntaun will freeze<br />before you reach the first marker.
+474728 476684 Then I'll see you in hell.
+608892 610689 You must come along now, R2.
+610812 612768 There's really<br />nothing more we can do.
+612892 614883 And my joints are freezing up.
+615932 619686 Don't say things like that.<br />Of course we'll see Master Luke again.
+619812 622451 And he'll be quite all right.<br />You'll see.
+622572 626043 Stupid little short circuit.<br />He'll be quite all right.
+681294 684013 Sir, all the patrols are in.<br />Still no-
+685214 687933 Still no contact<br />from Skywalker or Solo.
+688054 691967 Mistress Leia, R2 says he's been<br />quite unable to pick up any signals...
+692095 695326 although he admits that his own range<br />is far too weak to abandon all hope.
+695455 697491 Your Highness,<br />there's nothing more we can do tonight.
+697615 699845 The shield doors must be closed.
+701135 703444 - Close the doors.<br />- Yes, sir.
+704895 709446 R2 says the chances<br />of survival are 725-to-1.
+720575 724124 Actually, R2 has been known<br />to make mistakes...
+726736 728647 from time to time.
+728776 730528 Oh, dear. Oh, dear.
+733376 735890 Don't worry about Master Luke.<br />I'm sure he'll be all right.
+736016 738689 He's quite clever, you know,<br />for a human being.
+754176 755768 <i>Luke.</i>
+757536 758810 Luke.
+766017 767496 Ben?
+767617 770131 You will go to<br />the Dagobah system.
+770257 771929 Dagobah system?
+772057 775367 There you will<br />learn from Yoda...
+775497 779092 the Jedi master<br />who instructed me.
+796818 800049 Don't do this, Luke.<br />Give me a sign here.
+822818 825013 - Not much time.<br />- Ben.
+831379 832334 Hang on, kid.
+834419 836535 Dagobah system. Dagobah.
+836659 838251 This may smell bad, kid...
+839579 841410 Yoda.
+841539 845817 but it'll keep you warm<br />till I get the shelter up.
+845939 847895 Ben. Dagobah.
+851659 853570 I thought they smelled bad...
+853699 855451 on the outside.
+897021 899330 Echo Base, I've got something.
+899461 901292 Not much,<br />but it could be a life form.
+905741 907891 Commander Skywalker,<br />do you copy?
+908021 909818 This is Rogue Two.
+909941 912501 This is Rogue Two.
+912621 915340 Captain Solo, do you copy?
+920821 924131 Commander Skywalker,<br />do you copy?
+924261 926013 This is Rogue Two.
+926141 929100 <i>Good morning.<br />Nice of you guys to drop by.</i>
+930022 932934 Echo Base, this is Rogue Two.
+933062 935530 I've found them.<br />Repeat. I've found them.
+964943 968099 Master Luke, sir, it's so good<br />to see you fully functional again.
+968223 970817 - Thanks, 3PO.<br />- R2 expresses his relief also.
+970943 974299 How ya feelin', kid?<br />You don't look so bad to me.
+974423 977176 You look strong enough<br />to pull the ears off a gundark.
+977303 980932 - Thanks to you.<br />- That's two you owe me, junior.
+981063 982337 Well, Your Worship...
+982463 985421 looks like you managed to keep me around<br />for a little while longer.
+985543 987340 I had nothing to do with it.
+987463 989977 General Rieekan thinks<br />it's dangerous for any ships to leave...
+990103 991934 until we've activated the energy field.
+992063 993257 That's a good story.
+993383 997138 I think you just can't bear to let a<br />gorgeous guy like me out of your sight.
+997264 1000415 <i>I don't know where<br />you get your delusions, laser brain.</i>
+1003744 1005860 Laugh it up, fuzzball...
+1005984 1008942 but you didn't see us alone<br />in the south passage.
+1009064 1011214 She expressed<br />her true feelings for me.
+1011344 1012413 My-
+1012544 1015820 Why, you stuck-up, half-witted...
+1015944 1017900 scruffy-looking nerf herder!
+1019144 1020941 Who's scruffy-lookin'?
+1024184 1027415 I must have hit close to the mark<br />to get her riled up like that, huh, kid?
+1030985 1033738 I guess you don't know<br />everything about women yet.
+1039745 1042305 <i>Headquarters personnel,<br />report to command centre.</i>
+1045145 1047943 <i>Headquarters personnel,<br />report to command centre.</i>
+1048065 1049942 Take it easy.
+1050065 1052021 Excuse us, please.
+1054225 1056181 Princess, we have a visitor.
+1057305 1060058 We picked up something<br />outside Zone 12 moving east.
+1060185 1062336 - It's metal.<br />- It couldn't be one of those creatures.
+1062466 1066095 - Could be one of our speeders.<br />- No. Wait.
+1066226 1068740 There's something<br />very weak coming through.
+1071946 1074858 Sir, I am fluent in six million<br />forms of communication.
+1074986 1077978 This signal is not used by the Alliance.<br />It could be an imperial code.
+1083746 1085702 It isn't friendly.<br />Chewie, let's check it out.
+1085826 1088704 Send Rogues 10 and 11<br />to Station 38.
+1123427 1125383 <i>- I'm afraid there's not much left.<br />- What was it?</i>
+1125507 1127463 <i>Droid of some kind.<br />I didn't hit it that hard.</i>
+1127587 1130898 <i>- Must have had a self-destruct.<br />- An imperial probe droid.</i>
+1131028 1133781 <i>It's a good bet the Empire<br />knows we're here.</i>
+1133908 1136028 We'd better start the evacuation.
+1179189 1181578 - Admiral.<br />- Yes, Captain?
+1182949 1185702 I think we've got something, sir.<br />The report is only a fragment...
+1185829 1188582 from a probe droid in the Hoth system,<br />but it's the best lead we've had.
+1188709 1191667 We have thousands of probe droids<br />searching the galaxy.
+1191789 1194622 - I want proof, not leads.<br />- The visuals indicate life readings.
+1194749 1196899 It could mean anything.<br />If we followed up every lead-
+1197030 1199942 But, sir, the Hoth system is<br />supposed to be devoid of humans forms.
+1200110 1202340 - You found something?<br />- Yes, my lord.
+1204710 1206905 That's it.<br />The rebels are there.
+1207830 1211300 My lord, there are so many<br />uncharted settlements.
+1211430 1214069 - It could be smugglers-<br />- That is the system.
+1214190 1216465 And I'm sure Skywalker is with them.
+1216590 1219468 Set your course<br />for the Hoth system.
+1219590 1221899 General Veers,<br />prepare your men.
+1222030 1223304 Admiral.
+1229790 1231827 Groups Seven and 10<br />will stay behind to fly the speeders.
+1231951 1233703 As soon as each transport is loaded...
+1233831 1235787 evacuation control<br />will give clearance for launch.
+1235911 1237503 Right, sir.
+1239591 1241547 All right. That's it.
+1241671 1243024 Try it.
+1244751 1247345 Turn it off! Turn it off!
+1249671 1252902 Sir, it will take quite a while<br />to evacuate the T-47 s.
+1253031 1256501 Forget the heavy equipment. There's time<br />to get small modules on the transports.
+1256631 1258587 - Take care, sir.<br />- Thanks.
+1261871 1264864 Chewie, take care of yourself, okay?
+1268472 1270030 Okay, okay.
+1271432 1272831 Hi, kid.
+1272952 1275910 There's gotta be a reason for it.<br />Check it at the other end.
+1276032 1277385 Wait a second.
+1278432 1280741 - Are you all right?<br />- Yeah.
+1286712 1288782 Be careful.
+1288912 1290664 You too.
+1296552 1298350 General, there's<br />a fleet of Stardestroyers...
+1298473 1300623 coming out of hyperspace<br />in Sector Four.
+1300753 1303586 Reroute all power<br />to the energy shield.
+1303713 1306671 We gotta hold them till<br />all transports are away.
+1306793 1308749 Prepare for ground assault.
+1322073 1325270 - What is it, General?<br />- The fleet has moved out of light speed.
+1325393 1327384 ComScan has detected<br />an energy field...
+1327513 1329981 protecting an area of the sixth planet<br />of the Hoth system.
+1330113 1332469 The field is strong enough<br />to deflect any bombardment.
+1332594 1334949 The rebels are alerted<br />to our presence.
+1335074 1338032 Admiral Ozzel came out of light speed<br />too close to the system.
+1338154 1340304 He felt surprise was wiser.
+1340434 1342425 He is as clumsy as he is stupid.
+1342554 1345990 General, prepare your troops<br />for a surface attack.
+1346114 1347672 Yes, my lord.
+1354274 1355423 <i>Lord Vader.</i>
+1355554 1358432 <i>The fleet has moved out of light speed,<br />and we're preparing to-</i>
+1359474 1363433 You have failed me<br />for the last time, Admiral.
+1363554 1365830 <i>- Captain Piett.<br />- Yes, my lord?</i>
+1365955 1368833 Make ready to land our troops<br />beyond their energy field...
+1368955 1371788 and deploy the fleet so that<br />nothing gets off the system.
+1371915 1374952 You are in command now,<br />Admiral Piett.
+1375075 1376827 <i>Thank you, Lord Vader.</i>
+1378355 1381313 All troop carriers will assemble<br />at the north entrance.
+1381435 1383995 The heavy transport ships<br />will leave as soon as they're loaded.
+1384115 1386071 Only two fighter escorts per ship.
+1386195 1389153 The energy shield<br />can only be opened for a short time...
+1389275 1391664 so you'll have to stay very close<br />to your transports.
+1391795 1393786 Two fighters against a Stardestroyer?
+1393915 1395871 The ion cannon will fire<br />several shots...
+1395995 1398988 to make sure that any enemy ships<br />will be out of your flight path.
+1399116 1401107 When you've gotten past<br />the energy shield...
+1401236 1403192 proceed directly<br />to the rendezvous point.
+1403316 1405147 Understood?
+1405276 1406789 Good luck.
+1406916 1409271 Everybody to your stations.<br />Let's go.
+1425716 1428674 Their primary target will be<br />the power generators.
+1428796 1430548 Prepare to open shield.
+1436157 1438227 Sir, rebel ships are<br />coming into our sector.
+1438357 1440348 Good. Our first catch of the day.
+1442317 1444273 Stand by, ion control.
+1445317 1446272 Fire.
+1460917 1463829 <i>The first transport is away.</i>
+1463957 1466597 <i>The first transport is away.</i>
+1472838 1474635 Feeling all right, sir?
+1474758 1476555 Just like new, Dak.<br />How about you?
+1476678 1479476 Right now I feel I could take on<br />the whole Empire myself.
+1479598 1481554 I know what you mean.
+1499158 1502310 Echo Station 3-T8.<br />We've spotted imperial walkers.
+1502439 1504794 <i>Imperial walkers<br />on the north ridge.</i>
+1525999 1528194 Echo Station 57,<br />we're on our way.
+1533399 1535311 All right, boys,<br />keep tight now.
+1535440 1537476 Luke, I have no approach vector.<br />I'm not set.
+1537600 1538999 Steady, Dak.
+1539120 1540872 Attack pattern Delta.<br />Go now.
+1544520 1546078 I'm coming in.
+1550440 1551429 Hobbie, you still with me?
+1573241 1575277 That armour's too strong for blasters.
+1577641 1579711 Rogue Group,<br />use your harpoons and tow cables.
+1579841 1581911 Go for the legs.<br />It might be our only chance.
+1584201 1585395 Stand by, Dak.
+1585521 1588194 Luke, we've got<br />a malfunction in fire control.
+1588321 1590232 I'll have to cut in the auxiliary.
+1590361 1592158 Just hang on.
+1592281 1594954 Hang on, Dak.<br />Get ready to fire that tow cable.
+1600161 1601072 Dak?
+1624242 1627040 Yes, Lord Vader.<br />I've reached the main power generators.
+1627162 1630120 The shield will be down in moments.<br />You may start your landing.
+1634923 1636038 Rogue Three.
+1636163 1637516 Copy, Rogue Leader.
+1637643 1640476 <i>Wedge, I've lost my gunner.<br />You'll have to make this shot.</i>
+1640603 1642241 <i>I'll cover for you.</i>
+1642363 1644593 Set your harpoon.<br />Follow me on the next pass.
+1645803 1647634 Coming around, Rogue Leader.
+1650403 1651802 Steady, Rogue Two.
+1652763 1653752 Activate harpoon.
+1656643 1658076 Good shot,Janson.
+1663883 1666078 One more pass.
+1671444 1673594 Cable out.<br />Let her go!
+1673724 1674873 Detach cable.
+1675604 1676673 Cable detached.
+1684244 1685802 Come on!
+1693324 1695792 - That got him!<br />- I see it, Wedge. Good work.
+1696324 1698280 I don't think we can protect<br />two transports at a time.
+1698404 1700599 It's risky, but we can't<br />hold out much longer.
+1700724 1702283 We have no choice.
+1703205 1705765 - Launch patrol.<br />- Evacuate remaining ground staff.
+1710445 1713835 This one goes there,<br />that one goes there. Right?
+1713965 1717275 R2, you take good care<br />of Master Luke now, understand?
+1719045 1721081 And do take good care of yourself.
+1724645 1726078 Oh, dear. Oh, dear.
+1748926 1751156 All troops will debark<br />for ground assault.
+1751286 1753641 Prepare to target<br />the main generator.
+1757166 1760476 - Rogue Two, are you all right?<br />- Yeah. I'm with you, Rogue Leader.
+1760606 1762358 Set harpoon.<br />I'll cover for you.
+1763886 1766684 - Coming around.<br />- Watch that crossfire, boys.
+1768086 1769805 Set for position three.
+1769927 1771155 Steady.
+1771287 1773676 Stay tight and low.<br />This is it!
+1779327 1780521 Hobbie!
+1780647 1782046 I've been hit!
+1823048 1825608 - You all right?<br />- Why are you still here?
+1825728 1828606 - Heard the command centre had been hit.<br />- You've got your clearance to leave.
+1828728 1832004 Don't worry. I'll leave.<br />First I'm gonna get you to your ship.
+1832128 1835086 Your Highness, we must take<br />this last transport. It's our only hope.
+1835208 1838167 Send all troops in Sector 12 to<br />the south slope to protect the fighters.
+1839769 1841725 <i>Imperial troops<br />have entered the base.</i>
+1841849 1843407 <i>Imperial troops have entered-</i>
+1843529 1845326 Come on. That's it.
+1845449 1847679 Give the evacuation code signal.
+1849529 1851485 And get to your transports.
+1851609 1852678 Wait for me.
+1852809 1854208 Begin retreat!
+1855249 1857001 Fall back!
+1912411 1915528 - Distance to power generators?<br />- 17.28.
+1924291 1926122 Target. Maximum firepower.
+1951412 1953880 Transport, this is Solo.<br />Take off. I can't get to you.
+1954012 1955843 <i>I'll get her out on the Falcon.<br />Come on.</i>
+1958372 1960328 Where are you going?<br />Come back!
+1978093 1981324 Wait! Wait for me! Stop!
+1981453 1983205 - How typical.<br />- Come on.
+1986973 1989771 Hurry up, goldenrod!<br />You're gonna be a permanent resident.
+1989893 1991565 Wait! Wait!
+2008774 2011811 - How's this?<br />- Would it help if I got out and pushed?
+2011934 2014050 - Captain Solo. Captain Solo.<br />- It might.
+2015294 2017854 Sir, might I suggest that you-
+2017974 2019566 It can wait.
+2023654 2026043 This bucket of bolts<br />will never get past that blockade.
+2026174 2028130 This baby's got<br />a few surprises left in her.
+2036934 2038653 Come on! Come on!
+2038775 2041608 Switch over.<br />Let's hope we don't have a burnout.
+2043615 2044206 See?
+2044335 2046530 Someday you'll be wrong.<br />I hope I'm there to see it.
+2049295 2050364 Punch it!
+2067735 2068690 R2.
+2070295 2072252 Get her ready for take-off.
+2074456 2076526 Good luck, Luke.<br />See you at the rendezvous.
+2079856 2082211 Don't worry, R2.<br />We're going. We're going.
+2093856 2097292 There's nothing wrong, R2.<br />I'm just setting a new course.
+2100616 2104609 We're not gonna regroup with the others.<br />We're going to the Dagobah system.
+2106897 2108296 Yes, R2.
+2111097 2113930 That's all right. I'd like to keep it<br />on manual control for a while.
+2129977 2132252 - I saw 'em! I saw 'em!<br />- Saw what?
+2132377 2134447 Stardestroyers,<br />two of'em coming right at us.
+2134577 2137250 - Sir, might I suggest-<br />- Shut him up or shut him down!
+2138977 2140934 Check the deflector shield.
+2142898 2144854 Great. Well, we can still<br />outmanoeuvre them.
+2149018 2150895 Take evasive action!
+2161978 2164651 - Prepare to jump to light speed.<br />- But, sir!
+2165618 2167256 They're getting closer.
+2167378 2169414 Oh, yeah?<br />Watch this.
+2172418 2173977 Watch what?
+2175499 2177854 - I think we're in trouble.<br />- If I may say so...
+2177979 2180334 I noticed earlier the hyperdrive<br />motivator has been damaged.
+2180459 2183417 - It's impossible to go to light speed.<br />- We're in trouble.
+2187539 2188733 Horizontal boosters!
+2190859 2192770 Alluvial dampers.
+2195499 2198059 That's not it.<br />Bring me the hydrospanner.
+2201419 2203979 I don't know how<br />we're gonna get out of this one.
+2206579 2207729 Chewie!
+2211260 2213216 That wasn't a laser blast.<br />Something hit us.
+2213340 2214693 Han, get up here.
+2216380 2217733 Come on, Chewie!
+2218540 2219495 Asteroids.
+2223300 2225768 - Chewie, set 271.<br />- What are you doing?
+2227220 2229336 You're not actually going<br />into an asteroid field?
+2229460 2231132 They'd be crazy to follow us,<br />wouldn't they?
+2234220 2236051 You don't have to do this<br />to impress me.
+2236180 2239217 Sir, the possibility of successfully<br />navigating an asteroid field...
+2239340 2242458 - is approximately 3,720-to-1.<br />- Never tell me the odds.
+2269301 2272293 You said you wanted to be around when<br />I made a mistake. This could be it.
+2272421 2273979 I take it back.
+2274101 2277060 We're gonna get pulverized<br />if we stay out here much longer.
+2277182 2278900 - Ain't gonna argue with that.<br />- Pulverized?
+2279022 2280774 I'm going closer<br />to one of the big ones.
+2280902 2282654 - Closer?<br />- Closer?
+2308663 2310460 This is suicide!<br />There's nowhere to go.
+2310583 2312460 There. That looks pretty good.
+2312583 2314380 What looks pretty good?
+2314503 2316778 Yeah. That'll do nicely.
+2316903 2319622 Excuse me, ma'am,<br />but where are we going?
+2329183 2331299 I hope you know<br />what you're doing.
+2331423 2332776 Yeah. Me too.
+2341223 2343374 Yep, that's it. Dagobah.
+2345744 2347860 No, I'm not gonna change<br />my mind about this.
+2348784 2351139 I'm not picking up<br />any cities or technology.
+2351264 2353220 Massive life form readings though.
+2354264 2356220 There's something alive down there.
+2357824 2360577 Yes. I'm sure<br />it's perfectly safe for droids.
+2367984 2369622 I know! I know!
+2369744 2372304 All the scopes are dead.<br />I can't see a thing.
+2372424 2375337 Just hang on.<br />I'm gonna start the landing cycle.
+2427266 2429780 No, R2, you stay put.<br />I'll have a look around.
+2434106 2435255 R2?
+2439066 2440135 Where are you?
+2443667 2444895 R2!
+2451507 2452986 You be more careful.
+2455907 2458580 R2, that way.
+2485508 2486782 R2!
+2513309 2514742 Oh, no.
+2515949 2517905 Are you all right?<br />Come on.
+2521309 2523265 You were lucky<br />to get out of there.
+2524469 2526187 Anything broken?
+2528829 2531787 If you're saying<br />coming here was a bad idea...
+2531909 2533979 I'm beginning to agree with ya.
+2534109 2536669 R2, what are we doing here?
+2536789 2538142 It's like...
+2539189 2541145 something out of a dream or-
+2542069 2544026 I don't know.
+2544150 2546106 Maybe I'm just going crazy.
+2577151 2578470 Yes, Admiral?
+2578591 2580582 <i>Our ships have sighted<br />the Millennium Falcon, lord...</i>
+2580711 2583669 but it has entered an asteroid field,<br />and we cannot risk-
+2583791 2586464 Asteroids do not<br />concern me, Admiral.
+2586591 2589981 - I want that ship, not excuses.<br />- Yes, lord.
+2595871 2598829 I'm gonna shut down everything<br />but the emergency power systems.
+2598951 2602739 Sir, I'm almost afraid to ask, but does<br />that include shutting me down too?
+2602871 2604827 <i>No. I need you<br />to talk to the Falcon...</i>
+2604951 2607101 find out what's wrong<br />with the hyperdrive.
+2614632 2617988 Sir, it's quite possible<br />this asteroid is not entirely stable.
+2618112 2619909 Not entirely stable?
+2620032 2621988 I'm glad you're here<br />to tell us these things.
+2622112 2625548 Chewie, take the professor in the back<br />and plug him into the hyperdrive.
+2625672 2628061 Sometimes I just don't<br />understand human behaviour.
+2628192 2630422 After all, I'm only<br />trying to do my job.
+2635312 2636665 Let go.
+2638432 2640627 - Let go, please.<br />- Don't get excited.
+2640752 2644301 Captain, being held by you<br />isn't quite enough to get me excited.
+2644432 2646185 Sorry, sweetheart.
+2646313 2648873 I haven't got time<br />for anything else.
+2681914 2685190 Ready for some power?<br />Okay.
+2689034 2690387 Let's see now.
+2690514 2692709 Put that in there.<br />There you go.
+2695714 2698353 Now all I gotta do<br />is find this Yoda...
+2698474 2700669 if he even exists.
+2705954 2708752 It's really a strange place<br />to find a Jedi master.
+2710154 2711907 This place gives me the creeps.
+2715675 2717028 Still...
+2718275 2720186 there's something familiar<br />about this place.
+2722355 2724073 I don't know.
+2724195 2726151 - I feel like-<br />- Feel like what?
+2727195 2728753 Like we're being watched.
+2728875 2731753 Away put your weapon.<br />I mean you no harm.
+2732955 2735515 I am wondering,<br />why are you here?
+2737155 2740033 - I'm looking for someone.<br />- Looking?
+2740155 2742669 Found someone you have,<br />I would say.
+2743835 2745314 Right.
+2746236 2748511 Help you I can. Yes.
+2749356 2750505 I don't think so.
+2752076 2754670 I'm looking for a great warrior.
+2754796 2756354 Great warrior.
+2759316 2761466 Wars not make one great.
+2769516 2771154 Put that down.
+2771276 2773107 Hey! That's my dinner.
+2776316 2778910 How you get so big<br />eating food of this kind?
+2779036 2781153 Listen, friend, we didn't mean<br />to land in that puddle.
+2781277 2783711 If we could get our ship out, we would.<br />But we can't.
+2783837 2785828 Aw, cannot get your ship out.
+2785957 2787549 Get out of there.
+2790677 2792872 Hey, you could have broken this.
+2794437 2796393 Don't do that.
+2805117 2807073 You're making a mess.
+2808517 2810473 Hey, give me that.
+2810597 2813032 Mine, or I will help you not.
+2813158 2815069 I don't want your help.<br />I want my lamp back.
+2815198 2817837 I'm gonna need it to get out of<br />this slimy mud-hole.
+2817958 2819994 Mud-hole? Slimy?<br />My home this is.
+2823718 2825071 R2, let him have it.
+2827678 2830272 - Mine! Mine! Mine!<br />- R2.
+2834038 2837269 Will you move along, little fella?<br />We got a lot of work to do.
+2838318 2841390 Stay and help you I will.<br />Find your friend.
+2842238 2844991 I'm not looking for a friend.<br />I'm looking for a Jedi master.
+2847039 2849314 Jedi master. Yoda.
+2849439 2851907 - You seek Yoda.<br />- You know him?
+2853639 2855595 Take you to him I will.
+2856799 2859791 Yes, yes, but now we must eat.
+2859919 2862479 Come.<br />Good food. Come.
+2871879 2873437 Come, come.
+2875559 2876594 R2...
+2877439 2879589 stay and watch after the camp.
+2892600 2894556 Where is R2 when I need him?
+2894680 2897240 Sir, I don't know where your ship<br />learned to communicate...
+2897360 2899191 but it has the most peculiar dialect.
+2899320 2902676 I believe it says the power coupling<br />on the negative axis has been polarized.
+2902800 2905155 I'm afraid you'll have to replace it.
+2906200 2908350 Well, of course<br />I'll have to replace it.
+2909560 2911676 Here. And, Chewie...
+2913280 2915841 I think we better replace<br />the negative power coupling.
+2937321 2939881 Hey, Your Worship,<br />I'm only trying to help.
+2940001 2942356 Would you please<br />stop calling me that?
+2942481 2944358 Sure, Leia.
+2944481 2947758 - You make it so difficult sometimes.<br />- I do. I really do.
+2948802 2950952 You could be a little nicer though.
+2951082 2953642 Admit it.<br />Sometimes you think I'm all right.
+2955922 2958072 Occasionally, maybe...
+2958202 2960557 when you aren't acting<br />like a scoundrel.
+2960682 2962035 Scoundrel?
+2965842 2967480 I like the sound of that.
+2968522 2971195 - Stop that.<br />- Stop what?
+2971322 2973392 Stop that.<br />My hands are dirty.
+2973522 2975592 My hands are dirty too.<br />What are you afraid of?
+2975722 2977758 - Afraid?<br />- You're trembling.
+2978682 2980673 I'm not trembling.
+2982083 2984438 You like me because I'm a scoundrel.
+2984563 2986872 There aren't enough<br />scoundrels in your life.
+2987003 2988959 I happen to like nice men.
+2989083 2991643 - I'm a nice man.<br />- No, you're not.
+2994443 2995398 Sir, sir!
+2995523 2998276 I've isolated<br />the reverse power flux coupling.
+3000443 3001592 Thank you.
+3001723 3004556 - Thank you very much.<br />- You're perfectly welcome, sir.
+3010403 3013395 <i>That, Lord Vader, was the last time<br />they appeared in any of our scopes.</i>
+3013523 3016322 <i>Considering the damage we've sustained,<br />they must have been destroyed.</i>
+3016444 3019595 No, Captain, they're alive.
+3019724 3023876 I want every ship available to sweep<br />the asteroid field until they are found.
+3028244 3031395 - Lord Vader.<br />- Yes, Admiral. What is it?
+3031524 3033674 The emperor commands you<br />to make contact with him.
+3033804 3035874 Move the ship out of<br />the asteroid field...
+3036004 3038154 so that we can send<br />a clear transmission.
+3038284 3039842 Yes, my lord.
+3055765 3058199 What is thy bidding, my master?
+3059445 3063324 <i>There is a great disturbance<br />in the Force.</i>
+3064165 3066395 I have felt it.
+3066525 3068959 <i>We have a new enemy-</i>
+3069085 3072919 <i>the young rebel who destroyed<br />the Death Star.</i>
+3073045 3076037 <i>I have no doubt this boy...</i>
+3076165 3080363 <i>is the offspring of Anakin Skywalker.</i>
+3080485 3082636 How is that possible?
+3082766 3085997 <i>Search your feelings, Lord Vader.</i>
+3086126 3089198 <i>You will know it to be true.</i>
+3089326 3091681 <i>He could destroy us.</i>
+3091806 3093797 He's just a boy.
+3093926 3096281 Obi-Wan can no longer help him.
+3096406 3099842 <i>The Force is strong with him.</i>
+3101166 3105876 <i>The son of Skywalker<br />must not become a Jedi.</i>
+3106006 3108076 If he could be turned...
+3108206 3110925 he would become a powerful ally.
+3111926 3113564 <i>Yes.</i>
+3114406 3118480 <i>He would be a great asset.</i>
+3118607 3120757 <i>Can it be done?</i>
+3120887 3124675 He will join us or die, master.
+3140647 3144401 I'm sure it's delicious. I just don't<br />understand why we can't see Yoda now.
+3144527 3148156 Patience. For the Jedi,<br />it is time to eat as well.
+3151448 3153325 Eat. Eat.
+3154168 3155442 Hot.
+3162888 3164765 Good food. Good.
+3164888 3167686 How far away is Yoda?<br />Will it take us long to get there?
+3167808 3169958 Not far. Yoda not far.
+3170088 3172727 Patience.<br />Soon you will be with him.
+3175048 3177608 Root leaf. I cook.
+3179368 3181723 Why wish you become Jedi?
+3182768 3185329 Mostly 'cause of my father, I guess.
+3185449 3188407 Father.<br />Powerful Jedi was he.
+3189849 3191521 - Powerful Jedi.<br />- Oh, come on.
+3192369 3195008 How could you know my father?<br />You don't even know who I am.
+3195129 3198485 I don't even know what I'm doing here.<br />We're wasting our time!
+3199849 3202044 I cannot teach him.
+3202169 3204125 The boy has no patience.
+3204249 3206399 <i>He will learn patience.</i>
+3211049 3213324 Much anger in him...
+3213449 3215201 like his father.
+3215329 3218879 <i>Was I any different<br />when you taught me?</i>
+3220210 3221120 No.
+3222050 3225122 - He is not ready.<br />- Yoda.
+3228130 3229882 I am ready.
+3230010 3232808 I can be a Jedi.<br />Ben, tell him I'm-
+3232930 3236605 Ready, are you?<br />What know you ready?
+3236730 3240518 For 800 years have I trained Jedi.
+3240650 3244245 My own counsel will I keep<br />on who is to be trained.
+3246130 3249759 AJedi must have<br />the deepest commitment...
+3249890 3251643 the most serious mind.
+3253571 3256529 This one a long time have I watched.
+3257571 3260210 All his life<br />has he looked away...
+3260331 3263243 to the future,<br />to the horizon.
+3263371 3266761 Never his mind on where he was...
+3268051 3270007 what he was doing.
+3271651 3272606 Adventure.
+3273931 3275489 Excitement.
+3275611 3277761 AJedi craves not these things.
+3278691 3280409 You are reckless.
+3280531 3283364 <i>So was I, if you remember.</i>
+3283491 3285448 He is too old.
+3287372 3289442 Yes, too old to begin the training.
+3289572 3291403 But I've learned so much.
+3298932 3302049 - Will he finish what he begins?<br />- I won't fail you.
+3303532 3305124 I'm not afraid.
+3309452 3311408 You will be.
+3312532 3314488 You will be.
+3354854 3358210 - Sir, if I may venture an opinion-<br />- I'm not interested in your opinion.
+3358334 3360245 There's something out there.
+3360374 3362251 - Where?<br />- Outside in the cave.
+3363894 3365327 There it is. Listen!
+3365454 3367251 - I'm going out there.<br />- Are you crazy?
+3367374 3369808 I just got this bucket together.<br />I won't let it get torn apart.
+3369934 3371970 Then I'm going with you.
+3373174 3376132 I think it might be better<br />if I stay behind and guard the ship.
+3376254 3377209 Oh, no.
+3391695 3393651 This ground sure feels strange.
+3395215 3397171 It doesn't feel like rock.
+3401495 3403963 There's an awful lot<br />of moisture in here.
+3404095 3407644 I don't know.<br />I have a bad feeling about this.
+3407775 3408924 Yeah.
+3410935 3411811 Watch out!
+3412895 3415250 It's all right. It's all right.
+3415375 3417730 Yeah, that's what I thought- mynock.
+3417855 3420848 Chewie, check the rest of the ship and<br />make sure there are no more attached...
+3420976 3422773 chewing on the power cables.
+3422896 3424409 Mynocks?
+3424536 3426652 Go inside. We'll clean them off<br />if there are any more.
+3435456 3437811 Go away!<br />Go away, beastly thing! Shoo!
+3444816 3446568 Wait a minute.
+3467417 3470693 - Chewie, let's get out of here!<br />- The Empire is still out there!
+3470817 3472773 No time to discuss this<br />in committee!
+3473617 3475573 I am not a committee!
+3480817 3483536 You can't make the jump to light speed<br />in this asteroid field.
+3483657 3486012 Sit down, sweetheart.<br />We're taking off.
+3490618 3491892 - Look!<br />- I see it.
+3492018 3494293 - We're doomed!<br />- The cave is collapsing.
+3494418 3496215 - This is no cave.<br />- What?
+3527379 3528698 Yes, run.
+3528819 3530298 Yes.
+3530419 3533616 AJedi's strength<br />flows from the Force.
+3533739 3537015 But beware of the dark side.<br />Anger, fear, aggression-
+3537139 3539209 The dark side<br />of the Force are they.
+3539339 3542775 Easily they flow,<br />quick to join you in a fight.
+3542899 3545015 If once you start down<br />the dark path...
+3545139 3547334 <i>forever will it dominate<br />your destiny.</i>
+3547459 3551247 Consume you it will,<br />as it did Obi-Wan's apprentice.
+3551379 3553131 Vader.
+3553259 3556218 - Is the dark side stronger?<br />- No, no.
+3557900 3559777 Quicker, easier, more seductive.
+3560620 3562611 How am I to know<br />the good side from the bad?
+3562740 3564890 You will know...
+3565020 3567170 when you are calm,<br />at peace...
+3568220 3569573 passive.
+3570620 3574613 AJedi uses the Force<br />for knowledge and defence...
+3574740 3576492 never for attack.
+3576620 3580090 - But tell me why I can't-<br />- No. There is no why.
+3580220 3582859 Nothing more<br />will I teach you today.
+3582980 3584857 Clear your mind of questions.
+3607021 3608898 There's something not right here.
+3612621 3613974 I feel cold.
+3614821 3616300 - Death.<br />- That place...
+3617381 3620738 is strong with<br />the dark side of the Force.
+3620862 3622693 A domain of evil it is.
+3624102 3625933 In you must go.
+3627102 3628251 What's in there?
+3630902 3633097 Only what you take with you.
+3636742 3637891 Your weapons...
+3638742 3640141 <i>you will not need them.</i>
+3793827 3796182 Bounty hunters.<br />We don't need their scum.
+3796307 3798946 - Yes, sir.<br />- Those rebels won't escape us.
+3804427 3807578 <i>Sir, we have a priority signal<br />from the Stardestroyer Avenger.</i>
+3807707 3809186 Right.
+3809307 3814859 <i>There will be a substantial reward for<br />the one who finds the Millennium Falcon.</i>
+3814987 3817899 You are free to use<br />any methods necessary...
+3818027 3820063 but I want them alive.
+3820187 3822496 No disintegrations.
+3822627 3824380 - As you wish.<br />- Lord Vader.
+3826588 3828419 My lord, we have them.
+3832708 3835666 Thank goodness<br />we're coming out of the asteroid field.
+3840708 3843176 Let's get out of here.<br />Ready for light speed?
+3843308 3845424 One, two...
+3845548 3846617 three!
+3852988 3855138 It's not fair.
+3856669 3859342 Transfer circuits aren't working.<br />It's not my fault.
+3859469 3862267 - No light speed?<br />- It's not my fault.
+3866869 3868780 Sir, we just lost<br />the main rear deflector shield.
+3868909 3871059 One more direct hit<br />on the back quarter and we're done for.
+3871189 3872827 Turn her around.
+3872949 3875463 Turn her around! I'm gonna<br />put all power in the front shield.
+3875589 3877500 - You're gonna attack?<br />- The odds of surviving...
+3877629 3879460 a direct assault<br />on an imperial Stardestroyer-
+3879589 3881420 Shut up!
+3887669 3889546 They're moving to attack position.
+3891670 3892705 Shields up.
+3899030 3901498 Track them. They may<br />come around for another pass.
+3901630 3903905 Captain Needa, the ship no longer<br />appears on our scopes.
+3904030 3907500 They can't have disappeared. No ship<br />that small has a cloaking device.
+3907630 3911305 - There's no trace of them.<br />- Captain, Lord Vader demands an update.
+3914190 3916146 Get a shuttle ready.
+3916270 3920024 I shall assume full responsibility for<br />losing them and apologize to Lord Vader.
+3920150 3923108 - Meanwhile, continue to scan the area.<br />- Yes, Captain Needa.
+3927631 3929781 Use the Force.
+3929911 3930866 Yes.
+3936271 3937943 Now, the stone.
+3941951 3943509 Feel it.
+3954751 3956469 Concentrate!
+3970552 3973464 Oh, no.<br />We'll never get it out now.
+3973592 3975230 So certain are you.
+3979152 3982224 Always with you<br />it cannot be done.
+3983432 3985309 Hear you nothing that I say?
+3985432 3987423 Master, moving stones<br />around is one thing.
+3987552 3989304 This is totally different.
+3989432 3991583 No. No different.
+3991713 3993704 Only different in your mind.
+3993833 3996905 You must unlearn<br />what you have learned.
+3998233 4001191 - All right. I'll give it a try.<br />- Try not.
+4002033 4003386 Do...
+4003513 4005026 or do not.
+4005153 4006745 There is no try.
+4053394 4056192 I can't. It's too big.
+4056314 4058270 Size matters not.
+4058395 4061273 Look at me.<br />Judge me by my size, do you?
+4063915 4066668 And well you should not...
+4066795 4069309 for my ally is the Force.
+4069435 4071710 And a powerful ally it is.
+4072755 4075030 Life creates it...
+4075155 4077111 makes it grow.
+4077955 4080628 Its energy surrounds us...
+4081635 4083353 and binds us.
+4083475 4086547 Luminous beings are we,<br />not this crude matter.
+4087595 4090712 You must feel<br />the Force around you.
+4091555 4094024 Here, between you, me...
+4094876 4097026 the tree, the rock-
+4097156 4099147 everywhere.
+4099276 4100629 Yes...
+4100756 4104385 even between<br />the land and the ship.
+4109116 4111266 You want the impossible.
+4214399 4216355 I don't believe it.
+4218279 4220839 That is why you fail.
+4239320 4242437 Apology accepted,<br />Captain Needa.
+4250600 4253512 Lord Vader, our ships have completed<br />their scan and found nothing.
+4253640 4255517 <i>If the Millennium Falcon<br />went into light speed...</i>
+4255640 4257471 it'll be on the other side<br />of the galaxy now.
+4257600 4259352 Alert all commands.
+4259480 4263554 Calculate every possible destination<br />along their last known trajectory.
+4263681 4266912 - Yes, my lord. We'll find them.<br />- Don't fail me again...
+4267841 4269752 Admiral.
+4271841 4274992 Alert all commands.<br />Deploy the fleet.
+4289401 4292438 Captain Solo,<br />this time you have gone too far.
+4292561 4295520 I will not be quiet, Chewbacca.<br />Why doesn't anyone listen to me?
+4295642 4297598 The fleet's beginning to break up.
+4297722 4300475 Go stand by the manual release<br />for the landing claw.
+4302722 4304633 I really don't see<br />how that's going to help.
+4304762 4308072 Surrender is a perfectly acceptable<br />alternative in extreme circumstances.
+4308202 4310193 The Empire may be<br />gracious enough-
+4310322 4312631 - Thank you.<br />- What did you have in mind next?
+4312762 4314593 If they follow standard<br />imperial procedure...
+4314722 4316872 they'll dump their garbage<br />before they go to light speed.
+4317002 4319880 - Then we just float away.<br />- With the rest of the garbage.
+4320002 4321355 Then what?
+4321482 4324599 Then we gotta find a safe port<br />somewhere around here.
+4324722 4326041 Any ideas?
+4326162 4328438 - Where are we?<br />- The Anoat system.
+4328563 4331031 The Anoat system.<br />There's not much there.
+4331163 4333882 Oh, wait.<br />This is interesting.
+4334003 4336756 - Lando.<br />- Lando system?
+4336883 4340319 Lando's not a system.<br />He's a man. Lando Calrissian.
+4340443 4342593 Card player, gambler.
+4342723 4345191 - A scoundrel. You'd like him.<br />- Thanks.
+4345323 4347883 Bespin. It's pretty far,<br />but I think we can make it.
+4349323 4352235 - A mining colony?<br />- Yeah, a tibanna gas mine.
+4353083 4355119 Lando conned somebody out of it.
+4355243 4357837 We go back a long way,<br />Lando and me.
+4359203 4361764 - Can you trust him?<br />- No.
+4361884 4364637 But he's got no love for the Empire.<br />I can tell you that.
+4365684 4368198 Here we go, Chewie.<br />Stand by. Detach.
+4375124 4376603 You do have your moments.
+4377444 4380163 Not many of them,<br />but you do have them.
+4413525 4415356 Concentrate.
+4415485 4418557 Feel the Force flow.
+4418685 4420243 Yes.
+4427605 4429198 Good.
+4429326 4430645 Calm.
+4430766 4432040 Yes.
+4432966 4435400 Through the Force,<br />things you will see.
+4435526 4438836 Other places.<br />The future. The past.
+4438966 4441275 Old friends long gone.
+4451366 4452765 Control, control.
+4452886 4455002 You must learn control.
+4457926 4460724 I saw a city in the clouds.
+4462727 4464797 Friends you have there.
+4465847 4469317 - They were in pain.<br />- It is the future you see.
+4470487 4471442 Future?
+4480087 4481440 Will they die?
+4484567 4486558 Difficult to see.
+4486687 4489042 Always in motion is the future.
+4491447 4492800 I've gotta go to them.
+4494727 4497640 Decide you must<br />how to serve them best.
+4497768 4500521 If you leave now,<br />help them you could...
+4501568 4504958 but you would destroy all<br />for which they have fought and suffered.
+4518448 4521121 No, I don't have a landing permit.
+4521248 4524718 I'm trying to reach Lando Calrissian.
+4524848 4526884 Wait a minute!<br />Let me explain!
+4527008 4528885 <i>You will not deviate<br />from your present course.</i>
+4529008 4531603 - Rather touchy, aren't they?<br />- I thought you knew this person.
+4534409 4537082 That was a long time ago.<br />I'm sure he's forgotten about that.
+4545329 4548799 <i>Permission granted to land<br />on Platform 327.</i>
+4548929 4550248 Thank you.
+4551129 4553882 Nothing to worry about.<br />We go way back, Lando and me.
+4554009 4555601 Who's worried?
+4602451 4603804 No one to meet us.
+4605171 4607401 I don't like this.
+4607531 4610250 - What would you like?<br />- They did let us land.
+4610371 4612965 Look, don't worry.<br />Everything's gonna be fine.
+4613091 4614649 Trust me.
+4619211 4621167 See? My friend.
+4625411 4627367 Keep your eyes open.
+4629971 4631530 Hey.
+4631652 4635565 Why, you slimy, double-crossing,<br />no-good swindler.
+4635692 4639731 You've got a lot of guts coming here,<br />after what you pulled.
+4649812 4653122 How you doin', you old pirate?<br />So good to see you!
+4653252 4656164 - I never thought I'd see you again.<br />- Well, he seems very friendly.
+4656292 4659250 Yes. Very friendly.
+4659372 4660930 What are you doing here?
+4661052 4662963 <i>Repairs. I thought<br />you could help me out.</i>
+4663092 4665607 - What have you done to my ship?<br />- Your ship?
+4665733 4669123 <i>Hey, remember,<br />you lost her to me fair and square.</i>
+4669973 4671292 How you doin', Chewbacca?
+4672213 4674773 Still hanging around with this loser?
+4676693 4678923 Hello.<br />What have we here?
+4680373 4683763 Welcome. I'm Lando Calrissian.<br />I'm the administrator of this facility.
+4683893 4686691 - And who might you be?<br />- Leia.
+4686813 4688371 Welcome, Leia.
+4691093 4693812 All right, all right.<br />You old smoothie.
+4693933 4697403 Hello, sir. I am C-3PO,<br />human-cyborg relations.
+4697533 4700207 My facilities are at your-<br />Well, really!
+4700334 4702609 <i>- What's wrong with the Falcon?<br />- Hyperdrive.</i>
+4702734 4704690 - I'll get my people to work on her.<br />- Good.
+4704814 4706770 That ship saved my life<br />quite a few times.
+4706894 4709328 She's the fastest<br />hunk of junk in the galaxy.
+4710614 4712969 How's the gas mine?<br />Still paying off for you?
+4713094 4716769 Not as well as I'd like. We're a small<br />outpost and not very self-sufficient.
+4716894 4719852 I've had supply problems<br />of every kind.
+4719974 4722044 I've had labour difficulties.
+4722174 4725291 - What's so funny?<br />- You. Listen to you.
+4725414 4728087 You sound like a businessman,<br />a responsible leader.
+4728214 4730011 Who'd have thought that, huh?
+4730134 4732933 Seeing you sure brings back<br />a few things.
+4733055 4734204 Yeah.
+4734335 4736371 Yeah, I'm responsible these days.
+4737215 4739775 It's the price you pay<br />for being successful.
+4742895 4744851 Nice to see a familiar face.
+4744975 4746533 How rude!
+4748055 4750011 That sounds like<br />an R2 unit in there.
+4750135 4751648 I wonder if- Hello?
+4753815 4755294 How interesting.
+4755415 4758373 - Who are you?<br />- Oh, my. I'm terribly sorry.
+4758495 4760451 I didn't mean to intrude.<br />Please don't get up.
+4778176 4780644 Luke, you must complete the training.
+4781696 4784369 I can't keep the vision out of my head.<br />I've gotta help them.
+4784496 4786532 You must not go.
+4786656 4789614 <i>- But Han and Leia will die if I don't.<br />- You don't know that.</i>
+4792496 4795056 Even Yoda cannot see their fate.
+4795176 4797815 But I can help them.<br />I feel the Force.
+4797936 4800007 But you cannot control it.
+4800217 4802447 This is a dangerous time for you...
+4802577 4805455 when you will be tempted<br />by the dark side of the Force.
+4805577 4808649 Yes, yes.<br />To Obi-Wan you listen.
+4809497 4810850 The cave.
+4810977 4812968 Remember your failure at the cave.
+4813097 4814928 But I've learned<br />so much since then.
+4815057 4817617 Master Yoda, I promise to return<br />and finish what I've begun.
+4817737 4819614 You have my word.
+4819737 4822410 It is you and your abilities<br />the emperor wants.
+4822537 4825131 That is why your friends<br />are made to suffer.
+4826537 4829097 That's why I have to go.
+4829217 4833370 Luke, I don't want to lose you<br />to the emperor the way I lost Vader.
+4833498 4834931 You won't.
+4835858 4839214 Stopped they must be.<br />On this all depends.
+4840058 4843368 Only a fully trained Jedi knight,<br />with the Force as his ally...
+4843498 4845966 will conquer Vader<br />and his emperor.
+4846098 4848089 If you end your training now...
+4848218 4852336 if you choose the quick and easy path,<br />as Vader did...
+4852458 4854972 <i>you will become an agent of evil.</i>
+4855098 4856008 Patience.
+4856938 4861136 - And sacrifice Han and Leia?<br />- If you honour what they fight for...
+4861258 4862213 yes.
+4862338 4865296 <i>If you choose to face Vader,<br />you will do it alone.</i>
+4865418 4867330 I cannot interfere.
+4869339 4870488 I understand.
+4875779 4878452 R2, fire up the converters.
+4883619 4885496 Don't give in to hate.
+4885619 4888258 That leads to the dark side.
+4888379 4890017 Strong is Vader.
+4890139 4892528 Mind what you have learned.<br />Save you it can.
+4893459 4894892 I will.
+4895019 4897374 And I'll return. I promise.
+4904180 4907092 Told you, I did.<br />Reckless is he.
+4907220 4908733 Now...
+4908860 4910532 matters are worse.
+4910660 4912616 <i>That boy is our last hope.</i>
+4912740 4915538 No, there is another.
+4946381 4949532 The ship's almost finished. Two or three<br />more things and we're in great shape.
+4949661 4951617 The sooner the better.<br />Something's wrong here.
+4951741 4953697 No one has seen or knows<br />anything about 3PO.
+4953821 4955937 He's been gone too long<br />to have gotten lost.
+4956061 4957699 Relax.
+4957821 4960574 I'll talk to Lando<br />and see what I can find out.
+4960701 4963056 I don't trust Lando.
+4963181 4966378 Well, I don't trust him either,<br />but he is my friend.
+4966501 4969062 Besides, we'll soon be gone.
+4970462 4972418 Then you're as good as gone,<br />aren't you?
+5006023 5007456 What happened?
+5008503 5009140 Where?
+5011223 5013134 Found him in a junk pile?
+5013263 5015697 What a mess.<br />Chewie, you think you can repair him?
+5017783 5021139 - Lando's got people that can fix him.<br />- No, thanks.
+5022663 5024415 I'm sorry.<br />Am I interrupting anything?
+5025343 5026412 Not really.
+5029823 5031734 You look absolutely beautiful.
+5031863 5035015 You truly belong here<br />with us among the clouds.
+5035144 5036543 Thank you.
+5036664 5039462 Would you join me<br />for a little refreshment?
+5039584 5042257 Everyone's invited, of course.
+5042384 5044375 Having trouble with your droid?
+5044504 5047018 No. No problem. Why?
+5055504 5057893 You see, since we're<br />a small operation...
+5058024 5061141 we don't fall into<br />the jurisdiction of the Empire.
+5061264 5063698 - So you're part of the Mining Guild?<br />- No, not actually.
+5063824 5065894 Our operation is small enough<br />not to be noticed.
+5066024 5067980 Which is advantageous<br />for everybody...
+5068104 5072337 since our customers are anxious to avoid<br />attracting attention to themselves.
+5072465 5076174 Aren't you afraid the Empire's<br />gonna find out, shut you down?
+5076305 5079456 It's been a danger that looms like<br />a shadow over everything we've built.
+5079585 5082179 But things have developed<br />that'll ensure security.
+5082305 5085456 I've just made a deal that'll keep<br />the Empire out of here forever.
+5094785 5097458 We would be honoured<br />if you would join us.
+5104066 5106341 I had no choice.<br />They arrived right before you did.
+5107266 5108858 I'm sorry.
+5112226 5113500 I'm sorry too.
+5127746 5129065 No, 3PO's with them.
+5130426 5132417 Just hang on.<br />We're almost there.
+5189548 5191903 I'm terribly sorry.<br />I didn't mean to intrude.
+5192028 5193905 No, please don't get up.
+5199508 5202739 Stormtroopers? Here?<br />We're in danger.
+5202869 5205337 I must tell the others.<br />Oh, no! I've been shot!
+5232029 5233587 Lord Vader.
+5233709 5235984 You may take Captain Solo<br />to Jabba the Hutt...
+5236109 5238021 after I have Skywalker.
+5238150 5239947 He's no good to me dead.
+5240070 5243221 He will not be<br />permanently damaged.
+5245550 5247984 Lord Vader, what about Leia<br />and the Wookiee?
+5248110 5250704 They must never again leave this city.
+5250830 5253902 That wasn't part of our agreement, nor<br />was giving Han to this bounty hunter!
+5254030 5257784 Perhaps you think you're<br />being treated unfairly?
+5260430 5261385 No.
+5261510 5264900 Good. It would be unfortunate<br />if I had to leave a garrison here.
+5267230 5269505 This deal is getting worse<br />all the time.
+5270671 5272946 Oh, yes, that's very good.<br />I like that.
+5274511 5276945 Something's not right<br />because now I can't see.
+5279391 5281507 That's much better.
+5281631 5283189 Wait. Wait.
+5283311 5285267 Oh, my!<br />What have you done?
+5285391 5286870 I'm backwards!
+5286991 5288788 You flea-bitten furball!
+5288911 5291471 Only an overgrown mophead like you<br />would be stupid enough-
+5305472 5307349 I feel terrible.
+5321992 5323948 Why are they doing this?
+5326352 5328912 They never even asked me<br />any questions.
+5337873 5339943 - Get out of here, Lando.<br />- Shut up and listen.
+5340073 5343031 Vader's agreed<br />to turn Leia and Chewie over to me.
+5343153 5344950 They'll have to stay here,<br />but they'll be safe.
+5345073 5347109 - And Han?<br />- Vader's given him to the bounty hunter.
+5347233 5349542 - Vader wants us all dead.<br />- He doesn't want you at all.
+5349673 5352904 He's after somebody<br />called Skywalker.
+5353033 5355467 - Lord Vader set a trap for him.<br />- And we're the bait.
+5355593 5357345 - He's on his way.<br />- Perfect.
+5358273 5360389 You fixed us all real good,<br />didn't you?
+5360513 5361628 My friend.
+5364513 5365662 Stop!
+5366913 5368983 I've done all I can.
+5369113 5371423 Sorry I couldn't do better,<br />but I got my own problems.
+5371554 5372782 Yeah.
+5372914 5374666 You're a real hero.
+5385034 5387389 You certainly<br />have a way with people.
+5401194 5402946 This facility is crude...
+5403074 5406033 but it should be adequate<br />to freeze Skywalker...
+5406155 5408305 for his journey to the emperor.
+5408435 5411313 Lord Vader,<br />ship approaching, X-wing class.
+5411435 5414666 Good. Monitor Skywalker<br />and allow him to land.
+5416155 5420671 Lord Vader, we only use this facility<br />for carbon freezing. It might kill him.
+5420795 5423548 I do not want<br />the emperor's prize damaged.
+5423675 5426633 We will test it on Captain Solo.
+5449436 5453475 If you'd attached my legs I wouldn't<br />be in this ridiculous position.
+5453596 5456156 <i>Now remember, Chewbacca,<br />you have a responsibility for me...</i>
+5456276 5457914 so don't do anything foolish.
+5471436 5473393 What's going on, buddy?
+5474317 5476308 You're being put into carbon freeze.
+5476437 5479793 What if he doesn't survive?<br />He's worth a lot to me.
+5479917 5483148 The Empire will compensate you<br />if he dies. Put him in.
+5486957 5488072 Chewbacca, stop!
+5488197 5490108 No, Chewie, stop!
+5490237 5493115 You're going to get us all killed!<br />Yes, stop. I'm not ready to die.
+5493237 5495114 Hey! Hey!<br />Listen to me.
+5495237 5497626 Chewie, this won't help me.
+5497757 5500225 Hey, save your strength.<br />There'll be another time.
+5502037 5503595 The princess.
+5503717 5505389 You have to take care of her.
+5507558 5509469 Do you hear me?
+5522798 5525631 - I love you.<br />- I know.
+5553639 5557075 What's going on?<br />Turn round. I can't see.
+5613561 5615517 They've encased him in carbonite.
+5615641 5617438 He should be quite<br />well-protected...
+5617561 5619392 if he survived<br />the freezing process, that is.
+5619521 5621910 Well, Calrissian, did he survive?
+5622041 5623599 Yes, he's alive.
+5624441 5626238 And in perfect hibernation.
+5627161 5629197 He's all yours, bounty hunter.
+5630041 5631679 Reset the chamber for Skywalker.
+5634001 5635753 Skywalker has just landed, lord.
+5635881 5639590 Good. See to it<br />that he finds his way in here.
+5643682 5645479 Calrissian...
+5645602 5647911 take the princess<br />and the Wookiee to my ship.
+5648042 5650078 You said they'd be left<br />under my supervision.
+5650202 5652158 I am altering the deal.
+5652282 5654876 Pray I don't alter it any further.
+5748165 5750599 Luke, don't! It's a trap!
+5752045 5753080 It's a trap!
+5797606 5799881 <i>The Force is with you,<br />young Skywalker.</i>
+5802206 5804162 But you are not a Jedi yet.
+5863648 5865206 Well done.
+5866928 5869601 Hold them in the security tower.<br />And keep it quiet.
+5869728 5871320 Move.
+5875608 5878760 - What do you think you're doing?<br />- We're getting out of here.
+5878889 5880561 I knew all along.<br />It had to be a mistake.
+5880689 5883408 Do you think that<br />after what you did to Han-
+5884369 5887520 - I had no choice.<br />- What are you doing? Trust him!
+5887649 5890527 We understand, don't we, Chewie?<br />He had no choice.
+5890649 5892128 I'm just trying to help.
+5892249 5894763 We don't need any of your help.
+5899689 5901122 What?
+5901249 5905640 - It sounds like Han.<br />- There's still a chance to save Han...
+5906569 5909686 at the east... platform.
+5913730 5915766 I'm terribly sorry about all this.
+5915890 5917562 After all, he's only a Wookiee.
+5918490 5921050 Put Captain Solo<br />in the cargo hold.
+5935650 5937800 R2, where have you been?
+5937930 5939727 Wait. Turn around, you woolly-
+5940890 5943530 Hurry! We're trying to save<br />Han from the bounty hunter.
+5946171 5948480 <i>Well, at least<br />you're still in one piece.</i>
+5948611 5950841 Look what's happened to me.
+5962331 5964799 Oh, no!<br />Chewie, they're behind you!
+5977252 5979482 You have learned much, young one.
+5979612 5981648 You'll find I'm full of surprises.
+5992772 5995730 Your destiny lies with me, Skywalker.
+5996572 5998927 Obi-Wan knew this to be true.
+6006692 6007966 All too easy.
+6013013 6015368 Perhaps you're not as strong<br />as the emperor thought.
+6018413 6019971 Impressive.
+6021853 6023206 Most impressive.
+6030773 6034288 Obi-Wan has taught you well.<br />You have controlled your fear.
+6036973 6040045 Now, release your anger.
+6040173 6042641 Only your hatred can destroy me.
+6168257 6170088 The security code<br />has been changed.
+6170217 6173368 R2, you can tell the computer<br />to override the security systems.
+6174297 6175935 R2, hurry.
+6179097 6181293 <i>Attention.<br />This is Lando Calrissian. Attention.</i>
+6181418 6183295 <i>The Empire has taken control<br />of the city.</i>
+6183418 6186137 <i>I advise everyone to leave<br />before more imperial troops arrive.</i>
+6192378 6193936 This way.
+6194058 6196174 Well, don't blame me.<br />I'm an interpreter.
+6196298 6199051 I'm not supposed to know a power socket<br />from a computer terminal.
+6219779 6222577 <i>We're not interested in the hyperdrive<br />on the Falcon. It's fixed!</i>
+6227379 6230052 <i>Just open the door,<br />you stupid lump!</i>
+6238299 6240608 I never doubted you for a second.<br />Wonderful!
+6264140 6266734 <i>That hurts! Bend down,<br />you thoughtless- Ow!</i>
+6273580 6274899 Go!
+6281061 6283734 I thought that hairy beast<br />would be the end of me.
+6283861 6285658 Of course I've looked better.
+6337142 6340657 You are beaten.<br />It is useless to resist.
+6340782 6344138 Don't let yourself be destroyed<br />as Obi-Wan did.
+6359303 6360861 There is no escape.
+6361703 6363739 Don't make me destroy you.
+6367583 6370222 <i>You do not yet realize<br />your importance.</i>
+6370343 6372903 You have only begun<br />to discover your power.
+6373023 6374775 Join me...
+6374903 6377178 and I will complete your training.
+6377303 6379578 With our combined strength...
+6379703 6382502 we can end<br />this destructive conflict...
+6382624 6384819 and bring order to the galaxy.
+6384944 6387333 I'll never join you!
+6387464 6391377 If you only knew the power<br />of the dark side.
+6391504 6395543 Obi-Wan never told you<br />what happened to your father.
+6395664 6397017 He told me enough.
+6399544 6401296 He told me you killed him.
+6403024 6405015 I am your father.
+6413224 6415056 That's not true.
+6415905 6417463 That's impossible!
+6417585 6420702 Search your feelings.<br />You know it to be true.
+6429185 6433144 You can destroy the emperor.<br />He has foreseen this.
+6433265 6436018 It is your destiny.
+6436145 6437783 Join me...
+6437905 6442023 and together we can rule the galaxy<br />as father and son.
+6452226 6453784 Come with me.
+6454626 6456696 It is the only way.
+6520268 6521587 Ben.
+6522428 6524180 Ben, please.
+6550989 6552502 Hear me.
+6559189 6561145 - We've got to go back.<br />- What?
+6561269 6563499 - I know where Luke is.<br />- What about those fighters?
+6564589 6566739 Chewie, just do it.
+6566869 6568507 All right, all right!
+6576389 6580268 Alert my Stardestroyer<br />to prepare for my arrival.
+6590390 6592346 Look, someone's up there.
+6593550 6595905 It's Luke.<br />Chewie, slow down.
+6596030 6599181 We'll get under him.<br />Lando, open the top hatch.
+6614470 6616700 Okay. Easy, Chewie.
+6637591 6639627 <i>- Lando?<br />- Okay, let's go.</i>
+6658872 6660225 All right, Chewie. Let's go.
+6694353 6696105 I'll be back.
+6701633 6702952 Stardestroyer.
+6707993 6710348 All right, Chewie.<br />Ready for light speed.
+6710473 6712429 If your people fixed the hyperdrive.
+6712553 6714783 All the coordinates are set.<br />It's now or never.
+6714913 6716312 Punch it!
+6726554 6728749 They told me they fixed it.
+6728874 6730671 I trusted them!
+6730794 6733183 It's not my fault!
+6738594 6741108 They'll be in range<br />of our tractor beam in moments, lord.
+6741234 6744624 <i>Did your men deactivate the hyperdrive<br />on the Millennium Falcon?</i>
+6744754 6746665 - Yes, my lord.<br />- Good.
+6746794 6750264 Prepare the boarding party<br />and set your weapons for stun.
+6750394 6753273 - Yes, my lord. Lieutenant.<br />- Yes, sir.
+6754795 6757946 Noisy brute. Why don't we<br />just go into light speed?
+6758075 6759588 We can't?
+6759715 6761990 How would you know<br />the hyperdrive is deactivated?
+6765155 6767908 The city's central computer told you?
+6768035 6770674 R2-D2, you know better<br />than to trust a strange computer.
+6770795 6773946 Ouch! Pay attention<br />to what you're doing.
+6785756 6786871 Father.
+6788676 6790712 Son, come with me.
+6793636 6794989 Ben.
+6796036 6798027 Why didn't you tell me?
+6815516 6816665 It's Vader.
+6822277 6825713 Luke, it is your destiny.
+6833117 6835267 Why didn't you tell me?
+6841317 6845071 Alert all commands.<br />Ready for the tractor beam.
+6848397 6851036 R2, come back at once!<br />You haven't finished with me yet.
+6851157 6854514 You don't know how to fix the<br />hyperdrive. Chewbacca can do it.
+6854638 6858870 I'm standing here in pieces<br />and you're having delusions of grandeur!
+6861918 6863317 You did it!
+6918679 6921558 <i>- Luke, we're ready for take-off.<br />- Good luck, Lando.</i>
+6922560 6926348 <i>When we find Jabba the Hutt and<br />that bounty hunter, we'll contact you.</i>
+6926480 6928994 I'll meet you at<br />the rendezvous point on Tatooine.
+6929120 6932396 Princess, we'll find Han.<br />I promise.
+6932520 6934636 Chewie, I'll be waiting<br />for your signal.
+6934760 6936398 Take care, you two.
+6936520 6938476 <i>May the Force be with you.</i>

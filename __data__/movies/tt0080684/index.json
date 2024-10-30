@@ -1,0 +1,42 @@
+{
+  "imdbId": "tt0080684",
+  "title": "Star Wars: Episode V - The Empire Strikes Back",
+  "releaseDate": "1980-06-18T00:00:00.000Z",
+  "releaseYear": 1980,
+  "posterFileName": "poster.jpg",
+  "rated": "PG",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "directors": [
+    "Irvin Kershner"
+  ],
+  "writers": [
+    "Leigh Brackett",
+    "Lawrence Kasdan",
+    "George Lucas"
+  ],
+  "actors": [
+    "Mark Hamill",
+    "Harrison Ford",
+    "Carrie Fisher"
+  ],
+  "runTime": 124,
+  "plot": "After the Empire overpowers the Rebel Alliance, Luke Skywalker begins his Jedi training with Yoda. At the same time, Darth Vader and bounty hunter Boba Fett pursue his friends across the galaxy.",
+  "subtitleIds": [
+    "6ac10db",
+    "ee3328cf",
+    "9204f38e",
+    "2abe9d5e",
+    "5d764bf0",
+    "8058e64a",
+    "90f818e8",
+    "e8bf4ea7",
+    "912a61a8",
+    "e564b75f",
+    "2eb35e1a"
+  ],
+  "isAvailable": true
+}
