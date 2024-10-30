@@ -1,5 +1,6 @@
 import { convertSubtitles } from '$lib/isomorphic.utils/convertSubtitles';
-import { compact, filter, includes, lowerCase, map, orderBy, uniq } from 'lodash-es';
+import Fuse from 'fuse.js';
+import { compact, includes, map, orderBy, uniq } from 'lodash-es';
 import type { Api } from './Api.types';
 import type * as T from './Gateway.types';
 import type { GitHubService } from './GitHubService';
@@ -29,19 +30,21 @@ export class Gateway implements T.Gateway {
   }
 
   public async searchMovies(query: string): Promise<T.SearchMoviesOutput[]> {
-    const queryLower = lowerCase(query);
     const imdbIds = await this.queryAllMovies(this.searchNRecentMovies);
     const movies = await Promise.all(map(imdbIds, (imdbId) => this.getMovie(imdbId)));
     const moviesCompact = compact(movies);
-    const moviesSorted = orderBy(moviesCompact, ['releaseDate', 'releaseYear', 'title'], ['desc', 'desc', 'asc']);
-    const output: T.SearchMoviesOutput[] = filter(moviesSorted, (m) => includes(lowerCase(m.title), queryLower));
+    const fuse = new Fuse(moviesCompact, { keys: ['title'], threshold: 0.3, distance: 100, minMatchCharLength: 2, useExtendedSearch: true });
+    const fuseResults = fuse.search(query);
+    const output = map(fuseResults, (r) => r.item);
     return output;
   }
 
   public async getMyListMovies(userId: string): Promise<T.GetMyListMoviesOutput[]> {
     const imdbIds = await this.myListMovieIdManager.get();
     const movies = await Promise.all(map(imdbIds, (imdbId) => this.getMovie(imdbId)));
-    const output: T.GetMyListMoviesOutput[] = compact(movies);
+    const moviesCompact = compact(movies);
+    const moviesSorted = orderBy(moviesCompact, ['releaseDate', 'releaseYear', 'title'], ['desc', 'desc', 'asc']);
+    const output: T.GetMyListMoviesOutput[] = moviesSorted;
     return output;
   }
 
@@ -75,7 +78,7 @@ export class Gateway implements T.Gateway {
     return await this.gitHubService.submitAddMovieRequestIssue(userId, imdbId);
   }
 
-  public async queryAllMovies(maxMovies: number): Promise<string[]> {
+  private async queryAllMovies(maxMovies: number): Promise<string[]> {
     const output: string[] = this.extraImdbIds;
 
     let idx = 1;

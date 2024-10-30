@@ -80,7 +80,12 @@
     <MoviePanel class="p-2" mode={PMode.View} movie={requestOutput.movie} on:addclick={handleAddClick} on:removeclick={handleRemoveClick} />
   {:else if requestOutput.code === 'REQUEST_SUBMITTED'}
     <Alert>
-      <p class="text-white text-xl">Your request was successfully submitted! Check back soon, and it should be available in the search results.</p>
+      <p class="text-white text-xl">
+        Your request was successfully submitted! Check back soon, and it should be available in the search results. Would you like to <button
+          class="font-bold text-yellow-500 underline"
+          on:click={handleTryAgain}>add another request</button
+        >?
+      </p>
     </Alert>
   {:else}
     <Alert>
