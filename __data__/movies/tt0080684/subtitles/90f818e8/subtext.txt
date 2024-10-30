@@ -1,0 +1,2153 @@
+8961 11297 <i>This is George Lucas.<br />I was the executive producer...</i>
+11380 13507 Of The Empire Strikes Back...
+13591 17094 <i>and developed the story<br />for this part of the saga.</i>
+17177 21557 <i>I'm the director of</i> Empire Strikes Back,<br /><i>Irvin Kershner.</i>
+22933 25853 <i>I'm very happy to have<br />this chance to talk to you all.</i>
+25936 29273 <i>And I'm Dennis Muren,<br />visual effects supervisor at ILM.</i>
+29356 31442 Empire <i>was certainly<br />my favorite film...</i>
+31525 34361 <i>and by far the most<br />difficult one to work on.</i>
+34445 38490 <i>I'm Ben Burtt. I was the sound designer<br />and supervising sound editor.</i>
+38574 40576 <i>And I'm Carrie Fisher,</i>
+40659 43912 <i>one of the actors<br />in</i> The Empire Strikes Back.
+45204 47373 LUCAS: <i>This was the first time<br />I was able to put...</i>
+47457 49459 <i>the number of the episode on the film...</i>
+49542 52003 <i>And the actual title where it belonged.</i>
+52086 55214 <i>When we did</i> A New Hope, <i>the studio<br />wouldn't let me put that on there,</i>
+55298 58259 <i>'cause they felt it was<br />too confusing for the public.</i>
+59677 64766 <i>This is the second chapter, and<br />it's the middle of the first trilogy.</i>
+64849 67518 <i>Therefore, it actually has<br />a lot of challenges...</i>
+67602 71230 <i>that the first chapter<br />and the third chapter don't have,</i>
+71314 73566 <i>which is, there is no beginning<br />and no end.</i>
+73650 78279 KERSHNER: <i>When George asked me<br />to do</i> The Empire Strikes Back,
+78363 80323 <i>I at first said no.</i>
+80406 86079 <i>The idea of following</i> Star Wars<br /><i>seemed kind of forbidding.</i>
+86287 88998 <i>How do you make a picture...</i>
+89082 92585 <i>that's better than</i> Star Wars?
+92752 96047 <i>George said that<br />this would be my picture.</i>
+96130 100134 <i>He would stay in California<br />with the special effects.</i>
+100218 104597 <i>And so I finally said yes<br />and went up to the ranch...</i>
+104681 107600 <i>and started meeting all the people.</i>
+107684 109727 <i>And by the time I was finished,</i>
+109811 113690 <i>which was about two-and-a-half<br />or more years later,</i>
+113773 115358 <i>I realized I'd just had...</i>
+115817 118403 <i>one of the great experiences<br />of my life.</i>
+121447 123408 <i>You guess at everything.</i>
+123491 125743 <i>You guess that the script<br />will be good,</i>
+126035 128705 <i>that the actors you chose<br />will be right.</i>
+128788 132291 <i>You guess that you'll have<br />enough money to finish the picture,</i>
+132375 137421 <i>and after every scene you guess<br />that this is the scene that will work.</i>
+137504 142342 <i>It's a hell of a way<br />to spend millions of dollars.</i>
+150350 155021 <i>Suddenly, I found myself in the snow...</i>
+155105 157482 <i>on a glacier in Norway.</i>
+157566 160110 LUCAS: <i>Had lots of blizzards.<br />It was very, very cold.</i>
+160193 162821 <i>It was very challenging<br />on lots of levels.</i>
+164114 168577 <i>This was also when we tried to move<br />into the land of stop-motion animation.</i>
+168660 171371 <i>We'd done a little bit of it<br />in the first film,</i>
+171455 174458 <i>and in this film<br />I was able to take it to...</i>
+174541 176793 <i>being a principal character<br />with the tauntauns.</i>
+177043 180005 MUREN: <i>This shot here was one of the<br />hardest ones for me in the whole show,</i>
+180088 181423 <i>figuring out how to do that.</i>
+181506 184634 <i>But it opened a door, sort of,<br />for creatively trying to figure out...</i>
+184718 188221 <i>how to accommodate George<br />with his ideas about how to do things.</i>
+191391 193727 KERSHNER:<br /><i>As we started the picture,</i>
+193810 198732 <i>what was uppermost in my mind<br />was not the special effects.</i>
+198815 201276 <i>Of course everything froze up there.</i>
+201359 203737 <i>The tauntaun wouldn't move.</i>
+203820 207407 <i>The breath that was supposed to<br />come from his nostrils...</i>
+207491 209826 <i>froze up, didn't work.</i>
+210118 213622 <i>George had told me,<br />"Don't expect things to work."</i>
+213705 216291 <i>And that was very good advice.</i>
+216374 219586 LUCAS: <i>Mark, at the end of</i> New Hope,<br /><i>had been in a car accident,</i>
+219669 223048 <i>and I knew that Mark was going to...</i>
+223131 225758 <i>look a little bit different<br />than he did in the first film, but...</i>
+225841 229553 <i>my feeling was<br />that some time has passed.</i>
+229637 233307 <i>They'd been in the rebellion, they'd<br />been fighting, that sort of thing,</i>
+233390 235351 <i>so the change was justifiable.</i>
+235434 239271 <i>As the story turned out, there's a scene<br />in the beginning of the film when...</i>
+239355 241607 <i>Mark gets beat up by the monster,<br />which helps even more.</i>
+241690 243484 <i>But that wasn't the main emphasis...</i>
+243567 246278 <i>of why we wrote the monster<br />in the beginning.</i>
+246362 248113 <i>It was just-we needed something...</i>
+248197 250866 <i>to kind of keep the film suspenseful<br />at the beginning...</i>
+251158 254370 <i>while the Empire is finding them.</i>
+259542 263838 KERSHNER: <i>Here was a shot of<br />the tauntaun coming into the hangar.</i>
+264839 269134 <i>And somebody had to run<br />with a cut-out of a tauntaun...</i>
+269218 271428 <i>from the hangar door,</i>
+271512 273556 <i>through the hangar...</i>
+273639 275808 <i>that we would be<br />putting the tauntaun in...</i>
+275891 278185 <i>so we would see the speed...</i>
+278269 281647 <i>and see who would not<br />get in front of the tauntaun...</i>
+281730 283732 <i>so they could do the special effects.</i>
+290322 294285 LUCAS: <i>Kersh wanted to take the film<br />on a slightly more serious tone...</i>
+294368 296495 <i>than what I had done<br />on the first film,</i>
+296579 301792 <i>but without taking it completely out of<br />the Saturday matinee fun kind of film...</i>
+301917 304253 <i>that the first film had been.</i>
+304336 306755 <i>He just wanted to get a little deeper<br />into the characters...</i>
+306839 308799 <i>and make the jokes<br />a little less flippant,</i>
+308883 312428 <i>which I think we managed to do without<br />making it less fun than the first one.</i>
+312511 317265 KERSHNER: <i>But my main concern<br />was how to characterize...</i>
+317348 320727 <i>these people that you already<br />had met in</i> Star Wars.
+320810 324147 <i>That was the tough one.</i>
+324230 326566 <i>I wanted humor, I wanted emotion,</i>
+326649 329736 <i>I wanted the people to be interesting-</i>
+329819 332780 <i>And here we were in the ice tunnels,</i>
+332864 335950 <i>and the love affair was going on.</i>
+346502 348546 <i>How do you get humor<br />into these scenes...</i>
+348671 351466 <i>and yet have that serious quality?</i>
+351549 355595 <i>You had to believe<br />that these people were alive...</i>
+355678 359223 <i>living in this improbable place...</i>
+359307 362810 <i>and really feeling<br />what we feel today.</i>
+363061 367190 <i>They were feeling love,<br />rejection, abandonment.</i>
+367273 370443 <i>They were feeling all the things<br />that we all-</i>
+370526 373655 <i>I hope we all feel in our lifetime.</i>
+373738 378534 <i>Larry Kasdan, who had<br />rewritten the script entirely,</i>
+378618 383539 <i>understood this<br />and wrote some very good scenes,</i>
+383623 386834 <i>which still needed interpretation,<br />let's say.</i>
+386918 390296 [CHUCKLING] <i>And the<br />interpretation is what bugged me,</i>
+390380 391923 <i>what kept me awake nights.</i>
+396636 399430 LUCAS: <i>I think Kersh was able<br />to bring in a lot more character...</i>
+399514 401307 <i>with the droids and Chewbacca,</i>
+401391 405144 <i>make them integral characters<br />and not allow them to get pushed aside.</i>
+405353 407521 <i>The first film centered on the droids,</i>
+407604 410941 <i>so it was very easy, on this film,<br />to have the droids disappear.</i>
+411024 413527 <i>And one of the challenges was<br />to keep them front and center,</i>
+413610 414879 <i>even though the story isn't told</i>
+414903 417030 <i>from their point of view,<br />like in the first film.</i>
+420033 422744 BURTT: <i>I remember,<br />for C-3PO, of course,</i>
+422828 425914 <i>we have the motor sounds of 3PO<br />walking and moving about...</i>
+425998 428917 <i>where we actually went out<br />and bought just the door...</i>
+429001 431670 <i>from an old Cadillac Eldorado,</i>
+431753 433714 <i>which had the motors in the door...</i>
+433797 435549 <i>which operate<br />the window up and down.</i>
+435632 440303 <i>It was that window motor<br />that we used for 3PO walking.</i>
+440429 444474 KERSHNER: <i>C-3PO, I realized,<br />was going to be comic relief.</i>
+444558 447102 <i>He was my Shakespearean character.</i>
+447769 449688 <i>And I did crazy things...</i>
+449771 454359 <i>like putting his hand<br />over C-3PO's mouth.</i>
+454443 457529 <i>Well, that wouldn't stop a microphone,<br />but</i>- [CHUCKLES]
+457612 461074 <i>Or a speaker,<br />but it appeared to work.</i>
+461324 463618 <i>It had that element of humor...</i>
+463702 466413 <i>that I was looking for constantly.</i>
+472461 474421 LUCAS: <i>Well,</i> Star Wars <i>isn't sci-fi at all.</i>
+474504 477049 <i>It's a space opera,<br />which is a sub-genre.</i>
+477132 480385 <i>It's sort of halfway<br />between science fiction and fantasy.</i>
+480469 483722 <i>The motif I used to tell these stories<br />was the Saturday matinee serial,</i>
+483805 487893 <i>which is a particular genre that was<br />very popular in the '30s and '40s.</i>
+487976 489936 <i>I wanted it to look just like that.</i>
+490020 493815 <i>Those were-at least the</i> Flash Gordon,<br />Buck Rogers <i>kind of things-</i>
+493899 495901 <i>were space operas.</i>
+495984 498027 <i>Some people like to call them<br />comic book stories,</i>
+498110 500172 <i>but they aren't comic book<br />under the superhero genre.</i>
+500196 504033 <i>They're comic book<br />in the very early part of the century...</i>
+504116 506702 <i>when adventure serials first started.</i>
+511707 515711 <i>We'd had a number of problems<br />with shooting the snow monster.</i>
+515795 518047 <i>We could never quite<br />get the suit to work right,</i>
+518130 520966 <i>and so we kind of made it<br />so it was very vague.</i>
+521050 524804 <i>It wasn't till later that we were able<br />to create a good monster suit...</i>
+524887 526847 <i>that was more realistic-looking...</i>
+526972 529809 <i>and bring the creature in here<br />a little bit more to the forefront...</i>
+529892 532686 <i>so that it was more threatening<br />and more interesting.</i>
+536857 539401 KERSHNER:<br /><i>And here was the first instance...</i>
+539485 542780 <i>of the power that Mark had-</i>
+542863 546659 <i>the power of a Jedi,<br />which gradually...</i>
+546742 549120 <i>develops through the film.</i>
+549411 551831 <i>He had to get out of<br />a difficult situation,</i>
+551914 554542 <i>and here was his lightsaber,</i>
+554625 558712 <i>and he willfully makes it<br />jump into his hands...</i>
+558796 561799 <i>and, of course, lops the arm...</i>
+561882 563676 <i>off of the ice creature.</i>
+563759 567930 <i>Which kinda worried me<br />because I think kids...</i>
+568013 570933 <i>would be very upset by this,</i>
+571016 575020 <i>but, like all fairy tales,<br />and of course this is a fairy tale,</i>
+575104 577064 <i>there should be frightening things.</i>
+578440 580609 FISHER:<br /><i>I used to do these retreats,</i>
+580693 583195 <i>and I did a retreat where<br />one of the things they taught was...</i>
+583445 585197 <i>that the unconscious mind...</i>
+585281 587448 <i>doesn't know the difference<br />between dreams and films.</i>
+587532 591953 <i>What you'll respond to<br />in a film, emotionally,</i>
+592036 594581 <i>is the same thing-</i>
+594664 597792 <i>It will release<br />a kind of emotional content...</i>
+597876 600545 <i>that will-will be primal for you,</i>
+600628 603715 <i>will have something to do<br />with your childhood, blah-blah-blah.</i>
+603798 605842 <i>And he bore that out.<br />He showed us films-</i>
+605925 608803 <i>Well, one of the films-<br />Some of the films he couldn't show...</i>
+608887 611556 <i>when I was there was</i> Star Wars.
+611639 616436 <i>But he showed all these other films,</i><br />Quest for Fire, <i>a lot of Steven films-</i>
+616895 619898 <i>It was sort of true that it was<br />space fantasy. I suppose...</i>
+619981 621983 <i>a lot of it was responded to because</i>
+622066 625028 <i>it was like fairy tales<br />for a modern society.</i>
+625111 629073 <i>And-And because you're watching<br />characters act out-</i>
+629157 633703 <i>heroes act out something that you're<br />very happy to watch and identify with.</i>
+637207 640793 KERSHNER:<br /><i>Poor little R2-D2, all alone...</i>
+640877 643504 <i>wondering where his friend is.</i>
+643588 646507 <i>Which kind of proves<br />that he has emotion,</i>
+646591 648551 <i>which is what I wanted.</i>
+648635 652639 <i>I wanted everyone to reveal<br />their emotional side,</i>
+652722 654724 <i>robots included.</i>
+656768 660980 <i>And the first day of shooting<br />was about 20 degrees below zero,</i>
+661064 664776 <i>and we had to start shooting<br />with Mark.</i>
+664859 668988 <i>We started the day<br />by putting the camera...</i>
+669072 673243 <i>in the doorway of the hotel<br />after clearing away a mountain of snow.</i>
+673576 676828 <i>And he went out in the snow<br />and did some runs,</i>
+676912 681208 <i>and he fell in the snow<br />and crawled and saw Obi.</i>
+681291 684836 <i>But it was all seconds-running out<br />in the snow and running back.</i>
+684920 689049 <i>We were all nicely ensconced<br />in back of the doorway...</i>
+689132 690634 <i>where the camera was shooting out.</i>
+690717 693804 <i>But snow is snow,<br />and you can't tell the difference.</i>
+698809 701770 BURTT:<br /><i>The tauntaun voice was concocted...</i>
+701853 705941 <i>from a recording<br />of an Asian sea otter named Moda.</i>
+706024 710028 <i>It's a very small little mammal,<br />probably less than a foot long,</i>
+710112 713156 <i>but with a very loud<br />and shrill voice.</i>
+713282 717703 <i>And the small sea otter could almost<br />speak with a "wah-wah" kind of voice,</i>
+717786 723166 <i>which we pitched down a bit<br />and used for the voice of the tauntaun.</i>
+723250 724668 Although he does admit
+724751 726911 that his own range is<br />far too weak to abandon all hope.
+726962 729082 Your Highness, there's nothing more<br />we can do tonight.
+729131 731174 The shield doors must be closed.
+733969 738140 KERSHNER: <i>Closing the door<br />I wanted to make into an event...</i>
+738223 742561 <i>because it was closing off<br />their closeness.</i>
+742644 744730 <i>Now, here is another case<br />of emotion...</i>
+744855 749276 <i>where the two robots really care about<br />what's happening out in the snow,</i>
+749359 753780 <i>and the howl of Chewbacca,<br />to me, was very important.</i>
+753864 756867 <i>That was an emotional outburst.</i>
+756950 758428 LUCAS: <i>One of Kersh's<br />other challenges</i>
+758452 761121 <i>was to create<br />more emotion in Chewbacca.</i>
+761204 764041 <i>I think that was accomplished<br />in a great way with his sadness...</i>
+764124 766418 <i>over Han Solo... being missing.</i>
+766626 768002 Don't worry about Master Luke.
+768085 769587 I'm sure he'll be all right.
+769670 772089 He's quite clever, you know,<br />for a human being.
+782308 786228 KERSHNER: <i>After the film<br />was finished I shot Alec Guinness,</i>
+786312 788898 <i>and that was a joy.</i>
+788981 791776 <i>I noticed that between takes...</i>
+791859 794695 <i>Alec Guinness would sit in this chair...</i>
+794779 797990 <i>and study a little book<br />that he had.</i>
+798074 802661 <i>So I asked him at one point<br />to change a reading, and he says,</i>
+802745 804914 <i>"Could you give me<br />a few moments, please?"</i>
+804997 807625 <i>He sat in the chair, opened up<br />this little book, and I wondered,</i>
+807708 809335 <i>"What's he looking in this book for?"</i>
+809418 814173 <i>I looked over his shoulder.<br />He had every line printed out by hand...</i>
+814256 816884 <i>with little markings over the words...</i>
+816967 821055 <i>where he wanted<br />to change inflection or emphasis.</i>
+821138 823099 MUREN: <i>We have some<br />tauntaun shots here also...</i>
+823182 826936 <i>when the taun is running along<br />in this blizzardy snowstorm.</i>
+827019 828187 <i>What you're really seeing is-</i>
+828270 830064 <i>you're looking through<br />a piece of glass...</i>
+830147 833192 <i>on the tauntaun with some spray on it<br />to look sort of snowy.</i>
+833275 835236 <i>And the background's just white,</i>
+835319 838823 <i>and the feeling of snow was done<br />with lighting on a white background.</i>
+838906 841325 <i>The tauntaun is animated<br />sort of one frame at a time.</i>
+841409 844245 BURTT: <i>Some of the effect<br />of the blowing snow...</i>
+844328 846705 <i>was created in the soundtrack...</i>
+846789 850960 <i>by actually using a recording of surf<br />along the ocean side.</i>
+851043 855840 <i>And if you laid down a track of the surf<br />and then occasionally swelled it...</i>
+855923 858967 <i>up and down,<br />as if there were gusts of wind,</i>
+859050 862095 <i>you got a sound<br />which read as swirling snow.</i>
+862178 865098 KERSHNER: [CHUCKLING]<br /><i>This is another moment...</i>
+865181 866891 <i>when he cuts open the tauntaun...</i>
+866975 870854 <i>in order to put his friend<br />inside to keep him warm.</i>
+870937 874023 <i>It's an old trick that Indians did...</i>
+874107 879112 <i>and Eskimos of putting themselves<br />into the body of a beast...</i>
+879195 882991 <i>to stay warm through<br />the coldest part of a night.</i>
+883074 884427 <i>Of course the smell<br />was pretty bad,</i>
+884451 888705 <i>and that's how the line came up<br />of Harrison's-</i>
+888788 893835 Ah! I thought they<br />smelled bad on the outside!
+893918 897172 <i>And here they were,<br />out in a real snowstorm...</i>
+898214 900216 <i>on top of Norway.</i>
+901384 903970 LUCAS: <i>I'll say one thing<br />for the actors in this film-</i>
+904053 907056 <i>they all looked very cold<br />because they really were very cold.</i>
+907891 911311 <i>One of the great difficulties<br />of doing the special effects...</i>
+911478 914063 <i>on this particular snow planet<br />is we were doing...</i>
+914481 916816 <i>white objects<br />on a white background,</i>
+916900 918002 <i>which had really<br />never been done before,</i>
+918026 919903 <i>in terms of matting.</i>
+919986 923114 <i>And so it was very hard<br />to hide the matte lines.</i>
+923198 926409 MUREN: <i>These backgrounds here that<br />ILM was given were shot in Norway,</i>
+926493 928912 <i>and we had to put<br />our miniature snowspeeders in them.</i>
+928995 931331 <i>This was really hard stuff<br />at the time we were doing it.</i>
+931414 934292 <i>You know, bluescreen photography<br />has never been very easy.</i>
+934375 937128 <i>And the compositing-<br />putting the scenes together...</i>
+937212 939464 <i>and getting rid of<br />the blue lines around things-</i>
+939547 941549 <i>was always incredibly difficult to do.</i>
+941799 943843 <i>Now, in the digital world,<br />it's much, much simpler,</i>
+943927 945887 <i>and the work is much, much better.</i>
+949389 952226 <i>Many of these scenes where you see<br />the speeders flying along...</i>
+952309 954311 <i>are programmed<br />with motion-control cameras...</i>
+954394 957439 <i>moving very, very slowly<br />past the models.</i>
+957523 961860 <i>We might take three or four hours to<br />program the motions of one speeder...</i>
+961944 964112 <i>and then maybe five minutes<br />shooting at slow speed...</i>
+964196 965781 <i>to shoot it against a blue background.</i>
+965864 969076 <i>From then it would be<br />a few days and weeks of work...</i>
+969159 972079 <i>to get all the mattes working and get<br />them combined with the background.</i>
+972162 974331 <i>Then we would have to<br />put shadows in underneath them...</i>
+974414 978335 <i>that were sometimes animated<br />and sometimes a separate exposure...</i>
+978418 981129 <i>of the real model on a white card<br />that would then be...</i>
+981213 984383 <i>placed optically underneath the one<br />to look like it's casting a shadow...</i>
+984466 987177 <i>on the background<br />that was shot in Norway.</i>
+990639 994935 KERSHNER: <i>In this scene,<br />where Mark is in the tank,</i>
+995018 997229 <i>he almost got killed.</i>
+998021 1001191 <i>They had a light<br />right over the tank,</i>
+1001275 1004152 <i>which was open on top,<br />with the water bubbling,</i>
+1004319 1008991 <i>and just before he went into it,</i>
+1009074 1011243 <i>the thing cracked,</i>
+1011326 1016081 <i>and these huge pieces of glass<br />came tearing down into the water-</i>
+1016164 1018166 <i>very heavy-</i>
+1018250 1021461 <i>and if he had been in the tank<br />a few minutes later...</i>
+1021545 1024590 <i>I don't know<br />if he would have gotten out of it.</i>
+1028385 1030345 LUCAS:<br /><i>We were very conscious of the fact...</i>
+1030429 1034099 <i>that we didn't want to drag<br />this thing down into a dark morass...</i>
+1034182 1037435 <i>that was significantly<br />tonally different than the other film.</i>
+1037518 1040479 <i>But we wanted it to be more<br />sophisticated and deal with the fact...</i>
+1040563 1042565 <i>that the film is going<br />in a darker direction.</i>
+1042648 1045026 <i>So the goofy giddiness<br />of the first film...</i>
+1045109 1047903 <i>was toned down dramatically<br />in this film,</i>
+1047987 1052158 <i>and it was replaced with<br />a kind of slightly more mature humor.</i>
+1053534 1056078 She expressed her<br />true feelings for me.
+1056162 1057455 My-
+1057538 1060291 KERSHNER:<br /><i>Here is a scene where I had a chance...</i>
+1060374 1063169 <i>for emotion, humor<br />and characterization.</i>
+1063252 1066380 <i>The actors had to<br />make it believable.</i>
+1067506 1070217 <i>This was a fairy tale,</i>
+1070301 1073179 <i>but the best kind of fairy tale...</i>
+1073262 1075431 <i>is one where you believe the people.</i>
+1075514 1079393 <i>And of course,<br />when she kisses Mark,</i>
+1079477 1082521 <i>oh, jealously rears its little head.</i>
+1082605 1085399 <i>C-3PO understands it,</i>
+1085483 1087693 <i>and so does Chewbacca.</i>
+1090196 1093115 <i>And it sets up scenes for later,</i>
+1093199 1095326 <i>including the third film.</i>
+1103292 1107171 <i>The actors that I chose in England...</i>
+1107254 1109298 <i>were British.</i>
+1109423 1111342 <i>There were just<br />a couple of Americans.</i>
+1111467 1113427 <i>What I wanted to do...</i>
+1113511 1117473 <i>was make all the bad guys British<br />and all the good guys American.</i>
+1117598 1120559 <i>But sometimes<br />I didn't have the actors,</i>
+1120643 1124438 <i>so I had to use British actors<br />and put American voices on them.</i>
+1128650 1131069 <i>But a lot of the picture was dubbed...</i>
+1131152 1133947 <i>because there was<br />so much noise on the set...</i>
+1134030 1138243 <i>with the special effects,<br />with the chains and the steam and all.</i>
+1138326 1141579 <i>Burtt, of course, took care of all that.</i>
+1141663 1144249 BURTT:<br /><i>We're always doing new explosions,</i>
+1144332 1145750 <i>and when the probot blows up,</i>
+1145834 1147645 <i>one of the principal<br />elements in that explosion...</i>
+1147669 1149629 <i>is a big sheet of plywood...</i>
+1149713 1152966 <i>which we snapped out in back<br />of the building in the parking lot...</i>
+1153049 1156678 <i>and added it in<br />on top of the explosion itself.</i>
+1156761 1159472 <i>We dubbed it<br />the "wood crack attack" explosion.</i>
+1162851 1165854 KERSHNER: <i>This is the kind of scene<br />I like to do with people.</i>
+1165979 1169190 <i>I like to fill up the frame<br />with the faces.</i>
+1169274 1173111 <i>There's nothing more interesting<br />than the landscape of the human face.</i>
+1189878 1192172 MUREN: <i>Here's the scene<br />when you suddenly realize...</i>
+1192255 1195175 <i>that these massive Stardestroyers<br />are not so massive after all.</i>
+1195258 1197260 <i>This was quite a design problem...</i>
+1197552 1199888 <i>that Joe Johnston, myself<br />and a lot of people worked out...</i>
+1199971 1202056 <i>to try to make<br />these huge Destroyers look small.</i>
+1202182 1205059 <i>We did it with the shadow,<br />which really helped give you a sense...</i>
+1205143 1208021 <i>that there was something much,<br />much bigger out there,</i>
+1208104 1210148 <i>which, of course, is Darth Vader's ship.</i>
+1210273 1212567 <i>So, design-wise,<br />these were interesting.</i>
+1212650 1216404 <i>And here's the new Darth Vader ship<br />that we made just for this film.</i>
+1222993 1226205 BURTT: <i>I remember when I first heard<br />the title</i>- The Empire Strikes Back.
+1226371 1228749 <i>I think George mentioned it to me...</i>
+1228832 1231376 <i>some months prior<br />to the filming taking place.</i>
+1231460 1235672 <i>And I wasn't so sure<br />he was serious about the title.</i>
+1235756 1239676 <i>For some reason, it seemed such an<br />extreme, pulp-sounding title to me,</i>
+1239760 1242304 <i>like an old serial chapter.</i>
+1242387 1245474 <i>Of course, I've since realized<br />that, well, that's what we were making.</i>
+1245557 1248477 <i>We were making big versions<br />of the old serial chapters...</i>
+1248560 1253106 <i>which had titles like "Human Targets"<br />or "Fate Takes the Wheel"...</i>
+1253190 1257736 <i>or "The Crimson Ghost Strikes Out"<br />or something.</i>
+1257820 1261698 <i>So it was fitting that this title<br />was what it is.</i>
+1261782 1263742 LUCAS:<br /><i>I had the sequel rights...</i>
+1263826 1266620 <i>that I'd gotten almost by accident<br />on the first film.</i>
+1266703 1270290 <i>I got them because I wanted to make<br />sure I could finish these other movies,</i>
+1270374 1272685 <i>thinking that I was gonna<br />have to struggle to get them made.</i>
+1272709 1275587 <i>I didn't want them<br />to have the right to say no.</i>
+1275671 1277673 <i>As it turned out,<br />they became extremely popular,</i>
+1277756 1279466 <i>so the problem became<br />just the opposite,</i>
+1279550 1281653 <i>which is they wanted to take it over<br />and make it their way</i>
+1281677 1283178 <i>and I wanted to make it my way.</i>
+1283637 1287140 <i>So the struggle became one of<br />who was gonna control the picture...</i>
+1287224 1289226 <i>as much as anything else.</i>
+1292312 1294565 KERSHNER:<br /><i>And here's another chance for humor.</i>
+1294648 1297818 <i>About all I had to work with<br />on the ship...</i>
+1297901 1299778 <i>was a little welding torch.</i><br />[CHUCKLES]
+1299862 1303490 <i>That's the only thing<br />that would give me something dramatic.</i>
+1303574 1306368 <i>We tried to keep exposition<br />down to a minimum...</i>
+1307411 1309453 <i>because you didn't need much.</i>
+1309537 1312206 <i>The story is quite simple.</i>
+1313207 1315501 <i>The people aren't,<br />but the story is simple.</i>
+1316502 1320756 <i>Not simple-minded,<br />but not so complicated...</i>
+1320840 1323384 <i>that you need a lot of explanation.</i>
+1323467 1327555 <i>That gives the director a chance<br />to work on the characters,</i>
+1327638 1331934 <i>to work on little moments<br />of improvisation, staging...</i>
+1332184 1335605 <i>instead of having to have<br />these long-winded speeches...</i>
+1335688 1337732 <i>about exposition.</i>
+1344530 1347575 LUCAS: <i>We were very concerned,<br />'cause it was a darker story.</i>
+1347700 1351412 <i>And I was very concerned,<br />especially at the end of the story,</i>
+1351495 1354415 <i>where the hero loses and...</i>
+1354498 1357001 <i>has this stunning revelation<br />about his father...</i>
+1357251 1359712 <i>and also has his hand cut off.</i>
+1359795 1361839 <i>It's a pretty down ending...</i>
+1361923 1365551 <i>and not at all like<br />the ending for the first film.</i>
+1365635 1368262 <i>But it is the second chapter,<br />and that's the way it was.</i>
+1368346 1370932 <i>I had to do that in order<br />to get to the third chapter.</i>
+1371223 1373726 <i>In a lot of ways<br />I think it hangs together better.</i>
+1373809 1376854 <i>We did have the advantage<br />of having been through it once,</i>
+1376938 1380566 <i>and this was our second attempt at<br />refining how everything goes together.</i>
+1380650 1382610 <i>The first film<br />was extremely experimental...</i>
+1382693 1386280 <i>in terms of just how we went about<br />making the movie...</i>
+1386405 1389408 <i>in terms of special effects<br />and production values.</i>
+1389492 1394205 <i>And I was really under a lot of stress<br />from the studio and everybody...</i>
+1394288 1396874 <i>and had very, very little money<br />to work with.</i>
+1396958 1399209 <i>I had about half<br />the budget that this was.</i>
+1399292 1401586 <i>Ultimately, it was even less than that.</i>
+1401711 1405006 FISHER: <i>The interesting thing, too,<br />about shooting this movie was...</i>
+1405256 1409260 <i>you now had this weird,<br />never-before luxury...</i>
+1409344 1412472 <i>of shooting a film<br />you knew was gonna be a hit movie.</i>
+1412555 1415016 <i>So now we're shooting this film, and...</i>
+1415266 1417268 <i>it's sort of extra fun...</i>
+1417352 1419270 <i>because you're making a film that...</i>
+1419354 1421731 <i>has become this phenomenon.</i>
+1421815 1424359 <i>And it was a phenomenon then.<br />And so...</i>
+1424442 1427404 <i>it was, I guess,<br />a little bit more kicked up...</i>
+1427487 1430657 <i>because it was this kind of goofy-</i>
+1430740 1433368 <i>You know, everybody wanted to know<br />what was gonna happen,</i>
+1433451 1436746 <i>and it had become this type of film<br />that had never been done before.</i>
+1439499 1442252 <i>This was the longest speech<br />on the planet Earth.</i>
+1442377 1444838 <i>I had no idea what I was talking about.</i>
+1444921 1448967 <i>"Several ion cannons will fire a blast<br />at the shield of the blah-"</i>
+1449050 1454305 <i>Then I was in the gobbledygook<br />of George's typewriter.</i>
+1454389 1456933 <i>So I am desperately hoping...</i>
+1457017 1460395 <i>that I can remember this speech.</i>
+1460478 1464941 <i>I had no clue<br />as to what I was talking about.</i>
+1465025 1466526 Understood?
+1466609 1467944 Good luck.
+1468028 1469946 Okay, everybody<br />to your stations.
+1470030 1471322 Let's go.
+1471406 1474492 KERSHNER: <i>And here now<br />is the most important thing...</i>
+1474576 1476828 <i>about this climactic scene.</i>
+1476911 1479539 <i>The preparation for a battle...</i>
+1479622 1481458 <i>is what makes the battle work.</i>
+1481541 1484127 <i>The battle itself you expect.</i>
+1484377 1488380 <i>You expect the action.<br />You expect to see a lot of violence.</i>
+1488464 1490591 <i>But the preparation...</i>
+1490674 1493510 <i>gives you the build-up, the emotion...</i>
+1493594 1496597 <i>to be interested in it...</i>
+1496680 1499099 <i>and to care about what happens.</i>
+1499308 1502686 <i>And, of course,<br />the preparation is a drumbeat...</i>
+1502770 1504730 <i>that continues...</i>
+1504813 1507691 <i>until the actual violence.</i>
+1509902 1514073 [CHUCKLING] <i>I love the way<br />that ship that gets away...</i>
+1514364 1516867 <i>looks like it's a leftover from 1930.</i>
+1516950 1518994 <i>But that's these poor people.</i>
+1519078 1522873 <i>They don't have all the money<br />of this Empire that's after them.</i>
+1523874 1526960 <i>This is supposed to remind you...</i>
+1527044 1529171 <i>of all the war films you've seen...</i>
+1529421 1531548 <i>where the pilots<br />get into their planes...</i>
+1531632 1533592 <i>and they're gung ho...</i>
+1533675 1536470 <i>because they're young<br />and they know they're gonna win.</i>
+1536553 1541391 <i>So this is very much<br />war film stuff.</i>
+1541475 1543727 <i>So that it's not something special...</i>
+1543811 1546647 <i>that takes place in the future-</i>
+1546730 1549900 <i>You recognize it.<br />It has a familiar feel.</i>
+1555781 1559910 BURTT: <i>The approaching walkers was<br />one of the most satisfying...</i>
+1559993 1561995 <i>sequences to work out with sound...</i>
+1562079 1564873 <i>because it involved<br />the unseen menace...</i>
+1564957 1569044 <i>of these giant walking machines<br />as they first appear on the horizon.</i>
+1569128 1574508 <i>The thumping of the legs coming<br />was made up of several elements.</i>
+1574591 1578845 <i>The first was an artillery explosion<br />we had recorded in Oklahoma-</i>
+1578928 1582014 <i>a very distant thump<br />of the explosion.</i>
+1582098 1586769 <i>That was mixed with the rhythmic sound<br />of a metal shearing machine.</i>
+1586853 1590565 <i>But the walker itself also needed<br />a slightly squeaky leg sound,</i>
+1590648 1594735 <i>and I found that<br />going out to get the newspaper...</i>
+1594819 1596779 <i>in front of my house one morning.</i>
+1596863 1600575 <i>I opened the lid on the Dumpster<br />left by the refuse collecting company,</i>
+1600658 1604871 <i>and that squeaky lid made such<br />a good sound that I recorded that,</i>
+1604954 1608583 <i>and that became the other element<br />of the walkers.</i>
+1609917 1612044 LUCAS:<br /><i>The walkers, if anything,</i>
+1612128 1616632 <i>were inspired by the original novel</i><br />of War of the Worlds,
+1616716 1619552 <i>where the Martians walked on-</i>
+1619635 1621637 <i>Like giant spiders,<br />they walked on legs.</i>
+1621721 1623681 <i>I was trying to come up with a way...</i>
+1623764 1626475 <i>of making this battle<br />different and unusual...</i>
+1626559 1629061 <i>without putting tanks<br />and normal military stuff in there...</i>
+1629145 1632148 <i>and came up with the idea<br />of giant walking machines.</i>
+1632231 1635151 <i>They're tall because I wanted the<br />speeders to be able to fly under them...</i>
+1635193 1638154 <i>to make a more dynamic<br />kind of battle out of it.</i>
+1638237 1641073 <i>And again, I was struggling with<br />the fact that in the first film...</i>
+1641157 1644285 <i>I had this big space battle<br />at the end of the movie,</i>
+1644493 1646704 <i>but in this film<br />there wasn't anything like that.</i>
+1650249 1652835 MUREN: <i>The approach I took<br />for the walking machines...</i>
+1652919 1654879 <i>was to do them stop-motion animation.</i>
+1654962 1657798 <i>There was some talk<br />about doing them motorized,</i>
+1657882 1660259 <i>but I think we'd still be<br />working on that if we'd tried</i>
+1660343 1661636 <i>to make real walking machines.</i>
+1661719 1664889 <i>Everyone got together and made<br />the models, the walking machines-</i>
+1664972 1667975 <i>probably about two feet high,<br />and the legs...</i>
+1668059 1670101 <i>about two inches wide, each one,</i>
+1670185 1672270 <i>just big enough for a hand to grab it...</i>
+1672562 1676107 <i>and be able to move it one frame at<br />a time, from one position to the next.</i>
+1676191 1681029 <i>The backgrounds are massive, beautiful<br />paintings done by Mike Pangrazio,</i>
+1681112 1683907 <i>sometimes 15, 20 feet wide.</i>
+1684282 1688495 <i>And the aerial shots, when you're<br />looking down at the walking machines...</i>
+1688578 1692040 <i>is a large set, probably about<br />30 feet square, with trapdoors in it.</i>
+1692123 1694125 <i>So the animators could,<br />between frames,</i>
+1694209 1696336 <i>pop up through the trapdoors.</i>
+1699839 1702717 KERSHNER: <i>You notice when<br />he pulls down this periscope...</i>
+1702801 1705303 <i>it's very much the same<br />as on a submarine.</i>
+1705553 1708765 <i>This is one of the joys<br />of this film,</i>
+1708848 1711309 <i>that there's a familiarity<br />to everything.</i>
+1711559 1716731 <i>I mean, here he is wearing an outfit<br />that could very much be a pilot today.</i>
+1722696 1726116 MUREN: <i>The snow that's on the ground<br />for the stop-motion shots...</i>
+1726199 1728994 <i>is made up of these little<br />microballoons, tiny, tiny particles...</i>
+1729077 1731454 <i>that I think were used<br />for filling in paint,</i>
+1731538 1733039 <i>thickening it, something like that.</i>
+1733123 1736668 <i>Sometimes we used flour and then,<br />with paintbrushes, very carefully...</i>
+1736751 1740672 <i>manipulated it around so that<br />it'd look like it was snowbanks.</i>
+1740797 1744551 <i>But never wanting to touch it<br />between each frame, accidentally even.</i>
+1744634 1746011 <i>If someone put their elbow there,</i>
+1746094 1748138 <i>the snow would jump<br />to a different position...</i>
+1748221 1750056 <i>and it would look really "fake-o."</i>
+1750140 1753059 KERSHNER: <i>This is a wonderful moment<br />when it falls,</i>
+1753143 1756104 <i>and they're so happy<br />for a moment.</i>
+1756187 1759648 [CHUCKLING] <i>The explosions<br />are very necessary, I think.</i>
+1759732 1763027 <i>There's a certain satisfaction<br />at seeing things blown up,</i>
+1763152 1766572 <i>especially bad things.</i>
+1766655 1768949 <i>And the kids do respond to it.</i>
+1779418 1783297 <i>This is, again,<br />Chewbacca with Han Solo.</i>
+1783380 1786800 <i>Always having a fight,<br />always having problems.</i>
+1786884 1788844 <i>But they love each other.</i>
+1788927 1792681 <i>And here he is<br />saying good-bye to R2-D2.</i>
+1792765 1795267 <i>"Take care of yourself."</i><br />[CHUCKLES]
+1795351 1799980 <i>Which anybody would say today with<br />a friend that's going off to do battle.</i>
+1801315 1804234 BURTT: <i>The snow battle involved<br />the production of a lot of new effects.</i>
+1804360 1808489 <i>The sound of the lasers<br />firing from the walkers...</i>
+1808655 1813494 <i>was actually a little snippet of a sound<br />that an old biplane motor makes...</i>
+1813660 1816121 <i>when you crank it up<br />to a high RPM rate...</i>
+1816288 1819124 <i>and then you kick in the motor<br />mechanically.</i>
+1819208 1821377 <i>That sound of it kicking in-<br />a squeaking sound-</i>
+1821460 1825214 <i>is what's used<br />for the walker lasers.</i>
+1825297 1828467 <i>The sound of the speeders<br />steady in flight...</i>
+1828717 1833889 <i>was derived from a recording<br />of the L.A. freeway...</i>
+1833972 1835891 <i>recorded through<br />a vacuum cleaner pipe.</i>
+1835974 1840896 <i>I put a microphone inside it<br />and pointed it at the distant freeway.</i>
+1840979 1845192 <i>It was that sort of phasey sound<br />that I got that was used...</i>
+1845275 1847152 <i>as the sound of the speeder steady.</i>
+1853908 1857870 KERSHNER: <i>And here's our hero<br />in trouble-in bad trouble.</i>
+1857954 1862083 <i>But we gotta follow him,<br />because he's the one that leads us...</i>
+1862166 1864377 <i>into battle and out of battle.</i>
+1865336 1868714 <i>Landing was done right there.</i>
+1868798 1871843 <i>We brought that little machine<br />up on the snow.</i>
+1872760 1876764 <i>Of course, the legs<br />were put in later... in the studio.</i>
+1877014 1880852 MUREN: <i>This was a difficult shot when<br />the walker steps on the snowspeeder.</i>
+1880935 1884689 <i>We had real footage of Mark<br />jumping out of the snowspeeder,</i>
+1884772 1887942 <i>and we had to actually have<br />the speeder crushed in the background.</i>
+1888025 1889694 <i>So that required quite a bit-</i>
+1890153 1892029 <i>I remember, quite a bit<br />of hand rotoscoping...</i>
+1892113 1894115 <i>being done on that shot<br />to get that to work.</i>
+1899078 1901372 KERSHNER:<br /><i>Now we're inside the ice chamber,</i>
+1901456 1906419 <i>and, of course, all these effects<br />are actual stage effects.</i>
+1906502 1910339 <i>We had to have the smoke,<br />we had to have the things falling.</i>
+1910423 1913968 <i>When the building shook,<br />that was the camera shaking...</i>
+1914051 1916137 <i>and the people went with it.</i>
+1916220 1918389 <i>Rather primitively,</i>
+1918473 1921100 <i>little sparks are what you need...</i>
+1921184 1925271 <i>to show that there's fire<br />and danger.</i>
+1925354 1928941 <i>And so, wherever possible,<br />use fire and sparks.</i>
+1929025 1930234 <i>Sparks-lots of sparks.</i>
+1942787 1945916 MUREN: <i>This is an exciting sequence<br />coming up when Luke gets pulled up.</i>
+1946541 1948181 <i>Any of these scenes<br />that we have around...</i>
+1948251 1950128 <i>now in the sequence are pretty neat.</i>
+1950212 1952356 <i>You have people running underneath<br />the big walker machines.</i>
+1952380 1954799 <i>It's sort of like working<br />on an old King Kong movie.</i>
+1954883 1959179 <i>This is a little stop-motion Luke being<br />pulled up on an animated cable.</i>
+1959262 1962474 <i>Actually a drawn animated cable,<br />not a miniature one.</i>
+1962557 1965435 KERSHNER: <i>This was built<br />in the studio, this piece.</i>
+1965519 1969856 <i>And he was hanging there<br />underneath this giant thing,</i>
+1969940 1971942 <i>and he fell into the real snow.</i>
+1972025 1974402 MUREN: <i>We had a larger walker<br />here for the scenes...</i>
+1974486 1976488 <i>when the pyrotechnics go off.</i>
+1976571 1980242 <i>This is again our 5-foot walker<br />we made just for explosions.</i>
+1980325 1982565 <i>And it's sort of a cute idea<br />the way it collapses here...</i>
+1982786 1984871 <i>falling over on its side.</i>
+1984955 1987249 <i>One time we talked about<br />its rear legs collapsing...</i>
+1987332 1988875 <i>and it would just sit down.</i>
+1989543 1992504 <i>But that was deemed a little too comic,<br />but could have been cute.</i>
+1992587 1995840 <i>There's nothing like big giant creatures<br />attacking people.</i>
+1995924 1997926 <i>It's really fun to look at.<br />Still is today.</i>
+2002222 2006518 LUCAS: <i>The one fortunate thing about</i><br />Star Wars <i>is I've always been able to...</i>
+2006601 2010146 <i>pretty much tell the story without<br />any interference, even the first one.</i>
+2010230 2013191 <i>In the studio Alan Ladd, Jr<br />was very cooperative...</i>
+2013275 2015402 <i>in allowing me to do what I wanted.</i>
+2015485 2018154 <i>But since the first film,<br />there had been...</i>
+2018613 2022117 <i>a continuing change of management<br />through the rest of the movies.</i>
+2022200 2024494 <i>You don't always have<br />a guarantee just because...</i>
+2024578 2027122 <i>you have a good relationship<br />with the studio at one point...</i>
+2027205 2029999 <i>that two or three years later<br />you'll still have that relationship.</i>
+2030082 2035170 <i>Fortunately, I was able to be immune<br />from that kind of corporate turnover.</i>
+2036380 2039633 <i>Because this film was not<br />a traditional sequel-</i>
+2039842 2041969 <i>it was just the continuation<br />of a story-</i>
+2042052 2044013 <i>and because it didn't have<br />a beginning and an end,</i>
+2044096 2047891 <i>it had a unique structure where<br />a lot of the big action sequences...</i>
+2047975 2051604 <i>are early on in the movie,<br />and it ends on a personal note.</i>
+2051895 2054898 <i>These are things I'm not sure<br />a studio would have gone along with...</i>
+2054982 2057526 <i>if they had their say about<br />what was gonna happen...</i>
+2057610 2059612 <i>and what was not gonna happen.</i>
+2063073 2067953 KERSHNER: <i>And they're running away.<br />So, lots of explosions, lots of sparks.</i>
+2068037 2069663 [CHUCKLING]<br /><i>You need sparks.</i>
+2071206 2073959 <i>And they just about make it,</i>
+2074043 2077171 <i>with poor C-3PO trying<br />to keep up with them.</i>
+2077254 2079965 <i>But it's pretty hard in that suit.</i>
+2080049 2082259 <i>Poor C-3PO-</i>
+2082343 2085012 <i>always left behind.</i>
+2085095 2087973 <i>This becomes a running gag,<br />and you need running gags...</i>
+2088057 2089683 <i>to create humor.</i>
+2089933 2092394 LUCAS:<br /><i>I didn't have to put pressure on Kersh.</i>
+2092478 2094647 <i>I think there was a lot of pressure<br />on him to say...</i>
+2094938 2097232 <i>"I want this to be<br />the best movie it can possibly be.</i>
+2097316 2099652 <i>"I don't want to drop the ball<br />on the franchise.</i>
+2099943 2103030 <i>I don't want to not make this<br />better than the first film."</i>
+2103113 2108577 KERSHNER: <i>And here is Han Solo.<br />Always in trouble with his ship.</i>
+2108661 2112623 <i>Now, you notice when he banged<br />the ship that all the lights went on.</i>
+2112706 2114917 <i>Well, that's one of the oldest gags<br />in the world.</i>
+2115000 2117795 <i>You know, here's a high-tech thing<br />that goes faster</i>
+2117878 2119129 <i>than the speed of light...</i>
+2119213 2123716 <i>and he gives a hit on the wall<br />and all the lights go on.</i>
+2123966 2125968 [CHUCKLING]<br /><i>The current-</i>
+2126052 2129639 <i>I don't know how many people<br />catch it, but I love it.</i> [CHUCKLING]
+2129722 2132558 <i>These are the moments<br />that I was trying for.</i>
+2146364 2150159 <i>The other thing that<br />you guess at is the timing.</i>
+2150243 2153371 <i>Within the scene,<br />the rhythm of the actors,</i>
+2153454 2155623 <i>the rhythm of the speech,<br />the rhythm of the movement,</i>
+2156082 2158751 <i>the rhythm of the staging-</i>
+2158960 2161295 <i>this is locked in time.</i>
+2162130 2164590 <i>This is the biggest guess of all.</i>
+2168553 2171180 <i>This shot here is the only shot...</i>
+2171264 2173349 <i>that was done outside in London...</i>
+2173433 2176144 <i>in the whole film after Norway.</i>
+2176227 2180231 <i>Norway was exterior,<br />and the rest of it is all on the set...</i>
+2180314 2182775 <i>except for that one thing.</i>
+2183401 2186446 MUREN: <i>One of the things we were<br />trying to do on Empire was come up...</i>
+2186529 2191242 <i>with new dynamics for the spaceships<br />and the snowspeeders to fly.</i>
+2191325 2193286 <i>Different ways<br />of photographing them also.</i>
+2193369 2195580 <i>We tried a shot where we had<br />an X-wing way over...</i>
+2195663 2197331 <i>on the right-hand side of the frame...</i>
+2197415 2200168 <i>and bank and exit way over<br />on the left-hand side of the frame...</i>
+2200251 2202712 <i>without the camera really doing much<br />of a camera pan.</i>
+2202795 2205047 <i>That was done to give<br />a more dynamic look to it.</i>
+2205131 2208217 <i>We were trying all the time to come up<br />with different ways to make these-</i>
+2208301 2211720 <i>this shot right here-different ways<br />to make the spaceships look.</i>
+2212179 2215265 <i>To give the scale to the Stardestroyer<br />we put a lot of the TIEs...</i>
+2215348 2217726 <i>and the</i> Millennium Falcon<br /><i>right in front of it...</i>
+2217809 2221146 <i>so you could really see how big<br />that Destroyer was behind it.</i>
+2221229 2225150 <i>Essentially, there were three scales:<br />There were the TIEs and the Falcon,</i>
+2225233 2227402 <i>the bigger Stardestroyer,</i>
+2227486 2230363 <i>and then on top of that<br />the massive, massive Darth Vader ship.</i>
+2237496 2240165 <i>This was fun here,<br />this sequence where...</i>
+2240248 2242417 <i>we're trying to show<br />these ships so massive,</i>
+2242501 2244753 <i>just barely being able to maneuver<br />and turn around.</i>
+2244836 2247464 <i>Conceptually, it was difficult<br />figuring out how to visualize this.</i>
+2247547 2250383 <i>But we came up with some neat angles<br />looking up at it...</i>
+2250467 2253345 <i>so you could get a sense of the</i> Falcon<br /><i>falling down with the TIEs...</i>
+2253428 2255847 <i>and up above seeing the near misses<br />that were going on.</i>
+2260477 2263730 KERSHNER:<br /><i>Harrison, in these scenes...</i>
+2263814 2269236 <i>when they go into the meteor field<br />was talking very fast.</i>
+2269319 2274115 <i>When we went to dub him<br />back in Hollywood later...</i>
+2274199 2276660 <i>he asked me to go check the projector.</i>
+2276743 2279496 <i>He said, "You know,<br />I can't talk that fast."</i>
+2279579 2281790 <i>He says the projector's running slow.</i>
+2281873 2285085 <i>Well, of course, the projector<br />was running at the right speed.</i>
+2285168 2287337 <i>And I said,<br />"You were speaking that fast...</i>
+2287420 2290507 <i>because the adrenaline was high,<br />you were doing the scene."</i>
+2290590 2292425 <i>"I can't do it," he said.</i>
+2292509 2297222 <i>And so we kept running the ADR over<br />and over, and finally he got into it.</i>
+2297305 2299891 <i>And, of course, he could talk that fast.</i>
+2300182 2302184 <i>And he did it.</i>
+2303853 2307273 <i>And bang! The thing falls on his head.</i>
+2307356 2309483 <i>We don't see it, but we know it.</i>
+2311861 2314029 LUCAS:<br /><i>One of the things I wanted...</i>
+2314488 2316156 <i>was to begin to progress the love story,</i>
+2316240 2318158 <i>but I couldn't really resolve it...</i>
+2318242 2319618 <i>until the third film.</i>
+2319702 2322580 <i>It's the progression<br />of a love story that...</i>
+2322663 2324832 <i>never goes anywhere<br />in this particular movie.</i>
+2324915 2328252 <i>In the end, he confesses his love<br />for her, and that sort of thing,</i>
+2328335 2330713 <i>but it isn't, when we get<br />to the next movie,</i>
+2330796 2334633 <i>that they're madly in love,<br />or it resolves itself in any way.</i>
+2334717 2338846 <i>It's just a very subtle movement<br />of the emotional relationship they have.</i>
+2338929 2341682 <i>That's always been a difficult thing<br />in this particular story...</i>
+2341765 2346145 <i>because the love story<br />is a very thin factor in all of these.</i>
+2346228 2349648 <i>Subtle in the first film. Move along<br />on a very thin note on the second.</i>
+2349732 2352985 <i>And a very slight resolution<br />in the third film.</i>
+2353193 2355696 <i>Mostly Saturday matinee serials<br />had no love story at all.</i>
+2355821 2357281 <i>The love story was</i>
+2357364 2360200 <i>"Hero meets heroine<br />and they fall in love."</i>
+2360284 2363537 <i>There's no dialogue or anything.<br />It's sort of a given.</i>
+2363621 2367374 <i>"Oh, you're the hero? I'm the heroine."<br />"Oh, okay. Let's kiss. '</i>' [CHUCKLES]
+2367458 2370628 <i>Th-There was no real depth to it at all.</i>
+2370711 2374548 <i>And not much time was ever spent<br />on the love story aspects of it.</i>
+2390563 2393608 MUREN: <i>We managed to elaborate this<br />from the original ideas...</i>
+2393691 2396569 <i>and have this big drop in here<br />where you go down into a canyon.</i>
+2396653 2398947 <i>Originally, this was just flying<br />over the surface.</i>
+2399238 2401449 <i>I thought it would be neat<br />to go into a crater,</i>
+2401532 2403135 <i>then into a narrower part of it,<br />and then on your side</i>
+2403159 2404911 <i>like this to get out.</i>
+2404994 2407622 <i>And this has been copied in a lot<br />of films since, that same idea.</i>
+2407747 2410107 <i>But it was just a way to make<br />the sequence more interesting.</i>
+2410291 2412919 <i>And then, to have a better reveal<br />for this right here.</i>
+2413002 2415838 <i>So, you have your own little moment,<br />you think you're safe,</i>
+2415922 2420510 <i>and then you have a reveal for<br />the escape hole that you can hide in.</i>
+2423763 2426724 KERSHNER: <i>I think this is<br />very beautiful, this move here.</i>
+2429018 2432647 <i>The major problem that I did have<br />on this film...</i>
+2432730 2436484 <i>was that this is the second part<br />of a trilogy.</i>
+2437652 2441239 <i>And the second part of a trilogy-<br />it's a quieter film.</i>
+2441322 2444575 <i>Like the second part<br />of a symphony, or...</i>
+2444659 2446619 <i>the second act of a play.</i>
+2446703 2449747 <i>It's more characterization<br />and less action.</i>
+2449831 2453251 <i>And the problems are explored.</i>
+2453334 2457213 <i>It has to be an advertisement<br />for the third one.</i>
+2457296 2459966 <i>It has to lead to it...</i>
+2460258 2461884 <i>seamlessly, effortlessly.</i>
+2462051 2464637 <i>I always had that in mind.</i>
+2468349 2470268 LUCAS:<br /><i>The thing about Dagobah was...</i>
+2470351 2472937 <i>that in the original story<br />that came out of</i> New Hope...
+2473021 2477942 <i>at this point in the story<br />Obi-Wan Kenobi counseled Luke...</i>
+2478026 2480736 <i>on how to become a Jedi<br />and the nature of the Force...</i>
+2480819 2483113 <i>and to really learn about the Force.</i>
+2483363 2486950 <i>But because of the situation<br />in</i> New Hope...
+2487034 2489870 <i>I decided that<br />there wasn't very much...</i>
+2489953 2492789 <i>for Obi-Wan Kenobi to do<br />in the last part of the picture,</i>
+2492873 2495584 <i>and I felt it would be<br />more dramatic to kill him off.</i>
+2495667 2499838 <i>I would then figure out what to do<br />in the next movie when I got there.</i>
+2499921 2502466 <i>So, here I was, in the next movie,</i>
+2502549 2505677 <i>in this section, the middle part<br />of the section where...</i>
+2505761 2509097 <i>Luke learns to use the Force<br />from a Jedi,</i>
+2509389 2511808 <i>who was supposed to be Obi-Wan.</i>
+2511892 2514478 <i>And I'd killed him off,<br />so I couldn't do that anymore.</i>
+2514561 2518356 <i>So, I invented this new Jedi, Yoda.</i>
+2519066 2522444 <i>And in order to sustain...</i>
+2522527 2526573 <i>what I figured was gonna be<br />a lot of long, talky scenes,</i>
+2526656 2529910 <i>I wanted to make him<br />a rather unique alien character...</i>
+2529993 2532579 <i>so he was fun to watch.</i>
+2532662 2536416 <i>And, because he was supposedly<br />one of the greatest Jedi of all time,</i>
+2536500 2538710 <i>I wanted to make him very small...</i>
+2538794 2540921 <i>and very "un-Jedi-looking,"</i>
+2541004 2544508 <i>so that it'd be a real surprise<br />when you discovered...</i>
+2544591 2548386 <i>that this little frog-like creature<br />on the side of the road, so to speak,</i>
+2548470 2551681 <i>turns out to be this great Jedi master.</i>
+2551765 2554518 <i>But it really came out<br />of the problem...</i>
+2554601 2557521 <i>I had in killing off Obi-Wan Kenobi<br />in the first movie.</i>
+2557604 2561817 <i>Not technically killing him off, but<br />having him join the Force... at will.</i>
+2561900 2563944 [CHUCKLES]
+2564027 2567072 <i>The issue of consciously<br />joining the Force,</i>
+2567155 2570659 <i>which is a theme<br />that runs through these films,</i>
+2570742 2574078 <i>and being able to retain<br />your personality, your individuality...</i>
+2574745 2576956 <i>once you've gone over<br />to the other side...</i>
+2577039 2580626 <i>is part of the story that gets explained<br />in the first three films.</i>
+2580709 2582962 <i>And here it's-<br />becomes kind of a mystery...</i>
+2583045 2586132 <i>because it's never really explained<br />how and why that happens.</i>
+2590302 2592972 BURTT: <i>Dagobah is a place where<br />there's a great opportunity...</i>
+2593180 2594890 <i>for the sound designer...</i>
+2595182 2599103 <i>because you can create<br />an unseen world that's off camera.</i>
+2599228 2602773 <i>You can give it a vastness<br />which is not really there.</i>
+2602857 2607987 <i>I started out with some recordings<br />of birds done at a zoo,</i>
+2608070 2610447 <i>but they were in a very echoey aviary.</i>
+2610531 2612700 <i>When you slowed down the recording<br />of the echoey birds,</i>
+2612783 2616954 <i>they became spooky howls<br />which really had the right feel.</i>
+2617037 2620457 <i>But mixed in with that<br />were a lot of other little animals.</i>
+2620583 2623836 <i>We had some recordings<br />done of raccoons...</i>
+2623919 2626422 <i>done in a bathtub<br />in order to confine them...</i>
+2626505 2628674 <i>so they wouldn't run away<br />from the microphone.</i>
+2631051 2635097 <i>I remember in the original production<br />track that we get from the set...</i>
+2635181 2638517 <i>that, of course, R2 doesn't beep<br />in all these scenes...</i>
+2638601 2641854 <i>but rather you'd often hear<br />the director, Irvin Kershner,</i>
+2641979 2644982 <i>making beeping sounds<br />to cue the actors.</i>
+2645065 2647151 <i>And it was kind of fun to hear that.</i>
+2647234 2650738 <i>He was imitating, as best as he could,<br />sounds from the first</i> Star Wars <i>movie.</i>
+2650821 2653490 KERSHNER: <i>Here's an intimate scene<br />between the two.</i>
+2653574 2656160 <i>He cleans off his little eyepiece.</i>
+2656243 2658704 <i>Whoop!</i><br />[CHUCKLES]
+2658787 2660539 <i>And out comes the mud and water.</i>
+2661706 2664918 LUCAS: <i>It was very important in this<br />movie at this point for us to realize...</i>
+2665001 2668213 <i>that Darth Vader was a human being.</i>
+2668504 2670173 <i>That he wasn't a robot.</i>
+2670256 2671901 <i>He wasn't some kind of monster.<br />He wasn't an alien.</i>
+2671925 2673986 <i>Because in the first film,<br />you didn't know what he was.</i>
+2674010 2675595 <i>You never saw him.</i>
+2675678 2677639 <i>After going through that with Kersh,</i>
+2677722 2680975 <i>he came up really with this thing<br />of having him put his helmet on,</i>
+2681059 2684187 <i>which was really nothing more<br />than a setup for the next movie.</i>
+2684270 2687148 KERSHNER: <i>That to me is the way<br />to show Darth Vader.</i>
+2687232 2688983 <i>I can see him with his helmet,</i>
+2689067 2691694 <i>and I wonder<br />what the hell's underneath.</i>
+2691819 2695782 <i>Is it just an ordinary man?<br />Or is it pieces of a man?</i>
+2695865 2698284 <i>And that's what happens<br />to the audience</i>
+2698368 2700036 <i>when they don't see too much.</i>
+2714759 2719305 <i>Here they are inside of a wormhole.</i>
+2719555 2724686 <i>Now you see when they're moving?<br />I'm shouting, "Right! Left! Right!"</i>
+2724769 2728106 <i>And they throw themselves<br />in the direction I'm saying.</i>
+2728189 2730733 <i>If I say, "right," they throw<br />themselves to the right,</i>
+2730817 2734320 <i>and the camera,<br />which is being held by hand,</i>
+2734404 2736739 <i>moves to the left.</i>
+2739534 2743579 <i>So, it looks like the ship is moving<br />and they're moving.</i>
+2743663 2746040 <i>And they're listening for my-</i>
+2746124 2748126 <i>Whoop! I said, "Right."</i>
+2748209 2751087 <i>Now, this was a chance<br />to get her into his arms.</i>
+2751169 2753672 <i>Which, of course, is a lovely moment.<br />We're all waiting...</i>
+2753755 2756133 <i>for something<br />to happen between them...</i>
+2756216 2758593 <i>and this is the buildup.</i>
+2758677 2762556 <i>This is the second time that<br />they're together...</i>
+2762639 2764641 <i>in a big close-up.</i>
+2766184 2768770 <i>No, she's resisting it. Oh, yes.</i>
+2775319 2777904 <i>Now here we are on the planet...</i>
+2779281 2782034 <i>which is muddy, water-</i>
+2782117 2784119 <i>foggy always.</i>
+2784202 2786204 <i>There's no sun ever.</i>
+2791877 2795213 LUCAS: <i>The classic mythological motif<br />that goes through...</i>
+2795297 2797299 <i>a lot of stories through history...</i>
+2797382 2800135 <i>is that the key mystical character...</i>
+2800218 2804097 <i>is an animal by the side of the road<br />that seems very insignificant...</i>
+2804181 2807100 <i>that when the hero comes past,<br />he's kind to.</i>
+2807184 2809353 <i>Where most people<br />pass that creature by-</i>
+2809644 2813148 <i>they ignore him, or they belittle him,<br />or cast aspersions upon him-</i>
+2813231 2815233 <i>the hero is kind to him.</i>
+2815317 2817778 <i>And by being kind to him,<br />the hero gets the magic...</i>
+2817861 2820113 <i>that the character<br />on the side of the road has.</i>
+2820197 2822908 <i>In this case,<br />I was playing that motif...</i>
+2822991 2824993 <i>more literally than I had<br />in the first film.</i>
+2825077 2830707 <i>It's kind of what Obi-Wan Kenobi is<br />in the first film as the old wizard.</i>
+2830791 2834920 <i>But here it's much more<br />the magical frog, so to speak.</i>
+2838173 2840175 <i>There was a huge challenge with this.</i>
+2840258 2842802 <i>I didn't want Yoda to look<br />like a man in a suit.</i>
+2842885 2845221 <i>And so I made him<br />two-and-a-half-feet tall,</i>
+2845304 2848891 <i>which would have been impossible,<br />you know, to put anybody in.</i>
+2848974 2852686 <i>And in England we had worked across<br />the street from ITV,</i>
+2852770 2855106 <i>which is where<br />Jim Henson's group was.</i>
+2855189 2857108 <i>And we knew Jim Henson.</i>
+2857191 2860111 <i>So, I asked Jim if he thought<br />it would be possible...</i>
+2860194 2864281 <i>if we could get together and create<br />a realistic-looking puppet...</i>
+2864365 2866325 <i>and make it work.</i>
+2866409 2869745 <i>He thought about it,<br />and thought it was an exciting idea.</i>
+2869829 2872415 <i>He thought it might work.<br />So, he helped advise us on this.</i>
+2872498 2874750 <i>He recommended<br />that Frank Oz be the puppeteer.</i>
+2874834 2876252 <i>He said he's really the best.</i>
+2876419 2881006 KERSHNER: <i>Stuart Freeborn,<br />with the help of the Henson group,</i>
+2881090 2883384 <i>he created the head.</i>
+2883467 2888889 <i>Which, by the way,<br />he later said was a portrait of me.</i>
+2888973 2893227 <i>And I didn't see myself in this,<br />but he did.</i>
+2893310 2897398 <i>But I sure could see Stuart Freeborn,<br />the maker of Yoda.</i>
+2897523 2899942 <i>I mean, it's like a spitting image.</i>
+2900025 2902194 LUCAS:<br /><i>Jim Henson and myself...</i>
+2902278 2905322 <i>and Frank Oz and Stuart Freeborn<br />and Kershner...</i>
+2905406 2908033 <i>moved around to create...</i>
+2908117 2910494 <i>something that seemed<br />completely impossible...</i>
+2910786 2913956 <i>when I first came up with the idea<br />of a 2-foot-high Jedi.</i>
+2914039 2917710 KERSHNER:<br /><i>Yoda here is a mischievous little toad,</i>
+2917793 2919795 <i>which is character.</i>
+2919920 2923841 <i>And without that character,<br />he's just nothing. He's a puppet.</i>
+2926302 2929930 BURTT: <i>Cutting the voice of R2 in this<br />sequence with Yoda was a lot of fun...</i>
+2930014 2933391 <i>'cause there were comical moments<br />and interplay between Yoda and R2.</i>
+2933475 2935977 <i>It was really just almost a madness...</i>
+2936060 2938855 <i>when you had this little,<br />impish new creature appearing...</i>
+2938938 2942150 <i>and then you had a robot<br />that beeps and boops.</i>
+2942233 2945361 <i>Having the two of them argue and fight<br />over the stick and the objects.</i>
+2945445 2948448 KERSHNER:<br /><i>He really is... childlike,</i>
+2948531 2951868 <i>which is I think<br />why children love him so much.</i>
+2951951 2954120 [CHUCKLING]<br /><i>I love when he's beating on him.</i>
+2954204 2957582 <i>This is all part<br />of the characterization.</i>
+2957832 2959918 <i>He's a curious child...</i>
+2960001 2962504 <i>who won't give up something<br />that he's found.</i>
+2966841 2969427 LUCAS: <i>It was one of the scarier<br />things in the movie, 'cause...</i>
+2969511 2973139 <i>if he looked like Kermit,<br />we would have been dead.</i>
+2973223 2975558 <i>We were just terrified<br />that he was gonna</i>
+2975642 2977310 <i>be this shocking new character.</i>
+2977393 2979395 <i>You didn't know how we did it.</i>
+2979479 2982106 <i>I think when it first came out<br />that was the impression.</i>
+2982190 2984776 <i>People just couldn't figure out<br />how we'd created this character.</i>
+2984859 2987403 <i>But it was struggling with<br />this character...</i>
+2987487 2989489 <i>that took me to<br />the next level of saying,</i>
+2989572 2991908 <i>"Gosh, I wish I could get<br />that character to walk."</i>
+2991991 2995995 <i>He can't walk more than a few feet<br />because he's really a guy on a hand.</i>
+2996079 2999123 <i>It takes a lot of work<br />to get him to go anywhere.</i>
+2999207 3003127 <i>That was what started me on the idea<br />of creating digital characters...</i>
+3003211 3006130 <i>that could actually move freely<br />on a set without having to have...</i>
+3006214 3009217 <i>the whole scene<br />blocked around the puppeteer.</i>
+3017517 3020895 KERSHNER:<br /><i>Now we have the problem of the ship.</i>
+3020979 3024856 <i>And, of course,<br />C-3PO figures it out pretty well.</i>
+3024940 3026942 I believe, sir, it says<br />that the power coupling...
+3027025 3028378 on the negative axis<br />has been polarized.
+3028402 3033031 <i>But Han Solo can't take<br />advice from a robot.</i>
+3034366 3036868 <i>So, he just tells him,</i>
+3036994 3040205 <i>hey, uh, check the whatever it is<br />you're supposed to check...</i>
+3040289 3043166 <i>that he just heard from C-3PO,<br />you see.</i>
+3043250 3045294 <i>Which is, again, a very old gag.</i>
+3046295 3048297 <i>And that's why it works.</i>
+3051049 3053385 <i>Now, here we have the love scene.</i>
+3053468 3055971 <i>This is...</i>
+3056054 3059433 <i>the third part of the setup.</i>
+3059516 3061643 <i>You can tell she loves him.</i>
+3061893 3064187 <i>I mean, it's obvious to everybody.</i>
+3064271 3067065 <i>But, no, she's going to resist him.</i>
+3067149 3069109 <i>And that's what the scene's about.</i>
+3069192 3072904 <i>And, of course, what he wants<br />is to kiss her.</i>
+3072988 3077367 <i>And a kiss in this film is almost<br />equivalent to intercourse.</i>
+3077451 3079536 <i>Not to the children,<br />but to the adults.</i>
+3079620 3082205 [CHUCKLING]<br /><i>I think.</i>
+3084041 3086043 FISHER:<br /><i>Harrison, by the way-</i>
+3086126 3089421 <i>he doesn't like doing<br />screen kissing at all.</i>
+3089504 3091465 <i>And I don't think I'd ever done it.</i>
+3091548 3096053 <i>Right before we shot this, he told me<br />he had done a screen kiss...</i>
+3096136 3101391 <i>where he put oysters in his mouth<br />so that when he kissed the person...</i>
+3101475 3105520 <i>he slipped a few oysters<br />into the person.</i>
+3105604 3107606 <i>So, I was looking forward<br />to the kiss,</i>
+3107689 3110734 <i>as you can imagine,<br />with great excitement.</i>
+3110942 3113694 <i>Certainly, he had<br />the upper hand, as it were.</i>
+3116072 3118491 KERSHNER:<br /><i>And she resists to the end.</i>
+3118574 3121702 <i>But it's getting closer.<br />And it happens!</i>
+3121952 3125164 <i>Oh, what a joy. It happens.</i>
+3126207 3129710 <i>And there is that</i> stupid <i>robot...</i>
+3131045 3135675 <i>coming in at the wrong moment when<br />he could have continued having fun.</i>
+3138094 3140513 LUCAS: <i>I always liked<br />the moment in this scene where...</i>
+3140596 3143432 <i>an asteroid hits<br />one of the Stardestroyers.</i>
+3143516 3146977 <i>Then when we go to the briefing<br />with Darth Vader...</i>
+3147061 3149063 <i>one of the guys gets killed.</i>
+3149146 3151649 <i>The image flickers off.</i>
+3151732 3154652 <i>The Nazis are basically<br />the same costumes...</i>
+3154735 3157321 <i>that we used in the first film.</i>
+3157405 3162743 <i>They're designed to be authoritarian<br />and very military-very Empire-like.</i>
+3162952 3165955 <i>You'll see, as time goes on,<br />they don't really appear...</i>
+3166038 3168666 <i>in the movie about the Republic,<br />which is the first three movies.</i>
+3168749 3172002 <i>You don't have that same kind<br />of militaristic look...</i>
+3172086 3174088 <i>because in the first three films...</i>
+3174171 3178592 <i>the Jedi are the ones who keep peace<br />in the universe, not the military.</i>
+3185224 3188978 BURTT: <i>The most critical job<br />that any sound designer can have...</i>
+3189061 3192273 <i>is the selection of the right sound<br />at the right moment.</i>
+3192356 3196277 <i>You don't just put in every sound<br />that you might possibly justify...</i>
+3196360 3198362 <i>at a given moment in the movie.</i>
+3198446 3201657 <i>The ear couldn't sort them all out.<br />You have to be very selective...</i>
+3201741 3204743 <i>and pick just the right things,<br />orchestrate them at the right moment.</i>
+3205034 3209330 <i>And it's often dictated,<br />just as it is in music, by convention...</i>
+3209414 3212584 <i>and by the history that preceded it,<br />as to what you do.</i>
+3213668 3216588 <i>In</i> Star Wars, <i>many things in it<br />are derived...</i>
+3216671 3219007 <i>from science fiction movies<br />of the past.</i>
+3219090 3221676 <i>Things that came out of<br />the</i> Flash Gordon <i>serials..</i>.
+3221760 3225513 <i>or</i> Forbidden Planet <i>or movies<br />that I loved as a kid growing up.</i>
+3226681 3231311 <i>The recordings done at<br />Ken Strickfaden's... laboratory...</i>
+3231394 3234606 <i>ended up being used all over the place<br />in</i> Empire Strikes Back...
+3234689 3236858 <i>and in subsequent</i> Star Wars <i>films.</i>
+3237066 3242822 <i>That is, the recordings I made<br />of the old</i> Frankenstein <i>props..</i>.
+3243072 3245825 <i>made back in the 1930s<br />which belonged to their inventor,</i>
+3245909 3247827 <i>Ken Strickfaden.</i>
+3248077 3250538 <i>It was on this film that I met him.<br />I went to his home...</i>
+3250622 3253416 <i>and recorded all of those devices.</i>
+3253500 3256586 <i>It was a tremendous array<br />of unusual electrical sounds.</i>
+3256669 3259547 <i>Some of it was used,<br />well, just here and there.</i>
+3267263 3269408 KERSHNER: <i>R2-D2 wants to know<br />what's going on inside...</i>
+3269432 3271476 <i>so he gets up on his tippy-toes.</i>
+3271559 3274687 [CHUCKLES] <i>We had to do a special rig<br />to make that happen.</i>
+3274771 3277440 <i>I said, "I want him to get up<br />on his tippy-toes."</i>
+3277524 3282070 <i>So, they worked all night<br />and made him get up on his tippy-toes.</i>
+3282153 3284113 [CHUCKLING]
+3284197 3287200 <i>And here we were shooting<br />in this little set.</i>
+3287283 3291704 <i>I mean, we were all on our knees.<br />It's very small. It has to be.</i>
+3291788 3295541 LUCAS: <i>All these scenes with Yoda<br />are written around the puppet.</i>
+3295666 3298293 <i>So, they're staged around the puppet<br />in the little house...</i>
+3298377 3300754 <i>in places where<br />we could actually...</i>
+3300838 3305259 <i>cope with the technicalities<br />of how you do these scenes.</i>
+3305342 3307302 <i>I wanted them to be<br />a little bit of variety...</i>
+3307386 3310264 <i>'cause they all take place<br />on one part of one planet.</i>
+3310347 3313392 <i>By having inside, outside,<br />in confined spaces...</i>
+3313475 3316854 <i>and not moving around too much,<br />we were able to deal with the puppet.</i>
+3317145 3321817 <i>Kersh did a great job with this.<br />He had a real connection with Yoda.</i>
+3321900 3324695 <i>One of the reasons Yoda works<br />as well as he does in this...</i>
+3324778 3326738 <i>is 'cause Kersh believed<br />in him so much.</i>
+3326822 3329908 <i>And believed in what he was saying,<br />and believed in him as a character.</i>
+3330158 3332411 <i>So he didn't just slough him off<br />and give up...</i>
+3332494 3334496 <i>or think of him ever as a puppet.</i>
+3334580 3337541 KERSHNER:<br /><i>Yoda for me was...</i>
+3337624 3339626 <i>a Zen master.</i>
+3339710 3341670 <i>The things he says-</i>
+3341753 3345716 <i>war does not make one great<br />and things like that...</i>
+3345799 3348760 <i>are sort of little bits of Zen.</i>
+3348844 3351305 <i>I think people react to that.</i>
+3354600 3357144 LUCAS: <i>One of the more fun aspects<br />of his character...</i>
+3357227 3359730 <i>is that he starts out as<br />this funny little creature...</i>
+3359855 3362399 <i>and then he turns into<br />this wise old Jedi.</i>
+3362482 3365319 <i>And he does it in this scene.</i>
+3367487 3371408 <i>He's goofy in the beginning,<br />and then he just turns.</i>
+3371491 3376455 <i>You can see him go from<br />being wacky to being very wise.</i>
+3383252 3387214 <i>Frank Oz did a brilliant job<br />of acting in this picture.</i>
+3387298 3390384 <i>We tried, actually, to get him<br />an Academy Award nomination,</i>
+3390468 3393346 <i>and the Screen Actors Guild said<br />puppeteers aren't actors,</i>
+3393429 3395431 <i>which I thought was outrageous.</i>
+3395514 3399644 <i>A lot of acting started out as puppets<br />and puppeteers in the old days.</i>
+3399727 3403272 <i>You know, a few thousand years ago.<br />Before the Screen Actors Guild.</i>
+3403356 3405733 <i>But it's a great,<br />brilliant performance.</i>
+3405816 3407985 <i>And it's acting.<br />It's the best of acting.</i>
+3413658 3418496 KERSHNER: <i>Underneath the set are<br />about six television sets in a circle.</i>
+3418579 3422291 <i>Frank Oz and his puppeteers-</i>
+3422375 3428005 <i>they're pulling strings that make<br />the ears work, the eyes work.</i>
+3428255 3431467 <i>And they're watching the screens.</i>
+3431550 3435638 <i>I'm on top next to the camera<br />with earphones...</i>
+3435721 3439392 <i>so I can hear,<br />and I'm watching on a monitor...</i>
+3439475 3441936 <i>and I'm watching them<br />at the same time.</i>
+3442019 3446273 <i>So, I'm seeing what they're seeing<br />down below through the camera.</i>
+3446399 3449443 <i>And it's pretty tricky shooting.</i>
+3470798 3473550 LUCAS:<br /><i>This scene in the snake's mouth...</i>
+3473633 3476113 <i>worked better on the page,<br />I think, than it finally turned out.</i>
+3476302 3479556 <i>It's a very hard concept to pull off.</i>
+3479639 3482976 <i>I think it works, but I'd always<br />expected it would get a laugh...</i>
+3483059 3485895 <i>when the ship flies out<br />of the creature's mouth.</i>
+3485979 3489315 <i>But as it turns out,<br />most people are astonished.</i>
+3489399 3491526 [CHUCKLES]<br /><i>And slightly confused, I think.</i>
+3491609 3492837 <i>We never really got the reaction</i>
+3492861 3495447 <i>we were looking for<br />at the end of this scene.</i>
+3495530 3498408 <i>I-It was based on<br />a mythological motif,</i>
+3498491 3501661 <i>but as we put it together,<br />a-and as I wrote it,</i>
+3501745 3503079 <i>I thought it was really funny.</i>
+3503288 3504998 <i>You know, the revelation of it.</i>
+3505081 3508668 <i>We never quite got that revelation<br />to be as humorous...</i>
+3508752 3512547 <i>to the audience as it was to me...<br />when I first wrote it.</i>
+3512630 3514608 [CHUCKLING] <i>Every once in a while<br />when you're writing,</i>
+3514632 3518094 <i>you come up with an idea,<br />write it down and you laugh to yourself.</i>
+3518344 3519947 <i>That's what happened to me<br />when I wrote this scene,</i>
+3519971 3523058 <i>but it doesn't translate<br />as I had expected.</i>
+3523349 3526561 <i>I was torn with revealing<br />what was going on before it happened,</i>
+3526644 3529856 <i>but then the film itself<br />takes its own life,</i>
+3529939 3533109 <i>and it demands that you do it<br />in a particular way.</i>
+3533359 3535361 <i>It just wouldn't work-</i>
+3535445 3538948 <i>The story isn't told in a way that<br />you could reveal that before it happens.</i>
+3539032 3541576 <i>Because the film isn't about the snake.</i>
+3541659 3543661 <i>Even the scenes in here<br />aren't about the snake.</i>
+3543745 3545872 <i>The scenes are really<br />about Han Solo and Leia,</i>
+3545955 3549793 <i>and they're more love scenes<br />and getting-to-be-intimate scenes...</i>
+3549876 3552921 <i>than they are where they are<br />and what their jeopardy is.</i>
+3553588 3555149 BURTT: <i>This has to be<br />one of the few times</i>
+3555173 3556424 <i>in any</i> Star Wars <i>movie</i>
+3556508 3560553 <i>that we actually paid attention to<br />a life-support system on another planet.</i>
+3560637 3563013 <i>You know, they never go anywhere...</i>
+3563097 3566767 <i>except where<br />there's oxygen to breathe it seems.</i>
+3566850 3568727 <i>Nobody ever needs a space helmet.</i>
+3570604 3575150 KERSHNER: <i>There's these little things<br />that are metal-eating birds...</i>
+3575359 3577569 <i>that are kind of dangerous.</i>
+3577694 3580948 <i>All they are<br />are pieces of plastic...</i>
+3581031 3583742 <i>being held up by fishing rods...</i>
+3583867 3586411 <i>and swishing through the scene.</i>
+3586495 3590874 FISHER: <i>Oh, that was a crew member<br />with a mynock on a string.</i>
+3590999 3593168 <i>Now, this is all leaning acting.</i>
+3593460 3595671 KERSHNER:<br /><i>I have to shout which way to go...</i>
+3595754 3598382 <i>so the camera knows<br />which way to go opposite.</i>
+3598465 3600384 FISHER:<br /><i>He says, "Lean to the right.</i>"
+3600467 3604388 <i>"Oh, lean to the left... together.</i>
+3604471 3606515 <i>And now-Oh! Lean to the right."</i>
+3606598 3608142 <i>It's like silent film.</i>
+3608475 3610435 <i>"MOS Lean to the left!</i>
+3610519 3612688 <i>And now lean together."</i>
+3612771 3615899 KERSHNER: <i>All they're doing<br />is throwing themselves around...</i>
+3615983 3618443 <i>according to my instruction.</i><br />[CHUCKLES]
+3619027 3621697 <i>Same thing in the ship. Now,</i>
+3621780 3626660 <i>the difficulty was for C-3PO to do this<br />'cause he had limited movement.</i>
+3626743 3628871 <i>But there! There, he got it.</i>
+3635961 3638422 MUREN: <i>We had a tunnel made<br />for the wormhole sequence,</i>
+3638505 3640174 <i>probably about two feet across.</i>
+3640465 3642777 <i>The camera would go through,<br />and then these teeth tell you,</i>
+3642801 3645137 <i>"Hey, there's something else going on."</i>
+3645220 3647782 <i>When the worm creature sticks its<br />head out, what you're actually seeing...</i>
+3647806 3651685 <i>is a hand puppet, probably about<br />six inches round, just popped it out.</i>
+3651768 3655771 <i>We shot it high-speed on a little model<br />that was about six feet wide.</i>
+3655855 3658399 <i>By putting the little spaceship in<br />that we shot bluescreen,</i>
+3658858 3662236 <i>it made the set look very big,<br />even though it was really pretty tiny.</i>
+3664864 3667909 KERSHNER:<br /><i>Here is Luke in training.</i>
+3667992 3670494 <i>I thought that the best way<br />to do the training...</i>
+3670578 3672955 <i>would be for him to carry Yoda.</i>
+3673039 3677501 <i>So we built a little one,<br />just simply hangs on and doesn't move.</i>
+3677585 3679629 <i>And on the close-ups he could move.</i>
+3679712 3681631 LUCAS: <i>This scene is another example</i>
+3681714 3684175 <i>of what do you do<br />when you got a puppet.</i>
+3684258 3687178 <i>You can't move around.<br />He can't run or walk or anything.</i>
+3687261 3690973 <i>We came up with the idea of putting him<br />in a backpack so he could be carried.</i>
+3691057 3694977 <i>With digital technology, we'd probably<br />have him bouncing along next to him.</i>
+3697855 3699815 KERSHNER:<br /><i>But it did give me the chance here...</i>
+3699941 3703277 <i>to have them stop... and talk.</i>
+3708783 3710785 LUCAS:<br /><i>In a film like</i> Star Wars,
+3710868 3714705 <i>to have maybe 10 minutes<br />of the film be lecturing,</i>
+3714789 3718793 <i>explaining the Force, how it works,<br />the nature of the dark side.</i>
+3718876 3722129 <i>There was a lot of<br />sort of philosophical bent...</i>
+3722213 3724715 <i>in these Dagobah scenes...</i>
+3724799 3728886 <i>and a bit of nervousness on<br />everybody's part that this would play...</i>
+3728970 3730930 <i>and not put people to sleep.</i>
+3731013 3736310 <i>I think part of it is having a unique<br />alien character that's fascinating,</i>
+3736602 3740731 <i>having a performance by Frank Oz<br />that is believable and sincere.</i>
+3740815 3744901 <i>It makes the middle of this movie<br />relatively soft...</i>
+3744985 3749364 <i>next to what people expected<br />of the second film in</i> Star Wars.
+3749572 3752701 <i>At the time, we had no way of knowing<br />whether it was gonna work or not,</i>
+3752784 3755245 <i>'cause it was very "un-sequel-like."</i>
+3755328 3758081 <i>The risk I had was that<br />I put the action-adventure up front.</i>
+3758164 3761001 <i>Say, okay, here's<br />the action-adventure part.</i>
+3761084 3764212 <i>But from now on,<br />it's more gonna be a personal film...</i>
+3764296 3768633 <i>where people are being philosophical<br />and worrying about emotional issues.</i>
+3770093 3772846 KERSHNER: <i>He's still weak.<br />He's gotta be strengthened.</i>
+3772929 3775223 <i>And Yoda's the one to do it.<br />That's his job.</i>
+3775307 3780020 <i>Now he has to go<br />and explore a cave...</i>
+3780103 3784190 <i>because he's in training,<br />and this is what Yoda tells him to do.</i>
+3784274 3787027 <i>There's a seriousness<br />to Yoda's face here,</i>
+3787110 3790071 <i>'cause he knows<br />what's going to happen.</i>
+3790155 3794034 <i>Because, actually, he's setting it up,<br />what's going to happen in the cave.</i>
+3795035 3799664 <i>Because Luke is going<br />to have to face himself, his fears.</i>
+3799748 3801583 <i>And when he tells him<br />you don't need the guns,</i>
+3801666 3803376 <i>you don't need all that stuff-</i>
+3803668 3806004 <i>Uh-uh. He's still a weak man.</i>
+3806087 3809716 <i>He still needs guns and sabers.</i>
+3809799 3812260 <i>That shows that he's still weak.</i>
+3812344 3814346 <i>Anybody that needs a gun is weak.</i>
+3820143 3823229 LUCAS:<br /><i>Part of going into the tree...</i>
+3823688 3826649 <i>is learning about the Force,<br />learning the fact that...</i>
+3826733 3829361 <i>the Force is within you,<br />and at the same time...</i>
+3829444 3833156 <i>you create your own bad vibes.</i>
+3833281 3835991 <i>So if you think badly about things...</i>
+3836075 3840871 <i>or you act badly<br />or you bring fear into a situation,</i>
+3840954 3844917 <i>you're gonna have to defend yourself<br />or suffer the consequences of that.</i>
+3845000 3847294 <i>In this particular case,<br />he takes his sword in with him,</i>
+3847378 3850047 <i>which means he's<br />going to have combat.</i>
+3850130 3852674 <i>If he didn't, he wouldn't.</i>
+3852758 3856053 <i>He is creating this situation<br />in his mind...</i>
+3856136 3859098 <i>because on a larger level...</i>
+3859181 3862059 <i>what caused Darth Vader<br />to become Darth Vader...</i>
+3862142 3866688 <i>is the same thing that makes Luke<br />bring that sword in with him.</i>
+3866772 3871652 <i>So just as later on we find out<br />that Darth Vader's actually his father,</i>
+3871735 3873737 <i>so he is part of himself.</i>
+3873821 3876115 <i>But he has the capacity<br />to become Darth Vader...</i>
+3876198 3880369 <i>simply by using the hate and fear<br />and using weapons...</i>
+3880452 3885165 <i>as opposed to using<br />compassion and caring and kindness.</i>
+3887209 3892089 <i>That's the big danger of the series-<br />that he will become Darth Vader.</i>
+3892172 3894925 <i>In this film when it first came out,<br />nobody knew that.</i>
+3895008 3897386 <i>Nobody knew that<br />that was even part of the plot.</i>
+3897511 3902015 <i>And even when you find out in this<br />particular film that he's his father,</i>
+3902099 3905436 <i>you don't quite get<br />what is really at stake,</i>
+3905727 3909773 <i>except the metaphor that<br />he could become his own worst enemy.</i>
+3909857 3912860 <i>It works as a sort of<br />philosophical metaphor,</i>
+3912943 3915112 <i>but it also is a plot point.</i>
+3918157 3920492 KERSHNER:<br /><i>Now, when he chops the head off,</i>
+3920701 3924328 <i>we think this is really Darth Vader<br />at this point.</i>
+3926456 3928958 <i>Now, you notice<br />it's slightly slow motion,</i>
+3929041 3932128 <i>which makes it sort of unreal.</i>
+3932211 3934881 <i>And he looks into the helmet...</i>
+3934964 3937300 <i>and it's his own face,</i>
+3937383 3940344 <i>which means that he's facing himself.</i>
+3940428 3943764 <i>He is his own enemy.</i>
+3955902 3957212 LUCAS: <i>It was fun<br />being able to introduce these</i>
+3957236 3959280 <i>bounty hunters into the series.</i>
+3959363 3961032 <i>In some of the original stories</i>
+3961115 3962950 <i>and original struggling<br />with the screenplays,</i>
+3963034 3965036 <i>bounty hunters played<br />a more important role.</i>
+3965119 3967747 <i>They pretty much got<br />written out of</i> A New Hope.
+3967830 3970500 <i>So it was fun to be able<br />to get them back into this film.</i>
+3970791 3974462 <i>They became the critical plot point<br />with Han Solo.</i>
+3974545 3978174 <i>It had been set up in</i> New Hope<br /><i>with the Jabba the Hutt scene,</i>
+3978257 3982261 <i>but I was never really able<br />to continue that story.</i>
+3985932 3988100 <i>Boba Fett is popular<br />because he's mysterious...</i>
+3988184 3990561 <i>and he's powerful...</i>
+3990770 3993564 <i>and he's very much like<br />the man with no name...</i>
+3993773 3995816 <i>from the Sergio Leone westerns.</i>
+4008329 4010039 KERSHNER:<br /><i>Again, the ship didn't move...</i>
+4010122 4012500 <i>because it was on rollers.</i>
+4012583 4016086 <i>But they couldn't move it fast enough,<br />you see,</i>
+4016169 4018004 <i>so we did it with the camera...</i>
+4018088 4020840 <i>and a little jerking of the set.</i>
+4020924 4023134 <i>But that didn't do much good.</i>
+4023218 4025262 <i>Ah, look at the frustration.</i>
+4025345 4028056 <i>Ah! Chewbacca's frustration<br />is wonderful.</i>
+4028139 4030225 <i>That means that he feels things.</i>
+4031476 4034354 <i>Harrison really got into the part.</i>
+4034437 4036815 <i>He was Han Solo.</i>
+4036940 4038858 <i>He was in trouble.</i>
+4038984 4042279 <i>He acted in trouble.<br />He looked like he was in trouble.</i>
+4046950 4050203 <i>You notice how short the cuts are.</i>
+4050287 4053331 <i>It's very necessary<br />to keep the rhythm of this film.</i>
+4053415 4056334 <i>Now, the cuts are very short,</i>
+4056418 4058378 <i>very little dialogue,</i>
+4058461 4063842 <i>but on the staging of scenes<br />within the cuts...</i>
+4063925 4066386 <i>I had to keep that rhythm going...</i>
+4066511 4069973 <i>so it was the same pace,<br />the same rhythm.</i>
+4070056 4073018 <i>And that, to me, was one of<br />the most frightening things...</i>
+4073101 4076104 <i>about the whole shooting.</i>
+4076187 4080483 <i>I was guessing.<br />Every director guesses.</i>
+4080567 4083236 <i>"Is it the right rhythm?<br />Is the staging good?</i>
+4083320 4087657 <i>Are we getting the point across?<br />Are we missing anything?"</i>
+4087907 4091077 <i>And the cameraman is thinking<br />to himself, "Gee, is the lighting right?</i>
+4091161 4092579 <i>Will the lab screw me up?"</i>
+4093204 4095332 <i>There's always something.</i>
+4099961 4102213 LUCAS: <i>Again, the challenge<br />in the Dagobah scenes...</i>
+4102297 4104923 <i>is to try to explain as much as I could<br />about the Force...</i>
+4105007 4108093 <i>without it getting completely<br />didactic and boring.</i>
+4108177 4111221 <i>But there are<br />certain aspects to the Force...</i>
+4111305 4114350 <i>that need to define what a Jedi can do<br />that the other characters can't do.</i>
+4114433 4117227 <i>And these scenes are<br />really set up to do that.</i>
+4117311 4119151 <i>"To say," What is the Force?<br />How does it work?</i>
+4119188 4122066 <i>What are the powers<br />that the Force has?"</i>
+4125277 4128322 <i>This particular scene<br />is one of my favorites.</i>
+4128405 4131325 <i>Ultimately, I guess, it comes down<br />to the power of positive thinking...</i>
+4131408 4133702 <i>or your belief system.</i>
+4133952 4135138 <i>If you believe in something,<br />then it will work.</i>
+4135162 4136413 <i>If you don't, it won't.</i>
+4136497 4138791 <i>And part of getting<br />something done in life</i>
+4138874 4140584 <i>is to believe that you can do it.</i>
+4140668 4143629 <i>A lot of the scenes, again,<br />are very old in nature</i>
+4143712 4145422 <i>and common wisdom...</i>
+4145506 4147591 <i>told in all kinds of stories.</i>
+4147675 4150969 <i>One of 'em is believe in yourself<br />and believe in what you're doing.</i>
+4151053 4154973 <i>People used to pass on this kind of<br />information to the younger generation.</i>
+4160270 4163148 <i>Frank's got a lot<br />of long dialogue scenes.</i>
+4163273 4166568 <i>A lot of preaching and lecturing,<br />and he's able to pull it off...</i>
+4166652 4170030 <i>with a certain amount<br />of panache and character...</i>
+4170114 4172491 <i>that makes it very, very watchable.</i>
+4172574 4175661 KERSHNER:<br /><i>When they were doing these scenes,</i>
+4175744 4179498 <i>Mark could not hear<br />what Yoda was saying.</i>
+4179581 4182626 <i>So on the rehearsals,<br />we put an earphone on him...</i>
+4182710 4187548 <i>and he could hear Frank Oz<br />underneath the floor talking.</i>
+4187673 4191510 <i>We rehearsed, rehearsed, rehearsed.<br />And then we did the take...</i>
+4191593 4195388 <i>where he waited<br />and answered, answered, answered.</i>
+4200351 4203062 <i>Here, he's using the Force.</i>
+4203146 4207734 <i>Now, he used it once before...<br />in the ice cave...</i>
+4208025 4211320 <i>to get the saber out of the snow.</i>
+4211404 4215074 <i>But this is a big thing.<br />He's gotta pull this huge ship...</i>
+4215783 4219036 <i>out of the water, the muck.</i>
+4219120 4224041 <i>Now, the ship is, what,<br />20, 30 feet big?</i>
+4224125 4226605 <i>It's only three and a half feet<br />of water, so it was all hinged.</i>
+4226669 4230757 <i>There were frogmen under the water<br />pulling it under...</i>
+4231048 4234260 <i>so it looked like the whole thing<br />was sliding under the water.</i>
+4244771 4247648 <i>And now, we have<br />the great philosopher-</i>
+4247732 4250109 [CHUCKLES]<br /><i>Yoda.</i>
+4250193 4252820 <i>You see, there's<br />no real emotion shown...</i>
+4253070 4256491 <i>except in the body movement,<br />the ears.</i>
+4256574 4259243 <i>The way he blinks is important-</i>
+4259327 4262580 <i>the eyes wide open or slightly shut.</i>
+4263623 4266209 <i>That's all we had to work with.</i>
+4266292 4270505 <i>But Luke is so<br />beautifully in character...</i>
+4270588 4272465 <i>throughout the film.</i>
+4275301 4277845 LUCAS: <i>It's hard to believe<br />when you're starting into something-</i>
+4278095 4280515 <i>It happens in a lot of movies.<br />Whenever you make a movie,</i>
+4280598 4283392 <i>you're always looking<br />at parts of the movie and saying,</i>
+4283476 4286520 <i>"Is this going to be believable?<br />Can you pull this off?</i>
+4286603 4289272 <i>Or is the audience just gonna laugh<br />and say this is silly?"</i>
+4289356 4292859 <i>Because you really don't know.<br />You're taking on a huge challenge.</i>
+4293109 4296655 <i>I mean, you know it has<br />a very large chance of not working.</i>
+4296738 4299783 <i>When you leap out there-<br />especially with something like Yoda-</i>
+4299866 4303453 <i>And I did it in the first film,<br />centering the film around the droids,</i>
+4303537 4306790 <i>having a co-pilot who's a large dog.</i>
+4306873 4308875 <i>I mean, it's just everything.</i>
+4309125 4311545 <i>Are people ready<br />for this kind of fantasy,</i>
+4311628 4313797 <i>or will they just not go with it?</i>
+4313922 4316675 <i>There's no way to know when<br />you're working on something like this...</i>
+4316758 4319761 <i>about whether it's gonna have<br />that necessary...</i>
+4319845 4322597 <i>suspension of disbelief,</i>
+4322681 4324891 <i>or whether you're not<br />gonna get that far.</i>
+4325183 4328436 <i>You're using the medium<br />in every way that you possibly can...</i>
+4328520 4330355 <i>to make this become believable.</i>
+4330438 4334484 <i>But in the end, I had to have a little<br />green guy who could act and perform.</i>
+4334568 4338905 <i>It took every bit of energy-<br />creative energy we could muster...</i>
+4339155 4341157 <i>to make Yoda happen.</i>
+4343994 4346413 KERSHNER:<br /><i>And here it comes out of the water.</i>
+4347080 4350125 <i>And this took... 10 hours.</i>
+4350375 4353003 [CHUCKLING]<br /><i>Everything kept falling apart.</i>
+4353128 4354796 <i>The wings kept falling off.</i>
+4354880 4357299 <i>The water wasn't right.<br />I mean, that shot was a killer.</i>
+4357424 4359134 <i>This was easy.</i>
+4359217 4362220 <i>They just pulled it across<br />on a cable, you know.</i>
+4362304 4365807 <i>R2-D2 looking up at the thing<br />in amazement.</i>
+4365891 4369644 <i>No expression,<br />but you knew that he was amazed.</i>
+4377276 4380362 BURTT: <i>For sound, there's always<br />a wonderful moment...</i>
+4380446 4382698 <i>where you take a scene<br />that's in</i> Star Wars,
+4382781 4386327 <i>which is in a fantasy world<br />that has no ambience to it-</i>
+4386410 4389663 <i>the machinery or characters<br />don't make the right sounds-</i>
+4389747 4392541 <i>and for the first time,<br />you put in an ambience.</i>
+4392625 4396295 <i>You put in the sound<br />of the vehicles or the voices.</i>
+4396420 4399173 <i>And suddenly,<br />the movie is elevated...</i>
+4399256 4403344 <i>to a much more<br />successful level of drama.</i>
+4403427 4404678 <i>And those are magic moments.</i>
+4405137 4406722 <i>They're a lot of fun.</i>
+4416607 4419985 KERSHNER:<br /><i>This guy's had it. He's the ex-admiral.</i>
+4420277 4423405 <i>He's just been killed by Darth Vader.</i>
+4423489 4428202 <i>And, of course, the nice thing<br />about killing somebody like this...</i>
+4428285 4430287 <i>is get rid of the body.</i>
+4430371 4432373 <i>That makes it a real killing, you see.</i>
+4432456 4435250 <i>If he had just walked away,<br />it wouldn't be as good.</i>
+4435334 4439254 LUCAS: <i>It becomes a bit of a<br />humorous bit ultimately with Piett here,</i>
+4439338 4442007 <i>who manages to survive<br />the whole thing.</i>
+4442299 4446011 <i>At the very end, he expects to<br />get zapped too, but he doesn't.</i>
+4446303 4449515 <i>I have to keep reminding people<br />that Darth Vader is evil...</i>
+4449598 4453769 <i>because ultimately<br />he becomes sympathetic, sort of.</i>
+4453852 4455646 <i>Especially in the next film.</i>
+4455729 4459274 <i>I didn't want to lose contact<br />with his evilness.</i>
+4459358 4462444 <i>The easiest way to do that<br />was to kill anybody in sight.</i>
+4466447 4469742 MUREN: <i>This was really cute, 'cause<br />this was a little tiny model we made...</i>
+4469826 4471786 <i>to go onto the back.</i>
+4471869 4474288 <i>This right here-go back<br />on the Stardestroyer model.</i>
+4474372 4478501 <i>This little</i> Falcon <i>is about an inch<br />and a half across, or two inches across.</i>
+4478584 4483923 <i>This was a fun sequence too,<br />sort of how they're evasive and hiding.</i>
+4484007 4486926 <i>It was pretty neat,<br />all these graphic images we get...</i>
+4487051 4490304 <i>of these triangle-shaped Stardestroyers<br />moving around.</i>
+4496602 4501649 KERSHNER: <i>Shutting off C-3PO there,<br />I think that's a wonderful moment...</i>
+4501733 4505403 <i>because it means that<br />he's really a robot,</i>
+4505486 4507655 <i>that they have<br />complete power over him...</i>
+4507739 4510450 <i>and yet, they depend on him.</i>
+4510533 4513786 FISHER: <i>This is pleasant because<br />for one thing, we're in agreement...</i>
+4513870 4516581 <i>about turning off the robot.</i>
+4516664 4521669 <i>So I think we agree<br />for the first time in a million years.</i>
+4521753 4526340 <i>And we talk sort of calmly<br />to one another...</i>
+4526424 4529886 <i>for the first time, I think,<br />in the whole film.</i>
+4529969 4532597 <i>And I smile at him slightly,</i>
+4532680 4534682 <i>probably for the first time.</i>
+4534766 4538728 KERSHNER: <i>These little intimate scenes<br />in close-up I particularly like.</i>
+4538811 4542356 <i>You see the little head<br />of C-3PO sticking out there,</i>
+4542440 4544734 <i>eyes wide open, naturally,<br />'cause he can't close 'em.</i>
+4544817 4546819 [CHUCKLES]
+4550490 4555535 LUCAS: <i>The concepts,<br />the motifs and the themes...</i>
+4555619 4557954 <i>in the first three movies<br />of this trilogy...</i>
+4558038 4563001 <i>I've also tried to use in Episodes I,<br />II and III in different ways.</i>
+4563085 4565837 <i>So they're kind of harking back<br />to something you've already seen.</i>
+4565921 4568423 <i>Or, the way I'm telling the story,<br />it'll reverse itself,</i>
+4568548 4570634 <i>which is you'll see something...</i>
+4570717 4574805 <i>that Boba Fett's father will do that<br />you'll end up seeing Boba Fett do...</i>
+4574888 4576932 <i>here in this junk scene.</i>
+4577015 4580769 <i>I've got a lot of places<br />in the movie where you see a scene...</i>
+4580852 4583480 <i>that's extremely similar<br />in the first trilogy...</i>
+4583563 4585774 <i>that's in the second trilogy.</i>
+4585857 4588985 <i>What it does is sort of set you up<br />for the event in the second trilogy,</i>
+4589069 4591071 <i>even though I'm doing it in the reverse.</i>
+4591154 4595117 <i>What I call sort of<br />reprises of ideas.</i>
+4595408 4598161 <i>It's like a musical theme<br />that keeps repeating itself...</i>
+4598453 4600330 <i>over and over again in different ways.</i>
+4604751 4608130 <i>I've used that as a technique<br />throughout all six movies.</i>
+4608463 4612134 <i>And even in between some of<br />these movies I will repeat things...</i>
+4612425 4615512 <i>and have an actor sort of confront,<br />or a different character confront...</i>
+4615595 4618932 <i>the same situation,<br />or have the same moral quandary...</i>
+4619015 4621768 <i>and then watch<br />how he comes through it...</i>
+4621852 4625105 <i>as opposed to the way<br />another character would.</i>
+4637117 4639411 KERSHNER:<br /><i>Now, here's the training continuing.</i>
+4639494 4642581 <i>Luke has to be able to do things<br />that he couldn't do before,</i>
+4642664 4645041 <i>but he doesn't know that.</i>
+4645125 4650212 <i>All he knows is that<br />he has to go and save his friends,</i>
+4650462 4653883 <i>and this is what makes his character.</i>
+4653966 4656051 LUCAS:<br /><i>It's pivotal Luke doesn't have patience.</i>
+4656135 4659180 <i>He doesn't wanna finish his training.</i>
+4659263 4664977 <i>He's being succumbed by his<br />emotional feelings for his friends...</i>
+4665060 4667146 <i>rather than the practical feelings of...</i>
+4667271 4670983 <i>"I've gotta get this job done<br />before I can actually save them.</i>
+4671066 4673110 <i>I can't save them, really."</i>
+4673194 4676655 <i>But he sort of takes the easy route<br />and the arrogant route...</i>
+4676739 4679200 <i>and the emotional,<br />but least practical route,</i>
+4679491 4680576 <i>which is to say,</i>
+4680659 4684079 <i>"I'm just gonna go off and do this<br />without thinking too much."</i>
+4684163 4688542 <i>And the result is that he fails and<br />doesn't do well for Han Solo or himself.</i>
+4688667 4691921 <i>It's the motif that needs to be in the<br />picture, but it's one of those things...</i>
+4692004 4695174 <i>that just in terms of storytelling<br />was very risky...</i>
+4695257 4699011 <i>because basically he screws up,<br />and everything turns bad.</i>
+4700095 4703599 <i>And it's because of that decision<br />that Luke made on the planet to say...</i>
+4703682 4705562 <i>"I know I'm not ready,<br />but I'm gonna go anyway."</i>
+4714276 4718197 MUREN: <i>This was one of the hardest<br />sequences-the Cloud City sequence.</i>
+4718280 4721867 <i>These backgrounds I'm pretty sure<br />were shot from a Learjet.</i>
+4721951 4724995 <i>Our ships were shot again<br />against bluescreen.</i>
+4725079 4728123 <i>Motion-controlled and put in.<br />But, boy, it was really hard...</i>
+4728207 4731585 <i>to get the mattes to work and get the<br />lighting to match up and everything...</i>
+4731669 4734630 <i>'cause it was just so vivid<br />and colorful.</i>
+4734713 4736756 <i>It was a pretty tough sequence.</i>
+4737257 4739985 <i>Especially when they disappear into<br />the clouds, or come out of the clouds.</i>
+4740009 4742303 <i>There really wasn't much<br />that we could do in those days...</i>
+4742553 4744806 <i>to make the stuff look much better<br />than it did here.</i>
+4746099 4749644 <i>Cloud City conceptually<br />was a pretty neat idea.</i>
+4749769 4752689 LUCAS: <i>I came up with the idea<br />of a Cloud City as I was flying.</i>
+4752814 4756025 <i>I spend a lot of time in airplanes<br />flying above the clouds.</i>
+4756109 4759654 <i>"I thought," Wouldn't it be pretty if<br />you had a gaseous planet like Venus,</i>
+4759737 4762949 <i>"where's it's just a gas planet,<br />but all the cities...</i>
+4763032 4765702 <i>just sort of float<br />in the clouds of gas?"</i>
+4765785 4768663 BURTT: <i>Those people that know<br />the city of San Francisco...</i>
+4768746 4772750 <i>might recognize the off screen sound<br />of some of the foghorns...</i>
+4772834 4775628 <i>recorded out over San Francisco Bay,</i>
+4775712 4777630 <i>which if you listen carefully...</i>
+4777714 4780883 <i>are in the background<br />of the cityscape here...</i>
+4780967 4783803 <i>in the audio track of Bespin.</i>
+4783886 4786306 KERSHNER: <i>This is special effects.<br />This is a miniature.</i>
+4789892 4793313 <i>This is on the set-<br />where they come out.</i>
+4793604 4797066 <i>Now, I had steam<br />constantly being shot...</i>
+4797150 4799360 <i>out of the ship.</i>
+4799569 4801612 <i>It doesn't make sense, in a way.</i>
+4801696 4804157 <i>Here is a super-modern vehicle...</i>
+4804240 4807702 <i>that can fly at<br />the speed of light, practically...</i>
+4807827 4809912 <i>and there are little bits<br />of steam shooting out.</i>
+4809996 4813333 <i>But it kept the thing alive.</i>
+4820340 4822842 LUCAS: <i>Lando Calrissian was created<br />as a character...</i>
+4822925 4825094 <i>who was a foil to Han-</i>
+4825178 4827804 <i>who represents what Han was...</i>
+4827888 4831683 <i>before he met Luke and Leia<br />in Episode IV.</i>
+4831767 4836688 <i>One is a representation of Han<br />at the beginning of his transformation.</i>
+4836772 4838940 <i>This is him sort of halfway through.</i>
+4839024 4841234 <i>He is making the same mistakes<br />that Han would make...</i>
+4841318 4843779 <i>if Han hadn't joined the rebellion</i>
+4843862 4845822 <i>and become a little bit<br />more compassionate.</i>
+4845906 4848116 <i>He's the more "out for himself"<br />kind of character...</i>
+4848200 4851203 <i>who has to do what's practical<br />to keep his life in order.</i>
+4851286 4855374 <i>And now, Han is trapped<br />in a world between those two.</i>
+4855707 4858251 <i>He's not quite as compassionate<br />and caring as Luke and Leia are,</i>
+4858335 4860796 <i>but he's moved away<br />from where he was,</i>
+4860879 4863090 <i>which is where<br />Lando Calrissian is now.</i>
+4869805 4874267 FISHER: <i>I rented my house<br />from Eric Idle in London,</i>
+4874351 4877437 <i>and they were shooting</i><br />The Life of Brian.
+4877687 4881108 <i>He came home one of the nights<br />that we were shooting.</i>
+4881191 4885404 <i>He brought home from there<br />what I believe he called...</i>
+4885695 4889866 <i>Tunisian Table Cleaner,<br />which was a beverage.</i>
+4889950 4891993 <i>They gave it to the extras<br />in</i> Life of Brian...
+4892077 4895163 <i>to make them... happy.</i>
+4895247 4898750 <i>Harrison came over,<br />and the Rolling Stones came over.</i>
+4898834 4902712 <i>I think we stayed up most of the night<br />and then went to work.</i>
+4902796 4907384 <i>So when we arrived in Cloud City,<br />we were very happy to arrive there.</i>
+4907467 4910220 <i>It's one of the few times<br />in all the films...</i>
+4910303 4914266 <i>where we're all<br />smiling and smiling and smiling.</i>
+4914349 4916350 <i>Eric to this day is very proud...</i>
+4916434 4920187 <i>that he has affected<br />one of the scenes this way.</i>
+4922314 4924692 KERSHNER: <i>C-3PO can't<br />walk up or down steps,</i>
+4924775 4926819 <i>so you notice he's not there.</i>
+4926944 4929864 <i>He's trailing them.<br />But when you come around here,</i>
+4929989 4933200 <i>C-3PO appears.</i><br />[CHUCKLES]
+4933826 4938330 <i>You have limitations because<br />that suit was a killer for him.</i>
+4940416 4943711 FISHER: <i>And Billy Dee had a lot of<br />trouble remembering his lines,</i>
+4943794 4947840 <i>so there was a lot of<br />getting into half of the line-</i>
+4949133 4952928 <i>"Line!" You know, "Can I start over?"</i>
+4955014 4958350 <i>This set was very pretty, actually,<br />but there was a constant somebody...</i>
+4959894 4964899 <i>cleaning up the marks<br />on the linoleum or whatever it was.</i>
+4978871 4981499 LUCAS: <i>This scene here is again<br />stressing the fact...</i>
+4981790 4984793 <i>that Luke is making<br />a critical mistake in his life...</i>
+4984877 4987129 <i>of going after-</i>
+4987213 4989757 <i>to try to save his friends<br />when he's not ready.</i>
+4989840 4992051 <i>There's a lot being taught here<br />about patience...</i>
+4992134 4995846 <i>and about waiting for the right moment<br />to do whatever you're going to do.</i>
+4995930 4999558 <i>And it ends with Obi-Wan and Yoda...</i>
+4999808 5004939 <i>kind of feeling not good<br />about Luke's mistake...</i>
+5005022 5008024 <i>and they were pinning<br />a lot of hope on Luke.</i>
+5008107 5012278 <i>It sets up the fact that<br />in this series...</i>
+5012362 5015573 <i>Luke could be expendable<br />at this point.</i>
+5015865 5017968 <i>Maybe he's made his bad choice,<br />and he's gonna go off...</i>
+5017992 5020036 <i>and something bad<br />is gonna happen to him.</i>
+5020119 5023289 <i>Therefore, the idea that<br />there is another possibility here.</i>
+5023373 5027085 <i>We don't need Luke to tell the story.<br />We can get somebody else to do it.</i>
+5027168 5031214 <i>It's really designed to sort of<br />make you feel that Luke is expendable.</i>
+5034008 5036261 <i>The problem with one of these movies-<br />it's like Superman-</i>
+5036344 5039180 <i>If you got a hero who can't be killed,<br />then where's your drama?</i>
+5039264 5041849 <i>Here, what I've done is said,<br />"Well, this guy can be killed.</i>
+5041933 5045270 <i>Don't worry. He's not the important one.<br />There is another."</i>
+5046354 5048356 <i>It's a cheap trick, but it works.</i>
+5050608 5054070 KERSHNER: <i>He was afraid to put his<br />hand in that vent in the actual set...</i>
+5054195 5056239 <i>because we had this little snake.</i>
+5056322 5058992 <i>I said, "The snake can't bite.<br />It's not a meat-eater."</i>
+5059075 5061202 <i>"Oh, no, I-I can't-"</i>
+5061286 5063371 <i>So somebody stuck his in,<br />took out the snake,</i>
+5063454 5066124 <i>"Look. Look," and put it back in.<br />And finally...</i>
+5066207 5068876 <i>Mark went and stuck his hand in<br />and brought out the snake.</i>
+5068960 5072005 <i>But he was</i> really <i>frightened<br />of touching a snake.</i>
+5072088 5074674 <i>But he did it,<br />and that's what's wonderful.</i>
+5077051 5081222 <i>And so I had to make<br />the scene work here...</i>
+5081306 5086019 <i>with Ben who appears,<br />and a disappointed Yoda...</i>
+5086102 5088896 <i>and him preparing the ship.</i>
+5088980 5092567 <i>And he's being told<br />that he shouldn't do it,</i>
+5092650 5094902 <i>which sets up tension.</i>
+5094986 5098030 <i>And we need this story tension.<br />"Don't do it!"</i>
+5098113 5100907 <i>It's a larger issue.</i>
+5100991 5103160 <i>It's saving many more people...</i>
+5103243 5105287 <i>if you stayed here<br />and used your power.</i>
+5105370 5109249 <i>"No. My friends."</i>
+5109333 5112127 <i>It's a very human impulse.</i>
+5112252 5114296 <i>This, of course, sets up<br />that there's another-</i>
+5114379 5117966 <i>Again, an advertisement<br />for the next film.</i>
+5118050 5119509 Now...
+5119593 5121345 matters are worse.
+5121470 5123972 <i>That boy is our last hope.</i>
+5124056 5126558 No, there is another.
+5129436 5132356 LUCAS: <i>Some things are designed<br />for the next movie.</i>
+5132439 5135400 <i>Some things come out of things<br />from earlier movies...</i>
+5135484 5138570 <i>that nobody's ever even<br />contemplated yet-</i>
+5139446 5141633 <i>the fact that there would be<br />three movies that came ahead of this.</i>
+5141657 5143617 <i>All the seeds have been planted<br />in these movies...</i>
+5143700 5145702 <i>in little moments, little lines,</i>
+5145994 5150248 <i>in things that hopefully<br />when one sees all six together...</i>
+5150332 5153001 <i>will resonate back and forth<br />between all the movies...</i>
+5153085 5155295 <i>and reveal things.</i>
+5155379 5157422 BURTT: <i>All I remember<br />with sound in this scene...</i>
+5157506 5159424 <i>was there was a fountain<br />in this room...</i>
+5159508 5161551 <i>which had a dribbling water sound</i>
+5161635 5163637 <i>on the dialogue track<br />which made it unusable.</i>
+5163720 5166306 <i>So we had to loop it.</i><br />[CHUCKLES] <i>And-</i>
+5166390 5168433 <i>Although, I think a couple lines<br />sneak through.</i>
+5168517 5172020 <i>If you listen carefully, you can hear<br />the water dripping in the background.</i>
+5174398 5178360 <i>There are unique problems in recording<br />production sound for a</i> Star Wars <i>film.</i>
+5178485 5181113 <i>When they're in the cockpit, say,<br />of the</i> Millennium Falcon,
+5181196 5184449 <i>often it's difficult to get<br />the actors to speak loud enough...</i>
+5184574 5186410 <i>during the performance of the scene.</i>
+5186493 5189620 <i>You had a difficult time trying<br />to achieve a natural balance...</i>
+5189704 5194041 <i>so that later when you put all the music<br />and all the roar of the spaceship in...</i>
+5194125 5196127 <i>they don't get drowned out.</i>
+5197420 5200214 LUCAS:<br /><i>The idea of 3PO being disassembled...</i>
+5200297 5203718 <i>and then trying to get himself<br />put back together again...</i>
+5204009 5207680 <i>is a motif that is carried through<br />with Luke and also even with Han.</i>
+5207763 5211684 <i>It's a motif of the movies.<br />In this case, it's physical.</i>
+5211767 5214061 <i>It's a physical manifestation.<br />In the rest of it...</i>
+5214145 5217189 <i>it's either emotional manifestation<br />or a personality manifestation...</i>
+5217273 5219483 <i>of somebody that sort of<br />ripped themselves apart...</i>
+5219567 5222361 <i>and is trying to put themselves<br />back together again.</i>
+5222445 5226157 <i>So, it's fun when you can take<br />a literal character-</i>
+5226240 5228993 <i>in this case, a tin woodsman<br />or Humpty Dumpty-</i>
+5229076 5231537 <i>and break 'em all apart,<br />and then have part of the movie...</i>
+5231620 5233640 <i>be about how he gets<br />put back together again physically,</i>
+5233664 5236500 <i>which is what Luke is trying to do,</i>
+5236584 5239587 <i>what Han is doing<br />in terms of his morality,</i>
+5239670 5243799 <i>but more importantly is what,<br />in the end, Darth Vader is trying to do.</i>
+5244550 5246677 KERSHNER:<br /><i>Now, when Calrissian comes in,</i>
+5246761 5249346 <i>of course he's still taken with her,</i>
+5249430 5251682 <i>but he now has a secret.</i>
+5251807 5254727 <i>And we don't know that.<br />He doesn't show it.</i>
+5254810 5258647 <i>But he's gonna<br />take them somewhere to help them.</i>
+5258731 5261400 <i>He looks down here and says,<br />"Oh, you got a problem?"</i>
+5261484 5263027 No, no problem.
+5263110 5264403 Why?
+5266447 5270117 [CHUCKLING] <i>And here are<br />all the pieces of his friend.</i>
+5270201 5271702 <i>"No, that's no problem."</i>
+5272161 5273829 [LAUGHS]
+5280168 5284339 <i>Even though the design<br />of the sets is very modern,</i>
+5284422 5287467 <i>it's actually<br />not that far in the future.</i>
+5287550 5289636 <i>It's sort of a contemporary house.</i>
+5289719 5293306 <i>But their costumes<br />are really ordinary.</i>
+5293890 5298394 <i>And that makes them still human<br />and still accessible to us.</i>
+5298478 5301231 <i>The mistake is when<br />they wear the</i> Flash Gordon <i>outfits..</i>.
+5301314 5304526 <i>with silver things and, you know, suits.</i>
+5304609 5306820 <i>It ages immediately.<br />This doesn't age.</i>
+5311491 5313409 <i>And there's Darth Vader.</i>
+5313493 5316120 <i>Of course, you can't shoot Darth Vader.</i>
+5316204 5320375 <i>Now, how did he get the gun<br />across that huge table into his hand?</i>
+5320458 5322460 <i>Simple.</i>
+5322544 5325213 <i>I threw it across the table.</i>
+5325296 5329342 <i>We photographed a quick take<br />of the gun flying through the air...</i>
+5329425 5332428 <i>and then put a string on it,<br />put it in the hands of Darth Vader...</i>
+5332512 5335682 <i>and pulled it out<br />with the camera upside down.</i>
+5336641 5339686 <i>And it snapped into his hand.</i>
+5339769 5343731 [SNIFFS] <i>Cost nothing.<br />Best kind of special effects.</i>
+5349279 5351823 LUCAS:<br /><i>Luke is in the process of going into...</i>
+5351906 5354409 <i>an extremely dangerous situation...</i>
+5354492 5356786 <i>out of his compassion-</i>
+5356870 5359706 <i>Without the proper training,<br />without the proper thought,</i>
+5359789 5363960 <i>without the proper foresight to<br />figure out how he's gonna get out of it.</i>
+5364168 5367754 <i>His impulses are right,<br />but his methodology is wrong.</i>
+5367838 5371717 <i>And then on the other side,<br />you have Lando in a situation...</i>
+5371800 5374803 <i>where he's selling out his friends,<br />he's selling out everybody...</i>
+5374887 5377306 <i>in order to save his skin<br />and to save his city,</i>
+5377389 5378449 <i>which is just the opposite.</i>
+5378473 5381977 <i>And then you got Han Solo and<br />everybody sort of in between those,</i>
+5382227 5384563 <i>caught in the middle<br />of the whole mess.</i>
+5386899 5391320 KERSHNER: <i>Now, this is the<br />"poor Yorick" scene that I did-</i>
+5391403 5393572 [CHUCKLING]<br /><i>From</i> Hamlet, <i>where he looks down..</i>.
+5393655 5396617 <i>at the skull of poor Yorick.</i>
+5396700 5399536 <i>That was the reason<br />for that little moment.</i>
+5399620 5401663 <i>I don't know if<br />anybody ever recognized it,</i>
+5401747 5404666 <i>but it gave me a lot of satisfaction.</i>
+5412758 5417554 <i>When he puts the head on,<br />he thinks he's doing a great job.</i>
+5417638 5420223 <i>But he puts the head on backwards.</i>
+5420307 5422351 <i>And, of course, he's angry.</i>
+5422434 5424937 <i>And by the little movements,<br />you can see the anger.</i>
+5425020 5429107 <i>Just these little movements,<br />which we did so simply with strings.</i>
+5430984 5433946 <i>Now, this scene I had to cut...</i>
+5434237 5437866 <i>because I showed the machine<br />in operation...</i>
+5437950 5443330 <i>where there were all kinds of needles<br />and spikes and electronic things going.</i>
+5443413 5446500 <i>And everyone felt<br />that it was too much...</i>
+5446583 5448794 <i>for a film of this type.</i>
+5448877 5452297 <i>Now, here you heard his shout of pain.</i>
+5452422 5455008 <i>That had to be cut down even...</i>
+5455258 5458844 <i>because the little kiddies<br />would be very frightened by it.</i>
+5468562 5471399 LUCAS: <i>I used the same<br />thematic arc in this film...</i>
+5471482 5473651 <i>as I did on the last film with Lando,</i>
+5473776 5476904 <i>which is that he,<br />in the end, changes...</i>
+5476988 5480282 <i>and becomes a more compassionate<br />person, just like Han did.</i>
+5480366 5484286 <i>So as they go along,<br />their compassion...</i>
+5484370 5486706 <i>causes other people<br />to become compassionate.</i>
+5486789 5489583 <i>He's seen the error of his ways,<br />and he's willing...</i>
+5489667 5493337 <i>to sort of join them<br />and do what he can to save them,</i>
+5493421 5497675 <i>even at risking his city and risking<br />his life and everything else.</i>
+5497758 5500720 <i>This is one of those examples<br />of what I call recurring themes...</i>
+5500803 5504348 <i>or reprises of particular themes.</i>
+5504432 5507727 <i>It's like a musical thing,<br />where you take that note,</i>
+5507810 5510438 <i>which is the Han Solo character note<br />from the last movie,</i>
+5510521 5513983 <i>and have him-<br />in this case, Lando Calrissian-</i>
+5514066 5517611 <i>go through exactly<br />the same emotional arc.</i>
+5517695 5520906 <i>The idea in this scene is that<br />they're torturing Han Solo...</i>
+5520990 5523701 <i>in order to cause him pain...</i>
+5523784 5527288 <i>in order to give off<br />the vibrations in the Force...</i>
+5527371 5530833 <i>that allow Luke to sense<br />that there's something wrong.</i>
+5530916 5532060 <i>It's not a matter of asking questions.</i>
+5532084 5534086 <i>It's a matter of<br />getting him to suffer...</i>
+5534295 5537423 <i>so that Luke will be attracted<br />to the suffering and try to stop it.</i>
+5557692 5560862 FISHER: <i>You know, if you pretend<br />something long enough, it comes true.</i>
+5560945 5565825 <i>They had to pretend to fight,<br />and it was summer and it was hot.</i>
+5565909 5567952 <i>And I'm sorry, uh,</i>
+5568036 5572332 <i>about halfway through<br />an hour or two of this,</i>
+5572415 5576419 <i>it started to get a little tense,<br />and we had to stop shooting...</i>
+5576503 5578838 <i>and wait for everybody to relax.</i>
+5580006 5582926 <i>Yeah, so we took about<br />a two- or three-hour...</i>
+5583009 5585136 <i>hiatus from this scene.</i>
+5590475 5595021 BURTT: <i>The movie is filled, of course,<br />with lots of wonderful musical moments.</i>
+5595105 5597649 <i>But as a sound designer,<br />you also try to achieve...</i>
+5597732 5601027 <i>similar moments<br />with just sound effects.</i>
+5601111 5603613 <i>Or the combination<br />of sound effects and music,</i>
+5603696 5605657 <i>which is really making up...</i>
+5605740 5609744 <i>the emotional content<br />of the soundtrack so often.</i>
+5609828 5614124 <i>And it's always particularly challenging<br />and can be very satisfying...</i>
+5614415 5616918 <i>when there's moments<br />in which the sound effects alone...</i>
+5617001 5620046 <i>get to play the role<br />that music might normally play.</i>
+5620130 5622173 <i>The music stops playing,<br />and then you're left...</i>
+5622465 5624467 <i>with the ambience of the room.</i>
+5626052 5628012 <i>Now, the carbon freezing chamber...</i>
+5628096 5631599 <i>is one of my favorite<br />interior locations...</i>
+5631683 5633685 <i>in all the</i> Star Wars <i>films.</i>
+5633768 5636396 <i>Not only was it<br />visually quite fascinating,</i>
+5636479 5640399 <i>but we were able to give it<br />all kinds of character with sound-</i>
+5640482 5644153 <i>the big cranes that come down<br />to lift the carbon block,</i>
+5644444 5646864 <i>all the pipes<br />and steam and equipment...</i>
+5646947 5650200 <i>that are going on<br />in the carbon freezing chamber.</i>
+5650450 5653871 <i>The basic ambience for that location.</i>
+5673599 5676101 KERSHNER:<br /><i>And so here he comes to a trap.</i>
+5676185 5680230 <i>We know that Darth Vader's there.<br />We know that Han Solo is in trouble.</i>
+5680689 5682983 <i>And this is the death march.</i>
+5683066 5685861 <i>This was about 30 feet off the ground.</i>
+5685944 5690115 <i>It was an all-black set<br />with some lights.</i>
+5690199 5692242 <i>And it was a circle.</i>
+5692492 5694953 <i>We could only build half the circle...</i>
+5695037 5697748 <i>'cause there wasn't room to build it,<br />and also too expensive...</i>
+5697831 5699875 <i>to build a complete circle.</i>
+5699958 5702878 <i>So I shot everything<br />facing one way...</i>
+5702961 5707466 <i>and did the reverse against<br />the same set...</i>
+5707549 5709885 <i>at a different time.</i>
+5709968 5714097 FISHER: <i>It was</i> unbelievably <i>hot up here.</i>
+5714181 5717768 <i>Chewbacca-I mean,<br />can you imagine how hot it is for him?</i>
+5717851 5721563 <i>Plus, he started to smell like-</i>
+5721647 5724858 <i>This is a hairy suit though.<br />It's not his fault.</i>
+5724942 5727152 <i>It's the suit that's starting to smell.</i>
+5727236 5730029 <i>I mean, he's-E-Everyone.</i>
+5730112 5732782 <i>It is a steam bath where we are.</i>
+5733866 5737662 <i>I think Harrison and I might have been<br />a little crabby on this one.</i>
+5737745 5741874 KERSHNER: <i>He tells him, "Take it easy.<br />You gotta take care of Leia."</i>
+5741958 5746045 <i>That's his last words,<br />thinking about her.</i>
+5746128 5749882 <i>That's what's interesting.<br />"You gotta take care of her."</i>
+5749966 5752093 <i>"Like you took care of me" is implied.</i>
+5752176 5754136 <i>And they kiss again.</i>
+5760184 5761519 I love you.
+5761602 5763187 I know.
+5763271 5765982 <i>But, you know,<br />this is not the way it was written.</i>
+5766065 5768109 <i>It was written, "I love you too."</i>
+5768192 5771195 <i>When we were shooting it,<br />it was just about lunchtime.</i>
+5771279 5774532 <i>And I-I hated the line,<br />"I love you too,"</i>
+5774615 5777368 <i>because it gives her the advantage.</i>
+5777576 5780579 <i>And whenever somebody says,<br />"I love you, " "I love you too,"</i>
+5780663 5782039 <i>you're at a disadvantage.</i>
+5782123 5784125 <i>The other person said it first.</i>
+5784208 5786085 <i>So I said,<br />"Let's come up with another line."</i>
+5786168 5789088 <i>We shot "I love you too."<br />"Let's come up with another line."</i>
+5789171 5792258 <i>Well, I came up with lines.<br />Harrison came up with lines.</i>
+5792341 5795011 <i>Everybody came up with lines.<br />And we shot for a half hour...</i>
+5795094 5797305 <i>on lunch penalty.</i>
+5797638 5801100 <i>And I just went crazy because<br />they wanted their beers,</i>
+5801183 5804312 <i>which they drink in England<br />during lunch.</i>
+5804603 5808107 <i>And I wanted, you know,<br />to get the right line.</i>
+5808190 5810318 <i>And after a half hour, we gave up.</i>
+5810609 5814905 <i>And I said, "Let's do one more take.<br />Don't think about it. Shoot! Action."</i>
+5814989 5819909 <i>And Harrison pulled back<br />and said, "I know."</i>
+5819993 5822662 <i>And I said, "Okay, that's it. Lunch."</i>
+5822746 5824873 <i>And David Tomblin ran over to me<br />and said,</i>
+5824956 5827834 <i>"No! No, you can't do that!"</i>
+5827917 5830879 <i>"What do you mean?"<br />He says, "Get the shot completed."</i>
+5830962 5833048 <i>I said, "We got it."<br />"No! What do you mean?</i>
+5833131 5835842 <i>"You're gonna use 'I know'?</i>
+5835925 5836986 <i>"We've been shooting this long.</i>
+5837010 5839304 <i>Keep shooting till<br />you get what you want."</i>
+5839387 5841723 <i>I said, "I've got it. It's wonderful.</i>
+5841806 5844059 <i>'I know. ' Nobody could've<br />thought of that."</i>
+5844142 5847187 [CHUCKLING]<br /><i>And so nobody believed-</i>
+5847270 5849773 <i>The crew was standing there.<br />Nobody wanted to leave.</i>
+5849856 5852233 <i>Because they felt that<br />something was wrong.</i>
+5852317 5854819 <i>"I know"? That was it.</i>
+5855904 5858948 LUCAS: <i>Part of the technical issues<br />here is the film has to end...</i>
+5859032 5861951 <i>between the confrontation<br />between father and son.</i>
+5862035 5864996 <i>But just as with Obi-Wan Kenobi<br />in the last film,</i>
+5865080 5870919 <i>I needed to have fewer cast members<br />to deal with at the very end here.</i>
+5873463 5876216 KERSHNER: <i>When Harrison was<br />sent down to the shop...</i>
+5876299 5878927 <i>to use his body for the slab,</i>
+5879052 5882806 <i>it came back where<br />his face was sticking out,</i>
+5882889 5886184 <i>his arms were at his side<br />and he looked-he was at rest.</i>
+5886267 5889270 <i>"I said," No, no, no, no.<br />That doesn't work.</i>
+5889354 5892690 <i>He would be fighting to the end."</i>
+5892774 5895318 <i>So he went back and they redid it.</i>
+5895402 5898738 <i>I said, "He'd be trying<br />to get out of this thing."</i>
+5898822 5903743 <i>And I put my two hands up<br />and grimaced.</i>
+5903827 5906037 <i>And that's what he went down and did.</i>
+5908330 5909610 LUCAS:<br /><i>The interesting shading...</i>
+5910290 5913544 <i>on these two stories between<br />Han and Lando are that...</i>
+5914169 5916922 <i>in the first film,<br />Han switches over...</i>
+5917005 5920843 <i>primarily for his<br />caring and friendship...</i>
+5920926 5923053 <i>of Luke and Leia.</i>
+5923137 5926014 <i>Whereas Lando, it becomes more<br />of an imperative that...</i>
+5926098 5929226 <i>realizing that by ignoring<br />his responsibility,</i>
+5929309 5932354 <i>by making a pact with the devil,<br />he's not gonna win.</i>
+5932438 5934481 <i>It's gonna get worse<br />and worse and worse for him.</i>
+5934773 5937192 <i>The more he appeases Darth Vader,</i>
+5937276 5939403 <i>the more he joins<br />and the more he does,</i>
+5939486 5941488 <i>the worse his situation<br />keeps getting.</i>
+5942197 5946118 <i>And so it's not necessarily out of his<br />compassion for his friends,</i>
+5946243 5948495 <i>although some of that is in there,</i>
+5948704 5951224 <i>it's more about the fact that<br />the situation keeps deteriorating.</i>
+5951248 5954460 <i>He realizes in the end that he's on<br />a route that he can't get out of.</i>
+5954543 5956336 <i>It's his fate, so to speak.</i>
+5956462 5960549 <i>There's a certain aspect of fate<br />that has been added into this...</i>
+5960799 5963343 <i>in terms of having<br />a compassionate lifestyle.</i>
+5963427 5967931 <i>In this case, that thematic device<br />is used in</i> New Hope <i>with Luke,</i>
+5968015 5972227 <i>which is, his destiny is to go off<br />and save the universe.</i>
+5972311 5974271 <i>And when he tries to not do it-</i>
+5974354 5977483 <i>"I have to go home. I have to<br />bring the crops in. I have to do this."</i>
+5977816 5981487 <i>The thing of it is, his surrogate<br />parents end up getting killed.</i>
+5981778 5985073 <i>All the reasons he's staying,<br />everything keeps deteriorating...</i>
+5985157 5986909 <i>to the point where<br />he doesn't have a choice.</i>
+5986992 5990496 <i>You have a choice between<br />choosing evil and avoiding the issue-</i>
+5990746 5993373 <i>which you can't avoid,<br />it will not be avoidable-</i>
+5993457 5997377 <i>or taking the compassionate route,<br />the route of helping other people...</i>
+5997461 6000755 <i>and not having to face<br />this deteriorating situation of...</i>
+6000838 6003382 <i>"the more you get in,<br />the worse it gets" kind of thing.</i>
+6022610 6026572 KERSHNER: <i>This is the beginning<br />of real danger. Wham!</i>
+6027156 6028824 <i>That represents danger to me,</i>
+6028908 6031202 <i>when you have the teeth<br />and the door coming down.</i>
+6031285 6035039 <i>Now here he is on the black set.<br />It's quiet.</i>
+6037416 6039460 <i>He's alone, he thinks.</i>
+6041254 6044924 <i>It's dark. There's no one to fight.</i>
+6045049 6047468 <i>Whoop. The lights go on,</i>
+6047552 6050263 <i>and here is what he feared the most.</i>
+6050346 6052431 <i>Here is the real Darth Vader.</i>
+6054517 6057478 LUCAS: <i>Kersh, more than<br />anything else, decided to use a more...</i>
+6057562 6062316 <i>slightly abstract look<br />to this set and use mostly steam.</i>
+6062400 6065403 <i>'Cause we were dealing<br />with this motif of hell...</i>
+6065486 6068614 <i>in the middle of heaven,<br />so to speak.</i>
+6068864 6073077 <i>So we wanted to make it kind of<br />ethereal and lots of steam and smoke...</i>
+6073160 6077331 <i>so it creates a very,<br />almost abstract set and setting...</i>
+6077415 6081085 <i>that is more steam<br />than it is physical reality.</i>
+6090051 6092554 BURTT:<br /><i>In both</i> New Hope
+6092637 6096057 <i>the policy pretty much had been<br />that we weren't...</i>
+6096141 6098602 <i>using music<br />during the laser sword fights...</i>
+6098893 6100053 <i>because the swords themselves</i>
+6100103 6104190 <i>seemed to possess a degree<br />of musical quality to them.</i>
+6104274 6105994 <i>It was one of the most<br />satisfying moments...</i>
+6106484 6109654 <i>to go through a whole<br />sequence of shots in a scene...</i>
+6109904 6111865 <i>with just sound effects.</i>
+6111948 6114492 <i>'Cause once again, the sound effects<br />give it such a credibility,</i>
+6114576 6119331 <i>and sometimes that credibility is what<br />gives it the most emotional impact.</i>
+6119414 6123668 <i>That-That's not necessary<br />to have music do it.</i>
+6123918 6126921 <i>The sounds effects<br />can be the music in cases like that.</i>
+6135347 6139017 LUCAS:<br /><i>I also wanted Lando to...</i>
+6139100 6141895 <i>fully accept his role...</i>
+6141978 6145357 <i>as being converted to<br />the compassionate side.</i>
+6145440 6147651 <i>I didn't want Han to sort of<br />force him, or to-</i>
+6147984 6150195 <i>You know, I needed that<br />as a device, really,</i>
+6150278 6152447 <i>to have Lando continue to help...</i>
+6152530 6154658 <i>and become-<br />and want to save his friend.</i>
+6154908 6157588 <i>Because he didn't expect that he was<br />gonna get encased in carbonite-</i>
+6157661 6159454 <i>all these things that were<br />gonna happen.</i>
+6160580 6162624 KERSHNER:<br /><i>They still don't trust him.</i>
+6163667 6166503 <i>He looks like<br />he really is in trouble, huh?</i>
+6166586 6168755 <i>Ahhh.</i><br />[CHUCKLING]
+6168963 6171966 <i>That's a great moment,<br />you see, after he lets go.</i>
+6172050 6174594 <i>And that's the moment<br />that's usually forgotten...</i>
+6174678 6177347 <i>when they do<br />a strangling scene like that.</i>
+6177430 6180265 <i>So I kept the camera going<br />and had him really</i>- [GROANS]
+6180349 6182643 <i>The aftereffects of it is important.</i>
+6192444 6195072 <i>Now they gotta get away<br />from the stormtroopers.</i>
+6195155 6196299 <i>You'll notice that when he's running,</i>
+6196323 6199076 <i>the head's moving<br />and the arm's moving.</i>
+6199159 6202746 <i>That was all supposed<br />to be done electronically.</i>
+6203038 6204498 <i>But it didn't work.</i>
+6204581 6208377 <i>And the prop master<br />came up with an idea on the spot.</i>
+6208460 6210379 <i>We were desperate.</i>
+6210462 6213966 <i>And it took him 15 minutes.<br />He hooked up a nylon cable...</i>
+6214091 6217386 <i>to the back of the hand<br />and a cable around the head...</i>
+6217469 6221223 <i>that was one end of it<br />in each hand...</i>
+6221306 6223267 <i>of Chewbacca.</i>
+6223350 6227062 <i>And he ran along with a fishing pole...</i>
+6227146 6229064 <i>pulling the hand up...</i>
+6229148 6231859 <i>and as Chewbacca ran...</i>
+6232317 6235112 <i>he just moved the cable<br />that turned the head.</i>
+6235195 6236673 <i>And it was done, again,<br />strictly mechanically,</i>
+6236697 6238157 <i>didn't cost anything.</i>
+6249460 6253297 LUCAS: <i>At this point, Vader's plan,<br />now that he knows that he's his son,</i>
+6253380 6258594 <i>is to convince him to come with him<br />and join the dark side.</i>
+6258761 6263098 <i>And together, they're going to<br />overthrow the emperor,</i>
+6263182 6266226 <i>which is the thematic device<br />that is used...</i>
+6266310 6268562 <i>through the whole movies<br />in terms of Sith.</i>
+6268645 6272148 <i>Which is, if you have Sith lords-<br />there's usually no more than two,</i>
+6272231 6275777 <i>because if there's three, then two<br />of them will gang up on one of them...</i>
+6276068 6278613 <i>to try to become the dominant Sith.</i>
+6278696 6282116 <i>Anakin would have been able to do it<br />if he hadn't been debilitated.</i>
+6282200 6285495 <i>And now he's half machine<br />and half man.</i>
+6285578 6287264 <i>So he's lost a lot of<br />the power of the Force.</i>
+6287288 6289248 <i>He's lost a lot of his ability...</i>
+6289332 6291459 <i>to be more powerful than the emperor.</i>
+6291542 6293628 <i>But Luke hasn't.<br />Luke is Vader's hope.</i>
+6293711 6296088 <i>His motives at this point<br />are purely evil.</i>
+6296172 6298591 <i>He simply wants to continue<br />what he was doing before,</i>
+6298674 6302345 <i>which was to get rid of the emperor<br />and make himself emperor.</i>
+6302428 6306307 <i>He only sees his son as a mechanism<br />to further that ambition.</i>
+6306641 6308643 <i>It's his mad lust for power.</i>
+6314857 6319695 KERSHNER: <i>Every once in a while,<br />they inadvertently hit some metal.</i>
+6319779 6322240 <i>And that's done on purpose.<br />That's set up ahead of time.</i>
+6322323 6326410 <i>You see what these sabers can do.<br />They just whack right through metal.</i>
+6326494 6329497 LUCAS: <i>This fight between<br />the two of them is a long fight.</i>
+6329580 6333501 <i>And in order to make it interesting<br />and to make it progress...</i>
+6333584 6335586 <i>it goes through three different sets.</i>
+6335670 6337588 <i>One in the carbon freezing chamber,</i>
+6337672 6340675 <i>one here, below<br />the carbon freezing chamber,</i>
+6340758 6343803 <i>which allows us to get<br />into this giant shaft...</i>
+6343886 6346138 <i>that goes to the bottom of the city.</i>
+6346222 6349141 <i>So now we've got this shaft<br />to deal with as a set.</i>
+6349225 6353312 <i>It gives us a chance to have these<br />"hanging into the abyss" scenes.</i>
+6353396 6355815 <i>But it also makes the situation<br />much more threatening...</i>
+6355898 6360235 <i>and the fight more interesting because<br />they're fighting over an infinite space.</i>
+6360318 6364197 <i>It just makes it more and more hopeless<br />that Luke is gonna get out of it,</i>
+6364281 6366616 <i>'cause he's getting<br />more and more trapped.</i>
+6373582 6377377 KERSHNER: <i>I always hoped that<br />the audience would understand...</i>
+6377460 6380714 <i>that Darth Vader<br />was pulling these things at him.</i>
+6380797 6382757 <i>You see. I think they do.</i>
+6383466 6385510 <i>Of course, we know his power.</i>
+6385594 6389556 <i>And then I had him hit a few times here,<br />one after the other. Boom.</i>
+6391308 6393310 <i>Boom.</i>
+6395812 6398732 <i>And now the wind really<br />throws those things out, you see.</i>
+6398815 6400442 <i>Huge wind machine.</i>
+6400525 6403570 BURTT:<br /><i>You most often get the proper sound...</i>
+6403653 6406197 <i>by recording something that is not...</i>
+6406281 6408241 <i>the actual literal device in question.</i>
+6408325 6410619 <i>You know, some of the best wind...</i>
+6410702 6412787 <i>is produced by recording<br />something else.</i>
+6412871 6415707 <i>Sometimes even just running a pencil...</i>
+6415790 6418460 <i>down a piece of rough canvas<br />and micing it closely...</i>
+6418543 6420921 <i>gives you a beautiful sound of wind.</i>
+6421004 6422964 KERSHNER:<br /><i>And of course our hero...</i>
+6423423 6425884 <i>has to keep going.</i>
+6425967 6429471 <i>The more difficult you make it<br />for the hero, the better it is.</i>
+6429554 6433642 <i>And the nice thing<br />about Darth Vader...</i>
+6433725 6437520 <i>is he is the perfect bad guy...</i>
+6437604 6440440 <i>because he's got so much power...</i>
+6440523 6442484 <i>and he knows so much,</i>
+6442567 6445236 <i>it makes the hero better.</i>
+6445320 6446780 <i>That's a Hitchcockian principle.</i>
+6446863 6451825 <i>You know, on a melodrama, you have<br />to have a terrific antagonist...</i>
+6451909 6455537 <i>for the protagonist to really flourish.</i>
+6456747 6458415 <i>And Darth Vader provides that.</i>
+6473931 6475933 <i>Again, a cliché.</i>
+6476016 6479603 <i>The bad guys can't shoot straight.<br />The good guys shoot straight.</i>
+6479687 6484483 [CHUCKLING]<br /><i>I've done it many times in film.</i>
+6485567 6489822 <i>Have you ever tried to get out<br />of the way of a bullet flying at you?</i>
+6489905 6493534 <i>And yet they do it<br />very well on film, don't they?</i>
+6496537 6498622 LUCAS: <i>All these subplots<br />going on all the time...</i>
+6498706 6501417 <i>of R2 picking up information<br />from the city's computer...</i>
+6501500 6504753 <i>that's gonna help them later<br />as they try to escape.</i>
+6504837 6506797 <i>There's lots of little setups,</i>
+6506880 6510384 <i>or subplots, that are moving<br />through this whole thing.</i>
+6510467 6513762 <i>It's built on bits<br />and pieces of information.</i>
+6514346 6517391 <i>As opposed to a movie<br />like</i> American Graffiti,
+6517516 6521061 <i>where all the stories are<br />not completely interwoven.</i>
+6521311 6523439 <i>They kind of are separate stories...</i>
+6523522 6526400 <i>that are constantly cutting<br />from one to another.</i>
+6526483 6528485 <i>This one, all the characters...</i>
+6528569 6531739 <i>and all the little stories<br />are all part of a bigger story.</i>
+6531822 6534700 <i>So they're all completely interwoven,<br />which is much more complex...</i>
+6534825 6538662 <i>in terms of trying to develop it all<br />and make all the pieces fit together.</i>
+6538746 6541080 <i>It's a much more elaborate puzzle.</i>
+6542665 6545501 FISHER:<br /><i>See all the squibs everywhere?</i>
+6545585 6548713 <i>That was morning.<br />And by the very end...</i>
+6548796 6551841 <i>I think I started dreaming<br />robots and squibs.</i>
+6551924 6555720 <i>It's a very odd sort of job<br />to have for that long.</i>
+6563561 6566481 KERSHNER:<br /><i>Now this is a huge set.</i>
+6566564 6568524 <i>But not as big as it appears.</i>
+6568608 6570651 <i>It's part painting...</i>
+6570735 6572862 <i>and part actual set...</i>
+6572945 6575073 <i>and part miniature...</i>
+6575323 6577325 <i>all blended together.</i>
+6584040 6585833 LUCAS: <i>I like this shot in particular.</i>
+6585917 6587877 <i>It's a big long-lens shot<br />that Kersh did.</i>
+6587960 6590421 <i>Stacks everything up<br />and makes Vader look huge...</i>
+6590505 6592757 <i>and Luke look very small, very weak...</i>
+6592882 6594926 <i>and Vader very powerful.</i>
+6595009 6600473 <i>And this is where Vader reveals himself<br />in terms of what his ambitions are,</i>
+6600556 6603976 <i>which is to have him join him<br />to help overthrow the emperor.</i>
+6605061 6609190 <i>It turned out to be a real collaborative<br />endeavor between Kersh and I.</i>
+6609398 6611943 <i>Him having a lot of freedom<br />to direct the film...</i>
+6612026 6614112 <i>the way he thought it should be<br />in terms of...</i>
+6614403 6618533 <i>the subtlety of the characters,<br />and the way he shot it.</i>
+6618616 6621786 <i>I tried to support him.<br />In this particular case of</i> Star Wars,
+6621869 6624789 <i>obviously I was the reigning<br />expert on</i> Star Wars...
+6624872 6626517 <i>and knew who everybody was,<br />where everybody is</i>
+6626541 6627583 <i>and what happens...</i>
+6627667 6630085 <i>and was able to solve<br />any story problems...</i>
+6630168 6633004 <i>'cause I'm also the only one<br />that knew where the series was going.</i>
+6633088 6635090 <i>But there were things<br />that were held off.</i>
+6635173 6638969 <i>I mean, the issue of Luke's father...</i>
+6639052 6641179 <i>I kept pretty quiet<br />for a long, long time.</i>
+6641471 6643431 <i>I didn't tell anybody,<br />not even Kersh,</i>
+6643515 6645642 <i>because I just didn't<br />want that to get out.</i>
+6645725 6649020 <i>And even when we shot it,<br />we didn't give the actors that.</i>
+6649104 6653441 KERSHNER: <i>This is the scene<br />that was never in the script.</i>
+6653525 6655485 <i>And no one saw it...</i>
+6655569 6659197 <i>except, just before it happened, Mark.</i>
+6659447 6661700 <i>Darth Vader had other lines.</i>
+6661783 6665662 <i>"We're gonna work together."<br />Never "I'm your father."</i>
+6665745 6667873 <i>It was never said<br />'cause he didn't know.</i>
+6667956 6670041 <i>He never saw that page.</i>
+6670125 6671835 He told me enough.
+6674504 6676173 He told me you killed him.
+6676464 6677716 No.
+6677799 6680093 I am your father.
+6681469 6683471 <i>I gave him his gestures.</i>
+6683555 6685599 <i>"I want you to turn.<br />I want you to move your head.</i>
+6685682 6689019 <i>I want you to put your left arm out.<br />I want you to put your right arm out."</i>
+6689102 6693064 <i>At these points, you see,<br />in the script that he had...</i>
+6693148 6696526 <i>I had worked it out so it was<br />like choreographed...</i>
+6696610 6698904 <i>for his arm movements<br />and head movements.</i>
+6698987 6700739 <i>And you'll see it.</i>
+6700822 6703617 <i>Mark reacted to it,<br />but he never heard it.</i>
+6703700 6706203 <i>He knew it was in the script, you see.</i>
+6706286 6709497 <i>And so he reacted to it beautifully,</i>
+6709581 6712500 <i>but this was a secret<br />right through the picture.</i>
+6712584 6713793 <i>Nobody knew it.</i>
+6713877 6716713 <i>When the picture<br />was shown at the Odeon,</i>
+6716796 6720049 <i>Darth Vader was sitting<br />in back of me... in London.</i>
+6720132 6722593 <i>And when he saw "I am your father,"</i>
+6722676 6725512 <i>he tapped me on the shoulder<br />and said, "Why didn't you tell me?</i>
+6725596 6729183 <i>I would have done it differently."</i><br />[CHUCKLES]
+6743030 6746200 LUCAS:<br /><i>I was very concerned about this ending.</i>
+6746283 6748077 <i>Especially in terms of children...</i>
+6748160 6750537 <i>and whether they'd<br />be able to manage it.</i>
+6750621 6753582 <i>You know, because he cuts<br />his hand off, which is very symbolic.</i>
+6754833 6758003 <i>And what a young boy would think<br />about this if he had to deal with it.</i>
+6758087 6761215 <i>There's no resolution to it.<br />But I talked to...</i>
+6762299 6765552 <i>a number of psychologists<br />who basically said that...</i>
+6765803 6770099 <i>most kids, if it's too intense for them,<br />will simply deny that it's true.</i>
+6770182 6773477 <i>D-Deny that he is his father.<br />Thinks he's just lying to him.</i>
+6773644 6776855 <i>And most of them said cutting<br />the hand off wouldn't be a problem,</i>
+6776939 6778941 <i>'cause he gets a new hand at the end.</i>
+6779024 6782653 <i>Those are the things you consider when<br />you're going through a story like this.</i>
+6782736 6785114 <i>Especially since you know<br />a lot of people are gonna see it.</i>
+6785197 6788367 <i>What is the potential to cause damage?</i>
+6788617 6790911 <i>It's not something you have<br />to deal with if you have...</i>
+6790995 6793956 <i>one film that has<br />a resolution at the end.</i>
+6794039 6797167 <i>But this one doesn't get resolved<br />until the next movie,</i>
+6797251 6800963 <i>which, when I made it, wasn't gonna<br />come out for another three years.</i>
+6801046 6804300 <i>And more than anything else,<br />my biggest concern about this ending...</i>
+6804550 6807636 <i>was that it really wasn't an ending,<br />it was the bad guys win, and...</i>
+6807720 6809847 <i>the good guys limp home wounded.</i>
+6813933 6816185 <i>The films are<br />designed for young people.</i>
+6816269 6820565 <i>They're designed for everybody,<br />but these are really designed...</i>
+6822567 6824944 <i>to be emotionally healthy,<br />even though they have...</i>
+6825069 6827030 <i>a lot of violence<br />and that sort of thing.</i>
+6827113 6831367 <i>The past has said that that isn't<br />usually the issue for younger people.</i>
+6831617 6834162 <i>The issue is really<br />how the violence is portrayed...</i>
+6834245 6836372 <i>and the consequences of the violence...</i>
+6836622 6838958 <i>and what it means in a cultural context.</i>
+6839042 6840752 <i>Which is,<br />do the characters care about it?</i>
+6840835 6842045 <i>Do they care about each other?</i>
+6842128 6845298 <i>Is there any respect for human life?</i>
+6845381 6849635 <i>That's why most of the people that get<br />shot in these movies are stormtroopers.</i>
+6849719 6851804 <i>They're faceless.</i>
+6857018 6860229 <i>Most mythology is pretty gruesome.</i>
+6860313 6862899 <i>Even most fairy tales<br />are pretty gruesome.</i>
+6862982 6867195 <i>And so, I'm pretty aware that human<br />nature was to tell these stories...</i>
+6867278 6870198 <i>and make them be very powerful...</i>
+6870281 6873201 <i>in terms of their consequences.</i>
+6873284 6878456 <i>But now that we can take<br />a-a more learned look at these things,</i>
+6878664 6882418 <i>it alerted me to the situation<br />that without the ending of the movie,</i>
+6882502 6886506 <i>without the next ending,<br />it might be difficult for some kids.</i>
+6886589 6889801 <i>It's a unique situation<br />of telling a story in three parts...</i>
+6890051 6893304 <i>where you can't see them<br />one right after the other.</i>
+6893388 6895348 <i>In those days,<br />you were gonna see one movie,</i>
+6895431 6898351 <i>then three years later,<br />you were gonna see the other movie.</i>
+6898434 6899936 <i>So, if a kid saw it when he was nine,</i>
+6900019 6902062 <i>he wouldn't see<br />the next one till he was 12.</i>
+6902145 6903480 <i>Left a lot of kids hanging.</i>
+6907359 6909236 MUREN:<br /><i>The background in these-</i>
+6909319 6911113 <i>some of these were<br />real photographs we had...</i>
+6911196 6913156 <i>and some of 'em were paintings...</i>
+6913240 6915325 <i>of the clouds with a real sunset look.</i>
+6915409 6918829 <i>That shot right there is a little doll,<br />a little GI Joe version...</i>
+6918912 6921331 <i>of the character<br />sticking up through a model.</i>
+6921415 6924835 <i>We just needed to get a shot<br />of him coming up to the outside.</i>
+6924918 6927355 <i>They never had a chance to get one,<br />so we did it with a model.</i>
+6927379 6930298 <i>A quick shot-came out okay.<br />And he gets rescued.</i>
+6931341 6932926 <i>And off we go.</i>
+6954865 6958410 KERSHNER:<br /><i>When we did Darth Vader...</i>
+6958493 6961746 <i>we had to do all his dialogue over...</i>
+6961830 6963874 <i>in the studio.</i>
+6963957 6967919 <i>And so, I went down to Ben's place...</i>
+6968003 6970255 <i>and sat down in front of a mike...</i>
+6970338 6973300 <i>with a script of Darth Vader...</i>
+6973383 6975260 <i>and speaking into the mike...</i>
+6975802 6978054 <i>like Darth Vader would...</i>
+6978138 6983268 [IMITATING DARTH VADER]<br /><i>"You are my son. I am your father."</i>
+6983351 6985520 [NORMAL VOICE]<br /><i>I would do it that way, you see.</i>
+6985770 6989232 [IMITATING DARTH VADER]<br /><i>"You will do as I say."</i>
+6989316 6994028 [LAUGHING]<br /><i>I did all the lines this way.</i>
+6994111 6996947 <i>'Cause I had the markings<br />of his movements,</i>
+6997031 6999116 <i>his arm movements<br />and head movements.</i>
+6999200 7003120 <i>And I did 'em all,<br />and Ben recorded this.</i>
+7003245 7006165 BURTT: <i>He did a great job<br />doing the temporary voices.</i>
+7006290 7010252 <i>It's not just getting the timing right,<br />it's also getting a good performance.</i>
+7010377 7013339 <i>And, you know, the director's<br />usually the best one...</i>
+7013464 7015257 <i>to project that performance forward.</i>
+7015341 7019803 <i>Yeah. And he would do so while the<br />editing of the film was taking place.</i>
+7020888 7025017 <i>We would get a track from Kersh<br />that would be him as Darth Vader.</i>
+7025100 7028437 <i>And we'd get a track from him<br />on occasion of him as Yoda.</i>
+7028521 7032858 <i>In both cases he would imitate<br />the voices, you know, reasonably good.</i>
+7032942 7034127 <i>And the performances were good.</i>
+7034151 7037029 <i>And that was used<br />for the timing purposes.</i>
+7037112 7041242 KERSHNER: <i>My dialogue was played<br />to James Earl Jones,</i>
+7041325 7045996 <i>who lost his voice by the end<br />of the day doing it.</i>
+7046080 7048040 [CHUCKLING]<br /><i>Like I did.</i>
+7048123 7052336 <i>But he just followed my voice<br />and had all the keys...</i>
+7052419 7055464 <i>to the movement and the character.</i>
+7056590 7059260 [CHUCKLES]<br /><i>That was an interesting way to work.</i>
+7071564 7075109 LUCAS: <i>It's always one of those<br />story challenges when you...</i>
+7075192 7077444 <i>have the main character<br />realizing his...</i>
+7077528 7080197 <i>true nature<br />in the middle of an action scene...</i>
+7080281 7083866 <i>where one part of it is his father<br />who's on one ship...</i>
+7083950 7086077 <i>and he's on the other ship,</i>
+7086160 7088955 <i>yet they're kind of communicating<br />with each other, and they're-</i>
+7089038 7091249 <i>Part of the issue here is...</i>
+7091332 7095003 <i>what is Luke gonna,<br />where is he gonna end up?</i>
+7097088 7100133 MUREN: <i>This was a sequence<br />where we tried to give the huge look...</i>
+7100216 7102260 <i>to Darth Vader's Stardestroyer.</i>
+7102343 7105138 <i>You can see it here. We had<br />the</i> Falcon <i>and the TIE ships and all...</i>
+7105221 7106448 <i>be as tiny as they could be against</i>
+7106472 7109309 <i>one little tiny part<br />of Vader's Destroyer.</i>
+7109392 7112020 <i>It helps make the thing<br />look really massive.</i>
+7112103 7116065 <i>But what you're looking at there<br />is about two or three inches high-</i>
+7116149 7119402 <i>Vader's Stardestroyer-<br />a little tiny part of that model.</i>
+7119485 7122322 <i>But with these ships in front of it,<br />being small also,</i>
+7122405 7124407 <i>it makes everything look<br />very, very big.</i>
+7132206 7134876 KERSHNER:<br /><i>And they're still running...</i>
+7135084 7137920 <i>from the Empire.</i>
+7141633 7146512 <i>Again, a little bit of humor.<br />"Come fix me. This is more important."</i>
+7146596 7150099 LUCAS: <i>One of the issues<br />in these movies is that...</i>
+7150183 7153353 <i>R2 is the one who sort of<br />comes through and saves the day.</i>
+7153436 7157440 <i>I mean, it's a subtle part of the story,<br />but in the end, he's the one...</i>
+7157523 7160068 <i>that always pulls them<br />out of the danger...</i>
+7160151 7162403 <i>one way or the other.</i>
+7162487 7167367 <i>The payoff of this Darth Vader<br />killing his subordinates Piett joke...</i>
+7167450 7170453 <i>is this one where he comes down<br />at the very end of the movie...</i>
+7170536 7173705 <i>and you fully expect him<br />to get killed and he doesn't.</i>
+7173997 7177459 <i>He's too upset to even bother<br />with killing his subordinates.</i>
+7177542 7180003 <i>'Cause he's really-You know,<br />we're talking about his son now.</i>
+7180087 7181505 <i>So he's conflicted.</i>
+7181588 7184007 <i>It's not just hate any more.<br />There's more to it than that.</i>
+7184091 7186426 <i>He's 3PO disassembled.</i>
+7187594 7189971 MUREN:<br /><i>This is the end of</i> Empire Strikes Back.
+7190055 7193517 <i>A lot of interesting-looking spaceships<br />in this that were put together.</i>
+7193642 7197187 <i>There's the</i> Falcon, <i>and we have<br />X-wings ready for the third film.</i>
+7197270 7200315 <i>And this was nice, just to sort of give<br />a sense that there's gonna be...</i>
+7200399 7202776 <i>more to come in the future<br />in these films.</i>
+7208365 7211451 <i>These were views where you<br />look down and you see inside the ships.</i>
+7211535 7215747 <i>That's a little tiny set that was built<br />inside of the little</i> Falcon.
+7215956 7218667 <i>Probably three or four inches wide,<br />a little cockpit in there.</i>
+7222713 7226466 LUCAS: <i>I purposely made<br />his new hand realistic-looking,</i>
+7226550 7230095 <i>whereas you'll see when the same thing<br />happens to his father...</i>
+7230178 7232389 <i>in Episode II...</i>
+7232472 7234641 <i>and his hand is not realistic-looking.</i>
+7234725 7237310 <i>He wears a glove over it,<br />but it's just a metal hand,</i>
+7237394 7240355 <i>which is what gets cut off<br />in Episode VI.</i>
+7240480 7242441 <i>But there is, again,<br />this recurring theme of...</i>
+7242524 7245569 <i>both Luke and his father<br />have their right hand cut off.</i>
+7245652 7250198 KERSHNER: <i>I wanted very much<br />to not have that hand that's put on him-</i>
+7250282 7254286 <i>a prosthetic hand-<br />to have it a dead thing.</i>
+7254369 7258415 <i>I wanted it to have feeling.<br />I had them take a needle...</i>
+7258498 7261042 <i>and stick it in the palm<br />and on the fingers...</i>
+7261125 7263085 <i>to have them twitch,</i>
+7263169 7267423 <i>which said to the audience,<br />"Ah, he has feeling in them."</i>
+7267506 7270134 <i>So it means he can make love,<br />he can do things,</i>
+7270217 7272094 <i>he's a whole man again.</i>
+7275389 7278601 <i>And the search starts,</i>
+7278684 7281771 <i>which of course<br />has to lead to the third part.</i>
+7282021 7284315 <i>And there goes<br />the</i> Millennium Falcon...
+7284398 7287193 <i>off on a journey<br />around the rim of a galaxy.</i>
+7288110 7291030 <i>Now, you see, I've got<br />no big climax here at the end,</i>
+7291113 7294074 <i>but it's the second movement<br />of a symphony,</i>
+7294158 7296118 <i>the second act of a play.</i>
+7296202 7301832 <i>It has to lead to the third.<br />So all I could have here was emotion.</i>
+7302082 7305503 <i>Caring for the people-<br />what's gonna happen to them?</i>
+7305628 7310299 <i>Remembering that Han Solo<br />is somewhere in space...</i>
+7310382 7313260 <i>locked in a carbon box.</i>
+7323604 7326190 <i>Well, finally the filming<br />was finished...</i>
+7326273 7331529 <i>and I realized that the whole film<br />had been a guessing game.</i>
+7331612 7336158 <i>I was never sure that<br />the special effects would really work...</i>
+7336242 7338327 <i>with what I had shot.</i>
+7338410 7342206 <i>Or rather, what I had shot<br />would work with the special effects.</i>
+7343249 7347086 <i>I was never sure whether<br />the performances were right,</i>
+7347169 7349421 <i>whether the staging was right.</i>
+7349505 7352423 <i>I was never sure of anything<br />by the end of the shooting...</i>
+7352507 7358388 <i>because each shot,<br />each day is full of compromises.</i>
+7358471 7362267 <i>But you try to keep them down.<br />You're guessing.</i>
+7362350 7366187 <i>And then I realized George Lucas...</i>
+7366271 7368940 <i>had financed this picture himself,</i>
+7369190 7373570 <i>and here I was shooting<br />a guessing game...</i>
+7373653 7377198 <i>with millions and millions of dollars<br />of his money.</i>
+7377282 7379534 <i>This put a terrific burden on me...</i>
+7379617 7385248 <i>because I knew whenever I screwed up<br />that it was costing him money.</i>
+7385331 7389752 <i>And I knew that if something<br />didn't work, it was costing him money.</i>
+7389836 7394257 <i>But it paid off,<br />and that's the way film is.</i>
+7394340 7396342 <i>You chase shadows.</i>
+7397677 7401180 <i>George had made a deal with me,<br />and he stuck to it.</i>
+7401264 7404225 <i>He stayed in California except for<br />a few times when he flew over...</i>
+7404309 7406686 <i>like, to check out Yoda.</i>
+7406769 7410690 <i>And what happened-<br />the picture was finished...</i>
+7410773 7415153 <i>and it was gonna be premiered<br />in London at the Odeon...</i>
+7415236 7417530 <i>in a big royal premiere.</i>
+7417655 7420825 <i>And I got a call from George saying,</i>
+7420909 7425955 <i>"Listen, next week you're gonna<br />fly over to London for the premiere."</i>
+7426247 7429834 <i>I said, "Oh, that's great!<br />When are we going? What day?"</i>
+7429918 7432879 <i>He said, "No, not we."<br />He said, "You're going."</i>
+7432962 7435465 <i>I said, "What do you mean?<br />Aren't you gonna go over?"</i>
+7435548 7438968 <i>He says, "No, no.<br />It's your film. You go.</i>
+7439218 7441762 <i>"If I go, we'll be sharing,</i>
+7441845 7445849 <i>you know, the so-called honors,"<br />he said.</i>
+7445933 7449686 <i>He said, "No, no.<br />You go alone. It's your film."</i>
+7449770 7453690 <i>And I was very, very<br />impressed with that...</i>
+7453774 7459446 <i>because since then, I've gotten<br />to know George a little better,</i>
+7459529 7462032 <i>and this is true to his character.</i>
+7463784 7465827 BURTT:<br /><i>It's funny. People always say that.</i>
+7465911 7468372 <i>They comment about</i> Empire<br /><i>being the favorite.</i>
+7469414 7471416 <i>Yet at the time,<br />it was not considered that.</i>
+7471500 7473835 <i>You have to think back,<br />you know, how capricious...</i>
+7473919 7476546 <i>the world of entertainment is<br />in terms of the audience response.</i>
+7476630 7479758 <i>The first film came out,</i> A New Hope,<br /><i>and it was extremely well received.</i>
+7479841 7482719 <i>Surprised everyone.<br />It had all the success...</i>
+7482803 7485472 <i>of something brand-new<br />for the first time.</i>
+7485555 7488517 <i>Then you do a sequel,</i><br />The Empire Strikes Back,
+7488600 7491311 <i>and people's expectations now<br />are very high.</i>
+7491395 7494398 <i>They remember how<br />they reacted to the first film.</i>
+7494481 7496525 <i>And</i> Empire <i>is paced differently.</i>
+7496608 7498777 <i>It's a darker story.</i>
+7498860 7501863 <i>And it doesn't have<br />a complete resolution at the end.</i>
+7501947 7503949 <i>It leaves things undone.</i>
+7504032 7508453 <i>And when it came out, there was<br />a lot of reaction of disappointment.</i>
+7508537 7510539 <i>There wasn't this judgment<br />that it was...</i>
+7510622 7512833 <i>the best of the three films<br />or anything of that sort.</i>
+7512916 7517504 <i>It was-It was a success, of course,<br />and it was respected,</i>
+7517587 7519923 <i>but people spoke less of it.</i>
+7520007 7522718 <i>There was kind of, you know,<br />"Well, it's okay, I guess."</i>
+7522801 7525929 <i>"It wasn't quite what I was hoping for"<br />was sort of the attitude.</i>
+7526972 7529975 <i>Given time, you look back<br />at this middle act,</i>
+7530058 7532393 <i>which is</i> The Empire Strikes Back,
+7532476 7536022 <i>and it takes on a different-<br />it's in a different context.</i>
+7536105 7538107 <i>You know, you see<br />the good performances.</i>
+7538315 7541402 <i>You're not bothered by the lack<br />of resolution in the story completely.</i>
+7541485 7544989 <i>It's satisfying. You know that<br />it's part of a greater story.</i>
+7545072 7548951 <i>And you're not just measuring it<br />against the impact the first film had.</i>
+7549076 7552455 <i>I think when they're all done<br />and 10 years go by,</i>
+7552538 7554707 <i>maybe you'll put them all together<br />and look at it...</i>
+7554790 7558669 <i>and maybe it'll take on some new<br />meaning that we don't know about yet.</i>
+7558753 7560755 <i>I think it will.</i>

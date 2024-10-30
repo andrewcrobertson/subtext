@@ -1,0 +1,923 @@
+641433 642934 You're...
+643310 645145 ...from Baker?
+655113 657407 Tell Baker that I told him all that I know already.
+657449 659201 Tell him I want to live in peace, understand?
+659242 662079 That it's no use to go on tormenting me!
+662204 665040 I know nothing at all about that case of coins.
+665082 666208 Now that gold has disappeared.
+666291 669753 But if he'd listened to me,<br />we could have avoided this altogether.
+670379 672214 I went to the Army court.
+672297 674007 There were no witnesses.
+674049 676259 They couldn't uncover any more.
+676551 679388 I can't tell Baker what happened to the money.
+679429 681264 Go back and tell him that!
+683809 686269 Word's around you had a visitor...
+687938 689940 ...and Baker knows it.
+691733 693694 Name of Jackson.
+698907 700742 Jackson was here...
+702285 704955 ...or Baker's got it all wrong.
+712295 714297 He's not wrong.
+714798 719261 Maybe Baker would like to know<br />just what you and Jackson had to say...
+719469 721680 ...about the cash box.
+725600 728353 That's not what I'm being paid for.
+732232 736319 I'm only interested in<br />what name Jackson's hiding under now!
+739406 742117 Why do you think Jackson<br />may be assuming another name?
+742159 744661 I would have found him already.
+745328 748665 When I start off to find somebody, I find them.
+748790 751042 That's why they pay me.
+756423 758967 What is Baker paying you?
+761720 763346 That your family?
+773231 774149 Yes.
+775150 777402 Nice family.
+779529 781907 What does he pay you for murdering me?
+784993 786661 $500.
+787662 789247 ...to get the name!
+795545 797005 The name!
+806556 807557 Carson.
+808183 809810 Bill Carson.
+810018 812771 That's what he calls himself now.
+843051 845637 Here's a lot of money: $1,000.
+849766 851434 $1,000..
+854020 855772 ...and some in gold.
+856022 857899 That's a tidy sum.
+861945 863572 But when I'm paid...
+864322 866116 ...I always see the job through.
+939105 940523 It's you.
+941149 942984 Any information?
+944819 946446 Too much.
+947989 950825 He said quite a bit that should interest you...
+950909 953495 ...and one or two things that interested me.
+953536 955497 Such as?
+955956 958541 The name Jackson's hiding under is...
+958708 960293 ...Bill Carson.
+962545 964506 That's your bit.
+967133 968510 Keep talking.
+968927 971513 He also mentioned somethin' about a certain...
+971638 974766 ...cash box which just happened to disappear.
+975892 977310 That's my bit.
+978019 979354 Anything else?
+980230 982565 Not enough for you, huh?
+982774 984693 Well, you don't have to worry.
+984734 987195 He'll never say anything to anybody again!
+988530 990115 Perfect.
+990782 992617 Here you are.
+992867 994619 Here, this is for you.
+994661 996579 You did a good job for me.
+996663 998373 Worth $500!
+1002377 1004295 I almost forgot.
+1004379 1006673 He gave me $1,000.
+1006923 1009259 I think his idea was that I kill you.
+1016933 1019019 But you know, the pity is, when I'm paid...
+1019394 1021896 ...I always follow my job through.
+1022188 1023940 You know that.
+1070945 1073198 No pistol, amigo.
+1073281 1075033 It won't do you any good.
+1075116 1076701 There are three of us.
+1093218 1097514 You know that you have a face<br />beautiful enough to be worth $2,000?
+1103520 1107690 But you don't look like the one who will collect it.
+1114364 1117033 A couple of steps back.
+1163538 1164789 Thank you.
+1174299 1176134 How much you worth now?
+1176593 1177886 How much?
+1179137 1180388 $2,000!
+1183266 1184934 That's right, $2,000.
+1185351 1187145 Yeah, $2,000.
+1194360 1196446 Hijo de puta que te parié!
+1196738 1198364 You'll pay for this!
+1198406 1201242 I hope you end up in a graveyard...
+1201284 1203995 ...with the cholera, and the rabies, and the plague!
+1204078 1207790 Cut me loose! Cut me loose, you filthy bastard!
+1207832 1209167 Put me down!
+1209250 1212128 I hope your mother ends up<br />in a two-dollar whorehouse!
+1212170 1214672 Cut me loose! Cut me loose!
+1215757 1217592 You can still save yourself.
+1217634 1220345 Let me go, and I'll pardon you.
+1220595 1222138 Let me go!
+1223223 1226100 I feel sick. The blood is rushing...
+1227560 1229145 I'm dry.
+1230104 1231981 Agua! Water!
+1238780 1241282 You swine! You son of a bitch!
+1243451 1245536 You're brave with a man who's tied up!
+1245620 1247205 Come back!
+1247288 1249207 Come back and fight!
+1250208 1252168 You bastard!
+1253127 1254587 Who the hell is that?
+1254629 1256881 One bastard goes in, another comes out.
+1256923 1258591 Cut it out! Cut it out!
+1258633 1261928 I'm an honest farmer! I'm innocent of any--
+1264514 1266599 So, you're an honest farmer.
+1266683 1268935 You recognize this man?
+1269310 1271312 Yeah, it's you!
+1272981 1276025 Who says so? You can't even read.
+1276442 1278152 Roll it up. Roll it up!
+1278236 1280822 I'll give you a good idea where you can put it.
+1280863 1284951 To hell with all you sheriffs and deputies<br />and all who gave birth to you!
+1285034 1287787 Hey, everybody, look! Look!<br />He's giving him the filthy money!
+1287829 1288955 Judas!
+1289038 1290540 You've sold my hide!
+1291332 1293376 But you won't enjoy any of that money, not a penny.
+1293459 1296462 If there's justice,<br />that money will go to the undertakers!
+1296504 1299549 Every penny of it. You know who you are?
+1299716 1302010 You want to know whose son you are?
+1302093 1304470 You don't, I do. Everybody does.
+1304512 1306431 You're the son of a thousand fathers!
+1306514 1308099 All bastards like you!
+1308182 1310977 And your mother? Your mother...
+1311019 1312478 You bastard!
+1313438 1318026 Your mother, it's better not to talk of her.<br />I never hurt anybody!
+1318359 1321446 ...wanted in 14 counties of this state...
+1322530 1327368 ...the condemned is found guilty<br />of the crimes of murder, armed robbery...
+1327994 1331664 ...of citizens, state banks, and post offices...
+1331706 1335710 ...the theft of sacred objects,<br />arson in a state prison...
+1335835 1339630 ...perjury, bigamy,<br />deserting his wife and children...
+1340548 1344552 ...inciting prostitution, kidnapping, extortion...
+1344635 1347722 ...receiving stolen goods, selling stolen goods...
+1347764 1352727 ...passing counterfeit money,<br />and contrary to the laws of this state...
+1352935 1355938 ...the condemned is guilty of using...
+1357357 1360902 Therefore, according to the powers vested in us...
+1361569 1364447 ...we sentence the accused here before us...
+1364489 1368242 ...Tuco Benedicto Pacifico Juan Maria Ramirez...
+1368409 1369619 ...known as the "Rat"...
+1369702 1372663 ...and any other aliases he might have...
+1373539 1375333 ...to hang by the neck until dead.
+1375416 1378795 May God have mercy on his soul. Proceed!
+1404695 1406781 Five for you.
+1407156 1409784 One, two, three, four...
+1410493 1411619 ...five for me.
+1413204 1415289 Five for you...
+1415373 1417959 ...and five for me.
+1418292 1420336 Know how much you're worth now?
+1420378 1422296 No, how much?
+1422463 1424006 $3,000!
+1427760 1430596 There are two kinds of people<br />in the world, my friend.
+1430638 1431931 Those with a rope around their neck...
+1431973 1434725 ...and the people who have the job<br />of doing the cutting.
+1434809 1438020 Listen, the neck at the end of the rope is mine!
+1438104 1440148 I run the risks.
+1440565 1444026 So, the next time, I want more than half!
+1444193 1446654 You may run the risks, my friend, but...
+1446737 1449031 ...I do the cutting.
+1450116 1452994 If we cut down my percentage...
+1454328 1455788 Cigar?
+1457415 1460918 ...it might interfere with my aim.
+1462336 1466132 But if you miss, you had better miss very well.
+1466257 1469969 Whoever double-crosses me and leaves me alive...
+1470011 1473222 ...he understands nothing about Tuco.
+1474223 1475808 Nothing!
+1479353 1481814 Wanted in 15 counties of this state...
+1481898 1485776 ...the condemned, standing before us...<br />sitting before us...
+1485860 1489155 ...Tuco Benedicto Pacifico Juan Maria Ramirez...
+1489238 1491532 ...has been found guilty<br />by the Third District Circuit Court...
+1491574 1495453 ...of the following crimes:<br />murder, assaulting a justice of the peace...
+1495536 1497997 ...raping a virgin of the white race...
+1498039 1502001 ...and statutory rape of a minor of the black race...
+1502376 1505922 ...of derailing a train<br />in order to rob the passengers...
+1511594 1513387 What'd you find out, Shorty?
+1513471 1515348 If you ask me, it seems like a book!
+1515389 1519644 An armed unit, escorting a cash box<br />of gold coins, meets a Yankee ambush...
+1519685 1522188 ...and only three of them are saved.
+1522230 1524690 Stevens, Baker, and Jackson.
+1524732 1527193 The thing that wasn't saved, though, was the coins.
+1527276 1530071 But then the Army decides, of course,<br />it ought to hold a hearing...
+1530154 1531280 ...and Jackson's acquitted.
+1531364 1534242 He disappears, and becomes Bill Carson.
+1534408 1535368 I know his name.
+1535409 1538579 But you don't know<br />just who you're lookin' for, and I do!
+1538663 1542667 And when he's found,<br />I'd be scared to be put in his shoes!
+1545086 1548005 - Where is Carson?<br />- All I know is Carson re-enlisted.
+1548047 1549549 The poor guy's minus an eye.
+1549590 1551759 He lives with a girl called Maria, who'll tell you.
+1551842 1554303 She's a fresh young whore in the territory.
+1554387 1555388 Where is she?
+1555429 1559392 Now, what's the name of that town'?<br />It's someplace very near...
+1561894 1563729 Santa Ana.
+1566148 1568609 Adios, half-soldier.
+1573698 1574907 Hand me down a whiskey!
+1586502 1589755 Glad they got him. A man guilty of all those crimes!
+1590131 1592008 People with ropes around their necks<br />don't always hang.
+1592091 1594552 What do you mean?
+1595803 1599599 Even a filthy beggar like that<br />has a protecting angel.
+1606355 1609650 A golden-haired angel watches over him.
+1609775 1612486 Of all these crimes, the accused<br />has made a full, spontaneous confession.
+1613988 1617742 Therefore, we condemn him<br />to be hung by the neck until dead.
+1617825 1621120 May the Lord have mercy on his soul. Proceed.
+1635968 1638304 Let's get the hell out of here!
+1669794 1672380 What are you saying? Anybody can miss a shot?
+1672421 1674382 Nobody misses when I'm at the end of the rope!
+1674423 1678052 You never had a rope around your neck.<br />Well, I'm going to tell you something.
+1678135 1682515 When that rope starts to pull tight,<br />you can feel the devil bite your ass!
+1685351 1687311 Yeah, you're right.
+1688104 1689897 It's getting tougher.
+1690856 1692692 The way I figure...
+1692733 1696987 ...there's really not too much future<br />with a sawed-off runt like you.
+1697071 1698489 What do you mean?
+1698572 1702702 'Cause I don't think you'll ever<br />be worth more than $3,000.
+1703202 1705287 What do you mean?
+1705454 1708582 I mean, our partnership is untied.
+1709375 1711335 Oh no, not you.
+1711377 1713337 You remain tied.
+1713379 1716298 I'll keep the money, and you can have the rope.
+1716465 1720553 You filthy, double-crossing bastard!<br />Of all the stinking, dirty tricks--
+1720720 1723514 The way back to town is only 70 miles.
+1724849 1728602 If you save your breath,<br />I feel a man like you could manage it.
+1728644 1729895 Adios.
+1729937 1732982 You filthy bastard! Come here!
+1733399 1736318 Come here! Cut this rope off! Get off that horse!
+1736402 1738529 Get off that horse! You filthy coward!
+1738612 1739780 If I ever catch you...
+1739822 1741991 ...I'll rip your heart out and eat it!
+1742074 1745870 I'll skin you alive! I'll hang you up by your tongue.
+1747288 1750082 I'll kill you! I'll kill you!
+1750124 1750166 I'll kill you! I'll kill you!
+1751751 1756255 Such ingratitude, after all the times<br />I've saved your life.
+1763679 1765139 You wouldn't leave me here...
+1765222 1766724 Come back!
+1766807 1769310 Wait! Listen, Blondie!
+1770811 1772980 Hijo de una gran puta!
+1811018 1812978 You filthy rats!
+1829328 1830830 Maria.
+1837753 1839755 Is that you, Bill?
+1851892 1853769 Who are you?
+1853894 1855896 What do you want with me?
+1856021 1858941 Go on talking about Bill Carson.
+1859400 1861777 I don't know him.
+1862403 1865698 You were calling to him in the dark!
+1869326 1870452 Where is he'?
+1870536 1873205 What are you gonna do?
+1874248 1876917 I'll ask the questions!
+1878335 1880296 Where is he'?
+1887344 1888804 Where is he'?
+1897396 1899565 That's enough!
+1900566 1902067 I don't know where he is.
+1902109 1905696 He packed his things ten days ago,<br />and went away with his unit.
+1905779 1907323 They all left.
+1907364 1909783 Which company? Where'd he go?
+1913662 1916624 Third Cavalry, General Sibley.
+1917333 1919585 They left for Santa Fe.
+1919627 1922379 That's all I know. I swear!
+2014680 2017766 I'm very sorry, but the store is closing.
+2055596 2057890 Revolvers?
+2062978 2065064 Revolvers!
+2065773 2068984 Here's where I keep the best ones.
+2073989 2076867 Remington, Colt, Farroute...
+2078160 2081121 ...Smith Wesson, Colt, from the Navy...
+2082498 2085793 Jocelyn, another Remington, and this--
+2086251 2088087 That's enough.
+2130838 2132923 Cartridges.
+2141181 2144309 - You wanna try the pistol, just step--<br />- Let's go.
+2227476 2229519 Cartridge.
+2237319 2238403 How much?
+2238487 2240364 $20.
+2247287 2249122 $50.
+2250415 2252209 How much?
+2253418 2255420 $100.
+2258048 2261134 $200. It's all I've got!
+2282948 2284449 Come here!
+2313687 2315480 This morning I heard the whole thing.
+2315522 2317774 They say Colonel Canby's closing in<br />with his Northerners...
+2317816 2320652 ...and no later than tomorrow<br />that they'll be in the city.
+2320694 2323697 That's why these Southerners are getting out!
+2323780 2328076 You see, as soon as these cowards hear<br />there are blue shirts around, they run.
+2328118 2331079 - These rebels have no will to fight!<br />- Poor things.
+2331121 2332706 They'll soon be finished.
+2332789 2333957 We get rid of these bastards...
+2334041 2336501 ...then we begin making money on those Yankees.
+2336543 2340797 They carry gold, not paper dollars.<br />And they're going to beat the South.
+2341965 2345177 Look, see that one with the white beard<br />sitting in the wagon?
+2345218 2349056 General Sibley. He looks dead.<br />He's finally getting out of our hair.
+2349139 2352100 Hooray for Dixie! Hooray, hooray for Dixie!
+2357856 2360359 Where's the owner of that horse?
+2360484 2361693 Please, mister, sir...
+2361777 2363820 - ...a bad heart condition...<br />- Where?
+2363862 2366323 The war has frightened me already.
+2366656 2369076 I'm looking for the owner of that horse.
+2369117 2372371 He's tall, blond, he smokes a cigar, and he's a pig!
+2372788 2374081 Where is he now?!
+2374122 2377000 You leave him be! He doesn't know<br />who rides every horse!
+2377042 2379836 You stay quiet, old hen!
+2381088 2384424 Upstairs. Upstairs, in Room 4, senor.
+2390138 2391598 Hear that?
+2397062 2400065 You rotten criminals, how dare you?!
+2577867 2579661 Your spurs.
+2591881 2594634 There are two kinds of spurs, my friend.
+2594676 2597596 Those that come in by the door...
+2597637 2600181 ...and those that come in by the window.
+2600223 2602601 Take off that pistol belt.
+2609941 2611901 It's empty-
+2614029 2616031 Mine isn't.
+2622078 2626082 Even when Judas hanged himself,<br />there was a storm, too.
+2629419 2631880 That could be cannon fire.
+2631963 2635550 Cannon fire or storm, it's all the same to you!
+2637844 2640639 You ever see this before, my friend?
+2649773 2652400 Throw it over the roof beam.
+2654235 2656279 That's it.
+2667290 2669417 And get on that!
+2679135 2680929 That's right.
+2680970 2683431 Now, make sure the rope is tight!
+2683723 2686685 It's got to hold the weight of a pig!
+2692816 2695652 Now, put the rope around your neck!
+2702283 2704327 Yes, very good.
+2705328 2707414 It's too big for your neck?
+2707455 2709374 We'll fix that right away.
+2709457 2711167 I have another system.
+2711209 2714003 A little different than yours.
+2714254 2716256 I don't shoot the rope.
+2716339 2718675 I shoot the legs off the stool!
+2723096 2724764 Adios.
+2906696 2910241 ...guilty of the following crimes: horse theft...
+2928635 2930762 And Shorty?
+2954243 2956371 Sorry, Shorty!
+2957205 2959666 Move, come on, let's go!
+2984148 2987402 I don't know. As soon as I hit<br />the desert, I'm thirsty.
+2987652 2988820 Burns, huh?
+2988903 2992657 They say people with fair skin can't take too much.
+3016973 3020309 Like that, you won't have to carry so much.
+3021644 3023604 Where are we going'?
+3024022 3025314 Where?
+3025356 3027734 Where I'm going, amigo.
+3028484 3030028 Over that way.
+3030111 3033573 Another 100 miles of beautiful sunbaked sand.
+3034365 3036743 Even the armies are afraid to march through there.
+3036826 3039120 Sibley's men are retreating up there.
+3039203 3041956 Canby's men are coming here...
+3042540 3045960 ...but no one will set foot in this hell...
+3046878 3049338 ...except you and me.
+3050840 3054052 One hundred miles. That's a nice walk.
+3056512 3059640 What was it you told me the last time?
+3061100 3065313 "If" you save your breath,<br />I feel a man like you could manage it.
+3067106 3070193 And if you won't manage it, you'll die.
+3070234 3071778 Only slowly.
+3072862 3075323 Very slowly, old friend.
+3080620 3083539 After you, please. Start walking.
+3199989 3202074 Taking a rest?
+3202533 3206913 Come on, Blondie, we don't have<br />very far to go. Only 70 miles.
+3208414 3212043 Only eight and a half hours more before sunset.
+3212168 3214462 That's not too bad.
+3215546 3217340 Come on!
+3340588 3342548 And so, Blondie...
+3344800 3346844 ...it's goodbye.
+3573070 3576699 $200,000 in gold. It's yours. Just get me water!
+3582037 3584248 What's that you say?
+3584290 3585833 Who the hell are you?
+3588210 3590588 My name's Bill Carson now.
+3591505 3593090 Surprise attack.
+3594925 3595884 All dead.
+3595926 3599013 My name is Jackson. Not Carson.
+3599388 3601265 Yeah, yeah, glad to meet you, Carson.
+3601348 3604935 I'm Lincoln's grandfather.<br />What was that you said about the dollars?
+3605019 3607104 $200,000, all mine.
+3608355 3610941 Was the Third Cavalry's.
+3611400 3613485 Baker has nothing.
+3614069 3615237 The gold...
+3615321 3618282 I hid the gold. The gold is safe!
+3619033 3620909 Where? Here?
+3622202 3623954 Talk!
+3624413 3626457 In the cemetery.
+3626540 3628542 Which cemetery?
+3629585 3631962 On Sad Hill.
+3632004 3633839 There's a grave by the...
+3634673 3636175 Which grave'?
+3636258 3638719 Have a name? Have a number?
+3638761 3641180 Come on, you dummy, talk!
+3642806 3645100 There's no number.
+3645517 3647019 There's a name.
+3648187 3650397 It's written.
+3656987 3658322 Water!
+3661075 3663869 You talk first, eh'? I'll give you the water later!
+3663994 3665704 Sad Hill Cemetery, okay?
+3665788 3667039 In a grave, okay.
+3667122 3669708 But it must have a name or a number on it.
+3669792 3672795 There must be 1,000, 5,000, you...!
+3676674 3678592 Don't die.
+3678634 3681011 Don't die! I'll get you water!
+3681136 3684515 Stay there. Don't move, I'll get you water.
+3684556 3686934 Don't die until later!
+3712668 3713961 Get away from there!
+3720509 3722302 He's dead.
+3725848 3727641 I'll kill you!
+3730060 3733272 If you do that, you'll always be poor.
+3734356 3737568 Just like the greasy rat that you are.
+3737985 3740154 If I were you, I'd...
+3740362 3742030 ...keep me alive.
+3742322 3744658 What did he tell you?
+3745701 3746869 A name.
+3748078 3749913 Name on a grave.
+3750164 3751874 What name?
+3765596 3767681 Blondie, don't die.
+3768766 3771226 Don't die! I'm your friend.
+3771477 3775063 Please don't die. Please! I'm your friend!
+3778400 3780569 I'll help you. I'll help you!
+3780652 3783614 Don't move. I'll be right back. I'll get the water.
+3783697 3786158 Don't die like that pig.
+3787701 3789369 Water, Blondie?
+3789411 3791455 Don't drink! It's no good for you.
+3791538 3793457 Feel better?
+3793499 3797211 Blondie, what's the matter? Please don't die!
+3825948 3827241 I've got a very sick man here.
+3827324 3828826 But we have no more beds here.
+3828909 3831328 Let him have yours!
+3836500 3838794 - Where is Pablo Ramirez?<br />- Padre Ramirez.
+3838877 3840546 He is away at the moment.
+3840796 3843173 He should be back any day now.
+3843257 3847719 It doesn't matter. For the moment,<br />we'll take very good care of my friend.
+3847803 3849346 May God be praised.
+3849429 3850681 In case you didn't know it...
+3850722 3854601 ...God is on our side, too.<br />Because He hates the Yanks.
+3856311 3857771 Father, is he still breathing?
+3857813 3859940 Yes, of course.
+3860607 3862526 You're heavy.
+3904359 3907321 All right, put a fresh bandage on him.
+3908280 3910532 Put him in my cell.
+3915537 3917956 Out, soldier. Out you go, come on.
+3918040 3922085 Look out for him, please. He's like a brother to me!
+3941063 3943857 Father, did he speak'? Did he say anything'?
+3974262 3976932 Did he ask for me? Did he speak about anything?
+3976974 3979768 No, he hasn't spoken as yet. But you mustn't worry.
+3979810 3983689 He's both young and strong.<br />That's what's kept him going until now.
+3983855 3986608 He should regain his strength in a very short time.
+3986650 3990904 Thank you, Father. You don't know<br />how much this boy's life means to me!
+4069649 4073403 The old Father tells me<br />you'll be up and around in a few days.
+4073570 4076948 You're very lucky to have me<br />so close when it happened.
+4077282 4079701 Think, if you'd been on your own.
+4082037 4083622 I mean, when...
+4083705 4086166 ...when one is ill...
+4086500 4089961 ...it's good to have somebody close by,<br />friends or relations.
+4092005 4093548 Do you...
+4093590 4095801 ...you have parents, Blondie?
+4096259 4097761 A mother?
+4097844 4100097 Not even a mother.
+4100847 4102140 No one.
+4103058 4105894 You're all alone, huh? Like me, Blondie.
+4106561 4109272 We're all alone in the world.
+4109356 4111358 I have you, you have me.
+4114402 4116780 Only for a little while, I mean.
+4117114 4119074 It had to happen now.
+4119741 4122244 What a dirty rotten trick of fate!
+4122285 4125413 We could have all that money in our hands.
+4131795 4134381 I must tell you the truth, Blondie.
+4134464 4137676 In my place, you would do the same thing.
+4139136 4141388 It's all over for you now.
+4142097 4145058 There's nothing anyone can do anymore.
+4149187 4151481 It's my fault! Mine, mine!
+4164119 4167998 I'll tell you one thing, Blondie.<br />If I knew that my last hour had come...
+4168081 4172544 ...I swear, in my place, in your place,<br />I would do the same thing.
+4173753 4177048 I would tell about the gold. Yes, yes I would!
+4177132 4179593 I would tell the name on the grave.
+4179634 4182345 After all, what good is the money to you<br />if you're dead?
+4182429 4184514 I know the name of the cemetery.
+4184556 4187684 But you know how many graves there are there?
+4187767 4188977 Please.
+4191062 4193023 Please, have a little.
+4196318 4199279 Coffee? Please tell me the name.
+4201364 4202908 On the grave.
+4203742 4206745 If I get my hands on the $200,000.
+4208580 4211166 ...I'll always honor your memory.
+4211666 4214794 I swear it! I'll always honor your memory!
+4217839 4219799 Come closer.
+4224846 4225931 Tell me.
+4231519 4233813 I'll sleep better...
+4235106 4237692 ...knowing my good friend...
+4237943 4239986 ...is by my side...
+4240028 4241571 ...to protect me.
+4252249 4254584 "Tuco, water. Please, water."
+4254709 4258255 But if I get that name from you, I'll give you water!
+4265387 4268265 All right, you dirty skunk, get your ass off the bed!
+4268306 4270433 Come on, come on, the party's over.
+4270517 4272269 The wagon is all ready to go.
+4272560 4274521 From the way the wounded<br />are pouring into this place...
+4274562 4277649 ...we better get the hell out of here<br />before we get caught up in the war.
+4277732 4280568 Tuco, Father Ramirez is back.
+4280610 4284823 This is something I have to look into.<br />It'll only take a minute. Get moving.
+4284948 4286574 - Where? This way?<br />- Yes.
+4304384 4305468 Hey, Pablo!
+4313977 4316229 Don't you recognize me?
+4317772 4319524 It's me, Tuco!
+4320066 4322402 Let me embrace you.
+4325697 4328658 I don't know the right thing!
+4332662 4334956 I was just passing by here. I said to myself...
+4335165 4339002 ...I wonder if my brother remembers his brother.
+4341421 4343256 Did I do wrong?
+4344591 4347218 It doesn't matter. I'm very happy.
+4347260 4349554 You've seen me, Tuco.
+4351222 4353808 Yeah, well, I'm very glad I came.
+4359647 4362609 Oh, my uniform. It's a long story.
+4363943 4367238 Let's talk about you. It's more important.
+4367572 4369407 You look very well.
+4369949 4372619 A bit thin, perhaps, but...
+4373745 4376706 ...you always were thin, eh Pablito?
+4379376 4381461 What about our parents?
+4382670 4384964 Only now do you think of them?
+4386132 4388176 To begin after nine years?
+4390345 4392222 Nine years?
+4393515 4394974 So it's nine years.
+4398520 4401564 Our mother has been dead a long time now.
+4402732 4406069 Our father died only a few days ago.
+4406152 4408071 That's why I was away.
+4409906 4412325 He asked for you to be there.
+4412367 4414702 But there was only me.
+4421543 4423586 And you?
+4423628 4426756 Outside of evil, what else have you managed to do?
+4428133 4431636 It seems to me you once had a wife someplace.
+4434055 4436141 Not one, lots of them!
+4436182 4438852 One here, one there, wherever I found them.
+4440061 4442856 Go on, preach me a sermon, Pablo.
+4444566 4446901 What good would that be?
+4448153 4450613 Just keep on the way you're going.
+4450697 4452157 Go away.
+4453575 4454826 The Lord have mercy on your soul.
+4454868 4458455 I'll go, I'll go. While I'm waiting<br />for the Lord to remember me...
+4458538 4462208 ...l, Tuco Ramirez, brother of Brother Ramirez...
+4462250 4464252 ...will tell you something.
+4464335 4466337 You think you're better than I am.
+4466421 4469090 Where we came from,<br />if one did not want to die of poverty...
+4469132 4471551 ...one became a priest or a bandit!
+4471593 4474179 You chose your way, I chose mine.
+4474262 4475930 Mine was harder.
+4476097 4477849 You talk of our mother and father.
+4477891 4480018 You remember when you left to become a priest.
+4480101 4481519 I stayed behind!
+4481561 4485398 I must have been ten, twelve.<br />I don't remember which, but I stayed.
+4485440 4487859 I tried, but it was no good.
+4487942 4490111 Now I am going to tell you something.
+4490153 4491696 You became a priest because you were...
+4491779 4494782 ...too much of a coward to do what I do!
+4525313 4527565 Please, forgive me, brother.
+4557262 4558930 My belly's full.
+4560765 4562725 Nice guy, my brother.
+4563059 4565436 I didn't tell you my brother was in charge here.
+4565520 4567730 Everything, like the pope almost.
+4567772 4569732 He's in charge in Rome.
+4569774 4573278 My brother, he says to me:<br />"Stay, brother, don't go home."
+4573361 4575154 "We never see each other."
+4575196 4579659 "Here, there's plenty to eat and drink.<br />Bring your friend, too."
+4579701 4582078 Whenever we see each other, he never lets me go.
+4582120 4584539 It's always the same story.
+4584581 4587250 My brother, he's crazy about me.
+4591087 4592005 That's so.
+4592046 4595383 Even a tramp like me, no matter what happens...
+4596217 4601723 ...I know there's a brother somewhere<br />who will never refuse me a bowl of soup.
+4603099 4604517 Sure.
+4605893 4609856 Well, after a meal,<br />there's nothing like a good cigar.
+4677840 4679300 Wake up, you!
+4679676 4681135 The troops are coming!
+4681177 4683221 Blue or gray?
+4689977 4694315 They're gray like us. Let's say "hello"<br />to them and then get going.
+4694357 4697652 Hurrah for the Confederacy! Hurrah!
+4697694 4699779 Down with General Grant!
+4699862 4702782 Hurrah for General... what's his name?
+4702824 4703866 Lee!
+4706744 4710206 God is with us because He hates the Yanks, too!
+4711958 4715753 God is not on our side 'cause He hates idiots also.
+4735606 4737233 Prisoners of war...
+4737316 4739026 forward...
+4739902 4741112 ...march!
+4803925 4806177 Form a single file.
+4865945 4867572 Robert Clark.
+4867655 4868906 Present.
+4869824 4871117 Sam Richmond.
+4871158 4872410 Present.
+4875538 4876998 Bill Carson.
+4883296 4885298 I said Bill Carson!
+4886090 4889010 Hey, Blondie, isn't that Angel Eyes?
+4889510 4892763 All right, what's he doing? Sleeping?!
+4895641 4898811 Yeah, and you better be Bill Carson.
+4901814 4903232 That's me!
+4911532 4913701 Please, Carson.
+4914869 4916621 Answer, "Present"!
+4918247 4920416 What are you, deaf'?
+4926088 4929050 Now, suppose you say "present," Carson.
+4930468 4933387 I like big fat men like you.
+4933429 4935848 When they fall, they make more noise.
+4935890 4938476 And sometimes they never get up.
+4939393 4941270 Wallace...
+4942772 4944523 ...that's enough.
+4947151 4948986 Sergeant!
+4950529 4953532 The captain wants to see you right away.
+4956452 4959288 Be sure these two get good treatment.
+4969382 4973010 Hey, Blondie, did you hear that? Good treatment!
+4979934 4982436 For the last time, sergeant...
+4982478 4983604 ...I'm telling you...
+4983646 4986732 ...I want the prisoners treated as prisoners.
+4987483 4989276 No more brutality!
+4990403 4994198 There's hundreds of prisoners out there<br />and only a few men to guard them.
+4994281 4996617 What am I supposed to do? I have to have respect!
+4996659 5001497 I think that you'll manage to gain<br />their respect by treating them better!
+5002873 5005459 Are our men treated that well in Andersonville Camp?
+5005543 5008337 I don't give a goddamn what they do in Andersonville!
+5008379 5010715 While I'm in charge here,<br />the prisoners are not to be...
+5010798 5011924 tortured...
+5011966 5013676 ...or cheated...
+5013968 5015594 ...or murdered!
+5015886 5017680 Is that an accusation?
+5017763 5021100 Sergeant, gangrene is eating my leg away...
+5021892 5023519 ...not my eyes.
+5023602 5026689 I know the prisoners here are being<br />robbed systematically.
+5026772 5030609 I know there's scum around,<br />or bivouacked near the camp, waiting...
+5030651 5033571 ...for someone to deliver this loot.
+5033654 5037408 But as long as I'm commandant,<br />I won't permit any such trickery!
+5037450 5039035 Am I clear?
+5040828 5042163 Yes, sir.
+5042329 5045416 Just as long as you're the commandant.
+5046500 5048044 Yes, sergeant.
+5050921 5054258 I know this leg means I won't last very long...
+5054341 5057219 ...but I pray I can manage to have enough time...
+5057261 5062266 ...to amass evidence and bring to a<br />court-martial all those who discredit...
+5062975 5065561 ...and dishonor the uniform...
+5065811 5067521 ...of the Union!
+5071734 5073444 I wish you luck.
+5108062 5110940 You and the others better lay low for a few days.
+5112233 5115820 I'll keep this. You go. Wallace will let you know.
+5128249 5130709 - Bring me Carson.<br />- Right.
+5145266 5148269 Angel Eyes said for us to lay low for a few days.
+5148561 5151605 But we'll keep close enough to keep an eye on things.
+5151981 5153941 Come on, saddle your horses.
+5164660 5166036 Come on in, Tuco.
+5166787 5168289 Don't be bashful.
+5169206 5171500 There's no formalities here.
+5182803 5184763 It's been a long time!
+5188392 5189602 You're hungry.
+5190603 5192271 Sit down. Eat!
+5211707 5213500 I knew it, I knew it!
+5215336 5217504 The minute I saw you, I said to myself:
+5218631 5221050 "Look at that pig, Angel Eyes..."
+5222468 5224929 "...I'll bet he's got himself an easy job!"
+5228265 5230267 "And he never forgets a friend!"
+5231143 5233270 I never forget old friends, Tuco.
+5237233 5239193 It's good to see old friends again.
+5242488 5245157 Especially when they come from so far away...
+5245908 5248202 ...and have so much to talk about.
+5249703 5252581 And you do have a lot to talk about, haven't you?
+5255209 5256835 You were captured near...
+5257211 5258254 ...Fort Craig?
+5263092 5265844 If you were with Sibley, then you were...
+5266762 5268472 ...coming from Santa Fe?
+5281068 5282945 Was it hard crossing the desert?
+5283779 5284822 Very hard!
+5286699 5289285 Especially if you don't have anything to drink.
+5291996 5294915 Why are you going under the name of Bill Carson, now?
+5300629 5302923 One name is as good as another.
+5303382 5305384 Not wise to use your own name.
+5306427 5309805 Like you, I bet they don't call you Angel Eyes.
+5310889 5312766 Sergeant Angel Eyes.
+5321817 5324111 Like a little music with your meal, Tuco?
+5324945 5325946 Music?
+5326530 5329575 Yes, very good for the digestion.
+5345132 5347217 Bill Carson's a fake name, huh?
+5353265 5354808 That fake, too'?
+5356560 5359021 Bill Carson's name is written on it.
+5360731 5362066 Have some.
+5362900 5364943 It's Bill Carson's tobacco.
+5448861 5451655 Was Carson dead or alive when you found him?
+5458120 5460247 What'd he tell you about the money?
+5464293 5466545 I don't know what you're talking about!
+5484521 5486315 More feeling.
+5504583 5507878 You can sure consider yourself<br />much luckier than your pal.
+5508337 5511298 Wallace will punch your friend<br />as long as the song goes.
+5511340 5514092 So many of us have had a session in there.
+5535656 5537658 How's your digestion now?
+5541662 5543205 You'd better talk.
+5543497 5545707 I have nothing to tell you!
+5573443 5575070 Play that fiddle, you!
+5619740 5621783 I'll talk!
+5631668 5633920 What did he say about the money?
+5638800 5640427 It's buried in a grave.
+5641595 5642679 Where?
+5645724 5647643 At the Sad Hill Cemetery.
+5649936 5651688 Which grave'?
+5651980 5653523 I don't know!
+5657486 5658820 Blondie...
+5661740 5664284 ...he knows the name of the grave.
+5680759 5682386 The war's over for you.
+5686139 5687766 Put those clothes on.
+5692229 5693647 Why?
+5693980 5695941 We're going for a ride.
+5696983 5697776 Where?
+5698110 5700445 To find $200,000.
+5701488 5703740 I know the name of the cemetery now...
+5704574 5706952 ...and you know the name of the grave.
+5727013 5729975 You're not going to give me the same treatment?
+5733729 5735063 Would you talk?
+5736440 5738525 No, probably not.
+5740068 5741695 That's what I thought.
+5742612 5744406 Not that you are any tougher than Tuco...
+5744865 5747909 ...but you're smart enough to know<br />that talking won't save you.
+5751955 5754875 And Tuco, is he?
+5757210 5759254 No, not yet...
+5760547 5762507 ...but he's in very good hands.
+5764050 5767012 You changed partners,<br />but you still got the same deal.
+5767345 5769931 I'm not greedy. I'm only taking half.
+5771349 5772684 There's two of us.
+5773059 5775562 It should make it easier than just one.
+5801505 5803715 Hold it. That's it.
+5804257 5805383 Don't move.
+5806384 5807844 Don't breathe.
+5811556 5813266 Got it. Thank you.
+5829407 5832786 Hey, Corporal, afraid he'll get lost'?<br />Where's the Rebel going?
+5833078 5835747 To hell with a rope around his neck<br />and a price on his head.
+5835789 5838291 Yeah, $3,000, friend.
+5838834 5840919 That's a lot of money for a head.
+5842128 5845006 I bet they didn't even pay you a penny for your arm.
+5851304 5854391 I told you once, but if I ever get you down...
+5854933 5857394 ...you're gonna need a lot of help to get up again.
+5877706 5879916 You're a lot luckier than that one there.
+5880000 5882586 You get some proper rope, and you're all finished.
+5882669 5885672 And there isn't any partner, this time,<br />to shoot you down.
+5910363 5911573 Get up!
+5997951 6000453 Sure would like to put your paw on it, huh?
+6002747 6004708 I would like to piss, it's rough.
+6004916 6007502 I've been shaken up in this train<br />nearly ten hours now.
+6007544 6009629 You smell like a pig already!
+6010463 6012966 Let's try not to make things any worse.
+6015385 6016803 Get goin'
+6025979 6028773 I can't while you're watching me.
+6052005 6054799 You made a lot of noise my friend, huh?
+6075695 6077655 You don't wanna break our friendship, huh?
+6077697 6079240 Well, I'll break it!
+6221674 6223760 Clemens, take care of the horses.
+6480266 6482894 I've been looking for you for eight months!
+6483936 6486814 Whenever I should have had a gun in my right hand...
+6487064 6488274 ...I thought of you!
+6488608 6491777 Now I find you in exactly the position that suits me.
+6492612 6496532 I had lots of time to learn<br />how to shoot with my left.
+6512381 6514675 When you have to shoot, shoot! Don't talk.
+6518554 6521182 Every gun makes its own tune...
+6521724 6523976 ...and it's perfect timing, large one.
+6542453 6544705 Clem, follow him.
+6601721 6604056 Just a minute. I'll be right there.
+6604849 6607935 Just give me a little time to get dressed,<br />and I'll open up.
+6628831 6631542 Put your drawers on, and take your gun off.
+6644680 6647391 How the hell did you get out of that pigsty?
+6648851 6652730 My own way. I'm here with your old friend Angel Eyes.
+6653814 6656692 You talked, you traitor! You talked!
+6657652 6659278 No, I didn't talk.
+6659862 6662531 If I did, I probably wouldn't be here, now.
+6666744 6669080 So, only you know your half of the secret?
+6676337 6678589 I'm very happy you are working with me!
+6678881 6680341 And we're together again.
+6680841 6683177 I'll get dressed, I kill him, and be right back.
+6683260 6685888 Listen, I forgot to mention.
+6688724 6691310 He's not alone. There's five of 'em.
+6693771 6695981 - Five?<br />- Yeah, five of 'em.
+6699318 6701570 So, that's why you came to Tuco.
+6705157 6707743 It doesn't matter. I'll kill them all!
+6719505 6721465 They shot him at close range.
+6741193 6742862 Well, look who's here!
+6743446 6745156 The other one will be along.
+6748075 6750035 They'll come looking for us.
+6751662 6752997 Watch out!
+6754248 6755875 There's two of them.
+6757251 6759420 I want that blond alive!
+6768179 6771307 You back there. Come on, let's go!
+6805633 6807760 Were you going to die alone?
+6946148 6947608 Angel Eyes is mine.
+6948108 6949360 All right.
+6989024 6990943 "See you soon."
+6993612 6994571 "Idiots."
+6996407 6997616 It's for you.
+7022683 7024852 How peaceful and quiet, amigo.
+7025769 7028022 Like a cemetery, for instance?
+7029523 7031817 There should be a bridge across that river.
+7032609 7034153 We better wait for nightfall.
+7034194 7035863 Trust in me, Blondie.
+7039199 7041076 I got a good sense of where I'm going.
+7041160 7044079 Tuco has taken you this far,<br />I will take you all the way...
+7050210 7051962 - Tell the captain.<br />- Yes, sir.
+7053338 7055799 Come along now. Follow me.
+7102429 7104890 We found them near the perimeter, sir.
+7119446 7121281 Where do you hail from?
+7121824 7123158 Illinois.
+7125619 7126912 And you?
+7128288 7135586 I'm with him.
+7135587 7137673 Your reason for being around here?
+7138799 7141260 We want to enlist, general!
+7144263 7146431 You'd better learn to distinguish rank.
+7146807 7148183 I'm a captain!
+7150144 7151562 Get the hell out!
+7153438 7156650 It sure as hell might be you today,<br />so go write your will.
+7163031 7164992 So, you want to enlist.
+7166160 7168287 You got to take a test to prove it.
+7177880 7179339 Well, show me.
+7203280 7207492 You've got a career.<br />At the least, I'd say you'll make colonel!
+7207659 7209161 - Really?<br />- Sure!
+7210495 7212206 Like it says in the manual.
+7212706 7216960 You've got every qualification<br />to become expert in the use of weapons.
+7218337 7222049 This is the most potent weapon in war!
+7225302 7227429 The fighting spirit is in this bottle!
+7229765 7231350 Volunteers...
+7233477 7235437 You want to enlist?
+7236730 7237814 Then let's go.
+7242903 7245072 The shooting hasn't begun yet.
+7246281 7250160 Yes, because soon you can join<br />the gallant heroes of Branston Bridge.
+7252204 7255582 - We have two attacks a day.<br />- Two attacks a day?
+7255916 7256875 Sure.
+7257042 7260963 The Reb's have decided that damn bridge<br />is the key to this whole area.
+7262756 7264925 Stupid, useless bridge.
+7265676 7268220 A flyspeck on headquarters' maps.
+7270055 7274685 And headquarters has declared that<br />we must take that ridiculous flyspeck...
+7276436 7278230 ...even if all of us are killed.
+7278647 7282734 Otherwise, the key'll get rusty<br />and just be a spot on the wall.
+7284403 7285737 And that's not all.
+7286405 7288782 Both sides want the bridge intact!
+7289074 7293078 Intact is how the South wants it.<br />And we want it intact, too.
+7296206 7299876 You'll all turn to dust,<br />but one thing is sure, boys...
+7300794 7303630 ...Branston Bridge will stand unbroken.
+7305007 7306091 Is it bad...
+7306466 7308885 ...to speak the way I do to volunteers?
+7310345 7312264 I've done a lot worse.
+7316852 7318895 I've done it. I've blown it up...
+7321481 7324735 ...in here. I've destroyed it all.
+7325610 7328989 It's a court-martial offense to imagine--<br />to dream of blowing it up.
+7329031 7330741 A serious crime.
+7331116 7334786 Even to think of destroying that bridge is just...
+7338123 7340417 Why not really blow it up, captain?
+7341960 7345380 Yeah, captain, it's nothing.<br />Let's scare the hell out of them!
+7348800 7350927 I've been dreaming about it.
+7354598 7356641 I've even worked out a plan.
+7358268 7359811 I sure have!
+7360896 7363690 The best time is after the attack...
+7364191 7366943 ...when there's a truce to get the wounded.
+7368111 7369321 If I could do it...
+7370280 7372324 ...I could save many thousands of men.
+7378413 7380332 But what I lack is the guts.
+7386546 7389466 They're beginning the daily slaughter, right on time.
+7389841 7392552 Captain! All companies are awaiting your orders.
+7393345 7394930 I'll be right there.
+7410695 7411988 All right, friends...
+7412614 7414783 ...come along and enjoy the spectacle.
+7446231 7447274 Companies!
+7447691 7448733 Report!
+7449025 7451236 <i>(Company B, read)”</i>
+7488356 7491943 It looks like the captain is really asking<br />for a bullet in his guts!
+7545789 7549084 I've never seen so many men wasted so badly.
+7569688 7573233 I've a feeling it's really gonna be<br />a good long battle.
+7579698 7582075 The money is on the other side of the river.
+7583743 7584703 Where?
+7587539 7590542 Amigo, I said on the other side. That's enough.
+7591626 7594671 But while the Confederates are there,<br />we can't get across.
+7596381 7600385 What would happen<br />if somebody were to blow up that bridge?
+7604014 7606725 Then these idiots would go somewhere else to fight!
+7607559 7608685 Maybe.
+7646806 7649601 Doctor, quick! The captain's wounded!
+7652103 7653897 Hurry, a stretcher!
+7656274 7657942 Easy, now.
+7668828 7670455 Get things ready.
+7691476 7692977 A little of this will help.
+7699901 7701820 Take a slug of this, captain...
+7702362 7704364 ...and keep your ears open.
+7753163 7754247 What're you doing?
+7856975 7859853 You realize we might be risking our lives?
+7861396 7865358 If I get killed, you'll never get your hands<br />on all that beautiful money.
+7868570 7870488 It sure would be a pity.
+7906316 7908443 Can you help me live a little more?
+7909152 7910904 I expect good news.
+7924208 7927045 Why don't we tell each other our half of the secret?
+7927545 7929505 Why don't we?
+7931049 7932342 You go first.
+7934677 7937180 No, I think it's better that...
+7939641 7940975 ...you start.
+7945229 7946230 All right.
+7949025 7951402 The name of the cemetery is...
+7969295 7971422 ...Sad Hill! Now it's your turn!
+7979764 7981557 The name on the grave is...
+7986270 7987605 ...Arch Stanton.
+7989857 7990942 Arch Stanton?
+7991651 7992944 Are you sure'?
+7994112 7995780 Sure, I'm sure.
+8701110 8703153 It'd be a lot easier with that.
+8743736 8745946 Two can dig a lot quicker than one.
+8746613 8747698 Dig!
+8750826 8752453 You're not digging?
+8764715 8767426 If you shoot me, you won't see a cent of that money.
+8770220 8771096 Why?
+8774224 8775601 I'll tell you why.
+8776810 8778479 'Cause there's nothin' in there.
+8788906 8790657 You thought I'd trust you?
+8793911 8796288 $200,000 is a lot of money.
+8797956 8799708 We're gonna have to earn it.
+8803462 8804171 How?
+8816016 8818560 I'll write the name on the bottom of this stone.
+8822731 8823690 The gun?
+9190473 9194561 You pig! You wanted to get me killed?<br />When'd you unload it?
+9196646 9197772 Last night.
+9199107 9202652 You see, in this world there's two kinds<br />of people, my friend...
+9203820 9207449 ...those with loaded guns, and those who dig.
+9208575 9209743 You dig.
+9210410 9211244 Where?
+9222505 9223506 Here.
+9228053 9229512 There's no name on it!
+9231181 9233099 There's no name here, either.
+9234935 9237646 You see, that's what Bill Carson told me:
+9237896 9241650 "There's a grave marked 'unknown',<br />right beside Arch Stanton."
+9249699 9250825 Go ahead.
+9308842 9311386 It's money! It's all ours, Blondie!
+9328528 9332991 You're joking, Blondie. You wouldn't...<br />you wouldn't play a joke on me like that.
+9333867 9335869 It's no joke. It's a rope, Tuco.
+9337120 9340290 I want you to stand up there,<br />and put your head in that noose.
+9407690 9408858 Well, now...
+9409776 9412028 ...seems just like old times.
+9416366 9417867 Four for you...
+9424624 9425875 ...and four for me.
+9468710 9470003 Sorry, Tuco.
+9626618 9628578 Hey, Blondie...
+9630580 9633291 ...you know what you are?
+9637086 9639839 Just a dirty son of a...!
