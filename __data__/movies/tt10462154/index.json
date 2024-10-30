@@ -1,0 +1,28 @@
+{
+  "imdbId": "tt10462154",
+  "title": "The Most Precious of Cargoes",
+  "releaseDate": "2024-11-20T00:00:00.000Z",
+  "releaseYear": 2024,
+  "posterFileName": "poster.jpg",
+  "rated": "N/A",
+  "genres": [
+    "Animation",
+    "Drama"
+  ],
+  "directors": [
+    "Michel Hazanavicius"
+  ],
+  "writers": [
+    "Jean-Claude Grumberg",
+    "Michel Hazanavicius"
+  ],
+  "actors": [
+    "Jean-Louis Trintignant",
+    "Grégory Gadebois",
+    "Denis Podalydès"
+  ],
+  "runTime": 81,
+  "plot": "In war-torn times, a poor woodcutter and his wife live in a great forest. One day, the woman finds and rescues a baby girl, bringing irrevocable change to the lives of the couple, and those whose paths the child will cross.",
+  "subtitleIds": [],
+  "isAvailable": true
+}
