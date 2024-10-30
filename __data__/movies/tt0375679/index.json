@@ -1,0 +1,44 @@
+{
+  "imdbId": "tt0375679",
+  "title": "Crash",
+  "releaseDate": "2005-05-06T00:00:00.000Z",
+  "releaseYear": 2004,
+  "posterFileName": "poster.jpg",
+  "rated": "R",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "directors": [
+    "Paul Haggis"
+  ],
+  "writers": [
+    "Paul Haggis",
+    "Bobby Moresco"
+  ],
+  "actors": [
+    "Don Cheadle",
+    "Sandra Bullock",
+    "Thandiwe Newton"
+  ],
+  "runTime": 112,
+  "plot": "Los Angeles citizens with vastly separate lives collide in interweaving stories of race, loss and redemption.",
+  "subtitleIds": [
+    "348c064d",
+    "ccca7d01",
+    "13ce9a4",
+    "af203a62",
+    "7cb1a0b9",
+    "5584c42f",
+    "54cb26a9",
+    "b75d2292",
+    "7cb1a0b9",
+    "ad2fdd32",
+    "5584c42f",
+    "8c7a1816",
+    "5401f1d5",
+    "cb6d492"
+  ],
+  "isAvailable": true
+}
