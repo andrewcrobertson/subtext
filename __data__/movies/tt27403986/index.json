@@ -1,0 +1,26 @@
+{
+  "imdbId": "tt27403986",
+  "title": "Juror #2",
+  "releaseDate": "2024-10-30T00:00:00.000Z",
+  "releaseYear": 2024,
+  "posterFileName": "poster.jpg",
+  "rated": "PG-13",
+  "genres": [
+    "Thriller"
+  ],
+  "directors": [
+    "Clint Eastwood"
+  ],
+  "writers": [
+    "Jonathan A. Abrams"
+  ],
+  "actors": [
+    "Zoey Deutch",
+    "Nicholas Hoult",
+    "Toni Collette"
+  ],
+  "runTime": 113,
+  "plot": "Family man Justin Kemp who, while serving as a juror in a high profile murder trial, finds himself struggling with a serious moral dilemma...one he could use to sway the jury verdict and potentially convict-or free-the wrong killer.",
+  "subtitleIds": [],
+  "isAvailable": true
+}
