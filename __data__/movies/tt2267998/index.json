@@ -1,0 +1,40 @@
+{
+  "imdbId": "tt2267998",
+  "title": "Gone Girl",
+  "releaseDate": "2014-10-03T00:00:00.000Z",
+  "releaseYear": 2014,
+  "posterFileName": "poster.jpg",
+  "rated": "R",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "directors": [
+    "David Fincher"
+  ],
+  "writers": [
+    "Gillian Flynn"
+  ],
+  "actors": [
+    "Ben Affleck",
+    "Rosamund Pike",
+    "Neil Patrick Harris"
+  ],
+  "runTime": 149,
+  "plot": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+  "subtitleIds": [
+    "f1dbf612",
+    "db11b18b",
+    "e74cd479",
+    "42243d39",
+    "1dc4cfe1",
+    "5d0d80a4",
+    "f67536fa",
+    "a06eebc4",
+    "bd275dc8",
+    "94c62c31",
+    "60bf86d"
+  ],
+  "isAvailable": true
+}
