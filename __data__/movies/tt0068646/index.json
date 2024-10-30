@@ -1,0 +1,40 @@
+{
+  "imdbId": "tt0068646",
+  "title": "The Godfather",
+  "releaseDate": "1972-03-24T00:00:00.000Z",
+  "releaseYear": 1972,
+  "posterFileName": "poster.jpg",
+  "rated": "R",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "directors": [
+    "Francis Ford Coppola"
+  ],
+  "writers": [
+    "Mario Puzo",
+    "Francis Ford Coppola"
+  ],
+  "actors": [
+    "Marlon Brando",
+    "Al Pacino",
+    "James Caan"
+  ],
+  "runTime": 175,
+  "plot": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+  "subtitleIds": [
+    "bf8309ac",
+    "3dbd8636",
+    "efc02536",
+    "e5b9aa71",
+    "960a392e",
+    "21d422e6",
+    "960a392e",
+    "4e82a9cf",
+    "9e800cd9",
+    "da393d1e",
+    "d7bc0d20"
+  ],
+  "isAvailable": true
+}
