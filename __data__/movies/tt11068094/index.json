@@ -1,0 +1,33 @@
+{
+  "imdbId": "tt11068094",
+  "title": "White Bird",
+  "releaseDate": "2024-10-04T00:00:00.000Z",
+  "releaseYear": 2023,
+  "posterFileName": "poster.jpg",
+  "rated": "PG-13",
+  "genres": [
+    "Adventure",
+    "Biography",
+    "Drama"
+  ],
+  "directors": [
+    "Marc Forster"
+  ],
+  "writers": [
+    "Mark Bomback",
+    "R.J. Palacio"
+  ],
+  "actors": [
+    "Ariella Glaser",
+    "Orlando Schwerdt",
+    "Gillian Anderson"
+  ],
+  "runTime": 121,
+  "plot": "Struggling to fit in at his new school after being expelled for his treatment of Auggie Pullman, Julian is visited by his grandmother and is transformed by the story of her attempts to escape Nazi-occupied France during World War II.",
+  "subtitleIds": [
+    "d06552f",
+    "bfe2e12d",
+    "4b8fd325"
+  ],
+  "isAvailable": true
+}
