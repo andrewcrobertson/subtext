@@ -1,0 +1,33 @@
+{
+  "imdbId": "tt23468836",
+  "title": "Touch",
+  "releaseDate": "2024-05-29T00:00:00.000Z",
+  "releaseYear": 2024,
+  "posterFileName": "poster.jpg",
+  "rated": "R",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "directors": [
+    "Baltasar Kormákur"
+  ],
+  "writers": [
+    "Olaf Olafsson",
+    "Baltasar Kormákur"
+  ],
+  "actors": [
+    "Egill Ólafsson",
+    "Kôki",
+    "Palmi Kormákur"
+  ],
+  "runTime": 121,
+  "plot": "A romantic and thrilling story that spans several decades and continents; Touch follows one man's emotional journey to find his first love who disappeared 50 years ago, before his time runs out.",
+  "subtitleIds": [
+    "6fd69563",
+    "4693459b",
+    "9fdc9524",
+    "5ad64454"
+  ],
+  "isAvailable": true
+}
