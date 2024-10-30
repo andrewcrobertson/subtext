@@ -1,5 +1,6 @@
 {
-  "extends": "../../tsconfig.json",
+  "extends": "@tsconfig/recommended/tsconfig.json",
+  "lib": ["es2022.error"],
   "compilerOptions": {
     "paths": {
       "$services/*": ["./src/services/*"],

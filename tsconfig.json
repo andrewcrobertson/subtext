@@ -3,7 +3,7 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "@get-subtext/automation.process.issue": ["packages.automation/process.issue/src"],
+      "@get-subtext/automation.process.request": ["packages.automation/process.request/src"],
       "app": ["packages/app/src"],
       "download": ["packages/download/src"],
       "movie-cli": ["packages/movieCli/src"]

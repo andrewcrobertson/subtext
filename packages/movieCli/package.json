@@ -19,6 +19,7 @@
     "pkgroll": "pkgroll --minify"
   },
   "dependencies": {
+    "@get-subtext/automation.process.request": "workspace:^",
     "@types/adm-zip": "^0.5.5",
     "@types/lodash": "^4.17.12",
     "@types/node": "^22.8.1",

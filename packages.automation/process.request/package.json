@@ -1,5 +1,5 @@
 {
-  "name": "@get-subtext/automation.process.issue",
+  "name": "@get-subtext/automation.process.request",
   "version": "1.0.0",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -26,10 +26,12 @@
   },
   "dependencies": {
     "@types/lodash-es": "^4.17.12",
+    "@types/node": "^22.8.1",
     "lodash-es": "^4.17.21",
     "yaml": "^2.6.0"
   },
   "devDependencies": {
+    "@tsconfig/recommended": "^1.0.7",
     "@types/jest": "^29.5.12",
     "jest": "^29.7.0",
     "npm-run-all": "^4.1.5",
