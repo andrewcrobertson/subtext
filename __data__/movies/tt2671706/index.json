@@ -1,0 +1,37 @@
+{
+  "imdbId": "tt2671706",
+  "title": "Fences",
+  "releaseDate": "2016-12-25T00:00:00.000Z",
+  "releaseYear": 2016,
+  "posterFileName": "poster.jpg",
+  "rated": "PG-13",
+  "genres": [
+    "Drama"
+  ],
+  "directors": [
+    "Denzel Washington"
+  ],
+  "writers": [
+    "August Wilson"
+  ],
+  "actors": [
+    "Denzel Washington",
+    "Viola Davis",
+    "Stephen McKinley Henderson"
+  ],
+  "runTime": 139,
+  "plot": "A working-class African-American father tries to raise his family in the 1950s, while coming to terms with the events of his life.",
+  "subtitleIds": [
+    "17ed39da",
+    "6c67165b",
+    "2b1c48d4",
+    "a14777ac",
+    "cae30f32",
+    "f4ad8906",
+    "6b6c28fa",
+    "f4ad8906",
+    "65646cf9",
+    "6d9bed63"
+  ],
+  "isAvailable": true
+}
