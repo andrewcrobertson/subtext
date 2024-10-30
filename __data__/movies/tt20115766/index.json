@@ -1,0 +1,43 @@
+{
+  "imdbId": "tt20115766",
+  "title": "Knox Goes Away",
+  "releaseDate": "2024-03-15T00:00:00.000Z",
+  "releaseYear": 2023,
+  "posterFileName": "poster.jpg",
+  "rated": "R",
+  "genres": [
+    "Crime",
+    "Thriller"
+  ],
+  "directors": [
+    "Michael Keaton"
+  ],
+  "writers": [
+    "Gregory Poirier"
+  ],
+  "actors": [
+    "Michael Keaton",
+    "Ray McKinnon",
+    "Cassie Moronez"
+  ],
+  "runTime": 114,
+  "plot": "When a contract killer has a rapidly evolving form of dementia, he is offered an opportunity to redeem himself by saving the life of his estranged adult son.",
+  "subtitleIds": [
+    "860124f3",
+    "3cdaf75",
+    "8cccc1eb",
+    "3ac12a38",
+    "219dc4c",
+    "3ac12a38",
+    "3ee39352",
+    "3ac12a38",
+    "98f24879",
+    "75afda68",
+    "98f24879",
+    "5b2e2f42",
+    "98f24879",
+    "d98f4a54",
+    "30ab45b"
+  ],
+  "isAvailable": true
+}
