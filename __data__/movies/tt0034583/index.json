@@ -1,0 +1,36 @@
+{
+  "imdbId": "tt0034583",
+  "title": "Casablanca",
+  "releaseDate": "1943-01-23T00:00:00.000Z",
+  "releaseYear": 1942,
+  "posterFileName": "poster.jpg",
+  "rated": "PG",
+  "genres": [
+    "Drama",
+    "Romance",
+    "War"
+  ],
+  "directors": [
+    "Michael Curtiz"
+  ],
+  "writers": [
+    "Julius J. Epstein",
+    "Howard Koch",
+    "Murray Burnett"
+  ],
+  "actors": [
+    "Humphrey Bogart",
+    "Ingrid Bergman",
+    "Paul Henreid"
+  ],
+  "runTime": 102,
+  "plot": "A cynical expatriate American cafe owner struggles to decide whether or not to help his former lover and her fugitive husband escape the Nazis in French Morocco.",
+  "subtitleIds": [
+    "c3ce89b9",
+    "1bdfd5c1",
+    "9f5f322e",
+    "c3f7f891",
+    "c5a5c8a7"
+  ],
+  "isAvailable": true
+}
