@@ -1,0 +1,30 @@
+{
+  "imdbId": "tt21097228",
+  "title": "A Different Man",
+  "releaseDate": "2024-10-04T00:00:00.000Z",
+  "releaseYear": 2024,
+  "posterFileName": "poster.jpg",
+  "rated": "R",
+  "genres": [
+    "Comedy",
+    "Thriller"
+  ],
+  "directors": [
+    "Aaron Schimberg"
+  ],
+  "writers": [
+    "Aaron Schimberg"
+  ],
+  "actors": [
+    "Sebastian Stan",
+    "Renate Reinsve",
+    "Adam Pearson"
+  ],
+  "runTime": 112,
+  "plot": "After undergoing facial-reconstructive surgery, Edward becomes fixated on an actor in a stage production based on his former life.",
+  "subtitleIds": [
+    "24f5a119",
+    "3345e291"
+  ],
+  "isAvailable": true
+}
