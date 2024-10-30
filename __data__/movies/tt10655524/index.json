@@ -1,0 +1,39 @@
+{
+  "imdbId": "tt10655524",
+  "title": "It Ends with Us",
+  "releaseDate": "2024-08-09T00:00:00.000Z",
+  "releaseYear": 2024,
+  "posterFileName": "poster.jpg",
+  "rated": "PG-13",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "directors": [
+    "Justin Baldoni"
+  ],
+  "writers": [
+    "Christy Hall",
+    "Colleen Hoover"
+  ],
+  "actors": [
+    "Blake Lively",
+    "Justin Baldoni",
+    "Jenny Slate"
+  ],
+  "runTime": 130,
+  "plot": "When a woman's first love suddenly reenters her life, her relationship with a charming, but abusive neurosurgeon is upended and she realizes she must learn to rely on her own strength to make an impossible choice for her future.",
+  "subtitleIds": [
+    "57a00078",
+    "a444b509",
+    "2195abbb",
+    "2195abbb",
+    "2195abbb",
+    "2195abbb",
+    "2195abbb",
+    "2195abbb",
+    "b42e6c15",
+    "37d550cc"
+  ],
+  "isAvailable": true
+}
