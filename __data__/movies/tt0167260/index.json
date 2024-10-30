@@ -1,0 +1,43 @@
+{
+  "imdbId": "tt0167260",
+  "title": "The Lord of the Rings: The Return of the King",
+  "releaseDate": "2003-12-17T00:00:00.000Z",
+  "releaseYear": 2003,
+  "posterFileName": "poster.jpg",
+  "rated": "PG-13",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "directors": [
+    "Peter Jackson"
+  ],
+  "writers": [
+    "J.R.R. Tolkien",
+    "Fran Walsh",
+    "Philippa Boyens"
+  ],
+  "actors": [
+    "Elijah Wood",
+    "Viggo Mortensen",
+    "Ian McKellen"
+  ],
+  "runTime": 201,
+  "plot": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+  "subtitleIds": [
+    "3cdb60ab",
+    "2478acf2",
+    "977d62d0",
+    "b1279f8",
+    "d1e462de",
+    "e5d56928",
+    "48fe132f",
+    "49ff09d8",
+    "2bec09c7",
+    "163c1cdd",
+    "d686d3ee",
+    "f58736e6"
+  ],
+  "isAvailable": true
+}

@@ -1,0 +1,1814 @@
+77272 78898 Sméagol!
+79065 80400 I've got one!
+82110 83945 I've got a fish, Sméag. Sméagol!
+84112 87240 Pull it in. Go on. Go on. Go on.<br />Pull it in.
+95456 97292 Déagol!
+154682 156517 Déagol?
+159145 161314 Déagol.
+177121 179207 Give us that, Déagol, my love.
+184170 185463 Why?
+186547 188800 Because...
+188966 192720 ...it's my birthday and I wants it.
+286773 292028 My precious.
+299577 302497 <i>They cursed us.</i>
+302663 304040 <i>Murderer.</i>
+304207 306667 <i>"Murderer" they called us.</i>
+306834 311631 <i>They cursed us<br />and drove us away.</i>
+312757 314467 Gollum.
+314634 316344 Gollum.
+316511 318346 Gollum.
+322016 325019 <i>And we wept, precious.</i>
+325186 328773 <i>We wept to be so alone.</i>
+331359 335154 <i>...And cool<br />So nice for feet</i>
+336155 340535 <i>And we only wish To catch a fish</i>
+340701 343955 <i>So juicy sweet</i>
+349710 353840 <i>And we forgot the taste of bread...</i>
+354006 357635 <i>...the sound of trees...</i>
+358511 361722 <i>...the softness of the wind.</i>
+362348 368020 <i>We even forgot our own name.</i>
+376153 382577 <i>My precious.</i>
+426829 429081 Wake up!
+430124 431792 Wake up!
+431959 433753 Wake up, sleepies.
+433920 435796 We must go, yes.
+435963 438633 We must go at once.
+442178 445264 Haven't you had any sleep, Mr. Frodo?
+447475 450019 I've gone and had too much.
+451395 453147 Must be getting late.
+453314 454815 No.
+454982 456901 It isn't.
+457068 460112 It isn't midday yet.
+460279 462365 The days are growing darker.
+467119 469330 Come on!
+471749 474001 Must go! No time!
+474168 476545 Not before Mr. Frodo's<br />had something to eat.
+476712 479590 No time to lose, silly.
+488349 489642 Here.
+492853 494689 What about you?
+494855 498234 Oh, no, I'm not hungry.<br />Leastways, not for lembas bread.
+498818 500194 Sam.
+502780 504323 All right.
+504490 506993 We don't have that much left.
+507159 510037 We have to be careful<br />or we're going to run out.
+512206 515126 You go ahead and eat that, Mr. Frodo.
+515292 516711 I've rationed it.
+517211 518879 There should be enough.
+521048 522258 For what?
+523926 525678 The journey home.
+533519 535855 Come, Hobbitses.
+537231 539108 Very close now.
+539275 542528 Very close to Mordor.
+542695 545364 No safe places here.
+545531 547700 Hurry.
+600086 601796 It's good.
+602713 604465 Definitely from the Shire.
+606675 608803 Longbottom Leaf.
+614141 618479 I feel like I'm back at<br />The Green Dragon.
+618729 622817 - Mmm. Green Dragon.<br />- A mug of ale in my hand.
+622983 627571 Putting my feet up on a settle<br />after a hard day's work.
+628155 631617 Only, you've never done<br />a hard day's work.
+644421 647466 Welcome, my lords...
+647633 649885 ...to Isengard!
+650261 654014 You young rascals!<br />A merry hunt you've led us on...
+654181 659186 ...and now we find you feasting<br />and... and smoking!
+659353 662565 We are sitting on a field of victory...
+662731 666193 ...enjoying a few well-earned comforts.
+667278 671115 The salted pork is particularly good.
+671657 674034 Salted pork?
+674743 678664 - Huh. Hobbits.<br />- We're under orders from Treebeard...
+678831 681667 ...who's taken over management<br />of Isengard.
+684211 687214 Young Master Gandalf.
+687381 691969 I'm glad you've come.
+692136 696557 Wood and water, stock and stone<br />I can master.
+696724 700394 But there is a wizard to manage here...
+700561 702563 ...locked in his tower.
+705232 706567 Show yourself.
+706817 708527 Be careful.
+709278 711947 Even in defeat,<br />Saruman is dangerous.
+712114 714200 Well, let's just have his head<br />and be done with it.
+714366 716452 No.
+716785 719121 We need him alive.
+720122 722666 We need him to talk.
+724543 728797 You have fought many wars<br />and slain many men, Théoden King...
+728964 730466 ...and made peace afterwards.
+730633 735554 Can we not take counsel together<br />as we once did, my old friend?
+735763 738974 Can we not have peace, you and I?
+739141 741018 We shall have peace.
+742978 745064 We shall have peace...
+745272 749318 ...when you answer<br />for the burning of the Westfold...
+749485 752196 ...and the children that lie dead there!
+752988 757159 We shall have peace<br />when the lives of the soldiers...
+757326 759370 ...whose bodies were hewn<br />even as they lay dead...
+759536 763082 ...against the gates of the Hornburg,<br />are avenged!
+764667 770214 When you hang from a gibbet<br />for the sport of your own crows...
+771173 773384 ...we shall have peace.
+776178 778847 Gibbets and crows?
+779181 780432 Dotard!
+781892 784728 What do you want, Gandalf Greyhame?
+785729 788232 Let me guess.<br />The Key of Orthanc.
+788399 791360 Or perhaps the Keys<br />of Barad-dûr itself...
+791527 795531 ...along with the crowns of the seven<br />kings and the rods of the Five Wizards!
+795698 798617 Your treachery has already cost<br />many lives.
+798826 801203 Thousands more are now at risk.
+801370 803706 But you could save them, Saruman.
+803872 806208 You were deep in the enemy's counsel.
+806375 809628 So you have come here for information.
+810546 812381 I have some for you.
+817845 820764 Something festers<br />in the heart of Middle-earth.
+820931 823225 Something that you have failed to see.
+825728 829231 But the Great Eye has seen it.
+830232 833944 Even now he presses his advantage.
+835738 839074 His attack will come soon.
+841243 843412 You're all going to die.
+845914 849126 But you know this, don't you, Gandalf?
+849293 853922 You cannot think that this Ranger<br />will ever sit upon the throne of Gondor.
+854089 860179 This exile, crept from the shadows,<br />will never be crowned king.
+861513 865184 Gandalf does not hesitate<br />to sacrifice those closest to him...
+866101 868312 ...those he professes to love.
+869396 873942 Tell me, what words of comfort<br />did you give the Halfling...
+874109 876487 ...before you sent him to his doom?
+879531 884286 The path that you have set him on<br />can only lead to death.
+884620 886789 I've heard enough!
+886955 888791 Shoot him.<br />Stick an arrow in his gob.
+889291 890959 No.
+891418 893629 Come down, Saruman...
+893796 897716 - ...and your life will be spared.<br />- Save your pity and your mercy.
+897925 899218 I have no use for it!
+908519 909978 Saruman...
+911021 912981 ...your staff is broken.
+924993 928497 Gríma, you need not follow him.
+929665 932334 You were not always as you are now.
+932501 935337 You were once a Man of Rohan.
+935504 936713 Come down.
+936880 939591 A Man of Rohan?
+940509 942761 What is the house of Rohan...
+942970 946598 ...but a thatched barn<br />where brigands drink in the reek...
+946765 950519 ...and their brats roll on the floor<br />with the dogs?
+951019 957484 The victory at Helm's Deep does not<br />belong to you, Théoden Horse-master.
+958068 962698 You are a lesser son of greater sires.
+965033 966702 Gríma...
+967536 969413 ...come down.
+969746 971206 Be free of him.
+971373 975377 - Free? He will never be free.<br />- No.
+975711 978380 Get down, cur!
+980048 981383 Saruman!
+981550 984219 You were deep in the enemy's counsel.
+984720 986889 Tell us what you know!
+988390 993604 You withdraw your guard, and I will tell<br />you where your doom will be decided.
+993770 996732 I will not be held prisoner here.
+1024510 1026053 Send word to all our allies...
+1026220 1029097 ...and to every corner of Middle-earth<br />that still stands free.
+1029598 1032768 The enemy moves against us.<br />We need to know where he will strike.
+1051954 1055874 The filth of Saruman...
+1056083 1059878 ...is washing away.
+1060087 1064633 Trees will come back to live here.
+1065133 1067302 Young trees.
+1067469 1069638 - Wild trees.<br />- Pippin!
+1079147 1081316 Bless my bark!
+1081483 1083318 Peregrin Took!
+1083485 1086154 I'll take that, my lad.
+1086321 1088156 Quickly, now.
+1138373 1143920 Tonight we remember those who<br />gave their blood to defend this country.
+1144588 1146632 Hail the victorious dead.
+1146798 1148216 Hail!
+1159227 1161104 No pauses.
+1161271 1165442 - No spills.<br />- And no regurgitation.
+1165942 1167611 So it's a drinking game?
+1169279 1171782 Last one standing wins.
+1176119 1178288 What'll we drink to?<br />Let's drink to victory!
+1178455 1179790 To victory!
+1223792 1225460 I am happy for you.
+1225794 1228255 He is an honorable man.
+1228630 1231133 You are both honorable men.
+1232968 1238306 It was not Théoden of Rohan<br />who led our people to victory.
+1245188 1248316 Ah, don't listen to me.
+1249151 1250652 You are young.
+1250819 1253155 And tonight is for you.
+1267502 1269171 Here, here.
+1270672 1276553 It's the Dwarves that go swimming<br />with little, hairy women.
+1281933 1283185 I feel something.
+1285353 1287856 A slight tingle in my fingers.
+1288523 1290108 I think it's affecting me.
+1292027 1293737 What did I say?
+1293904 1297240 He can't hold his liquor.
+1304581 1305916 Game over.
+1306082 1308460 <i>Oh, you can search far and wide</i>
+1308627 1310086 <i>You can drink the whole town dry</i>
+1310253 1313632 <i>But you'll never find a beer so brown<br />But you'll never find a beer so brown</i>
+1313840 1318220 <i>As the one we drink in our hometown<br />As the one we drink in our hometown</i>
+1318386 1322265 <i>You can drink your fancy ales<br />You can drink 'em by the flagon</i>
+1322432 1325602 <i>But the only brew for the brave and true</i>
+1328230 1329564 Pippin!
+1329981 1333068 <i>But the<br />only brew for the brave and true</i>
+1333401 1335445 <i>Comes from The Green Dragon</i>
+1338782 1341618 Thank you! I win!
+1343411 1345914 No news of Frodo?
+1346081 1349584 No word. Nothing.
+1350418 1352587 We have time.
+1354089 1357384 Every day,<br />Frodo moves closer to Mordor.
+1358093 1360178 Do we know that?
+1364015 1365767 What does your heart tell you?
+1372774 1376111 That Frodo is alive.
+1378280 1380115 Yes.
+1382659 1384661 Yes, he's alive.
+1387122 1389958 Too risky. Too risky.
+1390125 1391334 Thieves.
+1391501 1393545 They stole it from us.
+1393712 1396798 Kill them. Kill them.<br />Kill them both.
+1398550 1402137 Shh! Quiet! Mustn't wake them.
+1402304 1404806 Mustn't ruin it now.
+1404973 1407058 But they knows.
+1407225 1409144 They knows.
+1409311 1411938 They suspects us.
+1413148 1416651 What's it saying,<br />my precious, my love?
+1416818 1420447 Is Sméagol losing his nerve?
+1421072 1423491 No. Not.
+1423658 1427871 Never. Sméagol hates nasty Hobbitses.
+1428038 1432876 Sméagol wants to see them dead.
+1433043 1435587 And we will.
+1435754 1439841 Sméagol did it once.<br />He can do it again.
+1443178 1445847 It's ours!
+1446014 1448683 Ours!
+1449768 1452687 We must get the precious.<br />We must get it back.
+1452854 1456232 Patience! Patience, my love.
+1456399 1460779 First we must lead them to her.
+1461696 1466701 We lead them to the Winding Stair.
+1466868 1469537 Yes, the stairs. And then?
+1469704 1472707 Up, up, up, up,<br />up the stairs we go...
+1472874 1479255 ...until we come to the tunnel.
+1479631 1482759 And when they go in...
+1482926 1485720 ...there's no coming out.
+1486638 1489557 She's always hungry.
+1490266 1494479 She always needs to feed.
+1494646 1496064 She must eat.
+1496231 1498400 All she gets is filthy Orcses.
+1498566 1501277 And they doesn't taste very nice,<br />does they, precious?
+1501903 1503571 No.
+1503738 1508410 Not very nice at all, my love.
+1508576 1511413 She hungers for sweeter meats.
+1511579 1513415 Hobbit meat.
+1513581 1518420 And when she throws away the bones<br />and the empty clothes...
+1518586 1521631 ...then we will find it.
+1521798 1526136 And take it for me!
+1527929 1529305 For us.
+1529806 1532809 Yes. We meant "for us."
+1532976 1536438 Gollum. Gollum.
+1536604 1541109 The precious will be ours...
+1541276 1545780 ...once the Hobbitses are dead!
+1546281 1547782 You treacherous little toad!
+1550452 1552787 No! No! Master!
+1552954 1554581 No, Sam! Leave him alone!
+1555457 1558126 I heard it from his own mouth.<br />He means to murder us.
+1558293 1562464 Never! Sméagol wouldn't hurt a fly.
+1564466 1566509 He's a horrid, fat Hobbit...
+1566676 1568303 ...who hates Sméagol...
+1568470 1571222 ...and who makes up nasty lies.
+1571389 1574100 You miserable little maggot!<br />I'll stove your head in!
+1574476 1575727 Sam!
+1576144 1577687 Call me a liar?<br />You're a liar!
+1579355 1583318 - You scare him off, we're lost!<br />- I don't care! I can't do it, Mr. Frodo.
+1583485 1586654 - I won't wait around for him to kill us!<br />- I'm not sending him away.
+1586988 1588323 You don't see it, do you?
+1588698 1590158 He's a villain.
+1591159 1594746 We can't do this by ourselves, Sam.<br />Not without a guide.
+1595622 1598500 I need you on my side.
+1599250 1601628 I'm on your side, Mr. Frodo.
+1603129 1606049 I know, Sam. I know.
+1606633 1608593 Trust me.
+1608760 1611179 Come, Sméagol.
+1679080 1680582 What time is it?
+1682917 1684419 Not yet dawn.
+1691301 1694345 I dreamed I saw a great wave...
+1694512 1698516 ...climbing over green lands<br />and above the hills.
+1699767 1702270 I stood upon the brink.
+1703146 1706316 It was utterly dark in the abyss<br />before my feet.
+1708276 1711029 A light shone behind me...
+1711654 1714115 ...but I could not turn.
+1714282 1717660 I could only stand there, waiting.
+1719120 1721831 Night changes many thoughts.
+1722248 1724375 Sleep, Éowyn.
+1724959 1727170 Sleep...
+1729881 1731799 ...while you can.
+1755907 1758201 The stars are veiled.
+1759202 1762705 Something stirs in the east.
+1763373 1766501 A sleepless malice.
+1768586 1771381 The Eye of the enemy is moving.
+1784811 1787522 What are you doing?
+1792151 1793611 Pippin!
+1801119 1802870 Pippin?
+1815717 1817051 Pippin.
+1817719 1820388 - What, are you mad?<br />- I just want to look at it.
+1820555 1821639 Just one more time.
+1821889 1823975 Put it back.
+1834235 1836070 Pippin.
+1842577 1844078 No!
+1849208 1850501 Pippin.
+1853796 1855006 He is here.
+1855173 1857467 <i>I see you.</i>
+1860470 1862096 Pippin!
+1876736 1879489 Help! Gandalf, help!
+1881240 1883117 Someone help him!
+1889499 1890708 Pippin!
+1891834 1893086 Fool of a Took!
+1914190 1916401 Look at me.
+1918361 1922490 Gandalf, forgive me.
+1922657 1924534 Look at me.
+1924700 1926536 What did you see?
+1930039 1932125 A tree.
+1933084 1934961 There was a white tree...
+1935128 1936629 ...in a courtyard of stone.
+1939424 1940716 It was dead.
+1944887 1946722 The city was burning.
+1946889 1950268 Minas Tirith?<br />Is that what you saw?
+1950935 1952979 I saw...
+1956357 1957733 I saw him.
+1960736 1962989 I could hear his voice in my head.
+1963156 1965575 And what did you tell him?
+1965741 1967577 Speak!
+1971747 1974917 He asked me my name.<br />I didn't answer.
+1975084 1976544 He hurt me.
+1976711 1979172 What did you tell him<br />about Frodo and the Ring?
+1982675 1985136 There was no lie in Pippin's eyes.
+1985970 1988222 A fool...
+1988389 1990683 ...but an honest fool he remains.
+1991142 1994687 He told Sauron nothing<br />of Frodo and the Ring.
+1995730 1998107 We've been strangely fortunate.
+1998274 2002153 Pippin saw in the palantír<br />a glimpse of the enemy's plan.
+2003070 2007033 Sauron moves to strike<br />the city of Minas Tirith.
+2007617 2011370 His defeat at Helm's Deep<br />showed our enemy one thing.
+2011537 2013873 He knows the heir of Elendil<br />has come forth.
+2014040 2016167 Men are not as weak as he supposed.
+2016334 2020129 There is courage still, strength<br />enough perhaps to challenge him.
+2020338 2022215 Sauron fears this.
+2022381 2026719 He will not risk the peoples of<br />Middle-earth uniting under one banner.
+2027887 2030306 He will raze Minas Tirith<br />to the ground...
+2030473 2033976 ...before he sees a king<br />return to the throne of Men.
+2034143 2038064 If the beacons of Gondor are lit,<br />Rohan must be ready for war.
+2038981 2041192 Tell me...
+2041359 2045154 ...why should we ride to the aid<br />of those who did not come to ours?
+2049033 2050868 What do we owe Gondor?
+2051994 2054038 - I will go.<br />- No!
+2054205 2057375 - They must be warned.<br />- They will be.
+2060795 2063339 You must come to Minas Tirith<br />by another road.
+2063881 2068344 Follow the river.<br />Look to the black ships.
+2069303 2071264 Understand this:
+2071430 2075101 Things are now in motion<br />that cannot be undone.
+2076602 2078688 I ride for Minas Tirith...
+2080940 2083609 ...and I won't be going alone.
+2085361 2089031 Of all the inquisitive Hobbits,<br />Peregrin Took, you are the worst.
+2090032 2091701 Hurry! Hurry!
+2093202 2094620 Where are we going?
+2094787 2096038 Why did you look?
+2096205 2098958 Why do you always have to look?
+2099125 2102211 - I don't know. I can't help it.<br />- You never can.
+2102670 2104088 I'm sorry, all right?
+2106173 2109093 - I won't do it again.<br />- Don't you understand?
+2109844 2111804 The enemy thinks you have the Ring.
+2111971 2115725 He's going to be looking for you, Pip.<br />They have to get you out of here.
+2117143 2119812 And you...?<br />You're coming with me?
+2122023 2123441 Merry?
+2123608 2124900 Come on.
+2130406 2131782 How far is Minas Tirith?
+2131949 2134577 Three days' ride,<br />as the Nazgûl flies.
+2134744 2138247 And you better hope we don't have<br />one of those on our tail.
+2138956 2140458 Here.
+2140625 2142418 Something for the road.
+2143294 2145254 The last of the Longbottom Leaf.
+2145421 2149425 I know you've run out.<br />You smoke too much, Pippin.
+2149592 2152094 But...<br />But we'll see each other soon.
+2155431 2157933 - Won't we?<br />- I don't know.
+2159810 2161979 I don't know what's going to happen.
+2162146 2163856 - Merry.<br />- Run, Shadowfax.
+2164023 2165483 Show us the meaning of haste.
+2165650 2167568 Merry!
+2178037 2179163 Merry!
+2189632 2191133 He's always followed me...
+2191801 2193844 ...everywhere I went...
+2194178 2195971 ...since before we were tweens.
+2197139 2201060 I would get him into<br />the worst sort of trouble...
+2201227 2203312 ...but I was always there to get him out.
+2205773 2207650 Now he's gone.
+2209318 2212238 Just like Frodo and Sam.
+2212863 2215616 One thing I have learned about Hobbits:
+2215783 2217451 They're a most hardy folk.
+2217993 2221706 Foolhardy, maybe. He's a Took.
+2236178 2238472 <i>Take her by the safest road.</i>
+2238639 2241142 <i>A ship lies anchored<br />in the Grey Havens.</i>
+2241308 2245187 <i>It waits to carry her across the sea.</i>
+2245354 2248733 <i>The last journey of Arwen Undómiel.</i>
+2314340 2317426 There is nothing for you here...
+2317927 2320137 ...only death.
+2327436 2328729 Lady Arwen...
+2329647 2331565 ...we cannot delay.
+2334026 2335277 My lady!
+2354672 2357299 - Tell me what you have seen.<br />- Arwen.
+2357466 2359426 You have the gift of foresight.
+2359593 2361387 What did you see?
+2362012 2365349 I looked into your future,<br />and I saw death.
+2365891 2368018 But there is also life.
+2369937 2373983 You saw there was a child.<br />You saw my son.
+2374608 2377152 That future is almost gone.
+2377319 2379321 But it is not lost.
+2381907 2384118 Nothing is certain.
+2385828 2388539 Some things are certain.
+2392334 2395170 If I leave him now...
+2395337 2397965 ...I will regret it forever.
+2399049 2401385 It is time.
+2406640 2410436 <i>From the ashes a fire shall be woken</i>
+2410603 2414023 <i>A light from the shadow shall spring</i>
+2414189 2417484 <i>Renewed shall be blade that was broken</i>
+2424867 2428078 <i>The crownless again shall be king</i>
+2431832 2433876 Re-forge the sword.
+2468744 2471455 Your hands are cold.
+2474833 2477962 The life of the Eldar is leaving you.
+2481382 2483300 This was my choice.
+2485135 2487429 Whether by your will or not...
+2488764 2493060 ...there is no ship now<br />that can bear me hence.
+2540274 2543110 We've just passed<br />into the realm of Gondor.
+2554747 2556999 Minas Tirith.
+2557583 2559918 City of kings.
+2591283 2593077 Make way!
+2622272 2624108 It's the tree.
+2624274 2625943 Gandalf. Gandalf.
+2626110 2628362 Yes, the White Tree of Gondor.
+2628529 2630364 The tree of the king.
+2630531 2633200 Lord Denethor, however,<br />is not king.
+2633367 2636036 He is a steward only,<br />a caretaker of the throne.
+2636787 2640332 Now listen carefully.<br />Lord Denethor is Boromir's father.
+2640874 2644670 To give him news of his beloved son's<br />death would be most unwise.
+2645129 2648590 And do not mention Frodo or the Ring.
+2649466 2652219 And say nothing of Aragorn either.
+2654054 2657933 In fact, it's better if you<br />don't speak at all, Peregrin Took.
+2688088 2694595 Hail Denethor, son of Ecthelion,<br />lord and steward of Gondor.
+2700100 2704813 I come with tidings in this dark hour,<br />and with counsel.
+2705772 2709151 Perhaps you come to explain this.
+2714781 2719328 Perhaps you come to tell me<br />why my son is dead.
+2733800 2736803 Boromir died to save us...
+2736970 2738639 ...my kinsman and me.
+2738805 2742309 - He fell defending us from many foes.<br />- Pippin.
+2747814 2751276 I offer you my service, such as it is...
+2751818 2753820 ...in payment of this debt.
+2755989 2759326 This is my first command to you.
+2760035 2763497 How did you escape<br />and my son did not...
+2763830 2766166 ...so mighty a man as he was?
+2766833 2770170 The mightiest man<br />may be slain by one arrow...
+2770420 2772339 ...and Boromir was pierced by many.
+2776468 2778178 Get up.
+2778345 2782975 My lord, there will be a time<br />to grieve for Boromir...
+2783433 2785185 ...but it is not now.
+2785894 2788105 War is coming.
+2788438 2792859 The enemy is on your doorstep.<br />As steward, you are charged...
+2793026 2797197 ...with the defense of this city.<br />Where are Gondor's armies?
+2797364 2802244 You still have friends.<br />You are not alone in this fight.
+2802411 2806915 Send word to Théoden of Rohan.<br />Light the beacons.
+2808500 2812045 You think you are wise, Mithrandir.
+2812212 2815257 Yet for all your subtleties,<br />you have not wisdom.
+2817384 2821555 Do you think the eyes<br />of the White Tower are blind?
+2821722 2824808 I have seen more than you know.
+2824975 2828186 With your left hand you would use me<br />as a shield against Mordor.
+2828353 2831231 And with your right<br />you'd seek to supplant me.
+2831398 2835110 I know who rides with Théoden of Rohan.
+2835277 2841241 Oh, yes. Word has reached my ears<br />of this Aragorn, son of Arathorn.
+2841408 2846246 And I tell you now, I will not bow<br />to this Ranger from the North...
+2846413 2850917 ...last of a ragged house<br />long bereft of lordship.
+2851084 2856923 Authority is not given to you<br />to deny the return of the king, steward.
+2857090 2861511 The rule of Gondor is mine<br />and no other's.
+2866683 2868477 Come.
+2876401 2878987 All has turned to vain ambition.
+2879154 2882616 He would even use his grief<br />as a cloak.
+2885494 2888288 A thousand years<br />this city has stood.
+2889373 2891792 Now, at the whim of a madman,<br />it will fall.
+2893001 2895212 And the White Tree,<br />the tree of the king...
+2895379 2896922 ...will never bloom again.
+2897089 2898799 Why are they still guarding it?
+2898965 2901009 They guard it because they have hope.
+2901176 2903804 A faint and fading hope<br />that one day it will flower.
+2903970 2908725 That a king will come<br />and this city will be as it once was...
+2908892 2911812 ...before it fell into decay.
+2911978 2915232 The old wisdom borne out<br />of the West was forsaken.
+2915399 2919694 Kings made tombs more splendid<br />than the houses of the living...
+2919903 2921822 ...and counted the old names<br />of their descent...
+2921988 2924783 ...dearer than the names of their sons.
+2924950 2929996 Childless lords sat in aged halls,<br />musing on heraldry...
+2930163 2935502 ...or in high, cold towers,<br />asking questions of the stars.
+2935669 2939464 And so the people of Gondor<br />fell into ruin.
+2940424 2942759 The line of kings failed.
+2943468 2945846 The White Tree withered.
+2946555 2950725 The rule of Gondor was given over<br />to lesser men.
+2961445 2962696 Mordor.
+2963196 2966867 Yes, there it lies.
+2967701 2971037 This city has dwelt ever<br />in the sight of its shadow.
+2973039 2974708 A storm is coming.
+2975375 2978295 This is not the weather of the world.
+2978462 2980672 This is a device of Sauron's making.
+2980839 2984593 A broil of fume<br />he sends ahead of his host.
+2985177 2987637 The Orcs of Mordor<br />have no love of daylight...
+2987804 2989639 ...so he covers the face of the sun...
+2989806 2993560 ...to ease their passage<br />along the road to war.
+2993727 2997022 When the Shadow of Mordor<br />reaches this city...
+2997731 2999441 ...it will begin.
+3001109 3002694 Well...
+3003069 3004404 ...Minas Tirith...
+3006323 3007699 ...very impressive.
+3007866 3010627 - So where are we off to next?<br />- Oh, it's too late for that, Peregrin.
+3010702 3012913 There's no leaving this city.
+3015248 3018376 Help must come to us.
+3019961 3022631 It must be getting near teatime.
+3022797 3026510 Leastways, it would be in decent places<br />where there is still teatime.
+3026676 3030263 We're not in decent places.
+3035810 3037062 Mr. Frodo?
+3040106 3041316 What is it?
+3043777 3046154 It's just a feeling.
+3048573 3050742 I don't think I'll be coming back.
+3055247 3057791 Yes, you will. Of course you will.
+3058416 3060293 That's just morbid thinking.
+3060752 3063213 We're going there and back again...
+3063380 3065674 ...just like Mr. Bilbo.
+3066633 3068760 You'll see.
+3076935 3080564 I think these lands were<br />once part of the kingdom of Gondor.
+3084943 3088989 Long ago, when there was a king.
+3109634 3112470 Mr. Frodo, look.
+3114097 3116850 The king has got a crown again.
+3127986 3132240 Come on, Hobbits!<br />Mustn't stop now. This way.
+3149090 3153136 So I imagine this is just<br />a ceremonial position.
+3153303 3157557 I mean, they don't actually expect me<br />to do any fighting.
+3158391 3161645 - Do they?<br />- You're in the service of the steward now.
+3161811 3165190 You'll have to do as you're told,<br />Peregrin Took.
+3169235 3171738 Ridiculous Hobbit.
+3172906 3175116 Guard of the Citadel.
+3184626 3186461 Thank you.
+3195845 3198098 There's no more stars.
+3198598 3199808 Is it time?
+3200975 3202727 Yes.
+3205355 3207023 It's so quiet.
+3208024 3212278 It's the deep breath before the plunge.
+3213446 3216324 I don't want to be in a battle...
+3217158 3222122 ...but waiting on the edge of one<br />I can't escape is even worse.
+3225667 3229295 Is there any hope, Gandalf,<br />for Frodo and Sam?
+3230630 3233758 There never was much hope.
+3235719 3237470 Just a fool's hope.
+3243351 3246146 Our enemy is ready.
+3246312 3248982 His full strength's gathered.
+3249149 3252652 Not only Orcs, but Men as well.
+3252819 3255864 <i>Legions of Haradrim from the south...</i>
+3256030 3258742 <i>...mercenaries from the coast.</i>
+3258908 3261494 <i>All will answer Mordor's call.</i>
+3261661 3263204 Come on.
+3264330 3267667 This will be the end of Gondor<br />as we know it.
+3267834 3271212 Here the hammer stroke will fall hardest.
+3272172 3276509 If the river is taken,<br />if the garrison at Osgiliath falls...
+3276676 3280346 ...the last defense of this city<br />will be gone.
+3280513 3284559 But we have the White Wizard.<br />That's got to count for something.
+3290440 3292025 Gandalf?
+3295737 3299407 <i>Sauron has yet to reveal<br />his deadliest servant...</i>
+3299866 3303703 <i>...the one who will lead<br />Mordor's armies in war.</i>
+3303870 3309042 <i>The one they say no living man can kill.</i>
+3310043 3312212 The Witch-king of Angmar.
+3313296 3315673 You've met him before.
+3316341 3318927 He stabbed Frodo on Weathertop.
+3325475 3328186 He is the lord of the Nazgûl...
+3328645 3331105 <i>...the greatest of the Nine.</i>
+3331272 3334818 <i>Minas Morgul is his lair.</i>
+3338363 3341908 The Dead City.
+3342075 3347288 Very nasty place.<br />Full of enemies.
+3354504 3356673 Quick. Quick.
+3356840 3360844 They will see. They will see.
+3370103 3375400 Come away. Come away.<br />Look, we have found it.
+3375567 3379445 The way into Mordor.
+3379612 3383950 The secret stair.
+3384367 3386744 Climb.
+3407015 3409767 - No, Mr. Frodo!<br />- Not that way!
+3414606 3417483 - What's it doing?<br />- No.
+3417650 3420737 - They're calling me.<br />- No.
+3450391 3453353 Hide! Hide!
+3496896 3499732 I can feel his blade.
+3511411 3513538 We come to it at last.
+3515373 3518251 The great battle of our time.
+3557415 3560668 Come away, Hobbits.<br />We climb. We must climb.
+3570553 3573556 The board is set.
+3573723 3576100 The pieces are moving.
+3578811 3581481 Up, up, up the stairs we go.
+3581647 3584317 And then it's into the tunnel.
+3584484 3587695 Hey, what's in this tunnel?
+3588237 3590990 You listen to me,<br />and you listen good and proper.
+3591157 3594077 Anything happens to him,<br />you have me to answer to.
+3594243 3595828 One sniff something's not right...
+3595995 3599165 ...one hair stands up<br />on the back of my head, it's over.
+3599373 3602043 No more slinker.<br />No more stinker.
+3602376 3605004 You're gone. Got it?
+3605880 3607882 I'm watching you.
+3613221 3615223 What was that about?
+3615389 3617809 Nothing. Just clearing something up.
+3624440 3627318 Peregrin Took, my lad,<br />there is a task now to be done.
+3627485 3632073 Another opportunity for one of the<br />Shire-folk to prove their great worth.
+3636911 3638496 You must not fail me.
+3672738 3675825 It's been very quiet across the river.
+3675992 3678327 The Orcs are lying low.
+3678494 3680496 The garrison may have moved out.
+3681622 3684333 We've sent scouts to Cair Andros.
+3684500 3686820 If the Orcs attack from the north,<br />we'll have some warning.
+3713112 3714322 Quiet.
+3718409 3720369 We need 10 more.
+3741682 3743226 Kill him!
+3760534 3762954 They're not coming from the north.
+3764372 3768709 - To the river. Quick. Quick.<br />- Go. Come on.
+3772171 3773756 Faster.
+3786894 3789272 Draw swords.
+3843826 3846412 Hold! Hold them!
+3926700 3928577 What?
+3941132 3942550 Amon Djn.
+3948347 3951392 The beacon.<br />The beacon of Amon Djn is lit.
+3954645 3958858 Hope is kindled.
+4051242 4055621 The beacons of Minas Tirith!<br />The beacons are lit!
+4056830 4058457 Gondor calls for aid.
+4068968 4071887 And Rohan will answer.
+4072304 4075099 Muster the Rohirrim.
+4090197 4092157 Assemble the army at Dunharrow.
+4092324 4096704 As many men as can be found.<br />You have two days.
+4096870 4102167 On the third,<br />we ride for Gondor and war.
+4102668 4104336 - Forward.<br />- Very good, sir.
+4104503 4105921 - Gamling.<br />- My lord.
+4106088 4107715 Make haste across the Riddermark.
+4107881 4110009 Summon every able-bodied man<br />to Dunharrow.
+4110175 4111760 I will.
+4115848 4119018 - Will you ride with us?<br />- Just to the encampment.
+4119184 4123105 It's tradition for the women<br />of the court to farewell the men.
+4129653 4131572 The men have found their captain.
+4131739 4135075 They will follow you into battle,<br />even to death.
+4135242 4136827 You have given us hope.
+4140039 4141999 Excuse me.
+4143334 4144835 I have a sword.
+4145127 4146503 Please accept it.
+4147630 4152134 I offer you my service, Théoden King.
+4155554 4157640 And gladly I accept it.
+4158724 4162811 You shall be Meriadoc,<br />esquire of Rohan.
+4167691 4168901 Horse-Men.
+4169568 4175199 I wish I could muster a legion of Dwarves,<br />fully armed and filthy.
+4175574 4178535 Your kinsmen may have no need<br />to ride to war.
+4178702 4182122 I fear war already marches<br />on their own lands.
+4200599 4204061 <i>So it is before the walls<br />of Minas Tirith...</i>
+4204228 4208107 <i>...the doom of our time will be decided.</i>
+4210693 4216240 Now is the hour.<br />Riders of Rohan, oaths you have taken.
+4216407 4220786 Now, fulfill them all.<br />To lord and land! Hyah!
+4263036 4264997 Faramir!
+4271295 4275007 We can't hold them. The city is lost.
+4275591 4278677 Tell the men to break cover.<br />We ride for Minas Tirith.
+4287436 4289688 Nazgûl.
+4292065 4294526 Take cover!
+4294693 4297237 Nazgûl!
+4297404 4301074 Fall back.<br />Fall back to Minas Tirith!
+4307664 4309541 Fall back!
+4316590 4321178 - Retreat! Retreat!<br />- Run for your lives!
+4345410 4349748 The age of Men is over.
+4349915 4355546 The time of the Orc has come.
+4357923 4360259 - Keep going.<br />- It's the Nazgûl.
+4361885 4364263 Take cover, my lord!
+4364555 4365889 It's coming!
+4371436 4374815 - It's Mithrandir.<br />- The White Rider!
+4414771 4416148 Pull!
+4433874 4436293 Mithrandir.
+4436460 4438211 They broke through our defenses.
+4438378 4440589 They've taken the bridge<br />and the west bank.
+4441673 4443675 Battalions of Orcs are crossing the river.
+4443842 4445844 It is as the Lord Denethor predicted.
+4446011 4450557 - Long has he foreseen this doom.<br />- Foreseen and done nothing.
+4453936 4456355 Faramir?
+4458273 4462110 This is not the first Halfling<br />to have crossed your path.
+4462277 4464488 No.
+4465822 4467366 You've seen Frodo and Sam?
+4468241 4471662 - Where? When?<br />- In Ithilien.
+4471828 4473914 Not two days ago.
+4474373 4478835 Gandalf, they're taking the road<br />to the Morgul Vale.
+4479544 4482172 And then the pass of Cirith Ungol.
+4484383 4486760 What does that mean?
+4486927 4491848 - What's wrong?<br />- Faramir, tell me everything.
+4492015 4494059 Tell me all you know.
+4495227 4498647 This is how you would serve your city?
+4498814 4502109 You would risk its utter ruin?
+4503151 4504736 I did what I judged to be right.
+4505445 4508448 What you judged to be right.
+4509074 4514955 You sent the Ring of Power into Mordor<br />in the hands of a witless Halfling.
+4518917 4523755 It should have been brought back<br />to the Citadel to be kept safe.
+4525382 4526925 Hidden.
+4527342 4530095 Dark and deep in the vaults...
+4530262 4532431 ...not to be used.
+4536601 4541481 Unless at the uttermost end of need.
+4541940 4543984 I would not use the Ring.
+4544151 4547237 Not if Minas Tirith were falling in ruin<br />and I alone could save her.
+4547571 4552409 Ever you desire to appear lordly<br />and gracious...
+4552576 4554828 ...as a king of old.
+4556621 4560375 Boromir would have remembered<br />his father's need.
+4560792 4563253 He would have brought me a kingly gift.
+4563462 4566006 Boromir would not<br />have brought the Ring.
+4566423 4569694 He would have stretched out his hand to<br />this thing & taken it. He would've fallen.
+4569718 4572518 - You know nothing of this matter!<br />- He would have kept it for his own.
+4573847 4576016 And when he returned...
+4577142 4578810 ...you would not have known your son.
+4578977 4581521 Boromir was loyal to me!
+4581688 4584274 Not some wizard's pupil!
+4592407 4593742 Father?
+4606421 4608340 My son.
+4634574 4635951 Leave me.
+4669526 4672070 Careful, master.<br />Careful.
+4672404 4675323 Very far to fall.
+4677826 4681746 Very dangerous are the stairs.
+4684416 4686960 Come, master.
+4692757 4695927 Come to Sméagol.
+4702267 4703768 Mr. Frodo.
+4704769 4706313 Get back, you!
+4706479 4708690 Don't touch him!
+4712819 4715655 Why does he hates poor Sméagol?
+4715822 4719534 What has Sméagol ever done to him?
+4719701 4721036 Master?
+4722871 4726333 Master carries heavy burden.
+4726499 4731922 Sméagol knows.<br />Heavy, heavy burden.
+4732088 4735342 Fat one cannot know.
+4737385 4740138 Sméagol look after master.
+4741348 4743558 He wants it.
+4743725 4748271 He needs it.<br />Sméagol sees it in his eye.
+4748438 4753902 Very soon he will ask you for it.<br />You will see.
+4754069 4757948 The fat one will take it from you.
+4765163 4769501 Send forth all legions.
+4769668 4773713 Do not stop the attack<br />until the city is taken.
+4774422 4777550 Slay them all.
+4779219 4785016 - What of the wizard?<br />- I will break him.
+4788353 4790772 Where are Théoden's riders?
+4790939 4793525 Will Rohan's army come?
+4793692 4795944 Mithrandir.
+4796987 4800865 Courage is the best defense<br />that you have now.
+4805662 4808373 What were you thinking, Peregrin Took?
+4810458 4816172 What service can a Hobbit<br />offer such a great lord of Men?
+4816339 4817841 It was well-done.
+4821011 4825056 A generous deed should not<br />be checked with cold counsel.
+4825807 4828351 You are to join the tower guard.
+4828893 4831896 I didn't think they would find any livery<br />that would fit me.
+4832063 4834524 Once belonged to a young boy<br />of the city.
+4834691 4836234 A very foolish one...
+4836401 4840655 ...who wasted many hours slaying dragons<br />instead of attending to his studies.
+4840822 4843575 - This was yours?<br />- Yes, it was mine.
+4843742 4845535 My father had it made for me.
+4846578 4847912 Well...
+4848079 4850081 ...I'm taller than you were then.
+4850248 4853585 Though I'm not likely to grow anymore,<br />except sideways.
+4856546 4858590 Never fitted me either.
+4858757 4861593 Boromir was always the soldier.
+4864596 4867015 They were so alike, he and my father.
+4869100 4870727 Proud.
+4870894 4872103 Stubborn even.
+4873855 4875357 But strong.
+4876858 4880028 I think you have strength<br />of a different kind.
+4880653 4883114 And one day your father will see it.
+4887285 4891081 Here do I swear fealty<br />and service to Gondor...
+4891247 4892749 ...in peace or war...
+4893375 4895835 ...in living or dying...
+4897212 4898463 ...from...
+4901132 4903927 From this hour henceforth...
+4904094 4906012 ...until my lord release me...
+4907514 4909724 ...or death take me.
+4910308 4912811 And I shall not forget it...
+4912977 4916356 ...nor fail to reward<br />that which is given.
+4923947 4926241 Fealty with love.
+4927325 4928993 Valor with honor.
+4930578 4933915 Disloyalty with vengeance.
+4942549 4946636 I do not think we should so lightly<br />abandon the outer defenses...
+4946803 4949556 ...defenses that your brother<br />long held intact.
+4949722 4952225 - What would you have me do?<br />- I will not yield...
+4952392 4955186 ...the river in Pelennor unfought.
+4955353 4957021 Osgiliath must be retaken.
+4957188 4959232 My lord, Osgiliath is overrun.
+4959899 4962694 Much must be risked in war.
+4965321 4969284 Is there a captain here who still has<br />the courage to do his lord's will?
+4975498 4978751 You wish now that our places<br />had been exchanged...
+4979711 4982547 ...that I had died<br />and Boromir had lived.
+4985967 4987719 Yes.
+4988386 4990597 I wish that.
+4998980 5001483 Since you were robbed<br />of Boromir...
+5003318 5006237 ...I will do what I can<br />in his stead.
+5014412 5018875 If I should return,<br />think better of me, Father.
+5020960 5024589 That will depend on the manner<br />of your return.
+5084023 5085858 Ugh.
+5107880 5110216 What are you up to?
+5110383 5111634 Sneaking off, are we?
+5112343 5114178 Sneaking?
+5115179 5117348 Sneaking?
+5118766 5121936 Fat Hobbit is always so polite.
+5122103 5127191 Sméagol shows them secret ways<br />that nobody else could find...
+5127358 5129527 ...and they say "sneak."
+5130153 5132739 Sneak?
+5133364 5136075 Very nice friend.<br />Oh, yes, my precious.
+5136242 5138870 - Very nice, very nice.<br />- All right. All right!
+5140121 5142332 You just startled me is all.
+5142832 5144667 What were you doing?
+5146294 5148421 Sneaking.
+5148796 5151883 Fine. Have it your own way.
+5154135 5156638 I'm sorry to wake you, Mr. Frodo.
+5157013 5158973 We have to be moving on.
+5164145 5165730 It's dark still.
+5165897 5168107 It's always dark here.
+5172362 5174280 It's gone!
+5175490 5178368 - The Elven bread.<br />- What?
+5178534 5179994 That's all we have left.
+5184082 5186584 He took it. He must have!
+5187085 5190338 Sméagol?<br />No, no, not poor Sméagol.
+5190505 5193424 Sméagol hates nasty Elf bread.
+5193591 5196761 You're a lying rat!<br />What did you do with it?!
+5196928 5198471 He doesn't eat it.
+5199472 5201808 - He can't have taken it.<br />- Look.
+5202850 5204686 What's this?
+5207355 5210692 Crumbs on his jacketses.<br />He took it!
+5211401 5213069 He took it.
+5213903 5218116 I seen him. He's always stuffing<br />his face when master's not looking.
+5218282 5220076 That's a filthy lie!
+5220243 5222453 You stinking, two-faced sneak!
+5222620 5223871 - Sam!<br />- Call me...
+5224038 5225289 Stop it!
+5226916 5228626 Sam!
+5228793 5232422 - I'll kill him!<br />- Sam! No!
+5233464 5239011 Oh, my... I'm sorry. I didn't mean it<br />to go so far. I was just so... So angry.
+5239178 5241305 Here, just...<br />Let's just rest a bit.
+5241472 5243558 - I'm all right.<br />- No.
+5243725 5246811 No, you're not all right.<br />You're exhausted.
+5246978 5249105 It's that Gollum.
+5249272 5250982 It's this place.
+5251149 5253735 It's that thing around your neck.
+5257238 5258531 I could help a bit.
+5258698 5261367 I could carry it for a while.
+5261534 5263286 Carry it for a while.
+5263453 5264893 I could carry it...<br />I could carry it.
+5265329 5270793 Share the load... Share the load...<br />the load... the load.
+5270960 5272170 Get away!
+5272336 5273976 I don't want to keep it.
+5277508 5279510 I just want to help.
+5281554 5284182 See? See?
+5284348 5287769 He wants it for himself.
+5287935 5289645 Shut up, you!
+5290188 5292023 Go away!<br />Get out of here!
+5292190 5294025 No, Sam.
+5294192 5295443 It's you.
+5299655 5301365 I'm sorry, Sam.
+5303034 5304410 But he's a liar.
+5304577 5307246 He's poisoned you against me.
+5308664 5310583 You can't help me anymore.
+5312543 5314420 You don't mean that.
+5316923 5318716 Go home.
+5398754 5400548 Faramir!
+5400715 5402633 Faramir!
+5404135 5406178 Your father's will<br />has turned to madness.
+5407346 5409390 Do not throw away your life<br />so rashly.
+5410141 5412476 Where does my allegiance lie<br />if not here?
+5413102 5416022 This is the city of<br />the Men of Númenor.
+5416647 5419442 I will gladly give my life<br />to defend her beauty...
+5419609 5422820 ...her memory, her wisdom.
+5425197 5428618 Your father loves you, Faramir.
+5429327 5432330 He will remember it<br />before the end.
+5501941 5503484 Can you sing, Master Hobbit?
+5506362 5507863 Well...
+5508406 5510032 ...yes.
+5510741 5514495 At least,<br />well enough for my own people.
+5516122 5518541 But we have no songs<br />for great halls...
+5519583 5520835 ...and evil times.
+5521669 5524839 And why should your songs<br />be unfit for my halls?
+5527633 5529051 Come, sing me a song.
+5540104 5543441 <i>Home is behind</i>
+5543607 5547361 <i>The world ahead</i>
+5549780 5555619 <i>And there are many paths to tread</i>
+5557413 5560958 <i>Through shadow</i>
+5561125 5565296 <i>To the edge of night</i>
+5566964 5572053 <i>Until the stars are all alight</i>
+5575056 5579393 <i>Mist and shadow</i>
+5579560 5583856 <i>Cloud and shade</i>
+5586233 5589570 <i>All shall fade</i>
+5591947 5595951 <i>All shall</i>
+5601707 5604085 <i>Fade</i>
+5628484 5631946 March! March!
+5632113 5637243 March! March! March!
+5640788 5643124 Make way for the king.
+5644625 5646627 Make way.
+5649088 5651132 The king is here.
+5653092 5654718 My lord.
+5655970 5657930 Hail to you, sire.
+5658389 5659598 Grimbold, how many?
+5659765 5662226 I bring 500 men from the Westfold, my lord.
+5663185 5665855 We have 300 more<br />from Fenmarch, Théoden King.
+5666981 5670943 - Where are the riders from Snowbourn?<br />- None have come, my lord.
+5688002 5690129 Six thousand spears.
+5691172 5693174 Less than half of what I'd hoped for.
+5693465 5696844 Six thousand will not be enough<br />to break the lines of Mordor.
+5699597 5701348 More will come.
+5701724 5704685 Every hour lost hastens Gondor's defeat.
+5704852 5707438 We have till dawn,<br />then we must ride.
+5726916 5729251 The horses are restless...
+5729418 5730920 ...and the men are quiet.
+5731378 5734506 They grow nervous in the shadow<br />of the mountain.
+5736967 5738844 That road there...
+5739762 5741847 ...where does that lead?
+5742598 5746435 It is the road to the Dimholt,<br />the door under the mountain.
+5747144 5750147 None who venture there ever return.
+5751357 5753234 That mountain is evil.
+5764578 5766664 Hold!
+5776173 5778008 Aragorn.
+5778759 5780678 Let's find some food.
+5797194 5798612 There.
+5799530 5802533 A true esquire of Rohan.
+5806203 5807871 I'm ready.
+5809790 5811041 Sorry.
+5811208 5813502 It isn't all that dangerous.
+5814003 5816338 It's not even sharp.
+5817006 5820384 Well, that's no good. You won't kill<br />many Orcs with a blunt blade.
+5820551 5822052 Come on.
+5826223 5828726 To the smithy. Go!
+5830227 5832730 You should not encourage him.
+5832938 5835399 You should not doubt him.
+5835566 5838861 I do not doubt his heart,<br />only the reach of his arm.
+5841572 5843157 Why should Merry be left behind?
+5843324 5845951 He has as much cause<br />to go to war as you.
+5848078 5851248 Why can he not fight<br />for those he loves?
+5854543 5857546 You know as little of war<br />as that Hobbit.
+5858756 5860883 When the fear takes him...
+5861050 5866096 ...and the blood and the screams<br />and the horror of battle take hold...
+5866472 5868599 ...do you think he would stand and fight?
+5871185 5872770 He would flee.
+5872978 5875022 And he would be right to do so.
+5877232 5881195 War is the province of Men, Éowyn.
+5916814 5920567 <i>I choose a mortal life.</i>
+5923487 5926323 I wish I could've seen him...
+5927491 5930160 ...one last time.
+5941338 5942798 Sir?
+5944633 5947177 King Théoden awaits you, my lord.
+5967990 5969950 I take my leave.
+5984590 5985841 My lord Elrond.
+5986383 5989887 I come on behalf of one whom I love.
+5993015 5995017 Arwen is dying.
+5999813 6003859 She will not long survive the evil<br />that now spreads from Mordor.
+6004610 6007988 The light of the Evenstar is failing.
+6008155 6012159 As Sauron's power grows,<br />her strength wanes.
+6012326 6016079 Arwen's life is now tied<br />to the fate of the Ring.
+6016830 6019416 The Shadow is upon us, Aragorn.
+6019750 6021418 The end has come.
+6021835 6024421 It will not be our end, but his.
+6025214 6028759 You ride to war, but not to victory.
+6029760 6033430 Sauron's armies march on Minas Tirith,<br />this you know.
+6033639 6038060 But in secret he sends another force<br />which will attack from the river.
+6038519 6041939 <i>A fleet of Corsair ships sails<br />from the south.</i>
+6042564 6044650 They'll be in the city in two days.
+6045150 6047945 You're outnumbered, Aragorn.
+6048695 6050781 You need more men.
+6051198 6052950 There are none.
+6054701 6058622 There are those who dwell<br />in the mountain.
+6067631 6069800 Murderers...
+6069967 6071385 ...traitors.
+6073804 6075973 You would call upon them to fight?
+6076181 6077766 They believe in nothing.
+6077933 6080060 They answer to no one.
+6080227 6083313 They will answer<br />to the king of Gondor.
+6090445 6095576 Andúril, the Flame of the West,<br />forged from the shards of Narsil.
+6109840 6114303 Sauron will not have forgotten<br />the Sword of Elendil.
+6128358 6133113 The blade that was broken<br />shall return to Minas Tirith.
+6133280 6135699 The man who can wield<br />the power of this sword...
+6135866 6139745 ...can summon to him an army more<br />deadly than any that walks this earth.
+6141538 6143707 Put aside the Ranger.
+6143874 6147210 Become who you were born to be.
+6147377 6149379 Take the Dimholt road.
+6153383 6156219 I give hope to Men.
+6159473 6163560 I keep none for myself.
+6175405 6177074 Why are you doing this?
+6177574 6180786 The war lies to the east.<br />You cannot leave on the eve of battle.
+6183205 6185290 You cannot abandon the men.
+6186583 6188168 Éowyn...
+6188335 6190545 We need you here.
+6191672 6193548 Why have you come?
+6195217 6197177 Do you not know?
+6206436 6209439 It is but a shadow and a thought<br />that you love.
+6213402 6215821 I cannot give you what you seek.
+6229334 6233255 I have wished you joy<br />since first I saw you.
+6252399 6254651 Just where do you think<br />you're off to?
+6254860 6256153 Not this time.
+6256361 6258572 - This time you must stay, Gimli.<br />- Mm.
+6261283 6264119 Have you learned nothing<br />of the stubbornness of Dwarves?
+6264286 6267956 You might as well accept it.<br />We're going with you, laddie.
+6290270 6292439 - What's happening?<br />- Where is he going?
+6292773 6294649 Where's he going?
+6297194 6299279 I don't understand.
+6303700 6305494 Lord Aragorn!
+6305911 6308622 Why does he leave<br />on the eve of battle?
+6309831 6311917 He leaves because there is no hope.
+6312542 6314711 He leaves because he must.
+6314878 6316546 Too few have come.
+6316713 6318924 We cannot defeat<br />the armies of Mordor.
+6321426 6323053 No...
+6323512 6324721 ...we cannot.
+6327641 6331436 But we will meet them<br />in battle nonetheless.
+6345867 6347577 I have left instruction.
+6350247 6353542 The people are to follow<br />your rule in my stead.
+6360090 6362384 Take up my seat in the Golden Hall.
+6363593 6366429 Long may you defend Edoras...
+6366596 6368974 ...if the battle goes ill.
+6370058 6373478 What other duty would you<br />have me do, my lord?
+6375689 6377607 Duty?
+6379776 6381111 No.
+6389452 6391580 I would have you smile again...
+6395000 6400005 ...not grieve for those<br />whose time has come.
+6404801 6408305 You shall live to see<br />these days renewed...
+6412642 6415437 ...and no more despair.
+6421651 6425322 What kind of army<br />would linger in such a place?
+6425530 6427324 One that is cursed.
+6429326 6431828 Long ago, the Men of the Mountains<br />swore an oath...
+6432287 6435040 ...to the last king of Gondor...
+6435624 6437167 ...to come to his aid...
+6437334 6439085 ...to fight.
+6439586 6441755 But when the time came...
+6442339 6445008 ...when Gondor's need was dire...
+6445175 6447010 ...they fled...
+6447177 6450597 ...vanishing into the darkness<br />of the mountain.
+6451640 6453975 And so Isildur cursed them...
+6455518 6459356 ...never to rest until they had<br />fulfilled their pledge.
+6463693 6466863 Who shall call them<br />from the grey twilight?
+6467322 6469532 The forgotten people.
+6469699 6472202 The heir of him to whom<br />the oath they swore.
+6472702 6474579 From the north shall he come.
+6475080 6476706 Need shall drive him.
+6477832 6481336 He shall pass the door<br />to the Paths of the Dead.
+6499813 6503108 The very warmth of my blood<br />seems stolen away.
+6508655 6510615 The way is shut.
+6511366 6513326 It was made by those<br />who are dead.
+6513910 6516204 And the Dead keep it.
+6516746 6518248 The way is shut.
+6529634 6531136 Brego!
+6534639 6537350 I do not fear death.
+6549654 6552073 Well,<br />this is a thing unheard-of.
+6552240 6556911 An Elf will go underground<br />where a Dwarf dare not?
+6557078 6558413 Oh.
+6558580 6561416 Oh, I'd never hear the end of it.
+6576431 6578641 We must ride light and swift.
+6578808 6580602 It is a long road ahead.
+6580769 6583813 And man and beast must reach the end<br />with the strength to fight.
+6589319 6592322 Little Hobbits do not belong in war,<br />Master Meriadoc.
+6592697 6594657 All my friends have gone to battle.
+6594824 6596743 I would be ashamed to be left behind.
+6596910 6598995 It is a three-day gallop to Minas Tirith.
+6599204 6601581 And none of my riders can bear you<br />as a burden.
+6602582 6604709 I want to fight.
+6605210 6607212 I will say no more.
+6624020 6625980 Ride with me.
+6627440 6628858 My lady.
+6629025 6631361 Form up! Move out!
+6631528 6634781 Form up! Move out!
+6637867 6639035 Ride!
+6639244 6642205 Ride now to Gondor!
+6683830 6685582 What is it?
+6685748 6687292 What do you see?
+6687542 6689669 I see shapes of men.
+6692338 6693715 And of horses.
+6694424 6695675 Where?
+6695842 6698803 Pale banners like shreds of cloud.
+6701222 6703433 Spears rise...
+6704058 6707520 ...like winter-thickets<br />through a shroud of mist.
+6708771 6710940 The Dead are following.
+6712108 6713610 They have been summoned.
+6714319 6716112 The Dead?
+6716529 6718239 Summoned?
+6718615 6720533 I knew that.
+6721075 6723244 Huh. Ha.
+6723870 6725622 Very good.
+6726331 6728416 Very good! Legolas!
+6766371 6767789 Do not look down.
+6820383 6825513 <i>Who enters my domain?</i>
+6829225 6831477 One who will have your allegiance.
+6834439 6839736 The Dead do not suffer the living to pass.
+6840069 6842739 You will suffer me.
+6866262 6869682 The way is shut.
+6870850 6875271 It was made by those who are dead.
+6875688 6879859 And the Dead keep it.
+6888993 6892080 The way is shut.
+6893790 6896459 Now you must die.
+6900296 6903132 I summon you to fulfill your oath.
+6903508 6908471 None but the king of Gondor<br />may command me.
+6914060 6916229 That line was broken.
+6918815 6921067 It has been remade.
+6928991 6930493 Fight for us...
+6930660 6933246 ...and regain your honor.
+6937417 6938751 What say you?
+6950972 6952515 What say you?
+6952682 6955017 Ah! You waste your time, Aragorn.
+6955184 6958354 They had no honor in life,<br />they have none now in death.
+6958855 6961357 I am Isildur's heir.
+6961941 6963860 Fight for me...
+6964485 6968072 ...and I will hold your oaths fulfilled.
+6971993 6973953 What say you?
+6981878 6984088 You have my word!
+6984380 6988384 Fight, and I will release you<br />from this living death!
+6989844 6991345 What say you?!
+6994640 6997602 Stand, you traitors!
+7024545 7025588 Out!
+7046943 7048528 Legolas!
+7049654 7050863 Run!
+7117179 7119223 We fight.
+7129609 7132194 Open the gate! Quick!
+7163225 7165227 Quick! Hurry!
+7178991 7180576 Faramir!
+7181577 7184872 Say not that he has fallen.
+7186040 7187583 They were outnumbered.
+7188000 7189585 None survived.
+7190294 7192296 Fear.
+7192838 7196050 The city is rank with it.
+7198386 7200846 Let us ease their pain.
+7201097 7202848 Release the prisoners.
+7203015 7204934 Catapults!
+7208229 7210314 Shields up!
+7218322 7221784 My sons are spent.
+7222827 7225746 My line has ended.
+7228582 7229959 He's alive!
+7230126 7233295 The House of Stewards has failed.
+7233462 7234964 He needs medicine, my lord.
+7235965 7238634 My line has ended!
+7240136 7242138 My lord!
+7249145 7251230 Put it in!
+7255651 7257486 Rohan...
+7258279 7260656 ...has deserted us.
+7275129 7278340 Théoden's betrayed me.
+7289477 7291312 Abandon your posts!
+7292354 7296275 Flee! Flee for your lives!
+7298778 7300613 Oh!
+7306410 7307953 Prepare for battle!
+7308496 7311665 Hurry, men! To the wall! Defend the wall!
+7312833 7314794 Over here!
+7315544 7317922 Return to your posts!
+7328724 7331352 Send these foul beasts into the abyss.
+7341529 7342988 Stay where you are.
+7359964 7361382 We need more rubble!
+7361549 7363425 Watch out!
+7363592 7366095 Down to the lower levels.<br />Quick!
+7368013 7369557 Double up, men!
+7385614 7387074 Yah!
+7438542 7441545 Hold them back!<br />Do not give in to fear.
+7442046 7445549 Stand to your posts! Fight!
+7486215 7487841 Not at the towers!
+7488008 7491011 Aim for the trolls! Kill the trolls!
+7491720 7493597 Bring them down!
+7528716 7530759 Fight them back!
+7530926 7532928 Peregrin Took!
+7533762 7536932 - Go back to the Citadel!<br />- They'd called us out to fight.
+7552656 7555034 This is no place for a Hobbit.
+7580768 7582227 Guard of the Citadel, indeed.
+7582811 7586190 Now, back, up the hill.<br />Quickly. Quick!
+7597493 7600496 What are you doing,<br />you useless scum?!
+7600662 7602623 The door won't give. It's too strong.
+7608962 7611340 Get back there and smash it down.
+7611507 7613509 But nothing can breach it.
+7616470 7618722 Grond will breach it.
+7622142 7624228 Bring up the wolf's head.
+7627356 7632736 <i>Grond! Grond! Grond! Grond!</i>
+7633028 7636865 <i>Grond! Grond! Grond!</i>
+7638826 7642246 <i>Grond! Grond! Grond!</i>
+7642955 7646625 <i>Grond! Grond! Grond!</i>
+7647042 7651213 <i>Grond! Grond! Grond!</i>
+7651380 7655008 <i>Grond! Grond! Grond!</i>
+7676132 7677926 You may go no further.
+7681137 7683264 You will not enter Gondor.
+7684933 7686810 Who are you to deny us passage?
+7686977 7690772 Legolas, fire a warning shot<br />past the bosun's ear.
+7692983 7694651 Mind your aim.
+7699489 7701157 Oh!
+7701366 7703785 That's it. Right. We warned you.
+7703952 7705620 Prepare to be boarded.
+7707455 7708790 Boarded?
+7708957 7710625 By you and whose army?
+7712168 7714462 This army.
+7731146 7732981 In there.
+7734649 7736526 What is this place?
+7740905 7744325 Master must go inside the tunnel.
+7745702 7749706 Now that I'm here,<br />I don't think I want to.
+7751791 7754044 It's the only way.
+7756379 7758381 Go in...
+7758923 7761176 ...or go back.
+7763845 7766598 I can't go back.
+7778818 7781529 - What's that smell?<br />- Orcses' filth.
+7781696 7784908 Orcses come in here sometimes.
+7789913 7791748 Hurry.
+7796628 7798588 This way.
+7801424 7803259 Sméagol?
+7804219 7806387 Over here.
+7811226 7812560 Oh!
+7812727 7814479 Aah! Aah!
+7814646 7817816 It's sticky. What is it?
+7817982 7820276 You'll see.
+7820443 7822779 Oh, yes.
+7822946 7826116 You will see.
+7834999 7836668 Sméagol?
+7837961 7839295 Sméagol!
+7841965 7843925 Sméagol!
+7853143 7855145 Sam.
+7955203 7957288 <i>And you, Frodo Baggins...</i>
+7957497 7962877 <i>...I give you the light of Eärendil,<br />our most beloved star.</i>
+7963628 7966923 <i>May it be a light for you<br />in dark places...</i>
+7967090 7970593 <i>...when all other lights go out.</i>
+8047003 8050298 <i>Naughty little fly</i>
+8050465 8053676 <i>Why does he cry?</i>
+8054177 8057513 <i>Caught in a web</i>
+8057680 8060475 <i>Soon you'll be...</i>
+8060850 8062685 Eaten.
+8099847 8102558 Got away, did it, precious?
+8102725 8104852 Not this time.
+8105019 8108064 - Not this time!<br />- No!
+8114904 8118241 It wasn't us. It wasn't us!
+8118741 8121369 Sméagol wouldn't hurt master.
+8121536 8123413 We promised.
+8123579 8126082 You must believe us.
+8126249 8127959 It was the precious.
+8128167 8132922 The precious made us do it.
+8150064 8152942 I have to destroy it, Sméagol.
+8161951 8165288 I have to destroy it<br />for both our sakes.
+8175465 8176799 No!
+8200031 8202492 I'm so sorry, Sam.
+8206954 8209499 I'm so sorry.
+8235274 8240071 <i>This task was appointed to you,<br />Frodo of the Shire.</i>
+8241197 8243658 <i>If you do not find a way...</i>
+8244867 8246160 <i>...no one will.</i>
+8279944 8282738 The scouts report<br />Minas Tirith is surrounded.
+8282905 8285199 The lower level's in flames.
+8285616 8288077 Everywhere,<br />legions of the enemy advance.
+8288244 8289453 Time is against us.
+8290079 8291414 Make ready!
+8291581 8293416 Take heart, Merry.
+8293583 8295751 It will soon be over.
+8296377 8297920 My lady...
+8298546 8301090 ...you are fair and brave...
+8301424 8303884 ...and have much to live for...
+8305219 8307597 ...and many who love you.
+8310391 8313102 I know it is too late to turn aside.
+8313644 8316897 I know there is not much point<br />now in hoping.
+8318107 8321485 If I were a knight of Rohan,<br />capable of great deeds...
+8321652 8324780 But I'm not.
+8324947 8326782 I'm a Hobbit.
+8329493 8331996 And I know I can't save Middle-earth.
+8335416 8337752 I just want to help my friends.
+8339795 8341297 Frodo.
+8342131 8343924 Sam.
+8345468 8347511 Pippin.
+8348971 8352016 More than anything,<br />I wish I could see them again.
+8356270 8358606 Prepare to move out!
+8358773 8361525 Make haste.<br />We ride through the night.
+8378167 8379502 To battle.
+8379960 8381379 To battle.
+8404485 8406237 Back to the gate!
+8406529 8408698 Hurry!
+8428592 8433097 I am steward of the House of Anárion.
+8433264 8435683 Thus have I walked.
+8436892 8439979 And thus now will I sleep.
+8446026 8448112 Gondor is lost.
+8448571 8452074 There is no hope for Men.
+8466630 8469508 Why do the fools fly?
+8471051 8474096 Better to die sooner than late.
+8476265 8478309 For die we must.
+8490446 8493532 No tomb for Denethor<br />and Faramir.
+8494617 8500623 No long,<br />slow sleep of death embalmed.
+8500790 8505961 We shall burn,<br />like the heathen kings of old.
+8509632 8511425 Bring wood and oil.
+8514261 8515638 Steady.
+8515805 8517848 Steady.
+8532279 8534824 You are soldiers of Gondor.
+8535074 8539495 No matter what comes through that gate,<br />you will stand your ground.
+8546001 8547169 Run!
+8549088 8550589 Volley!
+8551340 8553175 Fire!
+8666330 8668415 Let him go, you filth.
+8670292 8671961 Let him go!
+8673253 8675422 You will not touch him again.
+8678509 8680427 Come on and finish it.
+8789411 8791747 Ha! Back!
+8802591 8803884 Mr. Frodo.
+8813435 8815437 Oh, no.
+8815604 8817564 Frodo.
+8817856 8819733 Mr. Frodo.
+8824279 8825614 Wake up.
+8829451 8831870 Don't leave me here alone.
+8833372 8835791 Don't go where I can't follow.
+8840129 8841463 Wake up.
+8848137 8850389 Not asleep.
+8852474 8854434 Dead.
+8873162 8874663 You get back, you scum!
+8884298 8885632 What's this?
+8886800 8889511 Looks like old Shelob's<br />been having a bit of fun.
+8891513 8894016 Killed another one, has she?
+8894224 8896185 No.
+8898937 8900939 This fellow ain't dead.
+8901231 8903525 Not dead?
+8903692 8909531 She jabs him with her stinger,<br />and he goes as limp as a boned fish.
+8909865 8912576 Then she has her way with them.
+8912951 8914661 That's how she likes to feed.
+8915162 8917247 Fresh blood.
+8917456 8919750 Get him to the tower!
+8923212 8924922 Samwise, you fool.
+8925088 8927925 This scum will be awake<br />in a couple of hours.
+8928091 8930594 Then he'll wish he'd never been born.
+8954910 8958121 The house of his spirit crumbles.
+8959206 8960624 He is burning.
+8961750 8963085 Already burning.
+8963502 8965504 He's not dead.
+8965921 8967589 He's not dead!
+8969800 8971593 No! No!
+8971760 8974096 No! No!
+8974263 8976265 He's not dead!
+8976640 8980102 - Farewell, Peregrin, son of Paladin.<br />- No! No! No!
+8980269 8983605 I release you from my service.
+8984940 8989278 Go now and die in what way<br />seems best to you.
+8991446 8993782 Pour oil on the wood!
+8995534 8997577 Come on, soldier!<br />Move it!
+8998078 9000956 - Hurry along there! Hurry along!<br />- Gandalf!
+9001331 9002791 Where is Gandalf?
+9003959 9005210 Gandalf!
+9010632 9011800 Retreat!
+9013969 9015762 The city is breached!
+9015929 9018849 Fall back to the second level!
+9022644 9024271 Get the women and children out!
+9024646 9026356 Get them out!
+9026565 9028025 Retreat!
+9028191 9029985 Come on. Come on.
+9030319 9034614 Move into the city. Kill all in your path.
+9042622 9045000 Take them down!
+9065520 9068398 Fight.<br />Fight to the last man!
+9068607 9069858 Fight for your lives!
+9070025 9071318 Gandalf!
+9075697 9077032 Gandalf!
+9077199 9079826 Denethor has lost his mind!
+9079993 9082245 He's burning Faramir alive!
+9082412 9084206 Up! Quickly!
+9091046 9092547 Go back to the abyss.
+9094049 9097219 Fall into the nothingness<br />that awaits you and your master.
+9097386 9103892 Do you not know death<br />when you see it, old man?
+9104059 9108730 This is my hour.
+9118281 9119908 Gandalf!
+9128750 9132295 You have failed.
+9133088 9137926 The world of Men will fall.
+9195233 9196651 Courage, Merry.
+9196818 9199237 Courage for our friends.
+9202782 9205827 Form ranks, you maggots.<br />Form ranks!
+9205994 9209289 Pikes in front. Archers behind.
+9217339 9220509 Éomer, take your éored<br />down the left flank.
+9220675 9221968 Flank ready.
+9222135 9225013 Gamling, follow the king's<br />banner down the center.
+9225180 9228850 Grimbold, take your company<br />right after you pass the wall.
+9229017 9231811 Forth, and fear no darkness!
+9231978 9235815 Arise, arise, Riders of Théoden!
+9236024 9241196 Spears shall be shaken,<br />shields shall be splintered...
+9241404 9245158 ...a sword-day, a red day...
+9245325 9248870 ...ere the sun rises!
+9256670 9261007 Whatever happens, stay with me.<br />I'll look after you.
+9267347 9269391 Ride now!
+9270892 9273061 Ride now!
+9273603 9276398 Ride! Ride for ruin...
+9276565 9279359 ...and the world's ending!
+9281236 9282696 Death!
+9283071 9286032 Death!
+9286199 9289411 - Death!<br />- Death!
+9289869 9291413 - Death!<br />- Death!
+9292122 9295584 - Death!<br />- Death!
+9300714 9303091 Forth Eorlingas!
+9346092 9347802 Fire!
+9351640 9352807 Death!
+9357020 9358313 Charge!
+9358813 9360398 Fire at will!
+9417706 9421042 Set a fire in our flesh.
+9438685 9440395 Stay this madness!
+9444733 9449362 You may triumph in the field of battle<br />for a day...
+9449904 9453533 ...but against the power that has risen<br />in the east...
+9453700 9456911 ...there is no victory.
+9486107 9487901 No!
+9488067 9490737 You will not take my son from me!
+9490904 9493239 No! No!
+9493448 9494783 Yah!
+9504125 9505794 Faramir.
+9519349 9523311 So passes Denethor, son of Ecthelion.
+9550839 9552674 Drive them to the river!
+9555385 9557387 Make safe the city!
+9597385 9599387 Re-form the line!
+9600513 9602432 Re-form the line!
+9609439 9612066 Sound the charge!<br />Take them head-on!
+9612734 9614903 Charge!
+9693815 9695233 Cut him down!
+9696985 9698945 Follow me!
+9721884 9724512 Take the reins. Pull him left!
+9726889 9728182 Left!
+9745575 9747285 Aim for their heads!
+9753291 9756544 Bring it down! Bring it down!<br />Bring it down!
+9770391 9771893 Merry!
+9845299 9847385 I didn't think it would end this way.
+9848636 9850096 End?
+9851305 9853474 No, the journey doesn't end here.
+9855977 9859105 Death is just another path...
+9859647 9861315 ...one that we all must take.
+9862608 9866028 The grey rain curtain<br />of this world rolls back...
+9866195 9869824 ...and all turns to silver glass.
+9871993 9873995 And then you see it.
+9875913 9878291 What, Gandalf?
+9879417 9880710 See what?
+9882003 9884172 White shores...
+9885840 9888301 ...and beyond.
+9889719 9891512 A far green country...
+9892221 9895183 ...under a swift sunrise.
+9899187 9900688 Well...
+9900855 9902523 ...that isn't so bad.
+9902690 9904150 No.
+9906194 9907862 No, it isn't.
+9924212 9927548 Rally to me! To me!
+9948361 9952907 Feast on his flesh.
+9957245 9959580 I will kill you if you touch him.
+9959747 9965253 Do not come between<br />the Nazgûl and his prey.
+10033654 10036824 Late as usual, pirate scum!
+10037283 10039493 There's knife-work here needs doing.
+10039660 10042872 Come on, you sea rats!<br />Get off your ships!
+10058346 10060514 There's plenty for the both of us.
+10060681 10062725 May the best Dwarf win.
+10080201 10082411 You fool.
+10082620 10086040 No man can kill me.
+10088376 10091545 Die now.
+10102223 10104225 I am no man.
+10120741 10124245 - Fifteen! Sixteen!<br />- Seventeen!
+10132086 10133963 Merry!
+10175963 10177798 Legolas!
+10200154 10202531 Thirty-three, thirty-four.
+10249662 10252039 That still only counts as one!
+10252206 10254375 Come on, then. Come on!
+10298085 10300921 I know your face...
+10302756 10304592 ...Éowyn.
+10307219 10309597 My eyes darken.
+10310723 10312099 No.
+10312933 10314560 No.
+10316604 10319106 I am going to save you.
+10320441 10322776 You already did.
+10326447 10328115 Éowyn...
+10329617 10332119 ...my body is broken.
+10337124 10339627 You have to let me go.
+10345466 10348093 I go to my fathers...
+10349511 10352389 ...in whose mighty company...
+10352806 10356143 ...I shall not now feel ashamed.
+10372785 10374411 Éowyn.
+10420874 10423377 Release us.
+10425254 10427005 Bad idea.
+10427172 10431009 Very handy in a tight spot, these lads,<br />despite the fact they're dead.
+10431176 10433178 You gave us your word.
+10434888 10437057 I hold your oath fulfilled.
+10438392 10439727 Go.
+10440561 10442229 Be at peace.
+10485606 10487524 Merry.
+10488108 10491278 No!
+10495240 10497618 No!
+10604725 10605934 Merry!
+10607561 10609563 Merry!
+10620908 10622743 Merry.
+10625245 10626455 Merry, it's me.
+10629082 10630667 It's Pippin.
+10633170 10635422 I knew you'd find me.
+10635589 10636798 Yes.
+10639259 10641303 Are you going to leave me?
+10641887 10643597 No, Merry.
+10644890 10647100 I'm going to look after you.
+10691144 10692521 Hands off!
+10692729 10695857 That shiny shirt, that's mine.
+10696149 10700320 It's going to the Great Eye,<br />along with everything else.
+10701822 10705659 I don't take orders from<br />stinking Morgul-rats!
+10706493 10711665 You touch it,<br />and I'll stick this blade in your gut.
+10732352 10734187 The scum tried to knife me.
+10734354 10736064 Kill him!
+10839292 10841294 That's for Frodo!
+10841670 10843797 And for the Shire!
+10847425 10849511 And that's for my old Gaffer!
+10878999 10882335 Stop your squealing,<br />you dunghill rat.
+10883503 10888175 I'm gonna bleed you like a stuck pig.
+10895515 10898185 - Not if I stick you first.<br />- Sam!
+10903982 10906026 Oh, Sam, I'm so sorry.
+10906193 10908195 Sorry for everything.
+10908695 10912365 - Let's get you out of here.<br />- It's too late. It's over.
+10912532 10915452 They've taken it. Sam...
+10916203 10917704 ...they took the Ring.
+10918496 10921208 Begging your pardon, but they haven't.
+10933178 10935388 I thought I'd lost you.
+10935722 10937474 So I took it.
+10938600 10940727 Only for safekeeping.
+10941978 10943730 Give it to me.
+10947234 10949486 Give me the Ring, Sam.
+10954115 10955408 Sam.
+10956993 10958912 Give me the Ring.
+10979641 10981643 You must understand.
+10984437 10986273 The Ring is my burden.
+10987440 10989609 It will destroy you, Sam.
+10992779 10994781 Come on, Mr. Frodo.
+10996116 10997742 We best find you some clothes.
+10997909 11000954 You can't go walking through Mordor<br />in naught but your skin.
+11022642 11024853 We did it, Mr. Frodo.
+11025353 11027647 We made it to Mordor.
+11028982 11030650 There are so many of them.
+11031651 11034195 We'll never get through unseen.
+11039326 11042662 It's him, the Eye.
+11050378 11053006 We have to go in there, Mr. Frodo.
+11053506 11055508 There's nothing for it.
+11058511 11062974 Come on. Let's just make it<br />down the hill for starters.
+11072317 11075528 Frodo has passed beyond my sight.
+11076863 11079699 The darkness is deepening.
+11079866 11082243 If Sauron had the Ring,<br />we would know it.
+11082410 11084496 It's only a matter of time.
+11085997 11088375 He has suffered a defeat, yes...
+11089417 11093922 ...but behind the walls of Mordor,<br />our enemy is regrouping.
+11094130 11095924 Let him stay there.
+11096132 11098760 Let him rot! Why should we care?
+11098927 11104140 Because 10,000 Orcs now stand<br />between Frodo and Mount Doom.
+11110897 11113650 I've sent him to his death.
+11115151 11116194 No.
+11117445 11119155 There is still hope for Frodo.
+11119447 11123576 He needs time and safe passage<br />across the plains of Gorgoroth.
+11124702 11127247 - We can give him that.<br />- How?
+11127580 11130291 Draw out Sauron's armies.
+11130458 11132585 Empty his lands.
+11132794 11135922 Then we gather our full strength<br />and march on the Black Gate.
+11137549 11139801 We cannot achieve victory<br />through strength of arms.
+11139968 11141261 Not for ourselves.
+11141469 11147100 But we can give Frodo his chance<br />if we keep Sauron's Eye fixed upon us.
+11148893 11152689 Keep him blind to all else that moves.
+11153440 11154607 A diversion.
+11154774 11156609 Certainty of death...
+11156776 11159487 ...small chance of success...
+11160405 11161948 ...what are we waiting for?
+11162574 11164951 Sauron will suspect a trap.
+11165785 11167787 He will not take the bait.
+11169289 11171791 Oh, I think he will.
+11206242 11208828 Long have you hunted me.
+11209746 11210997 Long have I eluded you.
+11212832 11214459 No more.
+11216169 11218546 Behold the Sword of Elendil.
+11263049 11265552 The city has fallen silent.
+11267220 11270306 There is no warmth left in the sun.
+11271057 11272809 It grows so cold.
+11275812 11278856 It's just the damp<br />of the first spring rain.
+11285238 11288408 I do not believe<br />this darkness will endure.
+11317103 11318605 Look, the Orcs...
+11319147 11321149 ...they're moving off.
+11322233 11324277 You see, Mr. Frodo...
+11324444 11326779 ...some luck at last.
+11326946 11328781 Move it, you slugs!
+11330116 11333453 Come on! Faster!
+11341461 11344756 Come along, you scum...
+11344922 11349135 I'll whip you down to the bone, you...
+11352013 11353640 Come on!
+11353806 11356142 What have I told you?!
+11362982 11364484 Get up!
+11364901 11367528 Come on, you slugs!
+11367695 11371324 You two are going straight<br />to the front line!
+11371491 11376454 Now, move it! Go on!<br />Fall in! Move it!
+11389425 11393221 To the Gate, you slugs!<br />Now, move it!
+11402647 11406192 Don't you know we're at war?
+11428548 11431384 Company, halt!
+11435221 11438599 Inspection!
+11438766 11441227 Sam, help me.
+11441394 11443229 Mr. Frodo!
+11445982 11448526 Stand up, Mr. Frodo.<br />Stand up!
+11448693 11450528 It's so heavy.
+11459620 11460788 Oh, no.
+11466419 11468421 What do I do?<br />What do we do?
+11471299 11472633 - Hit me.<br />- What?
+11472800 11474886 Hit me, Sam.<br />Start fighting.
+11475052 11476596 Get off of me!
+11477263 11479599 Nobody pushes me,<br />you filthy maggot.
+11488274 11490276 Get off of me!
+11491235 11493112 Break it up! Break it up!
+11495656 11500244 Oi! I'll have your guts if you don't<br />shut this rabble down!
+11500453 11502789 Go, Sam. Now!
+11511672 11513257 Move along, scum!
+11513424 11515301 Back in the line!
+11515802 11517637 You maggots!
+11518304 11521307 Get back into the line,<br />you slugs!
+11523684 11527146 Dig it, you slugs. Move it.
+11529857 11531818 Move it!
+11575987 11578030 I can't...
+11578197 11581909 I can't...<br />I can't manage the Ring, Sam.
+11582159 11583244 It's... It's...
+11583411 11586038 It's such a weight to carry.
+11586873 11587915 It...
+11588124 11590042 Such a weight.
+11595047 11597508 We're going that way.<br />Straight as we can.
+11598926 11602054 There's no point carrying anything<br />we're not sure to need.
+11617236 11619071 Mr. Frodo.
+11620573 11622074 Look.
+11624702 11626537 There is light...
+11626871 11629248 ...and beauty up there...
+11629415 11631167 ...that no shadow can touch.
+11682218 11683803 Take mine.
+11684303 11686472 There's a few drops left.
+11701654 11704281 There will be none left<br />for the return journey.
+11705157 11708327 I don't think there will be<br />a return journey, Mr. Frodo.
+11761213 11763382 Frodo, get down!
+11765176 11767053 Hide!
+11777438 11779231 Frodo!
+11785071 11786530 Where are they?
+11822608 11825611 Let the Lord of the Black Land come forth!
+11826570 11829406 Let justice be done upon him!
+11872908 11876829 My master, Sauron the Great,<br />bids thee welcome.
+11882668 11886422 Is there any in this rout<br />with authority to treat with me?
+11886797 11889884 We do not come to treat with Sauron...
+11890050 11893012 ...faithless and accursed.
+11893179 11896640 Tell your master this:<br />The armies of Mordor must disband.
+11896807 11899476 He is to depart these lands,<br />never to return.
+11899685 11903022 Aha. Old Greybeard.
+11904481 11908736 I have a token I was bidden<br />to show thee.
+11913741 11915075 Frodo.
+11917953 11919371 Frodo.
+11920372 11921582 - Silence.<br />- No!
+11922458 11923751 Silence!
+11925544 11929340 The Halfling was dear to thee, I see.
+11930341 11934386 Know that he suffered greatly<br />at the hands of his host.
+11939892 11945689 Who would've thought one so small<br />could endure so much pain?
+11948275 11950402 And he did, Gandalf.
+11950569 11952363 He did.
+11959370 11960871 And who is this?
+11961038 11963082 Isildur's heir?
+11963249 11966252 It takes more to make a king<br />than a broken Elvish blade.
+11971048 11973592 I guess that concludes negotiations.
+11975761 11976929 I do not believe it.
+11978931 11980224 I will not.
+11996448 11998242 Pull back.
+11998534 12000577 Pull back!
+12012798 12014800 It's gone, Mr. Frodo.
+12017303 12020306 The light's passed on,<br />away towards the north.
+12020472 12022308 Something's drawn its gaze.
+12039825 12042578 Hold your ground!<br />Hold your ground.
+12044663 12048667 Sons of Gondor, of Rohan, my brothers!
+12051503 12053380 I see in your eyes...
+12053797 12057843 ...the same fear that would take<br />the heart of me.
+12059803 12063682 A day may come<br />when the courage of Men fails...
+12063849 12067186 ...when we forsake our friends<br />and break all bonds of fellowship.
+12067353 12070022 But it is not this day.
+12070314 12073359 An hour of wolves<br />and shattered shields...
+12073525 12076362 ...when the age of Men<br />comes crashing down.
+12076528 12079031 But it is not this day.
+12079198 12080866 This day we fight!
+12083327 12086997 By all that you hold dear<br />on this good earth...
+12087164 12091377 ...I bid you stand,<br />Men of the West!
+12179840 12183427 Never thought I'd die fighting<br />side by side with an Elf.
+12183844 12186221 What about side by side with a friend?
+12189766 12191477 Aye.
+12192311 12194104 I could do that.
+12224468 12226512 Do you remember the Shire,<br />Mr. Frodo?
+12229515 12231767 It'll be spring soon.
+12232518 12235229 And the orchards will be in blossom.
+12235395 12239066 And the birds will be nesting<br />in the hazel thicket.
+12240484 12244488 And they'll be sowing<br />the summer barley in the lower fields...
+12245531 12249868 ...and eating the first<br />of the strawberries with cream.
+12251828 12254331 Do you remember<br />the taste of strawberries?
+12255874 12257584 No, Sam.
+12257793 12260712 I can't recall the taste of food...
+12261880 12265175 ...nor the sound of water...
+12265342 12268887 ...nor the touch of grass.
+12269888 12271390 I'm...
+12272307 12273684 ...naked in the dark.
+12275352 12277604 There's... There's nothing.
+12277813 12282526 No veil between me<br />and the wheel of fire.
+12283735 12285696 I can see him...
+12286071 12287739 ...with my waking eyes.
+12288824 12291243 Then let us be rid of it...
+12291868 12294079 ...once and for all.
+12294830 12296915 Come on, Mr. Frodo.
+12297082 12299710 I can't carry it for you...
+12300085 12302129 ...but I can carry you.
+12302713 12304423 Come on!
+12334870 12337789 <i>Aragorn.</i>
+12349384 12351970 <i>Elessar.</i>
+12363982 12366401 For Frodo.
+12401353 12402854 Look, Mr. Frodo.
+12403522 12405732 A doorway.
+12406358 12408026 We're almost there.
+12410362 12414324 Clever Hobbits to climb so high!
+12428213 12429881 Mustn't go that way.
+12431466 12433885 Mustn't hurt the precious.
+12434052 12435846 You swore!
+12436012 12438056 You swore on the precious!
+12439975 12441893 Sméagol promised!
+12442853 12444855 Sméagol lied.
+12497324 12499242 Frodo!
+12526311 12528104 Eagles.
+12529481 12530982 The eagles are coming!
+12553839 12555674 Frodo!
+12560971 12562222 I'm here, Sam.
+12569688 12571356 Destroy it!
+12581867 12585203 Go on! Now!
+12585370 12587873 Throw it in the fire!
+12601261 12603930 What are you waiting for?
+12605849 12608226 Just let it go!
+12641426 12643678 The Ring is mine.
+12647223 12648934 No.
+12649392 12650685 No.
+12659110 12661780 No!
+12766217 12768053 Yes!
+12769220 12770930 Yes!
+12772057 12774934 Precious! Precious!
+12775101 12777937 Precious! Precious!
+12831241 12833076 Give me your hand!
+12841417 12843795 Take my hand!
+12846464 12847799 No!
+12855098 12857016 Don't you let go.
+12861646 12863189 Don't let go.
+12864816 12866317 Reach!
+12955490 12958368 Frodo!
+12958910 12961913 Frodo!
+13043328 13045163 It's gone.
+13049625 13051336 It's done.
+13051836 13053838 Yes, Mr. Frodo.
+13055214 13057675 It's over now.
+13083326 13085703 I can see the Shire.
+13087872 13090208 The Brandywine River.
+13092377 13094379 Bag End.
+13096714 13099384 Gandalf's fireworks.
+13099842 13103554 The lights in the Party Tree.
+13105056 13108226 Rosie Cotton dancing.
+13109352 13112063 She had ribbons in her hair.
+13114941 13117902 If ever I was to marry someone...
+13118861 13121072 ...it would've been her.
+13122532 13124575 It would've been her.
+13136754 13139924 I'm glad to be with you,<br />Samwise Gamgee...
+13144262 13147181 ...here at the end of all things.
+13256874 13258876 Gandalf?
+13278563 13280565 Frodo!
+13300334 13302128 Gimli!
+13405147 13408859 Now come the days of the king.
+13413864 13416200 May they be blessed.
+13436512 13439181 This day does not belong to one man...
+13439348 13441225 ...but to all.
+13442893 13445771 Let us together rebuild this world...
+13445980 13450234 ...that we may share<br />in the days of peace.
+13604722 13606765 My friends...
+13612062 13614732 ...you bow to no one.
+13658943 13661070 <i>And thus it was.</i>
+13661236 13664823 <i>A Fourth Age of Middle-earth began.</i>
+13664990 13667576 <i>And the Fellowship of the Ring...</i>
+13667743 13672247 <i>...though eternally bound<br />by friendship and love...</i>
+13672414 13674792 <i>...was ended.</i>
+13679797 13684635 <i>Thirteen months to the day since Gandalf<br />sent us on our long journey...</i>
+13684802 13688973 <i>...we found ourselves<br />looking upon a familiar sight.</i>
+13691517 13694269 <i>We were home.</i>
+13700818 13702653 Hi.
+13719837 13722047 Hey, watch the pumpkin.
+13729763 13731390 Hey!
+13770054 13771722 More of the same, Rosie.
+13771889 13773891 Good night, lads.
+13818435 13819895 Hm?
+13831448 13835452 <i>How do you pick up the threads<br />of an old life?</i>
+13836787 13838997 <i>How do you go on...</i>
+13839164 13844419 <i>...when in your heart<br />you begin to understand...</i>
+13845629 13848632 <i>...there is no going back?</i>
+13849299 13852970 <i>There are some things<br />that time cannot mend...</i>
+13853470 13856431 <i>...some hurts that go too deep...</i>
+13858142 13860978 <i>...that have taken hold.</i>
+13899183 13901018 Mr. Frodo?
+13904354 13905731 What is it?
+13907566 13911528 It's been four years to the day<br />since Weathertop, Sam.
+13912196 13914948 It's never really healed.
+13918869 13924166 <i>"There and Back Again: A Hobbit's Tale</i><br />by Bilbo Baggins.
+13924875 13928712 And <i>The Lord of the Rings</i><br />by Frodo Baggins."
+13929213 13931381 You finished it.
+13934218 13935719 Not quite.
+13936553 13939056 There's room for a little more.
+13941725 13945938 <i>Bilbo once told me his part<br />in this tale would end...</i>
+13946104 13949399 <i>...that each of us must come and go<br />in the telling.</i>
+13950275 13953111 <i>Bilbo's story was now over.</i>
+13953612 13956573 <i>There would be no more journeys for him...</i>
+13956740 13958242 <i>...save one.</i>
+13959034 13962579 Tell me again,<br />lad, where are we going?
+13962746 13964748 To the harbor, Bilbo.
+13964915 13967626 The Elves have accorded you<br />a special honor...
+13967793 13970420 ...a place on the last ship<br />to leave Middle-earth.
+13972130 13973799 Frodo...
+13975259 13979763 ...any chance of seeing<br />that old Ring of mine again?
+13980430 13982641 The one I gave you.
+13986270 13988438 I'm sorry, Uncle.
+13991024 13993610 I'm afraid I lost it.
+13993777 13995612 Oh.
+13996238 13997656 Pity.
+14000450 14004288 I should like to have held it<br />one last time.
+14029271 14030939 Oh!
+14033483 14038488 Well, here's a sight<br />I have never seen before.
+14052669 14056006 The power of the Three Rings is ended.
+14056840 14059634 The time has come...
+14059801 14063096 ...for the dominion of Men.
+14064097 14067017 The sea calls us home.
+14075484 14077652 I think I'm...
+14077819 14082199 ...quite ready<br />for another adventure.
+14113230 14115565 Farewell...
+14115732 14118443 ...my brave Hobbits.
+14120404 14122406 My work is now finished.
+14126368 14131248 Here at last,<br />on the shores of the sea...
+14131915 14134751 ...comes the end of our Fellowship.
+14138255 14140757 I will not say, "Do not weep"...
+14141425 14145429 ...for not all tears are an evil.
+14162988 14164948 It is time, Frodo.
+14170454 14172456 What does he mean?
+14174958 14177794 We set out to save the Shire, Sam.
+14179421 14182132 And it has been saved.
+14185802 14188472 But not for me.
+14189431 14191850 You don't mean that.
+14193101 14195145 You can't leave.
+14203653 14206323 The last pages are for you, Sam.
+14419452 14422330 <i>My dear Sam,</i>
+14424207 14427544 <i>You cannot always be torn in two.</i>
+14427711 14431881 <i>You will have to be one and whole<br />for many years.</i>
+14432590 14438054 <i>You have so much to enjoy<br />and to be and to do.</i>
+14439347 14442517 <i>Your part in the story will go on.</i>
+14443226 14445019 Well...
+14446896 14448565 ...I'm back.
