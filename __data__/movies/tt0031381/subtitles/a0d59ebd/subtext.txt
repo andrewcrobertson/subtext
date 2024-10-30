@@ -1,0 +1,2018 @@
+42 842 23.976
+6089 11261 ALKUSOITTO
+195737 197737 TUULEN VIEMÄÄ
+369828 372539 Olipa kerran kavaljeerien<br />ja puuvillan maa,...
+372706 376001 ...jota kutsuttiin<br />vanhoiksi Etelävalloiksi.
+376168 379505 Siellä ritarillisuus kumarsi<br />viimeisen kerran.
+379630 385260 Siellä asuivat viimeiset ritarit,<br />kauniit neidot, herrat ja orjat.
+385427 390015 Se löytyy enää vain kirjoista,<br />unohtuneena unelmana.
+390224 395312 Se elämäntapa on nyt<br />tuulen viemää...
+411995 417125 Erottakoot vain yliopistosta.<br />Sota alkaa millä hetkellä hyvänsä.
+417292 421880 - Eikö ole jännittävää, Scarlett?<br />- Kyllä me niille näytämme.
+422047 427761 Hui hai. Sota, sota, sota.<br />Sotajutut pilaavat kaikki juhlat.
+427970 430430 Olen pitkästynyt kuoliaaksi.
+430556 435978 - Mitään sotaa ei tulekaan.<br />- Tottakai tulee.
+436186 440816 Jos sanotte vielä kerran "sota",<br />menen sisälle.
+440983 442860 Etkö toivo sotaa?
+451618 454872 Muistakaa, että varoitin teitä.
+455038 459877 Puhutaan Wilkesien<br />huomisesta huviretkestä.
+460043 465007 - Syöthän kanssamme?<br />- Mietin sitä huomenna.
+465174 468802 Haluamme kaikki valssit.<br />Brent, minä, Brent, minä.
+468969 471930 - Sopiiko?<br />- Mieluusti.
+472097 477269 - Mutta olen luvannut jo kaikki tanssini.<br />- Et voi!
+477436 479980 - Haluatko kuulla salaisuuden?<br />- Kenestä?
+480147 484359 - Melanie Hamiltonista, Atlantasta.<br />- Ashley Wilkesin serkusta.
+484526 489198 Siinä hienostelijassa<br />ei ole mitään salaista.
+489364 491533 Hän ja Ashley menevät naimisiin.
+491700 495245 - Wilkesit naivat aina serkkujaan.<br />- Saammeko ne valssit?
+495412 497789 Tottakai...
+502503 505297 Se ei ole totta.<br />Ashley rakastaa minua.
+506381 509843 - Mikä häneen on mennyt?<br />- Suututimmeko hänet?
+509968 513931 Minne menette ilman huivia?
+514097 516433 Miksette pyytänyt<br />herroja päivälliselle?
+516600 520979 Teillä ei ole enempää<br />tapoja kuin työläisellä.
+521897 525776 Tulkaa takaisin ennenkuin<br />vilustutte kuoliaaksi.
+525984 530864 - Ei, odotan isää kotiin.<br />- Tulkaa heti sisään!
+547422 548757 Aika lopettaa.
+548924 551426 - Kuka käski?<br />- Minä.
+551635 554888 Minä olen työnjohtaja ja päätän<br />milloin Tarassa lopetetaan.
+555055 559643 Lopetetaan!
+599892 603520 Sinunlaistasi ei ole<br />maailmassa toista.
+604521 608275 Isä! Oletpa sinä taitava.
+610402 614448 Katie Scarlett O'Hara,<br />vakoilitko hyppäämistäni?
+614656 620621 - Kerrot tietysti äidillesi.<br />- Minä en ole kielikello.
+620829 624291 Loukkasit polvesi<br />viime vuonna samalla aidalla.
+624458 630547 Minun tyttäreni ei määrää minua.<br />Omapahan on kaulani.
+630714 634635 Tee kuten haluat.<br />Miten Twelve Oaksissa voidaan?
+634801 639681 Valmistelevat huomista<br />ja puhuvat vain sodasta.
+639848 642684 Oliko siellä muita?
+642851 646104 Serkku Melanie Hamilton<br />ja hänen veljensä Charles.
+646313 649608 Hän on kalpea kuin kielo.<br />En pidä hänestä.
+649775 654905 - Ashley on eri mieltä.<br />- Ei hän voi pitää sellaisesta.
+655072 660869 - Miksi olet niin kiinnostunut?<br />- En ole. Mennään sisään.
+661036 665582 - Onko hän kosiskellut sinua?<br />- Ei.
+665749 670629 John Wilkes kertoi salaisuuden:<br />Ashley nai Melanien.
+670838 674883 - Kihlaus julkaistaan huomenna.<br />- En usko sitä.
+676510 679513 Minne menet? Scarlett?
+682099 686103 Oletko juossut sellaisen miehen<br />perässä joka ei rakasta sinua?
+686270 691650 - Sinä voit saada kenet tahansa.<br />- En. Minä vain yllätyin.
+691817 698073 Jos Ashley haluaa kätesi,<br />olisin suostunut mieluusti.
+698323 702995 - Hän ei tekisi sinua onnelliseksi.<br />- Tekisipäs.
+703161 707583 Ota mieheksi etelävaltion mies<br />joka ajattelee kuten sinä.
+707749 712504 - Jätän Taran sinulle.<br />- En välitä Tarasta.
+712713 717426 Väitätkö ettei Taran maa<br />merkitse sinulle mitään?
+717593 722055 Maa on ainoa jonka takia<br />kannattaa taistella ja kuolla.
+722222 725684 - Maa on pysyvää.<br />- Kuulostat irlantilaiselta.
+725893 731231 Olen ylpeä irlantilaisuudestani.<br />Sinäkin olet puoliksi sellainen.
+731398 735986 Kun on irlantilaisverta suonissa,<br />rakastaa maataan.
+736195 740657 Sinähän olet vielä lapsi.<br />Opit vielä pitämään maasta.
+740824 743744 Sellaisia irlantilaiset ovat.
+768101 771939 Scarlett-neiti, Suellen-neiti,<br />Carreen-neiti, äitinne tulee.
+772105 776360 Hoitaa sitä roskaväkeä<br />eikä muista ruoka-aikoja.
+778445 780531 Kuluttaa itsensä loppuun.
+780697 784034 Lamppu ulos, Pork.
+784201 786537 Gerald-herra,<br />Ellen-rouva on kotona.
+786703 790832 Kuluttaa itsensä loppuun.<br />Hiljaa siinä, talossa.
+790958 795963 Ulos nyt, äkkiä,<br />ota hänen lääkelaatikkonsa.
+796129 801635 - Olimme huolissamme teistä.<br />- No nyt olen kotona.
+801802 808141 Puroniitty on kynnetty.<br />Mitä huomenna tehdään?
+808267 813647 Herra Wilkerson, Emmy Slattery<br />synnytti juuri lapsenne.
+813814 817067 Minun lapseni?<br />En nyt ymmärrä.
+817234 822531 Jonka luoja armossaan otti pois.<br />Hyvää yötä, Wilkerson.
+825534 829913 - Lämmitän teille ruokaa.<br />- Rukousten jälkeen.
+833333 838463 - Jonas Wilkerson on erotettava.<br />- Hän on parhaita työnjohtajia.
+838630 840966 Hänen on lähdettävä aamulla.
+843260 848473 Ei kai? Jenkki Wilkerson<br />ja Slatteryn piikatyttö.
+848640 851602 Siitä puhumme huomenna.
+856064 859067 Haluan laittaa<br />Scarlettin vihreän leningin.
+859234 863488 Hys, hys.<br />Vaaleanpunainen on kaunis.
+863697 868160 - Saat punaisen huivini.<br />- Miksen saa valvoa huomenna?
+868327 875167 - Scarlett, näytät väsyneeltä.<br />- Voin aivan hyvin, äiti.
+875334 881381 - Enkö saa valvoa huomenna?<br />- Saat tulla päivälliselle.
+881548 884635 - Vihreä mekkosi onkin tyhmä.<br />- Hiljaa!
+884801 887262 Rukouksiin, tytöt.
+893060 898023 Ja niille,<br />joita vastaan olemme rikkoneet.
+898190 903153 Raskaimman rikkomukseni<br />kautta.
+903320 912371 Siunattu olkoon Neitsyt Maria,<br />Johannes Kastaja ja apostolit.
+917334 920462 Ashley ei tiedä,<br />että rakastan häntä.
+920629 925300 Jos kerron hänelle,<br />hän ei voi mennä naimisiin.
+928595 933183 Ja anna meille meidän<br />syntimme anteeksi. Amen.
+935352 938313 Pidä kiinni ja hengitä sisään.
+938689 943610 - Scarlett-neidin ruoka.<br />- En syö muruakaan.
+943777 947573 Tottakai syöt. Syöt kaiken.
+948490 951660 Enkä syö.
+953370 957541 Anna hameet, olemme myöhässä.<br />Tuo tuossa.
+957708 963672 Ei sovi näyttää pintaa päivällä.<br />Minä puhun äidillenne.
+963839 968427 Jos kerrot äidille,<br />en syö palaakaan.
+978896 985360 Ottakaa huivi harteille,<br />ettei tule pisamia.
+992618 997873 - Syökää nyt edes vähän.<br />- Ei.
+998040 1001835 Tänään pidän hauskaa<br />ja syön retkellä.
+1002002 1004880 Ajatelkaa perheenne mainetta.
+1005047 1010344 Hieno nainen syö<br />kuin lintu vieraisilla.
+1010511 1014806 Ette voi hotkia kuin työläinen<br />Wilkesien luona.
+1014973 1020145 Hui hai. Ashley pitää tytöistä<br />joilla on hyvä ruokahalu.
+1020312 1026109 Sanoo yhtä, miettii toista.<br />Eikä hän ole teitä kosinut.
+1042251 1046713 ÄIkää hotkiko<br />ettei tule kaikki ylös samantien.
+1048590 1051552 Miksi tytön pitää olla tyhmä,<br />että saa miehen?
+1051677 1056974 Scarlett O'Hara, jos et tule heti,<br />lähdemme ilman sinua.
+1057140 1059810 Tulen heti, isä.
+1064940 1070362 Korsetti on liian tiukalla.<br />Katkean varmasti kahtia.
+1073323 1075784 TWELVE OAKS<br />Omistaa John Wilkes
+1076493 1079037 Asiaton oleskelu<br />kielletty
+1094887 1099850 Päivää, John Wilkes.<br />Onpa hieno päivä juhlalle!
+1100017 1105606 - Eikö rouva tullutkaan?<br />- Hän tulee sitten tanssiaisiin.
+1105772 1109526 - Tervetuloa Twelve Oaksiin.<br />- Kiitos, India.
+1109735 1112905 Tyttäresi kaunistuu<br />päivä päivältä.
+1113071 1115991 Tervehditään O'Haran tyttöjä.
+1116158 1120078 En voi sietää Scarlettia.<br />Hän on niin Ashleyn perään.
+1120245 1124041 Se on veljesi murhe.<br />Muista emännän velvollisuudet.
+1124208 1128295 Huomenta, tytöt.<br />Näytätte niin kauniilta.
+1129379 1135135 India Wilkes! Onpa kaunis puku,<br />en saa siitä silmiäni irti.
+1148148 1149733 Ashley.
+1151443 1154613 Scarlett, rakas ystävä...
+1154780 1160661 Olen etsinyt sinua.<br />Voimmeko puhua jossain rauhassa?
+1160827 1164540 Toki. Minullakin on sinulle<br />jotain kerrottavaa.
+1164748 1170754 Toivottavasti iloisia uutisia.<br />Tervehditään serkkuani Melanieta.
+1170963 1175676 - Onko meidän pakko?<br />- Hän on odottanut tapaamistasi.
+1175843 1179805 Melanie! Scarlett tuli.
+1182516 1187354 - Onpa hauska nähdä taas.<br />- Mikä yllätys nähdä sinua.
+1187521 1194736 - Jäät kai muutamaksi päiväksi?<br />- Toivottavasti, niin ystävystymme.
+1194903 1199241 - Pidämme häntä täällä, vai mitä?<br />- Ja pidetään oikein hauskaa.
+1199449 1205581 Ashley osaa hauskuttaa tyttöjä.<br />Mutta sinähän olet niin vakava.
+1205747 1211837 Sinä olet niin eläväinen.<br />Haluaisin olla samanlainen.
+1212004 1218886 - Et kai tarkoita sitä?<br />- Melanie on aina tosissaan.
+1219052 1223432 Toisin kuin Ashley,<br />hän ei tarkoita sitä mitä sanoo tytöille.
+1224641 1229188 Charles Hamilton...<br />Sinä komea roikale.
+1229354 1234151 Otitko veljesi mukaan<br />murskaamaan sydämeni?
+1234318 1238655 Nyt kun Charles on sulhosi,<br />hän kelpaa myös Scarlettille.
+1238822 1245120 Syödään yhdessä. Älä liehittele<br />muita tyttöjä, olen mustasukkainen.
+1245329 1248207 En tohtisikaan.
+1248874 1252920 Kylläpä poskipartasi pukee sinua,<br />Frank Kennedy.
+1253086 1255547 Kiitos, Scarlett-neiti.
+1255714 1261094 Charles halusi minut pöytäänsä,<br />mutta lupasinhan sinullekin.
+1261261 1265140 Hymyile vaan.<br />Nyt hän on sinun sulhosi kimpussa.
+1265307 1270646 Se olisi hienoa,<br />katsotaan mitä voin tehdä.
+1270854 1275984 - Liehitteletkö siskosi sulhoa?<br />- Löydän itse paljon paremman.
+1276652 1282407 Brent ja Stuart Tarleton,<br />olen vihainen teille.
+1282574 1286328 Ette huomaakaan minua ja<br />laitoin vanhan mekonkin mieliksenne.
+1286495 1290791 - Luulin syöväni pöydässänne.<br />- llman muuta, Scarlett.
+1290958 1295087 En koskaan osaa päättää<br />kumpi teistä on komeampi.
+1295254 1299007 Valvoin koko yön sitä miettien.
+1303971 1306723 - Kuka tuo on?<br />- Kuka?
+1306890 1310269 Tuo mies,<br />joka tuijottaa meitä hymyillen?
+1310435 1316859 Etkö tiedä? Rhett Butler Charlestonista.<br />Hänellä on hirveä maine.
+1321613 1326326 Hän näyttää kuin tietäisi<br />miltä näytän vaatteiden alla.
+1326493 1332583 Hän on ollut pohjoisessa,<br />koska perhe ei puhu hänelle.
+1332749 1335002 Hän sai potkut<br />sotilasakatemiasta.
+1335210 1338380 Ja hän ei suostunut<br />naimaan erästä tyttöä.
+1338547 1340340 Kerro!
+1340507 1344386 Hän vei tytön ajelulle ilman esiliinaa,...
+1344553 1348557 ...eikä sitten mennyt naimisiin<br />tytön kanssa.
+1350642 1354563 Ei, mutta tytön maine<br />oli mennyttä.
+1360694 1363280 - Oletko onnellinen?<br />- Erittäin.
+1364531 1369453 Sinä kuulut tänne,<br />tämä on kuin luotu sinua varten.
+1370954 1376418 - Pidän paikoista joita rakastat.<br />- Sinäkin pidät Twelve Oaksista.
+1376585 1380214 Se on enemmän kuin koti.
+1380380 1384218 Se on maailma<br />joka haluaa olla vain kaunis.
+1384384 1388472 Mutta se ei kestä ikuisesti.
+1388639 1391767 Pelkäätkö sotaa?
+1391934 1398482 Mutta meidän välillemme<br />ei mikään sota pääse.
+1398649 1405614 Mitä tahansa tapahtuukin,<br />rakastan sinua koko elämäni.
+1410285 1415999 Kyllä tämä pöydän voittaa.<br />Silloin saa vain kaksi kavaljeeria.
+1416124 1419419 - Haen jälkiruokaa.<br />- Voisinko minä?
+1421880 1423966 Uskoisin,...
+1426260 1429680 ...että Charles Hamilton saa luvan.
+1430722 1434268 Kiitos, neiti O'Hara.
+1434434 1437729 - Mene sitten!<br />- Onnenpekka.
+1444987 1448699 Neiti O'Hara. Rakastan teitä.
+1450284 1452828 Ei minun ollutkaan nälkä.
+1455998 1459001 Miksi minun pitää nukkua?
+1459168 1465465 Teidänkin olisi aika käyttäytyä<br />kuten äitinne tytär konsanaan.
+1465632 1472514 - Eivät jenkit ota päiväunia.<br />- Eikä niitä näy täällä illalla.
+1473140 1477394 Ashley ei tainnut olla<br />sinun lumoissasi tänään.
+1477561 1481648 Pidä sinä vain huoli<br />Poskiparta-Kennedystäsi.
+1481815 1485444 Ashleyn kihlaus<br />julkaistaan illalla.
+1485611 1487696 Niinhän sinä luulet.
+1487863 1492367 ÄIkää olko kuin valkoinen roskaväki.
+1492492 1495370 Pääsette jo juhliin,<br />käyttäytykää kuin hienot naiset.
+1495579 1497873 Hällä väliä.
+1505923 1512262 ÄLÄ TUHLAA AIKAA<br />SllTÄ ELÄMÄ ON TEHTY
+1548131 1550509 Olemme saaneet jo kestää<br />liikaa jenkeiltä.
+1550676 1554847 Pidämme orjamme,<br />halusivatpa he tai eivät.
+1555013 1558600 Georgialla on oikeus<br />vetäytyä Unionista.
+1558767 1561728 Etelän on turvauduttava aseisiin.
+1561895 1567234 Ammuimme jenkkejä Fort Sumterissa,<br />meidän on taisteltava.
+1567401 1570487 Pyytäkööt jenkit ensin rauhaa.
+1570654 1574950 Jenkit eivät voi taistella,<br />me voimme.
+1575117 1577995 He juoksevat karkuun.
+1578120 1581999 Yksi meikäläinen hakkaa<br />20 jenkkiä.
+1582207 1586253 - Herrasmiehet hakkaavat roskaväen.<br />- Niin hakkaavat.
+1586420 1593302 - Mitä sanoo kapteenimme?<br />- Jos Georgia sotii, niin minäkin.
+1593468 1598265 Mutta isäni tavoin toivon,<br />että saamme erota rauhassa Unionista.
+1598432 1600225 Et siis toivo sotaa?
+1600392 1603812 Sota on aiheuttanut<br />kaiken maailman kurjuuden.
+1603979 1609484 Ja kun sota on ohi,<br />kukaan ei tiedä mikä sen aloitti.
+1611737 1616200 Herra Butler on ollut pohjoisessa.<br />Oletteko samaa mieltä?
+1616366 1620287 - Ei sotaa sanoilla voiteta.<br />- Mitä tarkoitatte?
+1620454 1625292 - Etelässä ei ole tykkitehdasta.<br />- Mitä se herrasmiehiä haittaa?
+1625459 1631381 - Se voi vaikuttaa paljonkin.<br />- Vihjaatteko jenkkien voittavan?
+1631548 1635844 En, sanon suoraan,<br />että heillä on paremmat varusteet.
+1636011 1641141 Tehtaita, telakoita, kaivoksia.<br />Ja laivasto saartoa varten.
+1641350 1644853 Meillä on vain puuvillaa,<br />orjia ja ylimielisyyttä.
+1645020 1647814 Tuo on kunnianloukkaus!
+1647981 1652486 - Anteeksi jos totuus loukkaa.<br />- Anteeksipyyntö ei riitä.
+1652653 1659451 Teidät erotettiin West Pointista<br />ja olette oman perheennekin hylkimä.
+1664289 1667668 Pyydän anteeksi kaikkia puutteitani.
+1668836 1671547 Katsoisin mielelläni ympärilleni,<br />herra Wilkes.
+1671672 1677344 Pilaan vain toisten konjakin,<br />sikarit ja voitonunelmat.
+1683851 1689273 - Tuollaista voi häneltä odottaa.<br />- Et haastanut häntä.
+1689439 1691900 - Hän ei halunnut taistella.<br />- Ei suinkaan.
+1692067 1694486 - Hän ei halunnut häväistä sinua.<br />- Häväistä?
+1694653 1700325 - Hän on maan parhaita ampujia.<br />- Minä ammun hänet.
+1700534 1706874 Rauhoitu, sinua tarvitaan<br />tärkeämpiin taistoihin.
+1707040 1711128 Herra Butler on vieraamme,<br />näytän hänelle tilaa.
+1724308 1726602 Ashley.
+1737946 1740741 Ketä olet täällä piilossa?
+1745370 1747539 Mikä hätänä?
+1749082 1755214 Mikset lepää kuten muutkin?<br />Onko sinulla salaisuus?
+1757508 1761345 - Ashley. Rakastan sinua.<br />- Scarlet?
+1761512 1763847 Rakastan sinua todella.
+1765349 1771271 Johan murskasit muiden sydämet.<br />Minun sait jo kauan sitten.
+1771480 1776026 Kuuluuko sydämesi minulle?<br />Rakastan sinua.
+1776193 1779738 Älä puhu tuollaista.<br />Vihaat minua kun kerroit.
+1779905 1783825 En vihaa sinua koskaan.<br />Tiedän, että pidät minusta.
+1784409 1790123 - Pidäthän sinä?<br />- Pidän toki.
+1792042 1795295 Unohdetaan, että sanoimme mitään.
+1796672 1802761 - Miksi? Etkö halua minua?<br />- Menen naimisiin Melanien kanssa.
+1802928 1809268 - Et voi, jos välität minusta.<br />- Pakotat minut satuttamaan sinua.
+1809434 1815107 Olet niin nuori,<br />et tiedä mitä avioliitto merkitsee.
+1815274 1819319 Haluan vaimoksesi.<br />Et rakasta Melanieta.
+1819444 1824283 Olemme samanlaisia, samaa verta.<br />Ymmärrämme toisiamme.
+1824408 1826368 Mutta sinä rakastat minua.
+1826535 1830831 Niin, sinulla on se elämänhalu<br />joka minulta puuttuu.
+1831373 1835586 Mutta se ei riitä kahdelle<br />näin erilaiselle ihmiselle.
+1835711 1838922 Vihaan sinua, pelkuri.
+1839089 1842467 Otat mieluummin sen tyhmyrin<br />joka sanoo vain kyllä ja ei...
+1842634 1844887 ...ja synnyttää tyhmiä lapsia.
+1845053 1851059 - Et saa puhua Melaniesta noin.<br />- Uskottelit että haluat minut.
+1851226 1855397 - En koskaan...<br />- Kylläpäs!
+1855606 1861570 Vihaan sinua ikuisesti!<br />En keksi tarpeeksi huonoa nimeä.
+1888096 1890432 Onko sota syttynyt?
+1890599 1893894 Olisitte ilmoittanut itsestänne.
+1894061 1898815 Kesken rakkauskohtauksen?<br />Se ei olisi ollut kohteliasta.
+1898982 1903153 - Salaisuutenne on turvassa.<br />- Ette ole herrasmies.
+1903320 1909493 Ettekä te hieno nainen.<br />Mutta he eivät minua miellytäkään.
+1909701 1912454 Tuohan oli loukkaus.
+1912621 1918919 Minusta kohteliaisuus. Tavataan<br />sitten kun unohdatte Wilkesin.
+1919127 1925050 Hän ei ole kyllin hyvä tytölle<br />jolla on tuollainen elämänhalu.
+1925217 1929388 Ette kelpaa edes<br />hänen kenkiään kiillottamaan.
+1929555 1933934 Ja teidän piti vihata häntä.
+1934768 1938689 Hän nolasi itsensä jahtaamalla<br />kaikkia miehiä retkellä.
+1938856 1943277 Nyt et ole reilu, India. Miehet<br />hakeutuvat kauniiden naisten luo.
+1943485 1945737 Sinä olet niin hyvä, Melanie.
+1945904 1949700 - Hänhän jahtasi veljeäsikin.<br />- Tietäen että Charles on minun.
+1949867 1954788 Hän on vain niin iloinen<br />ja eläväinen tyttö.
+1954955 1959793 - Miehet eivät nai sellaisia.<br />- Nyt olit ilkeä.
+1983192 1985027 Neiti O'Hara?
+1989072 1992367 Lincoln on pyytänyt<br />vapaaehtoisia sotaan.
+1992492 1994953 Ette ajattele mitään tärkeää.
+1995120 1999041 Nyt on sota, kaikki lähtevät.<br />Myös minä.
+1999208 2001126 Kaikki?
+2004588 2008800 Surettaako teitä nähdä<br />meidän lähtevän?
+2008967 2011428 Itken joka ilta.
+2011595 2017434 Olette kaunein tyttö maailmassa<br />ja ihanin.
+2018310 2024233 En voi toivoa rakkauttanne,<br />olen niin kömpelö.
+2024399 2029446 Jos voisitte ajatella avioliittoa,<br />teen mitä tahansa.
+2030322 2035077 - Mitä sanoitte?<br />- Tuletteko vaimokseni?
+2040290 2042709 Kyllä, herra Hamilton.
+2042876 2046755 - Odotatteko minua?<br />- En halua odottaa.
+2046922 2049675 Haluatteko heti naimisiin?
+2049842 2053136 Neiti O'Hara... Scarlett.
+2055222 2057766 - Koska puhun isällesi?<br />- Mitä pikemmin, sen parempi.
+2057933 2061770 Menen heti, en malta odottaa.<br />Rakas.
+2064106 2065983 Rakas.
+2068443 2072823 - En joudu sinne viikkoon.<br />- Viikko, ja sinut viedään minulta.
+2106481 2112988 Toivoin, että häänne<br />ovat yhtä kauniit kuin meidän eilen.
+2113155 2118577 - Olivatko ne?<br />- Kyllä. Olemme nyt sisaria.
+2126960 2132674 Älä itke, kulta.<br />Palaan luoksesi parissa viikossa.
+2143435 2148232 Vaikka kapteeni Hamilton<br />ei kuollut taistelukentillä,...
+2148440 2153028 ...hän kuoli sankarina<br />keuhkokuumeeseen tuhkarokon jälkeen.
+2153195 2157866 Nöyrin palvelijanne<br />kenraaliluutnantti Wade Hampton.
+2176510 2181682 - Scarlett-neiti!<br />- Olen liian nuori leskeksi.
+2181849 2184852 Scarlett-neiti!
+2185018 2188522 Säikytän ihmisiä tuossa kapineessa.
+2188689 2194111 - Teidän pitäisi surra sisällä.<br />- En minä tunne surua.
+2194278 2197197 Miksi pitäisi teeskennellä?
+2197656 2202119 Mikä nyt? Voi pientä...
+2203287 2209084 - Mikä sinun on?<br />- Elämäni on nyt ohitse.
+2211420 2217426 Tiedän, että olen kauhea,<br />mutten kestä mustissa kulkemista.
+2217593 2221805 En pääse juhliin<br />ja näytänkin kauhealta.
+2222014 2228270 Et ole yhtään kauhea,<br />jos haluat nauttia nuoruudesta.
+2231023 2234276 Haluaisitko lähteä<br />Savannahiin vähäksi aikaa?
+2234443 2240741 - Mitä minä siellä tekisin?<br />- Entä Atlantaan? Siellä on vilkasta.
+2240908 2244578 Voisit asua Melanien ja<br />hänen tätinsä Pittypatin luona.
+2244745 2249291 Melanie. Niinhän minä voisin.
+2249499 2252669 Olet maailman ihanin äiti.
+2252836 2258258 Pitäisitkö siitä?<br />Hymyile nyt vähän.
+2259676 2261845 Voit ottaa Prissyn mukaan.
+2262012 2267059 Ala pakata neidin vaatteita,<br />minä kirjoitan teille kirjeet.
+2269436 2274274 - Atlanta...<br />- Siellä on vain ongelmia.
+2274441 2279279 - Mitä tarkoitatte?<br />- Ashley Wilkesiä tietenkin.
+2279446 2283867 Kun hän tulee lomalle,<br />odotatte häntä kuin hämähäkki.
+2284034 2286828 - Hän on Melanie-neidin mies...<br />- Ala jo pakata!
+2289915 2293210 TANSSIAlSET ATLANTAN<br />SOTILASSAIRAALAN HYVÄKSl
+2308559 2313188 - Hänestä puhutaan.<br />- Älä välitä, Pittypat-täti.
+2313355 2318026 Scarlett asuu kattoni alla<br />ja on minun vastuullani.
+2318235 2324575 Leski huvittelemassa julkisesti.<br />Minua ihan pyörryttää.
+2324741 2332332 Scarlett halusi niin auttaa.<br />Se oli kaunis uhraus häneltä.
+2332499 2337796 Sinun puheistasi luulee,<br />että hän tuli tänne tanssimaan.
+2349850 2354771 Hyvät naiset ja herrat,<br />loistavia uutisia.
+2354897 2358567 Urheat sotilaamme<br />ovat jälleen voittaneet.
+2358775 2365991 Kenraali Lee on pakottanut jenkit<br />Virginian pohjoispuolelle.
+2375125 2378504 lloinen yllätys!
+2378670 2383050 Joukossamme on tänään<br />urhein saarron murtajista,...
+2383258 2386595 ...jonka kuunarit livahtavat<br />ohi jenkkien tykkien...
+2386762 2390807 ...ja tuovat meille villan<br />ja pitsit päällämme.
+2390974 2395062 Puhun urheasta miesten miehestä.
+2395229 2399942 Kuka muukaan kuin ystävämme<br />Charlestonista. Kapteeni Butler.
+2420712 2422756 Sallikaa minun.
+2426343 2431890 Kapteeni Butler, hauska nähdä.<br />Tapasimme viimeksi mieheni kotona.
+2432057 2437271 - On hauskaa, että muistatte.<br />- Tapasitko sinä kapteenin?
+2437437 2439606 Taisin tavata.
+2439773 2444695 Hyvin lyhyesti kirjastossa.<br />Olitte rikkonut jotain.
+2445445 2447990 Muistan kyllä kapteenin.
+2448156 2452035 Luovutteko koruistanne<br />asiamme hyväksi?
+2452202 2454329 Me suremme, ei ole koruja.
+2456081 2459334 Saanko luvan -<br />rouvien puolesta.
+2459501 2462838 - Kiitos.<br />- Hetkinen.
+2465507 2467885 Sehän on vihkisormuksenne!
+2468051 2472723 Se auttaa miestäni enemmän<br />poissa sormestani.
+2475434 2477519 Se oli kauniisti tehty.
+2478562 2484067 Ottakaa minunkin.<br />Sehän menee hyvään asiaan.
+2484735 2488822 Tiedän miten paljon<br />sormus teille merkitsi.
+2488989 2495162 Melanie, pyydän lupaasi<br />hyvin epätavalliseen asiaan.
+2495954 2498540 Suottehan anteeksi?
+2499791 2507841 - Sota tekee omituisia leskiä.<br />- En halua nähdä teitä koskaan.
+2511094 2516850 ÄIkäähän nyt.<br />Vien salaisuutenne hautaan asti.
+2518477 2525817 En voi vihata sotasankaria.<br />Osoittauduitte jaloksi mieheksi.
+2525984 2531782 En halua järkyttää teitä,<br />mutta en ole sankari tai jalo.
+2531949 2535702 - Mutta olette saarronmurtaja?<br />- Teen sitä rahasta.
+2535869 2537663 Ettekö usko asiaamme?
+2537829 2541792 Uskon vain Rhett Butleriin.<br />Muulla ei ole väliä.
+2545504 2550425 Nyt jännittäviä uutisia<br />sairaalan hyväksi.
+2552386 2558058 Herrat voivat nyt huutaa<br />daaminsa huutokaupassa.
+2560060 2564731 Miten voitte antaa miehenne<br />johtaa orjakauppaa?
+2564940 2567651 Kuinka kehtaatte arvostella?
+2567860 2572030 Melanie Wilkes sanoi,<br />että asian hyväksi tämäkin sopii.
+2572197 2576910 - Vai niin.<br />- Missä on hajusuolani?
+2577119 2580706 - Taidan pyörtyä.<br />- Et uskalla pyörtyä, Pittypat.
+2580914 2584626 Jos Melanie hyväksyy sen,<br />se on kunnollista.
+2584793 2587754 Saanko tarjouksia, hyvät herrat?
+2588422 2590424 ÄIkää ujostelko.
+2590841 2595137 20 dollaria<br />Maybelle Merriwetheristä.
+2595304 2597264 25 dollaria<br />Fanny Elsingistä.
+2597472 2601685 - Vain 25 dollaria...<br />- 150 kultadollaria.
+2602144 2606273 - Kenestä daamista?<br />- Rouva Charles Hamiltonista.
+2608358 2611445 - Kuinka?<br />- Rouva Charles Hamiltonista.
+2611612 2616533 Rouva Hamilton suree,<br />mutta joku Atlantan kaunottarista...
+2616700 2622497 - Sanoin rouva Charles Hamilton.<br />- Hän ei suostu, herra Butler.
+2623373 2626543 Kyllä suostun.
+2636929 2639556 Valitkaa parit Virginia-pyörään.
+2641141 2645145 - Järkytimme Etelää, Scarlett.<br />- Vähän kuin saarron murtamista.
+2645312 2648398 Pahempaa.<br />Odotan siltä hyvää tuottoa.
+2648607 2654446 Hällä väliä! Saan tanssia,<br />vaikka Abe Lincolnin kanssa.
+2686770 2691650 - Maineeni on pian mennyttä.<br />- Rohkea tulee ilmankin toimeen.
+2691817 2693902 Olettepa te julkea!
+2701702 2704162 Tanssitte ihanasti.
+2704329 2710252 En ole plantaasiherroja,<br />odotan muutakin kuin flirttiä.
+2711128 2712963 Mitä te odotatte?
+2713130 2718093 Kerron jos pyyhit tuon<br />kaunottaren ilmeen naamaltasi.
+2718260 2723015 Haluan kuulla samat sanat<br />jotka sanoit Ashley Wilkesille.
+2723182 2728645 - Rakastan sinua.<br />- Niitä et kuule koskaan.
+2734484 2738614 Hyvä rouva Wilkes, konfederaatio<br />ei kaipaa naisten sydänverta.
+2738739 2740991 Ostin sormuksenne takaisin.
+2741158 2745162 Palattuani Pariisista<br />otan vapauden tulla käymään,...
+2745329 2748832 ...ilmaisemaan ihailuni.<br />Rhett Butler.
+2748999 2753837 Kuinka kauniisti tehty.<br />Hän on huomaavainen mies.
+2754004 2757966 Hui hai. Eikö hän puhu<br />minun uhrauksestani?
+2758133 2761094 P.S. Liitän mukaan myös<br />rouva Hamiltonin sormuksen.
+2765599 2772856 Kuinka ihana, Rhett.<br />Toitko sen ihan Pariisista saakka?
+2773065 2777152 Sinun on aika lopettaa<br />teeskennelty surusi.
+2777319 2781031 Ensi kerralla tuon<br />vihreää silkkiä pukuun.
+2781240 2787329 Olen velkaa sotapojillemme sen,<br />että tyttömme ovat kauniita.
+2787496 2790916 Siitä on kauan<br />kun minulla oli mitään uutta.
+2800300 2802469 Miltä näytän?
+2802678 2805973 - Kauhealta.<br />- Mikä nyt?
+2806139 2811728 Sota ei ole enää hauskaa kun<br />tuollainen tyttö ei tiedä muodista.
+2816149 2819528 Rhett...<br />Anna kun minä.
+2824116 2829788 - Kuinka uskallan pitää tätä?<br />- Pidät kuitenkin.
+2829955 2835294 Eikä kukaan Pariisissa enää<br />pidä tuollaisia alushousuja.
+2835460 2839423 Mitä he sitten...<br />Ei sinun pitäisi puhua sellaista.
+2839590 2843010 Niistä saa kyllä tietää,<br />muttei puhua. Tekopyhää.
+2843177 2846763 Olet kovin kiltti,<br />mutten saisi ottaa näitä vastaan.
+2846930 2852728 En anna mitään odottamatta<br />jotain vastalahjaksi.
+2852895 2858483 - En mene naimisiin hatun takia.<br />- En ole naimisiinmenevää sorttia.
+2858650 2861403 En suutelekaan tuollaisen takia.
+2871622 2873790 Avaa silmäsi!
+2874750 2878462 En suutele sinua,<br />vaikka sitä sinä kaipaat.
+2878629 2882841 Kaipaat paljon suudelmia<br />sellaiselta joka osaa.
+2883008 2888889 - Ja sinäkö osaat?<br />- Kyllä, jos aika olisi oikea.
+2889056 2894770 Sinä omahyväinen raskali!<br />Miksi päästin sinut vierailulle?
+2894937 2901068 Koska olen ainoa mies alle 60<br />ja yli 16 joka on paikalla.
+2901235 2905697 - Sota loppuu pian.<br />- Miksi?
+2905864 2909701 Nyt käydään taistelua<br />joka ratkaisee sodan.
+2909910 2913580 Onko Ashley mukana siellä?
+2913747 2918418 Etkö ole toipunut siitä hölmöstä?<br />Kai hän on mukana.
+2918585 2920629 Missä se on?
+2920796 2924800 Pennsylvaniassa,<br />jossain Gettysburgissa.
+2928262 2935143 Vakavana Atlanta<br />käänsi katseensa Gettysburgiin,...
+2935310 2938730 ...kolmeksi<br />historialliseksi päiväksi,...
+2938897 2946905 ...kun kaksi kansaa otti<br />yhteen Pennsylvanian pelloilla.
+2953704 2957791 Kaatuneiden luettelo!
+2966550 2972181 KAATUNUT RINTAMALLA
+3005422 3009343 Tässä, Melanie-neiti.<br />Niistä sai taistella.
+3009510 3012930 Katso sinä, Scarlett.<br />"W" on viimeisenä.
+3016308 3021271 Wellman, Wendell, White,<br />Whither, Wilkins, Williams...
+3021438 3027236 - Scarlett, ohitit jo hänet.<br />- Hän ei ole tässä.
+3027402 3032157 - Ashley on turvassa!<br />- Hän ei ole haavoittunut.
+3033742 3038622 On niin kilttiä kun murehdit<br />hänestä minun kanssani.
+3045170 3047464 Minun täytyy mennä.
+3048173 3052094 Älä itke täällä,<br />mennään kotiin.
+3053512 3058684 - Tohtori Meade, ei kai...<br />- Poikamme Darcy.
+3058892 3064398 Neuloin hänelle lapasia.<br />Hän ei tarvitse niitä nyt.
+3065023 3068986 Minä ilmoittaudun,<br />tapan kaikki jenkit.
+3069152 3074491 Ei se äitiäsi auta<br />jos sinäkin kuolet.
+3077244 3080539 Surullinen päivä.<br />Tuliko huonoja uutisia?
+3080706 3083625 - Ashley on turvassa.<br />- Hyvä, rouva Wilkesin takia.
+3083792 3088255 Mutta niin monta muuta meni.<br />Kaikista perheistä joku.
+3088463 3094511 - Tarletonin molemmat pojat.<br />- Surullinen näkymä.
+3094678 3098891 Etelä vajoaa polvilleen,<br />eikä koskaan enää nouse.
+3099057 3103854 Menneisyys kuolee edessämme.
+3104021 3110277 - En ole kuullut sinun puhuvan noin.<br />- Vihaan tällaista tuhlausta.
+3112321 3117868 Ashley Wilkes tulee toki kotiin<br />häntä rakastavien naisten luo.
+3118076 3119870 Molempien naisten.
+3121121 3124791 Majuri Ashley Wilkesille<br />on myönnetty 3 päivän joululoma,...
+3124958 3128795 ...ansiokkaasta palveluksesta<br />Pennsylvaniassa.
+3156031 3159034 Sinä tulit.
+3161036 3166458 Tulit vihdoinkin.<br />Olen odottanut ja odottanut.
+3166625 3169044 Melanie, rakas vaimoni!
+3174132 3176260 Unohdimme Scarlettin täysin.
+3176426 3179429 Päivää, Scarlett-hyvä.
+3180430 3184434 Näinkö tervehditään<br />sodasta palaavaa taistelijaa?
+3184601 3187062 Ashley, minä...
+3189189 3191733 Hauskaa joulua, Ashley.
+3199575 3205956 Tule tänne, vanha hölmö.<br />Sukulaiset on jo syöty.
+3206123 3208667 Sinulla ei ole poikasia<br />huolehdittavana.
+3209710 3215174 Pysy paikallasi,<br />pääset joululahjaksi.
+3215340 3219219 Pysy paikallasi.
+3219344 3223765 Älä rupea röyhkeäksi<br />vaikka oletkin Atlantan ainoa kana.
+3226435 3232482 Ei enää sotapuhetta, on joulu.<br />Puhutaan vanhoista ajoista.
+3232649 3237571 - Saammeko lasin viiniä, täti?<br />- Riittäähän tätä.
+3237738 3240282 Tämä on viimeinen isän madeira.
+3240490 3244411 Hän sai sen sedältään,<br />amiraali Will Hamiltonilta,...
+3244620 3248040 ...joka nai serkkunsa<br />Jessica Carrollin Carrolltonista.
+3248207 3251752 He olivat pikkuserkkuja.
+3251919 3255506 Säästin tätä toivottaakseni<br />Ashleylle hauskaa joulua.
+3255714 3260093 ÄIkää juoko kaikkea,<br />tämä on viimeinen.
+3264473 3269811 Olen iloinen lahjastani.<br />Vain kenraaleilla on samanlaisia.
+3270020 3273524 - Mukavaa, että pidät siitä.<br />- Mistä sait kankaan?
+3273690 3279321 Erään kuolleen potilaani<br />äidiltä Charlestonista.
+3280614 3286745 Lupaa minulle, että pidät<br />siitä hyvää huolta, rakas.
+3286912 3292042 Älä huoli. Lupaan tuoda<br />sen takaisin ilman reikiä.
+3294962 3298882 - Hyvää yötä.<br />- Hyvää yötä, Scarlett-kulta.
+3311478 3315482 - Koska herra Ashley lähtee?<br />- Aivan pian.
+3315649 3319027 Eikö Melanie-neiti lähde saattamaan?
+3319152 3324992 Ei, hän järkyttyi niin<br />ettei tule edes alas.
+3336962 3339756 Saanko lähteä saattamaan?
+3339923 3344887 Haluaisin mieluummin<br />muistaa sinut tällaisena.
+3347639 3350893 Minullakin on lahja sinulle.
+3357524 3362029 Onpa se kaunis.<br />Sido sinä se.
+3363363 3367451 Tein tämän takkiin sopivaksi.
+3367618 3372122 Teitkö sen itse?<br />Arvostan sitä yhä enemmän.
+3373123 3376877 Tekisin mitä tahansa puolestasi.
+3377127 3380464 - Itse asiassa voitkin tehdä palveluksen.<br />- Minkä?
+3380631 3387429 Huolehdi Melaniesta, hän on hauras.<br />Hän pitää sinusta niin.
+3387596 3392518 - Jos minä kuolen...<br />- Hiljaa! Rukoile äkkiä.
+3392684 3395103 Rukoile sinä puolestani.
+3395270 3398690 Kaikkien on rukoiltava.<br />Loppu on lähellä.
+3398857 3405239 - Loppu?<br />- Sodan ja tällaisen elämän loppu.
+3405405 3408283 Et kai usko, että jenkit voittavat?
+3408450 3414414 Mieheni kulkevat paljain jaloin<br />ja Virginian lumi on syvää.
+3415499 3421964 Kun katson heitä ja jenkkejä,<br />joita virtaa sinne jatkuvasti...
+3424675 3428303 Haluan olla kaukana sieltä.
+3428470 3431890 On hyvä tietää,<br />että olet Melanien kanssa.
+3432057 3434226 Lupaathan?
+3436603 3438856 Kyllä.
+3439022 3444820 - Onko siinä kaikki?<br />- Hyvästi.
+3444987 3449950 - En voi antaa sinun lähteä.<br />- Sinun on oltava urhea.
+3450117 3456790 En voi muuten lähteä.<br />Olet niin hyvä ja vahva ja kaunis.
+3457749 3461753 Eikä vain kasvosi, vaan sinä.
+3466717 3469678 Anna suukko hyvästiksi.
+3477644 3482983 Ashley, rakastan sinua.<br />En ole rakastanut muita.
+3483150 3488947 Otin Charlesin sinua loukatakseni.<br />Sano, että sinäkin rakastat minua.
+3489114 3492618 Sitten jaksan elää koko elämäni.
+3493368 3495579 Hyvästi.
+3514389 3519269 Kun sota loppuu, Ashley.<br />Kun sota loppuu...
+3526151 3530239 Atlantassa rukoiltiin ja<br />voittoisat jenkit etenivät.
+3530405 3533825 He kulkivat pystypäin<br />mutta raskain sydämin,...
+3533992 3539414 ...haavoittuneiden ja pakolaisten<br />virratessa Georgiaan.
+3539581 3546463 Silloin villit puut<br />kukkivat aina.
+3546672 3550217 - Puron lähellä.<br />- Tiedän kyllä.
+3551260 3558392 Kun minä ja veljeni olimme...<br />Kerroinhan veljestäni?
+3558559 3564690 Varmasti kerroin.<br />Emme tiedä missä Jeff on nyt.
+3564857 3571113 - Bull Runin jälkeen ei ole tietoa.<br />- Meidän on mitattava kuumeenne.
+3571280 3575617 Laittakaa tämä suuhun<br />älkääkä nyt enää puhuko.
+3575784 3581748 Minä olen niin väsynyt,<br />menen kotiin. Eikö sinua väsytä?
+3581915 3588046 Ei, Scarlett.<br />Tämä voisi olla Ashley.
+3588881 3593760 Vieraat hoitaisivat häntä.<br />Ei, minua ei väsytä.
+3595137 3598974 Jokainen heistä voisi olla Ashley.
+3610986 3614781 Olen odottanut teitä<br />jo tunnin, rouva Wilkes.
+3614990 3617743 Häivy, lunttu.
+3617910 3621580 - Älä puhu hänelle.<br />- Kuka olette?
+3621747 3626668 Belle Watling. Teidän mielestänne<br />minulla ei ole tänne asiaa.
+3626835 3629129 Kertokaa nyt mistä on kysymys?
+3629338 3634968 Tarjosin hoitajankykyjäni,<br />mutta minunlaistani ei tänne haluttu.
+3635135 3643143 Sen ymmärrän,<br />mutta kun rahanikaan eivät kelpaa.
+3643310 3649858 Te olette kuulemma hyvä ihminen,<br />ottakaa rahani sairaalaa varten.
+3650025 3655197 - Enkö ole jo sanonut teille...<br />- Puhun rouva Wilkesin kanssa.
+3655364 3659493 Ottakaa vain, se on<br />hyvää rahaa vaikka on minun.
+3659660 3665958 - Olette antelias ihminen.<br />- En, olen vain etelävaltiolainen.
+3666124 3671839 Toiset ovat eri mieltä,<br />mutteivät ole kristittyjä kuten te.
+3678345 3681139 Tässä on paljon rahaa.
+3681348 3686687 10, 20, 30, 50. Kaikki kultaa.
+3686812 3689815 Näytä sitä liinaa.<br />"R.B. "...
+3692359 3696446 Rhett Butlerin vaunut.
+3696655 3700158 Jos en olisi hieno nainen,<br />antaisin hänen kuulla kunniansa.
+3702911 3707624 Shermanin pommitus<br />levitti pakokauhua kaupunkiin.
+3707833 3712462 Avuttomat ja aseistamattomat<br />kaupunkilaiset pakenivat,...
+3712629 3716300 ...voittamattoman voiman edessä.
+3716466 3720762 Viimeiset urheat joukot<br />marssivat kohtaamaan vihollisen.
+3734234 3737446 Herra on minun paimeneni.
+3737613 3740699 Viheriäisille niityille<br />hän vie lepäämään.
+3743952 3750250 Hän virvoittaa sieluni, ohjaa<br />oikealle tielle nimensä tähden.
+3750417 3753879 Vaikka minä vaeltaisin<br />pimeässä laaksossa,...
+3754046 3757424 ...en minä pelkäisi,<br />sillä sinä olet minun kanssani.
+3757591 3760385 Vitsasi ja sauvasi lohduttavat.
+3761053 3765766 - Jenkit!<br />- He ovat jo lähellä.
+3765974 3771313 - Mutteivät pääse Atlantaan.<br />- Olemme nyt sairaalassa.
+3771480 3778111 - Antakaa jotain kipuun.<br />- Ei ole mitään, valitan.
+3780113 3783200 Tämä tekee minut hulluksi.
+3785202 3790624 - Jätkäkö?<br />- Anna ässä ja aloitan sodan.
+3794545 3799007 En enää näe sinua ja isää.
+3799758 3803637 - Tuo jalka on poistettava.<br />- Ei, antakaa minun olla.
+3805222 3808600 - Kloroformia ei ole.<br />- Leikataan ilman sitä.
+3808809 3813021 Ei, en salli sitä.
+3813188 3816233 Se on poistettava, siinä on kuolio.
+3818402 3823490 En ole nähnyt perhettäni 3 päivään.<br />Menen nyt kotiin.
+3823657 3825367 Auttakaa hieman.
+3829413 3832165 Tämän sänky vapautui.
+3832332 3834793 Scarlett-neiti.
+3835878 3839715 - Frank Kennedy!<br />- Miten Suellen voi?
+3839882 3843051 Koska sinut tuotiin?<br />Sattuiko pahasti?
+3843218 3845804 - Suellen?<br />- Hän voi hyvin.
+3845971 3849933 Tohtori tarvitsee teitä,<br />jalka on amputoitava.
+3852144 3853979 Tulen takaisin.
+3854897 3857858 Antakaa minun olla.
+3859651 3865741 En kestä tätä.<br />ÄIkää leikatko!
+3867159 3872080 - Jättäkää minut rauhaan.<br />- Missä hoitaja on?
+3875834 3882966 - Tohtori Wilson odottaa.<br />- Antaa odottaa, minulle riitti.
+3944570 3947656 Iso-Sam!
+3949825 3952160 Taivahan vallat, Scarlett-neiti!
+3955080 3958625 Olenpa iloinen nähdessäni sinut.
+3958834 3963255 - Äiti ei ole kirjoittanut Tarasta.<br />- Hän on sairaana.
+3963422 3965549 Ei tosin mitään vakavaa.
+3965674 3968635 Isänne ei pääse sotaan<br />polvensa takia...
+3968802 3972598 ...ja hän raivostui kun jouduimme<br />kaivamaan juoksuhautoja.
+3972764 3976351 Mutta rouva sanoi,<br />että etelä tarvitsee meitä.
+3976518 3979771 - Oliko siellä lääkäriä?<br />- Eteenpäin!
+3979897 3986695 - Me pysäytämme ne jenkit.<br />- Lähettäkää minulle uutisia.
+4009051 4011220 Scarlett!
+4015807 4022814 - Nouse tänne tai jäät jalkoihin.<br />- Vie minut Pitty-tädin luo, Rhett.
+4024691 4027361 Paniikki ei ole kaunis näky.
+4029905 4033700 Shermanin käyntikortti taas.<br />Pian hän tulee itse kylään.
+4033867 4038580 - Minun on päästävä pois.<br />- Jättäisitkö työsi sairaalassa?
+4038747 4042417 Joko kuolema, luteet ja<br />amputoidut miehet riittävät?
+4042626 4044962 Sinua ei luotu sairaille.
+4045128 4050717 - Minun on päästävä pois täältä.<br />- Lähdetään yhdessä.
+4050884 4056849 Ei jäädä tänne,<br />maailmassa on paljon ihania paikkoja.
+4057015 4059977 - Meksiko, Lontoo, Pariisi.<br />- Sinun kanssasi?
+4060143 4064773 Niin, minä ymmärrän ja ihailen sinua<br />sellaisena kuin olet.
+4064982 4068235 Kuulumme yhteen.
+4068402 4072948 Olen odottanut, että unohdat<br />sen surusilmäisen Ashley Wilkesin.
+4073156 4077619 Rouva Wilkes saa kuulemma lapsen.
+4077786 4081790 On vaikea rakastaa miestä<br />jolla on vaimo ja lapsi.
+4084001 4088213 Lähdetkö mukaan vai jäätkö tänne?
+4088422 4093844 Vihaan ja halveksin sinua<br />koko loppuelämäni.
+4093969 4096597 Ei niin kauan, Scarlett.
+4104229 4109568 Scarlett-neiti!<br />Kaikki pakenevat.
+4109735 4116200 En kestä noita tykkejä.<br />Pyörryn kun kuulen äänen.
+4116366 4118577 Varo sitä arkkua, Peter-setä.
+4118744 4122831 - Et kai lähde pois?<br />- Kyllä vain.
+4122998 4126543 Jenkit Georgiassa!<br />Miten ne tänne saakka pääsivät?
+4126710 4132925 - Minä lähden mukaan.<br />- Onko se viisasta?
+4134468 4140682 - Et kai sinäkin pakene?<br />- En mene enää sairaalaan.
+4140849 4147272 Olen nähnyt tarpeeksi kuolemaa<br />ja äitini tarvitsee minua.
+4147439 4152903 - Sinua tarvitaan täällä.<br />- llman esiliinaa? Ennenkuulumatonta.
+4153070 4158450 Eivät nämä ole tanssiaiset.<br />Melanie tarvitsee sinua.
+4158617 4162246 Hän on sairas ja<br />synnytys voi olla vaarallinen.
+4162412 4168710 - Otamme hänet mukaan.<br />- Lapsi voi syntyä vaunuissa.
+4168877 4171463 Ei se ole minun lapseni.
+4171630 4176552 Hoitajat tarvitaan muualle.<br />Sinun on jäätävä tänne.
+4176718 4182558 - En tiedä mitään synnytyksestä.<br />- Minä tiedän kaiken siitä.
+4182724 4187271 Olen nähnyt monta kertaa.<br />Minä kyllä pärjään, tohtori.
+4187479 4190315 Luotan sinun apuusi.
+4190524 4196780 Ashley taistelee puolestamme,<br />hän ei ehkä koskaan palaa.
+4196947 4201201 Olemme velkaa hänelle<br />terveen lapsen.
+4201368 4206915 - Kiirehdi, Scarlett, jos tulet.<br />- Lupasin Ashleylle.
+4207040 4212087 Eli jäät tänne?<br />Scarlett ei lähde, neiti Pittypat.
+4212254 4218677 Aja, Peter-setä.<br />Tämä on kuin maailmanloppu.
+4218844 4222014 Hajusuolani...
+4229021 4235611 Kaikki on sinun syytäsi, Melanie.<br />Vihaan sinua ja vihaan lastasi.
+4235777 4239698 Kunpa en olisi luvannut<br />mitään Ashleylle.
+4242159 4245746 PllRITYS
+4245913 4248123 Taivaalta satoi kuolemaa.
+4248290 4252503 35 päivää Atlanta kesti<br />toivoen ihmettä.
+4254338 4261803 Sitten tuli hiljaisuus,<br />pelottavampi kuin tykkien jyly.
+4269478 4272439 Seis! Pysähtykää!
+4272606 4275567 - Tulevatko jenkit nyt?<br />- Kyllä. Armeija vetäytyy.
+4275734 4277903 Jäämmekö tänne yksin?
+4278070 4282574 Kaikki evakuoidaan ennen kuin<br />Sherman katkaisee tiet etelään.
+4282741 4285786 Mitä minä nyt teen?
+4285953 4289957 Yrittäkää paeta etelään.<br />Näkemiin, rouva.
+4290666 4292751 Prissy!
+4293794 4297631 Pakkaa tavaramme,<br />lähdemme Taraan.
+4297798 4300175 Jenkit ovat tulossa.
+4301969 4305013 Scarlett?
+4305180 4307558 Melanie, lähdemme...
+4309393 4311603 Melanie...
+4312980 4317109 Anteeksi, että minusta<br />on niin paljon vaivaa.
+4318819 4321488 Synnytys alkoi aamulla.
+4323949 4326201 Mutta jenkit tulevat.
+4329162 4335460 Olisit kotonasi Tarassa<br />äitisi luona ilman minua.
+4335627 4339715 Rakas Scarlett,<br />olet ollut niin kiltti.
+4339882 4343260 Kiltimpi kuin yksikään sisko.
+4345387 4348390 Olen tässä maatessani ajatellut:
+4348557 4353687 Jos minä nyt kuolen,<br />ottaisitko sinä minun lapseni?
+4355898 4360903 Hui hai. Tämä on tarpeeksi kauheaa<br />ilman tuollaista puhetta.
+4361069 4364031 - Lähetän hakemaan tohtoria.<br />- Odota...
+4364198 4367618 Minä en tarvitse häntä.
+4367826 4371121 Kun taas haavoittuneet sotilasparat...
+4371288 4374499 Prissy, tänne ja äkkiä!
+4375584 4378253 Hae tohtori Meade heti!
+4378420 4382883 - Vauva!<br />- Älä seiso siinä toljottamassa.
+4384718 4388680 Juokse nyt!<br />Tai myyn sinut etelään.
+4390516 4393101 Missä se Prissy viipyy?
+4394978 4398899 Nyt on jo tukahduttavan kuuma,<br />eikä ole edes keskipäivä.
+4402069 4409326 Älä pelkää.<br />Odottelu tuntuu aina ikuisuudelta.
+4409493 4412663 Pieksän sen Prissyn!
+4419419 4423841 Tiedätkö mitä kuulin<br />Maybelle Merriwetheristä?
+4424007 4429513 Hänelläkin on<br />sulhanen univormussa.
+4429680 4435769 Älä minun takiani rupattele.<br />Tiedän miten huolissasi olet.
+4448574 4452411 Haen vähän kylmää vettä.
+4454288 4459376 - Olet myöhässä. Missä tohtori on?<br />- En löytänyt häntä.
+4459543 4466842 Hän ei ollut sairaalassa.<br />Hän on ehkä asemalla.
+4467050 4474349 - Mikset hakenut häntä?<br />- En uskaltanut, Scarlett-neiti.
+4474516 4480355 Siellä makaa kuolevia,<br />en uskalla mennä siitä ohi.
+4480522 4485110 Mene ylös Melly-neidin luo.<br />Älä pelästytä häntä enempää.
+4523899 4526485 Oletteko nähneet tohtoria?
+4574074 4576285 Tohtori Meade?
+4576451 4578161 Tohtori! Hyvä, että löysin teidät.
+4578370 4581081 Hyvä, että tulitte,<br />apua tarvitaan.
+4581665 4587963 - No, käykää työhön.<br />- Melanie synnyttää. Teidän on tultava.
+4588547 4594219 En voi jättää satoja miehiä kuolemaan.<br />Etsikää joku nainen.
+4594386 4598223 - Ei niitä ole. Hän saattaa kuolla.<br />- Kuolla?
+4598390 4601560 Nämä miehet vuotavat kuoliaaksi.
+4601768 4605898 Meillä ei ole mitään<br />millä edes lievittää kipuja.
+4606356 4611862 ÄIkää nyt häiritkö minua.<br />Synnytys on yksinkertaista.
+4612070 4615866 - Tuokaa paarit!<br />- Tohtori Meade!
+4635552 4639097 - Tuleeko tohtori?<br />- Hän ei pääse.
+4639264 4644102 - Melly-neiti voi huonosti.<br />- Kenelläkään ei ole aikaa.
+4645437 4649066 Sinun täytyy selvitä siitä.<br />Minä autan.
+4649233 4653278 - Scarlett-neiti...<br />- Mitä nyt?
+4653445 4658033 Meidän on saatava lääkäri.<br />En tiedä synnytyksestä mitään.
+4659993 4663539 Mutta sinähän sanoit<br />tietäväsi kaiken.
+4663705 4668377 En tiedä miksi valehtelin.<br />Äiti pisti minut aina ulos.
+4675634 4678428 Ole hiljaa!
+4678595 4683016 Sytytä tuli uuniin<br />ja pistä vettä kiehumaan.
+4683183 4685435 Tuo puhtaita liinavaatteita ja sakset.
+4685602 4689690 Äläkä tule ylös ilman niitä.<br />Ja pidä kiirettä!
+4701368 4704830 Melly, olen tulossa.<br />Tulen kyllä.
+4708959 4713422 - Lähde, Scarlett.<br />- En voi jättää sinua.
+4713589 4718302 - Minä kuolen.<br />- Älä höpsi. Pidä minusta kiinni.
+4718468 4723015 Puhu minulle, Scarlett.
+4723182 4726435 Älä yritä olla urhea.<br />Huuda vain, kukaan ei kuule.
+4726602 4731523 Äiti sanoi, että veitsi sängyn alla<br />leikkaa kivun kahtia.
+4736570 4740324 Kapteeni Butler?
+4742367 4744203 - Kuka?<br />- Kapteeni Butler.
+4744369 4748248 Hän ylhäällä,<br />Belle Watlingilla on juhlat.
+4752878 4755422 Kapteeni Butler?
+4755589 4761053 - Mitä sinä meluat?<br />- On asiaa kapteeni Butlerille.
+4761220 4764431 Tulkaa alas, kapteeni.
+4766099 4769770 - Mikä hätänä, Prissy?<br />- Scarlett-neiti lähetti minut.
+4769978 4776235 Melanie-neiti synnytti tänään,<br />oikein hieno poika tuli.
+4776401 4780739 - Minä ja Scarlett-neiti synnytimme.<br />- Onko Scarlett...
+4780906 4785994 Enimmäkseen minä,<br />Scarlett-neiti vähän auttoi.
+4786161 4789581 Lääkärikään ei olisi<br />pärjännyt paremmin.
+4789748 4796338 - Mutta Melly-neiti on heikkona.<br />- Sen minä uskon.
+4796505 4799258 Ja jenkit ovat tulossa,<br />ja Scarlett-neiti...
+4802970 4808058 Nyt ne ovat täällä!<br />Hakekaa vaununne, olkaa kiltti.
+4808225 4813146 Armeija vei hevosen ja vaunut.<br />Tule ylös niin puhutaan siitä.
+4813313 4820487 Äiti antaa tupenrapinat<br />jos menen Watlingin taloon.
+4821071 4825325 Mistä saisin varastettua hevosen<br />hyvän asian vuoksi?
+4833667 4838046 Sinäkö, Rhett? Tiesin että tulet.
+4838213 4841133 Kaunis ilta.<br />Lähdet kuulemma matkoille.
+4841300 4845095 - Älä nyt pilaile!<br />- Oletko muka peloissasi?
+4845304 4850559 Pelkään kuollakseni. Jenkit!
+4850767 4855022 Armeija räjäyttää ammuksia<br />ennen jenkkien tuloa.
+4855189 4859818 - Meidän on päästävä pois.<br />- Minne olemme menossa?
+4860027 4863614 - Kotiin, Taraan.<br />- Siellä on taisteltu koko päivä.
+4863780 4868493 Sinulla on mukanasi sairas nainen,<br />vauva ja tollo neekerityttö.
+4868660 4872956 - Vai jätätkö heidät tänne?<br />- He lähtevät mukaan.
+4873123 4881256 - Se on vaarallista rouva Wilkesille.<br />- Haluan Taraan ja äidin luo.
+4881465 4886887 Tara on poltettu poroksi,<br />ja sotilaat hoitavat loput.
+4887054 4889640 Ja nyt vaaransin itseni<br />varastamalla tuon kaakin.
+4889806 4896772 Menen kotiin vaikka kävellen,<br />ja tapan sinut jos yrität estää.
+4896939 4900275 Varmasti menen.
+4903904 4908534 Rauhoitu, rakas ystävä.<br />Sinä pääset kotiin.
+4909284 4914748 Sen jälkeen mitä teit tänään<br />pärjäät kyllä Shermanillekin.
+4914915 4917626 Älä enää itke.
+4919211 4921713 Ole kiltti tyttö ja niistä.
+4934643 4937145 - Mitä teet?<br />- Pakkaan.
+4937312 4939940 Tule ottamaan vauva.
+4942693 4947698 - Melly?<br />- Lähdemme Taraan, rouva Wilkes.
+4948949 4955205 Muuten talomme poltetaan<br />ja meidät ryöstetään.
+4955330 4959751 Pikkuinen... Vauva parka.
+4963797 4968010 - Saatteko kädet kaulani ympärille?<br />- Luulen niin.
+4970804 4972639 Kas näin.
+4972806 4976059 - Ashley, Charles.<br />- Mitä hän haluaa?
+4976226 4980230 - Ashleyn kuvan ja Charlesin miekan.<br />- Ota ne.
+4996038 5000918 - Mitä tuo on?<br />- Asevarasto poltetaan.
+5001126 5003670 Muuten se voisi<br />räjäyttää meidät Taraan.
+5003879 5006632 - Mennään äkkiä radan yli.<br />- Ei sitä kautta!
+5006798 5010093 Se on ainoa tie joka on auki.
+5019937 5022356 Unohdin lukita talon.
+5022523 5026568 - Miksi naurat?<br />- Yrität pitää jenkit ulkona.
+5042876 5047422 - Kunpa he kiiruhtaisivat.<br />- Ei kiirehditä heitä.
+5047589 5050092 Siinä katoaa laki ja järjestys.
+5052344 5055138 Ryöstäjät eivät hukkaa aikaa.
+5059101 5060894 Yritetään ulos äkkiä!
+5061103 5062855 Hevonen!
+5064940 5066775 Tänne se hevonen!
+5073490 5075117 Pysäytetään heidät.
+5089214 5091675 Hevonen tänne!
+5107024 5112529 Ei tänne paljon jää. Yritetään läpi<br />ennen kuin nuo räjähtävät.
+5133467 5134801 Tule nyt.
+5139264 5140682 Anna minulle huivi.
+5143644 5146396 On parasta ettet näe mitään.
+5206540 5210002 Katso tarkkaan.<br />Tämä on historiallinen hetki.
+5210169 5214590 Voit kertoa lapsenlapsillesi<br />että näit Etelän häviävän.
+5231231 5235485 He sanoivat lyövänsä jenkit<br />kuukaudessa, urheat hölmöt.
+5235652 5240365 Se on heidän syynsä,<br />mitäs kerskailivat niin.
+5240574 5244661 Niin minäkin ennen ajattelin.
+5244828 5250501 Voit olla nyt ylpeä siitä,<br />että et viisaasti mennyt mukaan.
+5253837 5256048 En ole niin ylpeä.
+5274733 5278820 - Miksi pysähdyit?<br />- Tästä eroaa tie Taraan.
+5278987 5283450 - Rouva Wilkes?<br />- Hän pyörtyi aikoja sitten.
+5283617 5288664 Parempi niin.<br />Tajuissaan hän ei kestäisi kipua.
+5288830 5291500 Vieläkö haluat pitää pääsi?
+5291708 5297798 - Pääsemme kyllä läpi, Rhett.<br />- Emme "me". Minä jätän teidät.
+5298549 5303846 - Minne menet, Rhett?<br />- Liityn armeijaan.
+5304012 5308225 - Sinä säikäytit minut piloillasi.<br />- En pilaile.
+5308392 5313021 - Liityn urheisiin sotilaisiin.<br />- Mutta hehän vetäytyvät.
+5313188 5317192 He kääntyvät viimeiseen taistoon.<br />Ja siinä olen mukana.
+5317359 5321655 - Parempi myöhään...<br />- Et ole tosissasi, Rhett.
+5321822 5326994 Itsekäs loppuun asti.<br />Ajattelet vain itseäsi.
+5327160 5333917 Miten voit jättää minut nyt<br />kun tarvitsen sinua?
+5334084 5338380 Toivottomat tehtävät ovat heikkouteni.
+5341091 5345220 Ja häpeän myös itseäni.
+5345387 5351018 - Jätätkö minut avuttomana tähän?<br />- Et sinä ole avuton.
+5351185 5354354 Luoja jenkkejä auttakoon<br />jos ottavat sinut kiinni.
+5355189 5359318 - Tule alas, niin sanon hyvästi.<br />- Ei.
+5359484 5361445 Tule nyt.
+5364198 5369203 Rhett, et voi jättää minua nyt.<br />En koskaan anna anteeksi.
+5369369 5373373 Minä en anna anteeksi itselleni<br />jos en mene.
+5373540 5376835 Jos kuolen luotiin,<br />nauran omalle tyhmyydelleni.
+5378045 5381673 Mutta erään asian tiedän.<br />Rakastan sinua, Scarlett.
+5381882 5386094 Koko maailma murtuu ympärillä,<br />mutta rakastan sinua.
+5386261 5391308 Me olemme samanlaisia,<br />itsekkäitä ja ovelia.
+5391475 5394311 Kutsumme asioita<br />niiden oikeilla nimillä.
+5394478 5399691 - Älä pidä minua näin.<br />- Katso minuun, Scarlett.
+5399900 5405531 En ole rakastanut ketään naista<br />niin kuin sinua rakastan.
+5405697 5407866 Päästä minut.
+5408075 5415082 Etelän sotilas rakastaa sinua<br />ja haluaa muiston mukaansa.
+5415249 5420838 Lähetät sotilaan kuolemaansa<br />kaunis muisto mukanaan.
+5421004 5425592 Suutele minua, Scarlett.<br />Vain yksi suudelma.
+5430639 5436937 Sinä röyhkeä otus! He olivat<br />oikeassa, et ole herrasmies.
+5439898 5443819 Pieni yksityiskohta.
+5443986 5449992 Jos joku yrittää ryöstää, ammu.<br />Mutta älä ammu hevosta.
+5450158 5455706 Häivy siitä. Toivon,<br />että räjähdät kappaleiksi...
+5455914 5459084 Tajuan kyllä loput itsekin.
+5459251 5464006 Kun kuolen maani puolesta,<br />toivon, että kadut sanojasi.
+5464214 5466592 Hyvästi, Scarlett.
+5491700 5494536 Nyt menemme kotiin.
+5569987 5572823 Pikku ressukkani.
+5573866 5577619 Äiti hoitaa häntä<br />kun pääsemme kotiin, Melly.
+5577786 5582499 Olen niin hirvittävän nälkäinen.<br />Meidän on saatava ruokaa.
+5582666 5587796 Ole hiljaa.<br />Pysähdymme Twelve Oaksissa.
+5587963 5590591 Mene!
+5606648 5611195 RAUHANHÄIRlTSIJÖITÄ<br />RANGAISTAAN
+5653904 5659076 Ashley... Olen iloinen<br />ettet ole näkemässä tätä.
+5660619 5664164 Jenkit! Saastaiset jenkit.
+5678929 5681557 Prissy, sido tämä lehmä mukaan.
+5681974 5687688 Miksi? Olemme pian kotona,<br />ja minä pelkään lehmiä.
+5687855 5691275 Revi alushameesi ja<br />sido lehmä vaunuun.
+5691441 5696238 Lapsen on saatava maitoa,<br />emme tiedä mikä meitä odottaa.
+5705330 5707416 Olemme kotona, Tarassa.
+5707583 5709751 Pidä kiirettä!
+5712045 5716508 - Se kuoli.<br />- En näe taloa.
+5716675 5719887 Onko se poltettu?
+5721972 5726143 Siellä se on!<br />Se ei ole palanut.
+5726351 5728520 Se on vielä siellä.
+5731273 5734026 Äiti! Tulin kotiin.
+5736612 5738906 Äiti, tulin kotiin.
+5743869 5746622 Päästäkää minut sisään.
+5753587 5757633 Isä! Nyt olen kotona.
+5762596 5766350 Katie... Katie Scarlett.
+5780155 5782241 Mammy...
+5782449 5786328 - Minä tulin kotiin, Mammy.<br />- Pikkuinen!
+5787996 5793293 Mammy, olen kotona.<br />Miten äiti voi?
+5793460 5798966 Suellen-neiti ja Carreen-neiti<br />saivat lavantaudin.
+5799132 5804054 Nyt he voivat hyvin,<br />ovat vain heikkoja.
+5804221 5806890 Missä äiti on?
+5809518 5814940 Ellen-neiti meni hoitamaan<br />Emmy Slatteryä, sitä roskaväkeä.
+5815148 5818151 Hänkin sai sen.
+5819486 5822739 - Eilen illalla...<br />- Äiti?
+5894645 5899691 - Scarlett-neiti...<br />- Voinko tehdä jotain, neiti?
+5899900 5903779 - Missä Melanie-neiti on?<br />- ÄIkää hänestä huolehtiko.
+5903987 5906823 Laitoin hänet nukkumaan<br />vauvan kanssa.
+5907032 5911537 - Pork, laita lehmä latoon.<br />- Latoa ei enää ole.
+5911703 5915916 - Jenkit ottivat sen polttopuuksi.<br />- Talo oli niiden päämaja.
+5916124 5919253 - Niitä oli joka paikassa.<br />- Jenkkejä Tarassa?
+5919419 5922297 Varastivat kaiken<br />mitä eivät polttaneet.
+5922464 5927135 Kaikki vaatteet ja muutkin.<br />Jopa Ellen-neidin ruusut.
+5928762 5930597 Kuolen nälkään.
+5930764 5935727 - Mitään ruokaa ei ole.<br />- Veivätkö ne kanatkin?
+5935894 5940524 Ensimmäisenä päivänä.<br />Kaiken ne veivät.
+5940732 5943777 En halua kuulla enempää.
+5959376 5964423 - Isä, onko se viskiä?<br />- Kyllä, tyttöseni.
+5968177 5973724 Varovasti, Katie Scarlett.<br />Et ole tottunut väkeviin.
+5973891 5977311 Nyt haluan humaltua.
+5980856 5983400 Voi isä.
+5985402 5989281 - Mitä nuo paperit ovat?<br />- Obligaatioita.
+5991116 5996538 Siinä on kaikki mitä on jäljellä.<br />Obligaatioita.
+5996705 6002044 - Millaisia?<br />- Konfederaation tietenkin.
+6002211 6009301 - Mitä hyötyä niistä on?<br />- En halua kuulla tuollaista.
+6009468 6014890 Mitä me teemme,<br />ei ole ruokaa eikä rahaa?
+6015057 6017601 Kysytään äidiltäsi.
+6017768 6021647 Kysytään rouva O'Haralta.
+6023232 6028278 - Äidiltä?<br />- Hän tietää mitä tehdään.
+6029530 6036036 Älä vaivaa minua, mene ratsastamaan.<br />Minulla on kiire.
+6053220 6057015 Kyllä me selviämme, isä.
+6058267 6060811 Katie Scarlett on nyt kotona.
+6062604 6065023 Älä huolehdi.
+6079538 6084168 Mitä ruokaa annamme<br />potilaille ja lapselle?
+6086044 6089464 En tiedä, Mammy.
+6089673 6092593 Jäljellä on vain retiisejä.
+6092801 6098932 Suellen-neiti ja<br />Carreen-neiti pitää pestä.
+6099099 6105439 - Missä muut palvelijat ovat?<br />- Muita ei ole.
+6105606 6111778 En voi hoitaa lasta ja sairaita,<br />minulla on vain kaksi kättä.
+6111945 6117117 Kuka lypsää lehmän?<br />Me olemme sisäpalvelijoita.
+6199116 6205455 Vannon Jumalan nimeen<br />etten lannistu!
+6205622 6210627 Selviän tästä ja sen jälkeen<br />en koskaan ole nälkäinen.
+6210794 6213922 Eikä kukaan perheestäni.
+6214131 6217384 Varastan, valehtelen,<br />huijaan tai tapan,...
+6217551 6222514 ...mutta vannon<br />etten koskaan ole nälkäinen.
+6597347 6604146 Tuuli puhalsi yli Georgian.
+6620245 6626001 Pakottaakseen<br />konfederaation polvilleen,...
+6626168 6630422 ...valloittaja jätti jälkeensä<br />tuhon vanan,...
+6630589 6636845 ...joka oli 100 km leveä<br />Atlantasta merelle saakka.
+6640807 6649358 Tara selvisi, mutta näki<br />häviön jälkeen nälkää.
+6655447 6658659 Selkään sattuu.
+6660369 6666166 Katso käsiäni. Äidin mukaan<br />hienon naisen tuntee käsistä.
+6666333 6671171 Kädet ja hienot naiset<br />eivät ole enää tärkeitä.
+6671338 6674967 Mene lepäämään, Sue,<br />poimin puuvillaa molempien puolesta.
+6675133 6678762 Scarlett on kauhea<br />kun pakottaa meidät raatamaan.
+6678929 6684226 Ikävä juttu.<br />En voi tehdä kaikkea yksin.
+6684393 6686812 Vihaan Taraa.
+6690148 6692526 Et saa sanoa noin koskaan.
+6693861 6697072 Se on sama kuin vihaisit<br />äitiä ja isää.
+6703495 6707249 - Haluan puhua eräästä asiasta.<br />- Mistä, isä?
+6707416 6710961 En pidä siitä miten kohtelet<br />Mammya ja Prissyä.
+6711128 6716049 Palvelijoille on oltava luja,<br />mutta hellä, varsinkin heille...
+6716216 6720012 En vaadi heiltä enempää<br />kuin itseltänikään.
+6720179 6725058 En pidä siitä<br />ja puhun siitä rouva O'Haralle.
+6739698 6743035 - Miksi sinä olet ylhäällä?<br />- Haluan puhua kanssasi.
+6743202 6746163 Te raadatte niin ja<br />minä makaan vuoteessa.
+6746330 6750000 - Olet heikko kuin vastasyntynyt.<br />- Anna minun auttaa.
+6750167 6754671 Sairastut vain,<br />etkä koskaan ole avuksi.
+6755589 6758842 En ajatellut sitä niin.
+6813772 6816859 Kuka siellä? Seis, tai ammun!
+6822739 6825450 Onko pikkurouva ihan yksin?
+6827411 6829872 Ette taida olla ystävällinen?
+6832624 6837504 - Onko muuta kuin korvakorut?<br />- Olitte jo täällä.
+6838463 6841592 Olette oikein pippurinen?
+6841758 6846180 Mitäs teillä on kädessä?
+6879755 6885093 Ammuit hänet!<br />Hyvä, että teit sen.
+6887179 6890390 Mitä tapahtui, Scarlett?
+6894061 6899858 Isosiskonne vain puhdisti<br />revolveria ja se laukesi.
+6900025 6903153 Niin kuin tässä<br />ei olisi muuta pelättävää.
+6903320 6907699 Hänen on oltava varovaisempi.
+6908951 6911787 Oletpa sinä kylmäpäinen.
+6911954 6915958 Hänet on haudattava.<br />Jos jenkit löytävät hänet...
+6916124 6919419 En ole nähnyt muita.<br />Hän on varmaan karkuri.
+6919586 6925551 Hänet on piilotettava,<br />tai jenkit tulevat hakemaan sinut.
+6927845 6933684 Hautaan hänet metsään,<br />mutta miten saan hänet sinne?
+6933851 6938021 - Vedetään kumpikin jaloista.<br />- Sinä et vedä edes kissaa.
+6944027 6947364 Olisiko kauheaa<br />jos tutkisimme hänen tavaransa?
+6947531 6952619 Miksen itse sitä keksinyt?<br />Ota sinä säkki, minä taskut.
+6964923 6968343 Ota sinä se, minua heikottaa.
+6969636 6975267 Tämä on täynnä rahaa.<br />Katso itse, Melly.
+6975434 6978770 - 20, 30...<br />- Ei ole aikaa laskea.
+6978937 6983567 - Tällä saamme ruokaa.<br />- Katso muutkin taskut.
+6984943 6989031 Kiirehdi!<br />Hänet on saatava ulos.
+7002377 7008342 Tästä jää verijälkiä.<br />Anna minulle yöpaitasi, sidon pään.
+7008509 7012804 En katso. Jos minulla<br />olisi alushame, käyttäisin sitä.
+7027069 7030239 Onneksi en ole noin siveä.
+7030405 7035118 Mene takaisin lepäämään.<br />Siivoan kun saan haudattua hänet.
+7035661 7037913 Minä siivoan kyllä.
+7041083 7043836 Olen tehnyt murhan.
+7045128 7049758 En ajattele sitä vielä tänään,<br />vasta huomenna.
+7063063 7065858 Se on ohi.
+7066024 7070070 Sota on ohi, Lee antautui.
+7070237 7073824 - Miksi menimme edes mukaan?<br />- Ashley tulee kotiin.
+7074324 7076535 Niin, Ashley tulee kotiin.
+7076702 7080539 Istutamme lisää puuvillaa,<br />sen hinta nousee taivaisiin.
+7082958 7086003 Räsyiset sotilaat palasivat kotiin.
+7086170 7089840 Vakavina he ontuivat<br />takaisin raunioille,...
+7090007 7093552 ...jotka olivat ennen<br />kauneuden ja vaurauden maa.
+7093719 7099183 Ja heidän mukanaan tuli tunkeilija,<br />julmempi ja raaempi,...
+7099349 7103645 ...kuin tähänastinen vihollinen...<br />keinottelijat.
+7113363 7117868 - Liikettä, vallankumouksellinen.<br />- Onko tilaa kuolevalle?
+7118035 7121538 Ei yhdellekään etelävaltiolaiselle.<br />Liikettä.
+7122080 7124875 Hän kuolee mieluummin.
+7125042 7129171 - Pois tieltä.<br />- Uskokaa voittajia.
+7130047 7134009 Housutkin tänne, herra Kennedy.
+7136178 7142059 Ja hangatkaakin kunnolla,<br />taikka tulen itse sinne.
+7145604 7150859 Koko armeijalla on luteita<br />ja punatauti.
+7151026 7156365 - Ei hänelle saa noin puhua.<br />- Tartuttaa vielä luteet meihin.
+7158867 7164790 Jätä herra rauhaan,<br />hän on väsynyt ja nälkäinen.
+7164957 7167793 Ei se haittaa, rouva.<br />Hauska nähdä taas lapsia.
+7167960 7172714 Pian hän olisi päässyt<br />Cobbsin legioonaan.
+7173841 7176802 - Cobbsin legioonassako olitte?<br />- Niin.
+7176969 7181473 Sitten tunnette mieheni,<br />majuri Wilkesin?
+7181640 7186270 - Hänet otettiin vangiksi.<br />- Vangiksi?
+7186436 7191316 Luojan kiitos, sittenhän...<br />Ashley-parka, jenkkivankilassa.
+7191483 7195779 - Melanie?<br />- Tulen. Tulehan, Beau.
+7195946 7199449 Minä hoidan häntä,<br />olemme ystäviä.
+7204037 7210002 Minä raadan ruuan eteen<br />ja sinä syötät kaikki kulkureille.
+7210169 7213922 Mieluummin heinäsirkoillekin.
+7214089 7216758 Kuulin juuri,<br />että Ashley joutui vangiksi.
+7216925 7223140 - Ashleyko vangiksi!<br />- Hän voi nyt olla matkalla kotiin.
+7223307 7230105 Joku jenkkinainen antaa ehkä<br />ruokaa rakkaalleni juuri nyt.
+7231523 7235152 - Toivon niin, Melly.<br />- Scarlett-neiti!
+7237571 7242159 Haluaisin puhua isänne kanssa,<br />mutta hän on vähän...
+7242326 7247080 - Minä olen perheen pää.<br />- Minä...
+7247247 7250876 Haluaisin pyytää Suellenin kättä.
+7251043 7256256 Etkö ole jo pyytänyt sitä,<br />kaikkien vuosien jälkeen?
+7256423 7261553 Olen häntä vanhempi,<br />eikä minulla ole nyt varallisuutta.
+7261720 7263347 Ei kenelläkään ole.
+7263514 7269353 Jos rakkaus on rikkautta,<br />sisarenne ei ole koskaan köyhä.
+7269520 7274316 Aloitan yrityksen,<br />ja kun pääsen jaloilleni, tulen...
+7274483 7279196 Puhun isäni puolesta,<br />mene vain puhumaan Suellenille.
+7279363 7281949 Kiitos, Scarlett-neiti.
+7284868 7287246 Anteeksi.
+7289414 7294378 - Mikä hänellä oli hätänä?<br />- Sellainen hätä ettei arvaakaan.
+7294545 7298131 - Hän pyysi Suellenin kättä.<br />- Olen iloinen siitä.
+7298298 7303053 Menisivätpä he heti naimisiin,<br />olisi yksi suu vähemmän.
+7306390 7308267 Taas yksi.
+7308433 7313272 - Toivottavasti ei kovin nälkäinen.<br />- Pyydän Prissyltä lautasen...
+7325242 7327744 Ashley!
+7344428 7348599 - ÄIkää pilatko sitä.<br />- Päästä minut, se on Ashley.
+7348807 7352186 Hän on Melanien mies.
+7363947 7368368 - Jo oli aikakin. Kengititkö hevosen?<br />- Kyllä, neiti.
+7368577 7372956 Ainakin sillä on kengät.<br />Sekoita tätä.
+7373165 7379838 - Paljonko teillä on rahaa?<br />- 10 dollaria, miksi?
+7380714 7383842 - Se ei riitä.<br />- Mistä oikein puhut?
+7384051 7391141 Näin entistä pehtooria, Wilkesonia.
+7391350 7394853 Hän on vallan jenkki nyt<br />ja hän kerskui -
+7395062 7400067 - että hänen keinottelijaystävänsä<br />nostavat Taran veroja.
+7400275 7404988 - Paljonko?<br />- Veromies sanoi 300 dollaria.
+7405197 7410202 300... Yhtä hyvin voisi<br />olla kolme miljoonaa.
+7410410 7414373 - No, se on vain kerättävä.<br />- Miten?
+7416750 7420420 - Kysyn Ashley-herralta.<br />- Ei hänellä ole.
+7420629 7423465 Saahan sitä kysyä.
+7425509 7427302 Se ei rahaa tuo.
+7436270 7438730 Ashley...
+7438939 7442150 Abe Lincoln aloitti<br />kuulemma myös timpurina,...
+7442359 7446113 ...minustakin voi tulla suurmies.
+7446321 7452661 Jenkit haluavat 300 lisää veroja.<br />Mitä me teemme?
+7452870 7455205 Miten meille nyt käy?
+7455414 7458917 Miten käy kansalle<br />jonka elintapa sortuu?
+7459126 7463630 Viisaat ja rohkeat pärjäävät,<br />muut kitketään pois.
+7463839 7469011 Millaista puhetta tuo on?<br />Meidät tässä kitketään.
+7469219 7476101 Minä vain puhun elintavasta<br />kun Tarasi on vaarassa.
+7476268 7479438 Minusta ei ollut suurta apua.
+7479646 7482774 Minä olen pelkuri.
+7483609 7488697 Sinäkö pelkuri?<br />Mitä sinä pelkäät?
+7488906 7492701 Sitä, että kaikki on liian todellista.
+7492910 7495662 Hakkaanhan minä halkoja,...
+7495829 7500501 ...mutta suren<br />kauniin elämäni menettämistä.
+7502044 7507257 llman sotaa olisin voinut<br />hautautua Twelve Oaksiin.
+7507466 7512012 Mutta sota tuli. Näin ystävieni<br />räjähtävän kappaleiksi.
+7512221 7515224 Näin miesten kivut kun ammuin heitä.
+7516099 7520812 Ja nyt olen maailmassa<br />joka on kuolemaakin pahempi.
+7521021 7525150 Minulle ei ole paikkaa täällä.
+7525317 7532449 Mutta sinä et tunne pelkoa.<br />Sinä uskallat kohdata totuuden.
+7532658 7535077 Et pakene sitä, kuten minä.
+7537788 7540290 Pakene...
+7540499 7544753 Nyt olet väärässä, Ashley.<br />Minäkin haluan paeta.
+7544962 7549550 Olen väsynyt raatamaan<br />ja hankkimaan ruokaa ja rahaa.
+7549758 7553428 Olen kitkenyt ja poiminut<br />puuvillaa sormet verillä!
+7553637 7560018 Etelä on kuollut, jenkit ja<br />onnenonkijat ovat vieneet kaiken.
+7562271 7565983 Karataan yhdessä.
+7566191 7570487 Meksikossa tarvitaan upseereita.<br />Siellä meidän olisi hyvä.
+7570696 7572865 Tekisin kaikkeni puolestasi.
+7573073 7578161 Sanoit silloin, että rakastat minua,<br />et Melanieta. Ja Melanie...
+7579329 7584835 - Hän ei saa enää lapsia.<br />- Unohda se päivä.
+7585002 7589882 Voitko rehellisesti sanoa<br />ettet rakasta minua?
+7591216 7593594 En rakasta sinua.
+7593802 7599766 En voi jättää Melanieta ja lasta,<br />etkä sinäkään perhettäsi.
+7599975 7605564 - Olen kyllästynyt kaikkeen.<br />- Muuten et puhuisikaan noin.
+7607316 7612821 Olet kantanut raskaan taakan,<br />mutta nyt autan sinua.
+7612988 7616617 Jos haluat auttaa minua,<br />vie minut pois.
+7616825 7619995 Meitä ei pidättele täällä mikään.
+7620204 7624499 Ei niin. Paitsi kunnia.
+7637930 7641642 Rakas Scarlett. Älä itke.
+7641850 7645437 Älä itke, urhea tyttöni.
+7658575 7661495 Siis rakastat minua!
+7661703 7664998 - Et saa sanoa noin.<br />- Rakastat minua.
+7665207 7669127 Tämä ei saa toistua.<br />Vien Melanien ja lapsen pois.
+7669336 7674424 - Sano, että rakastat.<br />- Kyllä, olet rohkea ja vahva.
+7674633 7678387 Melkein unohdin<br />parhaan mahdollisen vaimon.
+7678595 7681431 Mutta en voi unohtaa häntä.
+7690607 7693944 Minulla ei ole enää mitään.
+7694111 7698490 Ei mitään syytä taistella,<br />ei mitään syytä elää.
+7701493 7704246 Onhan sinulla.
+7704413 7710002 Jotain jota rakastat enemmän<br />kuin minua, vaikket sitä tiedä.
+7715090 7717176 Tara.
+7719970 7724725 Niin, se minulla on vielä.
+7729980 7737029 Jääkää vain. En aja teitä nälkään<br />oman typeryyteni takia.
+7737196 7740199 Tätä ei tapahdu toiste.
+7766975 7768852 - Kas, Emmy Slattery!<br />- Minähän se.
+7769061 7774399 - Pois!<br />- Ettekö tunne entistä pehtoorianne?
+7774608 7779404 - Emmy on vaimoni nyt.<br />- Häivy, senkin hutsu.
+7779571 7783951 - Puhukaa kauniisti vaimolleni.<br />- Jo oli aikakin.
+7784159 7786828 Kukas äpärät kastoi kun tapoit äitini?
+7786995 7791875 Tulimme puhumaan liikeasioista<br />vanhoina ystävinä.
+7792042 7796088 - Teidänlaisenne eivät ole ystäviä.<br />- Vieläkin noin kopea?
+7796296 7801218 Tiedän kaiken teistä,<br />ette saa veroja kokoon.
+7801426 7805639 Tulin tarjoamaan<br />tilasta hyvän hinnan.
+7805848 7809434 - Emmy haluaisi niin asua täällä.<br />- Häviä, röyhkeä jenkki!
+7809643 7814273 Kunhan lennätte ulos talosta,<br />tulee toinen ääni kelloon.
+7814481 7819194 Minä ostan koko hoidon,<br />kun se pakkohuutokaupataan.
+7819820 7823407 Tätä enempää ette Tarasta saa.
+7823574 7825450 Tuota tulette katumaan.
+7834042 7838255 - Palaamme vielä.<br />- Näytän kuka Taran omistaa.
+7843385 7845345 Älä mene, isä!
+7848098 7849975 Tule takaisin, isä!
+7851935 7855022 Jenkkipelkuri!
+7861486 7863363 Isä!
+7882883 7889306 - Gerald-herran kello.<br />- Isä olisi antanut sen sinulle.
+7889515 7896396 Siitä olisi hyötyä kaikille,<br />kun kerätään verorahoja.
+7896563 7900067 En kai myisi isän kelloa?
+7900234 7904613 Älä sinä nyt itke,<br />en kestä sinun itkevän.
+7908825 7911370 Mammy!
+7916542 7920921 Olette ollut niin urhea,<br />jatkakaa vain.
+7921129 7923006 Ajatelkaa isäänne<br />sellaisena kuin ennen.
+7923215 7927511 En voi ajatella isää,<br />vain niitä 300 dollaria.
+7927719 7932182 Ei kenelläkään ole<br />sellaisia rahoja.
+7932391 7936144 Paitsi jenkeillä ja onnenonkijoilla.
+7938146 7941316 - Rhett!<br />- Jenkkikö?
+7946154 7952411 Olen niin laiha ja kalpea,<br />eikä ole mitään vaatteita.
+7961753 7966383 - Hae äidin kaavat ullakolta.<br />- Mitä teette rouvan verhoille?
+7966550 7970137 - Minulle mekko.<br />- Ei rouvan verhoista.
+7970345 7976768 Ne ovat minun nyt, menen Atlantaan<br />hankkimaan 300 dollaria.
+7976977 7979021 - Kenen kanssa?<br />- Yksin.
+7979229 7983192 Se ei passaa.<br />Minä lähden mukaan.
+7983400 7986320 - Ei käy, Mammy.<br />- Ei hyödytä leperrellä.
+7986486 7992326 Minä saatoin teidät maailmaan.<br />Tulen mukaan ja sillä sipuli.
+7992492 7998749 Olisi pitänyt pelata pokeria<br />sotimisen sijasta, majuri.
+7998957 8002961 Olisitte pärjännyt paremmin<br />kuin kapteeni Grant.
+8003128 8006882 Eräs rouva haluaa tavata<br />kapteeni Butlerin, kuulemma sisar.
+8007049 8011178 Taas yksi sisar.<br />Tämä on vankila, ei haaremi.
+8011345 8016767 Ei mikään sellainen.<br />Tällä on palvelija mukanaan.
+8018268 8022648 Hänen kanssaan puhun kyllä<br />- ilman palvelijaa.
+8022814 8025984 Paljonko olen velkaa?
+8028070 8032783 340? Olen velkaa melkoisesti.
+8032950 8037496 Viekää kapteenin sisar<br />hänen selliinsä.
+8039122 8041416 Anteeksi, hyvät herrat.
+8045170 8049800 On vaikea olla tiukkana miehelle,<br />joka on hyvä häviäjä.
+8050759 8056056 - Rhett...<br />- Scarlett, rakas pikkusisareni.
+8057182 8061812 Sisareni ei tuonut sahoja<br />tai viiloja, joten menkää.
+8066817 8070153 - Yksi suukko.<br />- Otsalle kuten veli.
+8070320 8073574 Odotan parempaa.
+8073782 8076869 Olin niin huolissani<br />kun kuulin vankeudestasi.
+8077077 8083000 - Hirtetäänkö sinut tosiaan?<br />- Surisitko minua?
+8083208 8088005 Jenkit haluavat vain rahani.
+8088172 8090924 He luulevat,<br />että kätkin konfederaatin rahat.
+8091091 8093760 - Kätkitkö?<br />- Olipa ilkeä kysymys.
+8093927 8099683 Ei puhuta rahoista.<br />Kylläpä näytät kauniilta.
+8099892 8105898 - Imarteletko maalaistyttöä?<br />- Olen kyllästynyt rääsyihin.
+8106106 8110652 Käänny ympäri.<br />Näytät herkulliselta ja hyvinvoivalta.
+8110819 8118035 Tarassa voidaan hyvin,<br />mutta halusin vähän huvittelemaan.
+8118243 8123123 Olet sydämetön,<br />mutta juuri siksi niin ihastuttava.
+8123290 8128879 En tullut puhumaan itsestäni.<br />Huolestuin kun olet pulassa.
+8129087 8135010 Suutuin kun jätit minut tielle<br />enkä ole vielä antanut anteeksi.
+8135219 8139348 Mutta olen elossa<br />nyt sinun ansiostasi.
+8139515 8145103 Nyt minulla on kaikkea,<br />ei huolen häivääkään.
+8145270 8151777 Ja sinä istut täällä<br />hevosten seassa vankilassa.
+8151944 8156240 Tässä minä vain pilailen,<br />vaikka olen surullinen.
+8156448 8159451 Kohta ihan itkettää.
+8161912 8167251 - Onko se mahdollista?<br />- Mikä, Rhett?
+8167417 8173674 - Että sinulla on naisen sydän?<br />- On se totta.
+8175968 8179304 Kannatti olla täällä<br />noiden sanojen tähden.
+8181098 8183559 Kannatti oikein hyvin.
+8187271 8192651 Lopeta kaunottaren teeskentely.<br />Vai menee Tarassa hyvin?
+8192818 8196154 - Mitä käsillesi on tapahtunut?<br />- Ratsastin ilman hanskoja.
+8196321 8201785 Nämä ovat maatyöläisen kädet.<br />Mitä oikein haluat?
+8201952 8205122 - Hetken uskoin, että välität minusta.<br />- Välitänhän minä!
+8205330 8210919 Esitit tämän näytelmän<br />siksi, että haluat jotain.
+8211086 8216300 - Rahaako?<br />- 300 dollaria veroihin.
+8216508 8223015 Olit oikeassa, kaikki on pielessä,<br />ja sinä olet miljonääri.
+8224474 8227895 - Mitä tarjoat vakuudeksi?<br />- Korvakoruni.
+8228103 8230397 - Taran.<br />- Mitä minä sillä tekisin?
+8230606 8234985 - Puuvillasta tulee rahaa.<br />- Eikö ole mitään muuta?
+8237571 8242201 Sanoit, että rakastat minua.<br />Jos vielä rakastat minua...
+8242367 8248373 - En halua naimisiin.<br />- En ole unohtanut sitä.
+8253545 8258884 Et ole 300 dollarin arvoinen.<br />Tuot miehelle vain murheita.
+8259343 8262179 Sano mitä haluat<br />kunhan saan rahat.
+8262346 8266266 En voi luopua Tarasta!
+8266475 8272397 - Ole kiltti, lainaa rahat.<br />- En voi vaikka haluaisinkin.
+8272564 8278487 Jos yritän nostaa jotain,<br />jenkit ovat heti kimpussani.
+8278695 8282741 Olet nöyryyttänyt itsesi<br />ihan turhan takia.
+8285410 8289540 Lopeta. Et kai halua,<br />että jenkit näkevät tämän?
+8289706 8293794 Päästä irti, peto!<br />Tiesit mitä halusin.
+8293961 8299174 Tiesit ettet lainaa rahoja,<br />mutta annoit minun jatkaa.
+8299341 8302594 Tule hirttäjäisiin,<br />muistan sinua testamentissani.
+8302761 8308684 Pelkään vain, että sinut hirtetään<br />liian myöhään verojen kannalta.
+8315232 8319778 - Sano, että Belle Watling tuli.<br />- Luulin että unohdit kapteenin.
+8319987 8324449 Minulla on paljon töitä.<br />Auta minut ulos.
+8331582 8337337 Kenelläs tuonvärinen tukka on?<br />Tunnetteko sellaisia?
+8337504 8340674 Kyllä. Hän saisi minulle rahat.
+8342801 8348807 Saitte ihan ansionne mukaan,<br />mennä nyt roskaväkeä tapaamaan.
+8355731 8358025 - Kokovihreissä.<br />- Suoraan puutarhasta.
+8360319 8363906 - Oikea etelän kaunotar.<br />- Tuollaisia ei Ohiossa ole.
+8364072 8369661 Saatte 40 eekkeriä ja muulin.
+8373498 8379755 Me olemme ystäviä, ja tehän<br />äänestätte nyt kuin ystävänne.
+8382883 8387930 - Mitä kaupungille on tapahtunut?<br />- Jenkit. Niitä on joka paikassa.
+8392267 8395187 Pois tieltä!
+8403237 8408867 - Scarlett-neiti ja Mammy.<br />- Hauska nähdä tuttuja.
+8409034 8411954 - En tiennyt, että olet Atlantassa.<br />- Samoin.
+8412120 8417835 - Eikö Suellen kertonut kaupastani?<br />- En muista.
+8418001 8421421 - Tämäkö?<br />- Tulkaa sisään katsomaan.
+8429429 8434560 Se ei ehkä näytä hääppöiseltä,<br />mutta olen ylpeä siitä.
+8434726 8439439 - Ansaitsetko tarpeeksi?<br />- Olen toiveikas.
+8439606 8445445 Olen kuulemma kauppamies.<br />Pian voimme mennä naimisiin.
+8445612 8448949 - Niinkö hyvin pärjäät?<br />- Niin.
+8449116 8453453 Olen saanut kokoon 1000 dollaria.
+8453620 8457875 - Puutavaraakin?<br />- Se on vain sivutuloa.
+8458041 8464214 Sivutuloa? Georgiassa riittää puuta,<br />ja täällä rakennetaan kovasti.
+8464381 8469178 Se vaatii rahaa, ja minun<br />on ajateltava talon ostoa.
+8469344 8473098 - Talon?<br />- Koti Suellenille ja minulle.
+8473265 8477728 Haluat hänet tietysti<br />tänne Atlantaan.
+8477895 8483275 - Se ei auta Taraa.<br />- Mitä tarkoitatte?
+8484109 8489406 Ei mitään. Voisitko viedä<br />minut Pitty-tädin luo?
+8489573 8492034 Mielihyvin.
+8492201 8495204 Voit jäädä päivälliselle.<br />Täti ilahtuu varmasti.
+8495370 8501043 Ja minuakin se viihdyttää.
+8501210 8504880 Kerrotko sitten kaikki uutiset<br />Suellen-neidistä?
+8508091 8511136 Ei kai hän ole sairas?
+8511637 8515140 Ei, ei toki.<br />Luulin, että hän kirjoitti.
+8515307 8521104 Saisi hävetä!<br />Kauheaa että sisareni on niin ilkeä.
+8521271 8525484 Kerro heti mistä on kyse.
+8526568 8530030 Hän nai pian paikallisen pojan.
+8530197 8537120 Hän ei jaksanut odottaa enää.<br />Valitan, että kuulet sen minulta.
+8537287 8542918 Muhvini jäi kotiin ja palelen.<br />Saanko laittaa käteni taskuusi?
+8559476 8564940 Hän meni naimisiin<br />minun Frankini kanssa.
+8565107 8569361 - Hän oli minun sulhaseni.<br />- Hän halusi pelastaa Taran.
+8569528 8574032 Vihaan Taraa ja<br />Scarlettia vielä enemmän.
+8578787 8584626 Se on kokonaan minun syytäni.<br />Olisi pitänyt ryöstää ne rahat.
+8584793 8588714 No, tehty mikä tehty.
+8588922 8595762 Et antanut minun olla kunniaton,<br />mutta nait miehen jota et rakasta.
+8596930 8601351 Sinun ei tarvitse enää surra<br />minun avuttomuuttani.
+8601518 8605522 - Miten niin?<br />- Muutan New Yorkiin.
+8606148 8610611 - Olen saanut paikan pankista.<br />- Et voi!
+8612112 8616992 Luotin apuusi<br />puutavaraliikkeen aloittamisessa.
+8617159 8620078 En ymmärrä puutavarasta mitään.
+8620245 8625709 Yhtä paljon kuin pankeista,<br />ja saisit puolet yrityksestä.
+8625876 8628420 Kovin ystävällistä, Scarlett.
+8628629 8633592 Mutta jos annan sinun<br />taas auttaa minua,...
+8633759 8637763 ...en koskaan seiso omilla jaloillani.
+8637930 8643143 Voisit ostaa yrityksen<br />pikkuhiljaa omaksesi.
+8643352 8645896 Ei, Scarlett.
+8648232 8650526 Ashley!
+8666250 8668627 Scarlett?
+8668794 8672798 - Mikä hätänä?<br />- Ashley on ilkeä ja inhoittava.
+8672965 8677886 - Mitä olet tehnyt?<br />- Scarlett halusi minut Atlantaan.
+8678428 8682140 Hän ei auta minua<br />puutavaraliikkeen alussa.
+8682641 8686812 Kuinka itsekkäästi ajateltu!
+8686979 8692734 llman Scarlettia olisin kuollut<br />ja meillä ei olisi pikku Beauta.
+8692901 8698407 Olet raatanut pelloilla<br />ruokkiaksesi meidät.
+8704496 8708959 Hyvä on, Melanie.<br />Lähden Atlantaan.
+8709418 8712796 En pysty vastustamaan<br />teitä molempia.
+8726143 8728437 Nostakaa jalkoja!
+8731565 8737112 Rouva Kennedy, tässä teille<br />Georgian parhaat sahatyöläiset.
+8737279 8740866 Eivät hääveiltä näytä, Gallagher.
+8742868 8748707 Antakaa vapaat kädet<br />ja olette tyytyväinen.
+8749791 8755506 Hyvä on. Haluan vain<br />saada tavarani ajoissa.
+8755672 8761261 Luottakaa siihen.<br />Mutta ette kysy ettekä sekaannu.
+8761428 8764223 Selvä. Voitte aloittaa aamulla.
+8764389 8766266 Liikettä niveliin.
+8766433 8769186 Tämä ei ole oikein, Scarlett.
+8769353 8775150 - Nainen joka johtaa liikettä!<br />- llman minua ei olisi sahaa.
+8775317 8782282 Sait rahat kun perit velkoja<br />ystäviltäni, vai mitä, Ashley?
+8782449 8788163 Ei tämä ole hyväntekeväisyyttä.<br />Mene kotiin ja ota lääkkeesi.
+8788330 8791416 Mutta kultaseni, tulisit kotiin...
+8791583 8796004 Älä enää häiritse ja<br />älä sano minua kultaseksi.
+8796171 8797589 Hyvää yötä, Ashley.
+8799883 8803679 Kylläpäs hän<br />on äkkipikainen.
+8804388 8811353 En halua sekaantua, mutta vankien<br />sijasta haluaisin mustia työhön.
+8811520 8816191 Mustat ovat kalliimpia<br />ja Gallagherilla on vapaat kädet.
+8816358 8821738 Hän ei anna ruokaa ja ruoskii.<br />Miehet ovat sairaita ja nälkäisiä.
+8821905 8828453 Sinä antaisit kanaa joka aterialla<br />ja vielä untuvatäkit päälle.
+8828620 8832583 En halua hyötyä<br />toisten onnettomuudesta.
+8832749 8837254 - Olihan sinullakin orjia.<br />- Joita ei kohdeltu noin.
+8837421 8841842 Olisin vapauttanut kaikki<br />isän kuoltua, mutta sota ehti ensin.
+8842009 8846054 Oletko unohtanut<br />millaista on ilman rahaa?
+8846221 8851476 Raha on maailmassa tärkeintä,<br />enkä koskaan enää ole köyhä.
+8851643 8855939 Jenkit eivät voi viedä<br />Taraa minulta koskaan!
+8856106 8858525 Emme ole ainoita<br />jotka ovat kärsineet.
+8858692 8862446 Ystävämme säilyttävät myös<br />kunniansa ja lempeytensä.
+8862613 8868619 Ja näkevät nälkää. Tiedän mitä<br />minusta puhutaan, enkä välitä.
+8868785 8873415 Voitan onnenonkijat heidän<br />omassa pelissään, sinun avullasi.
+8876168 8878879 Hieman tuonnepäin.
+8879588 8885010 Päivää, rouva Kennedy.<br />Liikeasiat näyttävät kukoistavan.
+8886637 8892184 Nämä ihmiset kiduttivat,<br />ryöstivät ja nälkiinnyttivät meitä!
+8892351 8896647 Se on mennyttä.<br />Nyt teemme parhaamme.
+8897147 8899525 SOTA ON OHl<br />LUOTTOA El HERU
+8899733 8904988 Tohtori Meade näki hänen<br />myyvän itse jenkeille.
+8905155 8906573 Eikä siinä kaikki.
+8906740 8913288 - Mitä hän tekeekään Ashleylle!<br />- Ja hän ajaakin omia vaunujaan.
+8920045 8926051 - Rakas rouva Kennedy!<br />- Kuinka kehtaat tulla silmiini?
+8926218 8931598 Olisit saanut miljoonani<br />jos olisit malttanut mielesi.
+8931765 8934142 Mitä asiaa? Minulla on kiire.
+8934309 8939648 - Olen miettinyt erästä asiaa.<br />- Kysy äkkiä sitten.
+8940190 8944403 Etkö kyllästy naimaan<br />miehiä joita et rakasta?
+8944570 8946947 Miksi sinua ei hirtetty?
+8948240 8955247 Rahalla saa mitä vain.<br />Sinäkin olet ostanut herra Wilkesin.
+8955414 8959459 Olet mustasukkainen Ashley Wilkesille.
+8959626 8964256 Sinä se aina jaksat uskoa,<br />että olet maailman ihme.
+8964423 8967634 - Että kaikki miehet rakastavat sinua.<br />- Siirry!
+8968468 8973557 - Älähän nyt. Mihin olet matkalla?<br />- Sahalle.
+8973724 8978604 Hökkelikylän läpi?<br />Roskaväen seassa on vaarallista.
+8978770 8983400 Pystyn ampumaan kohti<br />jos olen tarpeeksi lähellä.
+8990699 8993243 Melkoinen nainen!
+9026985 9030113 - Olisiko rahaa?<br />- Päästäkää hevoseni!
+9032366 9033784 Pidä hevosta!
+9039998 9042459 - Päästäkää!<br />- Ase tänne!
+9043418 9045003 Apua!
+9046255 9048257 Apua!
+9084543 9086795 Scarlett-neiti!
+9103729 9105981 Odottakaa, Scarlett-neiti!
+9108442 9110777 - Minä tässä, Sam.<br />- Iso-Sam?
+9110944 9113197 Odottakaa!
+9114531 9119286 - Sam!<br />- Satuttivatko he teitä?
+9120495 9124124 ÄIkää itkekö.<br />Iso-Sam vie teidät pois.
+9125209 9127377 Matkaan!
+9130297 9136637 - Mene Taraan ja pysy siellä.<br />- Minulle riittivät onnenonkijat.
+9136803 9139598 - Hyvästi, Scarlett-neiti.<br />- Kiitos, Sam.
+9139765 9144853 Vaihda vaatteet ja mene Mellyn luo.<br />Minulla on poliittinen kokous.
+9145020 9149483 Miten voit mennä kokoukseen<br />kaiken tämän jälkeen?
+9149650 9152653 Sehän oli pelkkä säikähdys,<br />kultaseni.
+9152819 9157074 Kukaan ei välitä minusta.
+9178679 9185435 Miehet haluavat suojella naisia!<br />Ja sitten Frank lähtee kokoukseen!
+9189273 9195237 Jos saan kysyä, India Wilkes,<br />miksi tuijotat minua?
+9195404 9198365 - Onko naamani vihreä?<br />- Saat kyllä kysyä.
+9198532 9204162 Sait tänään aivan ansiosi mukaan,<br />ja pahempaakin ansaitset.
+9204329 9210252 Hän on vihannut minua siitä asti<br />kun vein Charlesin häneltä.
+9210419 9213547 Jos hän luulisi saavansa sillä miehen,<br />hän kulkisi alasti.
+9213714 9219553 Niin vihaankin!<br />Saatat kunnialliset ihmiset häpeään.
+9219720 9223348 - Nyt sait miehemme vaaraan...<br />- India!
+9223515 9227227 Vaietkaamme<br />tai joku puhuu sivu suunsa.
+9227394 9229938 Mitä on tekeillä?
+9235777 9240073 Joku tulee,<br />eikä se ole Ashley-herra.
+9240240 9243118 Anna minulle revolveri.
+9249291 9252419 Emme tiedä mistään mitään.
+9256757 9262346 - Missä he ovat? He ovat vaarassa.<br />- Hän on jenkkivakooja.
+9262513 9265974 - Kertokaa, aikaa on ehkä vielä.<br />- Mistä saitte tietää?
+9266141 9270729 Pelaan pokeria jenkkien kanssa.<br />Ratsuväki on valmiina.
+9270896 9275776 - He ovat vaarassa.<br />- Hän yrittää huijata tietoja.
+9278403 9283283 Decatur Road. Sullivanin plantaasi.<br />Palaneen talon kellarissa.
+9283450 9285744 Teen parhaani.
+9289623 9292918 Kertokaa heti tai tulen hulluksi.
+9293085 9298757 Ashley, Frank ja muut puhdistavat<br />metsiä missä kimppuusi hyökättiin.
+9298924 9302219 He suojaavat meitä naisia.
+9302386 9307015 Heidät voidaan hirttää siitä,<br />ja se on sinun syytäsi.
+9307182 9309017 Ei sanaakaan enää, India.
+9309184 9313856 Scarlett piti asiaa tärkeänä,<br />samoin miehemme nyt.
+9314731 9317734 Frank ja Ashley...
+9320112 9322656 En saata uskoa sitä.
+9325325 9327828 Hevosia, Melly-neiti.<br />Nyt ne tulevat.
+9327995 9329955 Ommelkaa.
+9334418 9336920 Avaa ovi, Mammy.
+9345929 9348348 lltaa, rouva Kennedy.
+9350184 9353687 - Kuka rouvista on Wilkes?<br />- Minä olen.
+9353854 9357149 - Puhuisin miehenne kanssa.<br />- Hän ei ole kotona.
+9357691 9360777 - Oletteko varma?<br />- Jos neiti niin sanoi.
+9360944 9365741 Jos annatte kunniasananne,<br />en tutki taloa.
+9365908 9369953 Herra Wilkes on poliittisessa<br />kokouksessa Kennedyn kaupalla.
+9370120 9374374 Tänään ei ole kaupalla<br />mitään kokousta.
+9374541 9378629 Odotamme ulkopuolella<br />heidän paluutaan.
+9378795 9383509 Ympäröikää talo,<br />jokainen ovi ja ikkuna.
+9387304 9392809 Ommelkaa vain, rouvat,<br />minä luen teille.
+9396021 9399566 David Copperfieldin elämä.
+9402236 9404947 1. luku. Minä synnyn.
+9409451 9413205 Aloittaakseni alusta,<br />minä synnyin...
+9414164 9416625 9. luku.<br />Muistorikas syntymäpäivä.
+9416792 9422965 Sivuutan kokonaan koulun,<br />kunnes tuli syntymäpäiväni.
+9423131 9430681 Muistan Steerforthin,<br />joka lopetti lukukauden lopussa.
+9430848 9434226 Hän oli itsenäisempi<br />ja vahvempi kuin me muut...
+9434393 9439356 ...ja siksi myös yritteliäämpi.<br />Muuta en juuri muistakaan.
+9439523 9441024 Suuri...
+9443110 9444403 En muista mitään.
+9449366 9455706 - Ne ovat humalassa, Melanie.<br />- Anna minun hoitaa puhuminen.
+9458792 9461587 Senkin tyhmä hanhi.
+9464339 9466717 Hiljaa, tai...
+9466884 9471555 - lltaa, Melly.<br />- Juotitteko hänet taas humalaan?
+9471722 9474975 - Tuokaa hänet sisään.<br />- Miehenne on pidätetty.
+9475142 9479646 Jos kaikki juopuneet pidätetään,<br />nappaatte jenkkejä.
+9479813 9484359 Tuokaa hänet sisään, kapteeni,<br />jos pystytte itse kävelemään.
+9484526 9487654 Kuulkaa, minä kerron...
+9487821 9490449 Pistäkää hänet siihen.
+9493160 9498457 Ja sitten pyydän teitä lähtemään.<br />Ette ole tervetullut talooni.
+9498624 9504254 Tässä kiitos siitä<br />etten jättänyt häntä kadulle!
+9504421 9510552 - Pojat, pojat!<br />- Olen hämmästynyt!
+9517100 9524066 - Ashley, kuinka saatoit?<br />- En minä niin humalassa ole.
+9524233 9528695 - Vie hänet nukkumaan, Mammy.<br />- Hänet on pidätetty.
+9528862 9533534 Tom, on hän ollut<br />pahemmassakin kunnossa.
+9533700 9536161 Samoin sinä, kuten minäkin.
+9536328 9539915 Juokoon minun puolestani,<br />en ole poliisi.
+9540082 9544336 Hän hyökkäsi hökkelikylään<br />jossa rouvan kimppuun käytiin.
+9544503 9547714 Hökkeleitä poltettiin ja miehiä kuoli.
+9547881 9551885 Kapinalliset eivät voi<br />ottaa lakia omiin käsiinsä.
+9552052 9555013 Mitä sinä naurat?
+9555180 9560978 Saarnaa minkä haluat, Tom.<br />He olivat kanssani koko illan.
+9561144 9563897 Missä?
+9568652 9572656 - Täällä on naisia läsnä.<br />- Anna tulla.
+9573323 9579246 - Tule ulos niin kerron.<br />- Minulla on oikeus kuulla.
+9581623 9590424 Vierailimme hyvän ystäväni luona.<br />Rouva Belle Watlingin.
+9590591 9595387 Pelasimme korttia,<br />joimme samppanjaa ja sellaista.
+9595554 9599266 Pitikö sinun nolata minut!
+9600684 9607357 Oletko nyt tyytyväinen?<br />Rouvat eivät puhu enää miehilleen.
+9607524 9610694 Minulla ei ollut aavistustakaan...
+9610861 9616200 Annatko sanasi siitä,<br />että olitte kaikki Bellen luona?
+9616366 9621788 - Kysy Belleltä jos et minua usko.<br />- Annatko herrasmiehen sanasi?
+9621955 9625417 Herrasmiehen?<br />llman muuta, Tom.
+9627336 9634218 Valitan tätä välikohtausta,<br />toivottavasti suotte anteeksi.
+9635928 9641808 - Jättäkää meidät nyt rauhaan.<br />- Kuten sanottu, olen pahoillani.
+9641975 9645145 Olen todella...<br />Tulkaa, kersantti.
+9651860 9654488 Lukitse ovi ja vedä verhot eteen.
+9657032 9661703 Se on vain olkapäässä.<br />Nostakaa hänet sängylle.
+9661870 9667626 - Pystyn kävelemään.<br />- Älä yritä. Minnepäin?
+9669294 9672756 Tarvitsen lämmintä vettä<br />ja sidetarpeita.
+9672923 9675759 Olisipa minulla<br />lääkärinlaukkuni mukana!
+9675926 9679054 Miltä siellä näytti?
+9679221 9683225 Onko siellä kristallikruunuja,<br />plyysiverhoja ja peilejä?
+9683392 9686895 Mitä oikein luulet, rouva Meade?
+9688105 9693861 - Kertokaa mitä tapahtui.<br />- Tulin liian myöhään.
+9694027 9699992 Tappelu oli jo käyty.<br />Löysin Wilkesin ja Meaden.
+9700742 9706790 Minun täytyi keksiä jotain,<br />joten vein heidät Bellelle.
+9706957 9711170 - Ja hän päästi heidät sisään?<br />- Olemme vanhoja ystäviä.
+9711336 9713213 Olen pahoillani.
+9713380 9717759 Anteeksi etten keksinyt<br />mitään kunniallisempaa.
+9719970 9723724 Olette pelastanut minut ennenkin.
+9723891 9727519 En voi millään epäillä keinojanne.
+9728729 9732649 Katson tarvitseeko<br />tohtori Meade jotain.
+9737821 9739948 Ashley...
+9743911 9748832 Etkö halua kuulla mitä<br />sinun miehellesi tapahtui?
+9750083 9752711 Oliko Frank myös Bellen luona?
+9752878 9756423 - Ei.<br />- Missä hän on?
+9756590 9760511 Hän makaa Decatur Roadilla<br />kuula otsassaan.
+9762012 9764348 Hän on kuollut.
+9773565 9776235 - Kuka siellä?<br />- Belle Watling.
+9776401 9782407 - Ettekö tule sisään?<br />- Se ei oikein sovi, rouva Wilkes.
+9782574 9785118 Tulkaa te hetkeksi tänne.
+9792918 9796839 Kuinka voin koskaan kiittää<br />teitä siitä mitä teitte?
+9797005 9803512 Kirjoititte tulevanne käymään.<br />Mitä oikein ajattelitte?
+9803679 9807724 Tulin kertomaan heti<br />kun oli tarpeeksi pimeää.
+9807891 9813146 Minä olen... Ja te taas...<br />Eihän sellainen sovi.
+9813313 9817192 Voin kai kiittää naista,<br />joka pelasti mieheni hengen?
+9817359 9822322 Kukaan muu rouvista<br />ei ole niin ystävällinen minulle.
+9822489 9827035 Ne sairaalan rahat.<br />En ole unohtanut sellaista.
+9827536 9832666 Olisitte jäänyt leskeksi lapsen<br />kanssa jos miehenne olisi hirtetty.
+9832833 9839256 Poikanne on niin suloinen.<br />Minullakin on poika.
+9839590 9842176 Onko? Asuuko hän...?
+9842342 9847222 Ei, ei täällä Atlantassa.<br />Ei ole koskaan käynytkään.
+9847389 9852936 Hän on koulussa,<br />näin häntä vain aivan pienenä.
+9854813 9862487 Mutta Kennedyn rouvan puolesta<br />en tekisi mitään.
+9862654 9867159 Hän on kylmä nainen,<br />ajelee yksin ympäri kaupunkia.
+9867326 9870078 Hän tappoi miehensä.
+9870245 9874166 Ette saa puhua sellaista<br />minun kälystäni.
+9876418 9881632 Anteeksi...<br />Tehän pidätte hänestä.
+9881798 9885677 Mutta hän ei yllä<br />lähellekään teitä.
+9886678 9889723 Minun täytyy lähteä.
+9889890 9895354 Pelkään, että vaununi tunnetaan<br />jos viivyn kauemmin.
+9896438 9901527 Jos tapaamme kadulla,<br />älkää puhuko minulle.
+9902402 9904488 Ymmärrän kyllä.
+9904655 9909535 Puhun teille mielelläni.<br />Olen teille velkaa.
+9909701 9915832 - Toivottavasti tapaamme taas.<br />- Sellainen ei sovi.
+9915999 9919336 - Hyvää yötä, rouva Wilkes.<br />- Hyvää yötä, neiti Watling.
+9924132 9928345 Olette väärässä rouva Kennedystä,<br />hän suree kovasti.
+9972806 9975726 Jessus, sehän on Rhett.
+10001335 10006089 Herra Butler on täällä.<br />Sanoin, että teillä on suruaika.
+10006256 10009134 Tulen alas, Mammy.
+10039456 10043460 En käsitä yhtään,<br />mutta hän tulee alas.
+10043627 10048340 Et taida pitää minusta, Mammy.<br />Älä väitä vastaan, tiedän sen.
+10060561 10065023 Ei se mitään peitä.<br />Eau de cologne.
+10065190 10071989 - Mitä tarkoitat?<br />- Olet juonut koko lailla brandya.
+10072155 10074741 Mitä se sinulle kuuluu?
+10077035 10082124 Ei pitäisi juoda yksin.<br />Se tuhoaa sinun maineesi.
+10088255 10091800 Et sinä vain Frankia itke.
+10091967 10097431 - Minua pelottaa, Rhett.<br />- Se olisikin ensimmäinen kerta.
+10097598 10101602 Minua pelottaa,<br />että kuolen ja joudun helvettiin.
+10103270 10110277 - Ehkä sellaista ei olekaan.<br />- On, kasvoin siihen uskoen.
+10110444 10113614 En halua ryöstää lapsenuskoasi.
+10114156 10117242 Mitä olet tehnyt sen ansaitaksesi?
+10118368 10124416 Ei olisi pitänyt naida Frankia.<br />Hän rakasti Suelleniä.
+10124583 10129755 Tein hänet onnettomaksi<br />ja tapoin hänet.
+10131548 10137221 Kadun ensi kertaa<br />jotain mitä olen tehnyt.
+10139306 10144561 Kuivaa silmäsi. Jos alkaisit<br />kaiken alusta, tekisit samoin.
+10144728 10149942 Olet kuin varas joka ei kadu varkautta<br />vaan vankilaan menoa.
+10150108 10156615 Hyvä, että äiti on kuollut,<br />ettei hän näe minua nyt.
+10156782 10163580 Halusin olla kuin hän<br />ja olen täysin erilainen.
+10165082 10169086 Taidat ryhtyä itkemään tosissasi.
+10176593 10181723 - Sanon nyt mitä tulin kertomaan.<br />- Sano se ja lähde sitten.
+10182975 10186603 - Mitä?<br />- En voi elää ilman sinua.
+10187688 10190816 Sinulla ei ole tapoja!<br />Tulla nyt tällaisena hetkenä...
+10190983 10195487 Tiesin ensi hetkestä,<br />että olet elämäni nainen.
+10195654 10200158 Nyt kun sinulla on rahaa ja saha,<br />et enää tule luokseni.
+10200325 10204746 - Minun täytyy nyt naida sinut.<br />- Onpa sinulla huono maku.
+10204913 10209084 - Pitäisikö minun polvistua?<br />- Katoa, sinä roisto.
+10209251 10215132 Tiedän, että tunteeni pelästyttää,<br />rakas Scarlett, rouva Kennedy.
+10215299 10220429 Mutta olet kai huomannut,<br />että ystävyytemme on muuttunut...
+10220596 10226226 ...toiseksi tunteeksi,<br />puhtaammaksi ja kauniimmaksi.
+10226393 10228520 Tohdinko sanoa - rakkaudeksi?
+10229146 10231732 Ylös sieltä, en pidä piloista.
+10231899 10236445 Tämä oli kosinta,<br />hyvin valitulla hetkellä.
+10237279 10240699 En voi odottaa koko elämääni,<br />että olet ilman aviomiestä.
+10240866 10246538 Sinä itsekäs roisto,<br />meillä ei ole enää puhuttavaa.
+10247456 10253921 - Enkä enää mene naimisiin.<br />- Kyllä vain, minun kanssani.
+10254087 10258342 Sinunko? En rakasta sinua.
+10258509 10263972 - Avioliitto ei sovi minulle.<br />- Sehän voisi olla hauskaakin.
+10264139 10268310 Avioliittoko hauskaa?<br />Hui hai. Ehkä miehille.
+10268477 10272856 - Hiljaa, he kuulevat.<br />- Nait ensin pojan ja sitten ukon.
+10273023 10276777 Ottaisit nyt miehen,<br />mies osaa käsitellä naisia.
+10276944 10282533 Olet hölmö, Rhett Butler.<br />Tiedät, että rakastan toista.
+10282699 10286328 Lopeta tuollainen puhe.
+10292459 10295170 - Minä pyörryn.<br />- Se oli tarkoituskin.
+10295337 10302594 Ne hölmösi eivät osaa suudella sinua.
+10310769 10315148 - Suostu nyt kosintaani. Sano kyllä.<br />- Kyllä.
+10317484 10321572 - Ethän enää peru?<br />- En.
+10321738 10326910 Katso minuun ja ole rehellinen.<br />Otatko minut rahojen takia?
+10327077 10331665 - Muun muassa.<br />- Muun muassa?
+10333959 10338672 Rahat eivät tee pahaa,<br />ja pidänhän minä sinusta.
+10338839 10344094 Tiedät etten rakasta sinua kovin,<br />ja meillä on paljon yhteistä.
+10344261 10348599 Tiedän ettemme rakasta toisiamme.
+10348765 10351643 Luoja auttakoon sitä,<br />joka sinua rakastaa.
+10351810 10356857 - Millaisen sormuksen haluat?<br />- Suuren timanttisormuksen.
+10357024 10363739 Saat Atlantan koreimman sormuksen<br />ja häämatkan New Orleansiin.
+10363906 10367701 - Ihanaa!<br />- Ja häähepenet myöskin.
+10367868 10372664 Kuulostaa ihanalta,<br />mutta ethän puhu siitä muille.
+10372831 10375292 Sinä olet tekopyhä.
+10377252 10381882 - Etkö anna suukkoa?<br />- Etkö jo saanut tarpeeksi?
+10382049 10385511 Mene sitten,<br />eikä tarvitse tulla takaisin.
+10385677 10387930 Mutta tulen kuitenkin.
+10401860 10407783 - Mitä ajattelet, Scarlett?<br />- Sitä kuinka rikkaita olemme.
+10407950 10412871 - Saanko pitää sahanikin?<br />- Kyllä jos se sinua huvittaa.
+10413038 10417251 Nyt voit käskeä kaikkia<br />painumaan hittoon.
+10417417 10420003 Se koski enimmäkseen sinua.
+10437479 10440899 Ei tarvitse nuolla lautasta.
+10441608 10445487 Haluaisin tuollaisen marengin.
+10445654 10450325 Sinusta tulee yhtä lihava kuin<br />Mammysta, ja sitten otan eron.
+10451326 10455539 - Ostaisit jotain Mammylle.<br />- Miksi ostaisin?
+10455706 10459209 - Hän sanoi meitä muuleiksi.<br />- Muuleiksi?
+10459376 10464006 Hän sanoi että olemme<br />olevinamme kilpahevosia,...
+10464173 10468051 ...mutta pohjimmiltamme<br />olemme vain muuleja.
+10468218 10471805 Se on totta kuin mikä.<br />Mammy on viisas vanha otus.
+10471972 10475309 Haluaisin hänen kunnioituksensa.
+10476351 10479980 - Hän ei saa minulta mitään.<br />- Ostan hänelle alushameen.
+10480147 10484193 Minun hoitajani halusi<br />punaisen taftihameen kun hän kuolee.
+10484359 10489781 Sen piti seisoa itse pystyssä<br />ja olla kuin enkelinsiivistä tehty.
+10489948 10492910 Hän ei käytä sellaista<br />jos saa sen sinulta.
+10493076 10496205 Olkoon, mutta teen sen<br />joka tapauksessa.
+10500334 10502461 Herää.
+10504254 10507466 Näit taas pahaa unta.
+10507633 10511220 Voi Rhett,<br />minulla oli kylmä ja nälkä.
+10511386 10518060 Juoksin sumussa enkä löytänyt sitä.
+10518227 10520854 - Mitä?<br />- En tiedä.
+10521021 10527069 Se on aina sama uni, en tiedä.<br />Se on piilossa sumussa.
+10528654 10533909 Luuletko, että löydän sen<br />ja pääsen rauhaan?
+10534076 10540958 Kun tiedät, että olet turvassa,<br />unetkin pikkuhiljaa lakkaavat.
+10541124 10545337 Minä pidän huolta siitä,<br />että olet aina turvassa.
+10546213 10552219 - Rhett, voinko pyytää jotain?<br />- Tottakai voit.
+10552386 10557516 - Voimmeko lähteä pois täältä?<br />- Etkö pidä New Orleansista?
+10557683 10562479 Kyllä, mutta haluan Taraan.
+10562646 10567526 - Vietkö minut sinne?<br />- Tottakai, Scarlett.
+10568694 10571029 Lähdemme huomenna.
+10572906 10577744 Sinun voimasi tulee Taran maasta.<br />Se on osa sinua.
+10577911 10583166 Toivon niin,<br />että Tara olisi kuin ennen sotaa.
+10583333 10589047 Älä säästä rahaa, tee siitä<br />yhtä hieno plantaasi kuin ennen.
+10591091 10595262 Kiitos, Rhett. Rakennammehan<br />talon myös Atlantaan?
+10595429 10600767 Kyllä, marmoriterassi<br />ja lasimaalaukset ja kaikki.
+10600934 10606190 Kaikki minulle ilkeät ihmiset<br />ovat vihreitä kateudesta.
+10607816 10614531 Hän rakentaa talon mahtaillakseen<br />ja vie palvelijamme.
+10615240 10621622 Hänen ansiostaan meillä on yhä Tara.
+10621788 10627878 Hän on kolmatta kertaa naimisissa,<br />ja minä olen vanhapiika.
+10630339 10634843 Voi kiesus! Kiesus sentään!
+10635010 10638096 Nyt me olemme kyllä rikkaita.
+10638931 10644269 Miksen muka saa nähdä<br />omaa lastani?
+10644436 10648190 Kyllä te häntä vielä näette.
+10648690 10653904 - Valitan ettei se ollut poika.<br />- En halua poikaa.
+10654071 10657866 Pojista ei ole mihinkään.<br />Minä olen siitä elävä todiste.
+10658033 10659910 Ota sherryä, Mammy.
+10661203 10664748 - Olihan hän kaunis?<br />- Kyllä maar.
+10664915 10670879 - Oletko nähnyt kauniimpaa?<br />- Scarlett oli melkein yhtä nätti.
+10671046 10673423 Ota toinenkin.
+10677135 10683392 - Mikäs täällä kahisee?<br />- Minun punainen alushameeni.
+10683559 10687688 En usko sitä.<br />Nosta hameen helmaa.
+10688438 10693110 Te sitten olette kauhea!
+10698198 10703745 - Kyllä sen käyttöönotto kestikin.<br />- Niin, liian kauan.
+10703912 10705956 Emmekö olekaan enää muuleja?
+10706123 10712296 Neiti ei olisi saanut kertoa.<br />Ettehän ole vihainen Mammylle?
+10712462 10718135 Ei, olin vain utelias.<br />Otahan lisää. Ota koko pullo.
+10718302 10721388 Voit mennä nyt sisään.<br />Tohtori antoi luvan.
+10724600 10730022 Tämä on onnen päivä.<br />Kolmas polvi suvun tyttöjä.
+10730189 10732232 Se on suuri päivä.
+10732399 10737446 Lasten tulo on suurinta elämässä.<br />Toivon...
+10737613 10740908 Hän on niin kaunis.<br />Mikähän nimeksi tulee?
+10741074 10747206 Jos tulee tyttö,<br />hän on Eugenia Victoria.
+10748582 10753837 Hän on kaunein lapsi,<br />jonka olen koskaan nähnyt.
+10757466 10762971 Tänään on syntymäpäiväsi,<br />olet viikon vanha.
+10763138 10769102 Ostan sinulle ponin,<br />jollaista ei täällä ole nähty.
+10769269 10772731 Hänet pannaan Charlestonin<br />parhaisiin kouluihin...
+10772898 10777528 ...ja hän pääsee<br />Etelän parhaisiin perheisiin.
+10777694 10783951 Kun hän menee naimisiin,<br />hän on kuin pikku prinsessa.
+10784117 10787538 - Näytät aivan hupsulta.<br />- Miksen näyttäisi?
+10788622 10792793 Hän on ensimmäinen ihminen,<br />joka kuuluu kokonaan minulle.
+10792960 10796630 No johan on!<br />Minähän sen lapsen synnytin.
+10797047 10800676 - Melanie täällä, saanko tulla?<br />- Tule vain.
+10800843 10804930 Tule ja katso<br />tyttäreni sinisiä silmiä.
+10805639 10811436 - Kaikki syntyvät sinisilmäisinä.<br />- Hän tietää kaiken vauvoista.
+10811603 10817776 - Nämä pysyvät sinisinä.<br />- Ovat kuin sininen lippumme.
+10817943 10821864 Hänen nimekseen tulee<br />Bonnie Blue Butler.
+10829913 10832791 Vielä uudestaan, Mammy.
+10839506 10843093 20 tuumaa.
+10843260 10847347 Olen kohta kuin Pitty-täti.<br />Sen on oltava 181/2 taas.
+10847514 10853562 Te saitte lapsen,<br />ettekä enää näe 181/2 tuumaa.
+10855063 10860903 Kyllä näen. En halua olla<br />vanha ja paksu aikoihin.
+10861069 10867534 - En halua enää lapsia.<br />- Rhett-herra haluaa pojan.
+10867701 10871955 Sanokaa kapteenille,<br />että syön huoneessani.
+10892893 10897356 Sain viestisi.<br />Minäkin syön täällä.
+10903529 10906615 - Et kai vastusta sitä?<br />- En.
+10907908 10913205 Kyllä. Ei...<br />Hällä väliä missä syöt.
+10915832 10918794 Rhett...
+10918961 10922422 Olen päättänyt...
+10924424 10927386 Toivon etten saa enää lapsia.
+10939565 10946363 Minulle on sama onko lapsia<br />yksi vai kaksikymmentä.
+10946530 10950284 Ymmärrätkö mitä se tarkoittaa?
+10950450 10954746 Kyllä. Ja voisin ottaa<br />eron sillä perusteella.
+10954913 10959710 Sinä oletkin niin alhainen.<br />Et ole yhtään herrasmies.
+10959877 10963922 Ashley Wilkes tietää,<br />ettei Melanie saa lapsia, ja hän...
+10965757 10970304 - Kävitkö sahalla tänään?<br />- Miten se tähän liittyy?
+10971763 10975267 Ashley on oikea herrasmies.<br />Jatka vain.
+10975434 10978729 Et kuitenkaan ymmärtäisi.
+10978896 10982107 - Säälin sinua, Scarlett.<br />- Säälitkö?
+10982274 10988322 Haikailet saavuttamatonta,<br />vaikka onni on käsilläsi.
+10988488 10989865 Mitä tarkoitat?
+10990032 10994578 Jos olisit vapaa<br />ja Melanie kuollut, saisit Ashleyn.
+10994745 11000918 Luuletko, että olisit onnellinen?<br />Et koskaan ymmärrä häntä.
+11001084 11006089 - Sinä ymmärrät vain rahaa.<br />- Sano nyt vain...
+11006256 11011970 - Saat olla rauhassa, Scarlett.<br />- Etkö siis välitä?
+11012137 11018477 Maailma on täynnä ihmisiä,<br />minä etsin lohtuni muualta.
+11018644 11023649 Samantekevää.<br />Lukitsen joka tapauksessa oveni.
+11023815 11028195 Turha vaiva. Jos haluaisin sisään,<br />minua eivät lukot estäisi.
+11045921 11050259 Naiset ovat epäluotettavia<br />ja huijareita, mutta hän...
+11050425 11052761 - Rhett, ei se auta.<br />- Miten niin?
+11052928 11058517 Tekipä hän mitä tahansa,<br />rakastat häntä yhä.
+11058684 11063105 - En sano sitä mielelläni.<br />- Se on loppu nyt.
+11063272 11067651 Ajattele lastasi.<br />Se on tärkeämpää kuin äiti.
+11073198 11077452 Olet viisas ihminen, Belle.<br />Ja hyvin kiltti.
+11078412 11081832 - Niin?<br />- Kun vertaan teitä...
+11082708 11087796 Olette molemmat hyviä liikenaisia,<br />mutta sinulla on sydän.
+11090048 11092259 Ja sinä olet rehellinen.
+11094178 11096638 Hyvästi, Rhett.
+11096805 11099099 Hyvästi, Belle.
+11113739 11118660 Hänestä tulee taitava ohjastaja.<br />Katso käsiä ja asentoa.
+11118827 11122789 Miksi meidän pitää kärrätä häntä,<br />onhan meillä palvelijat?
+11122956 11127085 - Huomenta, rouva Merriwether.<br />- Huomenta, kapteeni ja Scarlett.
+11127252 11132883 - Nolaamme vain itsemme.<br />- Olisit ajatellut sitä aiemmin.
+11133050 11138138 Nyt kesytämme<br />jokaisen hirmutädin täälläpäin.
+11138305 11143727 - Huomenta, rouva Whiting.<br />- Huomenta, kapteeni ja Scarlett.
+11143894 11147147 Pitääkö miljonäärien<br />olla kunniallisiakin?
+11147314 11151777 Rahalla ei osteta kaikkea.
+11151944 11157824 Bonnien on seurusteltava<br />kunnon piireissä, vaikka ryömisimme.
+11158825 11163789 - Huomenta, rouva Meade.<br />- Huomenta, kapteeni Butler.
+11169920 11174633 Antaisitteko minulle hyvän neuvon,<br />rouva Merriwether?
+11174800 11178095 - Mielelläni.<br />- Bonnie ei lopeta peukalon imemistä.
+11178262 11181849 Se tuhoaa hänen suunsa.
+11182015 11186603 Hänellä on niin kaunis suu.<br />Olen kokeillut saippuaa kynsiin.
+11186770 11193318 - Pistäkää siihen kiniiniä.<br />- Kiniiniä! Enpä olisi itse keksinyt!
+11193485 11198156 Kiitos oikein paljon,<br />kivi vierähti sydämeltäni.
+11202411 11205455 Oliko se kapteeni Butler?
+11205622 11212546 Miehessä joka rakastaa lastaan<br />noin on oltava paljon hyvää.
+11212713 11214840 llman muuta.
+11215007 11219219 Olenko kertonut että kapteeni<br />on vihdoinkin myöntänyt,...
+11219386 11223307 ...että hän sai kunniamitalin<br />sotatoimistaan?
+11223473 11228604 Et. Olenko kertonut<br />kapteenin avustuksesta...
+11228770 11233901 ...sotasankareiden hautojen<br />kunnostamiseen?
+11234067 11237863 Lapsenlapseni pitää juhlat<br />Bonnien kunniaksi ensi viikolla.
+11238030 11243410 Minähän sen ajatuksen<br />oikeastaan keksinkin.
+11243577 11249082 - Olen suunnitellut tätä kauan.<br />- En ole tuollaista kuullutkaan.
+11252878 11255923 Katso nyt kun<br />ponisi hyppää, Bonnie.
+11258342 11261261 Minä kanssa, isi.
+11261428 11264723 Hyvä on, kulta.<br />Nosta hänet ylös, Pork.
+11267559 11270103 Hyppää ylös.
+11270270 11273106 Taas hän on vauhdissa.
+11273273 11278362 Pidä jalat lähellä,<br />nojaa eteenpäin ja mukaile.
+11280447 11285827 Hienoa, tiesin että osaat.<br />Isompana vien sinut Kentuckyyn.
+11285994 11290624 Sinusta tulee etelän paras ratsastaja.<br />Anna isille suukko.
+11295045 11297589 Eikö hän ole taitava?
+11297756 11300342 Kuinka monta kertaa on sanottava,...
+11300509 11304429 ...etteivät pikkutytöt ratsasta<br />kahareisin hevosen selässä?
+11305013 11310477 Opetan hänet naistensatulaan<br />ja ostan sinisen ratsastusasun.
+11310644 11315566 - Ei sellainen sovi pikkutytölle.<br />- Ole nyt kiltti, Mammy.
+11315732 11318819 Minusta se ei vaan passaa.
+11319987 11322781 Se ei vaan passaa.
+11323866 11325701 Ei passaa.
+11335377 11340465 Scarlett? Mitä teet täällä<br />tähän aikaan päivästä?
+11340632 11345470 Mikset auta Mellyä<br />yllätysjuhlieni järjestelyissä?
+11345637 11350726 Sinun ei pitänyt tietää mitään.<br />Nyt Melly pettyy kovasti.
+11350893 11354897 Näyttelen hyvin hämmästynyttä.
+11355063 11359985 Nyt kun tulit, voin näyttää<br />kuinka huono liikemies oikein olen.
+11360152 11362446 Antaa tilien olla tänään.
+11362613 11366950 Minulla on uusi hattu,<br />eivätkä numerot pysy päässä.
+11367117 11370579 Se onkin kaunis hattu.
+11370746 11374541 Sinä kaunistut päivä päivältä.
+11374708 11378921 Et ole muuttunut yhtään<br />sitten Twelve Oaksin juhlien,...
+11379087 11383967 ...kun istuit puun alla<br />kymmenien ihailijoiden ympäröimänä.
+11384134 11390682 Sitä tyttöä ei enää olekaan.<br />Mikään ei käynyt niinkuin luulin.
+11391725 11395896 Me olemme kulkeneet<br />melkoisen matkan siitä.
+11396063 11401235 Vanhat leppoisat päivät,<br />lämmin iltahämy maalla.
+11401401 11404446 Neekerien talon iloinen sorina.
+11405239 11409409 Lämpimiä, turvallisia päiviä.
+11410786 11414164 Älä katso taaksesi, Ashley.
+11416124 11421213 On vaikeaa kun on vain nykyaika.
+11425926 11429263 En tarkoittanut<br />tehdä sinua surulliseksi.
+11429429 11433100 Toivon vain, että olisit onnellinen.
+11452786 11454746 Ashley...
+11456456 11459751 - Kuka siellä?<br />- Sinun miehesi.
+11459918 11461879 Tule sisään.
+11462045 11465757 Pääsenkö aivan<br />kaikkein pyhimpään?
+11465924 11468260 Et ole pukeutunut juhliin.
+11468427 11472806 Päätäni särkee.<br />Mene sinä, kerro terveisiä.
+11474433 11480147 Oletpa sinä pelkuri!<br />Ylös sieltä ja vaatteet päälle.
+11480314 11484318 - Onko India...<br />- Koko kaupunki tietää.
+11484484 11490032 - Olisit tappanut hänet!<br />- En totuuden kertomisesta.
+11490199 11493452 En mene minnekään<br />ennenkuin erehdys on selvitetty.
+11493619 11497414 Et vie Mellyltä iloa<br />heittää sinut ulos talosta.
+11497581 11504880 - India vihaa minua, en voi mennä.<br />- Et sitten koskaan mene ulos.
+11505047 11509885 Tulet mukaan juhliin,<br />vaikkapa vain Bonnien takia.
+11510052 11512054 Pue päällesi!
+11524691 11528737 Pue tämä!<br />Vähempi ei kelpaa tänään.
+11528904 11533033 Ja paljon poskipunaa,<br />että näytät osaasi sopivalta.
+11558517 11560936 - Hyvästi.<br />- Rhett...
+11561103 11564064 Menet yksin.<br />Leijonat odottavat nälkäisenä.
+11564231 11567442 - Älä jätä minua, Rhett.<br />- Et kai pelkää?
+11593844 11596221 Onpa kaunis puku, Scarlett.
+11596388 11602895 India ei päässyt tulemaan,<br />voisitko sinä auttaa minua?
+11605522 11609109 Rouva Meade, Scarlett-kulta tuli.
+11610861 11613322 - lltaa.<br />- lltaa.
+11618785 11622372 Etkö hae lasia Scarlettille?
+11629963 11632925 Oliko Melly-neidin juhlissa mukavaa?
+11633091 11639014 Oli. Jos kapteeni kysyy,<br />minä nukun.
+11669878 11672047 Tule vain, rouva Butler.
+11680681 11682182 Tule sisään.
+11697573 11699324 Istu!
+11701451 11707291 - Saat yömyssyn.<br />- Kuulin melua...
+11707457 11712504 Etkä kuullut. Jos olisit tiennyt<br />että olen täällä, et olisi tullut.
+11712671 11716300 Kaipaat sitä kipeästi. Hyvä on.
+11716466 11721221 Tiedän tarkkaan, että juot salaa,<br />ja kuinka paljon.
+11721388 11725058 En minä välitä<br />jos pidät brandystäsi.
+11730731 11732107 Sinä olet humalassa.
+11732274 11737779 Hyvin humalassa.<br />Vielä pahemmin olen kun ilta loppuu.
+11737946 11742951 Mutta sinä et mene mihinkään.<br />Istu alas.
+11746205 11749291 Sait siis Mellyn tuen.
+11749458 11754588 Miltä tuntuu saada suojelijaksi nainen<br />jota vastaan on rikkonut?
+11754755 11760969 Mietit kai tietääkö hän kaiken,<br />pelastiko hän vain kasvonsa.
+11761136 11764765 Pidät häntä hupsuna<br />vaikka hän pelastikin sinut.
+11764932 11767643 - En halua kuulla!<br />- Kuulet silti.
+11768060 11771313 Melly-neiti on hupsu,<br />muttei sellainen kuin luulet.
+11771480 11776818 Hän on niin kunniallinen<br />ettei usko pahaa rakkaistaan.
+11776985 11782157 Hän rakastaa sinua.<br />En tosin käsitä miksi.
+11783158 11787412 Jos et olisi niin humalassa ja tyly,<br />voisin selittää kaiken.
+11787579 11790874 Jos nouset tuosta<br />tuolista vielä kerrankin...
+11794211 11799716 Kaikkein surkuhupaisin<br />on herra Wilkes -parka.
+11799883 11805848 Hän on uskoton vaimolleen<br />ajatuksissa muttei teoissa.
+11807349 11811061 Miksei hän jo päätä jotain?
+11813689 11820028 Katso tarkkaan käsiäni.<br />Voisin repiä sinut kappaleiksi.
+11820195 11824700 Ja repisinkin, jos se veisi<br />Ashleyn mielestäsi ikiajoiksi.
+11824867 11831248 Mutta se ei onnistu,<br />joten poistan hänet toisin.
+11832124 11837462 Laitan käteni näin<br />molemmin puolin päätä.
+11838255 11843051 Ja särjen kallosi niiden<br />välissä kuin pähkinän.
+11843218 11846471 Se karkottaa hänet.
+11846638 11850601 Kädet irti, humalainen hölmö.
+11854605 11861570 Olen aina ihaillut sisuasi,<br />varsinkin nurkkaan ahdistettuna.
+11862196 11866408 Et koskaan saa<br />ahdistettua minua nurkkaan.
+11866575 11869995 Olet elänyt loassa niin kauan<br />ettet enää tunne muuta.
+11870162 11875459 Olet mustasukkainen sille<br />mitä et ymmärrä. Hyvää yötä.
+11876335 11880297 Niin kai sitten olen.
+11880464 11883800 Tiedän, että olet ollut<br />minulle aina uskollinen.
+11883967 11888972 Tiedän, koska tunnen<br />Ashley Wilkesin kaltaiset miehet.
+11889139 11894394 Herrasmiehiä.<br />Meistä kahdesta ei voi sanoa samaa.
+11894561 11898482 Meillä ei ole kunniaa.
+11907658 11910661 Ei se niin helppoa ole, Scarlett!
+11914081 11918043 Suljit minut ulos<br />kun jahtasit Ashley Wilkesiä.
+11918210 11921505 Mutta tänä yönä<br />en jää ulkopuolelle.
+11948657 11955247 - Miten voit, Mammy?<br />- Selkäni se vain vaivaa.
+11957916 11962171 - Näytätte kovin onnelliselta.<br />- Niin olenkin, Mammy.
+11969052 11974266 Häneltä kyynel vierähti<br />kun sulho hälle hymyili...
+11974433 11979521 ...ja pelosta värähti<br />kun ilme oli uhkaava.
+11995871 11998040 Huomenta.
+11999750 12004796 Haluan pyytää anteeksi<br />viimeöistä käytöstäni.
+12005005 12010302 Olin humalassa ja<br />täysin sinun lumoissasi.
+12012429 12015807 Mikään ei enää minua yllätä.
+12016350 12020687 Olen miettinyt asiaa<br />ja lienee meille parasta,...
+12020896 12024483 ...että haemme eroa.
+12024691 12030656 Tämä ei johda mihinkään.<br />Varmistan kyllä toimeentulosi.
+12030864 12034618 Haluan vain Bonnien,<br />saat muuten kaiken mitä haluat.
+12034826 12038413 Ero on niin häpeällinen.
+12038622 12043836 Jos Ashley olisi vapaa,<br />et miettisi sitä hetkeäkään.
+12045254 12047673 Vai mitä, Scarlett?
+12047881 12049842 Vastaa minulle.
+12050551 12054137 Mene nyt ja<br />jätä minut rauhaan.
+12054346 12061228 Tulinkin sanomaan,<br />että lähden tänään Lontooseen.
+12062271 12066483 Bonnie lähtee mukaan,<br />pakatkaa hänen tavaransa.
+12066692 12071238 - Minun lastani et vie.<br />- Hän on myös minun, Scarlett.
+12071446 12075909 En jätä häntä äidin huostaan<br />joka on täysin häpeämätön.
+12076118 12077953 Paraskin puhumaan.
+12078161 12082457 En salli, että viet lapsen<br />vaikkapa sen Bellen luo.
+12083292 12086044 Jos olisit mies, katkaisisin kaulasi.
+12086211 12093010 Älä esitä huolehtivaa äitiä.<br />Kissakin on parempi äiti.
+12093635 12096555 Haluan tavarat valmiiksi tunnissa.<br />Varoitan sinua.
+12096763 12100517 Kunnon piiskaus tekisi sinulle hyvää.
+12106023 12107399 Anteeksi, Rhett-herra.
+12108400 12110819 - Päivää, Rhett-setä.<br />- Päivää, Beau.
+12111028 12116033 Olen odottanut sinua<br />koko aamun, isi.
+12116241 12119912 Olin etsimässä kaniininnahkoja<br />omalle Bonnielleni.
+12120120 12122289 Anna isikullalle suukko.
+12124249 12129129 Bonnie,<br />lähdemme matkalle satumaahan.
+12129338 12131256 Minne?
+12131465 12134801 Näytän sinulle<br />Lontoon Towerin, prinssien asunnon.
+12135010 12140349 - Ja Lontoon sillan.<br />- Lontoon sillan? Sortuuko se?
+12141517 12144353 Jos niin vain haluat, kultaseni.
+12146730 12150025 Isi! Pimeää.
+12155822 12158575 Kuka sammutti valot? Hoitaja!
+12160410 12162746 Isi, pimeää.
+12163830 12167376 - Mikä pikku Bonnien on?<br />- Karhu.
+12167584 12173298 - Suurikin karhu?<br />- Hirvittävän suuri.
+12174258 12178136 Minä ammun sen<br />jos se tulee uudelleen.
+12191775 12194152 lltaa, herra Butler.
+12196613 12203328 - Miksi tyttäreni oli yksin pimeässä?<br />- Pimeänpelko häviää kyllä.
+12203495 12209126 - Antakaa hänen vain huutaa.<br />- Sydämetön nainen!
+12209334 12215382 - Jos haluatte hänestä pelkurin.<br />- Hän on urhea pikku tyttö.
+12215591 12218969 - Olette erotettu.<br />- Kuten haluatte.
+12235694 12238572 Missä äiti on?
+12239948 12245704 Bonnie, etkö viihdy<br />Lontoossa kanssani?
+12246496 12249708 Haluan kotiin.
+12261178 12264181 Bonnie-neiti ja kapteeni Butler.
+12265307 12268143 - Scarlett-neiti!<br />- Päivää, Mammy!
+12269186 12272564 - Äiti?<br />- He ovat kotona!
+12274816 12279780 Bonnie, oma kultani.<br />Eikö ole ihanaa tulla kotiin?
+12279988 12285327 Isi antoi minulle kisun.<br />Lontoo on kauhea paikka.
+12286203 12291291 - Haluan ponini luo.<br />- Mene vain.
+12300509 12305138 Missä on ponini?<br />Haluan nähdä sen.
+12305347 12311103 - Mene vain Mammyn kanssa.<br />- Mammy näyttää sinulle, kulta.
+12313230 12315691 Rouva Butler, oletan?
+12315899 12319778 - Mammy sanoi, että tulisit takaisin.<br />- Vain tuomaan Bonnien.
+12319987 12324283 Huonokin äiti on parempi lapselle<br />kuin ei äitiä ollenkaan.
+12324449 12329204 - Lähdet siis taas?<br />- Olettepa terävä, rouva Butler.
+12329705 12332708 Laukkuni ovat asemalla.
+12333917 12339756 Oletpa kalpea.<br />Onko sinulla ollut ikävä minua?
+12340632 12344678 Kalpeuteni on sinun syytäsi.<br />Ei ole ollut ikävä, mutta...
+12348891 12351560 Anna tulla, rouva Butler.
+12351727 12354563 Minä saan lapsen.
+12359943 12363197 Vai niin. Kuka on onnellinen isä?
+12364031 12369620 Tiedät hyvin, että se olet sinä.<br />En minäkään sitä halua.
+12369828 12373582 Kunpa se olisikin<br />kenen muun tahansa.
+12374499 12377586 Älä huoli,<br />ehkä joudut onnettomuuteen.
+12391475 12394019 Voiko hän paremmin?
+12395646 12400984 - Onko hän kysynyt minua?<br />- Hän hourailee.
+12402277 12407115 Rhett? Hakekaa Rhett.
+12411078 12414623 Sanoitko jotain, tyttöseni?
+12414831 12418627 Ei se hyödytä...
+12440732 12443193 Tohtori tuli.
+12443402 12448115 - Scarlett on kuollut...<br />- Ei, käänne on tapahtunut.
+12465215 12470262 Pahin on nyt ohi, hän selviää.<br />Hän pääsee siitä yli.
+12470470 12476226 - Hän ei halunnut tätä lasta.<br />- Kaikkihan lapsia haluavat.
+12476435 12481565 Ei hän.<br />Hän ei halunnut useampia lapsia.
+12481773 12485152 Halusin satuttaa häntä<br />koska hän satutti minua.
+12485360 12491283 - Teidän ei sovi kertoa minulle.<br />- En tiennyt lapsesta.
+12491491 12494411 Muuten olisin tullut kotiin,<br />halusi hän tai ei.
+12494578 12496455 Tottakai hän halusi.
+12496622 12503003 Hän kertoi minulle portailla,<br />ja minä nauroin hänelle.
+12503212 12509218 - Ette tarkoittanut sitä.<br />- Tarkoitin. Olin mustasukkainen.
+12509384 12514181 Hän ei rakasta minua.<br />Luulin, että saisin rakastamaan.
+12514890 12520395 Olette väärässä. Scarlett rakastaa<br />teitä enemmän kuin tietääkään.
+12521396 12525442 Kunpa hän voisi antaa minulle<br />anteeksi tapahtuneen.
+12525651 12528987 Kyllä hän antaa.<br />Olkaa vain kärsivällinen.
+12530906 12535702 Ei, ette ymmärrä.<br />Jos kertoisin ketä hän rakastaa...
+12537204 12539706 ...ette kuitenkaan uskoisi.
+12541875 12547297 Ette kai kuuntele pahansuopia<br />juoruja? ÄIkää uskoko.
+12550801 12554513 Kun Scarlett on terve,<br />saatte toisen lapsen.
+12554721 12557474 Hän ei varmaan voi tämän jälkeen.
+12557641 12561311 Tottakai voi. Minäkin saan.
+12564481 12567985 ÄIkää vaarantako henkeänne,<br />Melly-neiti.
+12568151 12571154 Lapset tuovat uuden elämän...
+12571321 12576201 ...ja sen rinnalla<br />vaara ei merkitse mitään.
+12577870 12581623 Te vasta olette urhea nainen.
+12581790 12584793 Rukoilen, että kaikki käy hyvin.
+12585002 12589631 Kiitän teitä siitä mitä olette<br />tehnyt meidän hyväksemme.
+12589840 12592759 Kiitän koko sydämestäni.
+12598515 12602019 Scarlett-neiti on vähän parempi.
+12610777 12615741 Olen tullut pyytämään anteeksi,<br />uutta mahdollisuutta elämällemme.
+12615949 12620996 Koska meillä on ollut yhteistä elämää?
+12621163 12627085 Olet oikeassa, mutta yritetään<br />kerran tulla onnellisiksi.
+12627294 12629171 Minkä takia?
+12630506 12635928 Meillä on Bonnie.<br />Ja minä rakastan sinua, Scarlett.
+12636136 12641391 - Koska sinä sen huomasit?<br />- En ole saanut näyttää sitä.
+12642935 12645687 Mitä haluat minun tekevän?
+12647189 12653612 Luovu sahasta, niin lähdemme<br />kaikki kolme matkoille.
+12653779 12656532 Se tuottaa nyt<br />enemmän kuin koskaan.
+12656698 12661578 Emme tarvitse sitä. Myy se.<br />Tai anna Ashleylle.
+12661745 12666041 - Melanie on ollut hyvä ystävä.<br />- Melanie... Et ajattele minua.
+12666208 12670671 Ajattelenpa. Olen ajatellut,...
+12670879 12675759 ...että ehkä juuri saha pitää sinut<br />poissa minun ja Bonnien luota.
+12675926 12681348 - Sinähän veit Bonnien minulta.<br />- Hän rakastaa sinua.
+12681557 12685394 Olet tehnyt kaikkesi<br />ettei hän rakastaisi, hemmotellut...
+12685561 12690023 - Äiti ja isä, katsokaa.<br />- Katsommehan me.
+12690649 12697239 - Olet niin kaunis.<br />- Samoin sinä. Nyt hyppään.
+12697781 12702494 Odota vielä jonkin aikaa,<br />et ole tottunut naistensatulaan.
+12702661 12708750 Hyppäänpäs, ja korkeammalle.<br />Olen jo iso tyttö.
+12708959 12712629 - Älä, Rhett.<br />- Älä hyppää, kulta.
+12712796 12714840 Jos tipahdat, älä ainakaan itke.
+12715883 12718510 Pysäytä hänet.
+12723807 12726185 Aivan kuten isäni.
+12728645 12730606 Kuten isä!
+12760427 12763764 Oli hyvä, että tulitte, Melly-neiti.
+12766058 12770938 Talo ei ole enää entisensä.<br />Miten Scarlett-neiti voi?
+12771104 12776860 Hänen sydämensä murtui<br />mutta en pyytänyt teitä siksi.
+12777069 12781532 Kaikkivaltias antaa hänelle voimaa.
+12782699 12784910 Olen huolissani herrasta.
+12788497 12792876 Hän on mennyt sekaisin.
+12793085 12797631 En ole nähnyt kenenkään<br />surevan niin ketään lasta.
+12797840 12804805 Kun hän kuuli, että tytön niska murtui,<br />hän ampui ponin.
+12804972 12809768 Luulin, että hän<br />ampuu myös itsensä.
+12809935 12817484 Scarlett sanoi häntä murhaajaksi<br />kun antoi lapsen hypätä.
+12818110 12822364 Ja herra sanoi ettei rouva<br />ole koskaan välittänyt Bonniesta.
+12822531 12826451 Vereni seisahti kun sen kuulin.
+12826660 12830163 En halua kuulla enempää.
+12831999 12838505 Rhett-herra lukitsi itsensä<br />lastenkamariin Bonnien kanssa.
+12839715 12845888 Edes rouva ei päässyt sisään.<br />Siellä hän on ollut kaksi päivää.
+12848140 12853979 Tänään kun Scarlett-neiti<br />kertoi huomisista hautajaisista,...
+12854146 12856857 ...hän huusi tappavansa<br />jos sitä yritetään.
+12857024 12862070 Hän sanoi: "Häntä ei laiteta pimeään,<br />jota hän niin pelkää. "
+12863530 12868911 - Hän on menettänyt järkensä.<br />- Niin, Luoja paratkoon.
+12869077 12872831 - Teidän täytyy auttaa.<br />- En tiedä osaanko.
+12872998 12877878 Kukaan muu ei siihen pysty.<br />Herra luotti teihin niin.
+12880255 12885469 - Yrittäkää edes.<br />- Teen parhaani, Mammy.
+12892100 12894228 Jättäkää meidät rauhaan.
+12894436 12899775 Täällä rouva Wilkes.<br />Tulin katsomaan Bonnieta.
+12921380 12926093 Luoja, auta Rhett-herraa surussaan.
+12935936 12943402 Mammy, mene laittamaan<br />kapteenille vahvaa kahvia.
+12943569 12946738 Menen Scarlett-neidin luo.
+12946905 12951368 Kapteeni suostuu<br />hautajaisiin huomenna.
+12951535 12956331 Halleluja! Teillä oli<br />enkelit puolellanne.
+12964381 12970220 Hakekaa tohtori Meade, Mammy.<br />Ja yrittäkää saada minut kotiin.
+12981190 12986987 Minne äiti lähtee<br />ja miksi en pääse mukaan?
+12987154 12992034 Emme aina voi mennä mukaan<br />vaikka kovasti haluaisimmekin.
+12992242 12994286 Nyt sinä menet taas sänkyyn.
+12995078 12998749 Hän ei saa kuolla, ei saa.
+12998916 13001877 Hän ei ole niin vahva kuin sinä.
+13002044 13005547 - Hänellä oli vain vahva sydän.<br />- Tiesittekö tekin sen?
+13005756 13011053 - En halua nukkua, nyt on aamu.<br />- Ei oikeastaan.
+13017559 13019228 Tule sisään, Scarlett.
+13019394 13026235 Olen odottanut kaksi päivää.<br />Haluan sanoa, että olin väärässä.
+13026401 13029905 Hän tietää sen.<br />Hän haluaa puhua Scarlettille.
+13033116 13040332 Melly-neiti saa kuolla rauhassa.<br />Ette saa keventää mieltänne nyt.
+13055097 13057140 Minä tässä, Melly.
+13058225 13061228 - Lupaa minulle...<br />- Niin?
+13062479 13065691 Että huolehdit pojastani.
+13065858 13073240 Olen pyytänyt sitä kerran<br />ennenkin, kun hän syntyi.
+13073407 13077494 Älä sano tuollaista,<br />tiedän, että paranet.
+13077661 13081248 Hänen on mentävä yliopistoon.
+13081456 13087379 Niin, ja Eurooppaan ja tehtävä<br />mitä haluaa, mutta älä nyt luovu.
+13090591 13092301 Ashley ja sinä.
+13094469 13097431 Mitä Ashleystä, Melly?
+13098515 13100809 Huolehdi hänestä.
+13101685 13108108 Aivan kuten huolehdit minusta<br />hänen puolestaan.
+13110027 13114823 - Sen teen.<br />- Pidä hyvää huolta hänestä.
+13115032 13118535 Mutta älä anna hänen aavistaa.
+13128003 13129963 Hyvää yötä.
+13130923 13134676 - Lupaathan...<br />- Mitä, Melly?
+13135928 13141058 Kapteeni Butler...<br />Ole hyvä hänelle.
+13143352 13145896 Hän rakastaa sinua niin.
+13149358 13151193 Kyllä, Melly.
+13153362 13156949 - Hyvästi.<br />- Hyvästi.
+13173257 13175384 Tulkaa sisään, hyvät rouvat.
+13182933 13188397 En tiedä missä toinen on,<br />olen varmaan hävittänyt sen.
+13191316 13194570 Pidä minua...<br />Minua niin pelottaa.
+13196196 13199783 Minua pelottaa.
+13202703 13206540 En voi elää ilman häntä, Scarlett.
+13208166 13212796 Kaikki minkä vuoksi elin<br />katoaa hänen mukanaan.
+13215549 13218260 Sinä todella rakastit häntä,<br />vai kuinka?
+13218427 13223849 Viimeinen unelmani kuolee<br />kohdatessaan totuuden.
+13224016 13231273 - Sinä ja sinun unelmasi.<br />- Kun tietäisit mitä olen kärsinyt.
+13231440 13235485 Olisit kertonut,<br />että rakastat häntä etkä minua.
+13235652 13242743 Et olisi vedonnut kunniaan.<br />Vasta nyt kun hän kuolee,...
+13242910 13248415 ...kerrot etten ole sinulle muuta<br />kuin mitä Belle Watling on Rhettille.
+13250792 13255005 Rakastin sellaista mitä ei ole.
+13257841 13264973 Mutta sillä ei ole enää väliä.<br />Se on samantekevää.
+13267226 13269603 Kaikki on samantekevää.
+13272523 13279613 Ashley, anna anteeksi.<br />Älä näytä hänelle itkeneesi.
+13293377 13295420 Rhett...
+13298632 13301176 Missä olet, Rhett?
+13304596 13306723 Odota minua, Rhett.
+13311103 13313063 Odota, Rhett.
+13344219 13345762 Tule sisään.
+13353145 13357232 - Rhett...<br />- Joko Melanie...
+13360360 13362154 Levätköön hän rauhassa.
+13362321 13366241 Hän on ainoa tapaamani<br />läpeensä hyvä ihminen.
+13366408 13369161 Ainutlaatuinen nainen.
+13372122 13376210 Nyt hän on kuollut.<br />Sehän sinulle sopii.
+13376376 13380214 Miten voit?<br />Pidin hänestä todella.
+13381298 13386678 En tiennyt, mutta hyvä,<br />että tajusit edes lopussa.
+13386845 13391183 Hän ajatteli aina ensin muita<br />ennen itseään.
+13391350 13395812 - Viimeiset sanat olivat sinusta.<br />- Mitä hän sanoi?
+13395979 13402236 "Ole hyvä kapteeni Butlerille,<br />hän rakastaa sinua suuresti. "
+13406031 13412204 - Sanoiko hän muuta?<br />- Pyysi huolehtimaan Ashleystä.
+13414164 13417876 Sait siis hänen siunauksensa.
+13419628 13421672 Mitä tarkoitat?
+13423715 13427261 - Mitä teet?<br />- Jätän sinut.
+13427427 13431390 Kun eroamme,<br />voit toteuttaa unelmasi Ashleystä.
+13435477 13438981 Olet täysin väärässä.
+13439147 13441233 En halua erota.
+13441400 13446488 Tajusin, että rakastan sinua<br />ja juoksin kertomaan siitä.
+13446655 13452244 Jätä edes<br />jotain muistettavaa liitostamme.
+13453871 13460711 Olen rakastanut sinua kauan,<br />en vain tyhmyydessäni tajunnut.
+13460878 13465424 Tiedän, että välität minusta,<br />Melly sanoi niin.
+13465591 13470637 - Entä Ashley Wilkes?<br />- En todella rakastanut häntä.
+13470804 13474766 Osasit sitten näytellä<br />vakuuttavasti tähän saakka.
+13475267 13477978 Olen kokeillut kaikkea.
+13478145 13480939 Olisit yrittänyt kun tulin Lontoosta.
+13481106 13484818 Oli niin ihana nähdä sinut,<br />mutta olit niin kauhea.
+13484985 13490908 Kun olit sairaana, kaikki oli<br />minun vikani, et halunnut minua.
+13491074 13496622 Kaipasin sinua, mutten uskonut<br />sinun tulevan luokseni.
+13496788 13501752 Olemme ilmeisesti erehtyneet,<br />mutta se ei nyt hyödytä.
+13501919 13505464 Kun Bonnie eli, oli vielä toivoa.
+13505631 13511803 Bonniessa näin sinut ennen kuin sota<br />ja köyhyys muuttivat sinua.
+13511970 13516642 Hän oli niin kaltaisesi<br />ja häntä sain hemmotella.
+13518644 13522147 Mutta hänen kuollessaan se loppui.
+13522314 13527861 Et saa sanoa noin, Rhett.<br />Olen pahoillani kaikesta.
+13529321 13531782 Olet sellainen lapsi.
+13531949 13536328 Luulet, että anteeksipyyntösi<br />tekee kaiken hyväksi jälleen.
+13538664 13541083 Ota nenäliinani.
+13541250 13546046 Sinulla ei ole koskaan liinaa<br />kun elämä kohtelee sinua kaltoin.
+13549758 13554471 - Mihin menet, Rhett?<br />- Charlestoniin, mihin kuulunkin.
+13554638 13560644 - Ota minut mukaan.<br />- Ei, tämä on kaikki mennyttä.
+13561228 13567693 Haluan löytää paikan<br />jossa on vielä kauneutta ja hyvyyttä.
+13567860 13572155 - Tiedäthän mitä tarkoitan?<br />- Tiedän vain, että rakastan sinua.
+13572322 13575826 Se on sinun onnettomuutesi.
+13588797 13592926 En tiedä mitä teen jos sinä lähdet.
+13593093 13596263 Siitä minä en piittaa hittojakaan.
+13609318 13611945 En voi antaa hänen lähteä.
+13612696 13616825 Täytyy olla keino,<br />jolla saan hänet takaisin.
+13616992 13621538 En jaksa nyt ajatella sitä.
+13622915 13625292 Mietin sitä aamulla.
+13639348 13643894 Mutta sitä täytyy ajatella nyt heti.
+13645437 13650442 Mitä voin tehdä?<br />Mikään ei merkitse mitään.
+13653278 13657616 {Y:i}Eikö Tara merkitse mitään?
+13657783 13662204 {Y:i}Maa on ainoa pysyvä asia.
+13662371 13666124 {Y:i}Jotain mitä arvostat<br />minua enemmän. Tara.
+13666291 13669878 {Y:i}Sinun voimasi tulee Taran maasta.
+13670045 13677094 {Y:i}- Maa on ainoa pysyvä asia.<br />- Rakastat sitä enemmän.
+13677261 13683267 {Y:i}- Voimasi tulee Taran maasta.<br />- Maa on ainoa joka pysyy.
+13683433 13686228 {Y:i}- Taran maa.<br />- Tara!
+13689606 13692943 Tara! Koti!
+13694528 13700200 Menen kotiin ja keksin keinon<br />jolla saan hänet takaisin.
+13700367 13705289 Onhan huomenna uusi päivä.
+13705489 13710689 Synched by HighCode.<br />Please keep seeding, thanks.

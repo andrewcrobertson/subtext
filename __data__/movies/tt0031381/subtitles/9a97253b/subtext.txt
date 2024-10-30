@@ -1,0 +1,1679 @@
+7353713 7356625 My back"s near broken.
+7358233 7360383 Look at my hands!
+7360593 7363790 Mother said you could always<br />tell a lady by her hands.
+7364033 7368231 I guess things like hands and ladies<br />don"t matter so much anymore.
+7368673 7372268 Rest, Sue. You"re not well yet.<br />I can pick cotton for both of us.
+7372513 7375869 Scarlett"s hateful!<br />Making us work in the fields...
+7376113 7378024 Too bad about that.
+7378353 7381106 Get back to work. I can"t do<br />everything at Tara myself.
+7381353 7383583 What do I care about Tara?<br />I hate Tara!
+7386793 7389432 Don"t you ever dare say<br />you hate Tara again!
+7390273 7392628 It"s the same as hating Pa and Ma.
+7399673 7402107 There"s something I must<br />speak to you about.
+7402353 7403149 What is it?
+7403393 7406669 I don"t like the way you"re<br />treating Prissy and Mammy.
+7406913 7411464 You must be firm with inferiors, but<br />gentle with them. Especially darkies.
+7411713 7415308 I know. But l"m not asking<br />them to do what I don"t do myself.
+7415513 7420223 Nevertheless, I don"t like it.<br />I shall speak to Mrs. O"Hara about it.
+7434313 7437430 - What are you doing out of bed?<br />- I must talk to you.
+7437673 7440426 You"re all working so hard.<br />I can"t just lie in bed.
+7440673 7443028 Go upstairs.<br />You"re as weak as a newborn colt.
+7443233 7445428 - Please, let me.<br />- Stop being noble.
+7445673 7449348 I don"t need you making yourself<br />sick so you"ll never be any use.
+7449593 7452426 I didn"t think of it that way.
+7505393 7508226 Who"s there?<br />Halt or l"ll shoot!
+7514073 7516029 You all alone, little lady?
+7518553 7520828 You ain"t very friendly, are you?
+7523513 7525947 You got anything else<br />besides these earbobs?
+7526233 7528144 You Yankees have been here before.
+7528913 7531222 Regular little spitfire, ain"t you?
+7532513 7535027 What do you got hidden in your hand?
+7568633 7571227 Scarlett, you killed him.
+7571913 7573744 l"m glad you killed him.
+7574913 7578428 Scarlett, what happened?<br />What is it, Scarlett? What is it?
+7582313 7583348 Don"t be scared!
+7583593 7587871 Your sister was cleaning a revolver<br />and it went off and scared her.
+7588073 7590871 - Thank goodness!<br />- Haven"t we got enough to frighten us?
+7591113 7594230 Tell Katie Scarlett she<br />must be more careful.
+7596713 7598624 What a cool liar you are, Melly.
+7599473 7601543 We gotta get him out of here<br />and bury him.
+7601793 7603306 If the Yankees find him here...
+7603513 7606471 I didn"t see anyone else.<br />I think he must be a deserter.
+7606713 7608226 Even so, we"ve gotta hide him.
+7608473 7612432 They might hear about it,<br />and then they"d come and get you.
+7614833 7618064 I could bury him in the arbor<br />where the ground is soft...
+7618313 7620269 ...but how will I get him<br />out of here?
+7620513 7624222 - We"ll both take a leg and drag him.<br />- You couldn"t drag a cat.
+7630313 7633271 Would it be dishonest if we<br />went through his haversack?
+7633513 7635788 l"m ashamed I didn"t think<br />of that myself.
+7635993 7638632 You take the haversack.<br />l"ll search his pockets.
+7650393 7653590 You look. L"m feeling a little weak.
+7654913 7656824 I think it"s full of money.
+7657073 7659951 Melly, look. Just look!
+7660193 7661023 10, 20, 30...
+7661273 7663468 Don"t stop to count it now.<br />We haven"t got time!
+7663713 7665669 Do you realize this means we can eat?
+7665913 7668029 Look in his other pockets.
+7669633 7671066 Hurry, hurry!
+7671313 7673224 We"ve got to get him out of here.
+7686353 7688913 If he bleeds across the yard,<br />we can"t hide it.
+7689113 7691866 Give me your nightgown.<br />l"ll wad it round his head.
+7692113 7697028 Don"t be silly, I won"t look at you.<br />If I had on pantalets, l"d use them.
+7709913 7712427 Thank heavens l"m not that modest.
+7713073 7715268 Go back to bed. You"ll<br />be dead if you don"t.
+7715513 7717629 l"ll clean up my mess<br />when l"ve buried him.
+7718113 7720308 No, l"ll clean it up.
+7723473 7725623 Well, I guess l"ve done murder.
+7727313 7731625 I won"t think about that now.<br />l"ll think about that tomorrow.
+7742793 7744306 Katie Scarlett!
+7744513 7746231 It"s over! Lt"s over!
+7747273 7750424 It"s all over, the war.<br />Lee surrendered!
+7750673 7752982 - It"s not possible.<br />- Why did we ever fight?
+7753193 7754751 Ashley will be coming home.
+7755313 7757269 Yes, Ashley will be coming home.
+7757473 7761625 We"ll plant more cotton.<br />Cotton ought to go sky-high next year.
+7784033 7785591 <i>The flag that makes you free</i>
+7785793 7788830 <i>So we sing the chorus</i><br /><i>From Atlanta to the sea</i>
+7789073 7792509 <i>While we were marching through Georgia</i>
+7792713 7794624 Get out of the road, rebel!
+7794833 7796983 Have you room<br />for a dying man?
+7797233 7799349 Not for any Southern scum,<br />alive or dead.
+7799593 7800503 Get out of the way!
+7801033 7803706 I reckon he"d rather try<br />and walk it, at that.
+7803953 7805944 Jump, you gray-backed beggars!
+7806193 7808229 Acts like they won the war.
+7808673 7811062 You come on, give me<br />them pants, Mr. Kennedy.
+7811313 7812462 Come on!
+7814513 7817823 Scrub yourself with that<br />lye soap, "fore I scrub you myself.
+7818073 7821031 l"m gonna put these britches<br />in the boiling pot.
+7823713 7825749 The whole army"s<br />got the same troubles...
+7825993 7828507 ...crawling clothes and dysentery.
+7828713 7830544 It"s humiliating how<br />you"re treating him.
+7830833 7834428 You"d be a sight more humiliated<br />if Mr. Kennedy"s lice gets on you.
+7836033 7837625 Oh, come on, Beau!
+7837833 7841872 We must leave this gentleman alone<br />because he"s tired and he"s hungry.
+7842113 7844832 I don"t mind, ma"am.<br />Good to see a youngster again.
+7845033 7846227 Nice little fella.
+7846433 7849584 Another two years, and we<br />could"ve had him in Cobb"s Legion.
+7850713 7853432 - Were you in Cobb"s Legion?<br />- Yes, ma"am.
+7853673 7856983 Why, then, you must know<br />my husband, Major Wilkes?
+7858233 7860622 He was captured<br />at Spotsylvania, I think.
+7860873 7864661 Captured? Oh, thank heaven!<br />Then he isn"t...
+7864913 7867985 My poor Ashley, in a Yankee prison.
+7868913 7871586 Yes, Scarlett, l"m coming.<br />Come along, Beau.
+7871793 7874068 l"ll watch out for him.<br />We"re good friends.
+7874313 7875826 Thank you.
+7879713 7882830 I slave day and night just so we<br />can have enough food...
+7883033 7885228 ...and you give it away<br />to scarecrows.
+7885473 7889022 - L"d sooner have a plague of locusts.<br />- Don"t scold me, Scarlett.
+7889233 7891793 l"ve just heard that Ashley<br />was taken prisoner.
+7891993 7893426 Ashley a prisoner?
+7893673 7897825 And maybe if he"s alive and well,<br />he"s on some Northern road right now.
+7898073 7901031 Maybe a Northern woman<br />is giving him some of her dinner...
+7901233 7904623 ...and helping my beloved<br />to come back home to me.
+7906033 7907830 I hope so, Melly.
+7911873 7916071 I want to take up something with your<br />Pa, but he doesn"t seem to...
+7916313 7919430 Perhaps I can help you.<br />l"m head of the house now.
+7921073 7923826 Miss Scarlett, I was aiming<br />to ask for Suellen.
+7924713 7928786 Are you telling me you haven"t asked<br />for her after all these years?
+7929873 7932512 The truth is, l"m so much<br />older than she is...
+7932713 7934669 ...and now I haven"t<br />a cent to my name.
+7934913 7936426 Who has, nowadays?
+7936673 7939267 If true love carries any<br />weight with you...
+7939513 7942152 ...you can be sure your sister<br />will be rich in that.
+7942393 7945430 l"d go and get myself a<br />little business, if we"re engaged.
+7945673 7947868 As soon as l"m on my feet again...
+7948073 7951429 l"m sure I can speak for Pa.<br />You go ask her now.
+7951873 7954831 Thank you.<br />Thank you, Miss Scarlett.
+7957113 7959832 Excuse me, Mrs. Wilkes.<br />Excuse me.
+7961633 7964431 What seems to be<br />the trouble with Mr. Kennedy?
+7964633 7968228 More trouble than he guesses.<br />He"s finally asked for Suellen.
+7968433 7969866 l"m so glad.
+7970113 7974231 It"s a pity he can"t marry her now.<br />It"d be one less mouth to feed.
+7977793 7979590 Another one!
+7979833 7982028 - Hope he isn"t hungry.<br />- He"ll be hungry.
+7982233 7984622 l"ll tell Prissy to get<br />an extra plate...
+8014193 8015262 Don"t spoil it.
+8015513 8018232 Turn me loose, you fool.<br />Turn me loose! Lt"s Ashley!
+8018473 8020429 He"s her husband, ain"t he?
+8032313 8034065 - Miss Scarlett?<br />- High time you got back.
+8034313 8037191 - Did you get the horse shod?<br />- Yes"m, he"s shod.
+8037393 8039668 Fine thing, horses<br />get shoes and humans can"t.
+8039913 8041471 Here, stir this soap.
+8041713 8042828 Miss Scarlett, ma"am?
+8043073 8046145 I gotta know how much money<br />have you got left. In gold.
+8046353 8048264 Ten dollars. Why?
+8049033 8050182 That won"t be enough.
+8050433 8052071 What are you talking about?
+8052313 8056352 Well, I see"d that old no-count<br />white-trash Wilkerson...
+8056593 8059027 ...that used to be<br />Mr. Gerald"s overseer here.
+8059273 8062629 He"s a regular Yankee now,<br />and he was making a brag...
+8062833 8067623 ...that his Carpetbagger friends run<br />the taxes way up sky-high on Tara.
+8067873 8072230 - How much more we got to pay?<br />- I hear the taxman say $300.
+8072433 8073832 Three hundred...!
+8074833 8079031 It might just as well be 3 million.<br />But we gotta raise it, that"s all.
+8079273 8081833 Yes"m. How?
+8083713 8087023 - L"ll go ask Mr. Ashley.<br />- He ain"t got no $300.
+8087233 8089827 Well, I can ask him<br />if I want to, can"t I?
+8091913 8093744 Asking ain"t getting.
+8104833 8107825 They say Abe Lincoln got<br />his start splitting rails.
+8108073 8111224 Just think what heights I may<br />climb to, once I get the knack.
+8111913 8115223 The Yankees want $300 more in taxes.
+8115993 8117824 What shall we do?
+8118113 8120422 Ashley, what"s to become of us?
+8120633 8124023 What becomes of people<br />when their civilization breaks up?
+8124233 8126827 Those with brains and courage<br />come through all right.
+8127073 8128631 Those that haven"t are winnowed out.
+8128873 8130067 For heaven"s sake...
+8130313 8133623 ...don"t talk nonsense when it"s<br />us being winnowed out!
+8133873 8138230 You"re right, Scarlett. Here I am<br />talking tommyrot about civilization...
+8138473 8140464 ...while your Tara is in danger.
+8140713 8143432 You"ve come to me for help,<br />and l"ve none to give.
+8145673 8147425 l"m a coward.
+8147793 8149829 You, Ashley? A coward?
+8150393 8151872 What are you afraid of?
+8152713 8156422 Mostly of life becoming<br />too real for me, I suppose.
+8156633 8159067 Not that I mind splitting rails.
+8159433 8164029 But I do mind very much losing<br />the beauty of that life I loved.
+8165513 8170428 If the war hadn"t come, l"d have spent<br />my life happily buried at Twelve Oaks.
+8170673 8171867 But the war did come.
+8172433 8174867 I saw my boyhood friends blown to bits.
+8175113 8178071 I saw men crumple up in agony<br />when I shot them.
+8178913 8183270 And now I find myself in a world<br />which for me is worse than death.
+8183513 8185583 A world in which there"s<br />no place for me.
+8187673 8191222 I can"t make you understand.<br />You don"t know the meaning of fear.
+8191433 8194027 You never mind facing realities.
+8194713 8197102 You never want to escape<br />from them as I do.
+8199713 8201226 Escape?
+8202273 8206266 Ashley, you"re wrong.<br />I do want to escape too.
+8206513 8211029 l"m so very tired of it all.<br />l"ve struggled for food and for money.
+8211233 8214623 l"ve weeded, hoed and picked cotton<br />till I can"t stand it.
+8214873 8217068 I tell you, the South is dead.<br />It"s dead!
+8217313 8221022 The Yankees and Carpetbaggers<br />have it and left nothing for us.
+8225233 8227952 Let"s run away.<br />We"d go to Mexico.
+8228193 8231026 They want officers in the Mexican army.<br />We"d be happy.
+8231233 8233224 l"d work for you.<br />l"d do anything for you!
+8233433 8236743 You don"t love Melanie. You said<br />you loved me at Twelve Oaks.
+8236993 8239029 And anyway, Melanie can"t...
+8239633 8242864 Dr. Meade said she can"t have more<br />children. I could give you...
+8243113 8244671 Can"t we ever forget<br />Twelve Oaks?
+8244913 8247063 You think I could<br />ever forget? Have you?
+8247313 8250225 Can you honestly say<br />you don"t love me?
+8250913 8253188 - No, I don"t love you.<br />- It"s a lie!
+8253393 8256226 Even so, do you think<br />l"d leave Melanie and the baby?
+8256433 8259072 You couldn"t leave<br />your father and the girls.
+8259313 8261508 l"m sick of them.<br />l"m tired of them!
+8261713 8265228 Yes, you"re sick and tired.<br />That"s why you"re talking this way.
+8266393 8268384 You"ve carried the load<br />for all of us.
+8268593 8271505 From now on, l"ll be<br />more help to you. I promise.
+8271713 8273624 There"s only one way you can help me.
+8273873 8277832 Take me away.<br />There"s nothing to keep us here.
+8278673 8280026 Nothing?
+8281473 8283623 Nothing except honor.
+8295713 8299262 Please, Scarlett.<br />Please, dear. You mustn"t cry.
+8299513 8304029 You mustn"t. Please,<br />my brave dear, you mustn"t.
+8315633 8318227 You do love me! You do love me!
+8318433 8320663 - No, don"t, don"t.<br />- You love me.
+8320913 8322983 I tell you, we won"t do it!
+8323193 8325866 It won"t happen again. L"ll<br />take Melanie and go.
+8326113 8328673 - Say it. You love me.<br />- All right, l"ll say it.
+8328873 8332786 I love your courage and stubbornness<br />so much that I could forget...
+8332993 8337430 ...the best wife a man ever had.<br />But l"m not going to forget her!
+8346233 8348622 Then there"s nothing left for me.
+8349593 8351629 Nothing to fight for.
+8352313 8354429 Nothing to live for.
+8356713 8358829 Yes, there is something.
+8359473 8361987 Something you love better than me...
+8362193 8364024 ...though you may not know it.
+8369793 8371226 Tara.
+8377633 8379624 I still have this.
+8384073 8385631 You needn"t go.
+8386193 8390232 I won"t have you all starve, simply<br />because I threw myself at your head.
+8390873 8393023 It won"t happen again.
+8419513 8420548 It"s Emmie Slattery.
+8420793 8422021 - Yes"m, it"s me.<br />- Stop!
+8423193 8426026 You haven"t forgotten your old<br />overseer, have you?
+8426713 8428624 Emmie"s Mrs. Wilkerson now.
+8428873 8431387 Get off those steps, you<br />wench! Get off this land!
+8431793 8433431 You can"t speak that way to my wife.
+8433673 8435629 Wife? High time you<br />made her your wife.
+8435873 8438148 Who baptized your brats<br />after you killed my mother?
+8438633 8440271 We came here to pay a call.
+8440513 8443346 A friendly call, and talk<br />business with friends.
+8443593 8445948 Friends? When were we ever friends?
+8446193 8449105 Still high and mighty, ain"t you?<br />I know all about you.
+8449353 8450672 Your father"s turned idiot.
+8450913 8454622 You can"t pay your taxes, and I come<br />to offer to buy the place from you.
+8454833 8458109 To make you a right good offer.<br />Emmie wants to live here.
+8458353 8460230 Get off this place, you dirty Yankee!
+8460473 8464864 You"ll find out who"s running things<br />when you get sold out for taxes.
+8465113 8467308 l"ll buy this place<br />and l"ll live in it!
+8467713 8470022 But l"ll wait for the sheriff"s sale.
+8470273 8472628 That"s all of Tara you"ll ever get!
+8473713 8475624 You"ll be sorry for that.
+8483833 8485107 We"ll be back!
+8485353 8487821 l"ll show you who<br />the owner of Tara is!
+8492913 8494426 Pa, come back!
+8497273 8499025 Pa, come back!
+8501073 8502506 Yankee coward!
+8530633 8533670 Lordy, Miss Scarlett,<br />that"s Mr. Gerald"s watch!
+8533913 8535266 You take it. It"s for you.
+8535513 8536741 Pa"d want you to have it.
+8536993 8540065 You ain"t got no business<br />parting from this watch now.
+8540313 8543464 You needs all your valuables<br />to sell for that tax money.
+8543713 8546227 Do you think l"d sell Pa"s watch?
+8547193 8549104 And don"t cry.
+8549313 8551827 I can stand everybody"s<br />tears but yours.
+8555593 8557823 Oh, Mammy, Mammy!
+8562873 8567071 You"ve been brave so long.<br />You just gotta go on being brave.
+8567273 8571027 - Think about your Pa like he used to be.<br />- I can"t think about Pa.
+8571273 8573343 I can"t think of anything<br />but that $300.
+8573593 8577825 Ain"t no good thinking about that.<br />Ain"t nobody got that much money.
+8578113 8582026 Nobody but Yankees and Scalawags<br />got that much money now.
+8583673 8584469 Rhett.
+8584713 8587227 Who that? A Yankee?
+8591313 8594783 Oh, Mammy, l"m so thin and pale...
+8594993 8597223 ...and I haven"t any clothes.
+8606313 8608827 Go and get Ma"s old box<br />of dress patterns.
+8609073 8611667 - What you up to?<br />- You"ll make me a new dress.
+8611913 8614222 Not with Miss Ellen"s <i>portières</i>!
+8614473 8617067 Great balls of fire!<br />They"re my <i>portières</i> now.
+8617313 8620828 l"m going to Atlanta for $300,<br />and l"ve got to look like a queen.
+8621033 8622751 - Who"s going with you?<br />- L"ll go alone.
+8622953 8626866 That"s what you think!<br />l"s going with you and that new dress.
+8627113 8629786 - Mammy, darling.<br />- No use to try to sweet talk me.
+8629993 8632348 I knows you since I put<br />diapers on you.
+8632593 8635505 I said l"s going with you,<br />and going I is!
+8635713 8638785 Kings in trade, eh?<br />Too good for me, major.
+8639473 8641668 It"s a pity the war<br />wasn"t a poker game.
+8641913 8644746 You"d done better than Grant,<br />with far less effort.
+8644993 8645789 What is it?
+8646033 8649469 There"s a lady to see Captain Butler.<br />Says she"s his sister.
+8649713 8651192 Another sister?
+8651433 8653628 This is a jail not a harem, captain.
+8653873 8657104 No, she ain"t one of those.<br />She"s got her mammy with her.
+8658113 8659831 She has?
+8660433 8663823 l"d like to see this one, major.<br />Without her mammy.
+8664993 8668622 Let"s see, my losses for<br />the afternoon come to what?
+8669993 8671426 Three hundred and forty?
+8671633 8674306 My debts do mount up,<br />don"t they, major?
+8674513 8679109 All right, corporal, show Captain<br />Butler"s sister to his cell.
+8679313 8682225 Thank you, major.<br />Excuse me, gentlemen.
+8686313 8690784 It"s hard to be strict with a man<br />who loses money so pleasantly.
+8691673 8694062 - Rhett!<br />- Scarlett!
+8694313 8697225 My dear little sister!
+8697593 8702030 It"s all right, corporal. My sister<br />has brought me no files or saws.
+8706993 8708028 Can I really kiss you?
+8708273 8710070 On the forehead, like a brother.
+8710313 8713430 No, thanks. L"ll wait and hope<br />for better things.
+8713673 8716471 I was so distressed when<br />I heard you were in jail.
+8716713 8720467 I couldn"t sleep for thinking.<br />It"s not true they"ll hang you?
+8720713 8722271 Would you be sorry?
+8722473 8724065 Well, don"t worry yet.
+8724313 8727271 They trumped up a charge,<br />but they really want my money.
+8727513 8730073 They think I made off with<br />the Confederate treasury.
+8730313 8732747 - Well, did you?<br />- What a leading question.
+8732993 8735063 Let"s not talk about<br />things like money.
+8735313 8738589 How good of you to come and see me.<br />And how pretty you look!
+8738833 8741472 How you do run on, teasing<br />a country girl like me.
+8741713 8746025 Thank heavens you"re not in rags. L"m<br />tired of women in rags. Turn around.
+8746833 8748949 You look good enough to eat,<br />and prosperous.
+8749193 8752469 l"ve been doing very well.<br />Everyone"s well at Tara, only...
+8752713 8756069 ...I got so bored, I thought l"d<br />treat myself to a visit to town.
+8756313 8758702 You"re heartless, but that"s<br />part of your charm.
+8758913 8760949 You"ve got more charm<br />than the law allows.
+8761193 8763423 I didn"t come to talk<br />silliness about me.
+8763673 8766426 I was so miserable at the thought<br />of you in trouble.
+8766633 8769431 I was mad at you when you<br />left me on the road to Tara.
+8769633 8772466 - And I still haven"t forgiven you.<br />- Don"t say that.
+8772713 8776501 Well, I must admit I might not be<br />alive now, only for you.
+8776713 8780342 When I think of myself with anything<br />I could possibly hope for...
+8780553 8784228 ...not a care in the world,<br />and you here in this horrid jail.
+8784433 8788028 And not even a human jail,<br />Rhett, a horse jail!
+8788633 8790942 Listen to me trying to make jokes...
+8791153 8792825 ...when I really want to cry.
+8793273 8794945 In a minute I shall cry.
+8799793 8801272 Can it be possible that...
+8801513 8803231 Can what be possible, Rhett?
+8803473 8806829 That you"ve grown a woman"s heart?<br />A real woman"s heart.
+8807073 8810031 I have, Rhett. I know I have.
+8811793 8814944 It"s worth being in jail<br />just to hear you say that.
+8816713 8818431 It"s well worth it.
+8822673 8824982 You can drop the moonlight<br />and magnolia.
+8825233 8828987 Things have been going well at Tara?<br />What"ve you done with your hands?
+8829273 8834142 - I went riding without my gloves...<br />- You"ve been working like a field hand!
+8834353 8836423 Why did you lie,<br />and what are you up to?
+8836633 8839625 - I almost believed you cared.<br />- But I do care!
+8839833 8842825 Let"s get down to the truth.<br />You want something enough...
+8843033 8845069 ...to put on quite a<br />show in your velvets.
+8845313 8847588 What is it? Money?
+8847793 8850261 I want $300 to pay the taxes on Tara.
+8850513 8852868 I lied when I said<br />everything was all right.
+8853113 8857425 Things are as bad as they possibly<br />could be. And you"ve got millions.
+8858313 8859826 What collateral do you have?
+8860033 8861466 - My earbobs.<br />- Not interested.
+8861673 8863868 - Mortgage on Tara.<br />- What would I do with a farm?
+8864073 8868305 - L"d pay you out of next year"s cotton.<br />- Not good enough.
+8870833 8873028 You once said you loved me.
+8873233 8874632 If you still love me...
+8875393 8877702 You haven"t forgotten,<br />l"m not a marrying man.
+8878513 8881152 No, I haven"t forgotten.
+8886193 8888263 You"re not worth $300.
+8888513 8891232 You"ll never mean anything<br />but misery to any man.
+8891673 8894392 I don"t care what you say,<br />only give me the money.
+8894633 8898626 I won"t let Tara go! I can"t while<br />there"s a breath left in my body.
+8899833 8901869 Won"t you please give me the money?
+8902113 8904069 I couldn"t if I wanted to.
+8904313 8906144 My funds are in Liverpool,<br />not Atlanta.
+8906393 8910022 If I drew a draft, they"d be on<br />me like a duck on a June bug.
+8910233 8913828 So you see, my dear, you"ve abased<br />yourself to no purpose.
+8916233 8920465 Here, here. Stop it! You want<br />the Yankees to see you like this?
+8920713 8924626 Take your hands off me, you skunk!<br />You knew what I wanted.
+8924873 8927910 You knew you wouldn"t lend me<br />the money, and you let me go on!
+8928113 8930707 I enjoyed hearing what<br />you had to say. Cheer up.
+8930913 8933063 Come to my hanging,<br />l"ll put you in my will.
+8933273 8934945 l"ll come to your hanging!
+8935193 8939027 l"m just afraid they won"t hang you<br />in time to pay the taxes on Tara!
+8945313 8946792 Tell him Belle Watling.
+8946993 8949826 Where you been? I thought<br />you deserted Captain Butler.
+8950113 8952627 I keep myself occupied.<br />Help me out.
+8960993 8964747 Who that? I ain"t never see"d hair<br />that color before in my life.
+8964993 8966426 You know a dyed-haired woman?
+8966673 8969665 Wish I knew that one.<br />She"d get my money for me.
+8971673 8973470 Whatever they done<br />to you in there...
+8973713 8977467 ...they didn"t do no more than you<br />deserve for visiting white trash.
+8984113 8986229 - Fresh and green.<br />- Right off the farm.
+8986433 8990028 - What you doing tonight, Susie?<br />- That"s one of those Georgia peaches!
+8990273 8991865 Nothing like that in Ohio.
+8992113 8994422 - You know what we"re gonna do?<br />- What?
+8994633 8997431 We"re gonna give every one of you<br />40 acres and a mule.
+8997673 9000312 - And a mule?<br />- 40 acres and a mule!
+9001233 9002791 Because we"re your friend.
+9003033 9007151 And you"re gonna become voters and<br />vote like your friends do!
+9008993 9011348 - What"s your hurry?<br />- What"s come over this town?
+9011553 9015148 Yankees have come over it.<br />Same as they"ve come over all of them.
+9017193 9018990 Out of our way, trash!
+9019233 9021747 Get out of the way here!<br />Get away! Go on.
+9029713 9031146 It can"t be Miss Scarlett!
+9031393 9032985 - Frank Kennedy!<br />- And Mammy.
+9033233 9034985 It"s good to see home folks.
+9035233 9037952 - I didn"t know you were in Atlanta.<br />- I didn"t know you were.
+9038153 9040348 Didn"t Suellen tell you<br />about my store?
+9040593 9043346 Did she? I don"t remember.<br />Have you a store?
+9043793 9046944 - This?<br />- Won"t you come in, look around a bit?
+9054833 9057188 I don"t suppose it looks like much<br />to a lady...
+9057433 9059583 ...but I can"t help being proud of it.
+9059833 9062552 - You"re not making money?<br />- Well, I can"t complain.
+9062753 9064391 In fact, l"m mighty encouraged.
+9064633 9066988 Folks tell me l"m just<br />a born merchant.
+9067233 9069986 Won"t be long before<br />Miss Suellen and I can marry.
+9070233 9073384 - Are you doing as well as all that?<br />- Yes, I am.
+9073633 9075191 l"m no millionaire yet...
+9075433 9077742 ...but l"ve cleared $ 1000 already.
+9077993 9079392 And lumber too.
+9080913 9083586 - That"s only a sideline.<br />- A sideline, Frank?
+9083793 9087502 With all the good Georgia pine<br />around Atlanta, and all this building?
+9087713 9090352 Well, all that takes money,<br />Miss Scarlett...
+9090553 9092783 ...and I gotta think<br />about buying a home.
+9093033 9094352 Why would you want a home?
+9094553 9096703 For Suellen to set up housekeeping.
+9097153 9098552 Here in Atlanta.
+9098753 9100948 You"d want to bring her to Atlanta.
+9101233 9103747 There wouldn"t be much help<br />in that for Tara.
+9104593 9106424 I don"t know what you mean.
+9107313 9108951 I don"t mean a thing.
+9109593 9112312 How"d you like to drive me<br />to my Aunt Pitty"s?
+9112513 9114743 Nothing"d give me more pleasure.
+9114953 9116466 You better stay to supper.
+9116713 9119750 Aunt Pitty"d be agreeable,<br />and l"d like a long visit.
+9119953 9123343 You act on me just like a tonic,<br />Miss Scarlett.
+9123633 9125589 And will you tell me all the news...
+9125833 9127186 ...of Miss Suellen?
+9130233 9133145 What"s the matter?<br />Miss Suellen"s not ill, is she?
+9133633 9136989 Oh, no, no. I thought<br />surely she had written you.
+9137193 9140310 I guess she was ashamed to write you.<br />She should be ashamed.
+9140513 9142708 How awful to have such a mean sister.
+9143033 9144671 You must tell me.
+9144913 9146790 Don"t leave me on tenterhooks.
+9147033 9150184 Well, she"s going to marry<br />one of the county boys next month.
+9151233 9154748 She got tired of waiting, was afraid<br />she"d be an old maid and...
+9154953 9157751 l"m sorry to be the one to tell you.
+9158233 9160793 It"s cold, and I left my muff at home.
+9161033 9164150 Would you mind if I put my hand<br />in your pocket?
+9179513 9182186 But, Melanie, you don"t realize<br />what she"s done!
+9182433 9184742 She"s gone and married my Mr. Kennedy!
+9184993 9186949 He"s my beau and she"s married him!
+9187193 9189070 She did it to save Tara.
+9189313 9190268 I hate Tara!
+9190513 9193949 I hate Scarlett! She"s the only thing<br />I hate worse than Tara!
+9198033 9199751 It"s all my fault.
+9200553 9203590 I should"ve committed robbery<br />to get that tax money for you.
+9203833 9205983 I couldn"t let you do<br />anything like that.
+9206233 9207586 Anyway, it"s done now.
+9207793 9209863 Yes, it"s done now.
+9210073 9212143 You won"t let me do<br />anything dishonorable...
+9212353 9215311 ...yet you"d sell yourself in marriage<br />to a man you didn"t love.
+9215513 9218186 You won"t have to worry<br />about my helplessness anymore.
+9219833 9221152 What do you mean?
+9221393 9223145 l"m going to New York.
+9224353 9225991 l"ve arranged for<br />a position in a bank.
+9226233 9228144 But you can"t do that.
+9230233 9233543 I counted on you to help me start<br />a lumber business and...
+9233753 9234663 I counted on you.
+9234913 9237586 I don"t know anything<br />about the lumber business.
+9237833 9240142 You know as much as you do<br />about banking...
+9240393 9242987 ...and l"d give you half the business.
+9243233 9245667 That"s generous of you, Scarlett.
+9246033 9247546 But it isn"t that.
+9247753 9250551 If I go to Atlanta and take help<br />from you again...
+9250753 9253062 ...l"d bury any hope<br />of ever standing alone.
+9253313 9254587 Oh, is that all?
+9254793 9259344 You could gradually buy the business,<br />and then it would be your own and...
+9259953 9261352 No, Scarlett.
+9284353 9285547 Scarlett, what is it?
+9285793 9288068 Ashley"s so mean and hateful!
+9288313 9289951 What have you done?
+9290633 9293067 She wanted me to go to Atlanta.
+9293633 9297148 To help me start my lumber business.<br />And he won"t help me!
+9297753 9299425 How unchivalrous of you.
+9299633 9301544 Why, think, Ashley, think!
+9301793 9304751 If it hadn"t been for Scarlett,<br />l"d have died in Atlanta...
+9304953 9307308 ...and maybe we wouldn"t have<br />little Beau.
+9307513 9309868 When I think of her picking cotton<br />and plowing...
+9310113 9312547 ...just to keep food in our mouths,<br />I could just...
+9312753 9314744 Oh, my darling.
+9318633 9321272 All right, Melanie.<br />l"ll go to Atlanta.
+9323353 9325184 I can"t fight you both.
+9339433 9341344 Come on, lift them feet!
+9343713 9346386 There"s your new mill hands,<br />Mrs. Kennedy.
+9346633 9349545 The pick of all the best jails<br />in Georgia.
+9349993 9352951 - They look thin and weak, Gallegher.<br />- Halt!
+9355433 9356786 They"re the best you can lease.
+9356993 9359587 If you"ll give Johnnie Gallegher<br />a free hand...
+9359833 9361949 ...you"ll get what you want<br />out of them.
+9362153 9363950 All right, you"re the foreman.
+9364193 9367390 Just keep the mill running<br />and deliver my lumber when I want it.
+9367633 9370352 Johnnie Gallegher"s your man, miss.<br />But remember...
+9370593 9373027 ...no questions and no interference.
+9373433 9375742 That"s a bargain.<br />Start in the morning.
+9375993 9377824 Come on, get a move on there!
+9378033 9382584 But this isn"t right, and you know it.<br />Bad enough to be a businesswoman...
+9382793 9383987 Why do you complain?
+9384233 9386349 You wouldn"t own a mill<br />if I didn"t take over.
+9386553 9388145 But I didn"t want the mill.
+9388353 9392062 We couldn"t buy it if you hadn"t<br />pressed our friends for their debts.
+9392313 9393143 Isn"t that right?
+9393353 9395344 Are you running<br />a charitable institution?
+9395593 9398869 Go back to the store, and go home<br />and take your medicine.
+9399113 9400592 Sugar, don"t you think...?
+9400833 9404348 Great balls of fire! Don"t bother me.<br />And don"t call me sugar.
+9404553 9407863 All right. All right.<br />Good night, Ashley.
+9408433 9409912 My, my!
+9410113 9413150 She can get mad quicker<br />than any woman I ever saw.
+9414433 9416185 I don"t like to interfere...
+9416393 9419590 ...but I wish you"d let me hire<br />darkies and not use convicts.
+9419833 9420948 We could do better.
+9421193 9423832 Darkies" pay would break us.<br />Convicts are cheap.
+9424073 9425665 If we give Gallegher a free hand...
+9425913 9428985 A free hand? That means<br />he"ll starve and whip them.
+9429233 9431144 Didn"t you see them?<br />Some are sick.
+9431353 9432672 How you do run on.
+9432913 9435381 If I let you alone,<br />you"d give them chicken...
+9435633 9437589 ...and tuck them in with quilts.
+9437833 9441382 I won"t make money out of the<br />enforced labor and misery of others.
+9441633 9443066 You didn"t mind owning slaves.
+9443393 9445782 That was different.<br />We didn"t treat them that way.
+9446033 9447989 l"d have freed them<br />when father died...
+9448233 9450269 ...if the war hadn"t<br />already freed them.
+9450513 9451946 l"m sorry, Ashley.
+9452153 9454269 Do you forget what it"s like<br />without money?
+9454513 9457152 Money is the most<br />important thing in the world.
+9457353 9459389 I don"t intend to be without it again.
+9459633 9463751 l"ll make enough the only way I know<br />how so the Yankees can"t take Tara.
+9463993 9466268 We"re not the only Southerners<br />who"ve suffered.
+9466513 9469983 Look at all our friends. They"re<br />keeping their honor and kindness.
+9470233 9473589 And they"re starving. L"ve no use<br />for fools who won"t help themselves.
+9473833 9475949 I know what they say about me.<br />I don"t care.
+9476153 9478792 l"ll befriend Carpetbaggers<br />and beat them at their own game.
+9479033 9480785 And you"ll beat them with me.
+9483233 9486270 That"s it. Pull it<br />a little over to that side.
+9486513 9488947 - Afternoon, Mrs. Kennedy.<br />- Good afternoon.
+9489193 9491832 - Business is certainly growing.<br />- It certainly is.
+9493353 9495389 You"re doing business<br />with the people...
+9495633 9498466 ...who robbed us, tortured us<br />and left us to starve.
+9498713 9499668 All that"s past.
+9499913 9503349 I intend to make the best of things,<br />even if they are Yankee things.
+9505873 9508945 And do you know that Dr. Meade<br />actually saw her...
+9509153 9511348 ...peddling lumber to Yankees herself?
+9511553 9512349 That isn"t all.
+9512553 9515147 It"s shocking what she"s doing<br />to my brother.
+9515353 9518151 She"s even taken to driving<br />her own buggy.
+9525353 9528584 My dear Mrs. Kennedy.<br />My very dear Mrs. Kennedy!
+9528793 9530988 I don"t see how you have<br />the gall to face me!
+9531193 9534742 You could"ve had my millions<br />if you"d just waited a while.
+9534993 9536346 Oh, how fickle is woman!
+9536593 9538743 What is it you want?<br />I have things to do.
+9538953 9542741 Will you satisfy my curiosity on a<br />point which has always bothered me?
+9542953 9544102 Well, what is it?
+9544633 9548546 Tell me, do you never shrink<br />from marrying men you don"t love?
+9548833 9551950 How"d you get out of jail?<br />Why didn"t they hang you?
+9552433 9555550 Oh, that! There"s nothing much<br />that money won"t buy.
+9555753 9558950 I observe it"s even bought you<br />the honorable Mr. Wilkes.
+9559233 9562987 So you still hate Ashley Wilkes.<br />I believe you"re jealous of him.
+9563233 9567749 You still think you"re the belle of the<br />county, the cutest trick in shoe leather.
+9567993 9569949 That every man is in love with you.
+9570153 9570949 Let me by.
+9571833 9574745 Don"t be angry.<br />Tell me, where are you going?
+9574953 9577945 - L"m going out to the mill.<br />- Through Shantytown alone?
+9578193 9581344 It"s dangerous to drive alone<br />through all that riffraff.
+9581593 9582946 Don"t worry about me.
+9583153 9586350 I can shoot straight,<br />if I don"t have to shoot too far.
+9593193 9594751 What a woman!
+9628033 9629148 Give me a quarter.
+9629553 9630872 Let go of my horse!
+9633113 9634546 Hold this horse.
+9640393 9641985 - Let go!<br />- Give me that gun.
+9644753 9645947 Help!
+9646153 9646949 Help!
+9701433 9702229 Wait!
+9702633 9704351 Miss Scarlett, wait!
+9706193 9707706 - It"s Sam!<br />- Big Sam?
+9708353 9709388 Miss Scarlett, wait!
+9713953 9716945 Is you hurt, Miss Scarlett?<br />Did they hurt you?
+9717593 9721347 Don"t you cry. Big Sam will get<br />you out of this in a jiffy.
+9722113 9723751 Horse, make tracks!
+9727033 9729183 Get to Tara as quick as you can<br />and stay there.
+9729433 9731788 I will. L"s had enough<br />of them Carpetbaggers.
+9732033 9733989 Thank you, Mr. Frank.<br />Goodbye, Miss Scarlett.
+9734233 9735746 Goodbye, Sam. Thank you.
+9735993 9738951 Change your dress and go over<br />to Miss Melly"s.
+9739193 9740785 l"ve got to go<br />to a political meeting.
+9741033 9745470 How can you go to a political meeting<br />after what l"ve been through?
+9745713 9748386 Oh, sugar. You"re more scared<br />than hurt.
+9748593 9750185 Nobody cares about me.
+9750433 9753345 You all act as though<br />it were nothing at all.
+9773433 9775867 The men talk<br />about protecting our women...
+9776113 9780152 ...and then after what happened to me,<br />Frank went to a political meeting.
+9783753 9786551 And if it won"t pain you too much,<br />India Wilkes...
+9786753 9790632 ...tell me why you"re staring at me.<br />Has my face gone green?
+9790833 9792152 It won"t pain me.
+9792393 9794782 What happened today was<br />just what you deserved.
+9795033 9796864 With any justice,<br />you"d have gotten worse.
+9797113 9799991 - India, hush up.<br />- Let her talk. She"s always hated me.
+9800233 9803623 Ever since I took Charles away,<br />though she won"t admit it.
+9803913 9806746 If she thought anybody"d notice,<br />she"d walk the street naked.
+9806953 9808944 I do hate you!
+9809353 9812504 You"ve done all you could to lower<br />the prestige of decent people.
+9812713 9816149 Now you"ve endangered the lives<br />of our men because they"ve got to...
+9816353 9819902 We"d better not say any more,<br />or one of us will be saying too much.
+9820113 9822502 What"s going on<br />that I don"t know about?
+9828153 9832351 Somebody"s coming up the walk.<br />Somebody that ain"t Mr. Ashley.
+9832553 9835147 Will you hand me the pistol,<br />Mrs. Meade?
+9841153 9842745 Whoever it is...
+9843273 9844945 ...we know nothing.
+9848233 9851350 Where have they gone?<br />Tell me. It"s life or death.
+9851593 9853549 Don"t tell him.<br />He"s a Yankee spy.
+9853793 9855306 Quickly. There may be time.
+9856273 9857069 How"d you know?
+9857273 9858592 I played poker with Yankees.
+9858833 9861552 They knew there"d be trouble.<br />They sent the cavalry out.
+9861793 9863545 Your men are walking<br />into a trap.
+9863793 9866546 Don"t tell him.<br />He"s trying to trap you.
+9869033 9871945 Out the Decatur road.<br />The old Sullivan plantation.
+9872193 9873672 They"re meeting in the cellar.
+9873873 9875352 l"ll do what I can.
+9879833 9882791 What"s this about?<br />If you don"t tell me, l"ll go crazy.
+9883033 9884546 We thought it best not to tell you.
+9884753 9888462 The men have gone to clean out<br />the woods where you were attacked.
+9888713 9891750 It"s what many of our Southern men<br />have had to do to protect us.
+9891993 9896350 And if they"re captured, they"ll be<br />hanged. And it will be your fault.
+9896593 9898265 Another word and you must leave.
+9898513 9900390 Scarlett did what she had to do.
+9900633 9903352 Our men are doing what<br />they think they have to do.
+9903913 9905141 Frank...
+9905553 9907145 ...and Ashley.
+9909033 9911342 Oh, it isn"t possible.
+9914033 9916388 There"s horses, Miss Melly.<br />Here they come.
+9916593 9918549 We"re sewing, we"re sewing!
+9922753 9923742 Open the door.
+9933793 9935545 Good evening, Mrs. Kennedy.
+9937913 9939312 Who is Mrs. Wilkes?
+9939513 9941151 I am Mrs. Wilkes.
+9941353 9944504 - I should like to speak to Mr. Wilkes.<br />- He"s not here.
+9945113 9947946 - Are you sure?<br />- Don"t you doubt Miss Melly"s word!
+9948193 9950388 I meant no disrespect, Mrs. Wilkes.
+9950633 9952749 If you give me your word,<br />I won"t search the house.
+9953113 9956742 Mr. Wilkes is at a political meeting<br />at Mr. Kennedy"s store.
+9956953 9961026 He"s not at the store. There"s no<br />meeting tonight, no political meeting.
+9961433 9964345 We"ll wait outside till<br />he and his friends return.
+9965353 9968072 Surround the house.<br />Put a man on each door and window.
+9973633 9975942 Keep on with your sewing, ladies.
+9976233 9978701 And l"ll read aloud.
+9981833 9985542 <i>The Personal History and Experience</i><br /><i>of David Copperfield. </i>
+9987833 9989152 Chapter One.
+9989353 9990342 I am born.
+9994753 9998951 To begin my life with the beginning of<br />my life, I record that I was born...
+9999233 10001428 Chapter Nine.<br />I have a memorable birthday.
+10001673 10003550 I pass over all that happened<br />at school...
+10003753 10007632 ...until the anniversary<br />of my birthday came round in March.
+10008033 10011423 Except that Steerforth was more to be<br />admired than ever, I remember nothing.
+10011833 10013869 He was going away<br />at the end of the half-year...
+10014153 10018351 ...if not sooner, and was more<br />spirited and independent than before.
+10018593 10020663 And therefore, more engaging<br />than before...
+10020873 10023341 ...but beyond this,<br />I remember nothing.
+10023593 10024742 The great...
+10027033 10028261 I remember nothing.
+10032993 10034904 Melly, they"re drunk!
+10035393 10039068 Leave this to me, Scarlett.<br />And, please, say nothing.
+10042033 10044342 You stupid fool!
+10045593 10046742 Quiet!
+10047433 10049344 Will you shut up, for the love of...
+10049713 10050543 Hello, Melly.
+10050753 10054985 So you"ve got my husband intoxicated<br />again. Well, bring him in.
+10055233 10057383 l"m sorry, your husband"s<br />under arrest.
+10057633 10061945 If you arrest all the drunks in Atlanta,<br />you must arrest a good many Yankees.
+10062153 10065543 Bring him in, Captain Butler,<br />if you can walk yourself.
+10066633 10068146 - Wait.<br />- I wanna tell you a story.
+10068393 10069667 Listen, doctor, I...
+10069873 10071750 Put him down in that chair.
+10074993 10077302 Now, captain,<br />please leave my house...
+10077513 10079947 ...and try to remember<br />not to come here again.
+10080193 10082912 That"s fine thanks I get<br />for bringing him home...
+10083113 10085673 ...and not leaving him<br />in this shameful condition.
+10085873 10087511 Now, boys, all together...
+10087713 10089465 Dr. Meade!
+10089793 10091863 l"m astonished at you!
+10099033 10101149 How can you do this to me?
+10101993 10104348 I ain"t so very drunk, Melly.
+10104713 10107102 Take him to the bedroom.<br />Lay him out on the bed.
+10107313 10109781 - Don"t touch him. He"s under arrest.<br />- Now, Tom.
+10110033 10113582 What do you want to arrest him for?<br />l"ve seen him drunker.
+10113833 10116142 l"ve seen you drunker.<br />And you"ve seen me...
+10116393 10119669 He can lie in the gutter<br />for all I care. L"m not a policeman.
+10119913 10124031 He led a raid on that Shantytown<br />where Mrs. Kennedy got into trouble.
+10124433 10127152 A lot of shanties were burned.<br />A couple of men were killed.
+10127393 10130942 It"s time you rebels learned you can"t<br />take the law into your own hands.
+10131393 10133145 What are you laughing at?
+10134513 10136981 This isn"t your night to teach<br />that lesson.
+10137233 10139986 These two have been<br />with me tonight. Yes, sir.
+10140233 10141951 With you, Rhett?
+10142433 10143752 Where?
+10147353 10149583 I don"t like to say<br />in the presence of ladies.
+10150113 10151182 You"d better say.
+10151833 10153710 Come out on the porch<br />and l"ll tell you.
+10153913 10157542 Speak out. I think I have a right<br />to know where my husband"s been.
+10159833 10161152 Well, ma"am...
+10161353 10163992 ...we dropped in<br />on a friend of mine...
+10164233 10165746 ...and the captain"s.
+10165953 10167227 Mrs. Belle Watling.
+10168433 10171982 We played cards<br />and drank champagne...
+10173233 10176703 Now you"ve done it. Did you have to<br />show me up in front of my wife?
+10178113 10179785 I hope you"re satisfied.
+10180033 10182911 These ladies won"t be speaking<br />with their husbands.
+10183473 10186465 Well, Rhett, I had no idea.
+10187793 10192708 Look here, will you take an oath that<br />they were with you tonight at Belle"s?
+10193113 10195866 Ask Belle if you don"t believe me.<br />She"ll tell you.
+10196113 10198183 Will you give me your word,<br />as a gentleman?
+10198433 10199582 As a gentleman?
+10199833 10201744 Why, certainly, Tom.
+10203633 10207262 Well, if l"ve made a mistake,<br />l"m sorry.
+10208033 10210547 I hope you"ll forgive me, Mrs. Wilkes.
+10211993 10213711 If you"ll leave us in peace.
+10214073 10216462 Well, I say l"m sorry.
+10217633 10218986 Well, I am sorry.
+10219233 10220746 Come on, sergeant.
+10227193 10229548 Lock that door. Pull down the shades.
+10232193 10234343 He"s all right.<br />It"s only in the shoulder.
+10234593 10236868 Get him on the bed<br />where I can dress the wound.
+10237113 10238944 I think I can walk.
+10239313 10241065 It"s not worth the effort.<br />Which way?
+10241313 10242541 In here.
+10243913 10245392 Mammy, I want hot water.
+10245793 10247146 And lint for bandages.
+10247353 10249947 What can I use for a probe?<br />If I only had my bag.
+10250193 10253151 Were you really there?<br />What did it look like?
+10253393 10257147 Does she have cut-glass chandeliers,<br />plush curtains and dozens of mirrors?
+10257393 10260351 Good heavens, Mrs. Meade,<br />remember yourself.
+10262313 10265464 Captain Butler, tell me what happened,<br />all that happened.
+10265713 10267351 I was too late.
+10267593 10270949 When I got to the Sullivan place,<br />there had already been a skirmish.
+10271193 10273946 I found Mr. Wilkes wounded,<br />and Dr. Meade was with him.
+10274153 10278146 I had to prove they"d been somewhere,<br />anyplace but where they were.
+10278433 10281391 - So I took them to Belle"s.<br />- And she took them in?
+10281633 10284705 She"s by way of being<br />an old friend of mine.
+10284913 10285948 l"m sorry...
+10286153 10289543 l"m sorry I couldn"t think up<br />a more dignified alibi.
+10292553 10295943 This isn"t the first time you"ve come<br />between me and disaster.
+10296193 10299549 It isn"t likely that l"d question<br />any device of yours.
+10300993 10304747 And now l"ll go and see<br />what Dr. Meade needs.
+10315553 10318704 Have you no interest in what"s become<br />of your own husband?
+10321513 10323743 Did Frank go with you<br />to Belle Watling"s?
+10323993 10325346 No.
+10325633 10326622 Where is he?
+10327593 10330153 He"s lying out on Decatur Road...
+10330433 10332344 ...shot through the head.
+10332953 10334352 He"s dead.
+10343793 10344987 Who is it?
+10345233 10346348 It"s Mrs. Watling.
+10346553 10349272 Oh, Mrs. Watling.<br />Won"t you come in the house?
+10349513 10352266 Oh, no, I couldn"t do that,<br />Mrs. Wilkes.
+10352513 10354947 You come in and sit a minute with me.
+10362433 10366062 How can I thank you enough<br />for what you did for us?
+10366313 10369191 I got your note saying you would<br />call on me and thank me.
+10369433 10372470 Why, Mrs. Wilkes,<br />you must have lost your mind.
+10372713 10376547 I came as soon as it was dark to say<br />you mustn"t think of any such thing.
+10376793 10378351 Why, l"m...
+10378633 10379952 Well, you"re...
+10380233 10381746 It wouldn"t be fitting at all.
+10381953 10385582 It wouldn"t be fitting for me to thank<br />a woman who saved my husband"s life?
+10385833 10390543 Mrs. Wilkes, there ain"t never been<br />a lady nice to me like you was.
+10390753 10393347 I mean, about the money<br />for the hospital.
+10393553 10395145 I don"t forget a kindness.
+10395633 10398386 I thought about you being widowed<br />with a little boy...
+10398633 10400544 ...if Mr. Wilkes got hung.
+10400753 10403950 He"s a nice little boy,<br />your boy is, Mrs. Wilkes.
+10404393 10406861 I got a boy myself, so I...
+10407233 10409667 You have? Does he live...?
+10409873 10412341 Oh, no, he ain"t here in Atlanta.
+10412753 10414391 He ain"t never been here.
+10414633 10416544 He"s off at school.
+10416953 10419342 I ain"t seen him since he was little.
+10421793 10425672 Anyways, if it had been that<br />Mrs. Kennedy"s husband by hisself...
+10425913 10428985 ...I wouldn"t have lifted a finger,<br />no matter what Rhett said.
+10429233 10430985 She"s a mighty cold woman...
+10431233 10433542 ...prancing about Atlanta by herself.
+10433753 10436347 She killed her husband<br />same as if she shot him.
+10436593 10439744 You mustn"t say unkind things<br />about my sister-in-law.
+10442633 10444669 Please don"t freeze me, Mrs. Wilkes.
+10444913 10447143 I forgot how you liked her.
+10447633 10451945 She just ain"t in the same class with<br />you, and I can"t help it if I think so.
+10452433 10455186 Well, anyways, I gotta be going.
+10455433 10458982 l"m scared somebody"ll recognize<br />this carriage if I stay any longer.
+10459233 10461349 That wouldn"t do you no good.
+10461753 10464950 And, Mrs. Wilkes, if you ever see me<br />on the street...
+10465153 10467348 ...you don"t have to speak to me.
+10467553 10469145 l"ll understand.
+10469433 10471549 I should be proud to speak to you.
+10471753 10474142 Proud to be under obligation to you.
+10474393 10475872 I hope we meet again.
+10476113 10479071 Oh, no. That wouldn"t be fitting.
+10480393 10483544 - Good night, Mrs. Wilkes.<br />- Good night, Mrs. Watling.
+10488313 10490144 And you"re wrong about Mrs. Kennedy.
+10490393 10492953 She"s brokenhearted about her husband.
+10535033 10536546 Great balls of fire!
+10536793 10538146 It"s Rhett.
+10562433 10566745 Captain Butler here to see you. I<br />told him you was prostrate with grief.
+10566993 10570349 Tell him l"ll be right down, Mammy.
+10598913 10600346 She says she"s coming.
+10600593 10602584 I don"t know why she"s coming,<br />but she"s coming.
+10602833 10604152 You don"t like me, Mammy.
+10604393 10607351 Don"t you argue with me.<br />You don"t. You really don"t.
+10619113 10620990 It"s no good, Scarlett.
+10621233 10623542 - What?<br />- The cologne.
+10624393 10625872 I don"t know what you mean.
+10626113 10629992 I mean you"ve been drinking.<br />Brandy. Quite a lot.
+10630233 10633350 Well, what if I have?<br />Is that any of your affair?
+10634953 10636466 Don"t drink alone.
+10636713 10640467 People always find out,<br />and it ruins a reputation.
+10645713 10646668 What is it?
+10646913 10649268 This is more than losing old Frank.
+10650553 10651747 l"m so afraid.
+10651993 10654382 I don"t believe it.<br />You"ve never been afraid.
+10654633 10656066 l"m afraid now.
+10656313 10658952 l"m afraid of dying and going to hell.
+10660113 10662752 You look healthy.<br />And maybe there isn"t any hell.
+10662953 10666741 Oh, there is. I know there is.<br />I was raised on it.
+10666953 10669990 Far be it from me to question<br />the teachings of childhood.
+10670513 10673949 Tell me what you"ve done<br />that hell yawns before you.
+10674593 10676982 I ought never to have married Frank.
+10677233 10680270 He was Suellen"s beau,<br />and he loved her, not me.
+10680513 10683391 And I made him miserable,<br />and I killed him.
+10683633 10685942 Yes, I did. I killed him.
+10687313 10689349 Rhett, for the first time...
+10689593 10693142 ...l"m finding out what it is<br />to be sorry for something l"ve done.
+10693833 10696108 Here. Dry your eyes.
+10696833 10699586 If you had it all to do over again,<br />you"d do no differently.
+10699833 10702347 You"re like the thief who isn"t<br />sorry he stole...
+10702553 10704783 ...but he"s terribly sorry he"s<br />going to jail.
+10705033 10707672 l"m glad Mother"s dead.
+10707913 10711144 l"m glad she"s dead<br />so she can"t see me.
+10711353 10714948 I always wanted to be like her,<br />calm and kind...
+10715153 10718350 ...and sadly, l"ve turned out<br />disappointing.
+10719393 10723750 You know, Scarlett, I think<br />you"re on the verge of a crying jag.
+10730433 10733391 So l"ll change the subject<br />and say what I came to say.
+10733633 10735544 Say it, then, and get out!
+10736513 10740142 - What is it?<br />- I can"t go on any longer without you.
+10741113 10743946 You are the most ill-bred man<br />to come here at a time...
+10744193 10746787 I made up my mind you were<br />the only woman for me...
+10747033 10748386 ...the first day I saw you.
+10748633 10750544 Now you have a mill<br />and Frank"s money...
+10750793 10752943 ...and won"t come to me<br />as you did to the jail.
+10753153 10757351 - So I see I shall have to marry you.<br />- I never heard of such bad taste.
+10757553 10759589 Would you be convinced<br />if I fell to my knees?
+10759953 10761466 Turn me loose and get out.
+10761713 10764546 Forgive me for startling you<br />with my impetuous sentiments...
+10764793 10767182 ...my dear Scarlett...<br />I mean, my dear Mrs. Kennedy.
+10767433 10770266 But you must have noticed<br />that for some time...
+10770513 10773664 ...the friendship l"ve felt for you<br />has ripened into a deeper feeling.
+10773913 10777952 A feeling more beautiful,<br />more pure, more sacred...
+10778153 10780189 Dare I name it? Can it be love?
+10780833 10783188 Get up. I don"t like<br />your common jokes.
+10783433 10785344 This is an honorable proposal...
+10785593 10788426 ...made at what I consider<br />a most opportune moment.
+10788633 10791784 I can"t go all my life waiting<br />to catch you between husbands.
+10792033 10794911 You"re coarse and you"re conceited.
+10795113 10797946 And I think this conversation"s<br />gone far enough.
+10798473 10801192 Besides, I shall never marry again.
+10801793 10804512 Oh, yes, you will.<br />And you"ll marry me.
+10804753 10806664 You? You?
+10807153 10808711 I don"t love you.
+10808953 10811751 And I don"t like being married.
+10811993 10814109 Ever think of marrying<br />just for fun?
+10814353 10815706 Marriage, fun?
+10815913 10818507 Fiddle-dee-dee!<br />Fun for men, you mean.
+10818753 10820232 Do you want them to hear you?
+10820473 10822623 You"ve been married to<br />a boy and an old man.
+10822873 10826343 Why not try a husband of the right age,<br />with a way with women?
+10826593 10828709 You"re a fool, Rhett Butler...
+10828953 10831911 ...when you know I shall always love<br />another man.
+10832193 10834309 Stop it. You hear me? Stop it.
+10834553 10836305 No more of that talk.
+10841473 10842747 Don"t. I shall faint.
+10842993 10845553 I want you to faint.<br />This is what you"re meant for.
+10845793 10848227 None of those fools<br />have kissed you like this.
+10848473 10851704 Your Charles or your Frank<br />or your stupid Ashley.
+10859193 10862105 Say you"re going to marry me.<br />Say yes. Say yes.
+10862353 10863706 Yes.
+10865593 10868312 Are you sure you meant it?<br />You don"t want to take it back?
+10869593 10871948 Look at me,<br />and try to tell me the truth.
+10872193 10874548 Did you say yes because of my money?
+10874793 10877546 Well, yes, partly.
+10878513 10879707 Partly?
+10880153 10882542 Well, you know, Rhett,<br />money does help.
+10882793 10885751 - And, of course, I am fond of you.<br />- Fond of me?
+10885993 10889303 If I said I was madly in love<br />with you, you"d know I was lying.
+10889513 10893028 - You say we have a lot in common...<br />- Yes, you"re right, my dear.
+10893273 10895309 l"m not in love<br />any more than you are.
+10895513 10898152 Heaven help the man<br />who ever really loves you.
+10898393 10900111 What kind of ring would you like?
+10900353 10903151 A diamond ring, and do buy<br />a great big one.
+10903393 10906305 You"ll have the biggest<br />and most vulgar ring in Atlanta.
+10906553 10910023 l"ll take you to New Orleans<br />for the most expensive honeymoon.
+10910273 10913549 - That"d be heavenly.<br />- L"ll buy your trousseau for you too.
+10913793 10915829 How wonderful...
+10916073 10918348 ...but you won"t tell anybody,<br />will you?
+10918593 10920902 Still the little hypocrite.
+10922793 10924511 Won"t you kiss me goodbye?
+10924753 10927142 You"ve had enough kissing<br />for one afternoon.
+10927393 10930624 You"re impossible. You can go.<br />I don"t care if you never come back.
+10930873 10932704 But I will come back.
+10946513 10948344 What are you thinking about?
+10948593 10951107 l"m thinking about how rich we are.
+10952353 10954344 I can keep the lumber business too?
+10954593 10956902 Yes, of course you can,<br />if it amuses you.
+10957153 10961112 Now that you"re so rich, you can tell<br />everybody to go to the devil.
+10961313 10964305 But you were the main one<br />I wanted to go to the devil.
+10980873 10984309 Don"t scrape the plate.<br />l"m sure there"s more in the kitchen.
+10985353 10988186 Can I have a chocolate one<br />stuffed with meringue?
+10988433 10991345 If you don"t stop being a glutton,<br />you"ll get as fat as Mammy.
+10991593 10993151 And l"ll divorce you.
+10993913 10996143 It"d be nice if you bought<br />something for Mammy.
+10996393 10999749 Why should I buy her a present<br />when she called us both mules?
+10999993 11001346 Mules? Why mules?
+11001593 11005950 She said we could give ourselves air<br />and get slicked up like racehorses...
+11006193 11009708 ...but we were just mules in horse<br />harness and we didn"t fool anybody.
+11009993 11013349 I never heard anything more true.<br />Mammy"s a smart old soul.
+11013593 11017302 And one of the few people I know<br />whose respect l"d like to have.
+11017913 11021303 - I won"t give her a thing.<br />- Then l"ll take her a petticoat.
+11021513 11025301 My mammy said when she went to heaven,<br />she wanted a red taffeta petticoat...
+11025553 11027623 ...so stiff that it"d stand<br />by itself...
+11027873 11030706 ...and so rustley the Lord would<br />say it"s made of angels" wings.
+11030913 11033632 She won"t take it from you.<br />She"d rather die than wear it.
+11033873 11037309 That may be. But l"m making<br />the gesture just the same.
+11040993 11043302 Wake up. Wake up!
+11044793 11047102 You were having another nightmare.
+11049193 11053152 Rhett, I was so cold<br />and hungry and so tired.
+11053393 11057750 I couldn"t find it. I ran through<br />the mist and I couldn"t find it.
+11057993 11060507 - Find what, honey?<br />- I don"t know.
+11060713 11063511 I always dream the same dream,<br />and I never know.
+11063713 11065624 It seems to be hidden in the mist.
+11065873 11067306 Darling...
+11067993 11072703 Do you think l"ll ever dream<br />that I found it, and that l"m safe?
+11073193 11075104 Dreams don"t work that way.
+11075353 11077503 When you get used to being<br />safe and warm...
+11077713 11079749 ...you"ll stop dreaming that dream.
+11079993 11083588 And, Scarlett, l"m going to see<br />that you are safe.
+11086193 11089310 Would you do something for me<br />if I asked you?
+11089553 11091305 You know I would.
+11091913 11093949 Will you take me away from here?
+11094393 11097703 - Don"t you like New Orleans?<br />- I love New Orleans...
+11097913 11100427 ...but I want to go home<br />and visit Tara.
+11100673 11102709 Will you take me to Tara?
+11102953 11105626 Yes, Scarlett. Of course I will.
+11106393 11108111 We"ll go tomorrow.
+11110553 11113113 You get your strength<br />from this red earth of Tara.
+11113313 11115031 You"re part of it<br />and it"s part of you.
+11115273 11118743 l"d give anything to have Tara<br />the way it was before the war.
+11118993 11120108 Would you?
+11120473 11123351 Go ahead and make it that way.<br />Spend whatever you want.
+11123593 11125948 Make it as fine a plantation<br />as it ever was.
+11127993 11129506 You are good to me.
+11129713 11131829 Can we still have our big new house<br />in Atlanta?
+11132073 11134712 Yes. And it can be<br />as ornate as you want.
+11134913 11137108 Marble terraces,<br />stained-glass windows.
+11137353 11138945 Won"t everyone be jealous!
+11139193 11143106 I want everybody who"s been mean to me<br />to be pea-green with envy.
+11143953 11145750 I don"t care. Scarlett"s hateful...
+11145993 11148109 ...building that new house<br />just to show off!
+11148313 11150907 And even taking our servants!
+11151153 11154145 Oh, darling, you mustn"t think<br />unkindly of her.
+11154393 11157112 She"s made it possible for us<br />to keep Tara, always.
+11157353 11159105 And what good is Tara?
+11159353 11163710 She"s had three husbands,<br />and l"ll be an old maid!
+11165593 11167743 Great Jehoshaphat!
+11168193 11169865 Great Jehoshaphat!
+11170193 11172946 Lordy, we sure is rich now.
+11173833 11176552 That"s ridiculous!<br />Why can"t I go in?
+11176793 11178909 l"m entitled to see my own child.
+11179113 11182662 You control yourself.<br />You"ll be seeing it for a long time.
+11183273 11185946 l"d like to apologize<br />about its not being a boy.
+11186193 11188149 Hush your mouth. Who wants a boy?
+11188393 11191271 Boys aren"t any use.<br />Don"t you think l"m proof of that?
+11192113 11193865 Have a drink of sherry.
+11194073 11196303 Mammy, she is beautiful, isn"t she?
+11196553 11198544 She sure is.
+11198793 11200306 You ever see a prettier one?
+11200513 11204711 Miss Scarlett was mighty near that<br />pretty when she come, but not quite.
+11204953 11206306 Have another glass.
+11210513 11212310 What"s that rustling noise I hear?
+11212553 11216432 Lordy, that ain"t nothing but my<br />red silk petticoat you done give me.
+11216633 11220546 Nothing but your petticoat? I don"t<br />believe it. Pull up your skirt.
+11221353 11223708 Mr. Rhett, you is bad.
+11223913 11225904 Yea, Lordy!
+11230713 11233432 You sure took a long enough time<br />about wearing it.
+11233753 11235903 Yes, sir. Too long.
+11236113 11238024 No more mule in horse"s harness?
+11238273 11241151 Miss Scarlett was bad<br />telling you about that.
+11241393 11243907 You ain"t holding that<br />against Mammy, is you?
+11244313 11245746 I don"t hold it against you.
+11245993 11248109 I just wanted to know.<br />Have another glass.
+11248313 11249712 Take the whole bottle.
+11249913 11252905 Dr. Meade says you can go in now,<br />Captain Butler.
+11255993 11257949 This sure is a happy day to me.
+11258193 11261105 I done diapered three generations<br />of this family"s girls.
+11261313 11263144 And it sure is a happy day.
+11263393 11268103 Oh, yes, Mammy. The happiest days are<br />when babies come. I wish...
+11268473 11271510 She"s beautiful. What do you<br />suppose they"ll name her?
+11271753 11273744 Miss Scarlett told me<br />if it was a girl...
+11273993 11277702 ...she was going to name it<br />Eugenia Victoria.
+11278953 11281342 She"s a beautiful baby.
+11281593 11283982 The most beautiful baby ever.
+11287553 11290147 Do you know that this is<br />your birthday?
+11290393 11292748 That you"re a week old today?
+11293033 11296628 Yes, l"m going to buy her a pony,<br />the likes of which...
+11296833 11298505 ...this town has never seen.
+11298753 11302109 Yes, l"m going to send her to<br />the best schools in Charleston.
+11302353 11306710 Yes, and her will be received by<br />the best families in the South.
+11306913 11309108 And when it comes time<br />for her to marry...
+11309353 11312743 ...well, she"ll be a little princess.
+11312993 11314949 Certainly making a fool of yourself.
+11315193 11316308 Why shouldn"t I?
+11317393 11321102 She"s the first person who"s ever<br />completely belonged to me.
+11321553 11323032 Great balls of fire!
+11323273 11325025 I had the baby, didn"t I?
+11325593 11327982 - It"s Melanie. May I come in?<br />- Come in.
+11328273 11332505 Yes, come in and look at<br />my daughter"s beautiful blue eyes.
+11333793 11336261 Most babies have blue eyes<br />when they"re born.
+11336553 11339226 Don"t tell him anything.<br />He knows everything about babies.
+11339433 11342425 Nevertheless, her eyes are blue<br />and they"ll stay blue.
+11342673 11345107 As blue as the Bonnie Blue flag.
+11345473 11347384 That"s it.<br />That"s what we"ll call her.
+11347873 11349704 Bonnie Blue Butler.
+11357393 11359111 Try again, Mammy.
+11366313 11367541 Twenty inches.
+11367793 11371103 Twenty inches. L"ve grown as big<br />as Aunt Pitty.
+11371313 11373543 You simply gotta make it 181/2 again.
+11373793 11375112 You done had a baby.
+11375353 11378026 And you ain"t never gonna be<br />no 181/2 inches again.
+11378273 11380104 There ain"t nothing to do about it.
+11381153 11382950 There is something to do about it.
+11383193 11386310 l"m just not going to get old and fat<br />before my time.
+11386793 11389102 I just won"t have any more babies.
+11389593 11392949 I heard Mr. Rhett say that he"d be<br />wanting a son next year.
+11393193 11395753 Tell Captain Butler I decided<br />not to go out.
+11395993 11397711 l"ll have supper in my room.
+11417473 11419111 I got your message.
+11419313 11421907 l"ll have them bring<br />my supper up here too.
+11427673 11429311 No objections to that, I hope?
+11429513 11430707 No.
+11431793 11432908 Yes.
+11434753 11437506 I mean, I don"t care<br />where you have your supper.
+11442393 11443712 You see...
+11443913 11446029 Well, l"ve decided...
+11447673 11450426 Well, I hope I don"t have<br />any more children.
+11462153 11465543 My pet, as I told you<br />before Bonnie was born...
+11465793 11468546 ...it"s immaterial to me<br />whether you have one child or 20.
+11468793 11470511 No, but you know what I...
+11470953 11472306 Do you know what I mean?
+11472553 11476307 I do. And do you know I can<br />divorce you for this?
+11476793 11478704 You"re low enough to think of that.
+11478953 11481342 If you had any chivalry in you,<br />or were nice...
+11481593 11485711 Look at Ashley Wilkes. Melanie can"t<br />have any more children and he...
+11487273 11489707 You"ve been to the lumber office<br />this afternoon.
+11489953 11491705 What has that got to do with it?
+11493073 11496304 Quite the little gentleman, Ashley.<br />Pray, go on, Mrs. Butler.
+11496553 11499306 It"s no use. You wouldn"t understand.
+11499793 11501704 You know, l"m sorry for you.
+11501953 11502829 Sorry for me?
+11503073 11506509 Sorry for you because you throw away<br />happiness with both hands...
+11506713 11508749 ...and reach out for unhappiness.
+11508993 11510346 I don"t know<br />what you mean.
+11510633 11514751 If you were free and Melly were dead<br />and you had your precious Ashley...
+11514993 11516904 ...do you think you"d be happy?
+11517473 11520909 You"d never know him,<br />never even understand his mind...
+11521153 11523872 ...any more than you understand<br />anything, except money.
+11524353 11525911 Never mind about that. I want...
+11526153 11530112 You may keep your sanctity.<br />It"ll work no hardship on me.
+11530353 11531547 You don"t care?
+11531913 11534029 The world is full<br />of many things and people...
+11534273 11537709 ...and I shan"t be lonely.<br />I will find comfort elsewhere.
+11537953 11539102 Well, that"s fine.
+11539313 11542749 But I warn you, in case you change<br />your mind, I intend to lock my door.
+11542953 11544022 Why bother?
+11544273 11547310 If I wanted to come in,<br />no lock could keep me out.
+11564113 11565751 I knew most women were cheats...
+11565993 11568143 ...hypocritical and hard,<br />but this one...
+11568393 11570543 - It ain"t no use.<br />- What do you mean?
+11570793 11572545 I mean you"re poisoned with her.
+11572793 11576103 I don"t care what she"s done to you.<br />You"re still in love with her.
+11576353 11580505 - It pleasures me none to say it.<br />- Maybe so, but l"m through with her.
+11580753 11584507 You"ve gotta think of the child.<br />Child"s worth 10 of the mother.
+11590313 11591951 You"re a shrewd woman, Belle.
+11592153 11593905 And a very nice one.
+11595033 11595829 Yes, Rhett?
+11596033 11599309 I was just thinking of the difference<br />between you and...
+11599513 11602186 You"re both hardheaded businesswomen,<br />and successful.
+11602873 11604909 But you"ve got a heart, Belle.
+11606393 11608111 And you"re honest.
+11610473 11611383 Goodbye, Rhett.
+11612873 11614101 Goodbye, Belle.
+11629113 11633425 She"ll be a wonderful horsewoman.<br />Look at those hands. And that seat!
+11633673 11634947 Oh, fiddle-dee-dee!
+11635193 11637707 Why we have to wheel a baby<br />when we have servants...
+11637913 11640746 - Good morning, Mrs. Merriwether.<br />- Good morning, Captain Butler.
+11640953 11641908 Good morning, Scarlett.
+11642113 11644752 Making fools of ourselves<br />in front of these buffaloes.
+11644993 11647427 If you"d thought of your position,<br />you wouldn"t have to.
+11647673 11652508 But as it is, we"re going to cultivate<br />every female dragon of the Old Guard...
+11652713 11655705 - Good morning, Mrs. Whiting.<br />- Good morning, Captain Butler.
+11655953 11657830 Good morning, Scarlett.
+11658073 11661110 So the millionaire speculator is<br />turning respectable.
+11661313 11663304 Money can"t buy<br />what I want for Bonnie.
+11663553 11665544 l"ll admit l"ve been at fault too.
+11665793 11667829 Bonnie will have a place<br />among decent people.
+11668073 11672112 Even if we both have to crawl<br />on our bellies to every fat old cat...
+11672393 11674111 Good morning, Mrs. Meade.
+11674313 11677703 Good morning, Captain Butler.<br />Good morning, Scarlett.
+11682913 11685746 Mrs. Merriwether, I have<br />great regard for your knowledge.
+11685993 11688427 - Could you give me some advice?<br />- Certainly.
+11688633 11690749 Bonnie sucks her thumb.<br />I can"t stop her.
+11690993 11694463 You should make her stop!<br />lt"ll ruin the shape of her mouth.
+11694673 11696345 She has such a beautiful mouth.
+11696593 11699027 - I tried putting soap on her nails.<br />- Soap?
+11699233 11702623 Put quinine on her thumb and<br />she"ll stop sucking it quick enough.
+11702833 11705347 Quinine! I never would have<br />thought of it.
+11705593 11707424 I can"t thank you enough.
+11707673 11710062 You"ve taken a great load off my mind.
+11710273 11711501 Good morning.
+11714193 11717026 Good morning, Dolly.<br />Wasn"t that Captain Butler?
+11717273 11719833 Good morning, Caroline.<br />I was just thinking...
+11720073 11723907 ...there"s a great deal of good in<br />a man who would love a child so much.
+11724113 11726024 But of course there is.
+11726273 11730312 Fanny Elsing told Dr. Meade that<br />Captain Butler finally admitted...
+11730513 11734142 ...that he was honored for his<br />services at the Battle of Franklin.
+11734393 11736748 Did I tell you<br />that Captain Butler made...
+11736993 11741111 ...a stupendous contribution to the<br />Association for the Beautification...
+11741313 11743508 ...of the Graves of the Glorious Dead?
+11744593 11748142 My grandbaby, Napoleon Picard, is<br />giving a party for Bonnie next week.
+11748393 11752352 Why, Dolly Merriwether, it was<br />my idea to give a party for Bonnie.
+11752593 11756108 Why, Caroline Meade, how can you say<br />a thing like that?
+11762593 11765903 Watch Daddy put your pony over it,<br />Bonnie. Now, watch!
+11768553 11770623 Daddy, let me! Let me!
+11770833 11772027 All right, darling.
+11772273 11773911 Put her on, Pork.
+11776713 11777828 Up we go!
+11778073 11779108 Oh, there!
+11779713 11781988 Lordy mercy!<br />There he goes again.
+11782193 11785105 Grip tightly with your legs.<br />Lean forward and go with him.
+11785313 11788111 Hold your reins properly<br />in a firm hand. Up!
+11789153 11791348 That was fine. I knew you"d do it.
+11791593 11794107 When you"re older, we"ll go<br />to Kentucky and Virginia.
+11794353 11798312 You"ll be the best horsewoman in the<br />South. Give your daddy a kiss.
+11803153 11805383 Did you see her?<br />Wasn"t she wonderful?
+11805633 11808022 Mr. Rhett, I done told you<br />and told you...
+11808273 11812027 ...it ain"t fittin" for a girl to ride<br />astraddle with her dress flying up.
+11812593 11814709 All right. L"ll teach her<br />to ride sidesaddle.
+11814913 11817825 l"ll buy her a blue velvet<br />riding habit. She"ll love that.
+11818113 11820308 A nice black broadcloth<br />is what girls wear.
+11820553 11822703 Now, Mammy, be reasonable.
+11822913 11825711 Well, I don"t think<br />it"s fittin", but...
+11827033 11829501 It ain"t fittin",<br />it just ain"t fittin".
+11830753 11832311 It ain"t fittin".
+11841753 11845507 Why, Scarlett, what are you doing<br />downtown at this time of day?
+11845753 11846549 Well, I just...
+11846753 11849904 Why aren"t you helping Melly<br />with my surprise birthday party?
+11850153 11853509 Why, you aren"t supposed to<br />know anything about that.
+11853753 11856313 Melly"d be disappointed<br />if you weren"t surprised.
+11856553 11857702 I won"t let on.
+11857913 11860302 l"ll be the most surprised man<br />in Atlanta.
+11860553 11862509 Let me show you the books...
+11862713 11865227 ...so you can see how bad<br />a businessman I am.
+11865473 11868943 Don"t let"s fool with any books today.<br />When l"m wearing a new bonnet...
+11869193 11871991 ...all the figures I ever knew go<br />right out of my head.
+11872193 11875344 Figures are well lost when<br />the bonnet"s as pretty as that.
+11875593 11879142 Scarlett, you know,<br />you get prettier all the time.
+11879393 11883352 You haven"t changed a bit since<br />our last barbecue at Twelve Oaks...
+11883593 11886903 ...where you sat under a tree<br />surrounded by dozens of beaus.
+11888393 11890702 That girl doesn"t exist anymore.
+11891313 11895101 Nothing"s turned out as I expected,<br />Ashley. Nothing.
+11895753 11899712 Yes, we"ve traveled a long road<br />since the old days, haven"t we?
+11899913 11901471 The lazy days...
+11901753 11904506 ...the warm, still,<br />country twilight...
+11904993 11907951 ...the high, soft Negro laughter<br />from the quarters...
+11908753 11912792 ...the golden warmth and security<br />of those days.
+11914073 11915904 Don"t look back, Ashley.
+11916113 11917910 Don"t look back.
+11919193 11921502 It drags at your heart till...
+11921793 11924023 ...you can"t do anything<br />but look back.
+11928673 11930903 I didn"t mean to make you sad,<br />my dear.
+11931873 11935502 I never want you to be anything<br />but completely happy.
+11957793 11958703 Who is it?
+11958913 11960505 Only your husband.
+11961113 11962512 Come in.
+11963073 11966304 Am I actually being invited<br />into the sanctuary?
+11967113 11969104 You"re not ready for Melanie"s party.
+11969313 11970541 l"ve got a headache.
+11970793 11974103 You go without me<br />and make my excuses to Melanie.
+11975113 11977752 What a white-livered<br />little coward you are!
+11977993 11980826 You"re going to that party<br />and you"ll have to hurry.
+11981073 11982552 - Has India dared...?<br />- India has.
+11982793 11985944 - Everyone in town knows the story.<br />- Kill them for spreading lies.
+11986193 11988707 I don"t kill<br />people who tell the truth.
+11988913 11989948 No time to argue.
+11990193 11993310 I won"t go! I can"t go until<br />this misunderstanding clears up.
+11993553 11997023 You won"t cheat Melly out of publicly<br />ordering you out of her house.
+11997273 12000709 There was nothing wrong.<br />India hates me so. I can"t go.
+12000913 12004223 If you don"t show your face tonight,<br />you"ll never be able to again.
+12004473 12006907 I don"t care,<br />but you won"t ruin Bonnie"s chances.
+12007153 12009906 You"re going to that party,<br />for her sake. Get dressed.
+12023353 12026902 Wear that. Nothing modest or matronly<br />will do for this occasion.
+12027113 12030901 And put on plenty of rouge.<br />I want you to look your part tonight.
+12037033 12039501 <i>For he's a jolly good fellow</i>
+12039753 12041823 <i>For he's a jolly good fellow</i>
+12042073 12044906 <i>For he's a jolly good fellow</i>
+12045113 12047149 <i>Which noBody can deny</i>
+12047393 12049509 <i>Which noBody can deny</i>
+12049753 12051744 <i>Which noBody can deny</i>
+12055793 12057943 - Good night, Scarlett.<br />- But, Rhett...
+12058193 12060946 You"re going into the arena alone.<br />The lions are hungry.
+12061193 12062626 Don"t leave me. Don"t.
+12062873 12064511 You"re not afraid?
+12089593 12091709 What a lovely dress, darling.
+12091953 12094547 India wasn"t able to come.<br />Will you be an angel?
+12094793 12098547 I do need you to help me<br />receive my guests.
+12100873 12102306 Mrs. Meade...
+12102593 12104709 ...here"s our darling Scarlett.
+12105993 12108063 - Good evening.<br />- Good evening.
+12108393 12110429 - Why, Scarlett.<br />- Good evening.
+12113593 12117302 Ashley, aren"t you going to get<br />our Scarlett a glass of punch?
+12124233 12126952 Did you have a good time<br />at Miss Melly"s party?
+12127193 12129753 Yes. Now, Mammy,<br />be sure and leave word.
+12129993 12133702 If Captain Butler asks for me<br />when he comes back, l"m asleep.
+12162593 12164709 Come in, Mrs. Butler.
+12172953 12174306 Come here.
+12189153 12190506 Sit down.
+12192873 12196229 No reason you shouldn"t<br />have a nightcap, even if I am here.
+12196473 12198304 I didn"t want a drink.<br />I heard a noise...
+12198553 12200544 You heard nothing of the kind.
+12200793 12203307 You wouldn"t have come<br />if you thought I was here.
+12203553 12205544 - You must need a drink badly.<br />- I do not.
+12205753 12208313 Take it. Don"t give yourself airs.
+12208553 12211704 I know you drink on the quiet,<br />and I know how much you drink.
+12211913 12214711 Do you think I care if you like<br />your brandy?
+12220993 12223746 - You"re drunk and l"m going to bed.<br />- L"m very drunk...
+12223993 12227542 ...and I intend getting still drunker<br />before the evening"s over.
+12227793 12229545 But you"re not going to bed.
+12229793 12231306 Not yet.
+12231593 12232912 Sit down.
+12235793 12238512 So she stood by you, did she?
+12238793 12242581 How"s it feel to have the woman<br />you"ve wronged cloak your sins?
+12243913 12246746 You"re wondering if she knows<br />all about you and Ashley.
+12246993 12249871 You"re wondering if she did it<br />just to save face.
+12250073 12253509 You"re thinking she"s a fool for<br />doing it, even if it saved your hide...
+12253753 12256267 - I will not listen.<br />- Yes, you"ll listen.
+12256753 12259711 Miss Melly"s a fool,<br />but not the kind you think.
+12259953 12264868 She has too much honor to conceive<br />of dishonor in anyone she loves.
+12265153 12267109 And she loves you.
+12267353 12270186 Though just why she does,<br />l"m sure I don"t know.
+12271193 12274549 If you weren"t so drunk and insulting,<br />I could explain everything.
+12274793 12278103 - As it is, though...<br />- You get out of that chair once more...
+12281753 12286668 Of course, the comic figure in all<br />this is the long-suffering Mr. Wilkes.
+12287193 12290503 Mr. Wilkes, who can"t be<br />mentally faithful to his wife...
+12290713 12293511 ...and won"t be unfaithful to her<br />technically.
+12294393 12297510 - Why doesn"t he make up his mind?<br />- Rhett, you...
+12300393 12302987 Observe my hands, my dear.
+12303673 12306312 I could tear you to pieces with them.
+12306673 12310586 And l"d do it if it"d take<br />Ashley out of your mind forever.
+12311113 12312512 But it wouldn"t.
+12313353 12317585 So l"ll remove him<br />from your mind forever, this way.
+12318193 12320502 l"ll put my hands so.
+12320913 12323711 One on each side of your head.
+12323993 12328350 And l"ll smash your skull<br />between them like a walnut.
+12328593 12330709 And that"ll block him out.
+12331993 12335110 Take your hands off me,<br />you drunken fool!
+12339713 12343103 You know, l"ve always admired<br />your spirit, my dear.
+12343673 12346346 Never more than now,<br />when you"re cornered.
+12346993 12348108 l"m not cornered.
+12348353 12350913 You"ll never corner me or frighten me.
+12351153 12354350 You"ve lived in dirt so long,<br />you can"t understand anything else.
+12354593 12357505 You"re jealous of something<br />you can"t understand.
+12357753 12358902 Good night.
+12360593 12361912 Jealous, am I?
+12362113 12364183 Yes, I suppose I am.
+12364473 12367624 Even though I know you"ve been<br />faithful to me all along.
+12367873 12368942 How do I know?
+12369193 12372503 Because I know Ashley Wilkes<br />and his honorable breed.
+12372713 12374305 They"re gentlemen.
+12374513 12377744 That"s more than I can say<br />for you or for me.
+12377993 12381986 We"re not gentlemen.<br />And we have no honor, have we?
+12390593 12392709 It"s not that easy, Scarlett.
+12396673 12400427 You turn me out while you chase<br />Ashley, while you dream of Ashley.
+12400673 12403312 This is one night<br />you"re not turning me out.
+12429913 12431824 How are you feeling this morning?
+12432073 12434712 Well, this misery in my back...
+12434913 12436505 ...ain"t so good.
+12438753 12440948 You act mighty happy this morning.
+12441193 12443309 I am, Mammy. I am.
+12449393 12454308 <i>Oh, she wept with delight</i><br /><i>When he gave her a smile</i>
+12454593 12459269 <i>And tremBled with fear at his frown</i>
+12475153 12476506 Hello.
+12478913 12482030 l"d like to extend my apology<br />for my conduct of last night.
+12482593 12483708 Oh, but, Rhett.
+12484193 12486229 I was very drunk...
+12486513 12488981 ...and quite swept off my feet<br />by your charms.
+12491073 12494270 You needn"t bother to apologize.<br />Nothing you do surprises me.
+12494793 12498832 l"ve been thinking, and I believe<br />it would be better for both of us...
+12499073 12501746 ...if we admitted we made a mistake<br />and got a divorce.
+12501993 12503312 - A divorce?<br />- Yes.
+12503553 12505908 There"s no point in holding on<br />to each other.
+12506153 12508383 l"ll provide for you.<br />You"ve plenty of grounds.
+12508633 12511147 Just give me Bonnie,<br />and you can say what you please.
+12511393 12515511 Thank you, but I wouldn"t dream of<br />disgracing the family with a divorce.
+12516113 12518422 You"d disgrace it<br />if Ashley were free.
+12518673 12521824 Makes my head spin to think<br />how quickly you"d divorce me.
+12522473 12523269 Wouldn"t you?
+12525273 12526911 Answer me. Wouldn"t you?
+12527553 12529430 Please go now and leave me alone.
+12531153 12533223 l"m going. That"s what I came<br />to tell you.
+12534313 12536622 l"m going on a very extended trip<br />to London.
+12536873 12538545 And l"m leaving today.
+12538873 12542752 l"m taking Bonnie with me.<br />Please get her duds packed right away.
+12542993 12545302 You"ll never take my child<br />out of this house.
+12545513 12549142 She"s my child too. You"re mistaken<br />if you think l"m leaving her here...
+12549393 12551907 ...with a mother who doesn"t<br />consider her reputation.
+12552153 12553745 You"re a fine one to talk.
+12553953 12558185 You think l"ll let her out when you"ll<br />have her around people like Belle?
+12559073 12561507 If you were a man,<br />l"d break your neck for that.
+12561713 12563669 l"ll thank you to shut your mouth.
+12563873 12566433 As for you giving yourself<br />airs about motherhood...
+12566673 12568629 ...a cat"s a better mother<br />than you are.
+12568873 12571626 Have her things packed for me<br />in an hour, or I warn you...
+12571873 12575502 ...l"ve always thought a lashing with<br />a whip would benefit you immensely.
+12580833 12582061 Excuse me, Mr. Rhett.
+12582993 12585223 - Hello, Uncle Rhett.<br />- Hello, Beau.
+12585473 12590308 Daddy, where have you been?<br />l"ve been waiting for you all morning.
+12590553 12594023 l"ve been hunting for a rabbit skin<br />to wrap my little Bonnie in.
+12594273 12596104 Give your best sweetheart a kiss.
+12599193 12602742 l"m going to take you<br />on a long trip to fairyland.
+12603153 12604825 Where? Where?
+12605073 12608304 l"ll show you the Tower of London,<br />where the little princes were...
+12608553 12610305 ...and London Bridge.
+12610513 12613983 London Bridge?<br />Will it be falling down?
+12615073 12617587 Well, it will<br />if you want it to, darling.
+12619793 12622910 Daddy, dark!
+12623153 12624586 Dark!
+12627713 12630910 It"s all right, Bonnie.<br />Who put out that light? Nurse!
+12636193 12638024 What"s the matter with my Bonnie?
+12638273 12639752 A bear!
+12639993 12642143 A bear? A big bear?
+12642393 12643621 Dreadful big!
+12643833 12645824 And he sat on my chest!
+12646073 12649304 l"ll stay here and shoot him<br />if he comes back.
+12662993 12665109 Good evening, Mr. Butler.
+12667673 12670312 I told you never to leave<br />this child alone in the dark.
+12670513 12673983 Children are often afraid of the dark,<br />but they get over it.
+12674193 12675751 Let her scream for a night...
+12675993 12677108 Let her scream?
+12677313 12679543 Either you"re a fool<br />or an inhuman woman.
+12679793 12682148 If you want her<br />to grow up cowardly...
+12682393 12685624 Cowardly? There isn"t<br />a cowardly bone in her body.
+12685873 12687431 You"re discharged.
+12687673 12689311 As you say, sir.
+12705113 12706546 Where"s Mother?
+12712833 12714744 Aren"t you happy here<br />in London with me?
+12715473 12718385 I wanna go home.
+12729593 12733188 Miss Bonnie! And Captain Butler!
+12734073 12735062 Hello, Mammy!
+12735313 12737031 Honey child!
+12737873 12742503 Miss Scarlett, they"s back.<br />They"s back!
+12742713 12744669 Bonnie! Bonnie, baby.
+12744913 12747347 Darling baby!<br />You glad to be home?
+12747593 12749424 Daddy gave me a kitten.
+12749633 12753387 But London"s a horrid place.
+12753593 12756630 Where"s my pony?<br />I wanna go out and see my pony.
+12756833 12758949 You go out and see your pony.
+12767313 12769224 Where"s my pony?
+12769873 12771750 I want to go out and see my pony.
+12772273 12773865 You run along with Mammy.
+12774113 12778425 Come on, honey child.<br />Mammy sure missed you, honey.
+12779513 12781629 Mrs. Butler, I believe.
+12781993 12784223 Mammy said you"d come back.
+12784553 12785781 Only to bring Bonnie.
+12786233 12790021 Apparently any mother,<br />even a bad one, is better than none.
+12790233 12791746 You"re going away again?
+12792313 12794827 What perception, Mrs. Butler.<br />Right away.
+12795313 12797827 In fact, I left my bags<br />at the station.
+12799313 12802271 You"re looking pale.<br />Is there a shortage of rouge?
+12802513 12805471 Or can this wanness mean<br />you"ve been missing me?
+12805713 12807066 If l"m pale, it"s your fault.
+12807313 12810430 Not because l"ve been<br />missing you, but because...
+12813793 12816023 Pray continue, Mrs. Butler.
+12816513 12819152 It"s because l"m going to have a baby.
+12824393 12827430 Indeed. And who"s the happy father?
+12828273 12831345 You know it"s yours.<br />I don"t want it any more than you do.
+12831593 12834232 No woman would want the child<br />of a cad like you.
+12834433 12837027 I wish it were anybody"s<br />child but yours!
+12838233 12841031 Well, cheer up.<br />Maybe you"ll have an accident.
+12854633 12856225 Is she better?
+12859993 12861142 Has she asked for me?
+12861393 12864226 Don"t you understand?<br />She"s delirious.
+12865033 12867547 Rhett...
+12867793 12869670 I want Rhett!
+12873433 12876630 What"s the matter, honey?<br />Did you call somebody, child?
+12876873 12881230 It"s no use. It"s no use!
+12901833 12903824 Dr. Meade"s left.
+12904313 12907623 - Scarlett"s dead.<br />- Oh, no, she"s much better.
+12907833 12909630 Really she is.
+12925273 12928026 There, there, Captain Butler,<br />you"re beside yourself.
+12928233 12931066 She"ll very soon be well again.<br />I promise you.
+12931273 12933264 She never wanted this baby.
+12933473 12936033 Not want a baby?<br />Why, every woman wants a baby.
+12936233 12938827 You do, but she doesn"t.<br />Not my children.
+12939033 12940910 She told me she didn"t want any more.
+12941113 12944264 I wanted to hurt her because<br />she"d hurt me. And I did.
+12944513 12947471 You mustn"t tell me these things.<br />It"s not fair to...
+12947713 12950273 I didn"t know about this baby<br />until she fell.
+12950513 12953107 If l"d only known,<br />l"d have come straight home.
+12953313 12955144 Well, of course you would.
+12955393 12958669 And then when she told me<br />there on the steps, what did I do?
+12958993 12961427 What did I say?<br />I laughed and I said...
+12961633 12964431 But you didn"t mean it.<br />I know you didn"t mean it.
+12964633 12967431 But I did mean it.<br />I was crazy with jealousy.
+12967633 12971421 She"s never cared for me. I tried<br />to make her care, but I couldn"t.
+12972913 12974187 You"re so wrong.
+12974393 12978625 Scarlett loves you a great deal.<br />Much more than she knows.
+12979193 12982981 If that were true, l"d wait forever.<br />If she"d only forgive me.
+12983193 12987027 She will. You must be patient.
+12988393 12993308 No, it"s not possible. If you<br />only knew who she really loved...
+12994393 12996031 You wouldn"t believe it.
+12998833 13001142 Surely you haven"t<br />listened to idle gossip.
+13001393 13004829 No, Captain Butler.<br />I wouldn"t believe it.
+13005713 13010229 There, there. Scarlett"s going to get<br />well, and there can be other babies.
+13011073 13013633 She couldn"t even if she wanted to.
+13013873 13017343 But of course she could!<br />l"m going to.
+13020513 13023664 No, Miss Melly, you mustn"t risk it.<br />It"s too dangerous.
+13023913 13026746 Children are life renewing itself,<br />Captain Butler.
+13026993 13031623 And when life does that,<br />danger seems very unimportant.
+13033313 13036828 l"ve never before known anyone<br />who was really brave.
+13037073 13039871 I pray God things go well<br />with you, Miss Melly.
+13040113 13044231 And I want to thank you for all<br />you"ve done for me and for Scarlett.
+13044913 13047029 From my heart, I thank you.
+13053193 13056390 Miss Scarlett"s feeling<br />a heap better today, Mr. Rhett.
+13056593 13058026 Thank you, Mammy.
+13064833 13066824 l"ve come to ask your forgiveness...
+13067033 13069547 ...hoping our life together<br />has another chance.
+13069793 13073627 Our life together? When did we<br />ever have a life together?
+13074833 13076551 Yes, you"re right.
+13076793 13080468 But l"m sure if we could only try<br />again, we could be happy.
+13080713 13082510 What is there to make<br />us happy now?
+13083833 13086631 Well, there"s Bonnie...
+13087033 13088751 ...and I love you, Scarlett.
+13089113 13090671 When did you discover that?
+13090913 13094826 l"ve always loved you, but you"ve<br />never given me a chance to show it.
+13096633 13098828 And just what do you want me to do?
+13099873 13103627 To begin with, give up the mill,<br />Scarlett. We"ll go away.
+13103873 13105864 We"ll take Bonnie<br />and have another honeymoon.
+13106113 13108673 Give up the mill?<br />lt"s making more money than ever.
+13108913 13111302 I know, but we don"t need it.<br />Sell it.
+13111833 13115143 Or give it to Ashley.<br />Melanie"s been such a friend to us.
+13115393 13117827 Melanie!<br />If you"d only think more about me!
+13118113 13119990 I am thinking of you.
+13120513 13122265 And l"m thinking that...
+13123673 13126585 ...maybe the mill"s taking you<br />away from me and Bonnie.
+13127313 13129827 I know what you"re thinking.<br />Don"t bring Bonnie into it.
+13130033 13132672 - You"re taking her away from me.<br />- But she loves you.
+13132913 13136428 You"ve made her love you and not me.<br />She"s so spoiled now, that...
+13136633 13139431 Mommy, Daddy! Watch me.
+13139673 13140947 We"re watching, darling.
+13141473 13143065 You"re mighty pretty, precious.
+13143313 13144746 So are you.
+13144993 13147791 l"m going to jump.<br />Watch me, Daddy.
+13148033 13150627 I don"t think you ought<br />to do much jumping yet.
+13150833 13152789 You just learned<br />to ride sidesaddle.
+13153233 13154427 I will so jump.
+13154633 13157272 I can jump better than ever,<br />because l"ve grown.
+13157513 13158832 I moved the bar higher.
+13159073 13160552 Don"t let her do it.
+13160793 13162431 No, Bonnie, you can"t.
+13162633 13164669 If you fall off,<br />don"t cry and blame me!
+13165633 13168431 Rhett, stop her.
+13173113 13175024 She"s just like Pa.
+13177913 13179824 Just like Pa...!
+13208313 13211828 Lordy, Miss Melly.<br />I sure is glad you"s come.
+13213793 13216261 This house won"t seem<br />the same without Bonnie.
+13216513 13218344 How"s Miss Scarlett bearing up?
+13218593 13221551 Miss Melly, this here"s<br />done broke her heart.
+13221793 13224068 I didn"t fetch you<br />on Miss Scarlett"s account.
+13224313 13229228 What that child got to stand, the<br />good Lord give her strength to stand.
+13229713 13232432 It"s Mr. Rhett l"s worried about.
+13235313 13237873 He done lost his mind<br />these last couple of days.
+13239713 13244070 I ain"t never seen no man, black or<br />white, set such store on any child.
+13244273 13246468 When Dr. Meade say her neck broke...
+13246673 13250871 ...Mr. Rhett grabbed his gun and run<br />out and shoot that poor pony.
+13251113 13254230 And for a minute,<br />I think he gonna shoot hisself.
+13254473 13255952 Oh, poor Captain Butler.
+13256193 13260630 Miss Scarlett called him a murderer<br />for teaching that child to jump.
+13260833 13263552 She said, You give me my baby<br />what you killed.
+13263793 13267752 And then he say Miss Scarlett ain"t<br />never cared nothing about Miss Bonnie.
+13267993 13271668 It like to turn my blood cold,<br />the things they say to one another.
+13271913 13274632 Stop, Mammy, don"t tell me any more.
+13277073 13278825 And then that night...
+13279873 13283388 ...Mr. Rhett, he locked hisself<br />in the nursery with Miss Bonnie.
+13284473 13287749 He wouldn"t open the door when<br />Miss Scarlett beat on it and hollered.
+13287993 13291030 And that"s where he"s been<br />for two whole days.
+13292513 13296062 This evening, Miss Scarlett shouted<br />through the door and said...
+13296313 13297985 ...The funeral"s set for tomorrow.
+13298193 13300753 He says, You try that,<br />and I kills you tomorrow.
+13301113 13303707 Do you think l"s gonna<br />put my child...
+13303913 13307189 ...in the dark when she"s so<br />scared of it?
+13307393 13310430 - He has lost his mind!<br />- Yes"m, that"s the God"s truth.
+13310673 13314427 He ain"t gonna let us bury that<br />child. You gotta help us.
+13314633 13316066 But I can"t intrude.
+13316313 13318031 If you can"t help us, who can?
+13318273 13321629 Mr. Rhett always set great store<br />by your opinion.
+13323313 13325224 Please, Miss Melly.
+13326073 13329031 l"ll do what I can, Mammy.
+13334633 13336669 Get away from that door<br />and leave us alone.
+13336913 13338824 It"s Mrs. Wilkes, Captain Butler.
+13339073 13342622 Please let me in.<br />l"ve come to see Bonnie.
+13362793 13367309 Oh, Lord, please help Mr. Rhett<br />in this hour of his grief.
+13378833 13381825 I want you to make a good deal<br />of strong coffee...
+13382033 13386424 ...and bring it up to Captain Butler.<br />l"ll go and see Miss Scarlett.
+13387113 13391425 Captain Butler"s willing for the funeral<br />to take place tomorrow morning.
+13391673 13396224 Hallelujah! I expect the angels<br />fights on your side, Miss Melly.
+13404033 13407912 Send for Dr. Meade, Mammy.<br />And try...
+13408113 13410024 ...try to get me home.
+13420113 13422229 Where is my mother going away to?
+13422473 13425624 And why can"t I go along, please?
+13425833 13430031 We can"t always go along, Beau,<br />as much as we may want to.
+13430673 13432664 You"re going back to bed now.
+13433513 13436869 She can"t be dying. She can"t be.
+13437113 13439832 She hasn"t your strength.<br />She"s never had any.
+13440073 13443429 - She"s never had anything but heart.<br />- You knew that too?
+13443673 13446471 Why do I have to go back to bed?<br />lt"s morning.
+13447113 13448705 It isn"t really morning yet.
+13454993 13456472 You may come in now, Scarlett.
+13456713 13460262 Dr. Meade, please let me see her.<br />l"ve been waiting here two days.
+13460513 13463425 l"ve got to tell her<br />that I was wrong about something.
+13463633 13467023 She knows you were wrong.<br />She wants to see Scarlett.
+13470033 13473150 Miss Melly"s going to die in peace.<br />Don"t ease your conscience...
+13473393 13477432 ...telling her things that make no<br />difference now. You understand?
+13491033 13492830 It"s me, Melly.
+13493993 13495745 Promise me?
+13495993 13497426 Anything.
+13498113 13500547 Look after my little son.
+13501313 13505591 I gave him to you<br />once before. Remember?
+13506673 13508265 The day he was born.
+13508513 13512347 Please, Melly, don"t talk this way.<br />I know you"ll get well.
+13512593 13515232 Promise me... college.
+13515433 13519426 Yes, and Europe, and a pony.<br />Whatever he wants, but...
+13520593 13521946 ...oh, Melly, do try.
+13522193 13524024 Ashley...
+13525033 13526625 Ashley and you...
+13528833 13531905 What about Ashley, Melly?
+13532713 13535511 Look after him for me...
+13535713 13539501 ...just as you looked after me...
+13540673 13541788 ...for him.
+13543633 13545225 I will, Melly.
+13546073 13548029 Look after him...
+13548473 13552227 ...but never let him know.
+13560913 13562631 Good night.
+13563713 13566068 Promise?
+13566273 13568264 What else, Melly?
+13568513 13570629 Captain Butler.
+13571593 13574903 - Be kind to him.<br />- Rhett?
+13575513 13578425 He loves you so.
+13581393 13583224 Yes, Melly.
+13585233 13587030 Goodbye.
+13604313 13606429 You ladies may come in now.
+13613673 13616824 I don"t know where<br />the mate to this is.
+13617033 13619422 She must"ve put it away.
+13620313 13624704 Stop it! Hold me. L"m so frightened!
+13626313 13628622 l"m so frightened!
+13632713 13636831 Scarlett, what can I do?<br />I can"t live without her. I can"t!
+13637873 13641832 Everything I ever had<br />is going with her.
+13644913 13647427 You really love her, don"t you?
+13647633 13652548 She"s the only dream I ever had that<br />didn"t die in the face of reality.
+13652913 13656064 Dreams. Always dreams with you.<br />Never common sense.
+13656313 13659430 Scarlett, if you knew what<br />l"ve gone through!
+13660033 13663867 Ashley, you should"ve told me years<br />ago that you loved her and not me.
+13664113 13667025 And not left me dangling<br />with your talk of honor.
+13667233 13670828 But you had to wait till now,<br />now when Melly"s dying...
+13671033 13674230 ...to show me that I could never<br />mean any more to you...
+13674473 13676828 ...than this Watling woman<br />does to Rhett.
+13678713 13683423 And l"ve loved something<br />that doesn"t really exist.
+13685513 13687026 But somehow...
+13688033 13689625 ...I don"t care.
+13690833 13692824 Somehow, it doesn"t matter.
+13694513 13696822 It doesn"t matter one bit.
+13700913 13702665 Ashley, forgive me.
+13702913 13706269 Don"t cry. She mustn"t see<br />you"ve been crying.
+13724673 13726425 Rhett, where are you?
+13730233 13732224 Rhett, wait for me!
+13736513 13738424 Rhett, wait for me!
+13768273 13769626 Come in.
+13778633 13781022 Melanie, she"s...?
+13783713 13785226 Well, God rest her.
+13785633 13788830 She was the only completely<br />kind person I ever knew.
+13789273 13792822 A great lady. A very great lady.
+13795113 13798822 So she"s dead. That makes it<br />nice for you, doesn"t it?
+13799073 13803624 How can you say such a thing?<br />You know how I loved her, really.
+13803873 13805864 No, I don"t know that I do.
+13806113 13808673 It"s to your credit that<br />you could appreciate her.
+13808913 13813225 Of course I appreciated her. She<br />thought of everybody except herself.
+13813433 13817472 - Why, her last words were about you.<br />- What did she say?
+13817713 13820864 She said, Be kind to Captain Butler...
+13821113 13823024 ...he loves you so.
+13827673 13830028 - Did she say anything else?<br />- She said...
+13830793 13834024 She asked me to look after Ashley too.
+13835313 13838623 It"s convenient to have the first<br />wife"s permission, isn"t it?
+13840633 13842225 What do you mean?
+13844513 13846071 What are you doing?
+13846273 13847831 l"m leaving you, my dear.
+13848033 13852823 All you need now is a divorce, and<br />your dreams of Ashley can come true.
+13856913 13859108 No, you"re wrong.<br />Terribly wrong.
+13859353 13860468 I don"t want a divorce.
+13860713 13863625 When I knew tonight,<br />when I knew I loved you...
+13863873 13866626 ...I ran home to tell you.<br />Oh, darling, darling!
+13866873 13868226 Please don"t go on with this.
+13868433 13871948 Leave us some dignity out<br />of our marriage. Spare us this last.
+13872193 13876550 This last? Do listen to me! I must<br />have loved you for years, only...
+13876793 13878624 ...I was such a fool,<br />I didn"t know it.
+13878873 13883230 Please believe me. You must care.<br />Melly said you did.
+13883473 13886510 I believe you.<br />And what about Ashley Wilkes?
+13887073 13889428 I never really loved Ashley.
+13889633 13893023 You certainly gave a good imitation<br />of it, up to this morning.
+13894073 13896428 No, Scarlett. L"ve tried everything.
+13896633 13899466 If you"d met me halfway, even<br />when I came back from London.
+13899713 13903069 I was so glad to see you.<br />I was, Rhett, but you were so nasty.
+13903313 13906066 Then when you were sick,<br />and it was all my fault.
+13906313 13908873 I hoped that you"d call<br />for me. But you didn"t.
+13909113 13911946 I wanted you. I wanted you<br />desperately...
+13912153 13914269 ...but I didn"t think you wanted me.
+13914513 13917232 It seems we"ve been<br />at cross purposes, doesn"t it?
+13917473 13919225 But it"s no use now.
+13919473 13922749 As long as there was Bonnie,<br />we had a chance to be happy.
+13922993 13925951 I liked to think that Bonnie<br />was you, a little girl again.
+13926193 13928832 Before the war and poverty<br />had done things to you.
+13929073 13930665 She was so like you.
+13930873 13933990 And I could pet her and spoil her,<br />as I wanted to spoil you.
+13935593 13938232 But when she went, she took everything.
+13939313 13942350 Rhett, please don"t say that.<br />l"m so sorry.
+13942593 13945232 l"m so sorry for everything.
+13945873 13948023 My darling, you"re such a child.
+13948273 13953028 You think that by saying, l"m sorry,<br />all the past can be corrected.
+13954713 13957022 Here, take my handkerchief.
+13957233 13961431 Never, in any crisis of your life, have<br />I known you to have a handkerchief.
+13966113 13967831 Rhett, where are you going?
+13968033 13970467 l"m going to Charleston,<br />back where I belong.
+13970713 13972829 Please take me with you.
+13974073 13975791 l"m through with everything here.
+13976313 13978622 I want peace.<br />I want to see if somewhere...
+13978873 13982422 ...there isn"t something left<br />in life of charm and grace.
+13982673 13984391 You know what l"m talking about?
+13984593 13988347 - I only know that I love you!<br />- That"s your misfortune.
+14002913 14006622 If you go, where shall I go?<br />What shall I do?
+14006873 14009831 Frankly, my dear,<br />I don"t give a damn.
+14022513 14025425 I can"t let him go. I can"t!
+14025713 14028625 There must be some way<br />to bring him back.
+14030873 14034627 I can"t think about this now.<br />l"ll go crazy if I do.
+14035513 14037788 l"ll think about it tomorrow.
+14051393 14054066 But I must think about it!
+14054273 14056423 I must think about it.
+14057113 14059229 What is there to do?
+14060113 14062422 What is there that matters?
+14064873 14068752 <i>You mean to tell me, Katie Scarlett, </i><br /><i>that Tara doesn 't mean anything? </i>
+14068993 14073225 <i>Land's the only thing that matters. </i><br /><i>It's the only thing that lasts. </i>
+14073473 14076943 <i>Something you love Better than me, </i><br /><i>though you may not know it. Tara. </i>
+14077193 14080469 <i>It's where you get your</i><br /><i>strength, the red earth of Tara. </i>
+14080713 14084228 <i>Land's the only thing that matters. </i><br /><i>It's the only thing that lasts. </i>
+14084473 14087431 <i>Something you love Better than me, </i><br /><i>though you may not know it. </i>
+14087673 14090233 <i>... from which you get</i><br /><i>your strength. Tara. </i>
+14090433 14093345 <i>Land's the only thing that matters. </i>
+14093553 14095430 <i>... the red earth of Tara. </i>
+14099513 14101026 Tara!
+14101993 14103426 Home.
+14104273 14106025 l"ll go home.
+14106633 14109511 And l"ll think of some way<br />to get him back.
+14109713 14114628 After all, tomorrow is another day!
+14386193 14387182 English Subtitles by<br />Gelula/SDI
