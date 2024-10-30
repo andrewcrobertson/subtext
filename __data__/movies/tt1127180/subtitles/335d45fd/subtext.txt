@@ -1,0 +1,1579 @@
+2300 5928 <b><font color="#ca004b">[OMINOUS SYNTHESIZER MUSIC]</font></b>
+16063 18940 <b><font color="#ca004b">[FRENETIC VIOLIN MUSIC]</font></b>
+18941 20567 <b><font color="#ca004b">[GONG REVERBERATES]</font></b>
+20568 24530 <b><font color="#ca004b">[SUSPENSEFUL SYNTHESIZER MUSIC]</font></b>
+45468 49347 <b><font color="#ca004b">[SPEAKING IN FOREIGN LANGUAGE]</font></b>
+87718 90179 <b><font color="#ca004b">[FLY BUZZING]</font></b>
+95768 97979 <b><font color="#ca004b">[GROWLING]</font></b>
+115329 117706 <b><font color="#ca004b">[DOOR CLICKS]</font></b><br /><b><font color="#ca004b">[DOOR CREAKS]</font></b>
+117707 121585 <b><font color="#ca004b">[SPEAKING IN FOREIGN LANGUAGE]</font></b>
+127216 129217 <b><font color="#ca004b">[LOUD THUD]</font></b><br /><b><font color="#ca004b">[SCREAMING]</font></b>
+129218 130677 <b><font color="#ca004b">[SCREAMING IN FOREIGN LANGUAGE]</font></b>
+130678 132554 <b><font color="#ca004b">[LOUD SLAP]</font></b><br /><b><font color="#ca004b">[GROWLING]</font></b>
+132555 134932 <b><font color="#ca004b">[LOUD THUDS]</font></b>
+138602 139602 <b><font color="#ca004b">[SCREAMS]</font></b>
+139603 140437 No!
+140438 142856 <b><font color="#ca004b">[SCREAMING]</font></b>
+142857 146986 <b><font color="#ca004b">[LOUD THUD]</font></b><br /><b><font color="#ca004b">[GROANS]</font></b>
+148154 149404 No!
+149405 153367 <b><font color="#ca004b">[SCREAMING IN FOREIGN LANGUAGE]</font></b>
+156454 158497 <b><font color="#ca004b">[GROANS]</font></b>
+159540 160373 <b><font color="#ca004b">[FLOOR CREAKING]</font></b>
+160374 161207 <b><font color="#ca004b">[FLOOR RUMBLING]</font></b>
+161208 162042 <b><font color="#ca004b">[SCREAMS]</font></b>
+162043 163668 <b><font color="#ca004b">[SCREAMING IN FOREIGN LANGUAGE]</font></b>
+163669 164669 <b><font color="#ca004b">[SCREAMS]</font></b>
+171594 172886 <b><font color="#ca004b">[SCREAMS]</font></b><br /><b><font color="#ca004b">[ROARS]</font></b>
+172887 175055 <b><font color="#ca004b">[LOUD THUD]</font></b><br /><b><font color="#ca004b">[SCREAMS]</font></b>
+175056 179018 <b><font color="#ca004b">[SCREAMING IN FOREIGN LANGUAGE]</font></b>
+201791 206336 <b><font color="#ca004b">[SUSPENSEFUL ORCHESTRAL MUSIC]</font></b>
+206337 209548 <b><font color="#ca004b">[ELEGANT VIOLIN MUSIC]</font></b>
+235991 239703 <b><font color="#ca004b">[THRILLING ORCHESTRAL MUSIC]</font></b>
+340971 343139 <b><font color="#cf685c">INSTRUCTOR:</font></b> Repeat the following phrases
+343140 345558 precisely as spoken.
+345559 349020 There is no friction<br />with the proper diction.
+349021 352523 <b><font color="#cf685c">CHRISTINE:</font></b> There is no friction<br />with the proper diction.
+352524 356527 <b><font color="#cf685c">INSTRUCTOR:</font></b> Good sounds abound<br />when the mouth is round.
+356528 360241 Good sounds abound<br />when the mouth is round.
+361367 364494 Round.
+364495 367539 <b><font color="#ca004b">[GENTLE PIANO MUSIC]</font></b>
+385766 387267 I think we can make this work.
+387268 389394 I'll call you this<br />afternoon and let you know.
+389395 390478 - Thank you so much.<br />- Thank you.
+390479 392939 - You're welcome.<br />- Thank you.
+392940 394232 - Thank you.<br />- Have a great day.
+394233 395066 - Thank you.<br />- Yeah, you, too.
+395067 396025 Have a good day.
+396026 397236 Thank you.<br />Bye.
+409957 411332 <b><font color="#cf685c">WOMAN:</font></b> Here you go, Mr. Jacks.
+411333 413294 <b><font color="#cf685c">MR. JACKS:</font></b> Thank you.
+415296 416296 Mr. Jacks?
+417798 420258 I was wondering if you'd<br />made any decision regarding
+420259 422302 the assistant manager's position.
+422303 424012 Oh, well, I'm still deciding,
+424013 426806 and right now, it's<br />between Stu and yourself.
+426807 428099 Stu Rubin, the new guy?
+428100 428933 Well, I know he's new,
+428934 431978 but he's also quite<br />aggressive, and we like that.
+431979 433438 You know, Stu's someone who's not afraid
+433439 436649 to crunch the numbers and<br />make the tough decisions.
+436650 439277 I'm perfectly capable of<br />making the tough decisions.
+439278 441696 I'll let you know as soon as I decide.
+441697 442697 Okay?
+443532 444699 In the meantime, take him through
+444700 449203 our loan qualifying procedures,<br />just in case, all right?
+449204 450204 Okay.
+451623 453374 <b><font color="#cf685c">MR. JACKS:</font></b> Oh, and would you mind taking
+453375 454917 your lunch break now?
+454918 455918 Sure.
+455919 456961 And maybe on your way back,
+456962 459130 you could pick me up a turkey club?
+459131 461466 Turkey club, excellent choice.
+461467 462550 You mind picking one up for me?
+462551 463551 Thanks.
+464553 466013 And spicy mustard.
+467473 468639 - What have you got?<br />- Get your approval on this?
+468640 470016 This is the loan we talked
+470017 470850 about before.<br />- Oh, the loan.
+470851 471851 Exactly.
+472770 473811 Big one, huh?
+473812 474645 <b><font color="#cf685c">MR. JACKS:</font></b> 1.5.
+474646 478025 <b><font color="#cf685c">STU:</font></b> Absolutely, it'll be one of many.
+480027 480985 Well, Professor,
+480986 483488 congratulations on making<br />it through your first week.
+483489 485531 Thank you very much.
+485532 486783 Mm.
+486784 488951 <b><font color="#cf685c">CHRISTINE:</font></b> Thought you'd have a full beard by now.
+488952 489994 So did I.
+489995 491537 I'm a little disappointed.
+491538 492705 Oh, man, this thing.
+492706 493539 <b><font color="#ca004b">[PRINTER WHIRS]</font></b>
+493540 494374 That's it.<br />I'm done.
+494375 495375 I'm out.
+496085 498836 Chris, don't even bother.
+498837 500296 I gotta get a new one.
+500297 501631 I'm telling you, you're<br />gonna drive yourself nuts.
+501632 505761 <b><font color="#ca004b">[LOUD CLACK]</font></b><br />It's completely broken.
+508472 509806 Was broken.
+509807 513268 You are cocky and sexy and unbelievable.
+515062 517188 I almost forgot.
+517189 519190 Found it at the bank.
+519191 520401 What is this?
+522152 523361 No way!
+523362 525446 Wow, it's a 1929 Standing Liberty,
+525447 527490 and it's almost fully struck.
+527491 529367 You found this in regular<br />circulation at the bank?
+529368 530410 I did.
+530411 534539 I'm gonna add this to<br />my nerdy coin collection.
+534540 535832 - Okay.<br />- Thank you, baby.
+535833 538251 Thanks for thinking of me.
+538252 539210 <b><font color="#ca004b">[PHONE RINGS]</font></b>
+539211 540044 All right.
+540045 541003 - Bye.<br />- Bye.
+541004 544550 - See you later.<br />- I'll see you later, okay?
+545551 546384 Dr. Dalton.
+546385 548636 - Hello, dear.<br />- Oh, hi, Mom.
+548637 550012 <b><font color="#cf685c">MOTHER:</font></b> What are you doing?
+550013 551597 <b><font color="#cf685c">CLAY:</font></b> Christine just came over,<br />brought some lunch, and
+551598 552807 I'm correcting some papers.<br />- Christine?
+552808 554142 Oh, the one from the farm?
+554143 555810 <b><font color="#cf685c">CLAY:</font></b> Yeah, Mom, the girl I've been dating
+555811 558688 for almost a year,<br />the girl who's coming for dinner.
+558689 559647 We're still on for dinner?<br />- I'm sure she's
+559648 560565 a very sweet girl.
+560566 561399 She is.
+561400 562483 I can't wait for you to--<br />- But, you know, your father
+562484 564777 and I just have certain<br />expectations for you.
+564778 565611 <b><font color="#cf685c">CLAY:</font></b> I can't really do
+565612 566737 the expectations.<br />- I understand Amy Kulick is
+566738 568489 looking for someone to play tennis with.
+568490 569824 - Yeah, I.<br />- You know, she graduated
+569825 571534 from Yale Law with honors,
+571535 573786 and she's a very successful attorney now.
+573787 575288 <b><font color="#cf685c">CLAY:</font></b> I know.<br />You told me.
+575289 576539 <b><font color="#cf685c">MOTHER:</font></b> Yeah, that's the kind of girl
+576540 578416 I would love to see you with.
+578417 579709 - Mother--<br />- She's the kind of woman
+579710 582628 who could really help you socially
+582629 584547 and, as a result, in your career.
+584548 585423 And that's the kind of thing
+585424 586716 you should be thinking about now.
+586717 587758 <b><font color="#cf685c">CLAY:</font></b> Mother, I don't wanna--
+587759 589093 <b><font color="#cf685c">MOTHER:</font></b> You can't be playing around
+589094 590720 with little girls off the farm.
+590721 591554 <b><font color="#cf685c">CLAY:</font></b> I think you're really gonna like--
+591555 595350 <b><font color="#cf685c">MOTHER:</font></b> It's time to really find a partner.
+598479 602356 Mm, Christine, you messed up my order.
+602357 603983 No, I didn't.
+603984 605861 Yeah, I said no mayo.
+607821 609615 You never said that.
+612284 613117 Know what?<br />Don't sweat it.
+613118 614118 It's okay.
+622920 625130 <b><font color="#ca004b">[CHUCKLES]</font></b>
+630052 632762 <b><font color="#cf685c">STU:</font></b> Mr. Jacks, by the way,<br />aren't you a Laker fan?
+632763 633804 <b><font color="#cf685c">MR. JACKS:</font></b> I am a Laker fan.
+633805 635348 My mom is having this thing on Sunday.
+635349 636307 I can't use these.
+636308 637475 - Are you serious?<br />- Yeah.
+637476 638726 Absolutely, you want them?<br />- These are great seats!
+638727 639602 They are great seats.
+639603 640436 <b><font color="#cf685c">MR. JACKS:</font></b> This is where they bring
+640437 641604 the hot dogs right to you.<br />- Yes, it is.
+641605 643064 You are gonna hobnob with celebs.
+643065 644023 <b><font color="#cf685c">MR. JACKS:</font></b> You sure that's okay?
+644024 645149 <b><font color="#cf685c">STU:</font></b> Absolutely, it's okay.
+645150 646150 Yeah.<br />- Well, thank you, Stu.
+646151 647735 Take them. Absolutely.<br /><b><font color="#ca004b">[TAPPING]</font></b>
+647736 650614 Say hey to Kobe for me.<br />- Of course.
+654284 655827 Will you help me?
+656745 657578 Of course.
+657579 658621 What can I do for you?
+658622 660915 Your trucks are at my house.
+660916 665253 The men are packing all<br />my things, private things.
+665254 667630 Please, make them stop.
+667631 669841 <b><font color="#ca004b">[COUGHING]</font></b>
+673387 674303 Mrs.--
+674304 675263 Ganush.
+675264 676681 <b><font color="#ca004b">[HAWKING]</font></b>
+676682 680059 Mrs. Ganush, the bank is<br />informing you of their intent
+680060 683771 to repossess your property<br />at 325 Brandon Street today.
+683772 686650 But this is my home for 30 years.
+687776 691905 And I make every payment until<br />the sickness took my eye.
+692906 694574 I hope to have more money soon.
+694575 697243 I just need a little more time.
+697244 698494 You--<br />- I don't think my manager's
+698495 701289 going to extend you any more credit.
+701290 702331 Oh.
+702332 704792 Please.<br /><b><font color="#ca004b">[SQUISHING]</font></b>
+704793 705919 Won't you try?
+710924 712425 Okay.
+712426 713426 Bless you.
+715012 716012 Bless you!
+722102 724186 We have an elderly woman<br />asking for an extension
+724187 726272 on her mortgage payment.
+726273 727273 She's on a fixed income,
+727274 729859 and she's had some medical problems.
+729860 733905 There's gotta be something<br />we can do to help her.
+735616 737909 <b><font color="#ca004b">[SQUISHING]</font></b>
+739536 741329 Well, apparently, we've already granted
+741330 743080 her two extensions.
+743081 744790 And, you know, on this<br />type of foreclosure,
+744791 746959 we seize the trapped equity
+746960 749587 and the bank makes a<br />sizable amount in fees.
+749588 751839 We would have to throw<br />her out of her house.
+751840 753800 It's a tough decision.
+754968 755968 Your call.
+768315 771360 <b><font color="#ca004b">[GENTLE PIANO MUSIC]</font></b>
+781620 783497 I'll take care of it.
+792589 794883 <b><font color="#ca004b">[SQUISHING]</font></b>
+803558 805142 Mrs. Ganush.
+805143 806477 I'm sorry, Mrs. Ganush,
+806478 809313 but another extension on the<br />loan is out of the question.
+809314 810231 What?
+810232 812024 I would like to help,<br />but it is in the bank's--
+812025 815277 No, please, this is my home.
+815278 816738 Where will I live?
+817781 819448 You list your<br />granddaughter as a reference.
+819449 820574 Maybe you could stay with her.
+820575 822619 I would not burden her.
+823620 826163 And there are several fine<br />assisted living facilities
+826164 828290 for the elderly.<br />- A nursing home?
+828291 832087 No, I would never live<br />in one of those places.
+833338 834881 I'm really sorry.
+859781 862992 I am proud woman, Miss Brown,
+862993 866037 and never have I begged for anything.
+868123 870000 But now, I beg for you.
+871752 873878 I humble myself before you.<br />- Mrs. Ganush, Mrs. Ganush,
+873879 876839 please, please stand up.<br />- I, Sylvia Ganush, beg.
+876840 879468 On my mother's grave, I beg you!
+880385 881385 Please let go.
+881386 882344 Let go!
+882345 883429 Security!
+883430 884305 Stop!<br /><b><font color="#ca004b">[LOUD THUD]</font></b>
+884306 886390 <b><font color="#ca004b">[GROANS]</font></b>
+886391 887224 <b><font color="#cf685c">WOMAN:</font></b> Over here, Billy!
+887225 889685 Over here!<br />- We're coming.
+889686 892063 <b><font color="#ca004b">[CHATTERING]</font></b>
+897569 898779 You shame me.
+900447 903909 <b><font color="#ca004b">[SOMBER ORCHESTRAL MUSIC]</font></b>
+909581 911875 I beg you, and you shame me.
+914669 917546 I think your business<br />is finished here, ma'am.
+917547 918547 Let's go.
+925263 926305 Mrs. Ganush.
+926306 930435 <b><font color="#ca004b">[SCREAMING]</font></b><br /><b><font color="#ca004b">[THRILLING ORCHESTRAL MUSIC]</font></b>
+937359 938567 <b><font color="#ca004b">[GRUNTING]</font></b>
+938568 939693 <b><font color="#cf685c">GUARD:</font></b> Go, ma'am.
+939694 941238 <b><font color="#cf685c">GUARD:</font></b> Let's go.
+945992 949411 I never saw anything<br />quite like that before.
+949412 950455 Are you okay?
+952916 956044 You handled that just right, you know.
+957379 959589 <b><font color="#ca004b">[COUGHING]</font></b>
+966221 967054 <b><font color="#cf685c">GUARD:</font></b> Good night.
+967055 968055 See you tomorrow.
+968056 969266 <b><font color="#cf685c">WOMAN:</font></b> Okay.
+972060 975354 You know, I just finished<br />going over this McPherson loan.
+975355 978023 This is very impressive work.
+978024 978858 Thanks.
+978859 980401 Would you mind taking this home tonight
+980402 981360 and finishing it up?
+981361 982653 Because I would like to show it
+982654 984697 to the regional veep in the morning.
+984698 985865 I would love to.
+985866 987867 - Great.<br />- Thank you.
+987868 992371 Oh, and as far as that<br />assistant manager's position goes,
+992372 994791 you're at the top of the list.
+1005343 1006886 <b><font color="#ca004b">[DOOR CREAKS]</font></b>
+1006887 1009264 <b><font color="#ca004b">[DOOR SLAMS]</font></b>
+1014644 1018189 <b><font color="#ca004b">[OMINOUS ORCHESTRAL MUSIC]</font></b>
+1028116 1031995 <b><font color="#ca004b">[SUSPENSEFUL ORCHESTRAL MUSIC]</font></b>
+1050722 1052933 <b><font color="#ca004b">[COUGHING]</font></b>
+1063693 1066154 <b><font color="#ca004b">[ENGINE REVS]</font></b>
+1084714 1088843 <b><font color="#ca004b">[LOUD THUD]</font></b><br /><b><font color="#ca004b">[SHRIEKS]</font></b>
+1100105 1103066 <b><font color="#ca004b">[BREATHING HEAVILY]</font></b>
+1105568 1107529 <b><font color="#ca004b">[GASPS]</font></b>
+1108530 1109823 You shamed me.
+1112033 1113575 <b><font color="#ca004b">[SCREAMS]</font></b>
+1113576 1115494 <b><font color="#ca004b">[SPEAKING IN FOREIGN LANGUAGE]</font></b>
+1115495 1117789 <b><font color="#ca004b">[SCREAMING]</font></b>
+1120834 1123419 <b><font color="#ca004b">[LOUD CLACK]</font></b><br /><b><font color="#ca004b">[GROANS]</font></b>
+1123420 1125087 <b><font color="#ca004b">[GROANS]</font></b>
+1125088 1125921 <b><font color="#ca004b">[SCREECHES]</font></b>
+1125922 1130050 <b><font color="#ca004b">[LOUD CLACK]</font></b><br /><b><font color="#ca004b">[GROANS]</font></b>
+1130051 1132386 <b><font color="#ca004b">[SCREECHES]</font></b>
+1132387 1133262 <b><font color="#ca004b">[CAR HONKS]</font></b>
+1133263 1135139 <b><font color="#ca004b">[SCREAMS]</font></b>
+1135140 1135973 <b><font color="#ca004b">[GROANS]</font></b>
+1135974 1138392 <b><font color="#ca004b">[TIRES SCREECH]</font></b>
+1138393 1140394 <b><font color="#ca004b">[GROANING]</font></b><br /><b><font color="#ca004b">[GRUNTING]</font></b>
+1140395 1143522 <b><font color="#ca004b">[LOUD CRASH]</font></b><br /><b><font color="#ca004b">[GROANS]</font></b>
+1143523 1144732 <b><font color="#ca004b">[GASPS]</font></b><br /><b><font color="#ca004b">[SCREECHES]</font></b>
+1144733 1145774 <b><font color="#ca004b">[LOUD THUD]</font></b><br /><b><font color="#ca004b">[GROANS]</font></b>
+1145775 1149737 <b><font color="#ca004b">[SCREAMS]</font></b><br /><b><font color="#ca004b">[GROANING]</font></b>
+1149738 1151948 <b><font color="#ca004b">[GROANING]</font></b>
+1158079 1160956 <b><font color="#ca004b">[TIRES SCREECH]</font></b>
+1160957 1165086 <b><font color="#ca004b">[GROANING]</font></b><br /><b><font color="#ca004b">[GRUNTING]</font></b>
+1173845 1175012 <b><font color="#ca004b">[SCREAMS]</font></b>
+1175013 1177306 <b><font color="#ca004b">[LOUD CRASH]</font></b><br /><b><font color="#ca004b">[SCREAMS]</font></b>
+1177307 1178140 <b><font color="#ca004b">[LOUD THUD]</font></b><br /><b><font color="#ca004b">[GROANS]</font></b>
+1178141 1180518 <b><font color="#ca004b">[LOUD CRASH]</font></b>
+1182062 1184272 <b><font color="#ca004b">[GROANING]</font></b>
+1185273 1186732 <b><font color="#ca004b">[GASPS]</font></b><br /><b><font color="#ca004b">[SCREECHES]</font></b>
+1186733 1188860 <b><font color="#ca004b">[SCREAMS]</font></b>
+1191571 1192696 <b><font color="#ca004b">[SQUISHING]</font></b>
+1192697 1194406 <b><font color="#ca004b">[SCREAMS]</font></b>
+1194407 1198536 <b><font color="#ca004b">[LOUD THUD]</font></b><br /><b><font color="#ca004b">[GROANS]</font></b>
+1200080 1202039 <b><font color="#ca004b">[CLICKS]</font></b><br /><b><font color="#ca004b">[GRUNTS]</font></b>
+1202040 1204166 <b><font color="#ca004b">[LOUD SQUISH]</font></b><br /><b><font color="#ca004b">[GRUNTS]</font></b>
+1204167 1205000 <b><font color="#ca004b">[SHRIEKS]</font></b><br /><b><font color="#ca004b">[SCREAMS]</font></b>
+1205001 1207669 <b><font color="#ca004b">[LOUD SQUISH]</font></b>
+1207670 1209881 <b><font color="#ca004b">[COUGHING]</font></b>
+1213968 1214885 <b><font color="#ca004b">[LOUD THUD]</font></b>
+1214886 1219015 <b><font color="#ca004b">[LOUD THUD]</font></b><br /><b><font color="#ca004b">[GROANS]</font></b>
+1223353 1226105 <b><font color="#ca004b">[GRUNTING]</font></b>
+1226106 1228316 <b><font color="#ca004b">[GROANING]</font></b>
+1233113 1234363 <b><font color="#ca004b">[LAUGHING]</font></b>
+1234364 1235823 <b><font color="#ca004b">[GROANS]</font></b>
+1235824 1238118 I beat you, you old bitch!
+1242997 1245125 <b><font color="#ca004b">[PANTING]</font></b>
+1246501 1248670 <b><font color="#ca004b">[CREAKING]</font></b>
+1254801 1257178 <b><font color="#ca004b">[SCREECHING]</font></b>
+1258263 1260180 <b><font color="#ca004b">[SHRIEKS]</font></b>
+1260181 1262891 <b><font color="#ca004b">[LOUD CRASH]</font></b><br /><b><font color="#ca004b">[SCREAMS]</font></b>
+1262892 1265435 <b><font color="#ca004b">[SCREAMING IN FOREIGN LANGUAGE]</font></b>
+1265436 1267688 <b><font color="#ca004b">[GRUNTING]</font></b>
+1267689 1268939 No!
+1268940 1271067 <b><font color="#ca004b">[SCREAMS]</font></b>
+1278324 1280326 <b><font color="#ca004b">[GRUNTS]</font></b>
+1282162 1285831 <b><font color="#ca004b">[SPEAKING IN FOREIGN LANGUAGE]</font></b>
+1285832 1288501 <b><font color="#ca004b">[EXHALES LOUDLY]</font></b>
+1296843 1297843 Lamia.
+1314402 1318031 Soon it will be you who<br />comes begging to me.
+1328166 1330627 <b><font color="#ca004b">[FLY BUZZING]</font></b>
+1335506 1339052 <b><font color="#ca004b">[OMINOUS ORCHESTRAL MUSIC]</font></b>
+1347268 1349978 <b><font color="#ca004b">[CHATTERING]</font></b>
+1349979 1350854 <b><font color="#cf685c">OFFICER:</font></b> She's right over there.
+1350855 1353357 Thank you, thank you.
+1353358 1354358 Hey.
+1359364 1361323 Once they send some officers<br />over to have a talk with her,
+1361324 1362824 she's not gonna be<br />bothering you anymore, okay?
+1362825 1364326 So don't even think about her.
+1364327 1365911 And I'm gonna call Mr. Jacks<br />and just make sure
+1365912 1368205 he can have somebody walk you<br />to your car every night, okay?
+1368206 1370123 <b><font color="#cf685c">CHRISTINE:</font></b> Okay.
+1370124 1372793 Just thank God you're okay.
+1372794 1374711 You are okay, right?
+1374712 1375712 I'm fine.
+1377340 1378757 What?
+1378758 1380759 What's the matter?
+1380760 1382053 It's just that
+1383096 1385555 maybe I could have gotten her<br />another extension on her loan.
+1385556 1386932 Chris, no, don't do that.
+1386933 1387933 You said the bank granted
+1387934 1390269 this woman two extensions already, right?
+1390270 1391561 I'm sorry, if you don't pay your mortgage,
+1391562 1392396 you lose your house.
+1392397 1393730 What does this woman expect?
+1393731 1395023 It's not your fault.
+1395024 1396316 You can't beat yourself up over it.
+1396317 1398402 <b><font color="#ca004b">[WIND BLOWING]</font></b>
+1398403 1401030 <b><font color="#ca004b">[LOUD WHOOSHES]</font></b>
+1411708 1414669 <b><font color="#ca004b">[HIGH-PITCHED BUZZ]</font></b>
+1421843 1423468 What is it?
+1423469 1424594 What's wrong?
+1424595 1426805 Did you hear that?
+1426806 1428015 What?
+1428016 1429726 Really?<br />You didn't?
+1431102 1432102 No.
+1432103 1433103 What?
+1436983 1438483 I know this is gonna sound weird,
+1438484 1441320 but I wanna get my fortune read.
+1441321 1442988 <b><font color="#ca004b">[LAUGHS]</font></b>
+1442989 1444323 Now?
+1444324 1445616 Are you kidding?
+1446826 1447909 Come on, Chris.
+1447910 1449745 I'll read your fortune for you.
+1449746 1452164 Mm, in the near future, we<br />are gonna get in the car,
+1452165 1452998 go home, and relax.<br />- Clay, I really want
+1452999 1453999 to do this.
+1455251 1458128 Why, because of what<br />happened with that old woman?
+1458129 1462258 Chris, I really think we<br />should just get you home now.
+1463176 1465886 Can you do this for me?
+1465887 1468096 <b><font color="#ca004b">[BELL JINGLING]</font></b>
+1468097 1471809 <b><font color="#ca004b">[UPBEAT INDIAN VIOLIN MUSIC]</font></b>
+1472727 1477105 Pray to God none of<br />my students see me here.
+1477106 1478607 The only class I'll be able to teach is,
+1478608 1480234 like, Hypocrisy 101.
+1483154 1485030 Hm, so many things to choose from here.
+1485031 1486531 Unfortunately, not what I'm looking for,
+1486532 1488867 which is a weird little dried monkey head.
+1488868 1490619 Oh, wait, no, never mind, he's got one.
+1490620 1493747 Shh.<br /><b><font color="#ca004b">[CURTAIN RATTLING]</font></b>
+1493748 1495541 I am Rham Jas, seer.
+1496876 1499127 I'm Christine and this is Clay.
+1499128 1500420 You probably already knew that, right?
+1500421 1502632 <b><font color="#ca004b">[CHUCKLES]</font></b>
+1503549 1505258 Just kidding.
+1505259 1506426 How can I help you?
+1506427 1508804 I would like to have my fortune read.
+1508805 1510180 Can you do that?
+1510181 1513183 I have the ability to<br />see certain energies.
+1513184 1516895 Sometimes these energies are<br />a foretoken of things to come.
+1516896 1518230 $60, please.
+1518231 1519356 Seriously?
+1519357 1520190 Yes.
+1520191 1521691 60.
+1521692 1523860 Doesn't that seem a little<br />steep for this sort of thing?
+1523861 1526739 If you're not serious, please go.
+1527657 1528740 All right.<br />Come on, Chris.
+1528741 1529699 Wait, wait.
+1529700 1531368 I'll pay.<br />- Oh.
+1531369 1532369 No, you know what?
+1532370 1533703 All right.<br />I got it.
+1533704 1534704 I got it.
+1535498 1537290 There you go.
+1537291 1538458 Platinum card.
+1538459 1539751 Very good.
+1539752 1543464 <b><font color="#ca004b">[UPBEAT INDIAN VIOLIN MUSIC]</font></b>
+1545633 1547342 <b><font color="#cf685c">CHRISTINE:</font></b> Thank you.
+1547343 1548343 <b><font color="#cf685c">CLAY:</font></b> Here. Here.
+1548344 1549637 - Thanks.<br />- Sure.
+1552557 1554015 Ah, ah.
+1554016 1555016 Please.
+1557812 1560772 So, you wish to know<br />something of your destiny.
+1560773 1562065 - Yes.<br />- Very good.
+1562066 1563692 Let's see what the fates have in store.
+1563693 1565152 <b><font color="#cf685c">CLAY:</font></b> You know, Freud said destiny was not
+1565153 1567070 an act of fate, but<br />rather something created
+1567071 1569614 by our subconscious to<br />control our conscious choices.
+1569615 1570866 That's true.
+1570867 1572075 But we cannot attempt to understand
+1572076 1574786 the world by intellect alone.
+1574787 1576329 <b><font color="#cf685c">CLAY:</font></b> Oh, Carl Jung.
+1576330 1580042 Yes, from his treatise<br />Psychological Types.
+1581002 1581835 <b><font color="#cf685c">CHRISTINE:</font></b> So--
+1581836 1584379 Jung, New Agers' favorite psychologist.
+1584380 1586798 Because he wasn't afraid to<br />bring God into the equation.
+1586799 1588258 Well, he wasn't afraid to bring God--
+1588259 1589551 - Clay, Clay, come on.<br />- Let's do it.
+1589552 1590719 I know.<br />Come on.
+1590720 1591636 Let's start.
+1591637 1592596 <b><font color="#cf685c">RHAM:</font></b> Shall we?
+1592597 1593722 I'm ready.
+1593723 1596475 Well, please, give me your hand.
+1596476 1597476 <b><font color="#cf685c">CHRISTINE:</font></b> Okay.
+1597477 1598310 This way.
+1598311 1599311 Okay.
+1606027 1607653 You work with money.
+1608779 1609989 That's right.
+1611407 1615869 <b><font color="#cf685c">RHAM:</font></b> And you've recently lost something.
+1615870 1617662 No, I don't think so.
+1617663 1619206 No.
+1619207 1622292 No, you haven't lost anything.
+1622293 1625629 But something's been taken from you.
+1625630 1626630 No.
+1627548 1628548 A button.
+1628549 1629758 Oh, my God.
+1629759 1631218 Yes.
+1631219 1632928 Well, anyone can see<br />she's missing a button.
+1632929 1634387 So what?<br />- Clay, it was really strange.
+1634388 1637015 The old woman today, she<br />took a button from my sleeve.
+1637016 1638058 Why would she do that?
+1638059 1641187 You would both please just be quiet.
+1649278 1652823 <b><font color="#ca004b">[OMINOUS ORCHESTRAL MUSIC]</font></b>
+1655785 1658496 <b><font color="#ca004b">[BELLS JINGLING]</font></b>
+1661082 1663626 <b><font color="#ca004b">[WIND BLOWING]</font></b>
+1670925 1673553 <b><font color="#ca004b">[SOFT CRACKING]</font></b>
+1694949 1697660 <b><font color="#ca004b">[EXHALES LOUDLY]</font></b>
+1700371 1702665 <b><font color="#ca004b">[SCREECHES]</font></b>
+1713467 1715343 I think that's enough for tonight.
+1715344 1716720 What's wrong?
+1716721 1720223 I'm tired, and I see<br />it's become quite late.
+1720224 1722392 I will, of course, refund your money.
+1722393 1723476 Wait, wait, wait!
+1723477 1725271 Did you see something?
+1726522 1728106 A dark spirit has come upon you.
+1728107 1729232 What do you mean?
+1729233 1730567 - Well, he's--<br />- Did you blaspheme the dead
+1730568 1731818 while visiting a graveyard?
+1731819 1732652 No!
+1732653 1733778 Did you play with a Ouija board
+1733779 1735697 or consort with those who<br />practice the black arts?
+1735698 1736698 All right, take it easy, man.
+1736699 1737782 Come on.<br />- Wait, Clay, Clay, Clay.
+1737783 1739160 No. No, I didn't.
+1740161 1742120 Perhaps someone has cursed you.
+1742121 1745833 <b><font color="#ca004b">[UNNERVING ORCHESTRAL MUSIC]</font></b>
+1748544 1750462 Then how did he know all that?
+1750463 1753089 Know what, that you lost a button?
+1753090 1754716 And by the way, he didn't<br />really know that much.
+1754717 1756092 He makes a couple of good guesses,
+1756093 1757385 then he stirs you up,
+1757386 1759721 and then he leaves you<br />with all these questions
+1759722 1762349 and, conveniently, his business card.
+1762350 1763183 <b><font color="#ca004b">[CHUCKLES]</font></b>
+1763184 1765935 Come on, Chris, he's a scam artist.
+1765936 1767437 But he didn't want the money.
+1767438 1769147 He tried to give it back, remember?
+1769148 1770774 Well, he sort of tried,
+1770775 1773903 but in the end, he took it, didn't he?
+1775863 1776906 I guess so.
+1780576 1784121 <b><font color="#ca004b">[OMINOUS ORCHESTRAL MUSIC]</font></b>
+1801430 1802889 I gotta go meet the guy<br />that's towing your car,
+1802890 1803765 so you gonna be okay?
+1803766 1804724 - Yeah.<br />- All right.
+1804725 1806226 Kitty, take care of her.<br /><b><font color="#ca004b">[CAT MEWS]</font></b>
+1806227 1807060 I'll see you in about an hour.
+1807061 1807936 Love you.<br />- Okay.
+1807937 1808937 Okay.
+1816237 1818781 <b><font color="#ca004b">[WIND BLOWING]</font></b>
+1840136 1842513 <b><font color="#ca004b">[OVEN DINGS]</font></b>
+1845474 1847643 <b><font color="#ca004b">[CAT MEWS]</font></b>
+1868706 1871250 <b><font color="#ca004b">[WOODEN CREAK]</font></b>
+1880926 1883137 <b><font color="#ca004b">[RATTLING]</font></b>
+1884305 1886515 <b><font color="#ca004b">[CAT MEWS]</font></b>
+1891395 1893606 <b><font color="#ca004b">[CREAKING]</font></b>
+1910664 1914794 <b><font color="#ca004b">[RATTLING]</font></b><br /><b><font color="#ca004b">[METALLIC CREAK]</font></b>
+1920800 1923511 <b><font color="#ca004b">[METALLIC CREAK]</font></b>
+1927181 1929892 <b><font color="#ca004b">[METALLIC CREAK]</font></b>
+1931352 1934229 <b><font color="#ca004b">[WOODEN CREAK]</font></b>
+1934230 1937690 <b><font color="#ca004b">[METALLIC CREAK]</font></b>
+1937691 1941779 <b><font color="#ca004b">[METALLIC CREAK]</font></b><br /><b><font color="#ca004b">[WOODEN CREAK]</font></b>
+1950538 1952914 <b><font color="#ca004b">[METALLIC CREAK]</font></b><br /><b><font color="#ca004b">[WIND BLOWING]</font></b>
+1952915 1954165 <b><font color="#ca004b">[LOUD ROAR]</font></b><br /><b><font color="#ca004b">[SHRIEKS]</font></b>
+1954166 1957252 <b><font color="#ca004b">[LOUD THUD]</font></b>
+1957253 1959128 <b><font color="#ca004b">[LOUD THUD]</font></b><br /><b><font color="#ca004b">[CAT MEWING]</font></b>
+1959129 1961507 <b><font color="#ca004b">[LOUD CRASH]</font></b>
+1965886 1968514 <b><font color="#ca004b">[LOUD CLANKING]</font></b>
+1969890 1972434 <b><font color="#ca004b">[WIND HOWLING]</font></b>
+1994415 1997960 <b><font color="#ca004b">[OMINOUS ORCHESTRAL MUSIC]</font></b>
+2006510 2007719 <b><font color="#ca004b">[GROANING]</font></b>
+2007720 2008553 <b><font color="#ca004b">[SCREECHING]</font></b>
+2008554 2009387 <b><font color="#ca004b">[LOUD THUD]</font></b><br /><b><font color="#ca004b">[GROANS]</font></b>
+2009388 2011682 <b><font color="#ca004b">[LOUD THUD]</font></b>
+2021734 2023861 <b><font color="#ca004b">[PANTING]</font></b>
+2037249 2038791 Here, put that on your lip.
+2038792 2039667 - Thank you.<br />- I can't believe
+2039668 2040668 she came to the house.
+2040669 2041628 This is so nuts.
+2041629 2042670 I'm calling the cops.
+2042671 2044339 It wasn't her.
+2044340 2046007 Who was it then?
+2046008 2047967 I don't know, I couldn't see who it was.
+2047968 2049218 Of course it was her, had to be her.
+2049219 2051346 No, Clay, it wasn't anyone!
+2051347 2052388 It was somebody.
+2052389 2053514 Chris, it had to be somebody.
+2053515 2055058 The lights were out, you<br />just couldn't see who it was,
+2055059 2056142 but I'm guessing it was--<br />- Clay, there wasn't
+2056143 2057186 anybody here.
+2059104 2060731 Then who did this?
+2062691 2064652 Who hit you in the face?
+2066320 2067320 Huh?
+2071617 2072784 I think it's just a reaction
+2072785 2074619 to her being attacked earlier in the day.
+2074620 2077038 <b><font color="#cf685c">CLAY:</font></b> Yeah, classic symptoms<br />of post-traumatic stress.
+2077039 2078039 <b><font color="#cf685c">DOCTOR:</font></b> Yeah, she's showing signs
+2078040 2080583 of panic and paranoia, so.
+2080584 2081793 <b><font color="#cf685c">CLAY:</font></b> Want me to walk you out, man?
+2081794 2083044 <b><font color="#cf685c">DOCTOR:</font></b> No, no, no, no, I'm fine.
+2083045 2084170 All right.
+2084171 2086548 <b><font color="#ca004b">[DOOR THUDS]</font></b>
+2087841 2088884 Oh, hey, hey.
+2090886 2092178 How you doing?
+2092179 2093471 - Better.<br />- Yeah?
+2093472 2095765 Especially after the<br />doctor explained it to me.
+2095766 2098101 He said that victims of violence, they--
+2098102 2100478 Re-experience their trauma.
+2100479 2104816 I misinterpreted it to be<br />something more than it was.
+2104817 2106401 Happens.
+2106402 2107945 I just, I feel...
+2109488 2111489 - What?<br />- Kind of embarrassed.
+2111490 2112407 Are you kidding?
+2112408 2113533 No.
+2113534 2117620 You never have to be embarrassed with me.
+2117621 2118621 Okay?
+2124169 2125962 Hey, listen, I was thinking<br />maybe we could take
+2125963 2128256 a little trip on Saturday,
+2128257 2130008 get on the train and go to Santa Barbara.
+2130009 2131134 Your folks' cabin.
+2131135 2132260 <b><font color="#cf685c">CLAY:</font></b> Yeah, if you're up for it, the cabin.
+2132261 2133761 Oh, my God,<br />I would love to!
+2133762 2134846 Yeah?<br />Oh, good.
+2134847 2135680 <b><font color="#cf685c">CHRISTINE:</font></b> That'd be so exciting.
+2135681 2137473 Oh, baby, you're gonna love it.
+2137474 2138891 You're gonna love it, I'm<br />excited for you to see.
+2138892 2139726 There's trees
+2139727 2141352 and it's private.<br />- That would be great.
+2141353 2142186 It'll be great.
+2142187 2143021 It'll be good.
+2143022 2144022 I think we need to.
+2144023 2147651 And we can just, we can<br />just talk and stuff.
+2150904 2154450 <b><font color="#ca004b">[OMINOUS ORCHESTRAL MUSIC]</font></b>
+2177848 2180892 <b><font color="#ca004b">[WOODEN CREAK]</font></b>
+2180893 2183353 <b><font color="#ca004b">[FLY BUZZING]</font></b>
+2234863 2237448 <b><font color="#ca004b">[COUGHING]</font></b>
+2237449 2238866 <b><font color="#ca004b">[GASPS]</font></b>
+2238867 2242746 <b><font color="#ca004b">[SUSPENSEFUL ORCHESTRAL MUSIC]</font></b>
+2258470 2259720 <b><font color="#ca004b">[GROWLS]</font></b><br /><b><font color="#ca004b">[SCREAMS]</font></b>
+2259721 2261013 <b><font color="#ca004b">[SNARLS]</font></b><br /><b><font color="#ca004b">[SCREAMS]</font></b>
+2261014 2261848 <b><font color="#ca004b">[GROWLS]</font></b><br /><b><font color="#ca004b">[SCREAMS]</font></b>
+2261849 2265978 <b><font color="#ca004b">[BARKING]</font></b><br /><b><font color="#ca004b">[SCREAMING]</font></b>
+2267229 2272108 <b><font color="#ca004b">[SCREAMS]</font></b><br /><b><font color="#ca004b">[ROARS]</font></b>
+2272109 2273568 <b><font color="#ca004b">[COUGHING]</font></b>
+2273569 2276237 <b><font color="#ca004b">[GASPS]</font></b>
+2276238 2277238 What?
+2278907 2281200 What's the matter?
+2281201 2282911 I couldn't wake up.
+2283954 2284787 It's okay.
+2284788 2285913 Okay.
+2285914 2287123 Come here.
+2287124 2291044 Was just a dream.<br /><b><font color="#ca004b">[WIND BLOWING]</font></b>
+2300804 2301804 Oh, baby, that's the rental car
+2301805 2303723 they dropped off this morning.
+2303724 2304557 Okay?<br />- Thanks.
+2304558 2306225 Sure.
+2306226 2307185 Love you.
+2307186 2308395 Love you too.
+2310105 2314234 Hey, baby, try not to piss<br />off any old ladies today, okay?
+2325078 2327539 <b><font color="#ca004b">[FLY BUZZING]</font></b>
+2332044 2333211 <b><font color="#ca004b">[GASPS]</font></b>
+2333212 2335129 <b><font color="#cf685c">STU:</font></b> Hey, Christine?
+2335130 2336380 What, are you just getting here?
+2336381 2337590 What are you, the hall monitor?
+2337591 2339842 Ha, ha, very funny, Christine.
+2339843 2340801 Oh.
+2340802 2341802 What's this?
+2343013 2344805 What do you want?
+2344806 2348894 I need you to finish teaching<br />me the loan procedures.
+2349978 2350937 I've got a lot on my mind.
+2350938 2352897 Can we do this tomorrow?
+2352898 2354357 - Sure.<br />- Okay.
+2354358 2355524 I'll just tell Mr. Jacks
+2355525 2356525 that you don't have the time right now.
+2356526 2358736 Maybe he can tell me.<br />- No, no!
+2358737 2360404 Okay, I'll do it.
+2360405 2361405 Okay.
+2362991 2366327 We were going over the<br />asset-based lending guidelines.
+2366328 2367245 Right.
+2367246 2368788 Let's say your client is a company
+2368789 2371457 that can't get traditional bank financing.
+2371458 2372333 <b><font color="#ca004b">[GASPS]</font></b>
+2372334 2374461 <b><font color="#ca004b">[TAPPING]</font></b>
+2382552 2383761 And?
+2383762 2386723 Uh, and.<br /><b><font color="#ca004b">[TAPPING]</font></b>
+2390060 2391060 <b><font color="#cf685c">STU:</font></b> And?
+2393563 2394563 And.
+2397484 2401113 And get your filthy pig<br />knuckle off my desk!
+2402072 2404533 <b><font color="#ca004b">[PHONE RINGS]</font></b>
+2408370 2410371 Christine Blood.
+2410372 2411747 Brown.
+2411748 2413457 Christine.
+2413458 2414458 Your nose.
+2415335 2417378 Uh, sure, can you hold?
+2417379 2418212 Let me help you.
+2418213 2419213 No, no, I've got it under control.
+2419214 2420631 <b><font color="#ca004b">[GROANS]</font></b><br />- Oh, my God!
+2420632 2421632 Oh, my God!
+2422759 2423968 Oh, God!
+2423969 2424969 Oh, my God!
+2424970 2426512 Stop it!
+2426513 2427888 <b><font color="#cf685c">WOMAN:</font></b> Mr. Jacks!
+2427889 2428931 - Did I get any in my mouth?<br />- Mr. Jacks--
+2428932 2431225 - Oh, my God!<br />- Did I get any in my mouth?
+2431226 2433019 Let me take you over here to get clean.
+2433020 2434979 - I'm so sorry!<br />- Why did you do that?
+2434980 2436605 <b><font color="#cf685c">CHRISTINE:</font></b> Oh, my God!
+2436606 2437565 <b><font color="#cf685c">MR. JACKS:</font></b> What was that about?
+2437566 2439191 - It's just a nosebleed.<br />- Disgusting, ugh!
+2439192 2440860 <b><font color="#cf685c">MR. JACKS:</font></b> Did I get any in my mouth?
+2440861 2441694 <b><font color="#cf685c">WOMAN:</font></b> We'll clean you up.
+2441695 2442695 We have antiseptic.
+2442696 2444740 There's blood everywhere.
+2445866 2449411 <b><font color="#ca004b">[OMINOUS ORCHESTRAL MUSIC]</font></b>
+2474353 2477146 <b><font color="#ca004b">[WIND BLOWING]</font></b>
+2477147 2479358 <b><font color="#ca004b">[KNOCKING]</font></b>
+2482569 2485697 <b><font color="#ca004b">[WIND CHIME TINKLING]</font></b>
+2491453 2493997 <b><font color="#ca004b">[WOODEN CREAK]</font></b>
+2495332 2497042 <b><font color="#cf685c">WOMAN:</font></b> What is it?
+2500837 2501670 Hi.
+2501671 2502963 I came to see Sylvia Ganush.
+2502964 2504465 Is she here?
+2504466 2506884 <b><font color="#cf685c">WOMAN:</font></b> Who are you?
+2506885 2508762 I'm a friend of hers.
+2510055 2511348 Someone--<br />- Wait.
+2514935 2517061 I know who you are.
+2517062 2519021 Grandma told me you would come.
+2519022 2522525 You are the woman from the bank,<br />the one who took her house.
+2522526 2524235 Actually, it was the<br />bank that took the house.
+2524236 2526821 I mean, I just work there.
+2526822 2530324 In fact, I tried to help your<br />grandma get the house back,
+2530325 2531992 but my boss wouldn't let me.
+2531993 2534286 Are you going to stand here on my porch
+2534287 2535831 and lie to my face?
+2541420 2542837 No.
+2542838 2546550 You used to be a real<br />fat girl, didn't you?
+2552431 2553514 Yeah.
+2553515 2554558 I can tell.
+2555767 2558436 You are not welcome here.
+2558437 2559770 Wait!
+2559771 2561355 Wait, I need to see her.
+2561356 2563232 I need her to forgive me.
+2563233 2564567 And I'll get her the house back.
+2564568 2566652 And you're gonna make<br />everything all right for her,
+2566653 2567528 is that it?
+2567529 2568529 Yes.
+2570282 2571282 Come on.
+2573493 2576705 <b><font color="#ca004b">[ELEGANT VIOLIN MUSIC]</font></b>
+2586840 2588049 Where is she?
+2598602 2600812 <b><font color="#ca004b">[LAUGHING]</font></b>
+2601771 2603856 <b><font color="#ca004b">[PEOPLE CHATTERING]</font></b>
+2603857 2607736 <b><font color="#ca004b">[SPEAKING IN FOREIGN LANGUAGE]</font></b>
+2611615 2615494 <b><font color="#ca004b">[SPEAKING IN FOREIGN LANGUAGE]</font></b>
+2620707 2624252 <b><font color="#ca004b">[OMINOUS ORCHESTRAL MUSIC]</font></b>
+2631218 2632635 <b><font color="#ca004b">[LOUD THUD]</font></b><br /><b><font color="#ca004b">[SHRIEKS]</font></b>
+2632636 2633969 <b><font color="#ca004b">[GASPS]</font></b>
+2633970 2635679 <b><font color="#ca004b">[WOODEN CREAK]</font></b>
+2635680 2637681 <b><font color="#ca004b">[LOUD CRASH]</font></b>
+2637682 2638891 <b><font color="#ca004b">[LOUD SPLASHING]</font></b><br /><b><font color="#ca004b">[CROWD GASPS]</font></b>
+2638892 2640601 <b><font color="#ca004b">[SCREAMING]</font></b>
+2640602 2642353 Get her off me!
+2642354 2643395 Get her off me!<br />- Come!
+2643396 2644396 Don't look.
+2645982 2647399 <b><font color="#cf685c">MAN:</font></b> Grab her shoulder.
+2647400 2648901 <b><font color="#ca004b">[SCREAMS]</font></b><br />- No, no, lift her up!
+2648902 2650152 <b><font color="#ca004b">[GRUNTS]</font></b><br /><b><font color="#ca004b">[SCREAMS]</font></b>
+2650153 2653114 <b><font color="#ca004b">[PEOPLE CHATTERING]</font></b>
+2655450 2657451 <b><font color="#cf685c">MAN:</font></b> Be careful.
+2657452 2660079 <b><font color="#cf685c">MAN:</font></b> Let's roll the dice!
+2660080 2664667 Still going to make<br />everything all right for her?
+2664668 2667127 You deserve everything<br />that is coming to you.
+2667128 2670089 <b><font color="#ca004b">[YELLING IN FOREIGN LANGUAGE]</font></b>
+2670090 2673051 <b><font color="#ca004b">[PEOPLE CHATTERING]</font></b>
+2675929 2678847 I believe what plagues you is the Lamia.
+2678848 2681225 Lamia, that's the<br />word the old woman used.
+2681226 2682643 The Black Goat,
+2682644 2686021 only summoned by gypsies<br />for their darkest deeds.
+2686022 2687147 For the first three days,
+2687148 2689358 the Lamia appears as a nasty spirit
+2689359 2691569 that torments its victim.
+2691570 2694530 After that, it reveals itself<br />to be a taker of souls,
+2694531 2697074 and it comes for the owner<br />of the accursed object.
+2697075 2697908 Accursed object.
+2697909 2698742 What object?
+2698743 2702872 Something taken from the<br />victim, cursed and given back.
+2706084 2707084 This?
+2709588 2710921 What if I just burn it?
+2710922 2714425 I'm afraid no matter what<br />condition the button is in,
+2714426 2716260 you would still be the owner.
+2716261 2718345 The Lamia would still come to take you.
+2718346 2719972 Take me where?
+2719973 2723476 <b><font color="#ca004b">[OMINOUS ORCHESTRAL MUSIC]</font></b>
+2726521 2728105 Then how do I get rid of this?
+2728106 2730941 You could attempt to appease the spirit.
+2730942 2732776 The simplest way would<br />be a blood offering.
+2732777 2736864 A small creature could be<br />sacrificed, a chicken perhaps.
+2736865 2737698 No way!
+2737699 2738991 Look, I'm a vegetarian.
+2738992 2741952 I volunteer at the puppy<br />shelter, for Christ's sake.
+2741953 2744163 I don't go around killing animals.
+2744164 2746040 You will be surprised<br />what you'll be willing to do
+2746041 2748418 when the Lamia comes for you.
+2750712 2752547 This will show you how.
+2759929 2760763 <b><font color="#ca004b">[LOUD SQUISH]</font></b>
+2760764 2763391 <b><font color="#ca004b">[GOAT BLEATING]</font></b>
+2766394 2768854 <b><font color="#ca004b">[CAT MEWS]</font></b>
+2768855 2769855 Hi!
+2771024 2773234 <b><font color="#ca004b">[CAT MEWS]</font></b>
+2776196 2779740 <b><font color="#ca004b">[METALLIC CREAK]</font></b>
+2779741 2781868 <b><font color="#ca004b">[BANGING]</font></b>
+2785914 2789793 <b><font color="#ca004b">[SUSPENSEFUL ORCHESTRAL MUSIC]</font></b>
+2793922 2796466 <b><font color="#ca004b">[WOODEN CREAK]</font></b>
+2808311 2810438 <b><font color="#ca004b">[BANGING]</font></b>
+2834254 2836381 <b><font color="#ca004b">[BANGING]</font></b>
+2838758 2840175 <b><font color="#ca004b">[SCREECHES]</font></b>
+2840176 2842928 <b><font color="#ca004b">[ROARING]</font></b>
+2842929 2845306 <b><font color="#ca004b">[SCREECHING]</font></b>
+2859696 2862157 <b><font color="#ca004b">[DOOR CLACKS]</font></b>
+2865827 2867619 <b><font color="#ca004b">[DOOR SLAMS]</font></b>
+2867620 2869831 <b><font color="#ca004b">[STOMPING]</font></b>
+2872500 2874711 <b><font color="#ca004b">[SNARLING]</font></b>
+2885930 2888558 <b><font color="#ca004b">[LOUD CLUNKING]</font></b>
+2899194 2901403 <b><font color="#ca004b">[PHONE RINGS]</font></b>
+2901404 2904032 <b><font color="#ca004b">[PHONE BUZZING]</font></b>
+2906701 2909329 <b><font color="#ca004b">[PHONE RINGING]</font></b>
+2914918 2917128 <b><font color="#ca004b">[STOMPING]</font></b>
+2932185 2934144 <b><font color="#ca004b">[GROWLS]</font></b>
+2934145 2935479 <b><font color="#ca004b">[PHONE BEEPING]</font></b>
+2935480 2937815 <b><font color="#ca004b">[STATIC CRACKLING]</font></b>
+2937816 2940400 <b><font color="#ca004b">[SCREECHES]</font></b>
+2940401 2942612 <b><font color="#ca004b">[GROWLING]</font></b>
+2952580 2953413 <b><font color="#ca004b">[SCREECHES]</font></b>
+2953414 2954289 <b><font color="#ca004b">[LOUD CRASH]</font></b>
+2954290 2958460 <b><font color="#ca004b">[GROANS]</font></b><br /><b><font color="#ca004b">[SCREAMS]</font></b>
+2958461 2960755 <b><font color="#ca004b">[SCREAMING]</font></b>
+2966886 2967719 <b><font color="#ca004b">[LOUD CRASH]</font></b>
+2967720 2970180 <b><font color="#ca004b">[GROANS]</font></b>
+2970181 2974977 <b><font color="#ca004b">[SCREECHING]</font></b><br /><b><font color="#ca004b">[RUMBLING]</font></b>
+2974978 2977605 <b><font color="#ca004b">[BIRD CHIRPING]</font></b>
+2982026 2985572 <b><font color="#ca004b">[OMINOUS ORCHESTRAL MUSIC]</font></b>
+2996958 2998501 Here, kitty, kitty.
+2999627 3001754 <b><font color="#ca004b">[PANTING]</font></b>
+3004132 3006342 <b><font color="#ca004b">[CAT MEWS]</font></b>
+3009345 3013474 <b><font color="#ca004b">[SCREAMING]</font></b><br /><b><font color="#ca004b">[CAT SHRIEKING]</font></b>
+3020231 3021315 Chris?
+3021316 3023734 Chris?<br /><b><font color="#ca004b">[GASPS]</font></b>
+3023735 3024735 Chris?
+3026696 3028280 Hey, there you are.
+3028281 3029656 What you doing out here?
+3029657 3030490 Baby, I called the bank.
+3030491 3031325 They said you left early.
+3031326 3033452 You're not answering my calls.
+3033453 3034579 Is that blood?
+3037707 3038832 No.
+3038833 3040375 Why would there be blood?
+3040376 3043462 Yeah, baby, there's<br />blood on your sleeve.
+3043463 3044463 - Oh.<br />- Are you bleeding?
+3044464 3047466 No, um, it was just tomato juice.
+3047467 3049801 I was cutting a tomato in the kitchen
+3049802 3052847 and it must have gotten on my sleeve.
+3054223 3058353 Hey, Chris, why don't we<br />do this dinner another time?
+3059520 3061355 You've had a rough couple of days.
+3061356 3062189 I think it's better.
+3062190 3064399 No, I want to go to the dinner.
+3064400 3068529 I know, but are you sure<br />you're feeling all right?
+3069530 3071741 Honestly, I haven't been.
+3072909 3075954 <b><font color="#ca004b">[GENTLE PIANO MUSIC]</font></b>
+3078081 3082126 But I think that everything<br />is gonna be okay now.
+3085338 3086338 I really do.
+3091344 3092804 What do you think?
+3096641 3098183 You look beautiful.
+3098184 3100228 <b><font color="#ca004b">[LAUGHS]</font></b>
+3101813 3103355 <b><font color="#cf685c">CHRISTINE:</font></b> God, it's such a nice day.
+3103356 3104690 It really is.
+3104691 3108068 God, it's gonna be nice inside too.
+3108069 3110070 <b><font color="#ca004b">[DOORBELL RINGS]</font></b>
+3110071 3111948 They're gonna love you.
+3114826 3116410 - Clayton.<br />- Hello, Mother.
+3116411 3117786 Good to see you, this is Christine.
+3117787 3118912 That's my mom, Trudy.
+3118913 3119788 Hello, Christine.
+3119789 3120664 Hello.
+3120665 3122499 It's very nice to meet you.
+3122500 3123458 Oh. Well.
+3123459 3124459 Please, come in.
+3124460 3125460 Come in.
+3126337 3127295 - Hey, Dad.<br />- Hey, son.
+3127296 3129506 How are you?<br />Good to see you, sir.
+3129507 3131299 This is Christine, Christine,<br />this is my dad, Leonard.
+3131300 3132217 - Nice to meet you.<br />- Oh, hi, Maria.
+3132218 3133635 Thank you.<br />- You have a beautiful home.
+3133636 3136930 Oh, well, thank you very much.
+3136931 3137806 Can I get you a drink?
+3137807 3138640 Yeah, wine?
+3138641 3140058 Do you guys want?<br />- Sure.
+3140059 3142227 Okay, come help me.
+3142228 3144146 - I'll be right back.<br />- Mm-hm.
+3144147 3145105 I'll take a Chardonnay!
+3145106 3147649 <b><font color="#cf685c">LEONARD:</font></b> Yes, dear.
+3147650 3148608 I hope you don't mind.
+3148609 3150360 Oh, how thoughtful.
+3150361 3151194 Homemade?
+3151195 3152154 Yes.
+3152155 3155073 And what type of cake<br />would you call that?
+3155074 3158286 Uh, it's called a, um, harvest cake.
+3159495 3163582 Is that something you<br />would make on a farm?
+3163583 3164583 No.
+3166961 3168045 I mean, not anymore.
+3168046 3171424 We used to when we had a gaggle of geese.
+3172717 3173675 Geese?
+3173676 3175343 Well, right around the harvest time,
+3175344 3179139 that's when your goose eggs<br />will make a real dense yolk.
+3179140 3180933 Makes for a rich cake.
+3181809 3183435 Mm.
+3183436 3185229 Well, just, thank you.
+3186397 3187439 - Here we are.<br />- Sorry to interrupt
+3187440 3188815 the bonding sesh.
+3188816 3190108 Why don't you join<br />us in the dining room?
+3190109 3190942 - Yeah, let's go.<br />- Yeah.
+3190943 3191777 Okay.
+3191778 3192861 It's right in here.
+3192862 3194029 <b><font color="#ca004b">[HISSING]</font></b>
+3194030 3195197 Whoa, jeez.
+3195198 3196198 Hecuba.
+3196949 3198784 Never did understand that damned animal.
+3198785 3199701 Hate cats.
+3199702 3201203 <b><font color="#cf685c">TRUDY:</font></b> That is so strange.
+3201204 3203413 Hecuba is usually very sweet.
+3203414 3204581 Oh, that's okay.
+3204582 3205415 I had a cat.
+3205416 3206917 I understand.
+3206918 3209045 You mean you have a cat.
+3212090 3213256 Unless something happened to him.
+3213257 3215468 <b><font color="#ca004b">[CHUCKLES]</font></b>
+3216844 3219346 Well, how am I supposed to know?
+3219347 3220347 I mean, you know how cats are.
+3220348 3222141 They come and they go.
+3224018 3225769 <b><font color="#ca004b">[CHUCKLES]</font></b>
+3225770 3226896 That's true.
+3229524 3231024 - Well.<br />- Well.
+3231025 3233235 Yes. Yes, please.
+3233236 3235612 So, how's the coin collection, son?
+3235613 3236655 That's my dad's way of saying,
+3236656 3237906 "So, you're still a huge nerd?"
+3237907 3238740 <b><font color="#ca004b">[GROUP LAUGHS]</font></b>
+3238741 3239658 It's good.<br />It's good.
+3239659 3240617 In fact, Christine just got me
+3240618 3242911 a 1929 Standing Liberty<br />quarter at her bank.
+3242912 3243995 - Really?<br />- Isn't that crazy?
+3243996 3245080 Yeah, it's rare.
+3245081 3246123 Oh, I just think the job
+3246124 3248416 of a bank teller must be so difficult,
+3248417 3250836 with all that counting and repetition.
+3250837 3252295 Must get very tedious.
+3252296 3255465 Yes, you're right, but I'm not a teller.
+3255466 3256466 - Oh?<br />- Yeah, Mom, I told you.
+3256467 3257467 Christine's a loan officer.
+3257468 3258760 - Ah.<br />- She handles all the loans
+3258761 3261012 for small businesses<br />and homes for her bank.
+3261013 3263682 And she's up for this big promotion, so.
+3263683 3264724 Right, Chris?
+3264725 3266768 If I could close this one<br />account that I'm working on,
+3266769 3268103 it would really help.
+3268104 3270147 Well, that must be<br />a very important loan.
+3270148 3273024 It's the biggest that my<br />branch has ever handled.
+3273025 3275527 And how did that come to you?
+3275528 3277988 Well, I was reading<br />the Wall Street Journal
+3277989 3280157 and came across this<br />medical supply company
+3280158 3283660 that was looking to expand,<br />but didn't have the liquidity.
+3283661 3286580 So I met with their CFO<br />and presented a formula
+3286581 3289499 for restructuring some<br />of their long-term debt.
+3289500 3292127 Sounds like you've got a<br />lot going for you, Christine.
+3292128 3295255 Well, your mother must<br />be very proud of you.
+3295256 3296256 I suppose.
+3302430 3304639 Uh, I don't see much of my mother.
+3304640 3305473 Why is that?
+3305474 3308143 Wow, Mom, that's, it's kind of personal.
+3308144 3309603 I'm speaking to Christine.
+3309604 3311564 <b><font color="#ca004b">[SIGHS]</font></b>
+3313524 3315901 Uh, well, ever since my dad died,
+3315902 3318029 um, she doesn't talk much.
+3319197 3320239 She just, uh,
+3321699 3325703 stays on the farm and<br />keeps to herself because...
+3326954 3328288 Because?
+3328289 3330415 Because her husband died, Mom,
+3330416 3332167 and she just wants to be by herself.
+3332168 3333001 Why don't--
+3333002 3335880 Because my mother's an alcoholic.
+3337048 3338048 Oh.
+3339717 3340717 I'm sorry.
+3342386 3345555 It's certainly nothing to be ashamed of.
+3345556 3349643 Have to say, I find your<br />honesty very refreshing.
+3349644 3350769 My father had a drinking problem,
+3350770 3354105 and I was always too ashamed to admit it.
+3354106 3355733 You've got backbone.
+3356734 3358401 Unlike that last girl he brought by.
+3358402 3359945 What was her name?
+3359946 3360946 - Alice.<br />- We don't have to--
+3360947 3361780 Alicia!
+3361781 3362614 - Alicia.<br />- Oh.
+3362615 3364032 She was dreadful, Christine.
+3364033 3367494 She was ill-mannered, no ambition at all.
+3367495 3368578 Well, they met on the internet.
+3368579 3369454 There you go.<br />- Oh, what is that?
+3369455 3370455 "They met on the internet"?
+3370456 3371748 - Really?<br />- What does that mean?
+3371749 3373083 Am I being too hard on him?
+3373084 3374542 - No, not at all.<br />- There you go.
+3374543 3375627 Thank you very much.<br />- Oh, thanks a lot.
+3375628 3377629 You know, I think I will try<br />some of that cake of yours.
+3377630 3378630 - Toss me under the bus.<br />- Look at that.
+3378631 3379923 It looks great, you're gonna like it.
+3379924 3381091 <b><font color="#ca004b">[SCREECHING]</font></b>
+3381092 3382759 <b><font color="#cf685c">TRUDY:</font></b> Looks so interesting.
+3382760 3386889 You only dislike it if<br />you hate delicious things.
+3388099 3392228 <b><font color="#ca004b">[GROUP CHATTERING]</font></b><br /><b><font color="#ca004b">[OMINOUS HUM]</font></b>
+3398567 3400026 <b><font color="#cf685c">LEONARD:</font></b> Harvest cake, huh?
+3400027 3401278 We have to get this recipe.<br />- It sounds so quaint,
+3401279 3402696 doesn't it?
+3402697 3405031 Did you hear something?
+3405032 3406032 No.
+3406033 3407367 You okay?
+3407368 3408576 <b><font color="#cf685c">TRUDY:</font></b> Tasty.
+3408577 3410495 - I like it a lot.<br />- I do like it.
+3410496 3411830 - Mm-hm.<br />- Mm!
+3411831 3414416 You know, Mom, when you<br />say we met on the internet,
+3414417 3415709 it's a little misleading.<br /><b><font color="#ca004b">[GASPS]</font></b>
+3415710 3419129 <b><font color="#ca004b">[OMINOUS ORCHESTRAL MUSIC]</font></b>
+3419130 3421590 <b><font color="#ca004b">[LOUD SQUISH]</font></b>
+3427596 3431726 <b><font color="#ca004b">[SCREECHING]</font></b><br /><b><font color="#ca004b">[GASPS]</font></b>
+3433477 3434561 <b><font color="#ca004b">[LOUD SQUISH]</font></b><br /><b><font color="#ca004b">[SCREECHES]</font></b>
+3434562 3435520 <b><font color="#ca004b">[GASPS]</font></b><br />- Well, you need to do that
+3435521 3437147 to find a good mate.
+3437148 3438523 - She has a Facebook.<br />- You can't even trust
+3438524 3441026 the things you hear or that<br />people write about themselves.
+3441027 3442152 - Very nice.<br />- Even the pictures are
+3442153 3443194 false half the time.
+3443195 3444988 Is that true?<br />- Oh, it's true.
+3444989 3446823 I don't think it's a<br />misconception to think
+3446824 3449784 that people of good breeding<br />and success should be able
+3449785 3453788 to meet potential life partners<br />in a realistic situation.
+3453789 3456667 <b><font color="#ca004b">[HIGH-PITCHED HUM]</font></b>
+3459211 3461422 <b><font color="#ca004b">[MUMBLING]</font></b>
+3463716 3465426 Would you, Christine?
+3467845 3468845 No.
+3468846 3469971 No, of course not.
+3469972 3470930 What?
+3470931 3472682 What, but we did.
+3472683 3473975 We met at a bar, Chris.
+3473976 3474851 What are you talking about?
+3474852 3476478 Oh, my God, that's right.
+3476479 3478063 You two better get<br />your stories straight.
+3478064 3480023 It's not a Klan rally, Mom.
+3480024 3481316 It's a bar.
+3481317 3482567 <b><font color="#ca004b">[LEONARD LAUGHS]</font></b>
+3482568 3484362 Yeah, we met at a bar,
+3485279 3486613 and we set up the date on the internet.
+3486614 3488198 <b><font color="#ca004b">[COUGHING]</font></b>
+3488199 3489783 You okay?
+3489784 3490617 <b><font color="#ca004b">[COUGHING]</font></b>
+3490618 3491451 You okay?
+3491452 3492535 <b><font color="#ca004b">[COUGHING]</font></b><br />Want water?
+3492536 3496289 Baby, have some, went down the wrong pipe.
+3496290 3497123 <b><font color="#ca004b">[LOUD POP]</font></b><br /><b><font color="#ca004b">[FLY BUZZING]</font></b>
+3497124 3498167 Oh, my God!
+3503714 3505758 <b><font color="#ca004b">[COUGHS]</font></b>
+3510262 3511304 I'm sorry, I don't, uh,
+3511305 3513848 there must be a window open.<br /><b><font color="#ca004b">[HIGH-PITCHED SCREECHING]</font></b>
+3513849 3515308 Chris?<br /><b><font color="#ca004b">[LOUD THUDDING]</font></b>
+3515309 3517603 <b><font color="#ca004b">[SHRIEKING]</font></b>
+3519063 3521856 <b><font color="#ca004b">[LOUD CRASH]</font></b><br />- Okay, I hear you!
+3521857 3522857 Leave me alone!
+3522858 3524692 Just leave me the hell alone!
+3524693 3525527 <b><font color="#cf685c">CLAY:</font></b> Stop it!
+3525528 3527738 Baby, there's no one there.
+3530157 3531157 Okay.
+3533619 3535328 I think I'd better go.
+3535329 3538540 Yes, I think that would be best.
+3538541 3540083 - Wait, Chris.<br />- Don't follow her.
+3540084 3541459 She's a sick girl.
+3541460 3542877 Mom, she needs my help.
+3542878 3543921 Let her go.
+3545631 3548591 <b><font color="#ca004b">[LOUD CRASH]</font></b><br />- Wait!
+3548592 3549551 What's the matter?
+3549552 3551010 <b><font color="#ca004b">[GROANS]</font></b><br /><b><font color="#ca004b">[LOUD CRASH]</font></b>
+3551011 3553388 Look, I did what you said!
+3553389 3555515 I killed that little kitty!
+3555516 3557350 You're so full of shit!
+3557351 3560186 These are elusive and powerful<br />forces we are dealing with.
+3560187 3562148 There are no guarantees!
+3579665 3583168 We must speak directly<br />to this dark spirit.
+3583169 3588006 We must dissuade it from<br />taking your soul, and soon.
+3588007 3589549 I know someone who can help us.
+3589550 3591843 And I'm supposed to trust you?
+3591844 3594012 Tomorrow is the third day.
+3594013 3596222 After that, the Lamia will come for you.
+3596223 3598266 We can't let that happen.
+3598267 3600351 But you must understand,
+3600352 3604355 the woman who can help us must<br />put herself at great risk.
+3604356 3606483 She will not do that for free.
+3606484 3608151 What do you need from me?
+3608152 3610529 $10,000, cash, by tomorrow.
+3626670 3627837 Mr. Jacks.
+3627838 3629172 Yeah?
+3629173 3631633 This is kind of awkward for me,
+3631634 3634427 and I know it's not official yet,
+3634428 3636846 but I was wondering if<br />I could get an advance
+3636847 3638181 for the new position.
+3638182 3640642 What, the assistant manager's position?
+3640643 3641809 Yes.
+3641810 3645271 See, one of my family<br />members is really sick.
+3645272 3646940 They're not gonna die,
+3646941 3648399 but they could.<br />- Christine, Christine.
+3648400 3650193 There's a problem.
+3650194 3653029 The McPherson deal was<br />canceled last night.
+3653030 3654030 What?<br />- Yeah.
+3655241 3656950 Right after I informed the regional office
+3656951 3658952 that we had this big loan pending,
+3658953 3660411 I find out that they just made their deal
+3660412 3662580 over at First National.
+3662581 3664624 Now, I gotta call in to<br />see what exactly happened,
+3664625 3667210 but right now, this does not look
+3667211 3670088 too good for you or for me.
+3670089 3674218 So, this assistant manager<br />promotion has been delayed.
+3675511 3676970 In fact, you know, I think,
+3676971 3678555 with everything that's been happening,
+3678556 3682767 I think I'm gonna have<br />to give this job to Stu.
+3682768 3683768 Stu.
+3683769 3684769 I see.
+3685479 3686396 I'm sorry.
+3686397 3688189 Look, if you've got family problems,
+3688190 3692319 maybe you should take the<br />day off, sort them out and...
+3714967 3717802 <b><font color="#ca004b">[SCREAMS]</font></b>
+3717803 3719721 <b><font color="#ca004b">[LOUD THUD]</font></b><br /><b><font color="#ca004b">[GROANS]</font></b>
+3719722 3721222 <b><font color="#ca004b">[SCREAMS]</font></b>
+3721223 3723308 <b><font color="#ca004b">[LOUD SQUISH]</font></b>
+3723309 3724892 <b><font color="#ca004b">[SCREECHES]</font></b>
+3724893 3728606 <b><font color="#ca004b">[THRILLING ORCHESTRAL MUSIC]</font></b>
+3730941 3732317 <b><font color="#ca004b">[WOODEN CREAK]</font></b>
+3732318 3733901 <b><font color="#ca004b">[METALLIC CLANG]</font></b>
+3733902 3735946 <b><font color="#ca004b">[GROANS]</font></b>
+3738282 3740533 <b><font color="#ca004b">[SCREAMS]</font></b>
+3740534 3741409 <b><font color="#ca004b">[LOUD SQUISH]</font></b>
+3741410 3743077 <b><font color="#ca004b">[SCREAMS]</font></b>
+3743078 3745622 <b><font color="#ca004b">[LOUD CLANG]</font></b>
+3745623 3748250 <b><font color="#ca004b">[BIRD CHIRPING]</font></b>
+3758010 3759802 <b><font color="#ca004b">[REGISTER WHIRS]</font></b>
+3759803 3761220 So, how much?
+3761221 3763473 3,800 for everything.
+3763474 3764974 Including my jewelry?
+3764975 3766017 Including.
+3766018 3769145 But this stuff is worth<br />so much more than that.
+3769146 3770188 Please.
+3770189 3771731 This is all I have.
+3771732 3773025 I'm begging you.
+3774610 3777070 Take it or leave it.
+3777071 3779030 <b><font color="#ca004b">[CRYING]</font></b>
+3779031 3782493 <b><font color="#ca004b">[SOMBER ORCHESTRAL MUSIC]</font></b>
+3784995 3786454 <b><font color="#ca004b">[KNOCKING]</font></b><br />- Chris?
+3786455 3787455 Chris?
+3790376 3791376 Baby?
+3810813 3813774 Thought you were lactose intolerant.
+3814733 3815733 I am.
+3817069 3821156 But then I thought, screw<br />it, I'm eating ice cream.
+3823575 3825035 I paid Rham Jas.
+3828789 3829789 What?
+3830916 3832709 You're kidding me.
+3832710 3833752 I paid him.
+3835170 3838965 Why, I mean, I thought<br />that you didn't believe.
+3838966 3841759 I don't know what I believe in anymore.
+3841760 3846681 I really don't, but I know<br />that you believe in this.
+3846682 3848433 I know how important it is to you,
+3848434 3852146 and I know how much pain<br />this is causing you.
+3853272 3855149 And, I also remembered,
+3857693 3860487 I remembered a promise that I made
+3861572 3864115 the night I fell in love with you.
+3864116 3868203 I told myself that I would<br />always look out for you.
+3869621 3871874 I'd always take care of you.
+3872875 3874001 So I paid him.
+3877463 3880465 You remember the night that<br />you fell in love with me?
+3880466 3885178 I remember the second<br />I fell in love with you.
+3885179 3886221 Oh, my God.
+3899651 3902028 You sure you don't want<br />me to go in with you?
+3902029 3903404 He said I should come alone.
+3903405 3904238 Yeah, I know, I know.
+3904239 3906366 He told me the same thing.
+3913624 3916501 <b><font color="#ca004b">[OMINOUS ORCHESTRAL MUSIC]</font></b>
+3916502 3919046 <b><font color="#ca004b">[WIND BLOWING]</font></b>
+3943070 3945196 Christine, if you will<br />permit me the pleasure
+3945197 3948075 of an introduction, Shaun San Dena.
+3951578 3953120 Welcome.
+3953121 3954914 <b><font color="#cf685c">CHRISTINE:</font></b> How do you do?
+3954915 3957333 Shaun San Dena is an experienced medium.
+3957334 3960586 Furthermore, she's personally<br />been touched by the Lamia.
+3960587 3964006 I first encountered<br />this spirit many years ago
+3964007 3966300 in this very house.
+3966301 3967969 And what happened?
+3967970 3970263 <b><font color="#ca004b">[BOY SCREAMING]</font></b>
+3970264 3973642 I lost a young boy's soul to the beast.
+3974977 3977437 <b><font color="#ca004b">[BOY SCREAMS]</font></b>
+3980399 3982860 I have waited these long years
+3985320 3988031 for a chance at redeeming myself,
+3989408 3992994 a chance to destroy the foul thing.
+3992995 3995038 And--<br />- Tetiechko, please.
+4000335 4002880 Tonight, my chance will come.
+4004673 4007968 But to summon it, I will need your help.
+4009678 4011138 Can you be strong?
+4014224 4015224 I'll try.
+4020689 4024275 My late husband,<br />Sandor, was also medium.
+4024276 4026319 He chose this site to build a house upon
+4026320 4030115 because he sensed certain<br />forces at work here.
+4031533 4034494 In this place, there is a particular
+4036246 4040208 <b><font color="#ca004b">[SPEAKING IN FOREIGN LANGUAGE]</font></b>.
+4043754 4046505 A particular confluence of<br />forces which allows a doorway
+4046506 4049133 to be opened through which we may pass.
+4049134 4053638 <b><font color="#ca004b">[SPEAKING IN FOREIGN LANGUAGE]</font></b>
+4053639 4056307 And through which others<br />may pass into our world.
+4056308 4059853 <b><font color="#ca004b">[OMINOUS ORCHESTRAL MUSIC]</font></b>
+4062564 4064775 <b><font color="#cf685c">SHAUN:</font></b> Please be seated.
+4082918 4087047 <b><font color="#ca004b">[GOAT BLEATING]</font></b><br /><b><font color="#ca004b">[SHRIEKS]</font></b>
+4092636 4093719 What's going on?
+4093720 4096097 Everything we're doing<br />is for your own good.
+4096098 4097098 Please.
+4097891 4099351 Christine, please.
+4105107 4106107 Thank you.
+4125168 4129006 <b><font color="#ca004b">[SPEAKING IN FOREIGN LANGUAGE]</font></b>
+4136471 4140933 Once the spirit has entered me,<br />put my hand upon the animal.
+4140934 4142643 Do you understand?
+4142644 4144145 Yes.
+4144146 4147732 I force the spirit of<br />the Lamia into the goat.
+4147733 4150609 Milos, that's when you strike.
+4150610 4151444 Si, Tetiechko.
+4151445 4153362 <b><font color="#ca004b">[SPEAKING IN FOREIGN LANGUAGE]</font></b>
+4153363 4154364 I understand.
+4165625 4167836 We all must be receptive.
+4176261 4180140 <b><font color="#ca004b">[SPEAKING IN FOREIGN LANGUAGE]</font></b>
+4182601 4184351 What am I supposed to do?
+4184352 4186562 You must allow the darkness in.
+4186563 4191150 You must invite the dead to<br />co-mingle with your spirit.
+4191151 4192735 I'm scared.
+4192736 4194153 Yes.
+4194154 4198574 Now repeat these words:<br />I welcome the dead into my soul.
+4198575 4202536 <b><font color="#ca004b">[SPEAKING IN FOREIGN LANGUAGE]</font></b>
+4202537 4204288 I welcome the dead into my soul.
+4204289 4206791 You must believe it!
+4206792 4209419 I welcome the dead into my soul.
+4210837 4214048 <b><font color="#cf685c">BOTH:</font></b> I welcome the dead into my soul.
+4214049 4215049 <b><font color="#ca004b">[SPEAKING IN FOREIGN LANGUAGE]</font></b>
+4215050 4224100 I welcome the dead into my soul.
+4224101 4232858 I welcome the dead into my soul!
+4232859 4234068 <b><font color="#ca004b">[GASPS]</font></b>
+4234069 4237571 <b><font color="#ca004b">[SHOUTING IN FOREIGN LANGUAGE]</font></b>
+4237572 4243410 I welcome the dead into my soul!
+4243411 4244578 I welcome the dead into my--
+4244579 4246540 <b><font color="#ca004b">[GASPS]</font></b>
+4248542 4251253 Something else is here with us.
+4252504 4253504 Yes.
+4254631 4257259 <b><font color="#ca004b">[LOUD TINKLING]</font></b>
+4259427 4260845 <b><font color="#ca004b">[SOFT TINKLING]</font></b>
+4260846 4263472 <b><font color="#ca004b">[LAUGHING]</font></b>
+4263473 4264306 <b><font color="#ca004b">[SHRIEKS]</font></b><br /><b><font color="#ca004b">[LOUD CRASH]</font></b>
+4264307 4266392 <b><font color="#ca004b">[LAUGHING]</font></b>
+4266393 4269187 <b><font color="#ca004b">[DRAPES RUSTLING]</font></b>
+4277154 4279698 <b><font color="#ca004b">[WIND BLOWING]</font></b>
+4282117 4284243 It is not the Lamia.
+4284244 4288373 It is the spirit of some<br />unsettled soul from years ago.
+4292419 4296463 Sometimes the unsettled<br />ones linger by the door.
+4296464 4299176 There are others here, as well.
+4301720 4303429 <b><font color="#ca004b">[SCREECHES]</font></b>
+4303430 4305473 <b><font color="#ca004b">[GROWLS]</font></b>
+4309603 4311687 Begone, foolish spirits!
+4311688 4312897 Begone!
+4312898 4316483 <b><font color="#ca004b">[SHOUTING IN FOREIGN LANGUAGE]</font></b><br /><b><font color="#ca004b">[SCREAMS]</font></b>
+4316484 4318695 <b><font color="#ca004b">[LOUD HUM]</font></b>
+4326077 4327204 She is coming.
+4339299 4343178 <b><font color="#ca004b">[SUSPENSEFUL ORCHESTRAL MUSIC]</font></b>
+4353355 4355982 <b><font color="#ca004b">[DOOR RATTLING]</font></b>
+4358985 4360653 <b><font color="#ca004b">[LOUD THUD]</font></b>
+4360654 4362781 <b><font color="#ca004b">[BANGING]</font></b>
+4368495 4370705 <b><font color="#ca004b">[JINGLING]</font></b>
+4378171 4380465 <b><font color="#ca004b">[SCREAMING]</font></b>
+4407784 4410786 <b><font color="#ca004b">[SCREECHING]</font></b>
+4410787 4413414 <b><font color="#ca004b">[LOUD THUD]</font></b><br /><b><font color="#ca004b">[GROANS]</font></b>
+4413415 4415625 <b><font color="#ca004b">[GROANING]</font></b>
+4430765 4434561 Who now inhabits the<br />body of Shaun San Dena?
+4437856 4438856 Lamia.
+4446990 4449116 Lamia, what is it you desire?
+4449117 4452329 I desire the soul of Christine Brown!
+4453747 4457583 We will feast upon it as<br />she festers in the grave!
+4457584 4458417 No!
+4458418 4460169 It was my manager, Jim Jacks!
+4460170 4462046 He was the one!<br />- Silence!
+4462047 4464173 Lamia, surely you can be dissuaded
+4464174 4466425 from taking this insignificant woman.
+4466426 4469553 Surely she is not worthy<br />of your greatness.
+4469554 4471723 <b><font color="#ca004b">[LAUGHING]</font></b>
+4478313 4479313 No!
+4483693 4485820 I come for you, Christine.
+4487113 4489281 <b><font color="#ca004b">[GOAT BLEATS]</font></b>
+4489282 4490991 You're mine!
+4490992 4492034 <b><font color="#ca004b">[SCREAMS]</font></b><br /><b><font color="#ca004b">[LOUD THUD]</font></b>
+4492035 4493202 <b><font color="#ca004b">[GOAT BLEATS]</font></b>
+4493203 4494244 <b><font color="#ca004b">[GASPS]</font></b>
+4494245 4495954 <b><font color="#ca004b">[SCREAMS]</font></b>
+4495955 4496830 No!
+4496831 4498791 You tricked me!
+4498792 4501377 You black-hearted whore!
+4501378 4502252 Now, Milos, now!
+4502253 4503253 You bitch!
+4504506 4507132 <b><font color="#ca004b">[GRUNTS]</font></b>
+4507133 4509260 <b><font color="#ca004b">[SCREAMS]</font></b>
+4512222 4514181 <b><font color="#ca004b">[ROARS]</font></b><br /><b><font color="#ca004b">[SCREAMS]</font></b>
+4514182 4517226 <b><font color="#ca004b">[SPEAKING IN FOREIGN LANGUAGE]</font></b>
+4517227 4519104 Away, unclean spirit!
+4520063 4522398 <b><font color="#ca004b">[LAUGHING]</font></b>
+4522399 4524149 <b><font color="#ca004b">[GROANS]</font></b>
+4524150 4528238 <b><font color="#ca004b">[LAUGHING]</font></b><br /><b><font color="#ca004b">[LIVELY ORCHESTRAL MUSIC]</font></b>
+4530698 4533076 <b><font color="#ca004b">[LOUD CRASH]</font></b>
+4535161 4536745 Lamia!
+4536746 4538705 As one who summoned you to this circle,
+4538706 4540457 I command you to leave this instant!
+4540458 4541417 <b><font color="#ca004b">[GROWLS]</font></b>
+4541418 4544044 <b><font color="#ca004b">[LOUD CRASH]</font></b>
+4544045 4547798 <b><font color="#ca004b">[SPEAKING IN FOREIGN LANGUAGE]</font></b>
+4547799 4548799 Christine!
+4555056 4555889 <b><font color="#ca004b">[SCREAMS]</font></b>
+4555890 4559519 I don't want your cat,<br />you dirty pork queen!
+4563940 4566151 <b><font color="#ca004b">[CAT MEWS]</font></b>
+4568403 4570447 <b><font color="#ca004b">[GROANS]</font></b>
+4572031 4573949 <b><font color="#cf685c">RHAM:</font></b> Shaun San Dena!
+4573950 4576827 - Si.<br />- You must banish the spirit!
+4576828 4577953 Yes!
+4577954 4580164 <b><font color="#ca004b">[SCREECHING]</font></b>
+4580165 4584294 <b><font color="#ca004b">[SHOUTING IN FOREIGN LANGUAGE]</font></b><br /><b><font color="#ca004b">[SCREAMING]</font></b>
+4607484 4609943 <b><font color="#ca004b">[LOUD CRASH]</font></b>
+4609944 4611154 <b><font color="#cf685c">RHAM:</font></b> Milos!
+4612030 4613906 Oh, my God.
+4613907 4614740 I'm okay.
+4614741 4615908 Thank God!
+4615909 4616867 <b><font color="#cf685c">MILOS:</font></b> I'm okay.
+4616868 4620454 Unbelievable!<br /><b><font color="#ca004b">[LAUGHS]</font></b>
+4620455 4621663 <b><font color="#cf685c">CHRISTINE:</font></b> You did it!
+4621664 4623208 <b><font color="#cf685c">RHAM:</font></b> Thank God.
+4624667 4625667 I tried.
+4626377 4627920 Are you okay?
+4627921 4629046 Oh, my God.
+4629047 4630047 Help me!
+4631508 4633718 <b><font color="#ca004b">[GROANING]</font></b>
+4634802 4636429 Call an ambulance.
+4640350 4641893 Is she breathing?
+4643520 4644520 <b><font color="#cf685c">RHAM:</font></b> No.
+4648066 4649192 Oh, my gosh.
+4661704 4665166 <b><font color="#ca004b">[SOMBER ORCHESTRAL MUSIC]</font></b>
+4690900 4692484 It's so sad.
+4692485 4694027 Yes.
+4694028 4696363 Strange how things work out.
+4696364 4698615 She waited 40 years for another chance
+4698616 4700410 to overcome the Lamia,
+4702078 4706207 and finally, on the last<br />night of her life, she did.
+4707584 4710461 No, I'm afraid you misunderstand.
+4711421 4714631 The Lamia cannot be banished by a medium.
+4714632 4716800 This is our lesson tonight.
+4716801 4717676 I'm sorry.
+4717677 4718969 But I saw her get rid
+4718970 4719803 of the thing.<br />- No.
+4719804 4722431 You saw her drive it from a seance.
+4722432 4723724 That is all.
+4723725 4725058 It will be back.
+4725059 4727603 The goat was never slaughtered.
+4727604 4730480 When this night is through,
+4730481 4734611 the Lamia will come for the<br />owner of the accursed object.
+4737822 4740616 Unless, of course, you<br />are no longer the owner.
+4740617 4742493 Do you have the button?
+4750418 4754505 Make a gift of it and<br />you've given the curse away.
+4757842 4759551 Why didn't you tell me this before?
+4759552 4761178 Because the Lamia will tear the soul
+4761179 4763305 out of whoever you give that to.
+4763306 4766100 They'll burn in hell for eternity.
+4767685 4771271 And I would have sent them there.
+4771272 4773650 I would be your accomplice.
+4775109 4778655 Whatever you decide,<br />you have till morning.
+4780615 4784160 <b><font color="#ca004b">[OMINOUS ORCHESTRAL MUSIC]</font></b>
+4800009 4801052 Is it over?
+4802762 4803762 It's over.
+4807809 4808934 Clay!
+4808935 4811562 <b><font color="#ca004b">[TIRES SCREECH]</font></b>
+4813606 4815857 You will burn in hell!
+4815858 4818151 You will burn in hell!
+4818152 4821113 You bitch, you'll burn in hell!
+4821114 4823407 Your turn's coming!
+4823408 4824950 You will burn in hell!
+4824951 4825951 You okay?
+4826911 4827911 Holy shit.
+4830873 4832834 <b><font color="#ca004b">[SIGHS]</font></b>
+4842760 4843719 Okay, you sure you're still okay
+4843720 4844678 about the Santa Barbara trip?
+4844679 4845637 - Yeah, I'm fine.<br />- Yeah?
+4845638 4847264 And what time should I get you?
+4847265 4849850 It's better if I meet<br />you at the station.
+4849851 4851768 There's something I've<br />gotta do on the way.
+4851769 4853520 I can do it,<br />you want me to do it on my way to--
+4853521 4854521 No!<br />No.
+4854522 4856857 I've got it under control.
+4856858 4857899 Meet at, like, 7:30 at--
+4857900 4859693 Wait!<br />Where's my envelope?
+4859694 4860986 - What envelope?<br />- It was in my purse.
+4860987 4862320 I just had it!
+4862321 4864448 It's just an envelope.<br />- No, it's gotta be here!
+4864449 4867617 It's here, so we'll find it eventually.
+4867618 4868994 <b><font color="#ca004b">[SIGHS]</font></b><br />- Oh, my God.
+4868995 4871538 - Okay.<br />- I thought I'd lost it.
+4871539 4872539 Okay.
+4873332 4874166 Bye.<br />- 7:30.
+4874167 4875293 Don't be late.
+4876878 4880423 <b><font color="#ca004b">[OMINOUS ORCHESTRAL MUSIC]</font></b>
+4889515 4891642 <b><font color="#ca004b">[TAPPING]</font></b>
+4893561 4896438 <b><font color="#cf685c">BOY:</font></b> Dad, can we go to the Angel game?
+4896439 4897981 What about the Dodgers?
+4897982 4900150 We're only gonna be<br />in town for a few days.
+4900151 4902819 But if there's a home game...
+4902820 4906239 I'm sure if I just tell him<br />how much I care about you,
+4906240 4907491 I mean, he's gotta understand.
+4907492 4911037 <b><font color="#ca004b">[ELEGANT ORCHESTRAL MUSIC]</font></b>
+4912413 4914831 <b><font color="#cf685c">WAITRESS:</font></b> Are you sure you don't want anything else?
+4914832 4915665 No.
+4915666 4916500 So you're just gonna sit
+4916501 4918960 here drinking coffee all night long?
+4918961 4919961 Yes.
+4921005 4922255 Maybe!<br />What's it to you?
+4922256 4924508 Honey, I make my money on tips.
+4924509 4926551 Coffee drinkers don't tip.
+4926552 4928094 Honey, just keep the coffee coming
+4928095 4931390 or I'll give you a tip you won't forget.
+4972306 4973723 Oh, my gosh.
+4973724 4976768 What a delightful surprise.
+4976769 4979729 Well, you're the sweetest<br />person in the world.
+4979730 4982482 <b><font color="#ca004b">[WOMAN CHUCKLES]</font></b>
+4982483 4984192 Never mind what it's about, Stu.
+4984193 4985193 Just get here in 10 minutes
+4985194 4986486 or I'm gonna tell Mr. Jacks something
+4986487 4988572 you don't want me to tell him.
+4988573 4990156 <b><font color="#cf685c">STU:</font></b> Oh, yeah?
+4990157 4991157 Like what?
+4991158 4994202 Well, for starters, that you<br />stole the McPherson loan file
+4994203 4997372 off my desk and gave it to First National.
+4997373 4998748 Now you got nine minutes!
+4998749 5002295 <b><font color="#ca004b">[ELEGANT ORCHESTRAL MUSIC]</font></b>
+5003337 5004588 Give me another.
+5004589 5005589 Seriously?
+5014015 5016683 Oh, God, Christine,<br />please don't tell on me.
+5016684 5018727 I mean, if my dad ever finds out,
+5018728 5020020 just tell me what you want.
+5020021 5022105 I need to give something to you.
+5022106 5023440 A little gift.
+5023441 5024441 A gift?
+5025735 5027068 But I don't understand.
+5027069 5028028 I thought you called me down here
+5028029 5030030 because I gave that<br />loan to First National.
+5030031 5031364 Look, you don't need to understand!
+5031365 5032366 Just shut up!
+5035119 5036494 Now, this gift that I'm giving you,
+5036495 5037662 it'll become your property.
+5037663 5040207 You'll be the owner, all right?
+5043085 5044085 Okay.
+5049592 5050592 Okay.
+5053012 5054054 <b><font color="#ca004b">[SIGHS]</font></b>
+5054055 5055055 What?
+5056766 5057766 Forget it.
+5059185 5060393 But I thought you wanted to give it to me
+5060394 5061311 'cause of the loan stuff.
+5061312 5062355 Just leave.
+5065858 5067192 Okay.
+5067193 5069570 Thank you so much, Christine.
+5071864 5073824 <b><font color="#ca004b">[SIGHS]</font></b>
+5075576 5076785 But you're not gonna tell my dad, right?
+5076786 5077786 Go!<br />- Okay.
+5089173 5091133 Who does deserve this?
+5096889 5100768 <b><font color="#ca004b">[SUSPENSEFUL ORCHESTRAL MUSIC]</font></b>
+5112196 5113071 Well?
+5113072 5114281 Is it possible?
+5115491 5118660 There are gypsy blessings<br />bestowed upon the dead.
+5118661 5120662 They give gifts to their departed
+5120663 5123164 to curry favor with the deceased's soul,
+5123165 5125793 for, truly, the soul never dies.
+5127128 5128712 Yes.
+5128713 5130296 I do believe you can give the curse
+5130297 5132382 to someone who has passed on,
+5132383 5133842 but you must make a formal gift
+5133843 5135885 of the accursed object to the deceased.
+5135886 5137679 Oh, I'll do better than that.
+5137680 5140306 I'll shove it down her goddamn throat!
+5140307 5141683 I'm gonna get some.
+5141684 5143059 <b><font color="#ca004b">[SCREECHES]</font></b>
+5143060 5145021 <b><font color="#ca004b">[GASPS]</font></b>
+5162955 5164831 <b><font color="#ca004b">[TIRES SCREECH]</font></b>
+5164832 5166624 <b><font color="#ca004b">[GROANING]</font></b>
+5166625 5168710 <b><font color="#ca004b">[TIRES SCREECH]</font></b>
+5168711 5170128 <b><font color="#ca004b">[GROANING]</font></b>
+5170129 5172506 <b><font color="#ca004b">[SCREECHING]</font></b>
+5179513 5180805 <b><font color="#ca004b">[SHRIEKS]</font></b>
+5180806 5183017 <b><font color="#ca004b">[GROANING]</font></b>
+5194111 5195862 <b><font color="#ca004b">[LOUD THUD]</font></b><br /><b><font color="#ca004b">[SCREECHING]</font></b>
+5195863 5198908 <b><font color="#ca004b">[LIGHTING CRACKLING]</font></b>
+5204914 5209417 <b><font color="#ca004b">[THRILLING ORCHESTRAL MUSIC]</font></b>
+5209418 5211629 <b><font color="#ca004b">[GRUNTING]</font></b>
+5219428 5221012 <b><font color="#ca004b">[LOUD THUD]</font></b>
+5221013 5223390 <b><font color="#ca004b">[LOUD THUDS]</font></b>
+5228354 5231440 <b><font color="#ca004b">[LIGHTNING CRACKLING]</font></b>
+5232483 5236612 <b><font color="#ca004b">[CASKET CREAKING]</font></b><br /><b><font color="#ca004b">[GRUNTING]</font></b>
+5248541 5250626 I'm giving it back to you!
+5252378 5254755 You're gonna take this thing!
+5256215 5258676 Are you gonna take this thing?
+5259927 5261094 <b><font color="#ca004b">[GRUNTS]</font></b>
+5261095 5262095 Take it!
+5263222 5266266 <b><font color="#ca004b">[LOUD ROAR]</font></b><br /><b><font color="#ca004b">[SCREAMS]</font></b>
+5266267 5267475 <b><font color="#ca004b">[SCREAMS]</font></b>
+5267476 5268893 <b><font color="#ca004b">[GRUNTS]</font></b>
+5268894 5271021 <b><font color="#ca004b">[SCREAMS]</font></b>
+5272273 5274316 <b><font color="#ca004b">[GROANS]</font></b>
+5275734 5278945 That's the last of my hair you're getting!
+5278946 5280990 <b><font color="#ca004b">[GRUNTS]</font></b>
+5284034 5285578 I, Christine Brown,
+5286912 5289038 do hereby make a formal gift
+5289039 5292084 of this button to you, Sylvia Ganush!
+5293294 5294335 <b><font color="#ca004b">[GRUNTS]</font></b>
+5294336 5295880 Choke on it, bitch!
+5311270 5312270 Goodbye.
+5315399 5317610 <b><font color="#ca004b">[GRUNTING]</font></b>
+5321822 5323949 <b><font color="#ca004b">[SCREAMS]</font></b>
+5326160 5328287 <b><font color="#ca004b">[SHRIEKS]</font></b>
+5337963 5340131 <b><font color="#ca004b">[GROANING]</font></b>
+5340132 5342258 <b><font color="#ca004b">[LOUD CRACKING]</font></b><br /><b><font color="#ca004b">[SCREAMING]</font></b>
+5342259 5344637 <b><font color="#ca004b">[LOUD CLANG]</font></b>
+5345971 5349016 <b><font color="#ca004b">[LIGHTING CRACKLING]</font></b>
+5364698 5366825 <b><font color="#ca004b">[GASPING]</font></b>
+5399191 5402026 <b><font color="#ca004b">[PHONE RINGING]</font></b>
+5402027 5402986 <b><font color="#ca004b">[ON PHONE]</font></b><br />Hi, it's Christine.
+5402987 5405738 Leave a message and I'll call you back.
+5405739 5408241 <b><font color="#cf685c">JIM:</font></b> Christine, it's Jim, Jim Jacks.
+5408242 5410243 I'm sorry I'm calling so<br />early, but last night,
+5410244 5412078 I found some troubling information
+5412079 5414497 about our friend Stu Rubin.
+5414498 5418001 Apparently, he stole your<br />file on the McPherson loan
+5418002 5421546 and then tried to broker his<br />own deal at First National.
+5421547 5423423 I guess he thought we wouldn't find out.
+5423424 5426217 And we wouldn't have, either,<br />except that an hour ago,
+5426218 5431097 he came by my house and tried<br />to pin the whole thing on you.
+5431098 5432307 After I confronted him
+5432308 5434684 about a few inconsistencies in his story,
+5434685 5437061 he broke down crying and, well,
+5437062 5440148 we won't be seeing him around anymore.
+5440149 5443526 So I just wanted you to know<br />that, come Monday morning,
+5443527 5447656 that assistant manager's<br />position will be waiting for you.
+5458375 5459250 <b><font color="#ca004b">[TRAIN HONKING]</font></b>
+5459251 5461252 <b><font color="#cf685c">ANNOUNCER:</font></b> Passenger Benson,<br />please meet your party
+5461253 5463881 at the concourse ticket counter.
+5466383 5467967 <b><font color="#cf685c">ANNOUNCER:</font></b> Welcome to Union Station.
+5467968 5469552 - Cookie, Miss?<br />- No, thanks.
+5469553 5472305 <b><font color="#cf685c">ANNOUNCER:</font></b> Train travel as<br />your mode of transportation,
+5472306 5473890 and we wish you a pleasant journey.
+5473891 5477436 <b><font color="#ca004b">[ELEGANT ORCHESTRAL MUSIC]</font></b>
+5488280 5490239 Hi. Good morning.
+5490240 5493826 - I'm sorry, we're not open.<br />- Oh, I just want this coat.
+5493827 5494702 We're not open yet.
+5494703 5495953 My boyfriend and I are taking
+5495954 5499083 this really special trip this morning.
+5500250 5501250 Please?
+5504129 5507131 <b><font color="#cf685c">ANNOUNCER:</font></b> Northbound Surfliner,<br />service to Van Nuys,
+5507132 5510510 Simi Valley, Oxnard, Santa Barbara, San--
+5510511 5512136 <b><font color="#cf685c">CHRISTINE:</font></b> Clay.
+5512137 5513054 - Hey.<br />- Hey!
+5513055 5514055 Oh, man!
+5514765 5516682 God, I'm so glad you're<br />here, so many things
+5516683 5517558 I wanna tell you.<br />- Wait, there's something
+5517559 5519519 I wanna say while I have<br />it straight in my head.
+5519520 5521396 Okay.<br />Go ahead.
+5521397 5524774 You never stopped believing in me.
+5524775 5526318 Thank you for that.
+5527694 5528528 And there's something else,
+5528529 5531990 something that I couldn't admit to before.
+5533033 5535368 I could have given Mrs. Ganush
+5535369 5538997 another extension on<br />her loan, but I didn't.
+5540165 5543710 It was my decision,<br />and it was wrong of me.
+5553554 5555931 You have such a good heart.
+5558225 5560686 You're so beautiful right now.
+5562271 5563563 <b><font color="#cf685c">CHRISTINE:</font></b> Do you like my new coat?
+5563564 5564730 I do.<br />I really do.
+5564731 5565731 What happened to the old one, though?
+5565732 5566566 I threw it out.
+5566567 5568067 And I never want to see it again.
+5568068 5569402 Oh, no.
+5569403 5571571 Oh, that's too bad, 'cause<br />I, look what I found.
+5571572 5573532 I found this in the car.
+5575576 5578828 And I thought maybe you could...
+5578829 5581205 I thought maybe you could sew it back on.
+5581206 5584542 Yeah, I think you might have<br />my Standing Liberty quarter,
+5584543 5587336 'cause the envelopes<br />kind of look the same.
+5587337 5589755 Chris, what's wrong?
+5589756 5590798 <b><font color="#ca004b">[GASPS]</font></b>
+5590799 5593968 - Oh, my God!<br />- Hey, hey, hey, hey!
+5593969 5595511 Hey, hey, hey, hey!
+5595512 5596387 Stop!<br />Chris!
+5596388 5599223 <b><font color="#ca004b">[SCREAMS]</font></b><br />Oh, God!
+5599224 5600349 Hey!<br />Hey!
+5600350 5601309 Hey, hey, no!
+5601310 5602185 Hey!
+5602186 5603186 Oh, God, no!
+5605355 5607064 <b><font color="#ca004b">[TRAIN HONKING]</font></b>
+5607065 5608566 <b><font color="#ca004b">[GASPS]</font></b>
+5608567 5609692 Hey!<br />No!
+5609693 5613822 <b><font color="#ca004b">[LOUD CRASH]</font></b><br /><b><font color="#ca004b">[SCREAMING]</font></b>
+5615949 5617325 Help me!
+5617326 5619785 <b><font color="#ca004b">[SCREAMS]</font></b>
+5619786 5621871 <b><font color="#ca004b">[GROANING]</font></b>
+5621872 5622872 Help me!
+5623957 5624957 Help me!
+5626043 5627336 Help me, please!
+5645771 5649274 <b><font color="#ca004b">[OMINOUS ORCHESTRAL MUSIC]</font></b>
+5744286 5747414 <b><font color="#ca004b">[SOMBER VIOLIN MUSIC]</font></b>
+5772564 5775859 <b><font color="#ca004b">[FRENETIC VIOLIN MUSIC]</font></b>
+5833709 5837212 <b><font color="#ca004b">[OMINOUS ORCHESTRAL MUSIC]</font></b>

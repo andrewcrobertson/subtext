@@ -1,0 +1,39 @@
+{
+  "imdbId": "tt1127180",
+  "title": "Drag Me to Hell",
+  "releaseDate": "2009-05-29T00:00:00.000Z",
+  "releaseYear": 2009,
+  "posterFileName": "poster.jpg",
+  "rated": "PG-13",
+  "genres": [
+    "Horror"
+  ],
+  "directors": [
+    "Sam Raimi"
+  ],
+  "writers": [
+    "Sam Raimi",
+    "Ivan Raimi"
+  ],
+  "actors": [
+    "Alison Lohman",
+    "Justin Long",
+    "Ruth Livier"
+  ],
+  "runTime": 99,
+  "plot": "A loan officer who evicts an old woman from her home finds herself the recipient of a supernatural curse. Desperate, she turns to a seer to try and save her soul, while evil forces work to push her to a breaking point.",
+  "subtitleIds": [
+    "8c2e730b",
+    "335d45fd",
+    "b4522628",
+    "9e8360f6",
+    "719eb886",
+    "492a67f5",
+    "23d07129",
+    "5dcc5e99",
+    "719eb886",
+    "21169613",
+    "1fe5166d"
+  ],
+  "isAvailable": true
+}

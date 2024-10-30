@@ -1,0 +1,868 @@
+2000 6000 23.976 English.
+138488 140149 No! No!
+148064 149156 No!
+159342 160570 Juan!
+162678 163906 Juan!
+340823 344759 <i>Repeat the following phrases<br />precisely as spoken.</i>
+345428 348829 <i>There is no friction<br />with the proper diction.</i>
+348931 351866 There is no friction<br />with the proper diction.
+352368 355769 <i>Good sounds abound when<br />the mouth is round.</i>
+356338 360001 Good sounds abound when<br />the mouth is round.
+361277 363837 Round. Round.
+385568 389197 I think we can make this work. I'll call<br />you this afternoon and let you know.
+389305 390363 - Thank you so much.<br />- Thank you.
+390473 392407 - You're welcome.<br />- Thank you.
+392808 394070 - Thank you.<br />- Have a great day.
+394143 395810 - Yeah, you, too. Have a good day.<br />- Okay.
+395811 397472 - Thank you.<br />- Bye.
+409825 412316 - Here you go, Mr. Jacks.<br />- Thank you.
+415164 416756 Mr. Jacks?
+417666 422000 I was wondering if you'd made any decision<br />regarding the assistant manager's position.
+422404 426602 Well, I'm still deciding, and right<br />now, it's between Stu and yourself.
+426675 427937 Stu Rubin, the new guy?
+428010 431810 Well, I know he's new, but he's also<br />quite aggressive, and we like that.
+431914 434508 You know, Stu's someone who's not<br />afraid to crunch the numbers
+434617 436448 and make the tough decisions.
+436519 439113 I'm perfectly capable of<br />making the tough decisions.
+439188 442521 I'll let you know as<br />soon as I decide. Okay?
+443359 445927 In the meantime, take him through<br />our loan qualifying procedures,
+445928 448362 just in case, all right?
+448964 450192 Okay.
+451534 454526 And would you mind taking<br />your lunch break now?
+454637 455695 Sure.
+455805 458968 And maybe on your way back, you<br />could pick me up a Turkey club?
+459041 463944 Turkey club, excellent choice! You<br />mind picking one up for me? Thanks.
+464380 465972 And spicy mustard.
+467383 468850 - What have you got?<br />- Could I get your approval on this?
+468951 470680 - This is the loan we talked about before.<br />- The loan.
+470786 471980 Exactly.
+472488 474183 - Good one, huh?<br />- One-point-five?
+474290 475770 Absolutely, and it'll<br />be one of many.
+479895 483296 Well, Professor, congratulations on<br />making it through your first week.
+483399 486562 Thank you very much. Mmm.
+486669 491402 - I thought you'd have a full beard by now.<br />- So did I. I'm a little disappointed.
+491674 494905 Man, this thing. That's it.<br />I'm done. I'm out.
+495911 497742 Chris, don't even bother.
+498747 500044 I gotta get a new one.
+500149 503641 I'm telling you, you're gonna drive<br />yourself nuts. It's completely
+504253 505584 broken.
+508357 514421 - Was broken.<br />- You are cocky and sexy and unbelievable.
+514930 518161 I almost forgot. Found<br />it at the bank.
+518934 520492 What is this?
+522004 527203 No way! Wow. It's a 1929 Standing<br />Liberty, and it's almost fully struck.
+527376 529071 You found this in regular<br />circulation at the bank?
+529178 530236 I did.
+530346 533543 I'm gonna add this to my<br />nerdy coin collection.
+534350 535612 - Thank you, baby.<br />- Okay.
+535718 537618 Thanks for thinking of me.
+539054 540783 - All right. Bye.<br />- Bye.
+540890 543017 - See you later.<br />- I'll see you later, okay?
+545461 546951 - Dr Dalton.<br />- <i>Hello, dear.</i>
+547296 549628 - Hi, Mom.<br />- <i>What are you doing?</i>
+549732 551393 Christine just came over<br />and brought some lunch,
+551467 554027 - and I'm correcting some papers.<br />- <i>Christine? The one from the farm?</i>
+554136 556798 Yeah, Mom, the girl I've been<br />dating for almost a year,
+556906 559033 the girl who's coming for dinner.<br />We're still on for dinner?
+559141 561541 - <i>I'm sure she's a very sweet girl.</i><br />- She is. I can't wait for you...
+561644 564135 <i>But you know your father and I just<br />have certain expectations for you</i>.
+564246 566908 - I can't really do the expectations...<br />- <i>I understand Amy Kulick is looking</i>
+566982 568643 - <i>for someone to play tennis with</i>.<br />- Yeah, I...
+568751 571276 <i>You know, she graduated<br />from Yale Law with honours,</i>
+571387 573719 <i>and she's a very<br />successful attorney now.</i>
+573822 576120 - I know. You told me.<br />- <i>Yeah, that's the kind of girl.</i>
+576225 578557 - <i>I would love to see you with.</i><br />- Mother...
+578661 582324 <i>She's the kind of woman who<br />could really help you socially</i>
+582431 584296 <i>and, as a result,<br />in your career.</i>
+584400 586595 <i>And that's the kind of thing you<br />should be thinking about now</i>.
+586669 588466 - Mother, I don't wanna...<br />- <i>You can't be playing around</i>
+588570 589594 <i>with little girls<br />off the farm.</i>
+589672 592106 I think you're really gonna... I<br />think you're really gonna like...
+592174 593574 <i>It's time to really<br />find a partner.</i>
+598948 601280 Christine, you<br />messed up my order.
+602184 605779 - No, I didn't.<br />- Yeah, I said no Mayo.
+607690 609521 You never said that.
+612027 614587 You know what? Don't sweat it.<br />It's okay.
+629812 632474 Mr. Jacks, by the way,<br />aren't you a Laker fan?
+632548 633606 I am a Laker fan.
+633716 636150 My Mom is having this thing on Sunday.<br />I can't use these.
+636218 637981 - Are you serious?<br />- Yeah. Absolutely. You want them?
+638053 639384 - These are great seats!<br />- They are great seats.
+639488 641046 This is where they bring<br />the hot dogs right to you.
+641390 642982 Yes, it is. You are gonna<br />hobnob with celebs.
+643058 645026 - You sure that's okay?<br />- Absolutely, it's okay. Yeah.
+645127 646822 - Well, thank you, Stu.<br />- Take them. Absolutely.
+646895 648487 - Wow.<br />- Say hey to Kobe for me.
+648564 650054 Of course.
+654169 655659 Will you help me?
+656572 658369 Of course. What<br />can I do for you?
+658474 663002 Your trucks are at my house. The<br />men are packing all my things,
+663345 666508 private things. Please,<br />make them stop.
+673088 675022 - Mrs...<br />- Ganush.
+676425 679189 Mrs. Ganush, the bank<br />is informing you
+679261 683493 of their intent to repossess your<br />property at 325 Brandon Street today.
+683599 686659 But this is my<br />home for 30 years.
+687603 691869 And I make every payment until<br />the sickness took my eye.
+692708 697008 I hope to have more money soon. I<br />just need a little more time. You...
+697112 700445 I don't think my manager's going<br />to extend you any more credit.
+702184 705711 Please. Won't you try?
+710726 712887 - Okay.<br />- Bless you.
+714797 716287 Bless you!
+721904 723394 We have an elderly<br />woman asking
+723472 725963 for an extension on<br />her mortgage payment.
+726075 729567 She's on a fixed income, and<br />she's had some medical problems.
+729645 732637 There's gotta be something<br />we can do to help her.
+739321 742722 Well, apparently, we've already<br />granted her two extensions.
+742991 746791 And, you know, on this type of<br />foreclosure, we seize the trapped equity
+746895 749329 and the bank makes a<br />sizable amount in fees.
+749431 751626 We would have to throw<br />her out of her house.
+751733 753428 It's a tough decision.
+754770 756101 Your call.
+781463 783124 I'll take care of it.
+803318 806287 Mrs. Ganush. I'm<br />sorry, Mrs. Ganush,
+806388 809152 but another extension on the<br />loan is out of the question.
+809224 811715 - What? - I would like to help,<br />but it is in the bank's...
+811827 816230 No, please, this is my home.<br />Where will I live?
+817566 820296 You list your granddaughter as a reference.<br />Maybe you could stay with her.
+820402 821994 I would not burden her.
+823505 826167 And there are several fine assisted<br />living facilities for the elderly...
+826241 831076 A nursing home? No, I would never<br />live in one of those places.
+833148 834843 I'm really sorry.
+859608 862372 I am proud woman, Miss Brown,
+862778 865713 and never have I<br />begged for anything.
+867883 871114 But now, I beg for you.
+871620 873952 - I humble myself before you.<br />- Mrs. Ganush. Mrs. Ganush, please.
+874056 876718 - Please stand up.<br />- I, Sylvia Ganush, beg.
+876792 879784 On my mother's grave, I beg you!
+880295 884061 Please let go. Let go!<br />Security! Stop!
+886068 888901 - Over here, Billy! Over here!<br />- We're coming.
+897412 899812 You shame me.
+909391 913088 I beg you, and you shame me.
+914429 916590 I think your business is<br />finished here, ma'am.
+917332 918765 Let's go.
+925107 926267 Mrs. Ganush...
+933615 935173 Get out of here!
+938453 940444 - Come on, ma'am.<br />- Let's go.
+945794 948592 I never saw anything<br />quite like that before.
+949197 950755 Are you okay?
+952701 955192 You handled that just<br />right, you know.
+966048 968778 - Good night. See you tomorrow.<br />- Okay.
+971887 975118 You know, I just finished going<br />over this McPherson loan.
+975223 978624 - This is very impressive work.<br />- Thanks.
+978727 981161 Would you mind taking this home<br />tonight and finishing it up?
+981229 984494 Because I would like to show it to<br />the regional veep in the morning.
+984566 986363 - I would love to.<br />- Great.
+986468 987833 Thank you.
+987903 991395 And as far as that assistant<br />manager's position goes,
+992174 994472 you're at the top of the list.
+1108256 1111191 You shamed me.
+1235650 1237811 I beat you, you old bitch!
+1267515 1268675 No!
+1296544 1299638 Lamia.
+1314129 1318156 Soon it will be you who<br />comes begging to me.
+1349497 1352523 - She's right over there.<br />- Thank you, thank you.
+1353101 1354329 Hey!
+1359174 1361165 Once they send some officers<br />over to have a talk with her,
+1361276 1362538 she's not gonna be bothering<br />you any more, okay?
+1362610 1364100 So don't even think about her.
+1364212 1365736 And I'm gonna call Mr<br />Jacks and just make sure
+1365847 1368008 he can have somebody walk you<br />to your car every night, okay?
+1368116 1369344 Okay.
+1369884 1373684 I just thank God you're okay.<br />You are okay, right?
+1374522 1375784 I'm fine.
+1377125 1379457 What? What's the matter?
+1380628 1385258 It's just that maybe I could have gotten<br />her another extension on her loan.
+1385366 1386731 Chris, no, don't do that.
+1386801 1389964 You said the bank granted this woman<br />two extensions already, right?
+1390071 1392130 I'm sorry, if you don't pay your<br />mortgage, you lose your house.
+1392240 1394902 What does this woman expect?<br />It's not your fault.
+1394976 1397536 You can't beat<br />yourself up over it.
+1404486 1407250 I mean, what'd she expect?<br />It's not your fault.
+1407322 1410485 And regardless of what you may<br />or may not have been able to do,
+1410759 1413387 that's still no<br />justification for her...
+1421669 1423899 What is it? What's wrong?
+1424439 1427408 - Did you hear that?<br />- What?
+1427842 1429332 Really? You didn't?
+1430845 1432506 No. What?
+1436851 1440014 I know this is gonna sound weird,<br />but I wanna get my fortune read.
+1441089 1445025 Now? Are you kidding?
+1446694 1449527 Come on, Chris. I'll read<br />your fortune for you.
+1450031 1452022 In the near future, we are<br />gonna get in the car,
+1452133 1455034 - go home and relax.<br />- Clay, I really want to do this.
+1455136 1457866 Why? Because of what happened<br />with that old woman?
+1457972 1461271 Chris, I really think we<br />should just get you home now.
+1463044 1464636 Can you do this for me?
+1472554 1475387 I pray to God none of my<br />students see me here.
+1476891 1480122 The only class I'll be able to<br />teach is, like, Hypocrisy 101.
+1482897 1484956 Yeah, there's so many<br />things to choose from here.
+1485066 1488627 Unfortunately, not what I'm looking for,<br />which is a weird little dried monkey head.
+1488736 1490897 Wait, no, never<br />mind, he's got one.
+1493575 1495907 I am Rham Jas, seer.
+1496744 1499162 I'm Christine<br />and this is Clay.
+1499163 1501579 But you probably already<br />knew that, right?
+1503251 1506186 - Just kidding.<br />- How can I help you?
+1506254 1509849 I would like to have my fortune read.<br />Can you do that?
+1509924 1512984 I have the ability to<br />see certain energies.
+1513094 1516689 Sometimes these energies are a<br />foretoken of things to come.
+1516764 1518026 $60, please.
+1518099 1519862 - Seriously?<br />- Yes.
+1519934 1523597 Sixty... Doesn't that seem a little<br />steep for this sort of thing?
+1523705 1528506 - If you're not serious, please go.<br />- All right. Come on, Chris.
+1528610 1531170 Wait, wait! I'll... I'll pay.
+1531279 1534442 No, you know what? You know what?<br />I got it. I got it.
+1535116 1539280 - There you go.<br />- Platinum card. Very good.
+1545393 1546621 Thank you.
+1547195 1548594 - Here, here, baby.<br />- Thanks.
+1548696 1549890 Sure.
+1552300 1555064 Uh-uh. Please.
+1555970 1556959 Okay.
+1557705 1560572 So, you wish to know<br />something of your destiny.
+1560642 1561802 - Yes.<br />- Very good.
+1561910 1563477 Let's see what the<br />fates have in store.
+1563478 1565742 You know, Freud said destiny<br />was not an act of fate,
+1565813 1567576 but rather something created<br />by our subconscious
+1567649 1569446 to control our<br />conscious choices.
+1569550 1574578 That's true. But we cannot attempt to<br />understand the world by intellect alone.
+1575256 1576985 - Carl Jung.<br />- Yes.
+1577659 1580719 From his treatise<br /><i>Psychological Types.</i>
+1580828 1582529 So...
+1582530 1584250 Jung, the New Agers'<br />favourite psychologist.
+1584332 1586596 Because he wasn't afraid to<br />bring God into the equation.
+1586668 1587965 Well, he wasn't afraid<br />to bring God into...
+1588069 1589770 Clay, Clay, come on.
+1589771 1591470 Let's do it. I know. Come on.<br />Let's start.
+1591572 1593335 - Shall we?<br />- I'm ready.
+1593975 1595101 Very well. Please,<br />give me your hand.
+1595176 1596837 Okay.
+1597345 1599074 This way. Okay.
+1605853 1607343 You work with money.
+1608690 1609748 That's right.
+1611092 1613458 And you've recently<br />lost something.
+1615630 1621091 - No, I don't think so.<br />- No. No, you haven't lost anything.
+1622203 1624535 But something's been<br />taken from you.
+1625440 1626600 No.
+1627208 1630143 - A button.<br />- Oh, my God. Yes!
+1631045 1632876 Well, anyone can see she's<br />missing a button! So what?
+1632981 1634314 But, Clay, it was<br />really strange.
+1634315 1636715 The old woman today, she took<br />a button from my sleeve.
+1636818 1640652 - Why would she do that?<br />- If you would both please just be quiet!
+1713294 1716457 - I think that's enough for tonight.<br />- What's wrong?
+1716564 1719329 I'm tired, and I see<br />it's become quite late.
+1719330 1722093 I will, of course,<br />refund your money.
+1722203 1724728 Wait, wait, wait! Did<br />you see something?
+1726307 1727934 A dark spirit has come upon you.
+1728042 1729475 - What do you mean?<br />- Well, he's...
+1729577 1731442 Did you blaspheme the dead<br />while visiting a graveyard?
+1731546 1733605 - No!<br />- Did you play with a Ouija board
+1733714 1735545 or consort with those who<br />practise the black arts?
+1735650 1736947 All right, take it easy, man.<br />Come on.
+1737051 1739076 Wait. Clay, Clay, Clay.<br />No. No, I didn't.
+1739821 1741982 Perhaps someone has cursed you.
+1748396 1752162 - Then how did he know all that?<br />- Know what? That you lost a button?
+1753000 1754490 And by the way, he didn't<br />really know that much.
+1754602 1756502 He makes a couple of<br />good guesses, then he...
+1756604 1759505 He stirs you up, and then he leaves<br />you with all these questions
+1759607 1762167 and, conveniently,<br />his business card.
+1762844 1765335 Come on, Chris,<br />he's a scam artist.
+1765746 1768840 But he didn't want the money. He<br />tried to give it back, remember?
+1768950 1772681 Well, he sort of tried, but in<br />the end, he took it, didn't he?
+1775690 1777180 I guess so.
+1801182 1802444 I gotta go meet the guy<br />that's towing your car,
+1802550 1803539 so you gonna be okay?
+1803684 1805948 - Yeah.<br />- All right. Kitty, take care of her.
+1806053 1807714 - I'll see you in about an hour. Love you.<br />- Okay.
+1807855 1809049 Okay.
+1990471 1991733 Damn it.
+2037284 2038945 - Here. Put that on your lip.<br />- Thank you.
+2039086 2042522 I can't believe she came to the house.<br />This is so nuts. I'm calling the cops.
+2042623 2045751 - It wasn't her.<br />- Who was it then?
+2045860 2049057 - I don't know. I couldn't see who it was.<br />- Of course it was her. It had to be her.
+2049130 2051064 No, Clay, it wasn't anyone!
+2051132 2053293 It was somebody. Chris,<br />it had to be somebody.
+2053434 2054867 The lights were out. You just<br />couldn't see who it was,
+2054969 2058132 - but I'm guessing it was...<br />- Clay, there wasn't anybody here.
+2058973 2060702 Then who did this?
+2061642 2063872 Who hit you in the face?
+2066046 2067206 Huh?
+2071318 2074219 I think it's just a reaction to her<br />being attacked earlier in the day.
+2074321 2076812 Yeah. Classic symptoms of<br />post-traumatic stress.
+2076957 2080324 Yeah, she's showing signs of<br />panic and paranoia. So...
+2080461 2082895 - Do you want me to walk you out, man?<br />- No, no, no, I'll be fine.
+2082997 2084328 All right.
+2087668 2089158 Hey, hey.
+2090738 2091966 How you doing?
+2092072 2093232 - Better.<br />- Yeah?
+2093340 2095399 Especially after the<br />doctor explained it to me.
+2095509 2097443 He said that victims<br />of violence,
+2097511 2099979 - they re-experience.<i>..</i><br />- Re-experience their trauma.
+2100347 2103748 I misinterpreted it to be<br />something more than it was.
+2104685 2108177 - Happens.<br />- I just... I feel...
+2109323 2111257 - What?<br />- Kind of embarrassed.
+2111358 2115089 Are you kidding? No. You never<br />have to be embarrassed with me.
+2117431 2118693 Okay?
+2124004 2127997 Hey, listen, I was thinking maybe we<br />could take a little trip on Saturday,
+2128108 2130872 - get on the train and go to Santa Barbara.<br />- Your folks' cabin.
+2131011 2132512 Yeah, if you're up<br />for it, the cabin.
+2132513 2134777 - Oh, my God, I would love to!<br />- Yeah? Good.
+2134882 2137180 - That'd be so exciting.<br />- Baby, you're gonna love it.
+2137284 2138308 - You're gonna love it.<br />- Okay, good.
+2138385 2139443 I'm excited for you to see it.
+2139553 2141111 - There's trees and it's private.<br />- That would be great.
+2141222 2142712 It'll be great. It'll be good.
+2142857 2148227 I think we need to. And we can just...<br />We can just talk and stuff.
+2276090 2277352 What?
+2278759 2282695 - What's the matter?<br />- I couldn't... I couldn't wake up.
+2283664 2288033 It's okay. Okay. Come here.<br />It was just a dream.
+2300714 2303444 Baby, that's the rental car<br />they dropped off this morning.
+2303550 2305177 - Okay? Sure.<br />- Thanks.
+2306053 2308112 - Love you.<br />- Love you, too.
+2310024 2314051 Hey, baby, try not to piss off<br />any old ladies today, okay?
+2332913 2334403 Hey, Christine?
+2334915 2337349 - What, are you just getting here?<br />- What are you, the hall monitor?
+2337418 2339750 Ha, ha. Very funny, Christine.
+2340587 2342214 What's this?
+2342856 2344517 What do you want?
+2344591 2347856 I need you to finish teaching<br />me the loan procedures.
+2349763 2352698 I've got a lot on my mind.<br />Can we do this tomorrow?
+2352766 2354028 - Sure.<br />- Okay.
+2354101 2356365 I'll just tell Mr. Jacks that you<br />don't have the time right now.
+2356437 2359770 - Maybe he can tell me.<br />- No, no! Okay, I'll do it.
+2360274 2361536 Okay.
+2362776 2366041 We were going over the<br />asset-based lending guidelines.
+2366113 2371107 Right. Let's say your client is a company<br />that can't get traditional bank financing.
+2382396 2384626 - And?<br />- And.<i>..</i>
+2389803 2391134 And?
+2393307 2394638 And...
+2397077 2400137 And get your filthy pig<br />knuckle off my desk!
+2408288 2410779 Christine Blood... Brown.
+2411658 2413922 Christine. Your nose.
+2415429 2416987 Sure, can you hold?
+2417131 2419463 - Let me help you.<br />- No, no, I've got it under control.
+2419833 2421824 Oh, my God! Oh, my God!
+2423170 2425502 God! Oh, my God! Stop it!
+2426440 2427668 Mr. Jacks!
+2427808 2429503 - Did I get any in my mouth?<br />- Oh, my God!
+2429643 2432840 - Did I get any in my mouth?<br />- Let me take you over here to get clean.
+2432946 2436279 I'm so sorry! Oh, my God!
+2436350 2439012 - What was that about?<br />- It's just a nosebleed.
+2439153 2442350 - Did I get any in my mouth?<br />- We'll clean you up. We have antiseptic.
+2495209 2496676 What is it?
+2500681 2503741 Hi. I came to see Sylvia Ganush.<br />Is she here?
+2504384 2505874 Who are you?
+2506753 2509347 I'm a friend of hers.
+2510023 2511752 - Someone...<br />- Wait.
+2514761 2518595 I know who you are. Grandma<br />told me you would come.
+2518866 2522199 You are the woman from the bank,<br />the one who took her house.
+2522269 2524103 Actually, it was the bank<br />that took the house.
+2524104 2526265 I mean, I just work there.
+2526607 2530099 In fact, I tried to help your<br />grandma get the house back,
+2530210 2531768 but my boss wouldn't let me.
+2531879 2535610 Are you going to stand here on<br />my porch and lie to my face?
+2541255 2543440 No.
+2543441 2545624 You used to be a real<br />fat girl, didn't you?
+2552299 2554426 - Yeah.<br />- I can tell.
+2555469 2557403 You are not welcome here.
+2558238 2561139 Wait! Wait. I need to see her.
+2561241 2564301 I need her to forgive me. And<br />I'll get her the house back.
+2564444 2567413 And you are gonna make everything<br />all right for her, is that it?
+2567481 2568641 Yes.
+2570117 2571482 Come on.
+2586667 2588259 Where is she?
+2640387 2644050 - Get her off me! Get her off me!<br />- Come! Don't look.
+2645692 2649150 - Grab her shoulder.<br />- Be a man! Lift her up!
+2655369 2659066 - Be careful.<br />- Let's roll the dice!
+2659873 2663070 Still going to make<br />everything all right for her?
+2664511 2667537 You deserve everything<br />that is coming to you.
+2673920 2675080 One more time!
+2675589 2678683 I believe what plagues<br />you is the Lamia.
+2678759 2681023 Lamia, that's the word<br />the old woman used.
+2681094 2685087 The Black Goat, only summoned by<br />gypsies for their darkest deeds.
+2685899 2691360 For the first three days, the Lamia appears<br />as a nasty spirit that torments its victim.
+2691438 2694373 After that, it reveals itself<br />to be a taker of souls,
+2694441 2696875 and it comes for the owner<br />of the accursed object.
+2696943 2698433 Accursed object. What object?
+2698545 2701946 Something taken from the<br />victim, cursed and given back.
+2705952 2707249 This?
+2709423 2710617 What if I just burn it?
+2710757 2713783 I'm afraid no matter what<br />condition the button is in,
+2714294 2717786 you would still be the owner. The<br />Lamia would still come to take you.
+2717931 2719592 Take me where?
+2726306 2730572 - Then how do I get rid of this?<br />- You could attempt to appease the spirit.
+2730644 2732578 The simplest way would<br />be a blood offering.
+2732646 2736582 A small creature could be<br />sacrificed, a chicken perhaps.
+2736650 2738743 No way! Look, I'm a vegetarian.
+2738819 2741754 I volunteer at the puppy<br />shelter, for Christ's sake.
+2741822 2743915 I don't go around<br />killing animals.
+2743990 2745991 You will be surprised what<br />you'll be willing to do
+2745992 2748153 when the Lamia comes for you.
+2750497 2752488 This will show you how.
+2768648 2769808 Hi!
+2996810 2998505 Here, kitty, kitty.
+3020066 3021897 Chris! Chris?
+3023570 3024832 Chris?
+3026539 3029440 Hey, there you are. What<br />are you doing out here?
+3029542 3031203 Baby, I called the bank.<br />They said you left early.
+3031277 3034769 You're not answering my calls.<br />Is that blood?
+3037517 3040179 No. Why would there be blood?
+3040253 3043222 Yeah, baby, there's... There's<br />blood on your sleeve.
+3043289 3045348 - Are you bleeding?<br />- No.
+3046025 3047219 It was just tomato juice.
+3047293 3052026 I was cutting a tomato in the kitchen<br />and it must have gotten on my sleeve.
+3054033 3058436 Hey, Chris, why don't we do<br />this dinner another time?
+3059305 3061967 You've had a rough couple of days.<br />I think it's better.
+3062075 3064134 No, I want to go to the dinner.
+3064244 3067577 I know, but are you sure<br />you're feeling all right?
+3069382 3071714 Honestly, I haven't been.
+3077957 3079549 But I think...
+3079893 3082794 I think that everything<br />is gonna be okay now.
+3084631 3086258 I really do.
+3091137 3092798 What do you think?
+3096443 3098172 You look beautiful.
+3101748 3104911 - God, it's such a nice day!<br />- It really is. My God.
+3104984 3107248 It's gonna be nice inside, too.
+3109923 3111823 They're gonna love you.
+3114594 3116186 - Clayton.<br />- Hello, Mother.
+3116296 3117524 Good to see you.<br />This is Christine.
+3117630 3119621 - That's my Mom, Trudy.<br />- Hello, Christine.
+3119699 3121792 Hello. It's very<br />nice to meet you.
+3122135 3124603 - Well.<br />- Please, come in. Come in.
+3124671 3125763 Yes.
+3126206 3127468 - Hey, Dad, how are you?<br />- Hey, son.
+3127540 3129269 Good to see you, sir.
+3129342 3131105 This is Christine. Christine,<br />this is my Dad, Leonard.
+3131177 3132269 - Nice to meet you.<br />- Hi, Maria. Thank you.
+3132345 3135940 - You have a beautiful home.<br />- Well, thank you very much.
+3136716 3138274 - Can I get you a drink?<br />- Yeah, wine?
+3138351 3139716 - Do you guys want?<br />- Sure.
+3139819 3143619 - Okay. Come help me.<br />- I'll be right back.
+3143990 3146515 - I'll take a Chardonnay!<br />- Yes, dear.
+3147460 3150156 - I hope you don't mind.<br />- How thoughtful.
+3150230 3151891 - Homemade?<br />- Yes.
+3151998 3154796 And what type of cake<br />would you call that?
+3155335 3156859 It's called
+3158071 3159299 a harvest cake.
+3159372 3162466 Is that something you<br />would make on a farm?
+3163376 3164570 No.
+3166813 3172479 I mean, not any more. We used to<br />when we had a gaggle of geese.
+3172552 3175214 - Geese?<br />- Well, right around the harvest time,
+3175321 3178415 that's when your goose eggs<br />will make a real dense yolk.
+3178992 3180983 It makes for a rich cake.
+3183263 3185231 Well, just thank you.
+3186232 3188564 - Here we are.<br />- Sorry to interrupt the bonding sesh.
+3188668 3189862 - Why don't you join us in the dining room?<br />- Good.
+3189936 3192666 - Yeah, let's go. It's right in here.<br />- Okay.
+3194207 3195765 - Jeez.<br />- Hecuba.
+3196776 3199438 I never did understand that damned animal.<br />I hate cats.
+3199546 3203175 That is so strange. Hecuba<br />is usually very sweet.
+3203249 3206082 That's okay. I had a cat.<br />I understand.
+3206753 3209244 You mean... You mean<br />you have a cat.
+3210523 3211854 What do you mean? Did<br />something happen?
+3211925 3213950 Unless something<br />happened to him.
+3216629 3218790 Well, how am I supposed to know?
+3219198 3222361 I mean, you know how cats are.<br />They come and they go.
+3225471 3227029 That's true.
+3229375 3232310 - Well, should...<br />- Well... Yes. Yes, please.
+3233079 3235309 So, how's the coin<br />collection, son?
+3235415 3238282 That's my Dad's way of saying,<br />"So, you're still a huge nerd?"
+3238384 3240716 It's good. It's good. In<br />fact, Christine just got me
+3240787 3242755 a 1929 Standing Liberty<br />quarter at her bank.
+3242822 3244881 - Really?<br />- Isn't that crazy? Yeah, it's rare.
+3244958 3248257 I just think the job of a bank<br />teller must be so difficult,
+3248328 3251991 with all that counting and repetition.<br />It must get very tedious.
+3252098 3253292 Yes, you're right,
+3253800 3255563 - but I'm not a teller.<br />- Oh?
+3255635 3257432 Yeah, Mom, I told you.<br />Christine's a loan officer.
+3257503 3260836 She handles all the loans for small<br />businesses and homes for her bank.
+3260940 3264467 And she's up for this big promotion, so...<br />Right, Chris?
+3264577 3267740 If I could close this one account that<br />I'm working on, it would really help.
+3267814 3269907 That must be a very<br />important loan.
+3269983 3272816 It's the biggest that my<br />branch has ever handled.
+3272919 3275080 And how did that come to you?
+3275421 3277582 Well, I was reading the<br /><i>Wall Street Journal</i>
+3277657 3279955 and came across this<br />medical supply company
+3280026 3283462 that was looking to expand but<br />didn't have the liquidity.
+3283529 3286430 So I met with their CFO<br />and presented a formula
+3286499 3289263 for restructuring some<br />of their long-term debt.
+3289335 3291929 Sounds like you've got a lot<br />going for you, Christine.
+3292005 3294872 Well, your mother must<br />be very proud of you.
+3295108 3296507 I suppose.
+3302482 3304450 I don't see much of my mother.
+3304517 3306116 Why is that?
+3306117 3307757 Wow, Mom, that's...<br />It's kind of personal.
+3307820 3309879 I'm speaking to Christine.
+3313693 3318494 Well, ever since my Dad died,<br />she doesn't talk much.
+3318965 3325336 She just stays on the farm and<br />keeps to herself because...
+3326673 3328140 Because?
+3328207 3331973 Because her husband died, Mom, and<br />she just wants to be by herself.
+3332045 3335139 - Why don't...<br />- Because my mother's an alcoholic.
+3336849 3337873 Oh.
+3339385 3340875 I'm sorry.
+3341921 3344651 It's certainly nothing<br />to be ashamed of.
+3345324 3348589 I have to say, I find your<br />honesty very refreshing.
+3349495 3352828 My father had a drinking problem, and<br />I was always too ashamed to admit it.
+3354067 3355932 You've got backbone.
+3356602 3358331 Unlike that last<br />girl he brought by.
+3358404 3359996 - What was her name?<br />- Alice.
+3360073 3361597 - We don't have to...<br />- Alicia!
+3361708 3363835 - Alicia.<br />- She was dreadful, Christine.
+3363910 3367004 She was ill-mannered,<br />no ambition at all.
+3367080 3368206 - That's not really...<br />- They met on the Internet.
+3368281 3369373 - There you go.<br />- What is that,
+3369449 3370507 - "They met on the Internet"?<br />- Really?
+3370583 3372847 - What does that mean?<br />- Am I being too hard on him?
+3372919 3373943 No, not at all.
+3374053 3375384 - There you go. Thank you very much.<br />- Thanks a lot...
+3375455 3377116 You know, I think I will try<br />some of that cake of yours.
+3377223 3379823 ...for tossing me under the bus.<br />- Look at that. It looks great.
+3380359 3382589 - You're gonna like it.<br />- It looks so interesting.
+3382695 3386062 You only dislike it if you<br />hate delicious things.
+3387700 3389691 - Well, that counts us out.<br />- Not my problem.
+3391070 3392094 Lovely.
+3392205 3393772 Thank you, Christine.<br />This is wonderful.
+3393773 3395604 It also changed the<br />subject nicely.
+3395708 3397437 Thank you. That looks good!
+3398377 3399901 - Harvest cake, huh?<br />- That's right.
+3399979 3402379 - We'll have to get this recipe.<br />- It sounds so quaint, doesn't it?
+3402448 3404279 Did you hear something?
+3404751 3406378 No. You okay?
+3407053 3408213 Tasty!
+3408488 3410956 - I like it a lot.<br />- I do like it.
+3411624 3415754 You know, Mom, when you say we met on<br />the Internet, it's a little misleading.
+3434180 3436910 Yes, well you need to do<br />that to find a good mate.
+3436983 3438507 - She has a Facebook...<br />- You can't even trust
+3438618 3440745 the things you hear or that<br />people write about themselves.
+3440820 3441833 Very nice.
+3441834 3442845 Even the pictures are<br />false half the time.
+3442955 3444155 - Isn't that true?<br />- It's true.
+3444257 3446282 - It doesn't really count.<br />- I don't think it's a misconception
+3446359 3447986 to think that people<br />of good breeding
+3448094 3450193 and success should be<br />able to meet potential
+3450194 3452292 life partners in a<br />realistic situation.
+3452365 3453957 Well, you also have<br />a thing about bars.
+3463609 3465372 Would you, Christine?
+3467713 3472514 - No. No, of course not.<br />- What? What... But we did.
+3472618 3474483 We met at a bar, Chris.<br />What are you talking about?
+3474554 3476351 - Oh, my God, that's right!<br />- She...
+3476455 3480858 - You two better get your stories straight.<br />- It's not a Klan rally, Mom. It's a bar.
+3482562 3486999 Yeah, we met... We met at a bar, and<br />we set up the date on the Internet.
+3487967 3490993 You okay? You okay?
+3491304 3495832 Some water? Baby, have some...<br />Went down the wrong pipe.
+3496809 3498140 Oh, my God!
+3510022 3512490 I'm sorry, I don't... There<br />must be a window open.
+3513693 3514853 Chris?
+3519232 3521063 Okay, I hear you!
+3521167 3522657 - What in the hell?<br />- Leave me alone.
+3522768 3525168 - Just leave me the hell alone!<br />- Hey! Hey! Chris! Stop it!
+3525271 3527364 Baby! There's no one there.
+3530009 3531101 Okay.
+3533446 3536779 - I think I'd better go.<br />- Yes, I think that would be best.
+3537383 3541376 - I know. Wait, Chris...<br />- Don't follow her! She's a sick girl.
+3541454 3543888 - Mom, she needs my help.<br />- Let her go.
+3546125 3547183 Wait!
+3548394 3550294 What's the matter?
+3550796 3554789 Look, I did what you said! I<br />killed that little kitty!
+3555234 3557065 You're so full of shit!
+3557136 3559934 These are elusive and powerful<br />forces we are dealing with.
+3560039 3561973 There are no guarantees.
+3579492 3582393 We must speak directly<br />to this dark spirit.
+3582929 3586660 We must dissuade it from<br />taking your soul, and soon.
+3587833 3591735 - I know someone who can help us.<br />- And I'm supposed to trust you?
+3591837 3595898 Tomorrow is the third day. After<br />that, the Lamia will come for you.
+3596008 3599171 We can't let that happen.<br />But you must understand,
+3600246 3603841 the woman who can help us must<br />put herself at great risk.
+3604183 3607675 - She will not do that for free.<br />- What do you need from me?
+3608020 3610250 $10,000 cash
+3611757 3613019 by tomorrow.
+3626539 3628268 - Mr. Jacks.<br />- Yeah?
+3628874 3633208 This is kind of awkward for me,<br />and I know it's not official yet,
+3634280 3637977 but I was wondering if I could get<br />an advance for the new position.
+3638050 3640280 What, the assistant<br />manager's position?
+3640386 3643617 Yes. See, one of my family<br />members is really sick.
+3645057 3648117 - They're not gonna die, but they could.<br />- Christine. Christine.
+3648227 3652857 There's a problem. The McPherson<br />deal was cancelled last night.
+3652965 3654398 - What?<br />- Yeah.
+3655067 3658798 Right after I informed the regional<br />office that we had this big loan pending,
+3658904 3662396 I find out that they just made<br />their deal over at First National.
+3662508 3664476 Now, I gotta call in to see<br />what exactly happened,
+3664477 3668413 but right now, this does not<br />look too good for you or for me.
+3669982 3674248 So, this assistant manager<br />promotion has been delayed.
+3675354 3678323 In fact, you know, I think, with<br />everything that's been happening,
+3678424 3681587 I think I'm gonna have<br />to give this job to Stu.
+3682495 3684258 Stu. I see.
+3685331 3687993 I'm sorry. Look, if you've<br />got family problems,
+3688100 3691592 maybe you should take the day<br />off, sort them out and...
+3759672 3762835 - So, how much?<br />- $3,800 for everything.
+3762975 3765808 - Including my jewellery?<br />- Including.
+3765911 3768778 But this stuff is worth<br />so much more than that.
+3768848 3773080 Please. This is all I have.<br />I'm begging you.
+3774487 3776250 Take it or leave it.
+3784864 3786695 Chris? Chris?
+3790202 3791362 Baby?
+3810556 3813218 I thought you were<br />lactose intolerant.
+3814560 3815720 I am.
+3816896 3820127 But then I thought, "Screw<br />it, I'm eating ice cream."
+3823402 3825063 I paid Rham Jas.
+3828574 3831566 What? You're kidding me.
+3832411 3833969 I paid him.
+3835047 3838073 Why? I mean, I thought<br />that you didn't believe.
+3838551 3841543 I don't know what I<br />believe in any more.
+3841654 3845420 I really don't, but I know<br />that you believe in this.
+3846559 3848186 I know how important<br />it is to you,
+3848260 3851661 and I know how much pain<br />this is causing you.
+3853232 3856827 And, I also remembered...
+3857603 3860333 I remembered a<br />promise that I made
+3861440 3863772 the night I fell<br />in love with you.
+3863909 3866104 I told myself that I would...
+3866845 3870781 I would always look out for you.<br />I'd always take care of you.
+3872618 3874108 So I paid him.
+3877289 3880122 You remember the night that<br />you fell in love with me?
+3880259 3883251 I remember the second I<br />fell in love with you.
+3884964 3886363 Oh, my God.
+3899478 3901708 You sure you don't want<br />me to go in with you?
+3901814 3903247 He said I should come alone.
+3903315 3906648 Yeah, I know, I know he did.<br />He told me the same thing.
+3942988 3944683 Christine, if you will permit me
+3944823 3947986 the pleasure of an<br />introduction, Shaun San Dena.
+3951363 3953923 - Welcome.<br />- How do you do?
+3954867 3957097 Shaun San Dena is an<br />experienced medium.
+3957202 3960296 Furthermore, she's personally<br />been touched by the Lamia.
+3960372 3964866 I first encountered this spirit<br />many years ago in this very house.
+3966211 3967872 And what happened?
+3969948 3974783 I lost a young boy's<br />soul to the beast.
+3980225 3983991 I have waited these long years
+3985064 3988556 for a chance at<br />redeeming myself,
+3989068 3992196 a chance to destroy<br />the foul thing.
+3992871 3995066 - And...<br />- <i>Tetièko,</i> please.
+4000245 4003237 Tonight, my chance will come.
+4004416 4008079 But to summon it, I<br />will need your help.
+4009555 4011216 Can you be strong?
+4013926 4015257 I'll try.
+4020432 4023595 My late husband, Sandor,<br />was also medium.
+4024203 4026103 He chose this site to<br />build a house upon
+4026238 4030106 because he sensed certain<br />forces at work here.
+4031276 4034768 In this place, there<br />is a particular...
+4043622 4045112 A particular<br />confluence of forces
+4045257 4048385 which allows a doorway to be opened<br />through which we may pass...
+4053465 4056730 ...and through which others<br />may pass into our world.
+4062474 4064135 Please be seated.
+4092471 4093495 What's going on?
+4093605 4096472 Everything we're doing<br />is for your own good.
+4096473 4099339 Please. Christine, please.
+4104950 4106281 Thank you.
+4136215 4140208 Once the spirit has entered me,<br />put my hand upon the animal.
+4140819 4143379 - Do you understand?<br />- Yes.
+4144022 4147037 I force the spirit of the<br />Lamia into the goat.
+4147038 4150052 Milos, that's when you strike.
+4153065 4154555 I understand.
+4165511 4167502 We all must be receptive.
+4182427 4186261 - What am I supposed to do?<br />- You must allow the darkness in.
+4186398 4190027 You must invite the dead to<br />co-mingle with your spirit.
+4190903 4193064 - I'm scared.<br />- Yes.
+4194072 4198736 Now repeat these words, "I<br />welcome the dead into my soul."
+4202447 4205905 - I welcome the dead into my soul.<br />- You must believe it!
+4206685 4209051 I welcome the dead into my soul.
+4210556 4213684 - I welcome the dead into my soul.<br />- I welcome the dead into my soul.
+4215093 4217220 - I welcome the dead into my soul.<br />...lnto my soul.
+4218463 4223867 I welcome the dead into my soul.<br />I welcome the dead into my soul.
+4224036 4232036 I welcome the dead into my soul.
+4233478 4234706 I welcome the dead...
+4237282 4243118 I welcome the dead into my soul.
+4243221 4244745 I welcome the dead into...
+4248327 4250625 Something else is here with us.
+4252264 4253322 Yes.
+4281994 4283928 This is not the Lamia.
+4283996 4287261 It is the spirit of some
+4287933 4291300 unsettled soul from years ago.
+4292270 4295330 Sometimes the unsettled<br />ones linger by the door.
+4296441 4299103 There are others here, as well.
+4309354 4312289 Begone, foolish spirits! Begone!
+4325971 4327404 She is coming.
+4430642 4433509 Who now inhabits the<br />body of Shaun San Dena?
+4437649 4440743 Lamia!
+4446858 4448917 Lamia, what is it you desire?
+4448994 4453328 I desire the soul<br />of Christine Brown!
+4453598 4457295 We will feast upon it as<br />she festers in the grave!
+4457369 4459929 No! It was my<br />manager, Jim Jacks!
+4460005 4461870 - He was the one! He was...<br />- Silence!
+4461973 4466205 Lamia, surely you can be dissuaded<br />from taking this insignificant woman.
+4466311 4469212 Surely she is not worthy<br />of your greatness.
+4478056 4479455 No!
+4483495 4486862 I come for you, Christine.
+4489067 4490625 You're mine!
+4495841 4497069 No!
+4497242 4501042 You tricked me! You<br />black-hearted whore!
+4501146 4503706 - Now, Milos, now!<br />- You bitch.
+4517095 4518995 Away, unclean spirit.
+4535080 4536411 Lamia!
+4536514 4541110 As one who summoned you to this circle,<br />I command you to leave this instant.
+4547559 4549049 Christine!
+4555700 4560228 I don't want your cat,<br />you dirty pork queen!
+4571650 4573277 Shaun San Dena!
+4574252 4576220 You must banish the spirit!
+4576388 4577412 Yes!
+4609821 4611083 Milos!
+4611923 4615757 - Oh, my God. I'm okay.<br />- Thank God!
+4615827 4617761 - I'm okay.<br />- Unbelievable!
+4620365 4622356 - You did it!<br />- Thank God.
+4624502 4625867 I tried.
+4625971 4626995 Are you okay?
+4627772 4629603 Oh, my God. Help me!
+4634512 4636275 Call an ambulance.
+4640151 4641778 Is she breathing?
+4643355 4644879 No.
+4647993 4649290 Oh, my gosh.
+4690769 4693260 - It's so sad.<br />- Yes.
+4693838 4696170 Strange how things work out.
+4696241 4700200 She waited 40 years for another<br />chance to overcome the Lamia,
+4701946 4706576 and finally, on the last<br />night of her life, she did.
+4707452 4710012 No, I'm afraid you<br />misunderstand.
+4711256 4714123 The Lamia cannot be<br />banished by a medium.
+4714559 4717528 This is our lesson tonight.<br />I'm sorry.
+4717595 4719529 - But I saw her get rid of the thing.<br />- No.
+4719597 4722896 You saw her drive it from a séance.<br />That is all.
+4723601 4726627 It will be back. The goat<br />was never slaughtered.
+4727439 4729566 When this night is through,
+4730375 4734038 the Lamia will come for the<br />owner of the accursed object.
+4737715 4740099 Unless, of course, you<br />are no longer the owner.
+4740100 4742482 Do you have the button?
+4750328 4754059 Make a gift of it and you've<br />given the curse away.
+4757735 4759430 Why didn't you tell<br />me this before?
+4759504 4763065 Because the Lamia will tear the soul<br />out of whoever you give that to.
+4763141 4765666 They'll burn in<br />hell for eternity.
+4767445 4770505 And I would have<br />sent them there.
+4771116 4773414 And I would be your accomplice.
+4774986 4778752 Whatever you decide,<br />you have till morning.
+4799878 4801209 Is it over?
+4802547 4803878 It's over.
+4807719 4808845 Clay!
+4813391 4815359 You will burn in hell!
+4815727 4820391 You will burn in hell! You<br />bitch, you'll burn in hell!
+4820899 4822696 Your turn's coming!
+4823234 4825668 - You will burn in hell!<br />- You okay?
+4826838 4828203 Holy shit.
+4842420 4844411 Okay, you sure you're still okay<br />about the Santa Barbara trip?
+4844556 4845580 - Yeah, I'm fine.<br />- Yeah?
+4845690 4849592 - And what time should I get you?<br />- It's better if I meet you at the station.
+4849727 4851194 There's something I've<br />gotta do on the way.
+4851262 4853355 I can do it. You want me<br />to do it on my way to...
+4853431 4855865 No! No. I've got<br />it under control.
+4856568 4859435 We'll meet at, like, 7:30 at the...<br />Wait! Where's my envelope?
+4859571 4862039 - What envelope?<br />- It was in my purse. I just had it!
+4862106 4864199 - It's just an envelope.<br />- No, it's gotta be here!
+4864275 4867210 It's here, so we'll<br />find it eventually.
+4867879 4869210 - Oh, my God.<br />- Okay.
+4869280 4871942 I thought I'd lost it. Okay.
+4873284 4875275 Bye. 7:30. Don't be late.
+4893304 4895795 Dad, can we go to<br />the Angel game?
+4896307 4898122 What about the Dodgers?
+4898123 4899936 We're only gonna be<br />in town for a few days.
+4902747 4905978 I'm sure if I just tell him<br />how much I care about you,
+4906117 4908415 I mean, he's gotta understand.
+4912156 4914420 Are you sure you don't<br />want anything else?
+4914492 4915481 No.
+4915627 4918755 So you're just gonna sit here<br />drinking coffee all night long.
+4918830 4922095 Yes. Maybe! What's it to you?
+4922166 4926398 Honey, I make my money on tips.<br />Coffee drinkers don't tip.
+4926504 4930406 Honey, just keep the coffee coming or<br />I'll give you a tip you won't forget.
+4972216 4975947 Oh, my gosh. What a<br />delightful surprise.
+4976888 4979618 You're the sweetest<br />person in the world.
+4982293 4983954 Never mind what it's about, Stu.
+4984062 4986030 Just get here in 10 minutes<br />or I'm gonna tell Mr. Jacks
+4986130 4988325 something you don't<br />want me to tell him.
+4988399 4990731 <i>Oh, yeah? Like what?</i>
+4991069 4994800 Well, for starters, that you stole<br />the McPherson loan file off my desk
+4994906 4998239 and gave it to First National.<br />Now you got nine minutes!
+5003214 5005409 - Give me another.<br />- Seriously?
+5013758 5016142 Oh, God, Christine,<br />please don't tell on me.
+5016143 5018525 I mean, if my Dad<br />ever finds out...
+5018596 5021895 - Just tell me what you want.<br />- I need to give something to you.
+5021999 5024092 - A little gift.<br />- A gift?
+5025570 5027868 But I don't understand. I<br />thought you called me down here
+5027939 5029839 because I gave that loan<br />to First National...
+5029941 5033069 Look, you don't need to understand.<br />Just shut up!
+5035012 5037242 Now, this gift that I'm giving<br />you, it'll become your property.
+5037348 5039942 You'll be the owner, all right?
+5042787 5044084 Okay.
+5049460 5050586 Okay.
+5053798 5055095 What?
+5056534 5057592 Forget it.
+5058970 5061097 But I thought you wanted to give<br />it to me 'cause of the loan stuff.
+5061205 5062570 Just leave.
+5065710 5068645 Okay. Thank you so<br />much, Christine.
+5075420 5077081 - But you're not gonna tell my Dad, right?<br />- Go!
+5077155 5078247 Okay.
+5089167 5091158 Who does deserve this?
+5112023 5114116 Well? Is it possible?
+5115359 5118419 There are gypsy blessings<br />bestowed upon the dead.
+5118529 5120622 They give gifts<br />to their departed
+5120765 5125031 to curry favour with the deceased's<br />soul, for, truly, the soul never dies.
+5126871 5131865 Yes. I do believe you can give the<br />curse to someone who has passed on,
+5132210 5135668 <i>but you must make a formal gift of<br />the accursed object to the deceased</i>.
+5135780 5139477 I'll do better than that. I'll<br />shove it down her goddamn throat!
+5140151 5141550 I'm gonna get some...
+5248259 5250284 I'm giving it back to you!
+5252229 5254424 You're gonna take this thing.
+5255967 5258458 Are you gonna take this thing?
+5260838 5262396 Take it!
+5275519 5278352 That's the last of my<br />hair you're getting!
+5283761 5289791 I, Christine Brown, do hereby<br />make a formal gift of this button
+5289867 5292199 to you, Sylvia Ganush!
+5294105 5296039 Choke on it, bitch!
+5311055 5312522 Goodbye.
+5401912 5404881 <i>Hi, It's Christine. Leave a<br />message and I'll call you back.</i>
+5405616 5407948 <i>Christine, it's<br />Jim, Jim Jacks</i>.
+5408052 5409417 <i>I'm sorry I'm<br />calling so early,</i>
+5409487 5414049 <i>but last night, I found some troubling<br />information about our friend Stu Rubin.</i>
+5414325 5417783 <i>Apparently, he stole your<br />file on the McPherson loan</i>
+5417895 5421228 <i>and then tried to broker his<br />own deal at First National.</i>
+5421298 5423266 <i>I guess he thought we<br />wouldn't find out.</i>
+5423334 5425996 <i>And we wouldn't have either,<br />except that an hour ago,</i>
+5426103 5429903 <i>he came by my house and tried<br />to pin the whole thing on you</i>.
+5430975 5434502 <i>After I confronted him about a few<br />inconsistencies in his story,</i>
+5434612 5438981 <i>he broke down crying and, well, we<br />won't be seeing him around any more</i>.
+5440117 5443348 <i>So I just wanted you to know<br />that, come Monday morning</i>,
+5443454 5447185 <i>that assistant manager's position<br />will be waiting for you</i>.
+5459003 5461437 <i>Passenger Benson,<br />please meet your party</i>
+5461505 5463598 <i>at the concourse<br />ticket counter.</i>
+5466277 5467710 - <i>Welcome to Union Station.</i><br />- Cookie, miss?
+5467812 5469479 - No, thanks.<br />- <i>We appreciate you choosing</i>
+5469480 5471977 <i>train travel as your<br />mode of transportation,</i>
+5471978 5474474 <i>and we wish you a<br />pleasant journey</i>.
+5488065 5489726 Hi. Good morning.
+5490067 5493230 - I'm sorry, we're not open.<br />- I just... I just want this coat.
+5493370 5494394 We're not open yet.
+5494538 5498565 My boyfriend and I are taking this<br />really special trip this morning.
+5499910 5501002 Please?
+5503848 5506749 <i>Northbound Surf liner,<br />service to Van Nuys,</i>
+5506917 5509852 <i>Simi Valley, Oxnard,<br />Santa Barbara,</i>
+5509920 5511854 - <i>San Luis Obispo...</i><br />- Clay?
+5511922 5514413 - Hey!<br />- Hey! Oh, man! Hi.
+5514525 5516965 God, I'm so glad you're here. So<br />many things I wanna tell you.
+5517061 5518187 Wait, there's<br />something I wanna say
+5518262 5521197 - while I have it straight in my head.<br />- Okay. Go ahead.
+5521265 5523733 You never stopped<br />believing in me.
+5524568 5526263 Thank you for that.
+5527571 5532099 And there's something else, something<br />that I couldn't admit to before.
+5532776 5537713 I could have given Mrs. Ganush another<br />extension on her loan, but I didn't.
+5539884 5543411 It was my decision, and<br />it was wrong of me.
+5553464 5555398 You have such a good heart.
+5557935 5559459 You're so beautiful right now.
+5562139 5564573 - Do you like my new coat?<br />- I do. I really do.
+5564642 5566303 - What happened to the old one, though?<br />- I threw it out.
+5566443 5569071 - And I never want to see it again.<br />- Oh, no.
+5569313 5571230 That's too bad, because I...<br />Look what I found.
+5571231 5573147 I found this in the car.
+5573617 5574982 I thought...
+5575486 5577920 And I thought maybe you could...
+5578789 5580916 I thought maybe you<br />could sew it back on.
+5580991 5584154 And I think you might have<br />my Standing Liberty quarter,
+5584295 5586820 'cause the envelopes<br />kind of look the same.
+5586931 5589422 Chris, what's wrong?
+5590434 5592766 - Oh, my God!<br />- Hey! Hey, hey, hey!
+5593437 5595234 - Oh, God.<br />- Hey, hey. Hey! Hey!
+5595339 5597671 Stop! Chris! Oh, God!
+5598909 5603243 Hey! Hey! Hey, hey, no!<br />Hey! Oh, God, no!
+5608352 5610013 Hey, no!
+5615759 5617021 Help me!
+5621532 5622760 Help me!
+5623701 5625191 Help me!
+5626036 5628027 Help me, please!
