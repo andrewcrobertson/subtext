@@ -1,0 +1,41 @@
+{
+  "imdbId": "tt0090605",
+  "title": "Aliens",
+  "releaseDate": "1986-07-18T00:00:00.000Z",
+  "releaseYear": 1986,
+  "posterFileName": "poster.jpg",
+  "rated": "R",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "directors": [
+    "James Cameron"
+  ],
+  "writers": [
+    "James Cameron",
+    "David Giler",
+    "Walter Hill"
+  ],
+  "actors": [
+    "Sigourney Weaver",
+    "Michael Biehn",
+    "Carrie Henn"
+  ],
+  "runTime": 137,
+  "plot": "Decades after surviving the Nostromo incident, Ellen Ripley is sent out to re-establish contact with a terraforming colony but finds herself battling the Alien Queen and her offspring.",
+  "subtitleIds": [
+    "9349cb38",
+    "cf418128",
+    "6b655b04",
+    "7c666759",
+    "68799c6d",
+    "5fed32b5",
+    "ca472b84",
+    "baeeae2a",
+    "f8030340",
+    "b2e14d83"
+  ],
+  "isAvailable": true
+}

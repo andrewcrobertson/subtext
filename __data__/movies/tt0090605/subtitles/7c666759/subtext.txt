@@ -1,0 +1,1693 @@
+160661 162955 <i>[Electronic Beep]</i>
+164999 167084 [Beeping]
+178054 179972 [Thud]
+256507 258968 [Respirator Hissing]
+299717 304263 <i>[Man] Bio readouts are all<br />in the green. Looks like she's alive.</i>
+306765 309768 Well, there goes our salvage, guys.
+336212 339340 - How are we today?<br />- Ohh. Terrible.
+339423 342301 Well, better than yesterday, at least.
+342384 345137 - Where am I?<br /><i>- You're safe.</i>
+345221 347640 You're at Gateway Station.<br />Been here a couple of days.
+347723 351143 You were pretty groggy at first,<br />but now you're okay.
+351227 353729 Oh, looks like you've got a visitor.
+355606 357942 Jonesy. Come here.
+359109 361237 Hey, come here.
+361320 363697 How are you, you stupid cat?
+363781 367701 How are you? Where have you been?
+367785 371622 Guess you two have met, huh?<br />I'm Burke. Carter Burke.
+371705 373374 I work for the company,
+373457 376252 but don't let that fool you.<br />I'm really an okay guy.
+377545 379463 I'm glad to see you're<br />feeling a little better.
+379547 383133 They tell me that all the weakness and<br />disorientation should pass soon.
+383217 387596 That's just natural side effects<br />of such an unusually long hypersleep,
+387680 389098 or something like that.
+389181 391350 What do you mean?
+391433 393811 How long was I out there?
+393894 395980 <i>[Woman On P.A.]<br />Inhalation Therapy, report to...</i>
+396063 398315 Has no one discussed this with you yet?
+398399 400401 No. But, I mean...
+400484 404488 I don't... recognize this place.
+404572 406574 No, I know. Uh...
+406657 410411 Okay. It's just that,<br />uh, this might be a shock to you.
+410494 413080 - It's long...<br />- How long?
+413163 415165 Please.
+416166 420129 - 57 years.<br />- What?
+420212 424466 That's the thing.<br />You were out there for 57 years.
+424550 427678 What happened was you had drifted<br />right through the core systems.
+427761 430598 And it's really just blind luck...
+430681 433892 that a deep-salvage team<br />found you when they did.
+433976 436270 It's one in a thousand, really.
+436353 438814 I think you're damn lucky<br />to be alive, kiddo.
+438897 441066 You could be floating out there forever.
+441150 444361 <i>[Stammering] You... You okay?</i>
+444445 447281 - [Hisses]<br />- Uhh...
+447364 450701 <i>[Heart Pounding]</i>
+450784 453537 - [Hisses]<br />- Uuh!
+453621 455873 <i>You okay?</i>
+455956 458125 [Groaning]
+460419 465215 - [Hisses]<br />- Oh-h-h! Oh, God!
+466634 470220 - Nurse! Please!<br />- God!
+470304 473265 - Someone get in here now!<br />- [Screaming]
+473349 475392 Now!
+475476 477686 - Hold!<br />- Please.
+477770 479980 Hold on!
+480064 482066 Kill me!
+489740 491575 No!
+491659 493661 No!
+494662 496747 [Gasping] Uh!
+499458 502586 Bad dreams again?<br />You want something to help you sleep?
+502670 504922 No.
+505005 507007 [Sighs] I've slept enough.
+508967 511178 Jonesy.
+511261 513222 Come here.
+513472 515432 - [Meows]<br />- Shh.
+519728 521730 It's all right.
+522731 526527 - It's all right now.<br />- [Purring]
+526610 528654 It's over.
+530447 532783 <i>[Birds Chirping]</i>
+546713 547798 <i>[Chirping Stops]</i>
+547881 553846 <i>[Woman On P.A.]<br />Dr. Hirsch, 334. Dr. Hirsch, 334.</i>
+553929 556390 Hi. Sorry I'm late.<br />I've been running behind all morning.
+556473 559268 <i>Is there any word about my daughter?</i>
+559351 562771 Uh... I really think we should worry<br />about the hearing now.
+562855 564189 'Cause we don't have<br />a lot of time, okay?
+564273 566233 I read your deposition, and it's great.
+566316 569361 If you just stick to that, I think we'll<br />be fine. The thing to remember is,
+569445 571405 there're gonna be a lot<br />of heavyweights in there.
+571488 573490 You've got feds and Interstellar<br />Commerce Commission,
+573574 576660 Colonial Administration,<br />insurance company guys...
+576743 579329 Do you have any news about my daughter?
+580831 585002 Well, we did come up with some<br />information. Why don't we sit down?
+585085 588172 I was hoping to wait<br />until after the inquest.
+588255 590257 Um...
+592259 596263 "Amanda Ripley-McClaren"...<br />married name, I guess-
+596346 598515 "Age 66."
+598599 600934 And that was at the time of her death,
+602644 605314 <i>which was two years ago.</i>
+606565 608650 <i>I'm real sorry.</i>
+617784 619703 Amy.
+622915 624625 <i>She was cremated and interred</i>
+624708 627544 <i>at Westlake Repository,<br />Little Chute, Wisconsin.</i>
+627628 631006 - No children. I checked.<br /><i>- [Briefcase Closes]</i>
+632633 635093 [Inhales Sharply]
+635177 640349 I promised her...<br />that I'd be home for her birthday.
+643268 646230 Her 11th birthday. [Choking Up]
+649107 650984 [Sobbing]
+651235 653362 <i>[Man #1] I'd just like to go, uh...</i>
+653445 655656 <i>back to this point about<br />the override destruct order.</i>
+655739 659326 <i>- [Man #2j Is it in the file?</i><br />- I don't understand this.
+659409 661703 We have been here<br />for three and a half hours.
+661787 664081 Now, how many different ways<br />do you want me to tell the same story?
+665541 670128 Look at it from our perspective,<br />please.
+670212 672214 Please?
+674633 677094 Now, you freely admit to<br />detonating the engines of,
+677177 680013 and thereby destroying,<br />an M-class starfreighter,
+680097 682558 a rather expensive piece of hardware.
+682641 685852 Forty-two million in adjusted dollars.
+685936 688689 That's minus payload, of course.
+688772 690524 The lifeboat's flight recorder
+690607 693151 corroborates <i>some</i> elements<br />of your account,
+693235 698282 in that, for reasons unknown,<br />the <i>Nostromo</i> set down on LV-426,
+698365 702911 an unsurveyed planet at that time,<br />that it resumed its course...
+702995 706373 and was subsequently set for<br />self-destruct by you
+706456 707916 for reasons unknown.
+708000 710377 Not for reasons unknown. I told you.
+710460 713672 We set down there on company orders<br />to get this thing,
+713755 716174 which destroyed my crew...
+716258 718719 and your expensive ship.
+718802 722472 The analysis team, which went over the<br />lifeboat centimeter by centimeter,
+722556 725684 found no physical evidence<br />of the creature you describe.
+725767 729813 Good! That's because I blew it<br />out of the goddamn air lock,
+731481 733567 like I said.
+735319 739906 <i>Are there any species<br />like this hostile organism on I V-426?</i>
+739990 742492 No. It's a rock. No indigenous life.
+744494 748081 Did I.Q.'s just drop sharply<br />while I was away?
+748165 750542 Ma'am, I already said<br />it was not indigenous.
+750626 753378 It was a derelict spacecraft.<br />It was an alien ship.
+753462 758050 <i>It was not from there. Do you get it?<br />We homed in on its beacon.</i>
+758133 760927 And found something<br />never recorded once...
+761011 764514 in over 300 surveyed worlds.
+764598 768477 "A creature that gestates<br />inside a living human host."
+768560 769394 Yes.
+769478 773398 These are your words.<br />"And has concentrated acid for blood."
+773482 775734 <i>That's right.</i>
+775817 779738 Look. I can see where this is going,
+779821 782282 but I'm telling you<br />that those things exist.
+782366 784076 Thank you, Officer Ripley.<br />That will be all.
+784159 785535 Please. You're not listening to me.
+785619 788121 <i>Kane, the crew member...</i>
+788205 791958 Kane, who went into that ship,<br />said he saw thousands of eggs there.
+792042 794086 <i>- Thousands.</i><br />- Thank you. That will be all.
+794169 796213 Goddamn it, that's not all!
+796296 800008 <i>Because if one of those things<br />gets down here, then that will be all!</i>
+800092 802636 Then all of this... this bullshit that you<br />think is so important...
+802719 806515 You can just kiss all of that good-bye!
+812270 814606 It is the finding<br />of this court of inquiry that...
+814690 816775 Warrant Officer E. Ripley,
+816858 819903 <i>NOC14472,</i>
+819986 822739 <i>has acted with questionable judgment...</i>
+822823 827244 and is unfit to hold an I.C.C. license<br />as a commercial flight officer.
+828995 832416 <i>Said license is hereby<br />suspended indefinitely.</i>
+834251 838588 Now, no criminal charges<br />will be filed against you at this time,
+838672 840924 and you are released<br />on your own recognizance...
+841007 843802 <i>for a six-month period<br />of psychometric probation,</i>
+843885 849391 to include monthly review<br />by an I.C.C. psychiatric technician.
+851184 854062 These proceedings are closed.
+865031 867200 That could have been better.
+867284 870704 - Look, I think the... Ripley?<br />- Van Leuwen.
+870787 874040 Why don't you just check out LV-426?
+874124 877919 Because I don't have to. There have been<br />people there for over 20 years,
+878003 880922 and they never complained<br />about any hostile organism.
+881006 882674 What do you mean? What people?
+882758 885886 Terraformers. Planet engineers.
+885969 889723 They go in, set up these big atmosphere<br />processors to make the air breathable.
+889806 892058 Takes decades.
+892142 894394 It's what we call<br />a "Shake 'N Bake" colony.
+894478 898106 How many are there? How many colonists?
+898190 902694 I don't know...<br />60, maybe 70 families. Do you mind?
+905363 907365 Families.
+909618 911620 Jesus.
+912746 914664 <i>[Wind Howling]</i>
+936186 938271 [Horn Honking]
+972973 975058 <i>[Low Chattering]</i>
+977519 979688 <i>[Woman On P.A., Indistinct]</i>
+983358 986778 <i>[Machines Clacking]</i>
+986862 989322 - I'll be down in maintenance, okay?<br />- AI!
+989406 991366 - What?<br />- Hey, AI.
+991449 993618 - What?<br />- Remember you sent some wildcatters...
+993702 996538 out to the middle of nowhere last week,<br />out past the Ilium Range?
+996621 997455 Yeah, what?
+997539 1000500 One of them's on the horn,<br />a mom-and-pop survey team.
+1000584 1003336 He says he's onto something. He wants to<br />know if his claim will be honored.
+1003420 1005505 Why wouldn't his claim be honored?
+1005589 1007591 Well, because you sent them<br />to that particular middle-of-nowhere
+1007674 1008675 on company orders, maybe.
+1008758 1009634 I don't know.
+1009718 1012262 Christ! Some honch in<br />a cushy office on Earth...
+1012345 1014472 says, "Go look at a grid reference."
+1014556 1017809 We look.<br />They don't say why, and I don't ask.
+1017893 1020812 I don't ask, because it takes<br />two weeks to get an answer out here,
+1020896 1021980 and the answer is always...
+1022063 1023982 [Together] "Don't ask."
+1024065 1026192 - So what do I tell this guy?<br />- [Sighs]
+1026276 1029529 Tell him as far as I'm concerned, if he<br />finds something, it is his.
+1029613 1031531 - Lydecker?<br />- What?
+1031615 1032449 <i>[Giggling]</i>
+1032532 1034200 You kids know you're not<br />supposed to be on this level!
+1034284 1036620 - Go on! Get outta here!<br />- [Giggling]
+1068068 1071321 [Boy] Do too.<br />You go in places we can't fit.
+1071404 1073406 So? That's why I'm the best.
+1073490 1074366 Knock it off!
+1074449 1077077 I catch either of you playing in<br />the air ducts again,
+1077160 1078161 I'll tan your hides.
+1078244 1080497 Mom, all the kids play...
+1080580 1083166 Wait a minute. Annie, come and have<br />a look at this, will ya?
+1093885 1096846 Folks, we have scored big this time.
+1102936 1105814 What is it, Dad?
+1109401 1112404 I'm not sure.
+1112487 1114572 Let's see if we can't get<br />a closer look at this thing,
+1114656 1116282 maybe through that crack there<br />on the side.
+1116366 1117617 Shouldn't we call in?
+1117701 1120495 Let's wait till we know<br />what to call it in as.
+1123123 1123957 <i>[Brakes Hiss]</i>
+1124040 1126584 <i>[Dad] That's about as close<br />as we can get.</i>
+1126668 1129754 Should we take a look inside?
+1133133 1135385 <i>[Thunder Rumbling]</i>
+1140140 1142183 <i>[Wind Whistling]</i>
+1145353 1148606 You two stay inside.<br />I mean it. We'll be right back.
+1148690 1150734 - Okay.<br />- Bye.
+1165123 1167083 <i>[Thunderclap]</i>
+1219677 1223139 <i>[Radio Chatter, Indistinct]</i>
+1226559 1228478 Huh?
+1228561 1231689 Timmy, they've been gone a long time.
+1231773 1234192 It'll be okay, Newt.<br />Dad knows what he's doing.
+1234275 1235151 [Banging]
+1235235 1240073 Mayday, Mayday! This is Alpha Kilo<br />Two Four Niner calling!
+1240156 1243159 <i>This is Alpha Kilo Two Four Niner!</i>
+1243243 1245537 - [Screaming]<br />- Alpha Kilo Two Four Niner calling!
+1274941 1276317 [Meowing]
+1282824 1284868 <i>[Doorbell Beeps]</i>
+1286035 1289122 [Clears Throat]
+1289205 1291416 Hiya, Ripley.<br />This is Lieutenant Gorman...
+1291499 1294627 of the Colonial Marine Corps-
+1294711 1296963 Ripley, we have to talk.
+1297046 1300758 We've lost contact<br />with the colony on LV-426.
+1307223 1309475 I don't believe this.
+1309559 1314105 You guys throw me at the wolves, and now<br />you want me to go back out there?
+1314188 1316816 Forget it. It's not my problem.
+1316900 1320486 - Can I finish?<br />- No. There's no way.
+1321905 1323990 Ripley, you wouldn't<br />be going in with the troops.
+1324073 1326409 I can guarantee your safety.
+1326492 1328995 These Colonial Marines<br />are very tough hombres.
+1329078 1331956 They're packing<br />state-of-the-art firepower.
+1332040 1333207 There's nothing they can't handle.
+1334584 1336920 - Lieutenant, am I right?<br />- That's true.
+1337003 1339172 We've been trained<br />to deal with situations like this.
+1339255 1342926 Then you don't need me.<br />I'm not a soldier.
+1343009 1345595 <i>[Burke] Yeah, but we don't know<br />exactly what's going on out there.</i>
+1345678 1348306 <i>It may just be a downed transmitter,<br />okay?</i>
+1348389 1352852 But if it's not,<br />I would like you there as an adviser,
+1352936 1354979 and that's all.
+1356981 1359817 What's your interest in all this?<br />Why are you going?
+1359901 1362946 Corporation cofinanced that colony,
+1363029 1365531 along with Colonial Administration.
+1365615 1368451 We're getting into a lot of terraforming<br />now. "Building Better Worlds"-
+1368534 1371037 Yeah, yeah. I saw the commercial.
+1371120 1374040 Look, I don't have time<br />for this. I've got to get to work.
+1374123 1377251 Oh, right. I heard you're<br />working the cargo docks.
+1377335 1379379 That's right.
+1379462 1381214 Running loaders and forklifts,<br />that sort of thing?
+1381297 1382131 Yeah. So?
+1382215 1385385 Nothing. I think it's great<br />that you're keeping busy.
+1385468 1387971 And I know it's the only<br />thing that you could get.
+1388054 1389889 There's nothing wrong with it.
+1393142 1395603 What would you say if I told you I could<br />get you reinstated...
+1395687 1397689 <i>as a flight officer?</i>
+1397772 1401359 <i>The company's already agreed<br />to pick up your contract.</i>
+1401442 1402235 If I go.
+1402318 1405279 Yeah, if you go.
+1405363 1407532 Come on. That's a second chance, kiddo.
+1407615 1409075 I think, personally, for you,
+1409158 1410535 it would be the best thing<br />in the world...
+1410618 1413329 <i>to get out there and face this thing,<br />get back on the horse.</i>
+1413413 1416374 Spare me, Burke.<br />I've had my psych evaluation this month.
+1416457 1417709 Yeah, I know. I've read it.
+1417792 1420545 You wake up every night.<br />Your sheets are soaking with sweat...
+1420628 1422880 I said no, and I mean it!
+1425675 1428553 Now, please leave. I am not going back.
+1428636 1431973 And I am... I would not be<br />any good to you if I did.
+1432056 1435143 Okay. Shh.
+1436561 1440064 Would you do me a favor?<br />Just think about it.
+1443151 1445194 Thanks for the coffee.
+1449240 1452285 <i>[Door Opens, Closes]</i>
+1454037 1456039 [Meows]
+1457331 1460334 [Screaming, Panting]
+1464714 1466716 Oh!
+1468384 1470386 [Sobbing]
+1484650 1486736 <i>[Water Running]</i>
+1503336 1505254 [Beeping]
+1513262 1515181 Hello.
+1515264 1518017 Ripley.
+1518101 1521646 - You okay?<br /><i>- Just tell me one thing, Burke.</i>
+1521729 1525024 You're going out there<br />to destroy them, right?
+1525108 1530029 Not to study, not to bring back,<br />but to wipe them out.
+1530113 1534158 That's the plan. You have my word on it.
+1536702 1537912 All right. I'm in.
+1539372 1540206 I think that...
+1548131 1550424 And you, you little shithead,
+1550508 1553344 [Chuckles] you're staying here.
+1579328 1581330 [Creaking]
+1660076 1662453 [Beeping]
+1669502 1671504 [Whirring]
+1688229 1690231 Mmm.
+1695569 1697530 [Coughing]
+1699740 1702451 [Groans]
+1705538 1709375 They ain't payin' us enough<br />for this, man.
+1709458 1711544 Not enough to have to wake up<br />to your face, Drake.
+1711627 1712461 What?
+1713879 1715089 <i>Is that a joke?</i>
+1715172 1717258 <i>Oh, I wish it were.</i>
+1717341 1722263 Hey, Hicks. Man, you look<br />just like I feel. [Grunts]
+1722346 1723222 [Coughing]
+1723305 1726225 <i>All right, sweethearts.<br />What are you waiting for?</i>
+1726308 1729437 Breakfast in bed?<br />Another glorious day in the corps.
+1729520 1733024 A day in the Marine Corps<br />is like a day on the farm...
+1733107 1738112 every meal's a banquet, every paycheck a<br />fortune, every formation a parade.
+1738195 1739864 - I love the corps!<br />- Christ!
+1739947 1741824 Man, this floor is freezing!
+1741907 1744410 What do you want me to do?<br />Fetch your slippers for ya?
+1744493 1746078 Gee, would you, sir? I'd like that.
+1746162 1749415 Look into my eye. Fall in, people.
+1749498 1751751 <i>Come on. Let's go.</i>
+1751834 1753836 I hate this job.
+1753919 1755421 <i>Crowe, Wierzbowski.<br />Come on. On your feet.</i>
+1755504 1756589 <i>We got some slack coming, right?</i>
+1756672 1759550 You had three weeks on your back, Frost.<br />What do you want?
+1759633 1762011 <i>[Frost] I'm talking about breathing,<br />not this frozen shit.</i>
+1762094 1764388 <i>[Dietrich] Yeah, Top. How 'bout it?</i>
+1767516 1771687 <i>[Apone] All right. First assembly's<br />in 15, people. Shag it.</i>
+1772938 1775566 Hey, <i>mira.</i> Who's Snow White?
+1775649 1779111 She's supposed to be<br />some kind of consultant.
+1779195 1781447 Apparently, she saw an alien once.
+1781530 1784575 Whoopee-fuckin'-do! Hey, I'm impressed.
+1784658 1786702 <i>¡Que bonita!</i>
+1789038 1793167 Hey, Vasquez.<br />Have you ever been mistaken for a man?
+1793250 1795294 No. Have you?
+1795377 1800216 Ha, ha!<br />Oh, Vasquez. You're just too bad.
+1800925 1802635 Uhh!
+1802843 1805012 <i>[Chattering]</i>
+1811060 1813604 Hey, Top, what's the op?
+1813687 1815815 It's a rescue mission. You'll love it.
+1815898 1820611 There's some juicy colonists' daughters<br />we have to rescue from their virginity.
+1820694 1822863 <i>[Spunkmeyer] Dumb-ass colonists.</i>
+1825449 1829120 - What's this crap supposed to be?<br />- Vasquez.
+1829203 1832289 - Corn bread, I think.<br />- It's good for you, boy. Eat it.
+1832373 1835376 Hey, sure wouldn't mind getting<br />some more of that Arcturian poontang.
+1835459 1837086 <i>Remember that time?</i>
+1837169 1840589 Yeah. Except the one<br />that you had was male.
+1840673 1843300 Doesn't matter when it's Arcturian.
+1843384 1844969 Hey, Bishop, man.<br />Do the thing with the knife.
+1845052 1845845 Oh, please.
+1845928 1848347 - Oh, come on. Yeah.<br />- [All Goading]
+1848430 1850391 All right! Yeah.
+1850474 1854061 <i>- I don't want to see that, man.</i><br />- Come on, man. All right. All right.
+1854145 1857148 Hey, what are you doing, man?<br />What are you doing?
+1857231 1859358 - Come on. Quit messing around, Drake.<br />- Hudson, shut up!
+1859441 1862027 - Bishop, hey, man.<br />- [Drake] Do it, Bishop!
+1862111 1865698 - Hey! Not me, man! Quit messing around!<br />- Yeah, you! Don't move.
+1865781 1868075 Trust me.
+1869368 1871287 Aah!
+1879795 1882756 <i>[Apone]<br />All right. Knock it off, knock it off.</i>
+1882840 1884842 - Thank you.<br />- [Drake Chuckles]
+1887303 1889305 - There you go, short shit.<br />- Enjoy your meal.
+1889388 1892141 That wasn't funny, man.
+1895686 1898814 - Lieutenant Gorman? Mr. Burke?<br />- Yeah, thanks.
+1898898 1904069 Looks like the new lieutenant's too good<br />to eat with the rest of us grunts.
+1905487 1908657 Boy's definitely got a corncob<br />up his ass.
+1909742 1912453 <i>[Burke]<br />Thought you never miss, Bishop.</i>
+1915748 1918542 You never said anything about<br />an android being on board. Why not?
+1918626 1922671 [Chuckles]<br />It never... never occurred to me.
+1922755 1925841 It's just common practice.<br />We always have a synthetic on board.
+1925925 1928385 I prefer the term<br />"artificial person" myself.
+1928469 1930346 Right.
+1930429 1933098 - Is there a problem?<br /><i>- [Burke] I'm sorry.</i>
+1933182 1935100 I don't know why I didn't even...
+1935184 1938604 Ripley's last trip out, the syn... the<br />artificial person malfunctioned.
+1938687 1939688 Malfunctioned?
+1939772 1943567 There were problems<br />and a few deaths were involved.
+1943651 1946862 I'm shocked. Was it an older model?
+1946946 1949615 The Hyperdyne Systems 120-A2.
+1949698 1952284 That explains it then.<br />The A2s always were a bit twitchy.
+1952368 1955079 That could never happen now<br />with our behavioral inhibitors.
+1955162 1956705 <i>It is impossible for me to harm,</i>
+1956789 1959750 <i>or by omission of action,<br />allow to be harmed, a human being.</i>
+1959833 1964046 - You sure you don't want some?<br /><i>- [Clattering]</i>
+1964129 1966715 You just stay away from me,<br />Bishop. You got that straight?
+1969510 1972763 Guess she don't like<br />the corn bread, either.
+1976767 1979853 <i>[Chattering]</i>
+1986193 1989280 [Apone] Squad, ten-hut!<br />Officer on deck!
+1989363 1990322 As you were.
+1990406 1993242 Quickly, quickly. Settle down.
+1993325 1996328 All right. Listen up!
+1996412 1997371 Morning, marines.
+1997454 2001500 I'm sorry we didn't have time to brief<br />you people before we left Gateway...
+2001583 2004044 <i>- [Hudson] Sir?</i><br />- What is it, Hicks?
+2004128 2007214 Hudson, sir. He's Hicks.
+2007298 2010217 What's the question?
+2010301 2014096 Is this gonna be a stand-up fight, sir,<br />or another bug hunt?
+2014179 2018267 All we know is that there's still no<br />contact with the colony...
+2018350 2021228 and that a xenomorph may be involved.
+2021312 2024023 - Excuse me, sir. A what?<br />- A xenomorph.
+2024106 2026358 It's a bug hunt.
+2026442 2031155 - What exactly are we dealing with here?<br />- Ripley.
+2031238 2033657 I'll tell you what I know.
+2033741 2036160 We set down on LV-426.
+2036243 2038537 <i>One of our crew members<br />was brought back on board</i>
+2038620 2040247 <i>with something attached to his face,</i>
+2040331 2042833 some kind of parasite.
+2042916 2045252 We tried to get it off.<br />It wouldn't come off.
+2045336 2048255 <i>Later, it seemed to come off<br />by itself and die.</i>
+2048339 2050883 Kane seemed fine.
+2050966 2053093 We were all having dinner, and, um,
+2053177 2057348 it must have laid something<br />inside his throat, some sort of embryo.
+2057431 2061393 - He started... Um, he...<br /><i>- [Vasquez] Look, man.</i>
+2061477 2066565 I only need to know one thing...<br />where they are.
+2066648 2069401 - Yo, Vasquez. Kick ass.<br />- Anytime, anywhere.
+2069485 2071403 Right, right. Somebody said "alien."
+2071487 2074365 She thought they said<br />"illegal alien" and signed up.
+2074448 2076408 - Fuck you, man.<br />- Anytime, anywhere.
+2076492 2079119 Are you finished?
+2084291 2087002 I hope you're right. I really do.
+2089254 2092299 Yeah, okay, right. Thank you, Ripley.
+2092383 2095344 We also have Ripley's report on disk.<br />I suggest you study it.
+2095427 2097137 Because just one of those things
+2097221 2100307 managed to wipe out my entire crew<br />in less than 24 hours.
+2100391 2103143 <i>And if the colonists have found<br />that ship, then there's no telling...</i>
+2103227 2104895 <i>how many of them have been exposed.</i>
+2104978 2107398 <i>Do you understand?</i>
+2109149 2112403 Anyway, we have it on disk,<br />so you better look at it.
+2112486 2115155 <i>Any questions?</i>
+2115239 2117616 What is it, Private?
+2117699 2120702 How do I get out of this<br />chickenshit outfit?
+2120786 2122538 You secure that shit, Hudson.
+2125207 2127292 All right.
+2127376 2130212 Now listen up.
+2131588 2133715 I want this thing to go smooth...
+2133799 2136343 and by the numbers.
+2136427 2140889 I want D.C.S. and tactical database<br />assimilation by 0830.
+2140973 2141807 [All Scoffing]
+2141890 2143976 Ordinance loading, weapons strip<br />and drop-ship prep details...
+2144059 2146437 - will have seven hours.<br />- Oh, come on.
+2146520 2148689 Now, move it, people!
+2148772 2149773 All right, sweethearts.
+2149857 2151483 You heard the man,<br />and you know the drill.
+2151567 2155737 Assholes and elbows!<br />Hudson, come here. Come here.
+2171003 2173005 I don't care if you are short, Hudson.<br />Get it done.
+2173088 2175674 Hey, Sarge.<br />You'll get lip cancer smoking those.
+2175757 2178927 Corporal, I want<br />this loading lock sealed. Now!
+2179011 2181430 - How many more you got, Spunkmeyer?<br /><i>- Last one.</i>
+2181513 2183557 Good. Take it away.
+2183640 2185809 [Whirring, Thudding]
+2200991 2203076 Clear behind.
+2209249 2211877 <i>Did you check number three?<br />Let me see that.</i>
+2211960 2215881 Hi. I feel like kind of a fifth wheel<br />around here. Is there anything I can do?
+2215964 2218342 I don't know.<br />Is there anything you can do?
+2221303 2223555 Well, I can drive that loader.
+2223639 2227309 <i>I have a Class 2 rating.</i>
+2227392 2229478 Be my guest.
+2245035 2247454 [Whirring]
+2275023 2278944 - Where you want it?<br />- [Chuckles]
+2279027 2282406 [Laughing] Bay 12, please.
+2308932 2311351 [Engines Revving]
+2338837 2340380 <i>[Apone] All right, sweethearts.<br />We're a team,</i>
+2340464 2342299 <i>and there's nothing to worry about.</i>
+2342382 2345927 <i>We come here, and we gonna conquer,<br />and we gonna kick some.</i>
+2346011 2348013 <i>Is that understood?<br />That's what we gonna do, sweethearts.</i>
+2348096 2348889 Yes, sir.
+2348972 2351308 <i>- We are going to go and get some.</i><br />- Hey.
+2351391 2354186 <i>All right, people! On the ready line!</i>
+2354269 2357064 - Are you lean? Are you mean?<br /><i>- [All] Yeah! Yeah!</i>
+2357147 2359775 - What are you? What are you?<br /><i>- Lean and mean!</i>
+2359858 2362653 <i>Hudson!<br />Get on the ready line, marine!</i>
+2362736 2365697 Get some today! Get on the ready line!
+2365781 2368700 - Yo!<br /><i>- Move it out! Move it out, goddamn it!</i>
+2368784 2372371 <i>Get hot! One, two, three!<br />Get out, get out, get out!</i>
+2372454 2375999 Move it out, move it out, move it out!<br />Move it out, move it out, move it out!
+2376083 2378669 [Barking Orders, Indistinct]
+2378752 2382381 [Growls] Absolutely badasses.
+2382464 2384883 Let's pack 'em in. Get in there!
+2384966 2386968 <i>All right! Move it!</i>
+2387052 2389721 - Let's go, let's go!<br />- One, two, three,
+2389805 2393266 four, five, six!
+2393350 2397729 <i>All right. I want combat seating.<br />You know your places.</i>
+2397813 2400107 <i>Get those weapons stowed. Let's go.</i>
+2400190 2403527 <i>Come on. Settle down, people.</i>
+2403610 2405737 <i>Lock 'em in, Hudson.</i>
+2405821 2409199 - Ready to get it on?<br />- You know it!
+2409282 2411952 Okay, Bishop, let's go.
+2412035 2414204 Roger.
+2415997 2418750 I'm ready, man.
+2418834 2422337 - Ready to get it on! Go!<br />- [Murmurs Of Agreement]
+2426466 2428927 [Ferro On Headsets]<br />Stand by. Cross-locking now.
+2429010 2430470 Prelaunch autocycle engaged.
+2433724 2437728 Primary couplers released.<br />Hit the internals.
+2449281 2450115 Shit, man.
+2450198 2451992 <i>Confirm cross-lock<br />and drop stations secured.</i>
+2452075 2456204 <i>[Gorman]<br />Affirmative. All drop stations secured.</i>
+2459875 2462419 Stand by. Ten seconds.
+2465046 2469092 Stand by to initiate<br />release sequencer... on my mark.
+2469176 2470469 <i>Five, four, three,</i>
+2470552 2473847 We're on an express elevator<br />to hell, going down.
+2473930 2476892 two, one, mark.
+2478059 2480437 Woo-hoo!
+2492699 2494743 Switch to D.C.S. ranging.
+2495327 2497078 <i>[Spunkmeyer] 240, nominal to profile.</i>
+2497162 2499873 <i>We 're in the pipe, five by five.</i>
+2510592 2512761 We're picking up some hull ionization.
+2512844 2515305 Got it. Rough air ahead.
+2515388 2517641 <i>- We're in for some chop.<br />- [Rumbling]</i>
+2531279 2533615 How many drops is this<br />for you, Lieutenant?
+2535951 2538370 Thirty-eight.
+2538453 2540413 Simulated.
+2540497 2542624 How many combat drops?
+2542707 2546753 Uh, two... including this one.
+2546837 2550173 - Shit.<br />- Oh, man!
+2562853 2567065 Range 014. Turning on final.
+2571945 2574823 <i>[Frost] And I'm telling you,<br />I got a bad feeling about this drop.</i>
+2574906 2576241 <i>[Crowe] You always say that, Frost.</i>
+2576324 2578326 <i>You always say,<br />"I got a bad feeling about this drop."</i>
+2578410 2580871 <i>[Frost] Okay, okay.<br />When we get back without you,</i>
+2580954 2583957 <i>- I'll call your folks. [Laughs]</i><br />- [Beeping]
+2586209 2590338 All right. Let's see what we can see.
+2590422 2593884 Everybody online. Looking good.
+2595719 2598013 Drake, check your camera.<br />There seems to be a malfunction.
+2599431 2602684 <i>That's better. Pan it around a bit.</i>
+2602767 2605896 - Good.<br />- I'm ready, man. Check it out.
+2605979 2607731 I am the ultimate badass.
+2607814 2609065 - Yeah.<br />- That's right.
+2609149 2613111 State-of-the-badass art.<br />You do not want to fuck with me.
+2613194 2614571 <i>Who here's runnin'?</i>
+2614654 2617532 <i>Check it out. [Chuckles]</i>
+2618742 2621494 Hey, Ripley, don't worry.
+2621578 2624706 Me and my squad of<br />ultimate badasses will protect you.
+2624789 2626708 - Hey!<br />- That's right.
+2626791 2628960 Check it out.
+2629044 2632589 Independently targeting<br />particle-beam phalanx.
+2632672 2636301 <i>[Imitates Blast Noise]<br />Fry half a city with this puppy.</i>
+2636384 2638762 We got tactical smart missiles,
+2638845 2641264 phase-plasma pulse rifles, R.P.G.'s.
+2641348 2642474 <i>We got sonic,</i>
+2642557 2644809 <i>- electronic ball breakers!<br />- [Vasquez] Whoo!</i>
+2644893 2648229 We got nukes, we got knives,<br />sharp sticks...
+2648313 2651232 <i>Knock it off, Hudson.<br />All right, gear up.</i>
+2651316 2655111 <i>Two minutes, people. Get hot.</i>
+2655195 2656905 Somebody wake up Hicks.
+2670418 2672879 Coming around for a 709er.
+2672963 2675840 - Terminal guidance locked in.<br />- Where's the damn beacon?
+2675924 2678426 <i>Oh, I see it.</i>
+2684599 2687894 - That's the atmosphere processor?<br />- Yep, that's it.
+2687978 2691272 <i>Remarkable piece of machinery.<br />Completely automated.</i>
+2691356 2693900 You know,<br />we manufacture those, by the way.
+2703535 2708748 <i>[Gorman] Okay, Ferro. Take us in low<br />over the main colony complex.</i>
+2710458 2712544 <i>Storm shutters are sealed.</i>
+2712627 2715213 <i>There's no visible activity.<br />All right. Hold at 40.</i>
+2716631 2719467 - [Ferro On Headset] Roger.<br />- Give me a slow circle of the complex.
+2727350 2731688 Structure seems intact.<br />They still have power.
+2731771 2735984 Okay, Ferro.<br />Set down on the landing grid.
+2736067 2738945 <i>Immediate dust off on my clear,<br />then stay on station.</i>
+2753001 2755336 <i>[Ferro] Down and clear.</i>
+2756504 2758673 <i>Ten seconds, people. Look sharp.</i>
+2761718 2765055 All right. I want a nice,<br />clean dispersal this time.
+2766723 2768808 <i>Let's go! Move it out!</i>
+2768892 2770894 <i>Head 'em up!</i>
+2791790 2796002 First squad up on line. Hicks, get yours<br />in accord and watch the rear.
+2796086 2799714 Vasquez, take point. Let's move!
+2807097 2809057 Move up.
+2810934 2814020 Hudson, run a bypass.
+2819442 2822362 Second squad, move up.<br />Flanking positions.
+2822445 2825156 [Apone Over Headsets]<br />Second squad on line.
+2831454 2832622 <i>[Door Lock Clicks]</i>
+2853184 2855270 [Whispers] You set?
+2858314 2860316 Go on.
+2885758 2888678 Second team, move inside.<br />Hicks, take the upper level.
+2916706 2921711 [Apone] Sir, you copying this? Looks<br />like hits from small-arms fire.
+2921794 2924881 <i>Uh, we got some explosives damage.</i>
+2924964 2927217 It's probably seismic survey charges.
+2927300 2931095 Are you reading this?<br />Keep it tight, people.
+2944359 2948321 [Gorman] All right. Hicks, Hudson,<br />use your motion trackers.
+2950698 2953201 [Clicking]
+2966130 2969467 Nothing. Not a goddamn thing.
+2974389 2977225 Quarter and search by twos.
+2980687 2982689 [Snaps Fingers]
+2988653 2991614 Okay. Dietrich, Frost, you're up.
+2998246 3000248 [Sniffs]
+3003876 3005712 <i>[Clicking Continues]</i>
+3020601 3022895 [Beeping]
+3038786 3040621 It's right in there.
+3044625 3048629 [High-pitched Beeping]
+3053009 3053843 - Now!<br />- Now!
+3053926 3058723 - Haah! Uh...<br /><i>- Good one, Hudson!</i>
+3058806 3061976 <i>[Hudson] Uh, sir, uh,<br />we have a negative situation here.</i>
+3062060 3063936 <i>Uh, movin' on, sir.</i>
+3064020 3066564 [Clicking]
+3072987 3075948 <i>Wait. Wait, tell him to...</i>
+3076949 3080661 Hicks, back up. Pan right.
+3081829 3087418 - There.<br />- You seeing this all right?
+3087502 3093049 Looks melted. Somebody must have bagged<br />one of Ripley's bad guys here.
+3093132 3095093 Acid for blood.
+3095176 3098763 If you like that,<br />you're gonna love this.
+3105812 3107814 [Hocking]
+3111943 3113653 Quit screwing around.
+3113736 3115488 Second squad, what's your status?
+3115571 3118699 [Hicks] Uh, we just finished<br />our sweep. Nobody's home.
+3118783 3121369 Roger. Sir, this place is dead.
+3121452 3124080 Whatever happened here,<br />I think we missed it.
+3124163 3125832 [Sighs] All right. The area's secured.
+3125915 3128167 Let's go in and see<br />what their computer can tell us.
+3128251 3131087 - Wait a minute. It's not secure.<br />- The area's secured, Ripley.
+3131170 3132964 <i>First team, head for operations.</i>
+3134382 3136384 Hudson, see if you can<br />get their C.P.U. on line.
+3136467 3137343 Affirmative.
+3137426 3139971 Hicks, meet me at<br />the south lock. We're coming in.
+3140054 3140888 Roger.
+3140972 3144267 He's comin' in. I feel safer already.
+3144350 3146394 <i>Pendejo</i> jerk-off.
+3166455 3169083 <i>[Hudson On Radio]<br />Sir, we got the C.P.U. on line.</i>
+3169167 3170418 <i>No problem.</i>
+3170501 3173212 Good. Stand by in Operations.
+3174213 3176257 Okay, let's go.
+3196611 3198279 Are you all right?
+3199488 3201157 Yes.
+3217757 3221761 <i>Sir, they sealed off<br />this wing at both ends,</i>
+3221844 3225097 <i>welded the doors and blocked off the<br />stairs with heavy equipment.</i>
+3225181 3226349 <i>[Gorman] Mm-hmm.</i>
+3226432 3229226 <i>But it looks like<br />the barricade didn't hold.</i>
+3229310 3231437 - Any bodies?<br />- No, sir.
+3231520 3233439 Last stand.
+3233522 3235983 <i>[Drake]<br />Must have been a hell of a fight.</i>
+3236067 3238694 Yeah, looks that way.
+3240613 3242740 <i>[Gorman] All right, Drake, this way.</i>
+3242823 3245826 <i>We should be able<br />to cut through the medlab to Operations.</i>
+3297628 3299547 <i>[Hicks] Lieutenant.</i>
+3301382 3303384 Gorman.
+3320276 3321944 Are those the same ones that...
+3335207 3337251 Careful, Burke.
+3346844 3350765 Looks like love at first sight to me.
+3350848 3353184 <i>Oh, he likes you, Burke. [Chuckles]</i>
+3353267 3355895 Two are alive. The rest are dead.
+3357772 3360733 "Surgically removed<br />before embryo implantation.
+3360816 3365529 Subject Marachek, John J.,<br />died during the procedure."
+3365613 3367990 They killed him taking it off.
+3368240 3372286 - [Clicking, Beeping]<br />- Yo, Hicks.
+3372369 3374914 I think we got something here.
+3379668 3381629 - Behind us.<br />- One of us?
+3382922 3386425 <i>Apone, where are your people?<br />Anybody in "D" block?</i>
+3386509 3389345 [Apone On Radio] Ah, that's<br />a negative. We're all in Operations.
+3392348 3394391 Talk to me, Frosty.
+3394475 3396435 Let's keep moving, baby.
+3408155 3409990 <i>[Crash]</i>
+3414870 3416831 - It's moving.<br />- Which way?
+3416914 3420459 It's coming straight for us.<br />Straight up.
+3439979 3443023 [High-pitched Beeping]
+3457997 3459957 - Fuck!<br />- Hold up.
+3461542 3463043 Ripley.
+3482563 3485691 Hey. Shh. It's all right.
+3485774 3488027 - It's all right. Come on.<br />- Just grab her, Corporal.
+3488110 3491197 <i>Don't be afraid. Come on.<br />We won't hurt you.</i>
+3491280 3493574 <i>Shh. It's all right. It's okay.</i>
+3493657 3495826 <i>Come on out. Come on.</i>
+3495910 3497995 <i>- Easy. Easy.</i><br />- I got her.
+3498078 3499997 Ow! Damn!
+3500080 3502875 - Watch her! She's under the grille!<br />- Don't let her go.
+3502958 3506253 - Frost, get your light up here.<br />- Where'd she go?
+3509173 3513010 - Shine the light.<br />- Here. Here.
+3513093 3514803 - Here. Here.<br />- There she is.
+3514887 3517514 <i>[Ripley]<br />Keep back. Keep back. Don't scare her.</i>
+3517598 3519350 <i>[Hicks] Grab her, man.<br />We're gonna lose her.</i>
+3519433 3520267 <i>[Ripley] Damn it!</i>
+3522561 3524480 <i>[Hicks] Kick it out!</i>
+3525522 3528692 - [Grunts]<br />- Wait.
+3552341 3554260 <i>[Clattering]</i>
+3554343 3557304 It's okay. It's all right.
+3558305 3562101 <i>Don't be afraid.</i>
+3562184 3564270 <i>See?</i>
+3564353 3566272 - Wait. No, you don't.<br />- [Screams]
+3566355 3569817 It's okay.<br />You're gonna be all right now.
+3569900 3571986 - [Whimpering]<br />- Shh.
+3572069 3576240 Easy. Easy. It's gonna be okay.
+3576323 3578826 It's all right. You're gonna be okay.
+3578909 3580953 Shh, shh, shh, shh, shh.
+3581036 3584123 Easy. Easy.
+3610232 3612693 [Whirring]
+3620117 3622619 - What's her name again?<br />- Rebecca.
+3622703 3626665 Now think, Rebecca. Concentrate.
+3626749 3629585 Just start at the beginning.
+3629668 3632713 Where are your parents?
+3632796 3635007 Now, look, Rebecca,<br />you have to try and help...
+3635090 3637718 Gorman, give it a rest, why don't you?
+3640054 3642806 [Sighs] Total brain lock.
+3642890 3644808 Physically, she's okay.
+3644892 3646268 Borderline malnutrition,
+3646352 3648103 but I don't think<br />there's any permanent damage.
+3648187 3650606 Come on. We're wasting our time.
+3660157 3662493 Try this.
+3662576 3664912 It's a little hot chocolate.
+3666413 3668832 There you go.
+3668916 3671126 Whoop.
+3671210 3673170 That good, huh?
+3677549 3681011 Uh-oh. I made a clean spot here.
+3681095 3684890 Now I've done it.<br />Guess I'll have to do the whole thing.
+3694441 3697986 Hard to believe<br />there's a little girl under all this.
+3699988 3702157 And a pretty one too.
+3706203 3708789 You don't talk much, do you?
+3717798 3719758 Smoking or nonsmoking?
+3719842 3721760 Just tell me what<br />you're scanning for, Private.
+3721844 3723762 - P.D.T.s.<br />- What?
+3723846 3725764 Personal data transmitters.
+3725848 3728392 Every colonist had one<br />surgically implanted.
+3728475 3731645 If they're within 20 klicks,<br />we'll read it out here.
+3731728 3733897 So far, zippo.
+3733981 3736900 I don't know how you<br />managed to stay alive,
+3736984 3739361 but you're one brave kid, Rebecca.
+3741363 3743323 [Whispers] N-Newt.
+3745325 3748829 - What'd you say?<br />- Newt.
+3748912 3751123 My name's Newt.
+3751206 3756336 Nobody calls me Rebecca<br />except my brother.
+3756420 3760299 Newt? I like that.
+3760382 3764178 I'm Ripley. It's nice to meet you.
+3766180 3769308 And who is this, hmm?
+3769391 3773103 - Casey.<br />- Hello, Casey.
+3773187 3776148 What about your brother?<br />What's his name?
+3776231 3778275 Timmy.
+3778358 3782821 Is Timmy around here too?<br />Maybe hiding like you were?
+3785866 3787826 Any sisters?
+3791455 3793373 Mom and dad?
+3796210 3800464 Newt, look at me. Where are they?
+3800547 3803592 They're dead, all right? Can I go now?
+3806720 3809181 I'm sorry, Newt.
+3809264 3811850 Don't you think you'd<br />be safer here with us?
+3815729 3817773 These people are here to protect you.
+3817856 3819816 <i>They're soldiers.</i>
+3819900 3822736 It won't make any difference.
+3830118 3832037 <i>[Door Opens]</i>
+3832120 3834081 <i>[Cart's Wheels Clacking]</i>
+3836208 3838252 Need anything else?
+3840796 3843757 Hello, Bishop.<br />Do you need anything else?
+3845634 3847678 No.
+3849763 3851890 That's a nice pet you got there, Bishop.
+3851974 3854893 Magnificent, isn't it?
+3854977 3860023 Yo! Stop your grinnin'<br />and drop your linen! Found 'em.
+3860107 3862651 - They alive?<br />- Unknown,
+3862734 3864653 but it looks like all of them.
+3864736 3868907 <i>Over at the processing station,<br />Sublevel 3,</i>
+3868991 3871451 <i>under the main cooling towers.</i>
+3872661 3875289 Looks like a goddamn town meeting.
+3875372 3877291 Let's saddle up, Apone.
+3877374 3879668 Aye, sir.
+3879751 3882337 All right. Let's go, people.<br />They ain't payin' us by the hour.
+3882421 3884381 Let's go. Head 'em out!
+3884464 3886383 <i>Okay, Frost, you're driving.</i>
+3898270 3901732 It's okay. Don't worry. It'll be okay.
+3942272 3944441 [Gorman On Radio]<br />I want a straight "V" deployment,
+3944524 3946276 second team on left flank.
+3946360 3950405 Advance on axial 664. Tracker on line.
+3950489 3953617 Set the "V" gain to filter R.F. ambient.
+3953700 3957204 [Apone] Hudson, tracker on line.<br />Left and right, little buddy.
+3957287 3958955 <i>[Clicking]</i>
+3959039 3963210 [Gorman] Forty meters in, bearing 221,<br />there should be a stairwell.
+3963293 3965253 Check. Got it.
+3966713 3968632 [Gorman] You want Sublevel 3.
+3970842 3973095 [Apone] Let's go, people.<br />Hudson, you got the point.
+3973178 3975555 Hicks, watch our tails.
+3975639 3978809 Nice and easy. Check those corners.
+3978892 3981144 Check those corners.
+3984523 3985732 Watch your spacing.
+3985816 3987150 [Apone] All right.<br />You heard the man.
+3987234 3989152 Don't bunch up. Stay loose.
+3989236 3991988 <i>[Gorman] Uh, your transmission's<br />showing a lot of breakup.</i>
+3992072 3996284 [Hudson] Probably getting some<br />interference from the structure.
+3996368 3998495 [Apone] Use those lights.
+3998578 4002958 <i>[Gorman]<br />Next one down, and proceed on a 216.</i>
+4003041 4005210 <i>[Apone] Uh, roger. That's a 216.</i>
+4007421 4010424 <i>[Gorman] I'm not making that out<br />too well. What is it, Hudson?</i>
+4010507 4013468 You tell me, man. I only work here.
+4028567 4030652 What is that?
+4030736 4032946 I don't know.
+4034656 4036950 Proceed inside.
+4052758 4055635 [Apone On Headset]<br />Watch your fire and check your targets.
+4055719 4058054 Remember we're looking<br />for civvies in here.
+4067856 4069775 [Apone] Easy.
+4069858 4072319 [Hicks] Tighten it up, Frost.<br />We're getting a little thin.
+4074112 4076406 <i>[Apone] Nice and easy.</i>
+4078700 4080619 Looks like some sort of secreted resin.
+4080702 4084498 Yeah, but secreted from what?
+4084581 4087250 Nobody touch nothing.
+4087334 4090295 Busy little creatures, huh?
+4090378 4092631 Hot as hell in here.
+4092714 4094633 Yeah, man, but it's a dry heat.
+4094716 4096676 <i>[Apone] Knock it off, Hudson.</i>
+4104601 4107938 Lieutenant, what do<br />those pulse rifles fire?
+4108021 4110398 <i>Ten millimeter explosive-tip caseless.</i>
+4110482 4112442 Standard light armor-piercing round.
+4112526 4114778 - Why?<br /><i>- Well, look where your team is.</i>
+4114861 4118114 <i>They're right under<br />the primary heat exchangers.</i>
+4118198 4120200 So?
+4120283 4123995 So if they fire their weapons in there,<br />won't they rupture the cooling system?
+4124079 4127290 Ho, ho, ho. Yeah.<br />She's absolutely right.
+4127374 4128333 So? So what?
+4128416 4132629 Look. This whole station is<br />basically a big fusion reactor.
+4132712 4135090 Right?
+4135173 4139845 So you're talking about a thermonuclear<br />explosion, and adios, muchachos.
+4139928 4142556 Oh, great. Wonderful.
+4142639 4145433 Shit!
+4147394 4151231 Look. Uh... Apone.
+4151314 4152482 [Snapping Fingers]
+4152566 4155986 Look. We can't have any firing in there.
+4156069 4159823 I, uh, I want you to collect<br />magazines from everybody.
+4159906 4160907 Is he fuckin' crazy?
+4160991 4163952 What the hell are we supposed<br />to use, man, harsh language?
+4164035 4166872 - Flame units only. I want rifles slung.<br />- Sir, I...
+4166955 4169916 Just do it, Sergeant. And no grenades.
+4171626 4173545 All right, sweethearts.<br />You heard the man.
+4173628 4175714 Pull 'em out. Come on. Let's have 'em.
+4176715 4179426 <i>Come on, Vasquez. Clear and lock.</i>
+4182304 4184598 Damn!
+4184681 4186808 <i>You too. Give it up, Ski.<br />Come on. Let's go.</i>
+4186892 4189853 <i>Crowe, I want it now. Give it up.</i>
+4189936 4191897 Right on, Vas.
+4193148 4195066 Let's go, marine. Give it up.
+4195150 4197277 Frost, you got the duty. Open that bag.
+4197360 4200238 - Thanks a lot, Sarge.<br />- Hicks, cover our ass.
+4200322 4202240 Head 'em out, people.
+4204326 4207913 I like to keep this handy...<br />for close encounters.
+4207996 4209873 I heard that.
+4210123 4211958 [Tracker Clicking]
+4218840 4220759 [Gorman] Any movement?
+4220842 4223511 Nothing. Zip.
+4236232 4238652 Holy shit.
+4251456 4253959 <i>[Ripley] Newt, go sit up front.</i>
+4254042 4256544 Go on! Now!
+4285198 4287951 [Apone]<br />Steady, people. Let's finish our sweep.
+4288034 4291454 We're still marines,<br />and we got a job to do.
+4291538 4295250 Keep it moving. Easy.
+4327240 4328867 - Help!<br />- What?
+4328950 4331703 <i>Top, get over here. We got a live one!<br />You're gonna be all right.</i>
+4331786 4334956 Please... k-kill me.
+4335040 4337917 [Dietrich] Just stay calm.<br />We're gonna get you outta here.
+4338001 4340587 <i>It's gonna be all right. Give me a hand.<br />We gotta get her outta here.</i>
+4340670 4343048 - What is it, Dietrich?<br /><i>- Convulsion!</i>
+4343131 4345800 - [Screaming]<br />- Dietrich, get back!
+4345884 4348261 - Get back!<br />- [Screams]
+4355393 4358688 - No!<br /><i>- Frost, flamethrower. Kill it!</i>
+4358772 4361399 <i>Get back! Flamethrower! Move!</i>
+4361483 4364110 [Alien Screeches]
+4366905 4370867 - [Groaning]<br />- [Screeching]
+4371117 4372660 <i>[Hissing]</i>
+4391221 4392931 <i>- [Tracker Beeping]</i><br />- Movement!
+4393014 4397769 - What's the position?<br />- I can't lock in!
+4397852 4400230 Talk to me, Hudson!
+4400313 4403483 Multiple signals.
+4403566 4405693 <i>They're closing.</i>
+4405777 4409072 Go to infrared, people. Look sharp!
+4409155 4412492 What's happening, Apone?<br />Can't see anything in here.
+4412575 4414494 Pull your team out, Gorman.
+4420333 4423086 I got signals.<br />I got readings in front and behind.
+4423169 4425380 Where, man? I don't see shit.
+4425463 4427966 <i>He's right. There's nothing back here.</i>
+4428049 4430510 Look, I'm telling you. There's<br />something moving, and it ain't us!
+4432554 4435557 - Oh, shit.<br />- [Hudson] Tracker's off scale, man.
+4435640 4438935 They're all around us, man! Jesus!
+4439018 4441938 Maybe they don't show up<br />on infrared at all.
+4445608 4447652 [Screams]
+4449320 4452115 [Screaming]
+4452198 4454659 <i>- Frost!</i><br />- [Screams]
+4458788 4460748 Come on!
+4467213 4469799 - [Steady Beep]<br />- Jesus Christ, Apone! What is going on?
+4469883 4472844 <i>[Hicks]<br />Wierzbowski and Crowe are down!</i>
+4472927 4476931 - Dietrich, Crowe! Sound off! Frost!<br />- Dietrich, Frost, off the board!
+4478349 4479601 Frost!
+4481269 4484814 <i>- [Man Screaming]</i><br />- Wierzbowski?
+4484898 4487650 <i>- Wierzbowski?</i><br />- [Wierzbowski Screaming]
+4487734 4491404 - [Grunts] Let's rock!<br />- [Drake Shouting]
+4491487 4494032 [Gunfire]
+4494115 4495742 Who's firing? Goddamn it!
+4496743 4497994 Yeah!
+4498077 4499495 I ordered to hold fire.
+4499579 4502123 [Hudson]<br />They're coming out of the walls!
+4502207 4504584 They're coming out of the goddamn walls!<br />Let's book!
+4504667 4506878 - [Vasquez] On the right, man.<br />- Uh, Apone,
+4506961 4509714 I want you to lay down a suppressing<br />fire with the incinerators...
+4509797 4512550 Vasquez, Drake,<br />hold your fire, goddamn it!
+4512634 4516554 [Gorman] Apone, are you copying me? I<br />want you to lay down suppressing fire...
+4516638 4519182 with the incinerators<br />and fall back by squads to the A.P.C.
+4519265 4521643 - Over.<br />- Say again, all after "incinerator."
+4521726 4525521 I said I want you to lay down<br />a suppressing fire with the incinerators
+4525605 4526439 and fall back...
+4526522 4529067 - by squads to the A.P.C. Over.<br /><i>- [Gunfire]</i>
+4529984 4531027 Hey!
+4531110 4532904 [Screaming]
+4532987 4535406 - [Hudson] Sarge! Sarge!<br />- Apone.
+4535490 4537909 - Talk to me. Apone?<br />- Copy! Copy!
+4537992 4540286 <i>- Talk to me, Apone.</i><br />- He's gone!
+4541955 4544374 - Get them out of there!<br /><i>- Shut up!</i>
+4544457 4547377 - Do it now! Hicks, whoever's left, get...<br />- Shut up!
+4547460 4549379 - Just shut up!<br />- Goddamn it!
+4549462 4553883 - It's coming out of the goddamn walls!<br />- Where's Apone? Where's Apone?
+4553967 4556261 The sarge is gone!<br />Let's get the fuck out of here!
+4556344 4560139 Let's move it! Let's go, marine!
+4560223 4563351 Hudson? Vasquez?
+4563434 4566521 - Hudson, look out!<br />- Get it!
+4567647 4569649 - [Alien Screeching]<br />- Watch it!
+4569732 4572151 - Hicks.<br />- Come on. Behind you! Fall back!
+4572235 4575738 - I told them to fall back.<br />- [Hicks] Fall back, goddamn it, now!
+4575822 4577740 - They're cut off!<br /><i>- [Hicks] Hudson, move your ass!</i>
+4577824 4579701 - Do something!<br />- [Hicks] Let's go, marine!
+4579784 4581744 Fuck!
+4581995 4584831 <i>- Come on. Keep moving, baby.</i><br />- Hold on, Newt.
+4587792 4590545 [Engines Revving]
+4590628 4593881 Ripley, what the hell are you doing?
+4593965 4596342 [Tires Squealing]
+4599804 4601514 Turn around!
+4604892 4607270 That's an order!
+4610773 4614235 <i>- Get off me, damn it!<br />- Goddamn it, that's an order!</i>
+4614319 4617030 You had your chance, Gorman.
+4620283 4622535 [Tires Squealing]
+4628374 4630293 Come on!
+4649854 4652482 - Come on. Let's move it!<br />- [Screeches]
+4652565 4654901 [Vasquez] Come on! Let's go! Let's go!
+4654984 4658446 [Hudson] It's blocked, man.<br />We gotta go around!
+4658529 4663326 - Open the door! Hicks!<br />- Drake, we are leaving!
+4663409 4665411 [Drake] Get them, man!
+4666287 4668873 Run for it!
+4669957 4672418 Shit! [Grunting]
+4675171 4678424 - [Grunts] Go! Go!<br /><i>- [Vasquez] Come on, man! Come on!</i>
+4686516 4690395 - Drake, come on!<br />- [Screeches]
+4692939 4695149 - [Screams]<br />- No!
+4697235 4700071 - Fire in the hole!<br /><i>- [Hicks] He's gone!</i>
+4700154 4702031 <i>Put it out! Put it out! Go! Go!</i>
+4702115 4705868 - Come on. Put it out!<br />- Drake's coming, man!
+4705952 4708913 - Drake! No, he's not!<br />- He's gone!
+4710331 4712291 Forget him! He's gone!
+4718131 4720049 They're in the goddamn door!
+4723469 4726180 Eat this!
+4726264 4729350 - [Screaming]<br />- [Hicks] Ripley!
+4729434 4731769 <i>Go, go, go!</i>
+4765094 4767430 <i>[Clatter]</i>
+4794540 4796459 - It's all right! We're clear!<br /><i>- [Metal Clattering]</i>
+4796542 4798961 Ripley, you've blown the transaxle!
+4799045 4800963 You're just grinding metal!
+4801047 4803257 Come on, ease down.
+4803341 4805384 Ease down.
+4805468 4809222 Ease down. Ease down. Ease down.
+4816729 4818731 <i>[Newt Coughing]</i>
+4820900 4823152 You okay?
+4824529 4826572 - I'm all right.<br />- Hudson.
+4826656 4828741 Get away from me, man!
+4828824 4832828 <i>- Lieutenant.</i><br />- What happened to Gorman?
+4832912 4836165 I don't know. Maybe a concussion.
+4836249 4838543 - But he's alive.<br />- He's dead!
+4838626 4840711 Wake up, <i>pendejo,</i> and then<br />I'm gonna kill you!
+4840795 4844006 Back off. Right now.
+4845466 4848636 - Fuck!<br />- Somebody get me a first aid kit.
+4848719 4851847 Hey. Hey, look.
+4851931 4855226 The sarge and Dietrich aren't dead, man.
+4855309 4857311 Their signs are real low,<br />but they ain't dead.
+4857395 4859689 - Then we go back in there and get them.<br />- Fuck that!
+4859772 4862149 <i>- We don't leave our people behind...</i><br />- I ain't going back in there.
+4862233 4864694 You can't help them!
+4864777 4869448 You can't. Right now they're being<br />cocooned just like the others.
+4873744 4877039 Oh, dear Lord Jesus,<br />this ain't happenin', man.
+4877123 4877999 Damn it.
+4878082 4881127 This can't be happenin', man.<br />This isn't happenin'!
+4881377 4884797 All right. We got<br />seven canisters of CN-20.
+4884880 4888217 I say we roll them in there<br />and nerve gas the whole fucking nest.
+4888301 4889427 That's worth a try,
+4889510 4891095 but we don't even know<br />if it's gonna affect them.
+4891178 4893931 Let's just bug out<br />and call it even. Okay?
+4894015 4895641 What are we talking about this for?
+4895725 4899437 I say we take off<br />and nuke the entire site from orbit.
+4902315 4904233 It's the only way to be sure.
+4904317 4907570 - Fuckin' "A"!<br /><i>- Hold on. Hold on one second.</i>
+4907653 4911824 This installation has a substantial<br />dollar value attached to it.
+4911907 4914410 They can bill me.
+4914493 4919540 Okay, look. This is an emotional moment<br />for all of us, okay?
+4919624 4923044 I know that. But let's not<br />make snap judgments, please.
+4923127 4926088 This is clearly... clearly an important<br />species we're dealing with,
+4926172 4928924 and I don't think that<br />you or I or anybody has the right...
+4929008 4932094 - to arbitrarily exterminate them.<br />- Wrong.
+4932178 4933721 Yeah. Watch us.
+4933804 4936098 Maybe you haven't been<br />keeping up on current events,
+4936182 4938851 but we just got our asses kicked, pal!
+4938934 4942271 Look. I'm not blind to what's going on,
+4942355 4944940 but I cannot authorize<br />that kind of action.
+4945024 4947109 I'm sorry.
+4948235 4951155 Well, I believe Corporal Hicks...
+4951238 4953199 has authority here.
+4954700 4956619 Corporal Hicks is...
+4956702 4959080 <i>This operation<br />is under military jurisdiction,</i>
+4959163 4961082 <i>and Hicks is next in chain of command.</i>
+4961165 4963334 Am I right, Corporal?
+4963417 4965378 Yeah.
+4966545 4969090 Yeah, that's right.
+4969173 4971217 - Yeah. Look, Ripley.<br />- Yes.
+4971300 4973761 This is a multimillion-dollar<br />installation, okay?
+4973844 4975763 He can't make that kind of decision.
+4975846 4978432 He's just a grunt. Uh, no offense.
+4978516 4982269 - None taken. Ferro, do you copy?<br />- Standing by.
+4982353 4985022 Prep for dust off.<br />We're gonna need immediate evac.
+4985106 4987024 <i>Roger. On our way.</i>
+4987108 4991737 <i>I say we take off, nuke the site from<br />orbit. It's the only way to be sure.</i>
+4994365 4996075 Let's do it.
+4996325 5000079 <i>[Wind Whistling]</i>
+5003207 5006752 Let's go.<br />Pick it up, Hudson. Pick it up, baby.
+5011966 5014135 All right. Set him down here.
+5020725 5022768 Move it, Spunkmeyer. We're rolling.
+5027940 5029859 Hold on a second. There's something...
+5029942 5032236 [Ferro] Just get up here.
+5032319 5034822 I'm in. Ramp closing.
+5054550 5056510 Spunkmeyer.
+5057720 5061390 - Goddamn it.<br />- [Door Opens]
+5061474 5063809 Well, where the fuck...
+5063893 5066020 [Hisses]
+5076572 5078491 Run!
+5119365 5123160 Well, that's great.<br />That's just fuckin' great, man.
+5123244 5125704 Now what the fuck are we supposed to do?
+5125788 5128082 We're in some real pretty shit now, man!
+5128165 5130543 Are you finished?
+5133379 5135339 You all right?
+5140553 5144765 I guess we're not gonna<br />be leaving now, right?
+5144849 5146475 I'm sorry, Newt.
+5146559 5149436 You don't have to be sorry.<br />It wasn't your fault.
+5149520 5150479 That's it, man.
+5150563 5152940 Game over, man! Game over!
+5153023 5155651 What the fuck are we gonna do now?<br />What are we gonna do?
+5155734 5158863 Maybe we could build a fire.<br />Sing a couple of songs, huh?
+5158946 5160155 Why don't we try that?
+5160239 5162992 We'd better get back<br />'cause it'll be dark soon,
+5163075 5166453 and they mostly come at night, mostly.
+5183262 5187266 That's everything, right? All right.<br />This is absolutely everything...
+5187349 5190352 that we could salvage<br />out of the A.P.C. wreckage.
+5190436 5194023 We got four pulse rifles<br />with about 50 rounds each.
+5194106 5196233 That ain't so good.
+5196317 5200029 We got, uh, 15 of these M-40 grenades.
+5200112 5202072 <i>Don't touch that.</i>
+5202156 5204617 - Dangerous, honey.<br />- Is that the only flamethrower?
+5204700 5208746 <i>[Hicks] Yeah. It's only half full,<br />but it's functional.</i>
+5208829 5212583 <i>Got another one, it's damaged...<br />I don't know about that one.</i>
+5212666 5218464 But the good news...<br />we got four of these robot sentries,
+5218547 5221592 with display and scanners intact.
+5221675 5224845 They really kick ass.<br />I think they'll come in handy.
+5224929 5229350 How long after we're declared overdue<br />can we expect a rescue?
+5231393 5233520 Seventeen days.
+5234521 5237066 Seventeen days?
+5237149 5239026 Hey, man,<br />I don't wanna rain on your parade,
+5239109 5241028 but we're not gonna last 17 hours.
+5241111 5243572 <i>Those things are gonna come in<br />here like they did before.</i>
+5243656 5244782 <i>They're gonna come in here...</i>
+5244865 5245699 Hudson! Hudson!
+5245783 5247952 <i>They're gonna come in here<br />and they're gonna get us!</i>
+5248035 5250079 This little girl<br />survived longer than that...
+5250162 5253207 with no weapons and no training.
+5253290 5255209 Right?
+5257586 5260297 Why don't you put her in charge?
+5260381 5263217 You'd better just start<br />dealing with it, Hudson. Listen to me.
+5263300 5265469 Hudson, just deal with it<br />because we need you.
+5265552 5267471 And I'm sick of your bullshit.
+5267554 5271141 Now, I want you to get on a terminal and<br />call up some kind of floor plan file.
+5271225 5273936 Do you understand?<br />Construction blueprints. I don't care.
+5274019 5276397 Anything that shows the layout of this<br />place. Are you listening?
+5276480 5279566 - Yeah.<br /><i>- I need to see air ducts.</i>
+5279650 5283028 I need to see electrical access tunnels,<br />subbasements,
+5283112 5286824 <i>every possible way into this complex.</i>
+5286907 5291412 - We don't have much time.<br />- Okay.
+5291495 5293789 - Okay, I'm on it.<br /><i>- Hudson!</i>
+5293872 5298544 - Just relax.<br />- [Exhales Sharply]
+5301964 5307011 I'll be in medlab. I'll check on Gorman,<br />continue my analysis.
+5307094 5310014 Fine. You do that.
+5316228 5320065 So this service tunnel must be how<br />they're moving back and forth.
+5320149 5322651 That's right.<br />It moves from the processing station...
+5322735 5325070 right into the sublevel here.
+5327114 5330451 Come down on that. Okay, come over.
+5330534 5333746 Hold. Go back.<br />Okay, punch that in right there.
+5339418 5341462 - No. It's back here.<br />- Okay.
+5343005 5345674 Well, there's<br />a pressure door at this end.
+5345758 5348969 <i>Couldn't we put one of<br />the remote sentry units in the tunnel</i>
+5349053 5350387 <i>and then seal that door?</i>
+5350471 5353474 Yeah, that'll work, but we gotta<br />figure on them getting into the complex.
+5353557 5354808 <i>That's right,</i>
+5354892 5358604 <i>so we repair the barricades<br />at these two intersections.</i>
+5358687 5359688 Right.
+5359772 5361356 And weld plate steel<br />over these ducts...
+5361440 5365819 here and here and here.
+5365903 5368906 That way they can only come at us<br />from these two corridors.
+5368989 5374703 All right. Then we put the other sentry<br />units here and here, right?
+5374787 5377247 <i>- Right.</i><br />- Outstanding.
+5377331 5379291 Now all we need is a deck of cards.
+5381585 5383712 All right, people.<br />Let's move like we got a purpose.
+5383796 5386548 <i>- [Hudson] Affirmative.</i><br />- Affirmative.
+5398143 5401730 [Beeping]
+5401814 5405484 <i>Do your thing, baby. Come on, Vasquez.<br />Let's get the hell outta here.</i>
+5405567 5408445 Hudson here. "A" and "B" sentries<br />are in place and keyed.
+5408529 5413408 Roger. Stand by.<br />Arming now. Test it, Hudson.
+5413492 5415869 - Do it!<br />- Fire in the hole!
+5419123 5421917 <i>Okay, great.<br />Let's get the hell outta here!</i>
+5422000 5425462 We're sealing the tunnel. Come on, baby.
+5427506 5429341 <i>[Welder Crackling]</i>
+5437641 5439560 For what it's worth.
+5441520 5443814 Here. I want you to put this on.
+5445190 5447442 - What's it for?<br />- It's a locator.
+5447526 5450988 Then I can find you<br />anywhere in the complex on this.
+5451071 5452739 <i>[Beeping]</i>
+5452823 5456910 - It's just a precaution.<br />- Thanks.
+5456994 5459788 Doesn't mean we're engaged or anything.
+5459872 5461874 All right, what's next?
+5468714 5472759 [Beeping]
+5486398 5488984 <i>[Door Closes]</i>
+5491486 5493530 Last stop.
+5497534 5499453 Get in.
+5499536 5503624 Scoot down. That's good.
+5503707 5507753 Now, you lie here and have a nap.<br />You're very tired.
+5507836 5511215 I don't want to. I have scary dreams.
+5513592 5516678 Well, I bet Casey doesn't<br />have scary dreams.
+5516762 5518680 Let's take a look.
+5518764 5521099 Nope. Nothing bad in there.
+5521183 5525479 See? Maybe you could<br />just try to be like her, hmm?
+5525562 5528065 Ripley, she doesn't have bad dreams...
+5528148 5531193 because she's just a piece of plastic.
+5531276 5534780 Right. I'm sorry, Newt.
+5541495 5543747 There.
+5543830 5546708 My mommy always said<br />there were no monsters...
+5546792 5550128 no real ones... but there are.
+5551463 5553423 Yes, there are, aren't there?
+5555509 5557844 Why do they tell little kids that?
+5559721 5561640 Most of the time it's true.
+5561723 5565185 Did one of those things grow inside her?
+5565269 5568063 I don't know, Newt.
+5568146 5570107 That's the truth.
+5570190 5574820 Isn't that how babies come?<br />I mean, people babies?
+5574903 5578448 - They grow inside you.<br />- Oh, that's very different.
+5578532 5580450 Did you ever have a baby?
+5580534 5583870 Yes, I did. I had a little girl.
+5583954 5588500 - Where is she?<br />- She's gone.
+5590335 5592296 You mean dead.
+5593880 5594840 Here.
+5596216 5598051 Take this.
+5599678 5601513 For luck.
+5604725 5606685 There's that.
+5608854 5610772 Don't go, please.
+5610856 5614401 Newt, I'm gonna be<br />right in the next room.
+5614484 5616403 And you see that camera right up there?
+5616486 5619281 <i>I can see you right through that camera,</i>
+5619364 5621700 all the time to see if you're safe.
+5626079 5628749 I'm not gonna leave you, Newt.
+5628832 5632753 I mean that. That's a promise.
+5632836 5635505 You promise?
+5635589 5637883 I cross my heart.
+5637966 5642262 - And hope to die?<br />- And hope to die.
+5651229 5653190 [Kisses]
+5657152 5661615 Now go to sleep, and don't dream.
+5662741 5664743 [Laughs]
+5665786 5667746 Sneak.
+5672584 5675087 <i>[Door Opens]</i>
+5676546 5679299 <i>The molecular acid oxidizes<br />after the creature's death,</i>
+5679383 5680759 <i>completely neutralizing it.</i>
+5680842 5682427 Bishop, you know,<br />that's very interesting,
+5682511 5684262 but it doesn't really<br />get us anywhere, does it?
+5684346 5686890 I'm trying to figure out<br />what we're dealing with here.
+5686973 5689059 Let's go through it again.
+5689142 5691353 They grab the colonists,<br />they move them over there...
+5691436 5695774 and they immobilize them<br />to be hosts for more of these.
+5695857 5699694 Which would mean that there would have<br />to be a lot of these parasites, right?
+5699778 5701947 One for each colonist.<br />That's over 100, at least.
+5702030 5703949 Yes. That follows.
+5704032 5708078 But each one of these things<br />comes from an egg, right?
+5710622 5712541 So who's laying these eggs?
+5712624 5715710 I'm not sure.
+5715794 5717754 It must be something<br />we haven't seen yet.
+5717838 5720048 Hey, maybe it's like an ant hive.
+5720132 5722175 Bees, man. Bees have hives.
+5722259 5727431 You know what I mean. There's, like, one<br />female that runs the whole show.
+5727514 5729891 - Yes, the queen.<br /><i>- Yeah, the mama.</i>
+5729975 5732352 She's badass, man. I mean, big.
+5732436 5734980 - These things ain't ants, <i>estúpido.</i><br />- I know that.
+5735063 5739734 Bishop, I want these specimens destroyed<br />as soon as you're finished with them.
+5739818 5742737 - Is that clear?<br />- Mr. Burke gave instructions...
+5742821 5744823 that they were to be kept alive<br />in stasis
+5744906 5746658 for return to the company labs.
+5748869 5750829 He was very specific about it.
+5752289 5754416 Look. Those two specimens<br />are worth millions
+5754499 5756251 to the bio-weapons division, right?
+5756334 5759713 Now, if you're smart,<br />we can both come out of this heroes,
+5759796 5763008 and we will be set up for life.
+5764050 5766636 You're crazy, Burke. Do you know that?
+5766720 5769723 Do you really think you can get<br />a dangerous organism like that
+5769806 5770891 past I.C.C. quarantine?
+5770974 5773852 How can they impound it<br />if they don't know about it?
+5773935 5776980 But they will know about it,<br />Burke, from me.
+5777063 5778231 Just like they'll know
+5778315 5781318 that you were responsible<br />for the deaths of 157 colonists.
+5781401 5783862 - Wait a second.<br />- You sent them to that ship.
+5783945 5786031 - You're wrong.<br />- I just checked the colony log.
+5786114 5789993 Directive dated 6-12-79,<br />signed Burke, Carter J.
+5790076 5793038 You sent them out there,<br />and you didn't even warn them.
+5793121 5795540 - Why didn't you warn them, Burke?<br />- Okay, look.
+5795624 5798126 What if that ship didn't even exist?<br />Do you ever think about that?
+5798210 5801922 I didn't know. So now if I went and made<br />a major security situation out of it,
+5802005 5803632 everybody steps in,<br />administration steps in,
+5803715 5805383 and there's no exclusive rights<br />for anybody.
+5805467 5809513 Nobody wins.<br />So I made a decision, and it was wrong.
+5809596 5812349 It was a bad call, Ripley.<br />It was a bad call.
+5812432 5814100 - Bad call?<br />- Right.
+5814184 5815810 These people are dead, Burke!
+5815894 5818313 Don't you have any idea<br />what you've done here?
+5818396 5821316 I'm gonna make sure that they nail you<br />right to the wall for this!
+5821399 5823652 You're not gonna<br />sleaze your way out of this one.
+5823735 5825904 Right to the wall.
+5827572 5828573 Ripley.
+5829783 5830784 I...
+5830867 5832869 You know, I expected more from you.
+5832953 5835914 I thought you'd be smarter than this.
+5835997 5839376 Well, I'm happy to disappoint you.
+5846174 5848552 <i>[Alarm Blaring]</i>
+5852973 5854558 [Hudson] What is it? What's going on?
+5854641 5856268 - They're coming.<br />- Where?
+5856351 5857936 In the tunnel.
+5858019 5859396 <i>[Automatic Gunfire]</i>
+5859479 5864943 Here we go. "A" and "B"<br />gun tracking far end. Multiple targets.
+5870740 5872617 Those ammo counters go.
+5875287 5877414 "B" gun's down 50%.
+5878582 5880834 Man, it's a shooting gallery down there.
+5884796 5886548 <i>- [Hicks] Sixty rounds left on "B."</i><br />- [Beeping]
+5886631 5889801 <i>Forty. Twenty. Ten.</i>
+5889884 5892137 "B" gun's dry. Twenty on "A."
+5893388 5896600 - Ten. Five.<br />- [Steady Beep]
+5899477 5901146 That's it.
+5901229 5904482 Jesus, they were wall-to-wall in there.
+5905483 5908361 <i>[Pounding]</i>
+5908445 5910447 They're at the pressure door.
+5912032 5913992 Man, listen to that.
+5914075 5917746 Bishop here.<br />I'm afraid I have some bad news.
+5917829 5918830 Well, that's a switch.
+5921916 5924711 It's very pretty, Bishop,<br />but what are we looking for?
+5924794 5928340 That's it. Emergency venting.
+5928423 5933094 Oh, that's beautiful, man.<br />Oh, man, that... that just beats it all.
+5933178 5936056 - How long till it blows?<br />- Four hours.
+5936139 5939184 - [Groans]<br />- With a blast radius of 30 kilometers,
+5939267 5942937 equal to about 40 megatons.
+5943021 5943813 We got problems.
+5943897 5946483 [Hudson] I don't believe this.<br />I don't fucking believe this.
+5946566 5949069 Vasquez, close the shutters.
+5949152 5951321 Why can't we shut it down from here?
+5951404 5953323 I'm sorry.<br />The crash caused too much damage.
+5953406 5955950 An overload is inevitable at this point.
+5956034 5958953 Oh, man, and I was getting short.
+5959037 5962415 Four more weeks and out.<br />Now I'm gonna buy it on this rock.
+5962499 5964542 <i>- It ain't half fair, man.</i><br />- Hudson, give us a break!
+5964626 5967212 <i>[Hudson] Four more weeks. Oh, man.</i>
+5967295 5970507 We've got to get the other<br />drop ship from the <i>Sulaco.</i>
+5970590 5973551 I mean, there must be some way<br />of bringing it down on remote.
+5973635 5977180 How? The transmitter was on the A.P.C.<br />It's wasted.
+5977263 5979891 I don't care how,<br />but we'd better think of something.
+5979974 5981101 We'd better think of a way.
+5981184 5982519 <i>Think of what?<br />We're fucked! We're doomed!</i>
+5982602 5983436 <i>Shut up!</i>
+5983520 5986314 Shut up! What about<br />the colony transmitters?
+5986398 5989192 <i>The uplink tower down at the other end.<br />Why can't we use that?</i>
+5989275 5992237 No, I checked. The hardware in between<br />here and there was damaged.
+5992320 5994239 We can't align the dish.
+5994322 5996741 Well, somebody's gonna<br />have to go out there,
+5996825 5999744 take a portable terminal,<br />go out there and patch in manually.
+5999828 6004916 Oh, yeah, sure. With those things<br />running around? You can count me out.
+6004999 6006126 Guess we can just<br />count you out of everything.
+6006209 6007043 I'll go.
+6007127 6008920 <i>[Hudson] That's right, man.<br />Why don't you go, man?</i>
+6009003 6010839 <i>- [Bishop] I'll go.</i><br />- What?
+6010922 6012006 I'll go.
+6012507 6015260 I mean, I'm the only one qualified<br />to remote pilot the ship anyway.
+6015343 6019723 <i>Yeah, right, man.<br />Bishop should go. Good idea.</i>
+6019806 6021975 Believe me, I'd prefer not to.
+6022058 6024978 I may be synthetic, but I'm not stupid.
+6036740 6038658 <i>[Ripley] How long?</i>
+6038742 6042036 This conduit runs almost<br />to the uplink assembly... 180 meters.
+6042120 6045415 - Say 40 minutes to crawl down there...<br /><i>- [Ripley] Right.</i>
+6045498 6049252 An hour to patch in<br />and align the antenna.
+6050336 6052630 Thirty minutes to prep the ship,
+6052714 6055925 - and about 50 minutes flight time.<br />- It's gonna be close.
+6060430 6063141 - Good luck.<br />- See you soon.
+6064601 6068396 Watch your fingers. [Grunts]
+6069397 6070774 <i>Vaya con Dios,</i> man.
+6084579 6089209 <i>This is unbelievable.<br />Twenty meters and closing.</i>
+6089292 6091377 - Fifteen.<br />- How many?
+6091461 6094047 <i>[Hicks] Can't tell. Lots.</i>
+6095632 6098885 "D" gun's down 50%.
+6098968 6100845 <i>[Aliens Screeching]</i>
+6100929 6104057 "C" gun's right behind it.
+6106017 6109187 <i>[Hudson]<br />Stopping them. It ain't stopping them.</i>
+6109270 6114275 <i>- [Hicks] 150 rounds on "D."<br />- [Hudson] Come on. Come on, baby.</i>
+6114359 6116653 <i>[Hicks] Hundred rounds.</i>
+6116736 6119405 <i>[Hudson] Come on! Come on!</i>
+6119489 6120698 [Beeping]
+6124410 6125912 "D" gun's down to 20.
+6127163 6129582 <i>Ten.</i>
+6130833 6132252 Damn it!
+6133878 6136881 Wait! They're retreating.
+6142136 6144847 <i>[Ripley] The guns stopped them.</i>
+6146724 6148685 You're right.
+6156067 6157986 Next time they walk right up and knock.
+6158069 6160029 Yeah, but they don't know that.
+6160113 6162865 They're probably looking<br />for other ways to get in.
+6163908 6165827 That'll take 'em a while.
+6165910 6168413 - Maybe we got 'em demoralized.<br />- Shut up!
+6169747 6172208 I want you two walking perimeter.
+6173793 6176379 Move!
+6182594 6184804 Hey, listen.
+6184887 6187807 We're all in strung-out shape,
+6187890 6191185 but stay frosty and alert.
+6192604 6195481 We can't afford to let<br />one of those bastards in here.
+6195565 6197734 All right. <i>Vámonos.</i>
+6208620 6210622 How long's it been<br />since you got any sleep?
+6210705 6214334 <i>Twenty-four hours?</i>
+6214417 6217712 Hicks, I'm not gonna end up<br />like those others.
+6217795 6220632 You'll take care of it, won't you?
+6222216 6226763 If it comes to that, I'll do us both.
+6228473 6231225 Listen, let's just make sure<br />it doesn't come to that.
+6231309 6234896 <i>- All right?</i><br />- All right.
+6234979 6240193 Hey, I want to introduce you<br />to a personal friend of mine.
+6240276 6244197 This is an M-41 A<br />pulse rifle, 10 millimeter,
+6244280 6248117 with an over-and-under 30 millimeter<br />pump-action grenade launcher.
+6248201 6250161 Feel the weight.
+6257085 6259379 Okay, what do I do?
+6264801 6267470 - Okay, pull it in tight here.<br />- Right.
+6267553 6269847 - Uh-huh. Lean into it.<br />- Mm-hmm.
+6269931 6272600 All right. Now, it will kick some.
+6272684 6276270 All right.<br />When the counter reads zero here, you...
+6276354 6278606 - I press this up?<br />- That's right.
+6280692 6283861 Get another one in quick.<br />Slap it in hard.
+6283945 6286989 - Right.<br />- And you're ready to rock and roll.
+6287073 6289867 - What's this?<br />- That's the grenade launcher.
+6289951 6292704 I don't think you want<br />to mess with that.
+6292787 6296791 You started this. Show me everything.
+6296874 6298835 I can handle myself.
+6300420 6302338 Yeah, I noticed.
+6312515 6314475 How do you feel?
+6314559 6318062 All right, I guess.<br />One hell of a hangover.
+6319605 6321816 - Look, Ripley, I just want...<br />- Forget it.
+6321899 6323860 Excuse me.
+6376037 6378790 [Newt Groaning]
+6378873 6383628 Shh, shh, shh, shh, shh.<br />It's okay. It's okay.
+6454365 6457785 [Whispering] Newt, wake up.
+6457869 6459787 - Wha...<br />- Be quiet.
+6459871 6461873 We're in trouble.
+6479390 6481183 - No!<br />- [Screams]
+6481267 6483936 Move, Newt!
+6498951 6501954 [Both Grunting]
+6504415 6506334 Hey!
+6506417 6508753 [No Audio]
+6515343 6519680 Help! Help!
+6519764 6521724 - Hicks!<br /><i>- Somebody!</i>
+6521807 6523726 <i>[Hicks] Say again, Bishop.</i>
+6523809 6527188 <i>You've got it into auto-refuel mode,<br />and it's sequencing right?</i>
+6527271 6530316 <i>- [Bishop On Radio] That's right.<br />- Okay, good. Stay on it.</i>
+6530399 6531275 <i>[Indistinct]</i>
+6531359 6533945 <i>Get back to me when you've<br />activated the launch cycle.</i>
+6534028 6537323 - Roger.<br />- He's at the uplink tower.
+6537406 6539909 - Good.<br />- Terrific.
+6541619 6544622 <i>- [Ripley] Hicks! Hicks! Hicks!<br />- [Newt] Help!</i>
+6544705 6547291 <i>- Help! Help!</i><br />- Hicks, help us!
+6547375 6551462 - Break the glass! Break it. Break it.<br />- Yes.
+6551545 6553547 I'll try.
+6567311 6568980 <i>[Scurrying]</i>
+6570690 6573734 <i>[Clinking]</i>
+6573818 6576278 <i>Ripley, I'm scared.</i>
+6576362 6578364 Me too.
+6583828 6585830 Stay here.
+6594547 6597550 <i>[Alarm Blaring]</i>
+6597633 6600678 It's the medlab. Hudson!
+6600761 6604098 Vasquez, meet me in medlab.<br />We got a fire.
+6604181 6606183 [Hudson On Radio] We're on our way.
+6609061 6611063 They're coming, Newt.
+6616402 6618529 [Screaming]
+6618612 6620781 - [Grunts]<br /><i>- [Screaming Continues]</i>
+6620865 6622408 [Grunts]
+6625661 6627872 [Screaming]
+6631542 6633210 [Gasping]
+6634628 6637840 [Screaming Continues]
+6643637 6645723 Shoot it out!
+6649727 6651604 - Hudson!<br />- Jesus.
+6653564 6655107 [Gasping]
+6655191 6657526 Christ, kid, look out!
+6665451 6666452 Fucking die.
+6678339 6681550 - Over there! Ready?<br />- Yeah! Yeah!
+6681634 6683260 <i>[Hicks] Now!</i>
+6686764 6688682 - Hudson?<br /><i>- Yeah. All clear.</i>
+6688766 6689683 Nailed the other one.
+6689767 6691310 - It's history, man.<br />- [Coughing]
+6692728 6694647 Jesus.
+6695815 6699401 Burke...<br />[Coughs] It was Burke.
+6701654 6704865 I say we grease this rat-fuck<br />son of a bitch right now.
+6704949 6707868 Just doesn't make any goddamn sense.
+6710830 6714875 He figured that he could get an alien<br />back through quarantine...
+6714959 6717670 if one of us was impregnated...
+6718963 6721173 <i>whatever you call it...</i>
+6721257 6723843 <i>and then frozen for the trip home.</i>
+6723926 6727972 Nobody would know<br />about the embryos we were carrying...
+6728055 6730099 me and Newt.
+6731934 6733894 Wait a minute, now. We'd all know.
+6733978 6736230 Yes. The only way he could do it...
+6736313 6740067 is if he sabotaged certain<br />freezers on the way home.
+6740151 6742736 Namely yours.
+6742820 6746699 Then he could jettison the bodies<br />and make up any story he liked.
+6746782 6752163 Fuck! He's dead. You're dog meat, pal.
+6753164 6755082 This is so nuts.
+6755166 6757793 I mean, listen...<br />Listen to what you're saying.
+6757877 6760546 It's paranoid delusion.
+6760629 6764967 <i>It's really sad. It's pathetic.</i>
+6765050 6768846 You know, Burke, I don't know<br />which species is worse.
+6768929 6772224 You don't see them fucking each other<br />over for a goddamn percentage.
+6772308 6775436 All right. We waste him. No offense.
+6775519 6777188 No! He's gotta go back...
+6779356 6781984 - They cut the power.<br />- What do you mean, <i>they</i> cut the power?
+6782067 6783652 How could they cut the power, man?<br />They're animals.
+6783736 6786322 I want you two with trackers,<br />checking the corridors! Move!
+6786405 6788324 <i>- [Ripley] Gorman, watch Burke!<br />- I got him.</i>
+6788407 6790701 Newt, stay close.
+6794205 6797291 - I'll go this side.<br />- You do that, man.
+6798292 6801295 [Tracker Clicking]
+6821023 6823817 - Anything?<br />- [Hudson] There's something.
+6823901 6827112 - [Beeping]<br />- It's inside the complex.
+6827196 6829198 You're just reading me.
+6830157 6832076 No, no, it ain't you.
+6834245 6837915 They're inside...<br />inside the perimeter. They're in here.
+6837998 6841460 [Ripley]<br />Hudson, stay cool! Vasquez?
+6841543 6843587 [Clicking]
+6844755 6848133 <i>[Beeping]</i>
+6848217 6849843 Hudson may be right.
+6849927 6853055 - Get back, both of you!<br />- [Hudson] The signal's weird.
+6854431 6857101 Must be some interference or something.
+6857184 6859103 There's movement all over the place!
+6859186 6862523 Get back to Operations. It's game time.
+6862606 6864984 Newt.
+6866527 6869405 Seal the door. Hurry!
+6869488 6872950 Come on! Come on! Come on! Get back!
+6873033 6874952 Work fast.
+6878330 6881500 Cover your eyes, Newt.<br />Don't look at the light.
+6881583 6884586 Movement. Signal's clean.
+6884670 6886588 Range, 20 meters.
+6886672 6888841 They found a way in,<br />something we missed.
+6888924 6890843 We didn't miss anything.
+6890926 6894722 <i>Eighteen. Seventeen meters.</i>
+6894805 6897182 Something under the floor,<br />not in the plans. I don't know.
+6897266 6899351 - Fifteen meters.<br />- Ripley!
+6899435 6902938 - Definitely inside the barricades.<br />- Let's go.
+6904565 6906483 - Thirteen meters.<br />- That's right outside the door.
+6906567 6909194 - Hicks, Vasquez, get back!<br />- This is a big fucking signal.
+6909278 6912489 - How you doing, Vasquez? Talk to me.<br />- Almost there.
+6914116 6916493 That's it.
+6916577 6920873 - Twelve meters. Eleven.<br />- [High-pitched Beeping]
+6920956 6923459 - Ten.<br />- Then they're right on us.
+6923542 6926795 <i>- Nine meters.</i><br />- Remember... short, controlled bursts.
+6926879 6928213 Eight meters.
+6931216 6933886 Seven.
+6933969 6936889 - Six.<br />- It can't be. That's inside the room.
+6936972 6940017 - It's reading right, man. Look!<br />- Well, you're not reading <i>it</i> right.
+6942603 6947191 <i>[Hudson]<br />Five meters, man. Four. What the hell?</i>
+6947274 6949777 <i>[Beeping Continues]</i>
+6949860 6953447 - Oh, my God. Oh, sh...<br />- Give me the light.
+6967586 6969588 [Shouting]
+6972049 6974468 There they go! Over there! Get them!
+6974551 6979264 - [Aliens Shrieking]<br />- Come on! Get them!
+6979348 6982684 Do something, Gorman!
+6982768 6986480 <i>[Hudson] Get them! Look out! There's<br />more of them! There's more of them!</i>
+6986563 6990692 Medical!<br />Get to Medical! Do it! Now!
+6990776 6994863 <i>[Hicks]<br />Hudson, look out! Look out!</i>
+6994947 6999243 [Shouts, Screams] Now!
+7001328 7003497 Burke!
+7003580 7006458 Open this door!
+7006542 7009336 <i>Burke! Open it!</i>
+7009420 7011338 [Shouting]
+7011422 7013132 Go! Fall back!
+7016301 7018512 <i>- Go!</i><br />- [Shouting]
+7018595 7021432 - Die, motherfucker!<br />- Burke!
+7021515 7025102 <i>Hudson! Hudson!</i>
+7025185 7030190 Motherfucker! Come on!<br />Come on! Come and get it, baby! Come on!
+7030274 7033944 <i>I don't got all day!<br />Come on! Come on! Come on, you bastard!</i>
+7034027 7035737 Come on! You too!<br />Oh, you want some of this?
+7035821 7036780 <i>[Shrieking Continues]</i>
+7036864 7039158 Fuck you! [Screams]
+7040117 7042870 Fuck you! Hicks!
+7042953 7045581 - Hudson!<br />- [Screaming]
+7048876 7050461 [Screaming Continues]
+7053714 7056175 Come on. Let's go!
+7056717 7059011 <i>It's locked!</i>
+7076278 7079990 <i>- Got it! Let's go! Let's go!</i><br />- Go! Go!
+7082618 7085496 - Move, Gorman!<br />- Seal it!
+7086538 7090834 Burke! Goddamn you! Open this door!
+7090918 7093378 [Gasps]
+7096924 7099760 - [Hissing]<br />- [Gasps]
+7099843 7103430 <i>- [Screams]<br />- [Hicks] Get back!</i>
+7103514 7105807 - Hurry up.<br />- Gorman, get out of the way!
+7105891 7108894 - Ripley, this way!<br />- What...
+7108977 7110854 Wait. Get behind me.
+7110938 7115025 Whatever you're gonna do, do it fast!
+7116360 7119196 - Hicks!<br />- Go! Come on. Let's go.
+7120864 7122366 Move!
+7129331 7131875 Which way is it to<br />the landing field from here?
+7131959 7132834 This way.
+7135379 7137339 <i>[Aliens Shrieking]</i>
+7137422 7140259 [Newt] Go right.
+7142511 7144471 <i>This way. This way.</i>
+7153105 7156567 - Which way?<br />- Straight ahead and left.
+7156650 7160237 Bishop, do you read me? Come in. Over.
+7160320 7162197 [Bishop] The ship is on its way.
+7162281 7165367 E.T.A., 16 minutes.
+7165450 7168245 Stand by there. We're on our way.
+7179506 7181466 <i>- Which way now?</i><br />- That way.
+7181550 7184595 - No, wait. This way.<br />- You sure?
+7186179 7189057 Vasquez, move!
+7191643 7193812 - Right up here. It's just up here.<br />- Hicks!
+7193895 7196773 We're almost there.
+7196857 7200110 Newt, wait! Newt!
+7207409 7209286 [Shrieking]
+7214207 7216752 [Shouts]
+7216835 7219796 [Screams]
+7224134 7226094 Vasquez!
+7226178 7228472 - [Grunting]<br />- Go!
+7230641 7233143 [Groaning] Oh, no!
+7239149 7241151 <i>[Pounding]</i>
+7244404 7246740 <i>Newt.</i>
+7246823 7250160 Up there. There's a shortcut<br />across the roof.
+7250243 7252329 Hicks.
+7256625 7259711 - [Clicking]<br /><i>- [Aliens Hissing]</i>
+7261755 7263882 You always were an asshole, Gorman.
+7280816 7282192 <i>- [Ripley Grunts]</i><br />- [Screaming]
+7282275 7284486 <i>- [Ripley] Newt! God!<br />- Ripley!</i>
+7284569 7286822 <i>Newt!</i>
+7286905 7290033 <i>Hicks! Hicks, get her! Hurry!</i>
+7292911 7294413 [Gasping]
+7294496 7296957 - Hold on, Newt!<br />- I'm slipping!
+7297040 7299251 - Don't let go.<br />- Ripley!
+7299334 7302379 - Hold on. Gotcha!<br />- Help!
+7303380 7305841 - I gotcha.<br />- [Fabric Tearing]
+7305924 7308844 - [Screaming]<br />- Newt!
+7308927 7310762 - [Screaming Continues]<br /><i>- No!</i>
+7314141 7316977 - Come on. We can find her with this.<br />- [Beeping]
+7317060 7320772 - Stay where you are, Newt.<br /><i>- Ripley!</i>
+7320856 7323942 - We're coming.<br /><i>- [Beeping Continues]</i>
+7333160 7335162 Ripley!
+7337622 7341334 - [Beeping Speed Increases]<br />- This way.
+7342919 7346256 - She's close.<br />- Newt!
+7348925 7350844 Ripley!
+7350927 7353388 Where are you? Can you hear me?
+7354765 7356683 <i>- Newt!</i><br />- Here!
+7356767 7358977 - I'm here!<br /><i>- Where?</i>
+7363023 7366067 Newt, are you okay?
+7366151 7368945 [Grunts] We'll have to cut it.
+7369029 7372449 Climb down, honey.<br />We've gotta cut through.
+7379664 7381583 Newt?
+7381666 7384961 <i>Now, don't move. Stay very still.</i>
+7385045 7387047 Okay.
+7387130 7389800 We're almost there. Hang in there, okay?
+7389883 7391968 [Beeping]
+7394095 7396890 [High-pitched Beeping]
+7396973 7398767 - Hicks. Hurry.<br />- I know.
+7398850 7401311 - I know!<br /><i>- I mean it!</i>
+7402521 7405607 <i>[Beeping Continues]</i>
+7414950 7417869 Newt? Newt, just stay still.
+7421081 7423291 - [Screams]<br />- Almost there.
+7423375 7425043 No!
+7426503 7428588 Newt!
+7438390 7441935 [Grunts] No! No!
+7442018 7444145 - No! No! No!<br />- Let's go.
+7444229 7446439 No! No! They don't kill you!
+7446523 7448650 They... They don't kill you! They...
+7448733 7450610 She's alive! She's alive!
+7450694 7453113 All right.<br />I believe you. She's alive.
+7453196 7455866 We've got to go. Now!
+7470755 7472716 [Ripley] Go!
+7475552 7478555 [High-pitched Beeping]
+7481016 7483560 - [Screams]<br />- [Shrieking]
+7486271 7490775 - [Groaning] Get it off!<br />- Hicks.
+7490859 7493153 [Groaning Continues] Get it off!
+7493236 7495739 [Coughing]
+7497407 7499326 [Bell Dings]
+7499409 7503246 - [Groaning, Coughing Continue]<br />- Here.
+7507500 7509586 Go.
+7511963 7514174 Come on. You can make it.
+7514257 7516718 [Beeping]
+7537447 7540700 Bishop, how much time?
+7540784 7542619 Plenty. Twenty-six minutes.
+7542702 7546081 - We're not leaving.<br />- We're not?
+7615316 7618737 [Beeping]
+7630415 7631249 Ripley...
+7631332 7634794 I don't wanna hear about it, Bishop.<br />She's alive. There's still time.
+7634878 7638048 In 19 minutes, this area is gonna be a<br />cloud of vapor the size of Nebraska.
+7638131 7640925 <i>- Hicks, don't let him leave.</i><br />- We ain't going anywhere.
+7641009 7643303 <i>[Beeping Continues]</i>
+7643386 7646431 - See you, Hicks.<br />- Dwayne.
+7646514 7649309 It's Dwayne.
+7651061 7652979 Ellen.
+7653063 7656733 Don't be gone long, Ellen.
+7661112 7663740 <i>[Alarm Blaring]</i>
+7663823 7666910 <i>[Computer Voice] Attention. Emergency.</i>
+7666993 7671039 <i>All personnel must evacuate immediately.</i>
+7671122 7673958 <i>You now have I5 minutes...</i>
+7674042 7676336 <i>to reach minimum safe distance.</i>
+7722632 7726094 <i>Attention. Emergency.</i>
+7726177 7730390 <i>All personnel must evacuate immediately.</i>
+7730473 7733226 <i>You now have I4 minutes...</i>
+7733309 7735979 <i>to reach minimum safe distance.</i>
+7746531 7748825 [Beeping Continues]
+7810428 7813306 <i>[Beeping Speed Increases]</i>
+7893469 7897098 [Rapid Beeping]
+7906524 7910820 [Sobs] Oh.
+7919704 7922415 [Grunting]
+7935470 7938222 [Screaming]
+7944103 7946022 <i>[Screaming Continues]</i>
+7956449 7960119 <i>- Ripley! Ripley!</i><br />- Newt.
+7974050 7978304 Grab on to me! Hold on!
+8076652 8078571 [Hissing]
+8101552 8104764 [Screeching]
+8106432 8109018 <i>[Screeching Stops]</i>
+8158484 8159902 [Screeching]
+8162822 8165157 [Screeching Continues]
+8176711 8179755 [Grunting]
+8203904 8205323 [Screeching Continues]
+8209285 8211287 Let's go!
+8214248 8216709 Behind us!
+8220755 8223132 <i>[Alarm Blaring]</i>
+8237396 8239523 [Screeching]
+8248783 8251660 <i>[Alarm Continues]</i>
+8264423 8267426 <i>[Grunting]</i>
+8267510 8270346 <i>[Computer Voice] Attention. Emergency.</i>
+8270429 8273599 <i>All personnel must evacuate immediately.</i>
+8275226 8278354 <i>Attention. Emergency.</i>
+8278437 8282942 <i>All personnel must evacuate immediately.</i>
+8283025 8285486 <i>You now have four minutes...</i>
+8285569 8288030 <i>to reach minimum safe distance.</i>
+8297915 8301877 <i>- [Pounding Buttons]<br />- [Screeching, Distant]</i>
+8304004 8307800 Come on, goddamn it!
+8310761 8313556 Hold on to me!
+8319728 8324233 [Hissing]
+8334535 8337246 [Screeching]
+8362813 8365608 <i>Attention. Emergency.</i>
+8365691 8369612 <i>All personnel must evacuate immediately.</i>
+8369695 8372364 <i>You now have two minutes...</i>
+8372448 8376452 <i>to reach minimum safe distance.</i>
+8382166 8384168 No.
+8387463 8390341 Bishop, goddamn you!
+8454154 8456240 Close your eyes, baby.
+8458784 8460786 Look!
+8461870 8464206 [Screeching]
+8467668 8469670 Come on! Come on!
+8498157 8500743 Punch it, Bishop!
+8526143 8529104 <i>[Explosion]</i>
+8545954 8548040 It's okay. We're okay.
+8557758 8559718 Hey.
+8561136 8563639 We made it.
+8563722 8565724 I knew you'd come.
+8580656 8582825 He's gonna be all right. He's just out.
+8582908 8585285 I had to give him another shot<br />for the pain.
+8586495 8589081 We need a stretcher<br />to carry him up to Medical.
+8589164 8591166 Okay.
+8596839 8600843 <i>I'm sorry if I scared you. That platform<br />was just becoming too unstable.</i>
+8600926 8603721 I had to circle and hope that things<br />didn't get too rough to take you off.
+8603804 8607766 Bishop, you did okay.
+8607850 8610561 - I did?<br />- Oh, yeah.
+8610644 8612563 <i>[Sizzling]</i>
+8615107 8617234 [Gasps]
+8650017 8652227 Go! Move!
+8654646 8657816 No! Here! Here!
+8657900 8659902 - [Hissing]<br />- Run!
+8665199 8666784 Here!
+8686845 8689598 <i>[Pounding]</i>
+8708158 8710786 <i>[Footsteps Clanging]</i>
+8714748 8717584 - [Hissing]<br />- [Yelps]
+8726385 8728303 [Screams]
+8734768 8736895 [Screaming]
+8736979 8738438 [Door Rattling]
+8755539 8757749 Get away from her, you <i>bitch!</i>
+8757833 8760377 [Hisses]
+8766008 8768510 [Screeches]
+8774558 8777686 - [Shouts]<br />- [Screeching]
+8778896 8783442 - [Hisses]<br />- Come on! Come on!
+8845337 8847464 [Screeching]
+8847547 8852386 [Grunting]
+8855389 8857474 [Shouts]
+8865440 8867484 [Screaming]
+8871905 8874366 Ripley!
+8897055 8899057 [Alarm Blaring]
+8900475 8902477 [Grunts]
+8906982 8910485 - [Screaming]<br />- [Shouting]
+8919703 8922164 [Shouting]
+8929254 8932424 - [Screams]<br />- [Screeching]
+8942809 8945687 [Screaming]
+8945771 8948231 Bishop!
+8994778 8997739 - Mommy.<br />- Oh, God!
+9000659 9003829 Not bad for a h-human.
+9050959 9053962 Are we gonna sleep all the way home?
+9054045 9057048 - All the way home.<br />- Can I dream?
+9059342 9061970 Yes, honey. I think we both can.
+9065056 9066057 [Chuckles]
+9070187 9073315 - Sleep tight.<br />- Affirmative.
+9260585 9261586 <i>[Scurrying]</i>
+9261669 9262670 English - US - SDH
