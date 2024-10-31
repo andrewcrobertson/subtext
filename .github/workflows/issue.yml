@@ -40,7 +40,7 @@ jobs:
           SUBDL_TOKEN: ${{ secrets.SUBDL_TOKEN }}
         run: pnpm run process-new-issue -i ${{ github.event.issue.number }}
 
-      - name: Pull latest changes
+      - name: Pull
         run: git pull origin main --rebase
 
       - name: Commit
