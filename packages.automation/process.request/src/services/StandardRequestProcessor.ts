@@ -1,12 +1,12 @@
-import { parseRequestText } from '$utils/parseRequestText';
-import { get } from 'lodash-es';
+import { get, isNil } from 'lodash-es';
+import { parseRequestText } from '../utils/parseRequestText';
 import { RequestGateway, RequestHandler, RequestProcessor } from './RequestProcessor.types';
 
 export class StandardRequestProcessor implements RequestProcessor {
   public constructor(
     private readonly separator: string,
     private readonly requestGateway: RequestGateway,
-    private readonly requestHandlers: RequestHandler[]
+    private readonly requestHandlers: Record<string, RequestHandler>
   ) {}
 
   public async process(requestId: string) {
@@ -25,14 +25,10 @@ export class StandardRequestProcessor implements RequestProcessor {
     const type = get(data, 'type', null);
     if (type === null) throw new Error(`Could not find type on data`);
 
-    for (let i = 0; i < this.requestHandlers.length; i++) {
-      if (this.requestHandlers[i].type === type) {
-        const message = await this.requestHandlers[i].handleRequest(requestId, data);
-        this.requestGateway.closeRequest(requestId, message);
-        return message;
-      }
-    }
+    const requestHandler = this.requestHandlers[type];
+    if (isNil(requestHandler)) throw new Error(`Couldn't find handler for type '${type}'`);
 
-    throw new Error(`Invalid type '${type}' on data`);
+    const message = await requestHandler.handleRequest(requestId, data);
+    await this.requestGateway.closeRequest(requestId, message);
   }
 }

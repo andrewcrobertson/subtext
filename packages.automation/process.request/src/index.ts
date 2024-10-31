@@ -1,12 +1,12 @@
-import { StandardRequestProcessor } from '$services/GitHubRequestGateway';
-import type { RequestGateway, RequestHandler, RequestProcessor } from '$services/GitHubRequestGateway.types';
+import type { RequestGateway, RequestHandler, RequestProcessor } from './services/RequestProcessor.types';
+import { StandardRequestProcessor } from './services/StandardRequestProcessor';
 
-export type { RequestGateway, RequestHandler, RequestProcessor } from '$services/GitHubRequestGateway.types';
+export type { RequestGateway, RequestHandler, RequestProcessor } from './services/RequestProcessor.types';
 
 export interface CreateRequestProcessorOptions {
   separator?: string;
   requestGateway: RequestGateway;
-  requestHandlers: RequestHandler[];
+  requestHandlers: Record<string, RequestHandler>;
 }
 
 export const createRequestProcessor = ({ separator = '===', requestGateway, requestHandlers }: CreateRequestProcessorOptions): RequestProcessor => {

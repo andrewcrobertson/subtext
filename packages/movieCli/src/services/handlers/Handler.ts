@@ -3,6 +3,7 @@ import type { GitHubApi } from '$services/github/GitHubApi';
 import type { Logger } from '$services/logger/Logger';
 import type { MovieReader, ReadResponseData } from '$services/movieReader/MovieReader.types';
 import { parseSrt3 } from '$utils/parseSrt';
+import type { RequestProcessor } from '@get-subtext/automation.process.request';
 import { isError, join, map, orderBy } from 'lodash';
 import murmurhash from 'murmurhash';
 import path from 'path';
@@ -10,6 +11,7 @@ import type * as T from './Handler.types';
 
 export class Handler {
   public constructor(
+    private readonly requestProcessor: RequestProcessor,
     private readonly gitHubApi: GitHubApi,
     private readonly downloader: MovieReader,
     private readonly fileManager: FileManager,
@@ -17,6 +19,9 @@ export class Handler {
   ) {}
 
   public async load({ userId, imdbId: gitHubIssueNumber, force }: T.LoadInput) {
+    await this.requestProcessor.process(gitHubIssueNumber);
+    return;
+
     const gitHubComments: string[] = [];
     this.logger.infoBlank();
 

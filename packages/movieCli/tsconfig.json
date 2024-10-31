@@ -5,6 +5,7 @@
     "paths": {
       "@get-subtext/automation.process.request": ["../../packages.automation/process.request/src"],
       "@get-subtext/automation.process.request.github": ["../../packages.automation/process.request.github/src"],
+      "@get-subtext/automation.process.request.movies": ["../../packages.automation/process.request.movies/src"],
       "$composition/*": ["./src/composition/*"],
       "$config/*": ["./src/config/*"],
       "$constants/*": ["./src/constants/*"],

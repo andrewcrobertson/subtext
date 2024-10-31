@@ -1,10 +1,9 @@
 export interface RequestGateway {
   getRequest: (requestId: string) => Promise<string | null>;
-  closeRequest: (requestId: string, message: string) => Promise<string>;
+  closeRequest: (requestId: string, message: string) => Promise<void>;
 }
 
 export interface RequestHandler {
-  type: string;
   handleRequest: (requestId: string, data: Record<string, any>) => Promise<string>;
 }
 

@@ -11,9 +11,8 @@ export class GitHubRequestGateway implements RequestGateway {
 
   public async getRequest(requestId: string) {
     const number = requestId;
-    const issue: GetIssueResponse = await this.get(`/issues/${number}`);
+    const issue = <GetIssueResponse>await this.get(`/issues/${number}`);
     const label = find(issue.labels, (l) => l.name === this.label);
-
     return isEmpty(label) ? null : issue.body;
   }
 

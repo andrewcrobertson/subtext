@@ -1,5 +1,5 @@
-import { GitHubRequestGateway } from '$services/GitHubRequestGateway';
 import type { RequestGateway } from '@get-subtext/automation.process.request';
+import { GitHubRequestGateway } from './services/GitHubRequestGateway';
 
 export interface CreateRequestGatewayOptions {
   apiUrlBase: string;
