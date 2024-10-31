@@ -47,7 +47,7 @@ export const getHandler = (dataDir: string, verbose: boolean) => {
   const logger = makeLogger(verbose);
   const fileManager = new FileManager(dataDir);
   const requestGateway = createRequestGateway({ apiUrlBase: gitHubApiUrlBase, token: gitHubPublicToken, label: 'subtext-bot' });
-  const movieRequestHandler = createRequestHandler({});
+  const movieRequestHandler = createRequestHandler({ movieReader });
   const requestHandlers = { REQUEST_MOVIE: movieRequestHandler };
   const requestProcessor = createRequestProcessor({ separator: '===', requestGateway, requestHandlers });
   return new Handler(requestProcessor, gitHubApi, movieReader, fileManager, logger);
