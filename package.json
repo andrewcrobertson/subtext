@@ -13,8 +13,8 @@
     "dev:app": "pnpm  --filter \"app\" dev",
     "format": "prettier --write \"**/*.{ts,tsx,md,json,svelte}\"",
     "prepare": "husky",
-    "index": "dotenvx run -f ./packages/movieCli/.env -- tsx --tsconfig ./packages/movieCli/tsconfig.json ./packages/movieCli/src/index.ts index -u subtext-bot -d ./__data__",
-    "load": "dotenvx run -f ./packages/movieCli/.env -- tsx --tsconfig ./packages/movieCli/tsconfig.json ./packages/movieCli/src/index.ts load -u subtext-bot -d ./__data__ -f",
+    "index-queries": "dotenvx run -f ./packages/movieCli/.env -- tsx --tsconfig ./packages/movieCli/tsconfig.json ./packages/movieCli/src/index.ts index -u subtext-bot -d ./__data__",
+    "process-new-issue": "dotenvx run -f ./packages/movieCli/.env -- tsx --tsconfig ./packages/movieCli/tsconfig.json ./packages/movieCli/src/index.ts load -u subtext-bot -d ./__data__ -f",
     "test": "pnpm run -r --workspace-concurrency 1 test"
   },
   "devDependencies": {
