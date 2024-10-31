@@ -1,0 +1,38 @@
+{
+  "imdbId": "tt0050083",
+  "title": "12 Angry Men",
+  "releaseDate": "1957-04-10T00:00:00.000Z",
+  "releaseYear": 1957,
+  "posterFileName": "poster.jpg",
+  "rated": "Approved",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "directors": [
+    "Sidney Lumet"
+  ],
+  "writers": [
+    "Reginald Rose"
+  ],
+  "actors": [
+    "Henry Fonda",
+    "Lee J. Cobb",
+    "Martin Balsam"
+  ],
+  "runTime": 96,
+  "plot": "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.",
+  "subtitleIds": [
+    "b0a9d51c",
+    "c9f43dab",
+    "e01e632f",
+    "33a36192",
+    "99f66394",
+    "2007ac1e",
+    "aa6d5e",
+    "65eae8ee",
+    "aa6d5e",
+    "14fd908b"
+  ],
+  "isAvailable": true
+}
