@@ -1,0 +1,39 @@
+{
+  "imdbId": "tt0234215",
+  "title": "The Matrix Reloaded",
+  "releaseDate": "2003-05-15T00:00:00.000Z",
+  "releaseYear": 2003,
+  "posterFileName": "poster.jpg",
+  "rated": "R",
+  "genres": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "directors": [
+    "Lana Wachowski",
+    "Lilly Wachowski"
+  ],
+  "writers": [
+    "Lilly Wachowski",
+    "Lana Wachowski"
+  ],
+  "actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Moss"
+  ],
+  "runTime": 138,
+  "plot": "Freedom fighters Neo, Trinity and Morpheus continue to lead the revolt against the Machine Army, unleashing their arsenal of extraordinary skills and weaponry against the systematic forces of repression and exploitation.",
+  "subtitleIds": [
+    "e42eb02e",
+    "9f37b0bc",
+    "65953406",
+    "2ef0981c",
+    "65953406",
+    "2aba85ae",
+    "db2e1758",
+    "9b3018be",
+    "9b3018be"
+  ],
+  "isAvailable": true
+}
