@@ -1,0 +1,47 @@
+{
+  "imdbId": "tt0095016",
+  "title": "Die Hard",
+  "releaseDate": "1988-07-20T00:00:00.000Z",
+  "releaseYear": 1988,
+  "posterFileName": "poster.jpg",
+  "rated": "R",
+  "genres": [
+    "Action",
+    "Thriller"
+  ],
+  "directors": [
+    "John McTiernan"
+  ],
+  "writers": [
+    "Roderick Thorp",
+    "Jeb Stuart",
+    "Steven E. de Souza"
+  ],
+  "actors": [
+    "Bruce Willis",
+    "Alan Rickman",
+    "Bonnie Bedelia"
+  ],
+  "runTime": 132,
+  "plot": "A New York City police officer tries to save his estranged wife and several others taken hostage by terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.",
+  "subtitleIds": [
+    "95b8d7f",
+    "76c1940d",
+    "46769064",
+    "e1489040",
+    "0",
+    "e1489040",
+    "2ce41d74",
+    "8158b1c9",
+    "2cdbdf1a",
+    "53202eac",
+    "e77fc6ba",
+    "4f8de43a",
+    "498f3452",
+    "e8721194",
+    "46769064",
+    "76c1940d",
+    "95b8d7f"
+  ],
+  "isAvailable": true
+}
