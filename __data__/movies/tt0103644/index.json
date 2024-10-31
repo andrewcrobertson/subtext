@@ -1,0 +1,30 @@
+{
+  "imdbId": "tt0103644",
+  "title": "Alien³",
+  "releaseDate": "1992-05-22T00:00:00.000Z",
+  "releaseYear": 1992,
+  "posterFileName": "poster.jpg",
+  "rated": "R",
+  "genres": [
+    "Action",
+    "Horror",
+    "Sci-Fi"
+  ],
+  "directors": [
+    "David Fincher"
+  ],
+  "writers": [
+    "Dan O'Bannon",
+    "Ronald Shusett",
+    "Vincent Ward"
+  ],
+  "actors": [
+    "Sigourney Weaver",
+    "Charles S. Dutton",
+    "Charles Dance"
+  ],
+  "runTime": 114,
+  "plot": "Returning from LV-426, Ellen Ripley crash-lands on the maximum-security prison Fiorina 161, where she discovers that she has unwittingly brought along an unwelcome visitor.",
+  "subtitleIds": [],
+  "isAvailable": true
+}
