@@ -1,0 +1,66 @@
+148240 151961 U.S. Embassy, Iran - November 4, 1979
+550720 553530 STAFFORD [IN FARSI]:<br />Leave the building, go now.
+553680 555682 Iranians go first.
+555840 557410 NOW, hurry!
+567000 568889 Who has made this'?!
+569040 570849 Who has made this'?!
+571000 572206 Who has made this'?!
+641440 641599 STATE DEPARTMENT - 7TH FLOOR
+654360 656319 CANADIAN AMBASSADORS RESIDENCE, TEHRAN
+661640 664639 SECRETARY OF STATES OFFICE
+675720 675879 WHITE HOUSE, CHIEF OF STAFFS OFFICE
+733360 737524 69 DAYS LATER
+1149240 1149399 U.S. EMBASSY, TEHRAN
+1431200 1432850 Some Americans are missing.
+1433000 1435082 Look at the repaired list of embassy employees.
+1436520 1438045 The numbers don't match.
+1438200 1441010 Finish assembling the pictures from the embassy.
+1441160 1443606 All I need is their faces and I will find them.
+1443760 1445444 Yes, sir, it will be done.
+1792240 1794288 PAT [IN FARSI]:<br />Sahar, how are you doing?
+1795240 1796651 SAHAR [IN FARSI]:<br />Fine, thank you.
+1797880 1799962 Your friends from Canada, ma'am.
+1800120 1803647 All this time. They never go out.
+2396840 2396999 EMBASSY BASEMENT - JANUARY 23, 1980
+2482920 2484649 OFFICE OF THE SECRETARY OF STATE<br />JANUARY 25, 1980
+2794800 2798725 ISTANBUL, TURKEY - JANUARY 27, 1980
+2881160 2884960 IRANIAN CONSULATE - TURKEY
+4146240 4147241 [In FARSI]<br />Peace be upon you.
+4147400 4148731 [IN FARSI]:<br />And upon you, sir. Welcome.
+4148880 4150086 I hope you are well.
+4150240 4151844 Thank you very much. How are you?
+4152040 4154327 I'm very well. What's your name?
+4154480 4155606 Sahar.
+4193240 4194287 You know, sister...
+4194440 4198286 ...those who are with him, Rascal of Allah,<br />we are tender among ourselves.
+4198440 4199930 But stern against the Kufar.
+4200520 4201885 As God wills it.
+4203440 4206523 But those who sit silently have sinned.
+4207920 4209843 How else may I help, sir?
+4210000 4212241 No, no, just one thing.
+4214040 4215610 How long have they been here?
+4216800 4217801 Pardon?
+4219080 4220719 The guests of the Ambassador.
+4220720 4222051 The guests of the Ambassador.<br />How long have they been here?
+4224800 4226325 They arrived two days ago.
+4227080 4231608 Forgive my intrusion, one must be vigilant.
+4232840 4235605 Everyone in this house is a friend of Iran.
+5326920 5330288 [IN FARSI]: Yes, it's a fantasy story<br />about a war in another world.
+5330440 5332090 Here you can see our notices.
+5336200 5338009 STAFFORD:<br />Of course I speak Farsi.
+5338160 5340288 I wish to make a film in Iran.
+5362240 5366131 [IN FARSI] These are the drawings that show<br />what we will film for the movie.
+5366280 5368851 Alien villains have taken over the hero's planet.
+5369000 5372049 They fight for their families and<br />take back the city.
+5372200 5378287 The villains know he is the chosen one,<br />so they kidnap his son in the spice market.
+5379760 5382286 So he and his wife storm (he castle.
+5382440 5389164 The people...hold <i>that...</i> the people are inspired to join him.<br />They are farmers, but they learn to fight.
+5392760 5394489 They shunt weapons at their enemies.
+5398520 5401649 And the king of the aliens is destroyed<br />when the people find their courage.
+5987720 5990769 [IN ARABIC]<br />You are admitted to the Republic of Iraq.
+6353841 6358841 The Iran Hostage Crisis ended on January 20, 1981, when all<br />remaining hostages were released. They spent 444 days in captivity.
+6365681 6375409 The involvement of the C.I.A. complemented efforts of the Canadian embassy in freeing the six held in Tehran.<br />To this day, this story stands as an enduring model for international cooperation between governments.
+6376760 6382927 All of the Houseguests returned to the U.S.<br />Foreign Service after their ordeal in Iran.
+6384400 6393969 Oscar-winning makeup artist John Chambers was awarded the C.I.A.'s Intelligence Medal, its<br />highest civilian honour. He and Mendez remained friends until Chambers' death in 2001.
+6395680 6402370 Tony Mendez's Intelligence Star was returned to him in 1997,<br />when the Argo operation was declassified by President Clinton.
+6412000 6419646 He lives in rural Maryland with his family.

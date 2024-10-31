@@ -1,0 +1,42 @@
+{
+  "imdbId": "tt1024648",
+  "title": "Argo",
+  "releaseDate": "2012-10-12T00:00:00.000Z",
+  "releaseYear": 2012,
+  "posterFileName": "poster.jpg",
+  "rated": "R",
+  "genres": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "directors": [
+    "Ben Affleck"
+  ],
+  "writers": [
+    "Chris Terrio",
+    "Tony Mendez",
+    "Joshuah Bearman"
+  ],
+  "actors": [
+    "Ben Affleck",
+    "Bryan Cranston",
+    "John Goodman"
+  ],
+  "runTime": 120,
+  "plot": "Acting under the cover of a Hollywood producer scouting a location for a science fiction film, a CIA agent launches a dangerous operation to rescue six Americans in Tehran during the U.S. hostage crisis in Iran in 1979.",
+  "subtitleIds": [
+    "ac82c12f",
+    "41f8d9d4",
+    "2830c368",
+    "5fd98027",
+    "bf8e346b",
+    "9971e390",
+    "c7bda582",
+    "8641f8",
+    "422ad01e",
+    "60e65760",
+    "60e65760"
+  ],
+  "isAvailable": true
+}
