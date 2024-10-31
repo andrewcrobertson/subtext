@@ -1,7 +1,8 @@
 import type { RequestHandler } from '@get-subtext/automation.process.request';
-import { isError, join, map } from 'lodash-es';
+import { concat, isError, isNil, join, map } from 'lodash-es';
 import { z } from 'zod';
-import type { MovieReader } from './GetMovieRequestHandler.types';
+import { Movie } from './Common.types';
+import type { MovieReader, MovieWriter } from './GetMovieRequestHandler.types';
 
 export const Data = z.object({
   userId: z.string(),
@@ -9,29 +10,27 @@ export const Data = z.object({
 });
 
 export class GetMovieRequestHandler implements RequestHandler {
-  public constructor(private readonly movieReader: MovieReader) {}
+  public constructor(
+    private readonly movieReader: MovieReader,
+    private readonly movieWriter: MovieWriter
+  ) {}
 
   public async handleRequest(requestId: string, data: Record<string, any>) {
     const parsed = Data.safeParse(data);
     if (!parsed.success) throw new Error('Could not parse', { cause: parsed.error });
 
-    const gitHubComments: string[] = [];
     const { userId, imdbId } = parsed.data;
+    const readMovieRes = await this.readMovie(imdbId);
+    const writeMovieRes = await this.writeMovie(userId, readMovieRes.movie);
 
-    const readRes = await this.movieReader.read(imdbId);
-    if (readRes.success) {
-      const title = readRes.data.title;
-      gitHubComments.push(`:clapper: **${title}**`);
+    const gitHubComments: string[] = [];
+    gitHubComments.push(`:clapper: **${readMovieRes.title}**`);
 
-      const subtitleCount = readRes.data.subtitles.length ?? 0;
-      const subtitleP11n = subtitleCount === 1 ? 'subtitle' : 'subtitles';
-      gitHubComments.push(`- ${subtitleCount} ${subtitleP11n} found`);
-    } else {
-      gitHubComments.push(`:clapper: **Unknown**`);
-      gitHubComments.push(`- 0 subtitles found`);
-    }
+    const subtitleP11n = readMovieRes.subtitleCount === 1 ? 'subtitle' : 'subtitles';
+    gitHubComments.push(`- ${readMovieRes.subtitleCount} ${subtitleP11n} found`);
 
-    const errorText = map(readRes.errors, (error) => (isError(error) ? error.message : (<any>error).toString()));
+    const errors = concat(readMovieRes.errors, writeMovieRes.errors);
+    const errorText = map(errors, (error) => (isError(error) ? error.message : (<any>error).toString()));
     if (errorText.length > 0) {
       gitHubComments.push(``);
       gitHubComments.push(`:no_entry: **Errors**`);
@@ -40,5 +39,23 @@ export class GetMovieRequestHandler implements RequestHandler {
     }
 
     return join(gitHubComments, '\n');
+  }
+
+  private async readMovie(imdbId: string) {
+    const { success, data: movie, errors } = await this.movieReader.read(imdbId);
+    const title = isNil(movie?.title) ? 'Unknown' : movie.title;
+    const subtitleCount = isNil(movie?.subtitles) ? 0 : movie.subtitles.length;
+    return { success, title, subtitleCount, movie, errors };
+  }
+
+  private async writeMovie(userId: string, movie: Movie | null) {
+    if (movie === null) return { success: false, errors: [] };
+
+    try {
+      await this.movieWriter.write(userId, movie);
+      return { success: true, errors: [] };
+    } catch (cause) {
+      return { success: false, errors: [cause] };
+    }
   }
 }
