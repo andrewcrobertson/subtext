@@ -1,0 +1,28 @@
+{
+  "imdbId": "tt16101924",
+  "title": "Lethal Weapon 5",
+  "releaseDate": null,
+  "releaseYear": 2023,
+  "posterFileName": "poster",
+  "rated": "N/A",
+  "genres": [
+    "Action",
+    "Thriller"
+  ],
+  "directors": [
+    "Mel Gibson"
+  ],
+  "writers": [
+    "Shane Black",
+    "Richard Wenk"
+  ],
+  "actors": [
+    "Mel Gibson",
+    "Danny Glover",
+    "Bob Jennings"
+  ],
+  "runTime": null,
+  "plot": "Plot kept under wraps.",
+  "subtitleIds": [],
+  "isAvailable": true
+}
