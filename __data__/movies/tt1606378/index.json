@@ -1,0 +1,44 @@
+{
+  "imdbId": "tt1606378",
+  "title": "A Good Day to Die Hard",
+  "releaseDate": "2013-02-14T00:00:00.000Z",
+  "releaseYear": 2013,
+  "posterFileName": "poster.jpg",
+  "rated": "R",
+  "genres": [
+    "Action",
+    "Thriller"
+  ],
+  "directors": [
+    "John Moore"
+  ],
+  "writers": [
+    "Skip Woods",
+    "Roderick Thorp"
+  ],
+  "actors": [
+    "Bruce Willis",
+    "Jai Courtney",
+    "Sebastian Koch"
+  ],
+  "runTime": 98,
+  "plot": "John McClane travels to Russia to help out his seemingly wayward son, Jack, only to discover that Jack is a CIA operative working undercover, causing the father and son to team up against underworld forces.",
+  "subtitleIds": [
+    "866eacd1",
+    "5c975ab5",
+    "f5fa70f3",
+    "9bc0bbc7",
+    "577ed02a",
+    "125c3bdc",
+    "7b83e37",
+    "2bb8a731",
+    "c3904178",
+    "dc513399",
+    "866eacd1",
+    "2b2979fe",
+    "5a007f30",
+    "4eb83250",
+    "b41c56d0"
+  ],
+  "isAvailable": true
+}

@@ -1,0 +1,937 @@
+52885 55596 <i>The authorities in Russia<br />are bracing themselves today</i>
+55763 60226 <i>form ass protests against the trial<br />of former billionaire Yuri Komarov.</i>
+60393 61727 <i>The case against Mr. Komarov</i>
+61894 65064 <i>has caused widespread division<br />amongst the Russian public,</i>
+65231 68526 <i>some of whom view his incarceration<br />as a political maneuver</i>
+68693 73656 <i>orchestrated by this man, defense<br />minister candidate Viktor Chagarin.</i>
+80121 81455 <i>What do you want Viktor?</i>
+94635 96345 <i>Why are you doing this?</i>
+97888 99682 <i>What do you want to accomplish tomorrow?</i>
+101684 103894 <i>I'm prepared to pay for my sins.</i>
+107356 110234 <i>You should prepare yourself too.</i>
+111902 112528 <i>Yuri,</i>
+114322 118492 <i>let's be civil about this. We were friends once...</i>
+119493 121370 <i>...we could be again.</i>
+123247 124832 <i>Just give me the file...</i>
+126042 129879 <i>...and I'll hand your life back to you.</i>
+132256 135009 <i>Forget this stupid trial.</i>
+137511 139221 <i>I don't want my life back.</i>
+146646 152735 <i>You think I'm going to let you talk tomorrow?</i>
+155363 157573 <i>No one is going to hear you!</i>
+158574 161202 <i>I own everybody in that courtroom.</i>
+163287 164455 <i>You don't own me.</i>
+177093 178302 Mike.
+179345 181681 Chagarin's making a move on Komarov.
+182306 184016 -Shit.<br />-I'll see if we got local.
+253252 254754 <i>We are ready to get started.</i>
+255337 256380 <i>Make the call.</i>
+262344 264805 <i>You won't disappoint me?</i>
+270519 272688 <i>Have I ever disappointed you?</i>
+278110 278861 <i>Anton.</i>
+281363 283365 <i>Alik, it's Viktor.</i>
+283866 286452 <i>Yuri Komarov says hello...</i>
+287536 288704 <i>It's time to grab him.</i>
+289747 290581 <i>Yuri Komarov?</i>
+292291 293292 <i>...and GOODBYE.</i>
+317441 319235 McClane.
+321070 322905 Hey, Murph, how you doing?
+323072 325199 Nice grouping, Grandpa.
+326575 329245 Yeah, not bad.
+331080 333123 Is that it?
+333958 336752 Yep. We found him.
+337378 339547 It's not good, John.
+340881 342883 Hospital or morgue?
+344134 345761 Worse.
+347429 350266 When was the last time<br />you spoke to this kid?
+351851 353602 It's been a while.
+355062 357273 Maybe a few years, even.
+359233 362444 Last time I saw him, it was pretty ugly.
+365114 367533 Well, there's<br />a few different versions in there,
+367700 372413 but my people are pretty sure<br />he's being held at a Moscow prison
+372580 374915 awaiting sentencing.
+375082 376876 What's he charged with?
+377042 378252 It's a nasty sheet.
+380880 383465 He'll be lucky to get life.
+387052 389805 He can never get out of his own way.
+391348 393559 He had a lot of problems.
+395978 397813 He's still my kid.
+399356 401066 I know.
+401233 405613 But it's Russia.<br />They do things differently over there.
+408282 409783 Me, too.
+412828 413954 Good luck, Poppy.
+414038 415039 Thanks, kid.
+429011 431472 God damn you! God damn it!
+444860 447821 <i>Welcome to<br />John F. Kennedy International Airport.</i>
+453327 454328 Thanks, kid.
+454453 456330 McClane, good luck.
+456413 457414 See you soon.
+539163 541915 <i>I was told you had something to offer me?</i>
+545044 547504 <i>You're looking for evidence against Yuri Komarov?</i>
+550966 552301 <i>Perhaps.</i>
+556930 559099 <i>Put me in the courtroom with him...</i>
+559767 562811 <i>...and I'll testify that Komarov hired me to murder Anton.</i>
+563103 564188 <i>Did he?</i>
+565314 566982 <i>I'll testify under oath.</i>
+568859 570861 <i>That's good enough, isn't it?</i>
+614613 616532 ...Draganskiy courthouse?
+616698 618117 You speak Russian?
+619284 620953 How did I do?
+621120 624540 Well, you asked for a large bag of hair
+624706 627209 on the way to Taganskaya courthouse.
+628210 630629 But I got it. I got it.
+630796 632214 Good.
+633632 635384 Traffic sucks here, too, huh?
+635467 636510 Sex?
+637553 639680 You want sex? Sexy clubs?
+639888 641849 No. No sex.
+642224 643851 It sucks, this traffic.
+644393 645811 What is it? An accident?
+646019 647521 No.
+647855 649731 Garden Ring. Is bad.
+649898 653527 Always traffic, always traffic.
+654862 656488 You're American?
+656655 660534 Yeah, American. New York.
+661994 663704 The Big Apple.
+670586 672838 That's it.
+673005 675257 Frank Sinatra. Chairman of the Board.
+675424 676717 That's right.
+676884 679428 The Chairman. Yeah.
+679595 682389 You sing good.
+687603 689021 Yes, I sing.
+689188 690939 I sing all the time.
+691106 692274 Yeah.
+696612 699198 Heap. "Top of the heap."
+700365 704369 All right, all right.<br />Taganskaya courthouse, right there.
+704536 705579 Two blocks.
+705746 709583 You better walk, traffic is bad.<br />Really bad.
+709750 710792 What do I owe you?
+710876 711919 Hey, no money.
+712085 715714 No money, you let me sing.<br />You let me sing.
+715881 718217 You listen to my singing. No money.
+718383 720093 Welcome to Moscow.
+757506 761301 <i>...protests in central Moscow, following<br />a day of demonstrations in Russia.</i>
+761468 763929 <i>The unrest comes as authorities have been<br />accused of fraud</i>
+764012 765138 <i>throughout the country's elections.</i>
+765222 768392 <i>...some pictures out of Russia right now.<br />Protests happening there.</i>
+768475 770185 <i>This is a look at the demonstration.</i>
+831496 832331 <i>Quiet!</i>
+832748 834750 <i>Order in the courtroom!</i>
+840005 842049 <i>Order in the courtroom!</i>
+842758 843884 <i>Order!</i>
+846428 847554 <i>Seal the doors!</i>
+941231 942274 Detonator.
+944985 947154 <i>But, sir... the drivers?</i>
+950031 951783 Detonator.
+962043 963462 It's gonna be loud.
+988570 989571 Hey!
+1006296 1006922 <i>Quick!</i>
+1010926 1011718 <i>Come on, come on!</i>
+1012344 1012969 <i>Come on now!</i>
+1015680 1016556 <i>Come, come.</i>
+1016848 1017474 <i>Come!</i>
+1028652 1029194 <i>The cage.</i>
+1029486 1030487 <i>Check the cage.</i>
+1077242 1078076 <i>They are not here.</i>
+1079536 1080579 <i>No kidding.</i>
+1089796 1090380 <i>What's happening?</i>
+1094801 1096052 <i>Take Komarov alive...</i>
+1096469 1097220 <i>...kill the other one.</i>
+1097345 1097762 <i>Yes.</i>
+1097846 1098221 <i>Alik.</i>
+1098722 1100140 <i>We need this file.</i>
+1108231 1109524 <i>Put that on!</i>
+1111026 1111526 <i>Who are you?</i>
+1112694 1113695 <i>Your best friend.</i>
+1118658 1119743 Jack!
+1121036 1122245 Dad?
+1128168 1130045 Get out of the van!
+1133423 1134549 What are you doing here?
+1134716 1136051 Jack! Hey!
+1138803 1139804 Jack!
+1143642 1144643 Shit.
+1146853 1147896 <i>Komarov! Komarov!</i>
+1148146 1148772 <i>Quick... get the truck!</i>
+1149064 1150315 <i>Quick... get the truck!</i>
+1150732 1151775 Go home.
+1151858 1153568 What the fuck do you think...?<br />Jack!
+1153943 1155320 You're out of your depth, John.
+1155487 1157364 Jack! What are you doing?
+1160784 1162744 No! No!
+1162911 1164162 <i>We need him alive!</i>
+1164496 1165622 Jack!
+1167415 1168625 You're gonna shoot me?
+1170335 1172337 You're gonna shoot your own father?
+1173755 1175465 You shouldn't be here, John.
+1176800 1177926 You shouldn't be here.
+1178093 1180095 What are you doing?
+1186434 1187435 Jack!
+1190814 1192774 You're gonna fucking run over me?
+1192941 1194859 You're only making it worse!
+1194943 1195902 Jack.
+1217132 1218591 Get out of the way!
+1221594 1222721 Call a cop!
+1247912 1248913 Come on, go!
+1276566 1277567 Idiot.
+1283323 1286034 Reaper One?<br />Reaper One from 6-1 -0.
+1287535 1288161 Who's got him?
+1288328 1289245 Clock's running. Foxy.
+1289412 1290705 On the paper now. Box on.
+1290872 1291790 Copy that. Box on.
+1291915 1292624 <i>Okay, here we go.</i>
+1292791 1295335 <i>6-1, Reaper, we read you. Go ahead.</i>
+1295710 1296753 Reaper, how are we looking?
+1296878 1297879 Your guy is late.
+1297962 1299798 His rate of progress is way off.
+1299923 1301508 MET now plus 6 minutes.
+1304385 1306721 MCC Reaper. MET now plus 6.
+1307013 1308139 This is un-frigging-believable.
+1308264 1309140 MCC Reaper.
+1309224 1310099 That's not how it works.
+1310266 1312393 Something's off. I know this guy.<br />This doesn't happen.
+1312560 1315230 MCC Reaper, 6-1 is in the hole.<br />Stand by.
+1315438 1317315 6-1 , be advised, your window is closed.
+1317482 1318650 Time on target is no-go.
+1318817 1320735 I say again, TOT is no-go.
+1320902 1324489 Reaper, this is real-world,<br />not exercise, do you copy?
+1324906 1327408 No, sir, Moscow police will have<br />shut down the Garden Ring.
+1327742 1328493 Reaper!
+1328576 1329536 He's no-go for extraction.
+1330203 1331412 It's too late. Shut it down.
+1331496 1332205 Pull it!
+1332288 1334165 6-1 , mission window is closed.<br />Reaper is out of here.
+1335583 1336584 Come on!
+1336751 1337919 Shit!
+1339254 1340255 Get me Operations.
+1340421 1341548 Reaper!
+1341798 1343091 Get Mike Collins looped in.
+1343216 1345844 Tell him it's Plan B, safehouse.<br />Go now!
+1345969 1347220 Plan B. No choice.
+1347512 1348596 Shit.
+1348763 1351182 It's blown. They shut the Garden Ring.
+1354269 1355895 Harvest is in effect.<br />Keep on working.
+1356020 1357146 Let's finish this, Foxy.
+1358314 1360567 Damn you, McClane!
+1361150 1362193 Damn you!
+1390722 1391723 Oh, fuck!
+1392056 1394350 Jack! I'm not done talking to you!
+1398521 1399647 Who is this?
+1399731 1400899 Come on, go!
+1422211 1423588 Concentrate, please.
+1443900 1445276 That's right, come on through, yeah!
+1445443 1446569 See if you can hit this guy!
+1468049 1469050 Jesus!
+1527608 1528943 I'm tired of this guy.
+1529152 1531029 RPG now!
+1535158 1536159 Jesus!
+1557889 1561059 You missed!<br />Interesting choice, man.
+1575740 1578159 Hey, hey!
+1578326 1579327 Hey!
+1579702 1580745 Whoa!
+1581412 1582455 Hey! Whoa!
+1589420 1590421 Come on!
+1590505 1592256 You gotta be fucking kidding me!
+1595885 1596928 What?
+1600515 1603267 Do you think I understand<br />a word you're saying?
+1606771 1608231 Jesus Christ.
+1608397 1611275 It's okay, I'm fine, thanks.
+1619909 1622245 Oh, man, you're driving like my grandma!
+1622370 1624914 When I say drive, I mean fly!
+1635174 1637176 Oh, yeah!
+1659073 1660491 Get out of the way!
+1661409 1662577 Oh, God.
+1668499 1669500 Jesus!
+1681762 1683264 Oh, for the love of...
+1693065 1694108 Sorry, ma'am!
+1704952 1705953 Sorry!
+1751999 1754043 Did you see this guy?
+1765638 1766681 Oh, man!
+1767181 1768182 Knock knock.
+1792665 1793666 Guess who!
+1807888 1809348 I've had enough of this shit.
+1812935 1814979 Oh, man, hey!
+1816188 1818357 Is that it?<br />Is that your best shot?
+1849722 1851557 Damn you, John.
+1852975 1854268 Damn you!
+1890012 1891389 Hey! Up here!
+1892765 1894683 Shoot up here!
+1899271 1900940 John! Get in!
+1902233 1904318 Get in before I change my mind. Jesus!
+1905820 1907613 Take your time.
+1913411 1914995 Jack, what the fuck was that, huh?
+1915162 1917248 Shut up. Shut up, John.
+1917415 1919333 I swear to God,<br />I will put a bullet in you this time.
+1919500 1921001 Who do you think you're talking to?
+1921168 1922545 The last person I want to see.
+1922962 1924296 Well, maybe you missed<br />the whole part back there
+1924463 1928384 where I saved you and Papa Geppetto here<br />from a whole bunch of Russian bad guys.
+1928551 1930553 You saved? You saved?
+1930719 1932096 That's right, saved.
+1933264 1934723 -Shut up.<br />-Shut up.
+1934932 1936517 You're a world class screw-up,<br />you know that, John?
+1936684 1939145 I'm a screw-up? I'm a screw-up?
+1939311 1940312 I'm still your father.
+1940396 1942022 Yeah, nothing I can do about that.
+1942481 1943607 What a joke.
+1943774 1945276 Just shut up.<br />Try not to touch anything, all right?
+1945443 1947069 You've done enough goddamn damage.
+1949405 1951615 <i>The appointment is next week...</i>
+1951866 1953284 <i>We will begin immediately.</i>
+1953367 1955286 <i>Excuse me, sir. Komarov has escaped.</i>
+1956245 1958289 <i>I'll call you back. There is a problem with Komarov.</i>
+1958372 1959248 <i>What happened?</i>
+1959707 1961167 <i>Some sort of attack on the courthouse.</i>
+1961542 1962626 <i>Who took him?</i>
+1962710 1963711 <i>They don't know yet.</i>
+1964170 1965546 <i>What do you mean you don't know?</i>
+1965963 1966380 <i>Eh...</i>
+1966797 1968257 <i>...well it's confusing...</i>
+1968757 1971302 <i>Eyewitnesses say they saw Komarov...</i>
+1972553 1974013 <i>...with an American.</i>
+1975514 1977475 <i>What American?</i>
+1980394 1982438 John McClane.
+1984773 1985983 Let's go.
+1989111 1990362 After you.
+1991489 1993908 Yeah, I got him.<br />Okay, I'm on it.
+1994074 1996368 Look, Mike, we had an unexpected delay.<br />I'm sorry.
+1996452 1997495 I understand.
+1997578 1999788 This is the last guy on earth<br />I expected to see.
+1999955 2002249 Listen to me, Yuri, you have<br />half of Moscow looking for you.
+2002416 2004126 -I need you to get dressed.<br />-Why am I here?
+2004293 2007004 Please put on these clothes.<br />Trust me.
+2007171 2009298 This is the key to your cuffs. Take these.
+2009465 2010716 Oh, my Jesus.
+2010883 2012343 -Are you okay?<br />-What?
+2012510 2014929 Do you have the file on Chagarin?
+2016639 2018390 This is what you been doing, Jack?
+2019141 2020226 Spy shit?
+2022645 2024104 This is it?
+2024271 2027233 You're a spy? Oh, my God.
+2029610 2032780 The 007 of Plainfield, New Jersey.
+2033405 2034615 Very nice.
+2034782 2036825 McClane, shut up.
+2037201 2038702 Take it easy, Odd job.
+2038869 2040704 I'm on vacation.
+2040871 2042206 Your mum will be pleased.
+2042373 2044166 We thought you were<br />doing drugs or something.
+2044333 2045376 Mr. Komarov.
+2045501 2048087 Or selling drugs,<br />but that was me, really.
+2048796 2051465 Do you have the file on Chagarin?
+2051882 2053592 Yes, or no?
+2055511 2056845 It's very simple, Yuri.
+2056971 2059223 You give me the file,<br />and I get you out of Russia.
+2059932 2062810 And you're a free man. What do you say?
+2065521 2068941 It's not about me.<br />I don't care about my life.
+2070568 2071652 Well, that's the deal.
+2071819 2073112 It's the only deal.
+2074113 2076115 Come on.
+2077116 2079827 Come on, Yuri. Help yourself.
+2080661 2082037 What's it gonna be?
+2083789 2085916 Yes or no?
+2086083 2088877 The clock is ticking, Yuri. Come on.
+2090045 2091922 You will get me out of here?
+2092089 2093173 Only the three of you?
+2093340 2095551 Whoa, Nijinsky. I'm not in the gang.
+2095718 2098012 I just got off the plane.<br />I'm still jet-lagged.
+2098178 2101056 I'm not involved in this. Huh, Jack?
+2103809 2106270 Only if I can take my daughter with me.
+2109732 2111859 Chagarin's people will kill her.
+2114194 2116322 Fine. Make it quick.
+2118616 2119992 Where's the file?
+2121035 2123912 It's in a vault in Prypiat, but the key<br />is here in Moscow.
+2124079 2125205 At Hotel Ukraina.
+2126665 2127666 Shit.
+2128834 2132671 Make your call.<br />We're going to the Ukraina, let's go.
+2140763 2141555 <i>It's papa...</i>
+2143682 2144850 <i>I'm fine, Sunshine...</i>
+2145684 2146477 <i>...we'll talk later.</i>
+2147227 2147728 <i>Listen.</i>
+2148854 2151106 <i>I'll be waiting for you<br />where your mother and I shared our first dance.</i>
+2151565 2152358 <i>Now.</i>
+2154360 2155819 <i>Hurry! Hurry! You understand?</i>
+2166121 2168957 Mike, listen, I'm sorry about<br />this morning, man.
+2170501 2172670 It's fine.
+2173712 2176173 Okay, let's go.
+2180678 2181679 Contact!
+2184723 2186266 Down! Get down!
+2186517 2188102 Go! Get down! Go, go, go!
+2191605 2192898 John, cover!
+2208622 2209623 Come on, buddy!
+2212084 2214044 Go! Go!
+2220676 2222386 That's right, jerk-off!
+2222469 2223637 All right, let's move, John!
+2223804 2225180 I'm on fucking vacation!
+2225347 2227224 Come on, time to hustle.<br />Watch your head.
+2229268 2230269 McClane, move it.
+2230436 2232312 8,000 fucking miles for this?
+2237401 2239153 Get down, Yuri. Stay low!
+2239403 2240529 Head down.
+2240654 2242406 Come on. Go, go!
+2256378 2257755 Safe house, my ass.
+2263677 2265721 -He knows how old we are, no?<br />-Come on.
+2270934 2271935 Here, here, here.
+2272186 2274271 Sit down. You're all right.
+2274438 2275689 Let me look at you.
+2276273 2277608 It's all right. You're fine.
+2277775 2279193 What are you doing?
+2280694 2281695 Jack.
+2281779 2283614 Calm down, Yuri, okay?<br />You're gonna be just fine.
+2283781 2286575 Here, put this on, stay warm.
+2288535 2291205 What was that, John? Five minutes?<br />Five minutes?
+2291371 2293081 You blew a three-year op<br />in five minutes!
+2293248 2294541 You're welcome!<br />What do you want me to do?
+2296919 2297920 Unbelievable.
+2298045 2299129 Unbelievable.
+2299296 2302382 I'm so fucking burned.<br />I got no friends in this town anymore.
+2302549 2305385 What about your people at Langley?<br />Just give them a call.
+2305552 2307805 Give me your phone.
+2315562 2317731 It's a two-year contract on that phone.
+2317898 2320067 What are you carrying? Give me that.
+2322069 2323695 All right. You got any cash on you?
+2324780 2326365 Some American money.
+2326532 2328951 What are you talking about?<br />We need to keep on moving.
+2329409 2332746 We have to get this guy to a doctor.<br />To medical attention, Jack.
+2332913 2333914 The mission stands.
+2334122 2336458 Your mission is bleeding out over there.
+2336625 2338752 The mission continues.<br />We go to the hotel.
+2342589 2346134 Come on, let's move. Let's move.
+2357771 2358939 This is nuts.
+2359231 2360816 What, are you going to go out<br />and kill somebody else now?
+2360983 2362734 Why all this trouble for just one guy?
+2362943 2364653 He's a political prisoner.
+2365237 2366321 Not that you care, John,
+2366488 2368782 but it's a matter of national security,<br />all right?
+2368949 2372411 He's got the goods to stop Viktor Chagarin,<br />and we need that to happen.
+2372578 2373620 Well, great, Jack.
+2373787 2375664 Let's drop him off at the Embassy,<br />and we can go home.
+2375831 2378333 Are you kidding me?<br />After what happened at the safe house?
+2379668 2381003 Look, it doesn't work like that,<br />all right?
+2381169 2383171 It's a huge diplomatic mess,<br />and I'm a burnable asset.
+2383338 2386133 So, I now need that file<br />to un-fuck this mission.
+2386341 2387426 Any more questions?
+2387593 2389011 Yeah, just one.
+2389177 2391305 How come you never called<br />and told me where you were?
+2391972 2393473 Like you'd give a shit.
+2411742 2412784 Shit.
+2413327 2415120 Well, we're not going in the front door.
+2425255 2427257 All right, hold up, hold up.
+2431053 2434348 Okay, Yuri, listen to me, all right?<br />We're almost done.
+2434890 2437017 As soon as we get that key,<br />we're gonna grab the file,
+2437225 2439227 get you and your daughter<br />out of Russia, all right?
+2439394 2440687 All right.
+2442022 2445859 Listen to me, you're doing good.<br />All right?
+2446026 2448278 I need you to hang here a second.<br />Keep an eye on him, John.
+2448445 2449571 Hey, hey.
+2449738 2453367 What is it with all this "John" shit?<br />Whatever happened to "Dad?"
+2454034 2455702 Good question.
+2458872 2461583 In Russia, we have word for men like him.
+2462376 2463877 <i>"Krutoi."</i>
+2464795 2467965 It means "tough," "hard."
+2468131 2471468 In America, it means<br />"juvenile delinquent."
+2473553 2475639 Is he your only child?
+2477224 2480060 No. I got a daughter, too.
+2480894 2483105 You?
+2485983 2488819 I have only my <i>Solnyschka.</i>
+2489569 2492990 When she was little,<br />I was working all the time.
+2493907 2496910 I believed work was all that mattered.
+2502332 2504835 I screwed my kid's life up, too.
+2505085 2506086 You work all the time
+2506169 2509089 around the clock<br />most of the time, when you're a cop.
+2509506 2514928 I just thought that working all the time<br />was a good thing, you know?
+2520934 2522436 I didn't help him at all.
+2525522 2527441 It's never too late,
+2528775 2529943 I hope.
+2532946 2534781 Okay, let's go.
+2544458 2546835 All right, Yuri, which part of the<br />building is the ballroom in?
+2546960 2547961 Main tower.
+2548128 2549671 Main tower. Which floor?
+2549796 2550797 Top floor.
+2550881 2552466 Top floor.
+2552591 2553592 What about security?
+2553675 2555510 You remember any guards?<br />Cameras? Anything like that?
+2555677 2557554 I don't know.
+2557721 2559222 Well, I need you to remember.
+2559389 2561391 I was in prison for five years,<br />how should I know?
+2561641 2563351 -Everything could have changed.<br />-I know.
+2563518 2566188 Just think, all right?<br />Picture it in your head.
+2567022 2571151 The ballroom was closed in '89.<br />I think it's under construction now.
+2571485 2572903 So that floor's unsecured.
+2573070 2575489 I don't know! Listen!<br />My daughter is in there.
+2575655 2578825 -I'm scared to death, let's go!<br />-Just calm down, Yuri.
+2603892 2605936 I guess you have done that before.
+2608563 2609898 Smart.
+2612734 2614778 I could have done it.
+2657571 2659739 Irina?
+2660574 2662742 Irina?
+2668582 2670667 Irina?
+2675672 2676798 Papa.
+2680760 2682262 -Irina.<br />-Papa!
+2685140 2687142 That's tender.
+2687767 2689686 Really? I wouldn't know.
+2700197 2701656 Need a hug?
+2704284 2706578 We're not really a hugging family.
+2706745 2708288 That's right.
+2710081 2711541 <i>We just have to get one thing...</i>
+2712417 2714294 <i>...and then we're leaving Moscow for good.</i>
+2715128 2715670 <i>OK?</i>
+2716129 2716546 <i>OK.</i>
+2724596 2725513 <i>Who are they?</i>
+2728767 2730560 The young one works for CIA.
+2731436 2734147 The old one is his father.<br />Americans.
+2735982 2737150 <i>Then thank God for them.</i>
+2739361 2741488 There's something no good about this.
+2741655 2743073 Just shut up, all right?
+2744824 2745951 I'm telling you, Jack,
+2746826 2748328 this smells bad.
+2750372 2751998 Just stop, okay?
+2752374 2756711 This might seem like a totally<br />foreign concept, you know?
+2756878 2759172 I know you love to just run in,<br />making shit up.
+2759297 2760966 But like any professional,<br />I have a plan.
+2761132 2762926 So let's just stick to it, okay?
+2763093 2764552 Just move your plan along.
+2765136 2766846 All right, Yuri, come on.<br />Let's grab the key, get out of here.
+2767013 2768431 Yes.
+2769140 2770892 Just take a moment.
+2789369 2790370 How you doing?
+2792998 2794499 Fine.
+2804426 2806219 How did you get over here so quick?
+2809597 2810765 Well...
+2811683 2814477 I took Garden Ring.
+2814728 2818898 Oh, the Garden Ring.<br />Supposed to always be bad, right?
+2829034 2830160 Hey, John.
+2830452 2831578 Did you get stuck in traffic?
+2833913 2836207 I have it! I have it.
+2839502 2841421 Welcome, Americans.
+2847969 2849804 Put your goddamn guns down, asshole!
+2858521 2860482 <i>Papa, what is going on?</i>
+2864069 2865695 Give me your weapons.
+2866488 2867739 Come and get them.
+2874120 2875330 Really?
+2876498 2877665 Really.
+2880418 2881544 Papa.
+2884089 2886716 -Yuri.<br />-Do it.
+2888885 2890678 I thought you were a problem child.
+2909072 2911699 This a part of your plan, Mr. Professional?
+2914744 2915870 <i>What are you doing?</i>
+2916579 2918039 <i>It's about money, papa...</i>
+2918623 2920125 <i>...millions of dollars.</i>
+2920500 2921793 <i>You think life was easy for me?</i>
+2921876 2923795 <i>While you were sitting in prison being a victim?</i>
+2924963 2926131 But,
+2926297 2928633 I'm your father.
+2930635 2932220 And I am your daughter.
+2935682 2937934 We should kill the old man now.
+2938101 2939436 We still need him.
+2939853 2941187 But them you can kill.
+2941646 2943189 Thank you.
+2946443 2947485 Hi.
+2949195 2951322 I don't know if I'm saying this right.
+2952824 2953825 Hi.
+2956161 2959831 Do you know what I hate<br />about the Americans?
+2961124 2962250 Everything.
+2963710 2965837 Especially cowboys.
+2998495 3002332 I could have been a dancer.<br />I swear to God.
+3007086 3009547 But nobody supported me.
+3014093 3015094 You two
+3017597 3020099 have been such a
+3020308 3023394 pain in the ass!
+3034447 3035448 Come on, come on!
+3041246 3043122 I prefer dancing, really.
+3043831 3048670 But killing is much, much better than<br />working in a grocery shop!
+3053091 3054133 Jesus Christ!
+3056803 3057804 Nice one.
+3071150 3073820 You guys. So arrogant.
+3074320 3076322 It's not 1986, you know.
+3078491 3080285 Reagan is dead.
+3087834 3090587 Sorry. Oh, God.
+3100513 3101848 What's funny there?
+3102682 3103683 Can't tell you.
+3104642 3107186 It's not you. I love these outfits.
+3108354 3110523 You guys are looking good.
+3118781 3120867 That was enough, thank you.
+3124162 3125204 Let's dance.
+3142930 3143931 Come on! Come on!
+3156319 3157403 Jack!
+3158279 3161032 Remember the last time we talked<br />just before you went away?
+3162492 3164160 Oh, no! No, no!
+3164327 3166788 You're not gonna<br />open up to me right before we die!
+3168539 3170208 No, that's not your thing, John.
+3170375 3171501 What's my thing?
+3171668 3173961 Fucking killing bad guys,<br />that's your thing!
+3175588 3177298 You're not gonna die today!
+3204701 3206452 Go!
+3238651 3239902 Shit!
+3240653 3241654 Fuck.
+3242905 3244365 We're finished, John.
+3254792 3256669 <i>I'm taking care of it now.</i>
+3267680 3269223 I can't believe this.
+3276063 3278316 I can't believe this.<br />This is unbelievable.
+3286657 3288826 Jack. Hey!
+3296834 3297835 Jesus!
+3301547 3302548 Come on!
+3310431 3311432 Let's get out of this building!
+3327615 3328241 <i>Where are they?</i>
+3334413 3335414 Come on.
+3360356 3362024 <i>Alik, that's it. We're done!</i>
+3362108 3362692 <i>Let's go!</i>
+3362942 3363609 <i>Break left!</i>
+3363901 3364610 <i>Copy, Commander.</i>
+3398978 3399896 <i>Do you have him?</i>
+3400062 3401480 Yes.
+3401647 3402481 <i>And the file?</i>
+3402732 3404317 <i>Does he have it?</i>
+3404901 3407153 <i>I need that file, Alik.</i>
+3407320 3408821 He's taking us to it.
+3410281 3412658 <i>No more mistakes, Alik.</i>
+3413326 3414994 <i>And when you have the file...</i>
+3415745 3417496 <i>...kill them both.</i>
+3419081 3420124 Yes, sir.
+3438351 3439435 Shit.
+3443981 3446317 That was exciting.
+3446484 3448986 Yeah. Loads of fun.
+3450196 3452156 You wanna go again?
+3455326 3456452 Are you shot?
+3456619 3457620 No.
+3458120 3459330 No, I'm fine.
+3460164 3461707 Let me take a look at that.
+3461874 3463626 It's fine.
+3464543 3465962 Oh, fuck.
+3466128 3469382 I can't believe she betrayed<br />her father for Chagarin.
+3470841 3473010 I don't understand that.
+3474887 3477014 Someday you will.
+3477848 3479225 Kids.
+3482687 3484897 What's our next move?
+3485564 3487650 I don't know.
+3488067 3489986 -You don't know?<br />-I don't know, all right?
+3490236 3492238 I mean, I'm out of moves. I don't know.
+3492738 3494198 I don't know.
+3495658 3497201 I screwed up.
+3498077 3499662 I blew the mission.
+3507253 3509380 Well, then we're done, right?
+3509547 3511924 -Yeah, we're done.<br />-We're done.
+3512091 3514343 We should just go home.
+3514510 3517096 We'll stop by a little pharmacy<br />on our way out of Moscow,
+3517263 3520891 get you some Merthiolate<br />or mercury
+3521058 3522601 and fix up your little scratches, here.
+3522935 3525855 Get you home. Get a little toy set.
+3526355 3529775 Get yourself a nice warm glass of milk<br />with a little Bosco in it.
+3529942 3531569 Get your CIA slippers.
+3531736 3532862 All right.
+3533029 3534697 -What?<br />-I get it.
+3535614 3537742 What the hell are we gonna do?
+3538617 3540703 What's in the file?
+3540911 3543456 Evidence on Chagarin.
+3547251 3548794 Evidence about what?
+3549587 3551922 Chernobyl.
+3554550 3556135 Look, listen to me.
+3556302 3558304 Komarov and Chagarin used to have this
+3558471 3562933 nasty little side-racket going on<br />back in the day.
+3564977 3568147 They siphoned weapons-grade uranium,<br />got greedy,
+3568731 3571150 caused the meltdown.
+3572735 3575905 Then, you know, they fell out.
+3576155 3578783 Former partners, bad break-up.
+3580242 3581994 Scumbags.
+3583079 3584830 So, Chagarin had Komarov thrown in jail.
+3584997 3587666 You know, put him in a hole,<br />forget about him.
+3587833 3589794 Doesn't have to worry anymore.
+3591295 3593506 So what happened to rescuesque?
+3594131 3596300 Well, he grew a conscience.
+3598177 3600763 Yeah, well, that figures.
+3600930 3605184 Listen, Chagarin is bad news.<br />He's the real deal.
+3605351 3609021 If we see this guy in control,<br />we're gonna see the whole thing fall apart.
+3609188 3612358 I'm talking terrorism,
+3612525 3614360 WMDs,
+3615027 3616362 nukes.
+3620199 3622701 Someone has to stop him.
+3623953 3626872 Well, that's what we do.
+3628666 3633212 We go out to Chiapep<br />and we do our thing.
+3634880 3636465 Our thing?
+3636549 3637550 Yeah.
+3638884 3641387 We go out there<br />and kill a lot of scumbags.
+3647977 3650396 What? You got something better to do?
+3650563 3653566 All right. Pull it.
+3654066 3655776 You're not gonna cry, are you?
+3655943 3657778 Just pull it.
+3657945 3660030 Everybody needs a good cry<br />once in a while, Jack.
+3660531 3662241 -Don't be ashamed.<br />-Pull it.
+3662449 3664034 You remember that time when
+3664201 3668289 you and Ralphie Mauser were gonna have<br />that house-painting job?
+3668455 3671292 Got your finger caught in the ladder,<br />you cried for about five, six days.
+3671458 3672751 John, just pull it!
+3673210 3675379 All right.
+3675546 3677464 On three. Here you go.
+3677798 3679717 One, two...
+3684722 3685890 Good God.
+3686056 3687600 Jesus.
+3689435 3691478 When was the last time<br />you had a tetanus shot?
+3697109 3698569 You all right?
+3698736 3699945 Yeah.
+3701280 3702781 We need a car.
+3703449 3704950 Atta boy.
+3705117 3706452 Back to work.
+3726263 3729016 Hey, Watergate, how's that lock coming?
+3729183 3730809 Almost there.
+3730976 3732770 Here, try these.
+3733979 3735147 Come on.
+3735314 3737775 Oh, stealing. That's nice.<br />Real nice, John.
+3738025 3740569 Yeah, I'm up for the<br />Father of the Year award.
+3752748 3753791 Whoa.
+3756335 3757795 All right.
+3758003 3759964 How'd you know all of these<br />guns were gonna be here?
+3760130 3762132 It's a Chechen hangout.
+3762299 3766011 Owner doesn't like guns in the club,<br />so these bozos leave them in their cars.
+3766428 3768264 You learn a lot in three years.
+3768347 3769348 Yeah.
+3785406 3786865 You sleeping?
+3789702 3790869 I was.
+3792871 3794081 Jet-lag.
+3800921 3804425 Jeez, when was the last time<br />we were in a car together?
+3807052 3809054 Drive home from Trenton.
+3810097 3813100 I had to bail you out for that<br />weapons charge.
+3813642 3814643 Yeah?
+3815811 3818188 No, it was the fire thing, right?
+3818397 3820190 When you set South Philly on fire,<br />you mean?
+3823902 3826530 We had to take out a second mortgage<br />on the house to make your bail.
+3826613 3828741 Yeah, I'm sorry about that.
+3829575 3830909 It was funny.
+3843297 3845591 Are we really going to Chernobyl?
+3846133 3847634 Yeah.
+3848761 3850095 The Chernobyl.
+3851096 3852431 The radioactive joint? Meltdown?
+3852598 3854266 That's the one.
+3855934 3857936 It's not the Chernobyl<br />in Switzerland, right?
+3858103 3861273 With all the skiing and<br />the snow and everything?
+3861440 3863442 You mean Grenoble?
+3864777 3867821 No, sorry, we're not going to Grenoble.
+3874787 3877289 Eddie Collins's kid<br />took him on vacation last year.
+3877456 3878791 They went down to Boca.
+3878957 3881126 -Oh, yeah?<br />-Spent four days at the track.
+3881335 3883003 Well, that's nice.
+3883379 3885047 That's relaxing.
+3885214 3887716 Oh, yeah. Sure.
+3889051 3891136 We have to go to Chernobyl?
+3891303 3893138 Yeah, sorry about that.
+3893639 3896517 But all the radioactive stuff<br />is out, right?
+3932511 3934346 <i>Is it as you remember, papa?</i>
+3934972 3936140 <i>I don't want to remember.</i>
+3938225 3939059 <i>Tough.</i>
+3941687 3942396 <i>The file...</i>
+3943147 3944314 <i>...is in the inner vault.</i>
+3947025 3949695 Very touching. Let's move.
+3974094 3975596 Which one is it?
+3976263 3978557 <i>Get moving, old goat.</i>
+4013258 4016762 Couple of fresh coats of paint<br />and a weedwacker and it's good to go.
+4024937 4027773 You know, at first, they denied<br />anything even happened.
+4027940 4030526 Held a children's parade the next day<br />to prove it.
+4031026 4035113 24 hours later,<br />50,000 residents were evacuated.
+4035989 4037950 Never came back.
+4039660 4042829 As soon as they get in that vault,<br />Komarov's a dead man.
+4045457 4047000 All right.
+4097551 4099386 You got a plan?
+4100512 4101680 Not really.
+4102889 4105017 I kind of thought we'd just wing it.
+4105183 4109730 You know, run in, guns blazing,<br />making shit up as we go.
+4110856 4112107 -Yeah?<br />-Yeah.
+4116111 4117571 What is this? A pirate gun?
+4117738 4120240 Yeah. It's old school, man.
+4120532 4121533 Like you, right?
+4121950 4123577 Yeah, like me.
+4126538 4129374 One of these days,<br />I'm gonna have a long talk with you.
+4146099 4147643 Look, Jack,
+4148727 4150896 I'm sorry your partner got killed.
+4152898 4156902 I'm sorry I fucked up your day.<br />That wasn't my plan.
+4158236 4160238 I caused you problems.
+4160405 4163784 You know, I came here for something else.
+4167579 4170582 And all that other bullshit. I mean,
+4174336 4176129 I had a pretty good day.
+4178590 4181468 It's fun, running around with you.
+4187432 4189101 It's good to see you.
+4195190 4197609 I love you, boy.
+4203323 4204783 You, too.
+4207035 4209204 I want you to know I got your back.
+4212874 4214876 I got yours, too.
+4219297 4222634 All right.<br />Let's go kill some motherfuckers.
+4244489 4244990 <i>Key.</i>
+4335831 4338542 Okay, what the fuck is this?
+4339042 4342420 I'm losing my patience.<br />The fucking file better be here.
+4347133 4349761 Radiation has been pooling<br />in this room for decades.
+4352597 4354808 You've underestimated us,<br />Daddy dearest.
+4355433 4357227 <i>Bring it in!</i>
+4410822 4412324 Atta boy.
+4417829 4418622 <i>Come on! Come on!</i>
+4419706 4424711 Compound 27-4.<br />It neutralizes radiation, trust me.
+4464042 4467754 All clear. We can ditch the suits.
+4505500 4508336 The hell is that?
+4510088 4513717 One billion euros worth of<br />enriched uranium.
+4515260 4516761 What?
+4517971 4521016 Don't worry, it's stable in this form.
+4521099 4522142 File!
+4524352 4528189 Irina, cut the crap, please.
+4528606 4532068 No one here is speaking about uranium.<br />Where's the file?
+4533194 4535530 No more games, where is the file?
+4541202 4543913 That's no longer your concern.
+4568938 4569773 <i>Sunshine...</i>
+4570648 4571649 <i>...you did well.</i>
+4575570 4576780 <i>I told you...</i>
+4577572 4578656 <i>...everything would work out.</i>
+4581826 4582744 <i>Come to papa.</i>
+4596508 4597634 <i>Pap, you're a genius.</i>
+4599177 4599803 <i>I know.</i>
+4605100 4605767 <i>Load it up.</i>
+4609145 4609646 <i>Pegasus?</i>
+4610688 4611439 <i>Do you copy?</i>
+4660321 4662699 A lot of hardware for a file.
+4672000 4673251 <i>Wheels up in five minutes.</i>
+4674210 4674836 <i>Perfect.</i>
+4716211 4717212 <i>Here you go, sir.</i>
+4717545 4719547 <i>Team extraction completed. She's all yours.</i>
+4720048 4720506 <i>Good.</i>
+4751079 4752413 <i>Are you inside?</i>
+4752997 4753873 <i>Yes, yes, Viktor.</i>
+4756292 4757502 <i>I'm inside.</i>
+4760421 4761464 <i>Yuri?</i>
+4763007 4763841 <i>You surprised?</i>
+4766177 4768638 <i>I'm in the same place where it all started...</i>
+4769555 4771140 <i>...before you betrayed me.</i>
+4772058 4772809 <i>Remember...</i>
+4774769 4777272 <i>...you promised to give me my life back.</i>
+4778523 4779774 <i>You gave it back to me.</i>
+4781567 4782485 <i>I thank you for that.</i>
+4784946 4786197 <i>And now...</i>
+4786948 4788283 <i>...I'm going to take yours.</i>
+4818479 4820064 <i>Static 4, we are ready for take off.</i>
+4822275 4824610 <i>Static 4, do you copy?</i>
+4829741 4831242 Yuri!
+4834912 4836331 Yuri.
+4836497 4838666 Where's the dancer?
+4839125 4841461 You okay? You hurt?
+4841627 4843129 No.
+4846007 4847008 I'm good.
+4850762 4852305 I'm all right.
+4857018 4859437 What's in these boxes?
+4862523 4864442 Thank God you're here, Jack.
+4865610 4866944 We have to leave.
+4867278 4868613 They're coming back any minute.
+4871366 4873868 Just let me get the file.
+4874160 4875703 What's in the boxes?
+4879207 4881459 It's U-235.
+4883294 4885546 Weapons-grade uranium.
+4887507 4889509 Armored cases.
+4895181 4896557 The bomb kind?
+4898309 4900645 Yeah, the bomb kind.
+4906484 4907985 Not so fast, Eddie.
+4908152 4909320 Are you crazy?
+4910363 4911864 Yeah, a little bit.
+4912031 4913324 I'm getting the file.
+4914659 4917495 No. No, you're not.
+4918371 4921499 The key.<br />It's your vault, isn't it, Yuri?
+4921666 4924710 What? No. No, I...
+4925044 4926838 You put this shit in here, right?
+4927004 4929132 -What? No.<br />-Right?
+4929632 4931509 I didn't know, Jack.
+4940476 4942145 Is that the dancer down there?
+4942520 4943896 What are you talking about?
+4944188 4945982 That's a tough break for a good athlete.
+4946649 4949193 Jack, you know me.
+4951320 4954157 Yeah, I know you. I know you.
+4955825 4957493 I know him better.
+4960037 4963875 Never was a file, was there, Yuri?
+4973551 4975052 Of course there was no file.
+4975595 4977555 It was simply bait.
+4978389 4981184 What I needed was in this vault.
+4981350 4985188 Chagarin was the only one with enough<br />power and influence to get me out of jail.
+4986105 4988524 I used him.
+4990234 4992028 I used you.
+4994530 4996616 It's about money.
+4996908 4998534 When's it not about money?
+4998701 4999952 You want to arrest me?
+5002246 5006709 You're out of your jurisdiction,<br />Detective McClane, aren't you?
+5006918 5009420 I wouldn't worry too much<br />about being arrested.
+5010588 5012423 See, my boy
+5013132 5015092 is in the CIA.
+5015426 5017553 No phone call.
+5018471 5019764 Spy shit.
+5020431 5024560 Goddamn Americans.<br />You think you're so smart.
+5025269 5028898 No, I'm not that smart.<br />I'm just on vacation.
+5029065 5030733 My boy here,
+5032276 5033736 he gonna put a whooping on you.
+5039283 5041452 Move!
+5047833 5051796 You can say goodbye to your daughter,<br />you dumbwit fuck.
+5057301 5059428 Where's your little Soltschanitsa?
+5072817 5074485 -Shit!<br />-God damn it!
+5079490 5080491 Shit!
+5104223 5105099 <i>Irina, I'm going to the roof..</i>
+5105766 5106350 <i>The roof!</i>
+5109562 5110855 Jack!
+5129206 5130082 <i>Set at 91.</i>
+5130374 5131125 <i>Power plant?</i>
+5131459 5132293 <i>All good to go.</i>
+5132376 5132918 <i>Let's go!</i>
+5163115 5164116 Subtle.
+5164784 5166911 What the hell is in<br />those goddamn grenades?
+5174085 5175086 Go get him!
+5175670 5177755 I'm going to the helicopter!
+5232393 5234145 <i>Vadim, watch the tail.</i>
+5234311 5236313 <i>Copy. You are at 120 meters...</i>
+5237398 5238149 <i>...115 meters...</i>
+5265426 5266677 <i>There is small arms fire coming from the roof</i>
+5281525 5282067 <i>We have a guest.</i>
+5283110 5285029 <i>Watch the tail for me there.</i>
+5293204 5293704 <i>Come on!</i>
+5294205 5295080 <i>Come on, hurry!</i>
+5295790 5297708 <i>Vadim, give me firing control now...</i>
+5298584 5299210 <i>Engaging!</i>
+5305466 5306467 Jack!
+5309595 5310137 <i>Shoot him!</i>
+5310596 5311555 <i>With pleasure, papa.</i>
+5318395 5320314 I'm on fucking vacation!
+5323234 5324443 <i>Vadim! He is there! I see him!</i>
+5332076 5334161 The shit we do for our kids.
+5334578 5336330 Yippee ki-yay, motherfucker.
+5340960 5341919 <i>What happened?</i>
+5350928 5352263 <i>CG's shifted...</i>
+5353138 5354515 <i>I've got full forward cyclic.</i>
+5385504 5387006 <i>I can't hold it.</i>
+5389925 5390968 Jesus Christ!
+5396682 5397683 Well done,
+5398309 5399894 Mr. Super-spy.
+5402771 5406525 What a shame your father<br />won't be alive to see you promoted.
+5407651 5409403 Neither will you.
+5424251 5426629 Hey! Jack!
+5428839 5430716 Hang on, John!
+5468379 5469588 John!
+5475302 5476679 Come on!
+5485354 5486689 <i>We're out of ammunition!</i>
+5487231 5488107 <i>Shit.</i>
+5489108 5489984 <i>Bastards.</i>
+5490484 5492236 <i>What the hell are you doing?</i>
+5495114 5495948 <i>This is for you, papa.</i>
+5560012 5561013 John!
+5563807 5564808 John!
+5566351 5567352 John!
+5574985 5575986 John!
+5580908 5582076 Dad!
+5584453 5585454 Right here.
+5612773 5614358 Did you just call me Dad?
+5616068 5617194 No.
+5618737 5620197 I didn't think so.
+5622032 5623534 You're hearing things.
+5624618 5627204 You got swimmer's ear.
+5636255 5639258 We're not gonna grow any<br />third arms or anything, are we?
+5639424 5640592 No.
+5641051 5642803 You might lose your hair.
+5643428 5644555 Laugh it up, kid.
+5645222 5647724 This is you, five years from now.
+5648225 5650227 It's rainwater. You'll be fine.
+5650394 5653564 Besides, it's hard to kill a McClane.
+5655065 5656942 Now you're a McClane?
+5657109 5660404 Yeah, I'm a McClane. John McClane.
+5660571 5662072 John McClane Junior.
+5663073 5665534 Well, that makes you a "senior."
+5665701 5667202 That's right.
+5667369 5668912 Try not to forget it.
+5669079 5670747 I'm your father.
+5672124 5674918 Have some respect for your father.
+5675919 5677087 Let me ask you something.
+5679131 5683552 Do you go looking for trouble or<br />does it always just seem to find you?
+5685637 5688599 You know, after all these years,
+5689474 5692227 I still ask myself the same question.

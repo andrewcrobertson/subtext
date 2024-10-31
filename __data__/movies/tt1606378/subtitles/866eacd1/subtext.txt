@@ -1,0 +1,174 @@
+77143 78371 What do you want Viktor?
+91063 92655 Why are you doing this?
+94183 95855 What do you want to accomplish tomorrow?
+97823 99893 l'm prepared to pay for my sins.
+103063 105736 You should prepare yourself too.
+107423 108378 Yuri,
+109743 113702 let's be civil about this. We were friends once...
+114703 116455 ...we could be again.
+118303 119782 Just give me the file...
+120983 124612 ...and l'll hand your life back to you.
+126943 129582 Forget this stupid trial.
+132023 133615 l don't want my life back.
+140783 146574 You think l'm going to let you talk tomorrow?
+149063 151133 No one is going to hear you!
+152183 154651 l own everybody in that courtroom.
+156703 157772 You don't own me.
+242943 244342 We are ready to get started.
+244943 245898 Make the call.
+251703 254012 You won't disappoint me?
+259543 261579 Have l ever disappointed you?
+266783 267738 Anton.
+269943 271820 Alik, it's Viktor.
+272303 274737 Yuri Komarov says hello...
+275823 276938 lt's time to grab him.
+277943 278898 Yuri Komarov?
+280383 281338 ...and GOODBYE.
+529543 532137 l was told you had something to offer me?
+535183 537492 You're looking for evidence against Yuri Komarov?
+540623 541851 Perhaps.
+546343 548379 Put me in the courtroom with him...
+549063 551896 ...and l'll testify that Komarov<br />hired me to murder Anton.
+552263 553252 Did he?
+554343 555901 l'll testify under oath.
+557783 559660 That's good enough, isn't it?
+810783 811772 Quiet!
+811983 813860 Order in the courtroom!
+818943 820854 Order in the courtroom!
+821583 822618 Order!
+825103 826138 Seal the doors!
+919623 921659 But, sir... the drivers?
+978423 979412 Quick!
+982863 983852 Come on, come on!
+984223 985258 Come on now!
+987423 988378 Come, come.
+988543 989532 Come!
+999503 1000538 The cage.
+1000663 1001732 Check the cage.
+1046463 1047418 They are not here.
+1048663 1049618 No kidding.
+1058503 1059492 What's happening?
+1063303 1064452 Take Komarov alive...
+1064903 1065619 ...kill the other one.
+1065743 1066095 Yes.
+1066223 1066541 Alik.
+1067063 1068382 We need this file.
+1076183 1077377 Put that on!
+1078863 1079295 Who are you?
+1080463 1081373 Your best friend.
+1113223 1114178 Komarov! Komarov!
+1114463 1115020 Quick... get the truck!
+1115343 1116492 Quick... get the truck!
+1128623 1129772 We need him alive!
+1779743 1781813 The appointment is next week...
+1782103 1783422 We will begin immediately.
+1783543 1785340 Excuse me, sir. Komarov has escaped.
+1786303 1788214 l'll call you back. There is a problem with Komarov.
+1788343 1789139 What happened?
+1789623 1790976 Some sort of attack on the courthouse.
+1791383 1792372 Who took him?
+1792503 1793413 They don't know yet.
+1793903 1795177 What do you mean you don't know?
+1795623 1795975 Eh...
+1796423 1797776 ...well it's confusing...
+1798303 1800692 Eyewitnesses say they saw Komarov...
+1801943 1803296 ...with an American.
+1804783 1806614 What American?
+1963263 1963979 lt's papa...
+1966063 1967132 l'm fine, Sunshine...
+1967983 1968699 ...we'll talk later.
+1969463 1969895 Listen.
+1971023 1973139 l'll be waiting for you<br />where your mother and l shared our first dance.
+1973623 1974339 Now.
+1976303 1977656 Hurry! Hurry! You understand?
+2489823 2491176 We just have to get one thing...
+2492063 2493815 ...and then we're leaving Moscow for good.
+2494663 2495140 OK?
+2495623 2495975 OK.
+2503743 2504573 Who are they?
+2514663 2515732 Then thank God for them.
+2632183 2634014 Papa, what is going on?
+2686103 2687138 What are you doing?
+2687863 2689216 lt's about money, papa...
+2689823 2691222 ...millions of dollars.
+2691623 2692817 You think life was easy for me?
+2692943 2694740 While you were sitting in prison being a victim?
+3054114 3054705 Where are they?
+3083754 3085312 Alik, that's it. We're done!
+3085434 3085946 Let's go!
+3086234 3086825 Break left!
+3087154 3087825 Copy, Commander.
+3120834 3121630 Do you have him?
+3123394 3124110 And the file?
+3124394 3125907 Does he have it?
+3126474 3128590 l need that file, Alik.
+3131634 3133909 No more mistakes, Alik.
+3134554 3136112 And when you have the file...
+3136874 3138546 ...kill them both.
+3557794 3559512 ls it as you remember, papa?
+3560194 3561263 l don't want to remember.
+3563314 3564064 Tough.
+3566594 3567265 The file...
+3568034 3569103 ...is in the inner vault.
+3599794 3601910 Get moving, old goat.
+3834594 3835663 Key.
+3934154 3935712 Bring it in!
+3984754 3985709 Come on! Come on!
+4115634 4116384 Sunshine...
+4117274 4118184 ...you did well.
+4121994 4123109 l told you...
+4123914 4124903 ...everything would work out.
+4127994 4128824 Come to papa.
+4142074 4143109 Pap, you're a genius.
+4144634 4145191 l know.
+4150314 4150905 Load it up.
+4154194 4154626 Pegasus?
+4155674 4156345 Do you copy?
+4214474 4215623 Wheels up in five minutes.
+4216594 4217151 Perfect.
+4256874 4257784 Here you go, sir.
+4258154 4260031 Team extraction completed. She's all yours.
+4260554 4260952 Good.
+4290314 4291542 Are you inside?
+4292154 4292950 Yes, yes, Viktor.
+4295314 4296429 l'm inside.
+4299274 4300229 Yuri?
+4301754 4302504 You surprised?
+4304794 4307103 l'm in the same place where it all started...
+4308034 4309513 ...before you betrayed me.
+4310434 4311105 Remember...
+4313034 4315389 ...you promised to give me my life back.
+4316634 4317783 You gave it back to me.
+4319554 4320384 l thank you for that.
+4322794 4323943 And now...
+4324714 4325942 ...l'm going to take yours.
+4354954 4356433 Static 4, we are ready for take off.
+4358594 4360789 Static 4, do you copy?
+4628994 4629790 lrina, l'm going to the roof...
+4630474 4631429 The roof!
+4652954 4653943 Set at 91.
+4654074 4655029 Power plant?
+4655154 4656143 All good to go.
+4656314 4656871 Let's go!
+4749834 4751472 Vadim, watch the tail.
+4751674 4753551 Copy. You are at 120 meters...
+4754634 4755305 ... 1 15 meters...
+4781514 4782663 There is small arms fire coming from the roof.
+4796954 4797431 We have a guest.
+4798474 4800271 Watch the tail for me there.
+4808154 4808586 Come on!
+4809114 4809910 Come on, hurry!
+4810634 4812431 Vadim, give me firing control now...
+4813314 4813871 Engaging!
+4823874 4824351 Shoot him!
+4824834 4825710 With pleasure, papa.
+4836914 4838063 Vadim! He is there! l see him!
+4853954 4854784 What happened?
+4863474 4864702 CG's shifted...
+4865634 4866908 l've got full forward cyclic.
+4896674 4898073 l can't hold it.
+4992434 4993662 We're out of ammunition!
+4994234 4995030 Shit.
+4996034 4996830 Bastards.
+4997354 4998992 What the hell are you doing?
+5001794 5002544 This is for you, papa.
