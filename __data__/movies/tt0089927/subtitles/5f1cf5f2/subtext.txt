@@ -1,0 +1,15 @@
+4495579 4498040 <font color="#fffc00">You're not doing as you're told.</font>
+4498457 4501293 <font color="#fffc00">The American is small and weak...</font>
+4501585 4502961 <font color="#fffc00">Weak.</font>
+4616074 4617326 <font color="#fffc00">How can you do this?</font>
+4617409 4619411 <font color="#fffc00">He's nothing... soft!!</font>
+4619620 4622998 <font color="#fffc00">He fights like a beast. How's my eye?</font>
+4630506 4631840 <font color="#fffc00">He's not human...</font>
+4639056 4643018 <font color="#fffc00">He's like a piece of iron.</font>
+4919294 4922422 <font color="#fffc00">You trained this fool. He's a disgrace.</font>
+4923215 4925509 <font color="#fffc00">Listen to them...</font>
+4925592 4928887 <font color="#fffc00">Our people cheer for HIM! ... You idiot.</font>
+4929263 4930138 <font color="#fffc00">WIN!</font>
+4936311 4938564 <font color="#fffc00">I fight to win!</font>
+4942317 4944027 <font color="#fffc00">For me!</font>
+4948740 4950617 <font color="#fffc00">For me!</font>
