@@ -4,7 +4,7 @@ import type { Logger } from '$services/logger/Logger';
 import type { MovieReader, ReadResponseData } from '$services/movieReader/MovieReader.types';
 import { parseSrt3 } from '$utils/parseSrt';
 import type { RequestProcessor } from '@get-subtext/automation.process.request';
-import { isError, join, map, orderBy } from 'lodash';
+import { map, orderBy } from 'lodash';
 import murmurhash from 'murmurhash';
 import path from 'path';
 import type * as T from './Handler.types';
@@ -20,76 +20,6 @@ export class Handler {
 
   public async load({ userId, imdbId: gitHubIssueNumber, force }: T.LoadInput) {
     await this.requestProcessor.process(gitHubIssueNumber);
-    return;
-
-    const gitHubComments: string[] = [];
-    this.logger.infoBlank();
-
-    const issue = await this.gitHubApi.getIssue(<any>gitHubIssueNumber);
-    const imdbId = issue.title;
-
-    const existingMovieData = await this.fileManager.getMovieData(imdbId);
-    if (!force && existingMovieData !== null) {
-      this.logger.infoTitle(existingMovieData.title, imdbId);
-      this.logger.infoMovieAlreadyDownloaded();
-      gitHubComments.push(`:clapper: **${existingMovieData.title}**`);
-      gitHubComments.push(`- Already downloaded`);
-
-      await this.gitHubApi.addComment(<any>gitHubIssueNumber, join(gitHubComments, '\n'));
-      await this.gitHubApi.close(<any>gitHubIssueNumber);
-    } else {
-      const readRes = await this.downloader.read(imdbId);
-      const errorText = map(readRes.errors, (error) => (isError(error) ? error.message : (<any>error).toString()));
-
-      const title = readRes.data?.title ?? 'Unknown Title';
-      this.logger.infoTitle(title, imdbId);
-      gitHubComments.push(`:clapper: **${title}**`);
-
-      for (let i = 0; i < errorText.length; i++) {
-        this.logger.errorMessage(errorText[i]);
-      }
-
-      if (readRes.success) {
-        const timestamp = new Date().toISOString();
-
-        const subtitleCount = readRes.data.subtitles.length ?? 0;
-        const subtitleP11n = subtitleCount === 1 ? 'subtitle' : 'subtitles';
-        this.logger.infoMovieSubtitlesFound(subtitleCount);
-        gitHubComments.push(`- ${subtitleCount} ${subtitleP11n} found`);
-        const { subtitles, movieData } = this.toMovie(imdbId, readRes.data!);
-
-        if (errorText.length > 0) {
-          gitHubComments.push(``);
-          gitHubComments.push(`:no_entry: **Errors**`);
-          gitHubComments.push('- ' + join(errorText, '\n- '));
-          gitHubComments.push(``);
-        }
-
-        const movieDataFile = await this.fileManager.writeMovieData(movieData, userId, timestamp);
-        this.logger.infoSavedMetaFile(movieDataFile);
-
-        if (movieData.posterFileName !== null && readRes.data.posterUrl !== null) {
-          const posterFile = await this.fileManager.writePoster(imdbId, movieData.posterFileName, readRes.data.posterUrl, userId, timestamp);
-          this.logger.infoSavedPosterFile(posterFile);
-        }
-
-        for (let i = 0; i < subtitles.length; i++) {
-          const { subtextValue, ...data } = subtitles[i];
-
-          const subtitleDataFile = await this.fileManager.writeSubtitleData(imdbId, data, userId, timestamp);
-          this.logger.infoSavedMetaFile(subtitleDataFile);
-
-          const subtitleFile = await this.fileManager.writeSubtitleText(imdbId, data, subtextValue, userId, timestamp);
-          this.logger.infoSavedSubtitleFile(subtitleFile);
-        }
-
-        await this.gitHubApi.addComment(<any>gitHubIssueNumber, join(gitHubComments, '\n'));
-        await this.gitHubApi.close(<any>gitHubIssueNumber);
-      } else {
-      }
-    }
-
-    this.logger.infoBlank();
   }
 
   public async remove({ userId, imdbId }: T.RemoveInput) {
