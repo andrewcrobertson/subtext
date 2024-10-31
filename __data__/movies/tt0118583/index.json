@@ -1,0 +1,41 @@
+{
+  "imdbId": "tt0118583",
+  "title": "Alien Resurrection",
+  "releaseDate": "1997-11-26T00:00:00.000Z",
+  "releaseYear": 1997,
+  "posterFileName": "poster.jpg",
+  "rated": "R",
+  "genres": [
+    "Action",
+    "Horror",
+    "Sci-Fi"
+  ],
+  "directors": [
+    "Jean-Pierre Jeunet"
+  ],
+  "writers": [
+    "Dan O'Bannon",
+    "Ronald Shusett",
+    "Joss Whedon"
+  ],
+  "actors": [
+    "Sigourney Weaver",
+    "Winona Ryder",
+    "Dominique Pinon"
+  ],
+  "runTime": 109,
+  "plot": "Two centuries after her death, a powerful human/alien hybrid clone of Ellen Ripley aids a crew of space pirates in stopping the aliens from reaching Earth.",
+  "subtitleIds": [
+    "ab5f2f0c",
+    "d4d1b9b0",
+    "cf771e5b",
+    "eb59277b",
+    "1044d69a",
+    "a28320cb",
+    "7436b9f6",
+    "693f2c70",
+    "ed5b7479",
+    "76809472"
+  ],
+  "isAvailable": true
+}
