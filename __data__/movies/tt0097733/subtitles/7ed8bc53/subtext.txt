@@ -1,0 +1,536 @@
+41 41 25.000
+0 2210 I'm cleaning up this pigsty.
+2460 4629 I like this pigsty.
+4879 8883 When did you last do the refrigerator?<br />Or the pan under it?
+9175 10552 There's a pan under there?
+12470 14681 Where's my phone?
+15598 17308 Where's my TV? What have you done?
+17517 19436 Everything is outside.
+19686 21312 Just stop what you're doing.
+21563 24691 - Get the dog out of here!<br />- You go before the mutt.
+25066 26985 Out, out! Oh, man.
+32365 34117 It's Collins.
+34576 36369 Has Murtaugh checked in with you?
+36661 37912 No. Why?
+38204 41416 I haven't heard from him.<br />He doesn't answer his phone.
+42542 43960 I'll be right there.
+49758 51509 Stay in the car.
+59351 60810 I'm upstairs!
+61227 63688 Should I call 999, officer in distress?
+64898 66066 I'll cover the back!
+66274 68735 - Where are you?<br />- I'm up here.
+86127 87337 In here.
+102977 104020 Good morning.
+111152 112737 First time in 20 years...
+112987 115115 ...I get the bathroom to myself.
+115323 118993 No kids banging on the door.<br />No wife asking me to hurry up.
+119327 122997 Just me and my new<br />Saltwater Sportsman magazine!
+132549 136052 The one with the article<br />on deep-sea fishing?
+145270 149774 So I'm reading about marlin<br />fishing in the Gulf of Mexico...
+150650 152402 ...when I glanced over.
+157782 159534 Oh, Jesus.
+160577 161619 Is that all?
+161870 163329 You scared the shit out of me.
+163538 165457 Scared the shit out of you?
+167167 168543 How long you been here?
+168752 170837 I've been here all night.
+171171 174132 My legs are so numb<br />I don't know if I can...
+174424 175800 Don't move.
+176051 177260 I can't.
+177552 179512 Just stay that way. Do you mind?
+181389 184059 It's a dirty job,<br />but someone's got to do it.
+199449 200658 Tell me I'm not fucked.
+202243 203620 He's fucked.
+205914 208333 Okay, but I'd be lying.
+209959 211920 You'll be okay if you don't stand up.
+212170 213546 That's a relief.
+213922 216174 - I have to get help.<br />- No way!
+216508 217550 Why?
+220345 222722 I'm on the toilet. Give me a break.
+222972 226935 This is serious.<br />I got to get the bomb squad here.
+227227 228353 Bomb squad?
+234484 236695 Okay, call them in.
+239656 242242 Don't use the open frequency.
+248206 250250 Let's try to keep this quiet, okay?
+250959 252877 Sure. Trust me.
+272689 274441 An escort is really not necessary.
+274774 278445 I know you're a psychiatrist,<br />but it's not a pretty sight.
+278862 282532 I have helped policemen<br />through very traumatic moments.
+282782 286286 There is nothing in this room<br />that I cannot handle.
+289414 290790 I was wrong.
+291499 292876 Excuse me.
+297422 300133 I should've known,<br />where there's one, there's the other.
+309184 311269 You're a psychiatrist?<br />I have these dreams.
+311686 313396 It's ready to come out.
+316024 318109 I got to live in this house!
+320445 321571 Clear this room.
+323490 324491 Come on, Riggs.
+329162 329954 You, too, Riggs.
+330205 331164 No.
+332707 334626 Riggs, out.
+342342 343510 All right.
+346388 347681 Dive into the tub.
+349265 351685 Then pull the bomb blanket<br />over your head.
+352185 356147 This cast iron tub<br />will withstand a hell of a blast.
+356731 357732 I can't.
+357941 361236 He can't.<br />He's been on there for 18 hours.
+361528 363279 He can't even walk.
+363530 365407 I'm gonna have to help him.
+366282 368034 All right, you better wear this.
+369619 370453 The nitrogen?
+370954 371830 Almost there.
+375792 379337 He's spraying this thing<br />with liquid nitrogen...
+379671 382632 ...to give you 1 or 2 seconds<br />before detonation.
+382924 385719 - Got that?<br />- 2 seconds. Thanks a lot.
+386052 387429 Lights out.
+387679 389264 Get him up and out.
+398106 399357 Good luck.
+399816 401359 You got a piece?
+401609 403695 - Yeah, a Smith and Wesson.<br />- Try this one.
+403987 406281 Safety's on. I'll collect it later.
+408158 409534 Good luck.
+424341 426134 Alone at last.
+427510 430472 Why didn't they plant the bomb<br />in Trish's stove?
+431014 434309 All the needless suffering<br />could have ended there.
+448406 450075 I'm going to die on a toilet.
+450825 453286 Guys like you don't die on toilets.
+453495 456456 And I'm here<br />and I don't plan on going now.
+459000 460293 Let's do it.
+467467 471012 On three.<br />Wait, let me get into the tub.
+471888 473807 I'm just going to give you...
+474265 477102 On three, huh? What do you say?
+479270 480772 One...
+481564 482816 ...two...
+483108 484067 Wait.
+486152 488738 Do we do it on three, or...
+489447 490949 ...one, two, three...
+491199 495036 ...then do it?<br />- It's your ass. It's up to you.
+496329 498164 My ass, yeah.
+498415 499541 Three.
+500041 501459 We go on three?
+501668 504087 One, two and then three!
+507716 508842 One...
+509092 510427 Martin?
+517767 519310 I know.
+520061 521479 I mean it, man.
+524983 526443 I hear you.
+529070 531406 We're not going to die, all right?
+532741 533992 On three.
+570528 574074 Get off me. I don't want anybody<br />to see us like this.
+577952 579537 Mr. Jones?
+580330 581289 Sit down.
+585126 587337 What can I do for you today?
+587587 590799 I have this problem,<br />this very delicate matter.
+591049 593385 My friend wants to emigrate<br />to South Africa.
+593718 595970 Of course, I can help him do that.
+597097 598765 I want you to talk him out of it.
+599724 600684 Talk him out of it?
+601476 602977 Whatever for?
+603561 607315 This is a bad time for him to go,<br />with all the trouble.
+607941 610860 Have him come back later<br />in the week and we'll sit down...
+611945 613530 He's here.
+613780 615949 Yeah, he's here now. Alphonse?
+626835 628670 There must be some mistake.
+631214 632298 Say, what?
+635176 638888 Listen to your friend.<br />He knows what he's talking about.
+639097 641850 I don't think you want to go<br />to South Africa.
+642142 643226 Why not?
+646563 647939 Because you're black.
+651359 652694 You are.
+652944 654279 He is.
+654946 657824 Of course I am black.<br />That's why I want to go.
+658700 661161 To join my brothers in the struggle...
+661369 663371 ...against the racist...
+663580 664330 ...fascist...
+664539 665957 ...white minority regime!
+666249 667250 Fascist regime!
+667500 668710 One man, one vote!
+669961 672380 Free South Africa, you son-of-a-bitch!
+674049 677594 I've heard as much as I want to.<br />You must leave.
+679763 684267 What's happening?<br />Don't touch me! Back off!
+688021 690357 Close the security gate! Quickly!
+704204 705872 End apartheid now!
+707374 710502 You going to arrest me<br />if I don't shut up?
+724599 728478 One man, one vote!<br />Free South Africa! Give me that flag!
+731356 732524 You can't push me out!
+798923 800800 You call this security?
+801051 805263 More people come in and out of here<br />than Grand Central Station.
+809351 811144 Wait, gentlemen!
+811353 813730 Don't bother to call the police.<br />I'm here already.
+815482 816983 I should have known.
+819861 821196 Well, well.
+821988 823114 The master race.
+825742 828620 I hope you realize<br />the trouble you are in right now.
+829329 834501 As usual, you people have everything<br />upside down and turned around.
+834751 835960 Gentlemen...
+836670 839464 ...show Officer Riggs into the street.
+845011 845887 Fingers off.
+846179 847472 Hands off!
+848848 850225 Let me see that.
+853395 857357 That's a piece of hardware you got.<br />Where do you get that stuff?
+857732 860777 I've never seen it.<br />Where's it from, South Africa?
+862821 863571 Don't move.
+871121 876167 You haven't heard about me? I got a<br />bad reputation. Sometimes I go nuts.
+878169 878795 Don't move.
+884467 887345 I'll make a deal with you, Arjen.<br />Or is it Aryan?
+887637 889723 Whatever the fuck your name is.
+890598 892517 You fold up your tents...
+893059 895061 ...and get out of my country...
+895562 897647 ...and I won't do anything to you.
+898440 900025 I'll leave you alone.
+900233 904279 'Cause if you stick around here,<br />I'm gonna fuck your ass.
+904529 907282 Send you home<br />with your balls in a sling.
+908867 910952 Just get out of here...
+911661 913580 ...Kaffir lover.
+920545 921755 Eenie...
+922630 923340 ...meenie...
+924007 924841 ...miney...
+927135 928053 Hey, Moe!
+932182 933933 Sorry, Adolf.
+936353 938104 Pick them up with your hands.
+939939 943318 Big smile. Big smile!
+945737 947822 Vorstedt, come here.
+948281 949491 Vorstedt!
+953745 956873 - Hello, Officer...?<br />- Martin Riggs.
+957165 958541 What are you doing here?
+958792 962087 I've been with your boss...<br />shooting the breeze.
+962462 964005 Shooting his fish.
+977227 981523 The guy goes,<br />"But, but, but... you're black!"
+984901 986277 He's black.
+986986 988321 No shit.
+988947 990115 He started some shit!
+990407 992033 You get into Rudd's office?
+992283 993702 I got up there.
+993952 998998 Aryan Crud and his Brown Shirts<br />turned up, but I ripped this off a pad.
+999624 1002627 "Alba Varden, Thursday." Alba Varden?
+1003420 1005088 Isn't that Hitler's girlfriend?
+1005338 1006631 That's Eva Braun.
+1006923 1008842 He has a date with her Thursday.
+1009092 1010969 Her name sounds familiar.
+1011344 1015682 I don't know her.<br />It just sounds familiar. Alba Varden.
+1016016 1018810 A deli! Let's eat. I'm starving.
+1019436 1020395 I'll spring.
+1020645 1022647 Let's go. Sounds good.
+1028153 1031072 - Get out the other side, Leo.<br />- It's okay!
+1031948 1032824 No cars.
+1055013 1056723 That policeman.
+1068485 1070320 You should pick from the bottom.
+1070570 1072322 They put the old stuff on top.
+1072572 1073698 Officer Riggs!
+1076034 1078078 I followed you from the consulate.
+1078411 1079537 You followed me?
+1079829 1084042 Well, I needed some pork chops<br />and a toilet brush, too.
+1086127 1088046 I wanted to apologize...
+1088380 1091341 ...for the other day,<br />if we frightened you.
+1091716 1094636 I was a bit startled by all those guns.
+1095178 1098139 I'm sorry.<br />And I wanted to thank you, too.
+1099015 1100558 Thank me for what?
+1105605 1108066 You don't like your boss<br />very much, do you?
+1109275 1112737 I don't like many things<br />about my boss and my country.
+1113613 1115532 But I like my job very much.
+1115865 1118076 It keeps me here in Los Angeles.
+1118326 1119536 You like this town?
+1121287 1122497 That's a new one.
+1123707 1126835 - I forgot your first name.<br />- It's Rika.
+1127127 1128628 Rika Van Haagen-Dazs.
+1128962 1131756 - Ice cream?<br />- No, Van den Haas. It's Dutch.
+1132215 1133675 That's real pretty.
+1138263 1139806 You got a rabbit at home?
+1140056 1141307 It's mine.
+1141725 1142934 Shop one day at a time?
+1143309 1144811 Good police work, officer.
+1145103 1147022 I get paid for that.
+1147313 1149357 I don't shop for the entire week.
+1149566 1150859 Why not?
+1151735 1154654 I never know what I'll be hungry for.
+1156406 1158867 Wait. Have dinner with me.
+1160160 1164581 I got a nice place on the beach.<br />A good view from every window.
+1165165 1170420 A beautiful sunset. Come on,<br />be original. Everyone else says no.
+1170754 1173131 Come to my place. I'm a gourmet cook.
+1173423 1174674 Let go of the basket.
+1174883 1175842 I'll scream.
+1178303 1181639 I'll embarrass you in public.<br />You'll turn red like that apple.
+1181973 1184434 - Come on with me.<br />- No, no, please.
+1184684 1188772 Let go of my bag! Look what she's<br />doing! Somebody call a cop!
+1190106 1191566 What are you doing?
+1191816 1194152 Let's go before someone calls a cop.
+1194444 1195987 You are a cop.
+1205121 1207540 You must be an honest cop.
+1207916 1212087 It ain't much, but it's everything<br />I said. Look at the view.
+1215215 1217801 I did exaggerate<br />about one thing, though.
+1218009 1221471 I'm not exactly a gourmet cook.<br />I can only make chili.
+1221805 1224933 - Like it with crushed Oreos?<br />- Of course.
+1225308 1227102 A woman after my own heart.
+1227727 1229312 Watch your step.
+1229979 1231398 Sam wants in.
+1231731 1235902 Here, sit down.<br />Oh, wait a minute. A little filthy.
+1246538 1248915 I have no wine. How about a beer?
+1249124 1250125 That's fine.
+1250875 1252377 She drinks beer.
+1270186 1272605 What's the matter?<br />You got a dirty glass?
+1274357 1276443 Oh, it's the wedding ring.
+1278194 1279904 I used to be married.
+1280155 1281156 Not any more?
+1283241 1284617 Not any more.
+1288455 1289998 I've got something on the stove.
+1294711 1298173 Rudd's hiding behind<br />his diplomatic credentials, isn't he?
+1300091 1303219 Rudd's hiding behind<br />his diplomatic credentials.
+1304971 1306681 He's not a very nice guy.
+1309267 1310894 Whatever he's doing...
+1311394 1313146 ...he shouldn't get away with it.
+1321946 1323531 How's it hanging, Wyler?
+1323782 1326701 - What do you want?<br />- I hope better than Murtaugh.
+1327077 1328787 Easy, easy.
+1329329 1333500 Tell me something. Have your brains<br />ever seen the light of day?
+1333792 1336544 Who are you?<br />What do you want? I'm a cop!
+1336795 1338254 No, you were a cop.
+1338838 1340215 Hurry up, honey.
+1340465 1344636 I'm going to take a couple laps<br />before I go to the station.
+1401192 1404738 Sam, take a hike.<br />No Stooges tonight. Go on.
+1427844 1429346 Get that beer in here.
+1429596 1430972 Don't worry about it.
+1431264 1433350 Cavanaugh, are you in or out?
+1433767 1434976 I'm out.
+1435352 1436728 Put some music on.
+1446112 1447530 Who's not accounted for?
+1447781 1449199 Riggs and Murtaugh.
+1449449 1453078 Murtaugh's taking the witness<br />to a new location.
+1453370 1455455 - And Riggs?<br />- Hasn't checked in yet.
+1455705 1457874 Get on the radio and find them!
+1458124 1462295 We lost Wyler, Collins, Cavanaugh.<br />How many do we have to lose?
+1462587 1466591 Let's worry about the ones<br />that are alive, all right? Do it.
+1467175 1468551 Sorry, Captain.
+1475892 1477352 Get me Riggs.
+1484734 1486319 I'll get that.
+1488738 1489698 Wrong number.
+1502335 1507340 Thanks to you, I missed my poker game<br />and I was feeling real lucky.
+1508216 1512554 Okay, so what I see are nice,<br />conservative tax returns.
+1512929 1515640 Everything by the book,<br />black and white.
+1515849 1519269 So you just need to play around<br />in the gray areas...
+1519519 1521438 ...if you want to see some bucks.
+1521813 1525400 On your salary, there's not much<br />to do but you need deductions.
+1525608 1527152 - My boat.<br />- You can't deduct it.
+1527360 1528820 No, it's the bill of sale.
+1529029 1530739 I know, but you can't do it.
+1531740 1533950 That's it, my boat! Let's go!
+1534242 1535452 To my house.
+1535827 1537328 Because of my boat.
+1537579 1539289 Look at this commercial.
+1539497 1542751 Look at the body on this kid.<br />She is so hot.
+1543126 1547630 What are you doing? I want to look<br />at the girl! Why'd you do that?
+1547881 1549799 I didn't hear you say that.
+1550091 1551468 Say what? She's great.
+1551718 1554512 She makes me want to buy rubbers.
+1564064 1566483 Time for the seventh inning stretch.
+1571029 1572947 That's a baseball expression.
+1573281 1574657 I know.
+1575533 1577994 But we're only up to the fourth inning.
+1583708 1585210 Batter up.
+1595053 1596513 Stay in the car.
+1597472 1599557 I'll only be a minute, okay?
+1600433 1603561 Stay in the car? It's cold.<br />You have no door.
+1603853 1607148 You're the reason there's no door.<br />Turn on the heat.
+1610527 1614531 Don't touch anything.<br />Nothing. I mean nothing!
+1617659 1621287 Alba Varden. Why do I know the name?
+1622163 1624249 It's here. It's got to be.
+1624958 1628712 - Another day, another hobby.<br />- Yeah, another hobby. What's new?
+1635051 1636636 That's the day on my boat.
+1639347 1641141 It's not there. Where is it?
+1641850 1643393 My birthday.
+1673298 1674716 I'll be damned.
+1675091 1678386 Alba Varden is a ship, not a woman.
+1679846 1682015 Leo, I told you to stay in the car!
+1682724 1683308 Shit!
+1752335 1753837 Nailed them both.
+1768143 1769519 My car!
+1772647 1774024 Leo!
+1834751 1838755 Get up, get dressed.<br />Get dressed. Come on.
+1844260 1848682 - I don't understand.<br />- Just trust me. I got a bad feeling.
+1918335 1921379 Get in the truck.<br />The keys are under the front seat.
+1921671 1924799 When they stop to reload,<br />run for the truck!
+1925050 1927427 - What about you?<br />- I'll be okay.
+1927635 1931139 I'll meet you in the truck. Go on!<br />Stay out of the light!
+1980438 1982065 The master race.
+2011594 2015473 You shit! Who were those people?
+2015765 2019894 You tell me. Was it your husband?<br />What are you doing Saturday?
+2031322 2032657 It's Sam!
+2036202 2037037 Head down!
+2056389 2058641 Come on, Sam!
+2059601 2061144 Come on, Sam.
+2061519 2063063 Shake a leg.
+2063271 2064147 You made it.
+2068193 2069944 Has he got any holes in him?
+2072030 2074449 Oh, you clever dog.
+2081247 2084542 I promised to have you home by 11.
+2084918 2088213 This is the most incredible first date<br />I've ever been on.
+2088505 2090048 Wait until the second one.
+2090298 2093510 - No more helicopters, please.<br />- Okay, I promise.
+2094594 2097013 This is a very nice building.
+2097597 2100141 Any vacancies? I'm between homes.
+2100392 2102310 You can stay right here.
+2103436 2104312 I can?
+2104562 2107273 Yes, there's<br />a vacant apartment up there.
+2110193 2111111 I'm kidding.
+2111569 2113196 You can stay with me.
+2113738 2114823 Tonight?
+2115115 2118993 Yes, tonight. And tomorrow night.<br />And the night after that.
+2119619 2120787 And after that?
+2121037 2122914 Don't push your luck.
+2130296 2132132 I better go.
+2133466 2136219 Go inside and lock all the doors<br />and stay there.
+2136511 2139014 And you're not going to work tomorrow.
+2139514 2142308 There's better ways of staying<br />in LA than working there.
+2143018 2145437 All right. I've just quit.
+2171463 2175800 I'll just grab a few things...<br />Hell, I haven't got anything.
+2176176 2177969 Just bring yourself.
+2181264 2182849 I better go.
+2201534 2202786 Go home!
+2218510 2219886 Go get the girl.
+2242283 2245704 I would offer you a drink,<br />but I understand...
+2246037 2247288 ...you're on the wagon.
+2247539 2249457 That stuff will kill you quick.
+2249958 2253086 You know so much about me,<br />who are you?
+2257674 2260343 I changed the course of your life.
+2261302 2263013 Four years ago...
+2263304 2265640 ...when you was a narc at Long Beach...
+2265932 2269394 ...you were getting too close,<br />so we put a contract out on you.
+2269644 2271563 I handled it myself.
+2271855 2274691 Drove your car right off the road,<br />remember?
+2275150 2278111 But you weren't driving, were you?
+2278445 2280697 You can't imagine the surprise...
+2281573 2286619 ...when I pulled back a matted mop of<br />bloody hair to see this woman's face.
+2288580 2289831 Your wife, right?
+2292500 2294711 She didn't die straight away.
+2296338 2297839 It took a bit of time.
+2305472 2307849 You don't have much luck<br />with women, do you?
+2472764 2474724 She's dead. They killed her.
+2475225 2476393 Where are you?
+2476643 2481064 They killed her. She's dead.<br />They killed them both.
+2481272 2485110 Slow down. Who are you talking about?<br />Where are you?
+2485360 2487278 She's dead, Roger.
+2489197 2493326 Calm down. We'll take care of it.<br />Where are you?
+2493868 2496663 I'm not a cop tonight. It's personal.
+2497914 2501126 You don't know what happened tonight.<br />There's more.
+2502168 2506923 I'm going to get those bastards.<br />I'm going to fuck them. I'm going now.
+2507882 2511928 We're not going to the stilt house!<br />We're under orders!
+2512137 2514514 Then the house will have to come to me.
+2514764 2517017 They killed them both.
+2517350 2520020 They got Rika and they got my wife.
+2526443 2527444 Shit.
+2541666 2542792 What's the deal?
+2543793 2546755 You talk to the Feds,<br />but you don't talk to me.
+2546963 2548298 That's not fair.
+2552469 2554054 We trusted you.
+2556222 2558016 You betrayed us.
+2559642 2560685 You took our money!
+2564856 2566024 We want it back now...
+2566274 2568902 ...you slimy little shit.
+2570695 2572947 Give him more. He likes it.
+2608191 2610235 Don't try and stop me.
+2610610 2613363 I've seen that look<br />in your eyes before.
+2614197 2616700 They declared war on the police.
+2617826 2619411 You know about that?
+2619661 2622080 I heard it on the radio.
+2622789 2625125 We don't have the authority.
+2625375 2626584 Cavanaugh...
+2626793 2628878 ...Wyler, Shapiro...
+2630422 2634551 ...Rika, Vicki. How much<br />fucking authority do you need?
+2636720 2638179 You got a plan?
+2642809 2645311 Drive around the front of the house...
+2645729 2647647 ...wait for my signal...
+2648857 2651484 ...and then just go in<br />and shoot those fuckers.
+2651901 2652861 They got Leo.
+2655488 2656614 Be careful.
+2664748 2665665 Wait.
+2666041 2667042 What's your signal?
+2668710 2670712 You'll know when it happens.
+2673715 2676301 Somehow I think I will know.
+2725934 2726976 Feel like talking?
+2733233 2734401 It's the big one!
+2739280 2741157 Cool it. Watch him.
+2741408 2742992 Move me away from the windows!
+2817275 2819694 Riggs, you crazy mother...!
+2836920 2838672 Holy Christ!
+2843176 2845637 - You all right?<br />- Yeah, I'm okay.
+2845887 2847097 Thanks.
+2848181 2850433 - Was Adolf in there?<br />- He got away.
+2851518 2853603 - I'm going to find him.<br />- What about Leo?
+2853812 2855146 What about Leo?
+2855355 2857273 You're on your own now.
+2857565 2858942 What do you mean?
+2859192 2862779 Take my car to the police station<br />and wait for the Federal Marshal.
+2863029 2865115 It's been an experience knowing you.
+2869786 2873123 - I don't want a hug.<br />- Go on. Lucky if you see him again.
+2873373 2875125 I had a lot of fun.
+2875834 2877627 You do your duty now.
+2877919 2879838 I'm going to really get them now.
+2880171 2881923 Listen. Wait.
+2883216 2885301 Is it okay if I sound the siren?
+2888013 2889514 Loud as you want.
+2889723 2892058 Really? Okay. Really?
+2898148 2899733 Check it out.
+2899983 2903486 Alba Varden is a cargo ship,<br />not a woman.
+2903737 2907365 The Port Authority said<br />that the Alba Varden arrived today...
+2907657 2910618 ...and heads out tomorrow<br />to South Africa.
+2912954 2914789 This is the eleventh dock.
+2915040 2918168 It must be here someplace.<br />I know I'm right.
+2923590 2924591 The ship!
+2924883 2926426 What did I tell you?
+2928094 2931139 That container there<br />with three heavy hitters.
+2931389 2932515 Let's have a look.
+2934351 2936686 I'll take 2 of them out, you take 1.
+2938563 2942359 Better yet, you take 2, I take 1.<br />Pull over to the side.
+2992117 2995412 - I can't see shit!<br />- Me, either. What is this shit?
+2995662 2997122 Got a light?
+2999165 3001251 It's Rudd's, whatever it is.
+3001501 3003586 I still can't see shit.
+3005672 3008967 - You got something?<br />- I don't know. It's a car.
+3014347 3016808 Shit! Fort Knox!
+3020562 3022480 Hell, how much is it?
+3024399 3025775 Thousands.
+3027527 3029571 Fucking millions.
+3029946 3032741 Billions of fucking Donald Trump lotto.
+3043501 3044419 Look at this.
+3045086 3047213 These are $1,000 bills!
+3049341 3053678 With what I'm holding in my hand<br />I could put all my kids through college.
+3055263 3056222 Take it.
+3064272 3065690 Fucking drug money.
+3065940 3067692 Do something good with it.
+3067942 3070487 Rudd won't need it where he's going.
+3083708 3085502 Load the container.
+3085794 3089589 The next time the sun hits<br />their bodies, they'll be in Cape Town.
+3093968 3096763 - Hey, this thing's moving.<br />- It sure as hell is.
+3097180 3099766 - What are we gonna do now?<br />- I don't know.
+3100475 3102102 Let's shoot our way out.
+3102310 3104479 No, don't. I got a better idea.
+3161202 3162579 Our money.
+3165999 3168043 Make sure they're dead.
+3179554 3183558 - You go first. I'm too old.<br />- You go first. I'll cover you.
+3199366 3201659 - How do we get out of here?<br />- I'll go this way.
+3201910 3204329 I'll go this way and check over here.
+3292500 3293877 Oh, shit!
+3428511 3430430 Riggs, you okay?
+3447989 3449199 Drop it, asshole!
+3455580 3458208 Diplomatic immunity!
+3468968 3471429 It's just been revoked.
+3552719 3555513 You're breathing. You're not dead.
+3556306 3557932 No, don't die.
+3559392 3561436 You're not dead until I tell you.
+3562312 3566483 You got that, Riggs?<br />You're not dead until I tell you.
+3566733 3568318 You got that?
+3568735 3571321 You' re not dead until I tell you.
+3571863 3573948 Now, breathe with me.
+3574240 3575617 Breathe.
+3581247 3583333 Rog, in my pocket.
+3591883 3596721 I want you to throw those things away.<br />Those things will kill you.
+3604312 3606147 You son-of-a-bitch.
+3607857 3609359 I thought you were dying.
+3609609 3613238 I didn't die on your toilet,<br />I'm not going to die in your arms.
+3613446 3615156 You son-of-a-bitch.
+3620245 3623957 Where are they? Are they all gone?<br />Did you get the bad guys?
+3624207 3626584 They been dekaffirnated.
+3635802 3638430 Don't make me laugh! Jesus!
+3641391 3643643 Did anyone ever tell you...
+3645812 3648273 ...you really are a beautiful man?
+3653611 3655196 Give us a kiss.
+3657449 3659200 Where'd that bullet hit you?

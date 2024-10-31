@@ -1,0 +1,46 @@
+{
+  "imdbId": "tt0097733",
+  "title": "Lethal Weapon 2",
+  "releaseDate": "1989-07-07T00:00:00.000Z",
+  "releaseYear": 1989,
+  "posterFileName": "poster.jpg",
+  "rated": "R",
+  "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "directors": [
+    "Richard Donner"
+  ],
+  "writers": [
+    "Jeffrey Boam",
+    "Shane Black",
+    "Warren Murphy"
+  ],
+  "actors": [
+    "Mel Gibson",
+    "Danny Glover",
+    "Joe Pesci"
+  ],
+  "runTime": 114,
+  "plot": "Riggs and Murtaugh are on the trail of South African diplomats who are using their immunity to engage in criminal activities.",
+  "subtitleIds": [
+    "601366ee",
+    "943f01e2",
+    "c81245f",
+    "7ed8bc53",
+    "1997db06",
+    "e15745a4",
+    "914f4421",
+    "9f00b4c2",
+    "951bd57c",
+    "bc74bf34",
+    "df2e2566",
+    "b5f2f308",
+    "9538d4ba",
+    "f63c7d90",
+    "951bd57c"
+  ],
+  "isAvailable": true
+}
