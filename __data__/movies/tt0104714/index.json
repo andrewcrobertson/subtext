@@ -1,0 +1,45 @@
+{
+  "imdbId": "tt0104714",
+  "title": "Lethal Weapon 3",
+  "releaseDate": "1992-05-15T00:00:00.000Z",
+  "releaseYear": 1992,
+  "posterFileName": "poster.jpg",
+  "rated": "R",
+  "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "directors": [
+    "Richard Donner"
+  ],
+  "writers": [
+    "Jeffrey Boam",
+    "Robert Mark Kamen",
+    "Shane Black"
+  ],
+  "actors": [
+    "Mel Gibson",
+    "Danny Glover",
+    "Joe Pesci"
+  ],
+  "runTime": 118,
+  "plot": "Martin Riggs and Roger Murtaugh pursue a former LAPD officer who uses his knowledge of police procedure and policies to steal and sell confiscated guns and ammunition to local street gangs.",
+  "subtitleIds": [
+    "f4c753f9",
+    "f7edab99",
+    "a56f8fc2",
+    "b87e23b8",
+    "2e7c413f",
+    "3873bf2b",
+    "fdcbf217",
+    "142289d9",
+    "1f1b719c",
+    "dabe60e4",
+    "90df9ecb",
+    "28e7a8e1",
+    "ea767188",
+    "65ba552"
+  ],
+  "isAvailable": true
+}
