@@ -1,0 +1,31 @@
+{
+  "imdbId": "tt0410519",
+  "title": "The Matrix Recalibrated",
+  "releaseDate": "2004-04-06T00:00:00.000Z",
+  "releaseYear": 2004,
+  "posterFileName": "poster.jpg",
+  "rated": "N/A",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "directors": [
+    "Josh Oreck"
+  ],
+  "writers": [
+    "N/A"
+  ],
+  "actors": [
+    "Mary Alice",
+    "Lyndon Barrois",
+    "George Borshukov",
+    "Rodney Burke"
+  ],
+  "runTime": 27,
+  "plot": "The making of Matrix Revolutions, The (2003) is briefly touched on here in this documentary. Interviews with various cast and crew members inform us how they were affected by the deaths of ...",
+  "subtitleIds": [
+    "0",
+    "0"
+  ],
+  "isAvailable": true
+}
