@@ -1,0 +1,40 @@
+{
+  "imdbId": "tt0370263",
+  "title": "Alien vs. Predator",
+  "releaseDate": "2004-08-13T00:00:00.000Z",
+  "releaseYear": 2004,
+  "posterFileName": "poster.jpg",
+  "rated": "PG-13",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Horror"
+  ],
+  "directors": [
+    "Paul W.S. Anderson"
+  ],
+  "writers": [
+    "Paul W.S. Anderson",
+    "Dan O'Bannon",
+    "Ronald Shusett"
+  ],
+  "actors": [
+    "Sanaa Lathan",
+    "Lance Henriksen",
+    "Raoul Bova"
+  ],
+  "runTime": 101,
+  "plot": "During an archaeological expedition on Bouvetøya Island in Antarctica, a team of archaeologists and other scientists find themselves caught up in a battle between the two legends. Soon, the team realize that only one species can win.",
+  "subtitleIds": [
+    "2f93ec90",
+    "43cdea50",
+    "bb9fb6c1",
+    "bbf1bd88",
+    "a822b404",
+    "56f918d",
+    "141bf5f1",
+    "4bf96899",
+    "6795d9f4"
+  ],
+  "isAvailable": true
+}

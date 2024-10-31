@@ -1,0 +1,547 @@
+214340 215508 Lunch.
+223599 226060 Hey. Hey, hey.
+226143 228145 Come here. Take a look at this.
+230606 233651 - What is it?<br />- It's a data stream from PS12.
+234068 236904 - Where is she?<br />- Right above sector 14.
+237863 239865 There isn't anything in sector 14.
+239990 241492 There is now.
+271647 275234 - Hello?<br />- <i>Miss Woods. Pleasure to speak to you.</i>
+275317 277903 - Who is this?<br />- <i>My name's Maxwell Stafford.</i>
+277987 280447 <i>I represent Weyland Industries.</i>
+281365 284952 - Let me guess. He's suing us again?<br />- <i>You misunderstand.</i>
+285035 289290 <i>Mr Weyland has offered to fund<br />your foundation for a year,</i>
+289373 291041 <i>if you'll meet with him.</i>
+291167 292459 When?
+292543 293961 <i>Tomorrow.</i>
+294336 299425 Tomorrow's gonna be a problem.<br />Take me a week to get back to the world.
+300009 302219 <i>Yes, I told Mr Weyland that.</i>
+303387 305723 He said he didn't have a week.
+322907 325201 We must be right on top of it.
+346555 347723 What is it, Sebastian?
+362905 364907 Early 1950s, I'd say.
+365950 368661 Hey, Juan, we are almost there.
+368744 373999 According to you, the Teotihuacans'<br />final gift to their dying king was a Pepsi.
+374083 376335 Give me one more month. Please.
+376460 378671 I'm bringing in another team.
+379213 380381 What?
+381590 384843 Without a crew and a new permit,<br />we're out of business.
+384927 389932 Hold the team together for two days.<br />I'll go to Mexico City and I'll talk to the bank.
+390015 391934 I'll get us more money.
+392268 395729 I might be able to help you<br />accomplish that, Professor.
+396772 398274 Do I know you?
+399775 402903 In exchange for a little of your time.
+427469 430973 Oh, I'm sorry.<br />I should've switched the flash off.
+431056 433934 There's your magazine. Excuse me.
+434018 435436 That's OK.
+436020 439231 I'm documenting the trip for my boys.<br />This is them.
+439315 441483 Jacob and Scotty.
+442401 444611 Would you mind taking a picture?<br />Thank you.
+444695 448490 Just wanna show them that their<br />dad wasn't always so boring.
+449033 450492 - Smile.<br />- OK.
+453245 455331 - There you go.<br />- Thank you.
+455956 458917 I'm Graeme Miller.<br />I'm a chemical engineer.
+459001 462046 Alexa Woods, environmental<br />technician and guide.
+462129 464757 - Do you work for Weyland?<br />- Oh, no.
+465215 469553 No, I split my time between working<br />for a small environmental group
+469636 472973 and taking scientists<br />on expeditions on the ice.
+473057 476226 Lex. Buckle up.<br />We're gonna hit some turbulence.
+476310 477853 Thanks, Jack.
+479021 481690 - Is he a friend of yours?<br />- Of my dad's.
+481774 483859 He trained most of the pilots here.
+483942 487780 - Just passed the PSR.<br />- Oh, damn. I wish I'd got a picture.
+488072 490491 - Of what?<br />- The PSR.
+490866 494036 I wish he'd called it out<br />before we passed it.
+494828 497956 The PSR is the point of safe return.
+498040 501960 It means we've used up half<br />our fuel, so we can't turn back.
+503045 508384 Right, but if something went wrong,<br />we could land, presumably.
+508467 510803 - We could ditch.<br />- Yeah. Ditch.
+510886 514973 But the temperature of the water<br />would kill us in three minutes.
+534118 537204 - Weyland's cheque cleared.<br />- Good.
+537287 540457 You know what? We're gonna listen<br />to whatever he has to say,
+540541 544711 we nod, we smile, and we politely<br />decline whatever offer he makes.
+544962 547256 Take the money and we<br />head back to Mexico.
+547339 548882 - Right.<br />- Right.
+560310 563689 - Having fun?<br />- Yeah. This is quite an adventure.
+563772 567192 My kids won't believe this.<br />Would you mind taking a picture?
+567276 571363 - You have to hold that down till the flash...<br />- You're kidding.
+571447 574658 Get off, or you'll be wearing<br />your ass for a hat!
+575701 577411 All right, OK, sure.
+577494 579329 Nice team spirit.
+580414 582958 Keep the beakers away from the gear.
+586336 588255 What does he mean, "beaker"?
+588338 590841 That's what they call scientists out here.
+590924 593218 You know, Beaker - like in <i>The Muppet Show</i>.
+593302 596847 Everybody, please, your attention.
+602478 604021 Mr Weyland.
+617034 619912 Seven days ago, one of my satellites
+619995 621830 over Antarctica hunting<br />for mineral deposits
+621914 626251 discovered a sudden heat bloom<br />beneath the earth, which outlined this.
+627336 630005 The red lines indicate solid walls.
+630589 631840 Through thermal mapping,
+631924 635844 we've generated a three-dimensional<br />image of the structure.
+636637 642059 It's massive, containing hundreds of rooms,<br />all built around a central core.
+643936 646355 My experts tell me it's a pyramid.
+647856 651109 What they can't agree on<br />is who built it and when.
+651735 655822 One expert tells me this has<br />features reminiscent of the Aztecs.
+656365 658700 Another tells me it's<br />probably Cambodian.
+658784 663080 What they all agree on is that<br />the smooth side is definitively Egyptian.
+663163 666166 - I think your experts are right.<br />- Which one?
+666708 669461 - All of them.<br />- Meaning what, exactly?
+671255 675050 This pyramid contains the features<br />of all three cultures.
+676802 679763 This might be the first<br />pyramid ever built.
+679846 683392 - But built by whom?<br />- By the first civilization.
+686019 687354 Thank you.
+688188 691400 But how could anyone possibly<br />build a pyramid out here?
+691483 694278 Ancient maps show<br />Antarctica free of ice.
+694361 697364 It's likely the continent<br />was once habitable.
+697823 699491 I can't tell you who built it.
+699574 703245 But if I could take a sample from it,<br />I can tell you how old it is.
+703328 707040 Dr Miller, I'm offering to put<br />you right next to this thing.
+707833 710502 - What caused the heat bloom?<br />- I don't know.
+710585 714506 - Where exactly on the ice is this?<br />- Bouvetøya Island.
+714589 717884 But it's not on the ice.<br />It's 2,000ft below it.
+721346 723473 - Mr Quinn?<br />- Mr Stafford.
+723557 726268 You're looking at the best<br />drilling team in the world.
+726351 728687 We'll chew to that depth in seven days.
+728770 731773 Add three weeks on top<br />of that to train everyone here.
+731857 734651 We don't have that kind<br />of time, Ms Woods.
+734735 737779 I'm not the only one with<br />a satellite over Antarctica.
+737863 740032 Others will be here soon.
+740532 744953 Maybe I wasn't clear.<br />No one in this room is ready for this trip.
+745037 747205 That's why I asked you here.
+747539 750834 Bouvetøya is one of the world's<br />most isolated places.
+750917 752461 The nearest land is 1,000 miles away.
+752544 757257 - There's no help if we run into trouble.<br />- You're right. It's a no-man's-land.
+757341 760052 But the train has left the station.
+760260 763555 And I think I speak<br />for everyone aboard this ship.
+764556 766475 This is worth the risk.
+775734 777569 Find another guide.
+794920 798840 I've spoken with Mr Weyland.<br />Money's been wired to your account.
+798924 801593 Chopper's refueling to fly you home.
+803595 805222 Who'd you get?
+806973 808558 Gerald Murdoch.
+812687 815065 - Come in.<br />- Murdoch has two seasons of ice time.
+815148 816775 He's not ready.
+817275 820195 - Don't worry about it.<br />- What about Paul Woodman?
+820278 821571 We called him.
+821655 823698 He gave the same<br />bullshit answer you did.
+823782 825283 "Bullshit"?
+826451 828954 What I told you in there<br />wasn't bullshit.
+829037 832958 If you rush this, people will get hurt.<br />Maybe die.
+833041 834709 I don't understand.
+834793 836711 We're not asking you<br />to take us up Everest.
+836795 841007 We need you to take us from the ship<br />to the pyramid, and back. That's it.
+841091 844052 - What about inside the pyramid?<br />- Don't worry about that.
+844136 846596 Once we're on the site,<br />we have the best technology
+846680 848598 and experts that money can buy.
+848682 850475 - Is this new?<br />- It's the latest.
+850559 854479 Mr Weyland, when I lead my team<br />I don't ever leave my team.
+855689 857941 I admire your passion.
+858817 861153 I wish you were going with us.
+862112 864156 You're making a mistake.
+871788 874082 It's in the upper atmosphere.
+875750 878462 Streams of protons<br />and electrons from the sun
+878545 883216 being deflected by the earth's magnetic<br />field, causing a solar radiation storm.
+883300 887512 Shackleton called Antarctica<br />"the last great journey left to man".
+888680 892225 It's the one place left in the world<br />that no one owns.
+892309 894186 It's completely free.
+896146 899524 Me, I'm sort of partial to the penguins.
+902986 906406 I wish you'd reconsider<br />coming with us, Lex.
+906490 910118 Come on, don't make me pull out<br />pictures of my kids again.
+910869 912954 Your kids aren't that cute.
+913038 916208 What if we got pictures<br />of other people's kids?
+917375 919044 Want my advice?
+920712 922380 Stay on the boat.
+923048 926134 OK. Let me ask you something.
+927010 929930 Do we stand a better chance<br />of surviving with you
+930013 932265 or with the number-two choice?
+934601 937312 Miss Woods, your helicopter's refueled.
+937395 939439 They're waiting for you.
+1005589 1007465 Everybody, listen up!
+1008049 1009593 Gather round.
+1011052 1014889 Told you she'd stay.<br />She can't resist my animal magnetism.
+1015181 1017392 Laugh it up, Miller. Laugh it up.
+1017475 1018935 Gentlemen?
+1020895 1024149 It is my job to keep you<br />alive on this expedition,
+1024649 1026943 and I need your help to do that.
+1027027 1028987 Since I don't have time<br />to properly train you,
+1029070 1031406 I'm laying down three rules.
+1031489 1034909 One. No one goes anywhere alone, ever.
+1036119 1037329 Two.
+1038496 1042000 Everyone must maintain<br />constant communication.
+1043168 1046338 Three. Unexpected things<br />are gonna happen.
+1046838 1049799 When they do,<br />no one tries to be a hero.
+1051009 1052427 Understood?
+1054679 1056139 Understood?
+1056389 1058224 - Yes, ma'am.<br />- Good.
+1063772 1067942 Seven seasons on the ice and I've never<br />seen a gun save someone's life.
+1068026 1071154 - I don't plan on using it.<br />- Then why bring it?
+1071738 1074032 Same principle as a condom.
+1074115 1078286 I'd rather have one and not need it<br />than need it and not have one.
+1079496 1081956 I'm glad that you decided to stay.
+1083958 1086378 Move the trucks out on the ice.
+1087170 1089631 Move that. OK, let's move.
+1104020 1106815 - What's with the bottle cap?<br />- What?
+1106898 1109067 What's with the bottle cap?
+1110777 1113738 This is a valuable archaeological find.
+1122122 1126960 When I was a kid growing up in Italy,<br />you know what they call a moon that big?
+1128044 1130255 <i>La luna del cacciatore.</i>
+1134342 1135593 <i>Brava.</i>
+1136177 1138763 - What's that?<br />- Hunter's moon.
+1139973 1141683 Hunter's moon.
+1159743 1161536 Hold it, guys.
+1163621 1166541 - Keep those engines running!<br />- Set it down.
+1168251 1170837 Move over a little further. Connors.
+1190148 1192192 It's an abandoned whaling station.
+1192275 1197155 According to your satellite imagery,<br />the pyramid is located directly beneath it.
+1211586 1214005 All right, bring it up. Come on.
+1215048 1216508 Spread out.
+1217425 1219761 We'll use this place as a base camp.
+1219844 1223097 Mr Quinn, begin drilling operations<br />as soon as you can.
+1223181 1226100 I'm on it. OK, guys, let's move out.
+1270228 1272605 - What are these?<br />- Whale bones.
+1275650 1280113 This station was abandoned in 1904.<br />Everyone just disappeared overnight.
+1280989 1283491 It was a big mystery back then.
+1334375 1336586 One for National Geographic.
+1380672 1384175 - Lex.<br />- No one goes anywhere alone.
+1384676 1387553 There's something there. Listen. Listen.
+1395520 1397355 Careful. They bite.
+1409701 1411577 Over here. Over here.
+1412245 1413705 What is it?
+1415206 1417083 Can you believe that?
+1426259 1429137 It's drilled at a perfect 30-degree angle.
+1430221 1433891 - How far does it go down?<br />- All the way to the pyramid.
+1434726 1438396 There it is. Clear as day.<br />And the same time yesterday...
+1439856 1442066 - Nothing.<br />- How was it done?
+1442859 1445987 - Thermal equipment of some kind.<br />- Like yours?
+1447447 1450575 More advanced. Incredibly powerful.
+1452952 1455496 I've never seen anything like it.
+1455580 1458166 There's no team and no<br />machine in the world
+1458249 1461252 that could cut to this<br />depth in 24 hours.
+1461335 1463546 Well, the only way we're<br />gonna know for sure
+1463629 1466215 is to get down there and find out.
+1489447 1491783 Look at that. Change it. Now!
+1493284 1496954 OK, guys, what's taking so long?<br />There's a storm coming.
+1507256 1510259 There's no room for sick<br />men on this expedition.
+1510343 1512345 My doctors tell me<br />the worst is behind me.
+1512428 1515348 You're not a very good liar,<br />Mr Weyland.
+1515431 1519310 Stay on the ship. We'll update<br />you at the top of every hour.
+1519393 1522105 When you get sick,<br />you think about your life
+1522188 1524148 and how you're gonna be remembered.
+1524232 1528194 You know what will happen when I go?<br />Ten per cent fall in share prices.
+1528277 1530363 Maybe 12. That's it.
+1531489 1533783 I've heard this speech before.
+1534659 1538830 My dad broke his leg 700ft from<br />the summit of Mount Rainier.
+1539455 1542834 He was like you.<br />He wouldn't go back or let us stop.
+1543459 1547338 We reached the top, and he<br />opened a bottle of champagne.
+1549507 1553094 I had my first drink<br />with my dad at 14,400ft.
+1555096 1559600 On the way down, he developed a blood<br />clot in his leg that traveled to his lung.
+1559684 1564021 He suffered for four hours before<br />dying 20 minutes from the base.
+1565565 1569443 You think that's the last thing<br />your dad remembers? The pain?
+1570528 1574365 Or drinking champagne with his<br />daughter 14,000ft in the air?
+1578119 1579579 I need this.
+1588671 1590548 Come on, move.
+1636802 1637929 Shit.
+1642934 1644352 Mr Weyland!
+1644727 1646062 Man down!
+1647063 1649148 Get him! Somebody get him!
+1673547 1674840 Move it!
+1674924 1676133 Now!
+1766932 1771729 I don't understand it. No equipment.<br />No sign of another team.
+1774648 1777234 Well, that tunnel didn't dig itself.
+1779528 1782740 Move it. Connors, get those lights up.
+1783574 1785117 We have power.
+1820778 1823322 Congratulations, Mr Weyland.
+1823406 1826617 Looks like you'll be leaving<br />your mark after all.
+1830371 1832623 Thank you. Thank you.
+1833416 1835376 Thank you all for this.
+1837253 1839088 Let's make history.
+1967258 1968551 Thomas.
+1970594 1972054 What is it?
+1973931 1977518 - I recognize the Egyptian...<br />- The second symbol is Aztec.
+1977601 1980563 Pre-conquest era.<br />The third is Cambodian.
+1981313 1985025 Then you were right.<br />The pyramid contains all three cultures.
+1985109 1991574 - That's what it looks like.<br />- "You may choose to enter."
+1992950 1995202 "Those who choose may enter."
+1995911 1998205 Who taught you to translate?
+1998289 2000583 Funny. Kinda looked like you.
+2002501 2004878 Well, it's not "choose".
+2006130 2007673 It's "chosen".
+2008424 2010884 "Only the chosen ones may enter."
+2031155 2033490 Quinn, is that you out there?
+2079328 2080579 Mikkel.
+2183932 2185642 What is all this?
+2186852 2189229 This is the sacrificial chamber.
+2194318 2196820 Like the Aztecs and the Egyptians.
+2196904 2200449 Whoever built this pyramid<br />believed in ritual sacrifice.
+2202075 2205662 This is where the chosen ones<br />were offered to the gods.
+2215589 2218383 Those that were chosen would lie here.
+2219218 2222054 They weren't bound or tied in any way.
+2222137 2224306 They went to die willingly.
+2224973 2226600 Men and women.
+2228894 2231104 It was considered an honor.
+2232606 2234066 Lucky them.
+2239446 2240656 Oh, God!
+2242533 2248497 It's incredible. The entire skull and<br />spinal column was removed in one piece.
+2249373 2250832 Look at this.
+2251542 2254253 Look at that. The cleanness of the cut.
+2254461 2258006 Straight through the bone.<br />There's no abrasions, nothing.
+2270894 2274064 It's probably just air moving<br />through the tunnels.
+2275691 2276942 Maybe.
+2322446 2324823 Whatever this is,<br />it's been dead a while.
+2324906 2327159 The bones have completely calcified.
+2327242 2331788 No idea how long it's been here,<br />but the temperature's kept it preserved.
+2331872 2334207 Looks like some kind of scorpion.
+2334416 2337252 No. Climate's too hostile for a scorpion.
+2337377 2338879 Ever seen anything like it?
+2350265 2354811 "They gave their lives<br />so the hunt could begin."
+2366073 2367908 What happened here?
+2368325 2371953 It's common in ritual sacrifice<br />to take the heart of the victim.
+2372037 2373497 That's nice.
+2374164 2376750 But that's not where your heart is.
+2378126 2381797 Besides, it looks like the bones<br />were bent straight out.
+2383507 2386009 Something broke out of this body.
+2439521 2443608 - What have you found, Max?<br />- It's a shaft to another level.
+2445402 2448321 Looks like there's another<br />room down there.
+2473221 2477184 - Let's move to that lower room.<br />- We're moving on, everyone.
+2477851 2479603 Ms Woods.
+2481646 2485525 You, stay here. Rousseau, you stay<br />with him. Keep a team with you.
+2485609 2487319 Catalogue everything.
+2488653 2490030 Professor.
+2509674 2513220 This should be directly below<br />the sacrificial chamber.
+2521937 2523396 Sebastian.
+2530487 2532280 It's a sarcophagus.
+2535992 2538078 This is the Long Count.
+2539371 2541540 This is the Aztec calendar.
+2541832 2544876 And this, it's some kind<br />of combination lock.
+2547629 2548880 "Days."
+2550549 2551842 "Months."
+2552509 2553802 "Years."
+2555345 2557347 The dials are set for...
+2562686 2564187 1904.
+2565021 2567524 Someone opened this 100 years ago?
+2568233 2570861 - What's today's date?<br />- October 10.
+2571236 2573613 1 0/1 0/2004.
+2576408 2579661 - Are you sure this is gonna work?<br />- I don't know.
+2594426 2595677 Back up!
+2617490 2620160 Oh, my God. Take a look at this.
+2646186 2648647 - Any idea what these are?<br />- No.
+2649648 2651858 - You?<br />- No.
+2652150 2656321 - It's a good thing we brought the experts.<br />- Well, yeah. It is a good thing.
+2656404 2659532 Cos this is like finding<br />Moses' DVD collection.
+2665622 2666998 Weyland?
+2670043 2672337 A little too much excitement.
+2674381 2676675 We've been out long enough for today.
+2676758 2678677 We'll set up base camp<br />at the whaling station
+2678760 2681262 and get back at it tomorrow morning.
+2681346 2685433 Well, you can go back to the base camp,<br />Ms Woods, but we're staying here.
+2685517 2689354 No. You wanted to leave<br />without proper prep. We did.
+2689437 2694150 You wanted to be the first here. We are.<br />You've claimed the find. It's yours.
+2694985 2698321 Now, we move as a team,<br />and we're done for the day.
+2699364 2700991 You heard her.
+2702283 2705203 - What do you wanna do with these?<br />- Take them.
+2705286 2707122 We'll run further tests on the surface.
+2707205 2709791 No. No! Don't touch them.
+2725390 2727809 - Watch out!<br />- The doors!
+2728768 2730103 The door!
+2750290 2751958 - You OK?<br />- Yeah.
+2752625 2755920 Slab's gotta weigh two tons.<br />We'll never move it.
+2798296 2800965 What did you say this room was called?
+2801966 2803760 Sacrificial chamber.
+2818274 2821152 - Rousseau.<br />- Tommy, come in.
+2821236 2823071 - Come in, Rousseau.<br />- Come in.
+2823154 2827283 - Is there anything you didn't tell me?<br />- Nothing. Your guess is as good as mine.
+2827367 2829619 Whatever it is, we're not prepared.
+2829702 2834499 We're gonna round up the rest of the team<br />and get to the surface. Let's move!
+2837168 2841339 - What are you doing?<br />- My job. Yours is over.
+2841673 2845093 My job is over when everyone<br />is back on the boat safely.
+2845176 2847887 And that gun doesn't change anything.
+2862193 2864821 This bearing should take us<br />back to the entrance.
+2864904 2867115 We'll regroup at the whaling station.
+2867198 2869367 What about Thomas? Rousseau?
+2870076 2872537 - We'll find them on the way up.<br />- Max?
+2872620 2875039 Stone, Verheiden. Cover our backs.
+2875123 2878793 The heat bloom your satellite<br />detected makes more sense now.
+2878877 2880128 What do you mean?
+2880211 2883923 A building this sophisticated<br />requires an energy source.
+2884632 2889304 I think that's what your satellite detected.<br />A power plant for this pyramid firing up.
+2889387 2892515 - Preparing.<br />- Preparing? For what?
+2893057 2894517 Gentlemen?
+2982814 2984273 Keep close.
+2996411 2999455 - Recognize what's on their shoulders?<br />- Yeah.
+3003376 3007088 - We worshiped these things?<br />- According to this, we did.
+3007839 3012677 And the artefacts you removed from<br />the sarcophagus seem to be their weapons.
+3016931 3020601 Let's keep moving.<br />Only another 200 yards to the entrance.
+3041831 3043291 Take cover.
+3044125 3045668 Where's Stone?
+3048921 3050298 Stone!
+3070610 3072820 The pyramid's shifting again.
+3080703 3083081 The doors are closing. Get out.
+3085666 3086918 Come on.
+3087001 3088086 OK. Let's go.
+3088169 3090004 Let's go. Let's go.
+3091506 3093174 Hey! Verheiden!
+3093466 3094842 Verheiden!
+3095343 3096719 Verheiden!
+3098179 3099680 Somebody!
+3100139 3101682 Run! Let's go!
+3102266 3103684 No!
+3103768 3105019 Quickly!
+3106145 3107980 No! No!
+3127375 3129210 I hit that son of a bitch dead on.
+3129293 3131212 It didn't stop, it didn't slow...
+3131295 3133256 - Verheiden.<br />- It didn't even flinch!
+3133339 3135758 - Verheiden!<br />- What?
+3135842 3139345 I am not a soldier, but I think you<br />should calm down now. Really.
+3139428 3141681 We're not dead yet, OK?
+3141764 3144559 Well, thanks, Professor!
+3145977 3150565 Actually, it's Doctor.<br />And you're welcome. OK?
+3150648 3151774 What?
+3168082 3170793 Hey! Can you hear me?
+3174881 3177008 It's Connors! Where are you?
+3213044 3215671 We're never getting out of this place.
+3217131 3219133 Have you got any children?
+3220134 3222511 - Got a son.<br />- Yeah? I've got two.
+3222595 3226015 That means that we do not<br />have the luxury of quitting.
+3226140 3228643 We're gonna make it outta here.
+3229810 3233481 We're surviving this if I have<br />to carry you the whole way.
+3240905 3243115 There's no way out back there.
+3247203 3248829 No damage.
+3252917 3254919 One of our men is dead.
+3264845 3267515 I need to know what this man died for.
+3269141 3271519 He died trying to make history.
+3274814 3277358 Whose? Yours?
+3290663 3292665 - What's that?<br />- Just a theory.
+3293416 3297545 The Aztec calendar was metric.<br />Based on multiples of ten.
+3299005 3302550 I'm guessing the pyramid<br />reconfigures every ten minutes.
+3325573 3327408 Let's stick together.
+3332496 3333789 Weyland.
+3339128 3343799 It would seem that we<br />are rats in a maze.
+3348095 3349346 Sorry.
+3387468 3389512 Connors? Connors!
+3404777 3406987 Verheiden? Verheiden?
+3407321 3410449 - Oh, God.<br />- Dr Miller! Get me outta here!
+3410533 3413994 It's OK. I'm gonna find a way<br />to get down to you. OK?
+3418082 3419250 Verheiden!
+3419333 3420751 No!
+3440980 3444942 You want a piece of me?<br />You ugly son of a bitch!
+3457413 3458706 Oh, God.
+3483772 3484982 Weyland.
+3485065 3487818 <i>- You OK?<br />- Yeah, I'm fine.</i>
+3490613 3493240 Leave it. They can only slow us down.
+3493324 3496577 Too much has been lost<br />to leave here with nothing.
+3499538 3501081 Give it to me.
+3519183 3520476 Max.
+3525439 3526690 Hold on.
+3526774 3528192 Look out!
+3626665 3629126 Come on. We have to get Weyland.
+3636216 3637926 Weyland, come on.
+3797044 3799796 - What were they?<br />- You're the expert.
+3799880 3802424 I've got to stop. I've got to stop.
+3805719 3807804 Take it easy. Weyland.
+3808555 3810307 Look at me.
+3810390 3812976 You have to slow your breathing down.
+3813060 3815187 Slow, steady breaths.
+3821026 3823278 - Weyland, come on.<br />- I can hardly stand.
+3823362 3825697 I'm not gonna let you die down here.
+3825781 3827241 You didn't.
+3828492 3829743 There's another one.
+3829826 3832663 - We have to go. Now!<br />- Weyland.
+3832746 3834998 - Come with us.<br />- Get her outta here.
+3835666 3837376 - Now!<br />- Come on.
+3838293 3839419 Run!
+3868282 3870450 Don't turn your back on me.
+3886466 3888593 - I'm going back.<br />- No, wait!
+3902065 3903817 You can't help him.
+3904693 3908989 We have to go. We keep it together,<br />we'll make it to the surface.
+3909948 3911241 Let's go.
+3912284 3913410 Let's go.
+3918457 3920542 <i>We keep it together, we'll make it...</i>
+3920625 3922919 <i>...keep it together,<br />we'll make it to the surface.</i>
+3923003 3925756 <i>...we'll make it to the surface.</i>
+3928133 3929343 Wait.
+3937768 3939227 This way.
+3945150 3948153 Go! Go!
+4027983 4029568 Look over here.
+4058013 4060765 - He's marking himself.<br />- What?
+4061141 4065353 Ancient warriors would mark themselves<br />with the blood of their kill.
+4065979 4067856 It's a rite of passage.
+4073111 4075405 This is starting to make sense.
+4083330 4086625 I think this is a manhood ritual.
+4088126 4089836 The humanoid ones,
+4090337 4094299 they've been sent here to prove<br />they're worthy to become adults.
+4095759 4100138 You're saying they're, what... teenagers?
+4104726 4108146 That's why they didn't carry<br />those guns to begin with.
+4108230 4110148 They have to earn them.
+4122577 4124955 The hieroglyphs are a little<br />difficult to make out.
+4125038 4127123 But the story is all here.
+4130168 4135840 <i>Thousands of years ago, these<br />hunters found a backwater planet.</i>
+4142639 4147978 <i>They taught humans how to build<br />and were worshiped as gods.</i>
+4152857 4156069 <i>Every hundred years<br />the gods would return.</i>
+4159447 4163451 <i>And when they did,<br />they would expect a sacrifice.</i>
+4164452 4167497 <i>Humans were used to breed<br />the ultimate prey.</i>
+4176673 4180093 <i>The hunters would battle<br />with these great serpents</i>
+4180176 4183513 <i>to prove themselves<br />worthy to carry the mark.</i>
+4200822 4202866 <i>But if the hunters lost,</i>
+4203366 4205785 <i>they made sure nothing survived.</i>
+4210790 4213793 An entire civilization wiped out overnight.
+4217505 4218757 So...
+4219507 4221718 the humanoids, the hunters...
+4223011 4225305 They brought those<br />creatures here to hunt?
+4225388 4227515 And they use us like cattle.
+4228350 4230852 We're hosts for them to breed in.
+4231436 4234647 The heat bloom was the sign<br />to lure us down here.
+4234981 4237192 This whole thing was a trap.
+4238735 4241279 Without us, there could be no hunt.
+4270558 4271726 Shit!
+4272268 4273728 Verheiden!
+4314769 4316104 Oh, shit.
+4321192 4323695 When that door opens, we're dead.
+4324571 4327532 - Not if we set things right.<br />- What do you mean?
+4327615 4330452 This pyramid is like a prison.
+4331870 4335582 We took the guards' guns, and now<br />the prisoners are running free.
+4335665 4338793 To restore order,<br />the guards need their guns.
+4340920 4345300 When that door opens, we're gonna<br />give that thing his gun back.
+4346009 4348261 Are you crazy? During a big-game hunt,
+4348344 4350638 the animals being hunted<br />don't arm the hunters.
+4350722 4354309 They're not hunting us.<br />We're in the middle of a war.
+4354392 4357604 - It's time to pick a side.<br />- We are on our side.
+4359230 4363818 We have to consider the possibility<br />that we might not make it out of here.
+4366154 4370158 But we have to make sure those<br />serpents don't reach the surface.
+4371409 4373203 Because if they do,
+4374245 4376623 everything everywhere could die.
+4380835 4382921 The enemy of my enemy...
+4384005 4385548 is my friend.
+4409030 4411115 Let's go find our friend.
+4421584 4424254 How do you say<br />"scared shitless" in Italian?
+4424337 4429300 <i>Non vedo l'ora di uscire con te da questa<br />piramide perché mi sto cagando addosso.</i>
+4429384 4430885 More or less.
+4453783 4454909 Move!
+4478766 4479934 Lex.
+4482604 4483771 Lex.
+4484272 4485523 Hold on.
+4486107 4487650 Come on, Lex.
+4494198 4495533 Oh, no.
+4610857 4613067 Wait. Wait. Please, wait.
+4617655 4620241 The enemy of my enemy is my friend.
+4622910 4625204 <i>The enemy of my enemy is my friend.</i>
+4746075 4749412 I'm coming with you.<br />You hear me, you ugly creature?
+4803716 4805426 What are you doing?
+4950654 4951989 Miller!
+4961373 4962666 Miller!
+5013551 5014885 Sebastian.
+5015845 5018681 - Help me, Lex.<br />- I'm gonna get you out of there.
+5018764 5022268 - It's too late. It's inside me.<br />- I'm gonna get you outta here.
+5022351 5024103 - You can't...<br />- No!
+5024645 5027731 No. No. No! No!
+5027815 5029608 I have to help him.
+5033237 5034488 Lex!
+5034905 5037283 They mustn't reach the surface.
+5037783 5040119 They mustn't reach the surface.
+5040911 5042163 I know.
+5051380 5052590 Do it!
+5056927 5058762 I'm sorry. I'm sorry.
+5139051 5140552 It's a bomb.
+5141303 5144431 Well, I hope it kills every<br />fucking one of 'em.
+5189435 5192229 You are one ugly mother...
+5520349 5521558 Got it!
