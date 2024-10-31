@@ -1,0 +1,39 @@
+{
+  "imdbId": "tt0078748",
+  "title": "Alien",
+  "releaseDate": "1979-06-22T00:00:00.000Z",
+  "releaseYear": 1979,
+  "posterFileName": "poster.jpg",
+  "rated": "R",
+  "genres": [
+    "Horror",
+    "Sci-Fi"
+  ],
+  "directors": [
+    "Ridley Scott"
+  ],
+  "writers": [
+    "Dan O'Bannon",
+    "Ronald Shusett"
+  ],
+  "actors": [
+    "Sigourney Weaver",
+    "Tom Skerritt",
+    "John Hurt"
+  ],
+  "runTime": 117,
+  "plot": "After investigating a mysterious transmission of unknown origin, the crew of a commercial spacecraft encounters a deadly lifeform.",
+  "subtitleIds": [
+    "f289b031",
+    "6d7a4cb3",
+    "16e58b53",
+    "aa3e4045",
+    "d5dfda37",
+    "cdd1a9ff",
+    "f9e60a94",
+    "16e58b53",
+    "aa3e4045",
+    "a35edbae"
+  ],
+  "isAvailable": true
+}
