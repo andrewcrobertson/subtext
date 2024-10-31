@@ -1,0 +1,55 @@
+0 2120 <font color="red">~</font> <font color="yellow">Rihanna</font> <font color="red">~</font><br /><font color="violet">••</font> <font color="blue">Cheers (Drink To That)</font> <font color="violet">••</font>
+2200 10000 <font color="gray">CROWD</font>: Rihanna, Rihanna, Rihanna.....<br /><font color="violet">(CROWD CHEERING, APPLAUSE)</font>
+13100 15120 - <font color="violet">(FIREWORKS BLOWS)</font><br />- <font color="violet">(CROWD WHOOPING)</font>
+15122 16126 <font color="violet">(RIHANNA LAUGHING)</font>
+21120 23122 <font color="violet">(CROWD CHEERING)</font>
+25120 28122 <font color="violet">(SEA WATER SPLASHING)</font>
+28495 34380 Yeah yeah, yeah yeah, yeah yeah
+34700 37081 Cheers to the freaking weekend
+37216 40239 I drink to that, yeah yeah
+40540 43088 Oh let the Jameson sink in
+43289 46408 I drink to that, yeah yeah
+46609 49813 Don’t let the bastards get you down
+50098 53399 Turn it around with another round
+53577 61650 There’s a party at the bar everybody<br />put your glasses up and I drink to that
+63214 69409 I drink to that
+70230 74999 Life’s too short to be<br />sitting around miserable
+76120 80633 People gonna talk whether<br />you doing bad or good
+80817 81854 Yeah
+82000 85899 Got a drink on my mind<br />and my mind on my money
+86243 87866 Yeah
+88304 93318 Looking so bomb,<br />gonna find me a honey
+93850 98378 Got my Ray-Bans on and<br />I’m feeling hella cool tonight
+98579 100000 Yeah
+100273 104000 Everybody’s vibing so<br />don’t nobody start a fight
+104253 106399 Yeah-ah-ah-ah
+106671 112300 Cheers to the freaking weekend<br />I drink to that, yeah yeah
+112597 118372 Oh let the Jameson sink in<br />I drink to that, yeah yeah
+118669 121999 Don’t let the bastards get you down
+122258 125148 Turn it around with another round
+125476 133536 There’s a party at the bar everybody<br />put your glasses up and I drink to that
+135200 141389 I drink to that
+141900 146958 Bout to hop on the bar,<br />put it all on my card tonight
+147900 152956 Might be mad in the morning<br />but you know we goin' hard tonight
+153800 157999 It's getting coyote ugly up in here, no tyra
+159659 163999 It's only up from here,<br />no downward spiral
+165900 170999 Got my Ray-Bans on and<br />I'm feelin' hella cool tonight
+172385 176669 Everybody's vibin' so<br />don't nobody start a fight
+178794 184583 Cheers to the freakin' weekend<br />I drink to that, yeah yeah
+184751 190405 Oh let the jameson sink in<br />I drink to that, yeah yeah
+190701 194106 Don't let the bastards get ya down
+194300 197099 Turn it around with another round
+197399 205764 There's a party at the bar everybody<br />putcha glasses up and I drink to that
+207300 213563 I drink to that
+214600 220429 <font color="gray">CROWD</font>: Cheers to the freakin' weekend<br />I drink to that, yeah yeah
+220748 226400 <font color="gray">CROWD</font>: Oh let the jameson sink in<br /><font color="gray">RIHANNA</font>: I drink to that, yeah yeah
+226700 230000 Don't let the bastards get ya down
+230278 233040 Turn it around with another round
+233500 240918 There's a party at the bar everybody<br />putcha glasses up and I drink to that
+243300 248499 I drink to that
+248999 253333 And I drink to that
+255211 261000 I drink to that
+261100 265329 And I drink to that
+271128 273129 - <font color="violet">(RIHANNA SHOUTING)</font><br />- <font color="gray">MAN</font>: Hi guys,...
+273130 276132 - <font color="violet">(RIHANNA TALKING)</font><br />- <font color="violet">(MAN LAUGHING)</font>
+277120 281122 <font color="red">IMPROVED BY</font>: <font color="yellow">Fidel33</font>

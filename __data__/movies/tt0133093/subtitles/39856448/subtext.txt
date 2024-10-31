@@ -1,0 +1,1477 @@
+0 30000 <font color="#01b151" face="The Matrix I" size="44>THE</font><br /><font color="#01b151" face="The Matrix I" size="77>MATRIX</font><br /><font color="#019242" face="The Matrix I" size="22">abcdefg 1999 hijklmt</font>
+49200 52620 <i>Is everything in place?<br />- You weren't supposed to relieve me.</i>
+52880 55500 <i>I know, but I felt like taking a shift.</i>
+56040 58660 <i>You like him, don't you? You like watching him.</i>
+58670 61670 <i>Don't be ridiculous.<br />- We're gonna kill him. You understand?</i>
+61930 64420 <i>Morpheus believes he is the One.</i>
+64680 67840 <i>Do you?<br />- It doesn't matter what I believe.</i>
+67850 69470 <i>You don't, do you?</i>
+69730 71800 <i>Did you hear that?<br />- Hear what?</i>
+72060 73640 <i>Are you sure this line is clean?</i>
+73900 75890 <i>Yeah, of course I'm sure.</i>
+76230 77690 <i>I better go.</i>
+115650 117440 Freeze! Police!<br />- Hands on your head!
+117980 119060 Do it! Do it now!
+140460 141960 Lieutenant.
+141970 143080 Oh, shit.
+143930 147130 Lieutenant, you were given specific orders.
+147390 149090 I'm just doing my job.
+149720 154140 You give me that "juris-my-dick-tion" crap, you can cram it up your ass.
+154600 157090 The orders were for your protection.
+158610 160810 I think we can handle one little girl.
+165950 167690 I sent two units!
+167950 169530 They're bringing her down now!
+169790 172900 No, Lieutenant, your men are already dead.
+201980 203060 Shit.
+205700 208310 Morpheus, the line was traced. I don't know how.
+208320 209900 <i>I know. They cut the hard line.</i>
+210160 212320 <i>There's no time. Get to another exit.</i>
+212580 215200 Are there any Agents?<br />- <i>Yes.</i>
+215210 216610 Goddamn it.
+216620 218410 <i>You have to focus, Trinity.</i>
+218420 220790 <i>There's a phone at Wells and Lake.</i>
+221170 222830 <i>You can make it.</i>
+223090 224750 All right.<br />- <i>Go.</i>
+286900 287930 That's impossible.
+322940 324980 Get up, Trinity. Just get up.
+325610 326810 Get up.
+339720 341630 [TELEPHONE RINGING]
+345880 347470 [TELEPHONE RINGING]
+372700 374190 She got out.
+374490 375770 It doesn't matter.
+376040 378110 The informant is real.
+379460 381360 We have the name of their next target.
+381370 383030 The name is Neo.
+386340 387830 We'll need a search running.
+388130 390040 It has already begun.
+399110 404110 [ ♪ MASSIVE ATTACK - "DISSOLVED GIRL" ♪ ]
+444810 446010 What?
+451780 453270 What the hell?
+460910 462870 "Follow the white rabbit."
+474720 475880 Who is it?
+476140 477420 It's Choi.
+482720 484310 Yeah. [SOFTY] Yeah.
+490940 492110 You're two hours late.
+492700 494440 I know. It's her fault.
+494740 496780 You got the money?
+497830 498990 Two grand.
+499870 500980 Hold on.
+518680 520050 Hallelujah.
+520310 523420 You're my savior. My own personal Jesus Christ.
+523430 525550 You get caught using that...
+525560 527680 I know. This never happened. You don't exist.
+528810 530890 Right.<br />- Something wrong, man?
+531150 533190 You look a little whiter than usual.
+534320 536480 My computer, it...
+539490 544040 Ever have that feeling where you're not sure if you're awake or dreaming?
+544830 547580 All the time. It's called mescaline.
+548080 550210 It's the only way to fly.
+551090 553580 It just sounds like you need to unplug, man.
+554340 556380 You know, get some R&R?
+556760 560510 What do you think, Dujour? Should we take him with us?
+562520 563920 Definitely.
+563930 567100 No, I can't. I have work tomorrow.
+567650 568760 Come on.
+569020 571640 It'll be fun. I promise.
+578160 579650 Yeah.
+580490 582450 Sure. I'll go.
+582460 587460 [ ♪ ROB ZOMBIE - "DRAGULA" ♪ ]
+609690 611020 Hello, Neo.
+612570 616070 How do you know that name?<br />- I know a lot about you.
+616950 619020 Who are you?<br />- My name is Trinity.
+619860 621059 Trinity.
+621060 623180 [ ♪ THE PRODIGY - "MINDFIELDS" ♪ ]
+623190 626350 The Trinity? That cracked the IRS D-base?
+626360 628110 That was a long time ago.
+628120 629299 Jesus.
+629300 630490 What?
+630500 632600 I just thought, erm...
+634050 635399 you were a guy.
+635400 636860 Most guys do.
+638130 640340 That was you on my computer.
+640970 642080 How did you do that?
+642720 645430 Right now, all I can tell you...
+646060 647600 is that you're in danger.
+648060 650470 I brought you here to warn you.<br />- Of what?
+651060 652720 They're watching you, Neo.
+653320 655720 Who is?<br />- Please just listen.
+659240 661060 I know why you're here, Neo.
+661870 663820 I know what you've been doing.
+664080 665950 I know why you hardly sleep...
+666250 669360 why you live alone and why, night after night...
+669620 671950 you sit at your computer.
+673130 674670 You're looking for him.
+675460 678460 I know, because I was once looking for the same thing.
+678970 681090 And when he found me...
+681720 684800 he told me I wasn't really looking for him...
+685720 687470 I was looking for an answer.
+688100 691220 It's the question that drives us, Neo.
+691900 694570 It's the question that brought you here.
+696650 698270 You know the question...
+698280 699770 just as I did.
+701320 703190 What is the Matrix?
+703200 705650 The answer is out there, Neo.
+706330 708320 It's looking for you.
+709120 711070 And it will find you...
+711080 713070 if you want it to.
+719540 721080 Oh, shit.
+721090 722210 Oh shit, shit.
+732480 735310 You have a problem with authority, Mr. Anderson.
+735570 737559 You believe that you are special...
+737560 739870 that, somehow, the rules do not apply to you.
+740320 742310 Obviously, you are mistaken.
+745280 748509 This company is one of the top software companies in the world...
+748510 752030 because every single employee understands that they are part of a whole.
+752040 756670 Thus, if an employee has a problem, the company has a problem.
+758920 762130 The time has come to make a choice, Mr. Anderson.
+763010 766880 Either you choose to be at your desk <i>on time</i> from this day forth...
+767510 770090 or you choose to find another job.
+770980 772300 Do I make myself clear?
+772560 774970 Yes, Mr. Rhineheart. Perfectly clear.
+783450 785440 Thomas Anderson?
+786580 787990 Yeah, that's me.
+796000 797160 Great.
+798590 799750 Have a nice day.
+815790 816550 Hello?
+816560 819900 <i>Hello, Neo. Do you know who this is?</i>
+822150 823900 Morpheus.<br />- <i>Yes.</i>
+824160 826150 <i>I've been looking for you.</i>
+826410 829570 <i>I don't know if you're ready to see what I want to show you.</i>
+829830 832990 <i>But unfortunately, you and I have run out of time.</i>
+833250 836950 <i>They're coming for you, Neo, and I don't know what they're going to do.</i>
+837210 838780 Who's coming for me?
+838790 840870 <i>Stand up and see for yourself.</i>
+841130 843920 What? Right now?<br />- <i>Yes.</i>
+844180 845420 <i>Now.</i>
+846300 848180 <i>Do it slowly.</i>
+848600 849790 <i>The elevator.</i>
+854690 856480 Oh, shit!
+861260 862509 What the hell do they want from me?
+862510 866020 <i>I don't know. If you don't want to find out, get out of there.</i>
+866030 867230 How?
+867240 870330 <i>I can guide you, but you must do exactly as I say.</i>
+871200 873190 <i>The cubicle across from you is empty.</i>
+876330 878460 But what if they...<br />- <i>Go. Now.</i>
+885220 887590 <i>Stay here for just a moment.</i>
+894810 897800 <i>When I tell you, go to the end of the row...</i>
+897810 900010 <i>to the office at the end of the hall.</i>
+900020 902400 <i>Stay as low as you can.</i>
+904780 905810 <i>Go. Now.</i>
+920210 923740 <i>Good. Now, outside there is a scaffold.</i>
+926470 928790 How do you know this?<br />- <i>We don't have time.</i>
+929050 931890 <i>To your left there's a window. Go to it.</i>
+934140 935680 <i>Open it.</i>
+936520 938550 <i>Take the scaffold to the roof.</i>
+938560 941140 No way! No way! This is crazy!
+941400 943770 <i>There are two ways out of this building.</i>
+944030 947810 <i>One is that scaffold. The other is in their custody.</i>
+948070 951280 <i>You take a chance either way. I leave it to you.</i>
+954870 956610 This is insane!
+957790 959660 Why is this happening to me?
+959960 961580 What'd I do?
+961960 964710 I'm nobody. I didn't do anything.
+965300 966760 I'm gonna die.
+976560 977590 Shit!
+997870 998990 Oh, shit!
+1003960 1005750 I can't do this.
+1018350 1019430 Shit.
+1068690 1073520 As you can see, we've had our eye on you for some time now, Mr. Anderson.
+1074830 1077730 It seems that you've been living...
+1077740 1079870 two lives.
+1081290 1083780 In one life, you're Thomas A. Anderson...
+1084040 1087380 program writer for a respectable software company.
+1088420 1091710 You have a social security number. You pay your taxes.
+1092180 1093420 And you...
+1095010 1098630 help your landlady carry out her garbage.
+1101140 1104260 The other life is lived in computers...
+1104560 1107520 where you go by the hacker alias "Neo"...
+1107780 1112570 and are guilty of virtually every computer crime we have a law for.
+1113870 1115820 One of these lives...
+1116080 1117900 has a future.
+1118240 1120240 And one of them does not.
+1123960 1127790 I'm going to be as forthcoming as I can be, Mr. Anderson.
+1128800 1130120 You're here...
+1130470 1132710 because we need your help.
+1136350 1139590 We know that you've been contacted by a certain...
+1139600 1141390 individual.
+1142310 1146350 A man who calls himself "Morpheus."
+1147360 1151350 Whatever you think you know about this man is irrelevant.
+1151610 1154020 He is considered by many authorities...
+1154280 1157320 to be the most dangerous man alive.
+1160080 1161280 My colleagues...
+1161710 1164620 believe that I am wasting my time with you.
+1164920 1168330 But I believe you wish to do the right thing.
+1168630 1172130 We're willing to wipe the slate clean...
+1172510 1174630 give you a fresh start.
+1175140 1178050 All we're asking in return is your cooperation...
+1178310 1181800 in bringing a known terrorist to justice.
+1183190 1184430 Yeah.
+1185730 1187810 That sounds like a really good deal.
+1189440 1191180 But I got a better one.
+1191440 1192940 How about...
+1193360 1195350 I give you the finger...
+1197950 1199990 and you give me my phone call.
+1202160 1203990 Mr. Anderson...
+1207960 1209200 you disappoint me.
+1209460 1212080 You can't scare me with this gestapo crap.
+1212340 1213710 I know my rights.
+1213970 1215460 I want my phone call.
+1216050 1218210 Tell me, Mr. Anderson...
+1219100 1220510 what good is a phone call...
+1220770 1224350 if you're unable to speak?
+1258140 1260340 You're going to help us, Mr. Anderson...
+1261060 1263130 whether you want to or not.
+1321450 1324940 <i>This line is tapped, so I must be brief.</i>
+1324950 1329490 <i>They got to you first, but they've underestimated how important you are.</i>
+1329500 1331330 <i>If they knew what I know...</i>
+1331590 1333580 <i>you would probably be dead.</i>
+1334590 1338290 What are you talking about? What is happening to me?
+1338550 1343380 <i>You are the One, Neo. You may have spent the last few years...</i>
+1343640 1346590 <i>looking for me, but I've spent my entire life...</i>
+1346850 1348340 <i>looking for you.</i>
+1349900 1352050 <i>Now, do you still want to meet?</i>
+1353020 1355890 Yes.<br />- <i>Then go to the Adams Street bridge.</i>
+1366120 1367320 Get in.
+1379590 1383210 What's this?<br />- It's necessary, Neo. For our protection.
+1383470 1385630 From what?<br />- From you.
+1387180 1388640 Take off your shirt.
+1388980 1390930 Stop the car.
+1394570 1395970 Listen, coppertop.
+1395980 1397980 We don't have time for 20 Questions.
+1398490 1400860 Right now, there's only one rule:
+1401160 1402480 Our way...
+1402820 1403900 or the highway.
+1410420 1411530 Fine.
+1413420 1415870 Please, Neo, you have to trust me.
+1416460 1419080 Why?<br />- Because you have been down there.
+1419840 1421040 You know that road.
+1422050 1423710 You know exactly where it ends.
+1425890 1428130 And I know that's not where you want to be.
+1442320 1443860 Apoc, lights.
+1446370 1448530 Lie back. Lift up your shirt.
+1450450 1452700 What's that?<br />- You're bugged.
+1460470 1461920 Try and relax.
+1468220 1469390 Come on.
+1470600 1472640 Come on.
+1473270 1475310 It's on the move.
+1476020 1477220 Come on, you shit.
+1479070 1481310 You're gonna lose it.<br />- No, I'm not.
+1481320 1482560 Clear!
+1491160 1493290 Jesus Christ! That thing's real?!
+1527030 1528360 This is it.
+1531700 1534160 Let me give you one piece of advice.
+1535120 1536780 Be honest.
+1538380 1540580 He knows more than you can imagine.
+1549310 1550630 At last.
+1552180 1553260 Welcome, Neo.
+1554480 1556390 As you no doubt have guessed...
+1556650 1557890 I am Morpheus.
+1558940 1560520 It's an honor to meet you.
+1560980 1562010 No...
+1562610 1563890 the honor is mine.
+1564820 1567310 Please, come. Sit.
+1582420 1584050 I imagine...
+1584470 1587220 that right now you're feeling a bit like Alice...
+1588930 1591340 tumbling down the rabbit hole? Hm?
+1592270 1594170 You could say that.
+1594180 1596810 I can see it in your eyes.
+1597400 1600680 You have the look of a man who accepts what he sees...
+1600940 1603180 because he's expecting to wake up.
+1604610 1607230 Ironically, this is not far from the truth.
+1607910 1610400 Do you believe in fate, Neo?
+1610700 1612990 No.<br />- Why not?
+1613250 1616030 I don't like the idea that I'm not in control of my life.
+1617120 1620460 I know exactly what you mean.
+1624760 1627130 Let me tell you why you're here.
+1628180 1629720 You know something.
+1630260 1631890 What you know, you can't explain.
+1632390 1633970 But you feel it.
+1634560 1636470 You felt it your entire life.
+1637260 1638859 That there's something's wrong with the world.
+1638860 1641720 You don't know what, but it's there.
+1641730 1644180 Like a splinter in your mind...
+1644190 1646070 driving you mad.
+1646990 1649740 It is this feeling that has brought you to me.
+1652280 1654110 Do you know what I'm talking about?
+1655950 1657280 The Matrix?
+1659790 1661450 Do you want to know...
+1661920 1663910 what it is?
+1666300 1668170 The Matrix is everywhere.
+1668430 1670130 It is all around us.
+1670390 1672340 Even now, in this very room.
+1673180 1675630 You can see it when you look out your window...
+1675640 1677970 or when you turn on your television.
+1678390 1680930 You can feel it when you go to work...
+1682480 1684140 when you go to church...
+1684570 1686640 when you pay your taxes.
+1687780 1690940 It is the world that has been pulled over your eyes...
+1690950 1692530 to blind you from the truth.
+1694740 1695990 What truth?
+1700250 1702730 That you are a slave, Neo.
+1703290 1706020 Like everyone else, you were born into bondage...
+1706030 1710360 born into a prison that you cannot smell or taste or touch.
+1710800 1712080 A prison...
+1712350 1713810 for your mind.
+1718550 1720470 [MORPHEUS SIGHS]
+1720480 1722800 Unfortunately, no one can be...
+1723150 1725520 told what the Matrix is.
+1728990 1730860 You have to see it for yourself.
+1740370 1742660 This is your last chance.
+1742920 1745240 After this, there is no turning back.
+1745710 1747210 You take the blue pill...
+1747510 1750540 the story ends, you wake up in your bed and believe...
+1750800 1752830 whatever you want to believe.
+1752840 1754170 You take the red pill...
+1754430 1756390 you stay in Wonderland...
+1756890 1759590 and I show you how deep the rabbit hole goes.
+1769490 1770680 Remember...
+1771530 1774570 all I'm offering is the truth. Nothing more.
+1788880 1790210 Follow me.
+1792760 1794420 Apoc, are we on-line?
+1794680 1796050 Almost.
+1799390 1801430 Time is always against us.
+1801810 1803300 Please take a seat there.
+1821500 1823520 You did all this?<br />- Uh-mm.
+1827550 1829540 The pill you took is part of a trace program.
+1830260 1832689 It's designed to disrupts your input/output carrier signal...
+1832690 1834780 so we can pinpoint your location.
+1835260 1836290 What does that mean?
+1836890 1839050 It means buckle your seat belt, Dorothy...
+1839390 1840720 because Kansas...
+1841040 1842069 is going bye-bye.
+1842070 1843600 [THUNDER]
+1879930 1881310 Did you...?
+1892320 1896400 Have you ever had a dream, Neo, that you were so sure was real?
+1897870 1900440 What if you were unable to wake from that dream?
+1900700 1903190 How would you know the difference between the dream world...
+1903830 1905240 and the real world?
+1906880 1909250 This can't be.<br />- Be what?
+1909960 1911460 Be real?
+1915430 1917370 It's going into replication.<br />- Apoc?
+1917380 1920090 Still nothing.<br />- NEO: It's cold.
+1920100 1921470 It's cold!
+1925350 1927010 Tank, we'll need a signal soon.
+1928560 1931180 I got a fibrillation.<br />- Apoc, location.
+1931440 1932900 Targeting almost there.
+1936200 1937850 He's going into arrest.
+1937860 1940360 Lock. I got him!<br />- Now, Tank, now!
+1988000 1989930 Holy shit.
+2069170 2070070 Whoa.
+2117630 2118710 Welcome...
+2119050 2120960 to the real world.
+2122390 2124210 We've done it, Trinity.
+2124470 2126250 We found him.
+2126260 2129050 I hope you're right.<br />- I don't have to hope.
+2129640 2131220 I know it.
+2136400 2137430 Am I dead?
+2137940 2140100 Far from it.
+2154080 2155490 He still needs a lot of work.
+2157040 2158120 What are you doing?
+2158380 2160590 Your muscles atrophied. We're rebuilding them.
+2161170 2162720 Why do my eyes hurt?
+2163430 2165300 You've never used them before.
+2169270 2172020 Rest, Neo. The answers are coming.
+2242890 2244880 [METAL DOOR OPENS]
+2246590 2248170 Morpheus, what's happened to me?
+2248930 2252800 What is this place?<br />- More important than "what" is "when."
+2253520 2256840 When?<br />- You believe it's the year 1999...
+2256850 2259100 when in fact, it's closer to 2199.
+2260230 2262980 I can't tell you exactly what year it is...
+2263240 2264860 because we honestly don't know.
+2265360 2268440 There's nothing I can say that will explain it for you.
+2268450 2269610 Come with me.
+2269910 2271190 See for yourself.
+2271580 2273330 MORPHEUS: This is my ship.
+2273790 2276710 The Nebuchadnezzar. It's a hovercraft.
+2279540 2281290 This is the main deck.
+2287140 2288300 This is the core...
+2290810 2294550 where we broadcast our pirate signal and hack into the Matrix.
+2297940 2301100 Most of my crew you already know.
+2306110 2307520 This is Apoc...
+2308320 2309650 Switch...
+2311240 2312810 and Cypher.<br />- Hi.
+2312820 2316520 The ones you don't know: Tank and his big brother, Dozer.
+2317270 2319680 The little one behind you is Mouse.
+2324170 2327820 You wanted to know... what the Matrix is, Neo?
+2328300 2329500 Trinity.
+2350530 2352110 Try to relax.
+2357000 2358820 This will feel a little weird.
+2370800 2371970 This...
+2372350 2374050 is the Construct.
+2374470 2376840 It's our loading program.
+2376850 2379550 We can load anything, from clothing...
+2379560 2380940 to equipment...
+2381230 2382560 weapons...
+2383190 2385020 training simulations...
+2385400 2387940 anything we need.
+2390740 2393150 Right now we're inside a computer program?
+2393450 2395360 Is it really so hard to believe?
+2395870 2398490 Your clothes are different. The plugs in your arms and head are gone.
+2399710 2401780 Your hair has changed.
+2402170 2405500 Your appearance now is what we call "residual self-image."
+2406210 2408830 It is the mental projection of your digital self.
+2412310 2413080 This...?
+2414890 2416160 This isn't real?
+2416170 2417710 What is "real"?
+2418150 2420390 How do you define "real"?
+2420740 2422800 If you're talking about what you can feel...
+2422810 2425459 what you can smell, what you can taste and see...
+2425460 2429480 then "real" is simply electrical signals interpreted by your brain.
+2433450 2435860 This is the world that you know.
+2437290 2440320 The world as it was at the end of the 20th century.
+2442710 2447040 It exists now only as part of a neural-interactive simulation...
+2447300 2448540 that we call the Matrix.
+2453090 2455930 You've been living in a dream world, Neo.
+2456890 2458000 This is the world...
+2458310 2460100 as it exists today.
+2473110 2476070 Welcome to "the desert...
+2476950 2478530 of the real."
+2481920 2484629 We have only bits and pieces of information.
+2484630 2486220 But what we know for certain...
+2486230 2488520 is that at some point in the early 21st century...
+2488530 2492139 all of mankind was united in celebration.
+2492140 2497719 We marveled at our own magnificence as we gave birth to AI.
+2497720 2498830 AI.
+2499810 2501420 You mean Artificial Intelligence.
+2501430 2505850 A singular consciousness that spawned an entire race of machines.
+2506790 2510650 We don't know who struck first, us or them.
+2510660 2513860 But we know that it was us that scorched the sky.
+2515450 2517959 At the time, they were dependent on solar power...
+2517960 2521660 and it was believed that they would be unable to survive...
+2521670 2525169 without an energy source as abundant as the sun.
+2525170 2530050 Throughout human history, we have been dependent on machines to survive.
+2531630 2535840 Fate, it seems, is not without a sense of irony.
+2539060 2543470 The human body generates more bioelectricity than a 120-volt battery.
+2543730 2547860 And over 25,000 BTUs of body heat.
+2549780 2551930 Combined with a form of fusion...
+2552280 2557110 the machines had found all the energy they would ever need.
+2561160 2564910 There are fields, Neo, endless fields...
+2565170 2568420 where human beings are no longer born.
+2569130 2570950 We are grown.
+2577010 2579580 For the longest time, I wouldn't believe it.
+2579850 2582520 And then I saw the fields with my own eyes...
+2583850 2585720 watched them liquefy the dead...
+2585730 2589060 so they could be fed intravenously to the living.
+2589610 2593850 And standing there, facing the pure, horrifying precision...
+2594110 2597030 I came to realize the obviousness of the truth.
+2599660 2601450 What is the Matrix?
+2602660 2603690 Control.
+2605080 2608450 The Matrix is a computer-generated dream world...
+2609250 2612340 built to keep us under control...
+2613510 2616670 in order to change a human being...
+2617300 2618460 into this.
+2619850 2620960 No.
+2622600 2624180 I don't believe it.
+2624560 2625760 It's not possible.
+2626490 2628670 I didn't say it would be easy, Neo.
+2629960 2631239 I just said it would be the truth.
+2631240 2632820 Stop!
+2633090 2634280 Let me out!
+2634950 2636850 Let me out! I want out!
+2638820 2641730 Easy, Neo. Easy.<br />- Get this thing out of me.
+2641740 2643400 Get this thing out of me!
+2645210 2646700 Don't touch me!
+2646960 2648580 Stay away from me!
+2649000 2650490 I don't believe it.
+2651210 2652410 I don't believe it.
+2652670 2654410 I don't believe it.
+2654420 2657920 He's gonna pop.<br />- Breathe, Neo. Just breathe.
+2676320 2678110 I can't go back, can I?
+2678700 2680020 No.
+2681200 2682400 But if you could...
+2683240 2684740 would you really want to?
+2687410 2689340 I feel I owe you an apology.
+2689350 2690720 We have a rule.
+2691150 2694660 We never free a mind once it's reached a certain age.
+2694670 2697960 It's dangerous. The mind has trouble letting go.
+2698220 2700510 I've seen it before, and I'm sorry.
+2701550 2703630 I did what I did because...
+2704350 2705810 I had to.
+2714230 2718310 When the Matrix was first built, there was a man born inside...
+2718820 2722610 who had the ability to change whatever he wanted...
+2722990 2725910 to remake the Matrix as he saw fit.
+2727660 2731120 It was he who freed the first of us...
+2732000 2733630 taught us the truth.
+2735090 2738170 As long as the Matrix exists...
+2738510 2740580 the human race will never be free.
+2744810 2746350 After he died...
+2747100 2749800 the Oracle prophesied his return...
+2750350 2753560 and that his coming would hail the destruction of the Matrix...
+2753820 2755480 end the war...
+2755820 2757010 bring freedom to our people.
+2758400 2763030 That is why there are those of us who<br />spent our lives searching the Matrix...
+2763370 2764940 looking for him.
+2767370 2769450 I did what I did because...
+2771080 2773210 I believe that search is over.
+2778300 2779710 Get some rest.
+2780340 2782130 You're going to need it.
+2784890 2786840 For what?
+2788980 2790140 Your training.
+2808450 2810160 Morning. Did you sleep?
+2811040 2812240 You will tonight.
+2812630 2814170 I guarantee it.
+2815670 2817580 I'm Tank. I'll be your operator.
+2818050 2820450 You don't have any...<br />- Holes? Nope.
+2821380 2826090 Me and my brother, Dozer, are 100% pure, old-fashioned, homegrown human.
+2826350 2827540 Born free right here...
+2828100 2829670 in the real world.
+2829680 2831340 Genuine child of Zion.
+2832190 2834640 Zion?<br />- If the war was over tomorrow...
+2834900 2836310 Zion's where the party would be.
+2836820 2838100 It's a city?
+2838360 2841530 The last human city. The only place we have left.
+2843110 2844360 Where is it?
+2845740 2847360 Deep underground...
+2847370 2849530 near the Earth's core, where it's still warm.
+2851160 2853040 You live long enough, you might see it.
+2855290 2856880 Goddamn! I...
+2857370 2860570 I gotta tell you, I'm fairly excited to see what you're capable of...
+2860580 2862320 if Morpheus is right and all.
+2862630 2865380 We're not supposed to talk about this, but...
+2865640 2867050 if you are...
+2868140 2870130 it's a very exciting time.
+2871180 2873890 We got a lot to do. We gotta get to it.
+2876380 2877150 Now...
+2877930 2881250 We're supposed to start with these operation programs first.
+2881740 2885190 That's major boring <i>shit</i>. Let's do something more fun.
+2885530 2887030 How about...
+2888580 2890320 combat training?
+2896380 2897830 "Ju Jitsu"?
+2898710 2900370 I'm going to learn Ju Jitsu?
+2911730 2912920 Holy shit!
+2913180 2915510 "Hey, Mikey, I think he likes it."
+2915850 2917130 How about some more?
+2917400 2918680 Hell, yes.
+2920690 2921810 Hell, yeah.
+2933910 2935320 How is he?
+2935330 2937540 Ten hours straight. He's a machine.
+2948720 2950100 I know Kung Fu.
+2951760 2952800 Show me.
+2954560 2956300 This is a sparring program...
+2956560 2959350 similar to the programmed reality of the Matrix.
+2959610 2962299 It has the same basic rules. Rules like gravity.
+2962300 2966290 What you must learn is that these rules are no<br />different than the rules of a computer system.
+2966300 2967900 Some of them can be bent.
+2967910 2970360 Others can be broken.
+2970740 2971990 Understand?
+2973290 2975820 Then hit me, if you can.
+3014700 3015870 Good!
+3016620 3017790 Adaptation.
+3018080 3019280 Improvisation.
+3019580 3020910 But your weakness...
+3021170 3022580 is not your technique.
+3022590 3027590 [ ♪ LUNATIC CALM - "LEAVE YOU FAR BEHIND ♪ ]
+3029510 3031590 Morpheus is fighting Neo.
+3103880 3105040 How did I beat you?
+3111640 3112710 You're too fast.
+3113260 3114590 Do you believe that...
+3114970 3117460 my being stronger or faster...
+3117720 3121390 has anything to do with my muscles in this place?
+3125440 3127230 You think you're breathing air?
+3140750 3141950 Again!
+3153430 3155830 Jesus Christ, he's fast!
+3156100 3158300 His neuro-kinetics are way above normal.
+3163770 3165470 What are you waiting for?
+3165480 3167440 You're faster than this.
+3169650 3172100 Don't think you are.
+3172110 3173770 Know you are.
+3184170 3187000 Come on! Stop trying to hit me, and hit me!
+3196890 3198630 I don't believe it.
+3200180 3202310 I know what you're trying to do.
+3203980 3206140 I'm trying to free your mind, Neo.
+3206480 3208560 But I can only show you the door.
+3209150 3211020 You have to walk through it.
+3213360 3215490 Tank, load the jump program.
+3227090 3229790 You have to let it all go, Neo. Fear...
+3230340 3232500 doubt and disbelief.
+3233680 3236380 Free your mind.
+3244546 3245746 Whoa.
+3252570 3254280 Okey-dokey.
+3256370 3257530 Free my mind.
+3257990 3259110 What if he makes it?
+3259370 3262070 No one's ever made their first jump.<br />- I know.
+3263410 3265870 But what if he does?<br />- He won't.
+3266370 3267780 Come on.
+3267790 3268960 All right.
+3269420 3271460 No problem. Free my mind.
+3272260 3275040 Free my mind. No problem. Right.
+3294450 3296100 What does that mean?
+3296490 3298320 It doesn't mean anything.
+3298910 3301480 Everybody falls the first time.
+3301950 3303230 Right, Trin?
+3323930 3326550 I thought it wasn't real.<br />- Your mind makes it real.
+3329810 3332220 If you're killed in the Matrix...
+3332230 3333260 you die here?
+3333900 3336360 The body cannot live without the mind.
+3366850 3370220 I don't remember you ever bringing me dinner.
+3373320 3376150 There is something about him, isn't there?
+3376780 3378670 Don't tell me you're a believer now?
+3379410 3382610 I just keep wondering, if Morpheus is so sure...
+3382870 3384940 why doesn't he take him to see the Oracle?
+3385450 3388370 Morpheus will take him when he's ready.
+3393300 3398299 [ ♪ ROB DOUGAN - "CLUBBED TO DEATH" ♪ ]
+3398300 3399850 The Matrix is a system, Neo.
+3401470 3403329 That system is our enemy.
+3403330 3406019 But when you're inside, and look around, what do you see?
+3406020 3409810 Businessmen, teachers, lawyers, carpenters.
+3410230 3412800 The very minds of the people we are trying to save.
+3413070 3416020 But until we do, these people are a part of that system...
+3416280 3419560 and that makes them our enemy. You have to understand...
+3419820 3423400 most of these people are not ready to be unplugged.
+3423410 3425230 And many of them are so inert...
+3425240 3427650 so hopelessly dependent on the system...
+3427910 3430620 that they will fight to protect it.
+3432130 3435870 Were you listening to me or looking at the woman in the red dress?
+3436760 3437790 Look again.
+3439050 3440130 Freeze it.
+3444660 3445430 This?
+3446770 3448390 This isn't the Matrix?
+3450190 3454020 It's another training program designed to teach you one thing:
+3454650 3457060 If you are not one of us, you are one of them.
+3457610 3460400 What are they?<br />- Sentient programs.
+3461160 3465450 They can move in and out of any software still hardwired to their system.
+3465830 3469190 That means that anyone we haven't unplugged...
+3469540 3470870 is potentially an Agent.
+3471830 3473660 Inside the Matrix...
+3474250 3475960 they are everyone...
+3476300 3478000 and they are no one.
+3478260 3481620 We have survived by hiding and running from them...
+3481630 3483260 but they are the gatekeepers.
+3483580 3486239 They're guarding all the doors and holding all the keys.
+3486240 3489970 Which means, sooner or later, someone is going to have to fight them.
+3489980 3491260 Someone?
+3491270 3492680 I won't lie to you, Neo.
+3493150 3497970 Every single man or woman who has stood their ground, <i>everyone</i> who has fought an Agent has died.
+3498230 3500990 But where they have failed, you will succeed.
+3501400 3502100 Why?
+3502110 3504650 I've seen an Agent punch through a concrete wall.
+3504660 3508240 Men have emptied entire clips at them and hit nothing but air.
+3508500 3513279 Yet their strength and speed are still<br />based in a world that is built on rules.
+3513280 3514740 Because of that...
+3514750 3518120 they will never be as strong or as fast as you can be.
+3522430 3524300 What are you telling me?
+3525010 3526470 That I can dodge bullets?
+3528470 3529850 No, Neo.
+3530350 3533270 I'm trying to tell you that when you're ready...
+3534150 3535520 you won't have to.
+3536900 3538220 [MOBILE RINGING]
+3540400 3541430 TANK: <i>We got trouble.</i>
+3559750 3562210 Did Zion send the warning?<br />- No, another ship.
+3565470 3566750 Shit.
+3567010 3570090 Squiddy's sweeping in quick.<br />- Squiddy?
+3570100 3573300 A sentinel. A killing machine designed for one thing.
+3573560 3574760 Search and destroy.
+3576100 3577270 Set her down there.
+3599090 3601210 How are we doing, Tank?
+3608760 3609930 Power off-line.
+3610430 3612590 EMP armed...
+3612600 3614470 and ready.<br />- EMP?
+3614770 3616640 Electro-Magnetic Pulse.
+3616900 3620010 Disables any electrical system in the blast radius.
+3620020 3622230 It's the only weapon we have against the machines.
+3628030 3631150 Where are we?<br />- Their old service and waste systems.
+3632500 3633740 Sewers.
+3633750 3636450 There used to be cities that spanned hundreds of miles.
+3636960 3638870 Now these sewers are all that's left.
+3639130 3640450 Quiet.
+3681130 3683250 Whoa! Neo!
+3684450 3686460 You scared the bejesus out of me.
+3687660 3689570 Sorry.<br />- It's okay.
+3692430 3695100 Is that...?<br />- The Matrix?
+3695560 3696610 Yeah.
+3698270 3701680 Do you always look at it encoded?<br />- Well, you have to.
+3701690 3704770 The image translators work for the construct program.
+3705030 3708440 But there's way too much information to decode the Matrix.
+3708700 3711650 You get used to it. I don't even see the code.
+3711910 3715320 All I see is blonde, brunette, redhead.
+3716500 3717870 Do you...
+3718170 3719240 want a drink?
+3719500 3720530 Sure.
+3724090 3725550 You know...
+3726470 3728250 I know what you're thinking.
+3728260 3730380 Because right now I'm thinking the same thing.
+3730680 3734010 Actually, I've been thinking it ever since I got here.
+3735930 3738930 Why, oh, why didn't I take the blue pill?
+3751320 3753230 Good shit, huh?
+3753580 3754770 Dozer makes it.
+3755240 3756650 It's good for two things:
+3756660 3759750 Degreasing engines and killing brain cells.
+3760750 3762960 So can I ask you something?
+3765960 3767590 Did he tell you why he did it?
+3770220 3772040 Why you're here?
+3775720 3777470 Jesus!
+3778680 3780590 What a mind job.
+3782020 3784810 So you're here to save the world.
+3786320 3788390 What do you say to something like that?
+3793580 3794950 A little piece of advice.
+3796750 3798160 You see an Agent...
+3798500 3800780 you do what we do:
+3801120 3802670 Run.
+3803000 3804740 You run your ass off.
+3812010 3813720 Thanks for the drink.
+3818430 3819600 Sweet dreams.
+3823610 3827020 SMITH: Do we have a deal, Mr. Reagan?
+3827690 3828810 You know...
+3830240 3832690 I know this steak doesn't exist.
+3833700 3836690 I know that when I put it in my mouth...
+3836700 3839790 the Matrix is telling my brain that it is...
+3840080 3841190 juicy...
+3841500 3843210 and delicious.
+3846130 3847370 After nine years...
+3848420 3849960 you know what I realize?
+3857810 3859000 Ignorance is bliss.
+3864060 3865890 Then we have a deal.
+3868400 3870310 I don't want to remember nothing.
+3870570 3873110 Nothing. You understand?
+3877160 3878950 And I want to be rich.
+3880290 3882990 You know, someone important.
+3884500 3885610 Like an actor.
+3886840 3889960 Whatever you want, Mr. Reagan.
+3892130 3893670 Okay.
+3894050 3896460 You get my body back in a power plant...
+3896850 3898590 reinsert me into the Matrix...
+3898930 3900340 I'll get you what you want.
+3900600 3902590 Access codes to the Zion mainframe.
+3902850 3905010 No. I told you, I don't know them.
+3907980 3909970 I can get you the man who does.
+3910730 3912530 Morpheus.
+3922620 3926070 Here you go, buddy. Breakfast of champions.
+3927420 3930450 Close your eyes, it feels like you're eating runny eggs.
+3930460 3932660 Or a bowl of snot.
+3932670 3934250 You know what it reminds me of?
+3936090 3938420 Tastee Wheat. Did you ever eat Tastee Wheat?
+3939060 3940760 No, but technically, neither did you.
+3941020 3943050 That's exactly my point. Exactly.
+3943310 3944680 Because you have to wonder...
+3944940 3948430 how do the machines really know what Tastee Wheat tasted like?
+3948440 3949850 Maybe they got it wrong.
+3950110 3953310 Maybe what I think Tastee Wheat tasted like actually tasted like...
+3953610 3955600 oatmeal or tuna fish.
+3955990 3958820 That makes you wonder. Take chicken, for example.
+3959080 3961070 Maybe they didn't know what to make it taste like...
+3961330 3963610 which is why it tastes like everything.
+3963620 3965410 And maybe they...<br />- Shut up.
+3967040 3968740 It's a single-celled protein...
+3968750 3971790 combined with synthetic aminos, vitamins and minerals.
+3972050 3973290 Everything the body needs.
+3973550 3976420 It doesn't have everything the body needs.
+3979180 3982260 I understand you've run through the Agent training program.
+3983370 3985410 You know, I wrote that program.
+3985800 3987079 Here it comes.
+3987080 3989030 What did you think of her?<br />- Of who?
+3989520 3992560 The woman in the red dress. I designed her.
+3992900 3995650 She doesn't talk very much...
+3995910 3999850 but if you'd like to meet her, I can arrange a more personal milieu.
+4000120 4001929 The digital pimp hard at work.
+4001930 4004180 Pay no attention to these hypocrites, Neo.
+4005290 4007360 To deny our own impulses...
+4007370 4010750 is to deny the very thing that makes us human.
+4012540 4013920 Dozer, when you're done...
+4014180 4015590 bring the ship up to broadcast depth.
+4016180 4017500 We're going in.
+4018180 4019590 I'm taking Neo to see her.
+4024220 4025250 See who?
+4025810 4026959 The Oracle.
+4026960 4031960 [ ♪ MEAT BEAT MANIFESTO - "PRIME AUDIO SOUP" ♪ ]
+4032570 4034110 Everyone, please observe...
+4034440 4037650 the "fasten seat belt" and "no smoking" signs have been turned on.
+4037660 4041020 Sit back and enjoy your flight.
+4058160 4060390 [TELEPHONE RINGING]
+4065350 4066380 We're in.
+4082120 4083230 We'll be back in an hour.
+4098050 4099460 Unbelievable...
+4100300 4101630 isn't it?
+4105220 4107050 God!<br />- What?
+4107730 4109100 I used to eat there.
+4111360 4112980 Really good noodles.
+4117780 4120270 I have these memories from my life.
+4122740 4124400 None of them happened.
+4125040 4126360 What does that mean?
+4126620 4128830 That the Matrix cannot tell you who you are.
+4129750 4130950 But an oracle can?
+4131420 4132610 That's different.
+4137380 4139540 Did you go to her?
+4140130 4141300 Yes.
+4141800 4143180 What did she tell you?
+4146430 4147930 She told me...
+4148980 4150140 What?
+4153940 4155270 We're here.
+4155750 4157940 Neo, come with me.
+4177920 4180580 So is this the same oracle that made...
+4180590 4181750 the prophecy?
+4182010 4186340 Yes. She's very old. She's been with us since the beginning.
+4186810 4188800 The beginning?<br />- Of the Resistance.
+4191060 4193430 And she knows what? Everything?
+4195480 4197390 She would say she knows enough.
+4198530 4200320 And she's never wrong.
+4202530 4205700 Try not to think of it in terms of right and wrong.
+4206030 4207610 She is a guide, Neo.
+4207990 4209870 She can help you to find the path.
+4210460 4211620 She helped you?
+4214130 4215450 What did she tell you?
+4217920 4220130 That I would find the One.
+4233270 4235390 I told you I can only show you the door.
+4236110 4238180 You have to walk through it.
+4241990 4243310 Hello, Neo.
+4243320 4244980 You're right on time.
+4252910 4256700 Make yourself at home, Morpheus. Neo, come with me.
+4262380 4263960 These are the other Potentials.
+4264220 4265760 You can wait here.
+4306590 4309130 Do not try and bend the spoon.
+4309510 4311640 That's impossible.
+4312470 4316470 Instead, only try to realize the truth.
+4317020 4318640 What truth?
+4318650 4320310 There is no spoon.
+4322900 4324230 There is no spoon?
+4324490 4328980 Then you'll see that it is not the spoon that bends. It is only yourself.
+4345010 4346500 The Oracle will you see now.
+4357190 4358730 I know you're Neo.
+4359360 4360520 Be right with you.
+4361570 4363940 You're the Oracle?<br />- Bingo.
+4366650 4369520 Not quite what you were expecting, right?
+4370580 4372730 Almost done.
+4375440 4377470 Smell good, don't they?
+4378710 4379480 Yeah.
+4379740 4381620 I'd ask you to sit down...
+4381630 4384000 but you're not going to anyway.
+4384590 4387460 And don't worry about the vase.<br />- What vase?
+4390600 4391760 That vase.
+4392720 4393750 I'm sorry.
+4394020 4395890 I said, don't worry about it.
+4397060 4399020 I'll get one of my kids to fix it.
+4399780 4400769 How did you know?
+4400770 4402890 Ohh...
+4402900 4406680 What's really going to bake your noodle later on is...
+4407030 4409980 would you still have broken it if I hadn't said anything?
+4414790 4416700 You're cuter than I thought.
+4419750 4421990 I can see why she likes you.
+4422880 4424200 Who?
+4424210 4426040 Not too bright, though.
+4429340 4432430 You know why Morpheus brought you to see me.
+4434560 4435720 So...
+4436680 4438060 what do you think?
+4439900 4441640 Do you think you are the One?
+4443760 4445190 Honestly, I don't know.
+4448070 4449480 You know what that means?
+4450320 4451490 It's Latin.
+4451870 4454070 Means, "Know thyself."
+4455820 4458060 I'm gonna let you in on a little secret.
+4459750 4463580 Being the One is just like being in love.
+4464300 4467410 No one can tell you you're in love. You just know it...
+4467420 4468540 through and through.
+4468880 4471330 Balls to bones.
+4473470 4475350 Well...
+4476270 4478340 I'd better have a look at you.
+4479690 4481180 Open your mouth. Say, "Ah."
+4495580 4497240 Okay...
+4497870 4502830 Now I'm supposed to say, "Hmm, that's interesting, but..."
+4503330 4504450 Then you say:
+4505040 4506320 But what?
+4506590 4510540 But you already know what I'm going to tell you.
+4511970 4514920 I'm not the One.<br />- Sorry, kid.
+4516560 4518550 You got the gift...
+4519560 4521770 but it looks like you're waiting for something.
+4526650 4530600 What?<br />- Your next life, maybe. Who knows?
+4531200 4533440 That's the way these things go.
+4534320 4536900 What's funny?<br />- Morpheus.
+4537710 4538600 He, uh...
+4540370 4542320 He almost had me convinced.
+4542330 4543450 I know.
+4545000 4547120 Poor Morpheus.
+4549510 4552630 Without him, we're lost.
+4554180 4556340 What do you mean, "without him"?
+4560350 4562260 Are you sure you want to hear this?
+4564480 4567230 Morpheus believes in you, Neo.
+4568940 4571100 And no one, not you, not even me...
+4571360 4573600 can convince him otherwise.
+4573990 4576360 He believes it so blindly...
+4576660 4580990 that he's going to sacrifice his life to save yours.
+4581250 4585200 What?<br />- You're going to have to make a choice.
+4585830 4589420 In the one hand, you'll have Morpheus' life.
+4589920 4592790 And in the other hand, you'll have your own.
+4594220 4596510 One of you is going to die.
+4598600 4601880 Which one will be up to you.
+4603270 4605180 I'm sorry, kiddo. I really am.
+4605440 4607100 You have a good soul.
+4608190 4610890 And I hate giving good people bad news.
+4614030 4615730 Don't worry about it.
+4615740 4618150 As soon as you step outside that door...
+4618410 4620530 you'll start feeling better.
+4621250 4625030 You'll remember you don't believe in any of this fate crap.
+4625880 4628630 You're in control of your own life.
+4629460 4630740 Remember?
+4632630 4634290 Here...
+4635510 4637050 take a cookie.
+4637600 4640930 I promise, by the time you're done eating it...
+4641890 4644260 you'll feel right as rain.
+4653490 4654810 What was said...
+4655450 4656910 was for you...
+4657450 4659280 and for you alone.
+4682220 4683340 They're on the way.
+4713130 4714160 What is that?
+4728940 4730880 Oh, déjà vu.
+4733860 4735080 What did you just say?
+4735090 4737170 Nothing. Just had a little déjà vu.
+4737180 4738800 What did you see?<br />- What happened?
+4739990 4742150 A black cat went past us...
+4742630 4744350 then another that looked just like it.
+4744360 4746230 How much like it? Was it the same cat?
+4747140 4748700 Might have been, I'm not sure.
+4748710 4749900 Switch, Apoc.
+4754430 4757139 What is it?<br />- A déjà vu is usually a glitch in the Matrix...
+4757140 4759039 It happens when they change something.
+4759040 4760350 [SWITCH COCKS GUN]
+4762760 4763790 Oh, my God.
+4765640 4767720 Let's go.
+4771860 4773600 They cut the hard line. It's a trap! Get out!
+4779150 4780350 Oh, no.
+4781820 4782860 TANK: Oh, no.
+4793420 4794680 [YELLS]
+4820190 4821859 Ohh, that's what they changed.
+4821860 4823499 We're trapped. There's no way out.
+4823500 4825569 Be calm. Give me your phone.
+4825570 4827330 They'll be able to track it.
+4827340 4828750 We have no choice.
+4830120 4831709 Operator.<br />- MORPEUS: <i>Tank...</i>
+4831710 4834550 <i>find a structural drawing of this building. Find it fast.</i>
+4842340 4844920 Got it!<br />- <i>I need the main wet-wall.</i>
+4847930 4849220 8th floor.
+4849230 4850800 They're on the 8th floor.
+4851100 4852560 Switch, straight ahead.
+4853400 4854460 Neo...
+4860610 4862770 I hope the Oracle gave you some good news.
+4871040 4872530 Now left. That's it.
+4872830 4873860 Good.
+4883590 4884870 Where are they?
+4945320 4946490 They're in the walls.
+4947950 4949110 In the walls!
+4970520 4972220 It's an Agent!
+4974930 4976180 [YELLS]
+4979360 4981140 Morpheus!
+4981150 4984320 You must get Neo out! He's all that matters!
+4984610 4985810 No, Morpheus! Don't!
+4986070 4987770 Trinity, go!
+4987780 4989160 Go!
+4995370 4997280 We can't leave him!<br />- We have to!
+5021860 5024170 Cypher... come on!
+5028320 5032160 The great Morpheus. We meet at last.
+5032700 5033820 And you are?
+5034080 5035820 A Smith.
+5036080 5037360 Agent Smith.
+5037960 5040000 You all look the same to me.
+5095640 5096920 Take him.
+5103690 5104730 No!
+5110160 5112430 Operator.<br />- CYPHER: <i>Yeah, I need an exit, fast.</i>
+5112440 5114070 <i>Cypher?</i><br />- Yeah...
+5114080 5116990 There was an accident. Goddamn car accident.
+5117330 5119360 <i>All of a sudden, boom.</i>
+5119370 5120990 Somebody up there still likes me.
+5121000 5122250 I got you.
+5122750 5124660 <i>Just get me out of here fast.</i>
+5124920 5127830 Nearest exit, Franklin and Erie. An old TV repair shop.
+5127840 5128870 Right.
+5132010 5133590 Operator.<br />- TRINITY: <i>Tank, it's me.</i>
+5133850 5135010 Is Morpheus alive?
+5135390 5136670 Is Morpheus alive, Tank?
+5137100 5139220 <i>Yes. They're moving him. I don't know where to yet.</i>
+5139230 5142680 He's alive. We need an exit.<br />- You're not far from Cypher.
+5142940 5144510 <i>Cypher?</i><br />- I know.
+5144520 5146600 I sent him to Franklin and Erie.<br />- Got it.
+5155700 5156900 Got him.
+5167840 5168870 Where are they?
+5169130 5170380 Making the call.
+5171050 5172210 Good.
+5173110 5175070 [TELEPHONE RINGING]
+5183900 5185849 [RINGING]
+5185850 5187550 You first, Neo.
+5189780 5191020 Shit!
+5194470 5195600 Tank.
+5196260 5197359 No!
+5197360 5198530 [YELLS]
+5199710 5201860 I don't know. It just went dead.
+5228690 5230050 CYPHER: <i>Hello, Trinity.</i>
+5230410 5232000 Cypher? Where's Tank?
+5237240 5238270 You know...
+5240000 5242120 for a long time...
+5243330 5246250 I thought I was in love with you.
+5247000 5249040 <i>I used to dream about you.</i>
+5250130 5253080 You're a beautiful woman, Trinity.
+5253090 5255460 <i>Too bad things had to turn out this way.</i>
+5255970 5257050 You killed them.
+5257560 5259050 What?<br />- Oh, God.
+5259310 5260720 I'm tired, Trinity.
+5262140 5264020 I'm tired of this war...
+5264310 5267150 tired of fighting. I'm tired of this ship...
+5267480 5272110 of being cold, of eating the same goddamn goop every day.
+5274410 5275440 But most of all...
+5276030 5279400 <i>I'm tired of that jackoff and all of his bullshit.</i>
+5280540 5281820 Surprise, asshole!
+5282370 5284820 I bet you never saw this coming...
+5284830 5285860 did you?
+5288170 5290540 God, I wish I could be there...
+5291130 5292630 when they break you.
+5293680 5296840 I wish I could walk in just when it happens...
+5297550 5299500 so right then...
+5299510 5300840 you'd know it was me.
+5301270 5304220 You gave them Morpheus.<br />- <i>He lied to us, Trinity.</i>
+5304810 5306310 He tricked us!
+5306860 5308850 If you had told us the truth...
+5309110 5311980 we would've told you to shove that red pill up your ass!
+5312240 5315520 That is not true, Cypher. He set us free.<br />- <i>"Free"?</i>
+5315780 5317490 You call this free?
+5319910 5322400 All I do is what he tells me to do.
+5324000 5326910 If I had to choose between that and the Matrix...
+5328090 5329280 I choose the Matrix.
+5329540 5331200 The Matrix isn't real.
+5331460 5332870 <i>I disagree, Trinity.</i>
+5333130 5335370 I think the Matrix...
+5335720 5338290 can be more real than this world.
+5340470 5342960 All I do is pull the plug here.
+5343230 5344550 But there...
+5345100 5347390 <i>you have to watch Apoc die.</i>
+5348940 5350060 Trinity
+5352010 5352780 No!
+5355150 5357409 <i>Welcome to the real world, huh, baby.</i>
+5357410 5358360 But you're out, Cypher.
+5358370 5361130 <i>You can't go back.</i><br />- Oh no, that's what you think.
+5361140 5362780 <i>They'll reinsert my body.</i>
+5362790 5364059 <i>I go back to sleep.</i>
+5364060 5366660 <i>And when I wake up, I won't remember a goddamn thing.</i>
+5366670 5367950 By the way...
+5367960 5370880 if you have anything terribly important to say to Switch...
+5371380 5374120 <i>I suggest you say it now.</i><br />- Oh no, please don't.
+5374130 5375760 Not like this.
+5377470 5379090 Not like this.
+5383560 5384590 Too late.
+5385060 5386880 Goddamn you, Cypher!
+5386890 5388770 Don't hate me, Trinity.
+5389150 5391020 I'm just a messenger.
+5391440 5394610 And right now, I'm going to prove it to you.
+5395700 5397350 If Morpheus was right...
+5397910 5399780 there's no way I can pull this plug.
+5400370 5402360 <i>I mean, if Neo is the One...</i>
+5402370 5404370 <i>then there'd have to be some kind...</i>
+5404380 5406960 of a miracle... to stop me.
+5407540 5409030 Right?
+5409040 5412570 I mean, how can he be the One... if he's dead?
+5413760 5416000 <i>You never did answer me before...</i>
+5416300 5418620 <i>if you bought into Morpheus ' bullshit.</i>
+5419010 5419949 <i>Come on.</i>
+5419950 5422210 All I want is a little yes or no.
+5423600 5425920 Look into his eyes...
+5426690 5428180 <i>those big, pretty eyes...</i>
+5430940 5432270 and tell me...
+5432980 5434260 <i>yes...</i>
+5434570 5435940 <i>or no.</i>
+5437240 5438349 Yes.
+5438350 5439279 <i>No!</i>
+5439280 5440500 I don't believe it.
+5441820 5446440 Believe it or not, you piece of shit, you're still gonna burn!
+5450260 5451090 Pugh!
+5453570 5455740 [TELEPHONE RINGING]
+5457370 5459610 [RINGING]
+5461230 5462730 [RING]
+5464680 5465930 You first.
+5473980 5475010 You're hurt.
+5475360 5476440 I'll be all right.
+5479240 5480400 Dozer?
+5498670 5501050 SMITH: Have you ever stood and stared at it?
+5501930 5505050 Marveled at its beauty...
+5505430 5507670 its genius?
+5508850 5510970 Billions of people...
+5510980 5513730 just living out their lives.
+5514770 5516430 Oblivious.
+5521030 5523900 Did you know that the first Matrix...
+5524160 5528870 was designed to be a perfect human world where none suffered...
+5529330 5532250 where everyone would be happy.
+5532790 5534530 It was a disaster.
+5534540 5538870 No one would accept the program. Entire crops were lost.
+5539760 5541500 Some believe that...
+5541760 5546330 we lacked the programming language to describe your perfect world.
+5546340 5549510 But I believe that, as a species...
+5549520 5553590 human beings define their reality through misery...
+5553600 5555220 and suffering.
+5555230 5557579 So the perfect world was a dream...
+5557580 5562820 that your primitive cerebrum kept trying to wake up from.
+5564370 5568030 Which is why the Matrix was redesigned to this.
+5568500 5571660 The peak of your civilization.
+5571920 5574160 I say, "your civilization"...
+5574420 5578790 because as soon as we started thinking for you,<br />it really became our civilization...
+5578800 5582410 which is, of course, what this is all about.
+5583220 5585790 Evolution, Morpheus.
+5586100 5587420 Evolution.
+5589720 5591600 Like the dinosaur.
+5593770 5595390 Look out that window.
+5596110 5598230 You had your time.
+5598940 5602860 The future is our world, Morpheus.
+5603200 5605570 The future is our time.
+5605710 5606720 [DOOR OPENS]
+5609890 5611140 There could be a problem.
+5611970 5613550 NEO: What are they doing to him?
+5613830 5615510 They're breaking into his mind.
+5615540 5617860 It's like hacking a computer. All it takes is time.
+5617960 5619280 How much time?
+5619420 5622670 Depends on the mind. But eventually, it'll crack...
+5622800 5625699 and his alpha patterns will change from this...
+5625700 5626950 to this.
+5627550 5630670 When it does, Morpheus will tell them anything they want to know.
+5630680 5631710 What do they want?
+5631980 5636260 The leader of every ship is given codes to Zion's mainframe computer.
+5636270 5639430 If an Agent got the codes and got into Zion's mainframe...
+5639440 5642409 they could destroy us. We can't let that happen.
+5642410 5643350 Trinity...
+5643360 5645150 Zion's more important than me...
+5645160 5646520 or you...
+5646530 5647730 or even Morpheus.
+5651540 5653600 Well, there has to be something we can do.
+5653620 5655610 There is. We pull the plug.
+5658710 5660450 You're going to kill him?
+5660710 5661880 Kill Morpheus?
+5662750 5664370 We don't have any other choice.
+5669720 5670490 [GROANS]
+5670930 5674090 Never send a human to do a machine's job.
+5674390 5676129 If indeed the insider has failed...
+5676130 5679650 they'll sever the connection as soon as possible, unless...
+5679670 5681520 They're dead. In either case...
+5681530 5685310 We have no choice. Continue as planned. Deploy the sentinels.
+5685320 5686400 Immediately.
+5691660 5694330 Morpheus, you were more than a leader to us.
+5695290 5697500 You were... a father.
+5699040 5701000 We'll miss you always.
+5707760 5709090 Stop!
+5710300 5711760 I don't believe this is happening.
+5711960 5713990 Neo, this has to be done.<br />- Does it?
+5714600 5715980 I don't know. I...
+5716310 5718050 This can't be just coincidence.
+5718060 5720220 What are you talking about?<br />- The Oracle.
+5720480 5722270 She told me this would happen.
+5722690 5723880 She told me...
+5725150 5727180 that I would have to make a choice.
+5727320 5728570 What choice?
+5731530 5734030 What... What are you doing?<br />- I'm going in.
+5734370 5735680 No, you're not.
+5736310 5737100 I have to.
+5737110 5740720 Neo, Morpheus sacrificed himself so that we could get you out.
+5740790 5742700 There is no way that you're going back in.
+5743300 5746550 Morpheus did what he did because he believed I'm something I'm not.
+5748180 5751430 What?<br />- I'm not the One, Trinity.
+5751810 5754760 The Oracle hit me with that too.<br />- No, you have to be.
+5755020 5757690 I'm sorry, I'm not. I'm just another guy.
+5758350 5759600 No, Neo, that's not true.
+5760190 5761520 It can't be true.
+5761860 5763980 Why?
+5766530 5768399 Neo, this is loco.
+5768400 5771020 They've got Morpheus in a military-controlled building.
+5771030 5774390 Even <i>if</i> you somehow got inside, those are Agents holding him.
+5774710 5775690 Three of them.
+5776680 5780589 I want Morpheus back too, but what you're talking about is suicide.
+5780590 5783700 I know that's what it looks like... but it's not.
+5783710 5786080 I can't explain to you why it's not.
+5787170 5788820 Morpheus believed something...
+5789160 5791209 and he was ready to give his life for what he believed.
+5791210 5792920 I understand that now.
+5793340 5794619 That's why I have to go.
+5794620 5795549 Why?
+5795550 5797100 Because I believe in something.
+5797370 5798540 What?
+5799440 5801370 I believe I can bring him back.
+5818410 5820460 What are you doing?<br />- Going with you.
+5820650 5822820 No, you're not.<br />- "No"?
+5823680 5825630 Let me tell you what I believe.
+5826130 5828710 I believe Morpheus means more to me than he does to you.
+5828910 5832740 I believe if you are really serious about<br />saving him, you're going to need my help.
+5833390 5835740 And since I am the ranking officer on this ship...
+5835750 5838790 if you don't like it, I believe you can go to hell.
+5839450 5841720 Because you aren't going anywhere else.
+5842150 5843850 Tank...
+5843860 5845020 load us up.
+5854620 5857900 I'd like to share a revelation that I've had...
+5858330 5860110 during my time here.
+5860120 5864120 It came to me when I tried to classify your species...
+5864380 5866870 and I realized that...
+5866880 5869170 you're not actually mammals.
+5871380 5873840 Every mammal on this planet...
+5874300 5879340 instinctively develops a natural equilibrium<br />with the surrounding environment.
+5879350 5881180 But you humans do not.
+5881730 5885260 You move to an area and you multiply...
+5885520 5890020 and multiply until every natural resource is consumed.
+5890360 5892440 The only way you can survive...
+5892740 5895690 is to spread to another area.
+5901120 5904360 There is another organism on this planet, that...
+5904370 5906330 follows the same pattern.
+5906840 5908500 Do you know what it is?
+5908880 5910710 A virus.
+5912050 5915090 Human beings are a disease.
+5915470 5917250 A cancer of this planet.
+5917260 5919390 You are a plague.
+5919930 5922890 And we are the cure.
+5923900 5925310 Okay, so what do you need?
+5925940 5927050 Besides a miracle.
+5927650 5928850 Guns.
+5929570 5930900 Lots of guns.
+5941050 5941890 Neo...
+5943750 5946290 No one has ever done anything like this.
+5947500 5949410 That's why it's going to work.
+5953510 5955470 Why isn't the serum working?
+5956050 5958340 Perhaps we're asking the wrong questions.
+5960430 5961680 Leave me with him.
+5964270 5965380 Now.
+5976620 5978190 Hold on, Morpheus.
+5978450 5981160 They're coming for you. They're coming.
+5983540 5985660 Can you hear me, Morpheus?
+5985920 5988590 I'm going to be honest...
+5988960 5990160 with you.
+5994550 5995960 I...
+5996720 5997960 hate...
+5998220 6000180 this place...
+6000520 6002800 this... zoo...
+6003060 6004170 this prison...
+6004440 6008050 this reality, whatever you want to call it.
+6008060 6010340 I can't stand it any longer.
+6010900 6012770 It's the smell.
+6014150 6016030 If there is such a thing.
+6016360 6019650 I feel saturated by it.
+6021160 6023570 I can taste...
+6024410 6026450 your stink.
+6026710 6030700 And every time I do, I fear that I have somehow been infected by it.
+6030710 6032500 It's repulsive.
+6032510 6033880 Isn't it?
+6036050 6038340 I must get out of here.
+6038760 6041210 I must get free.
+6041220 6044090 And in this mind is the key.
+6044350 6046010 My key.
+6046270 6049140 Once Zion is destroyed, there is no need for me to be here.
+6049400 6051020 Do you understand?
+6051320 6052930 I need the codes.
+6052940 6055270 I have to get inside Zion...
+6055610 6058100 and you have to tell me how.
+6058530 6060650 You're going to tell me...
+6060660 6062820 or you're going to die.
+6083020 6087060 Please remove any metallic items you're carrying. Keys, loose change.
+6090060 6091090 Holy shit!
+6103200 6105910 Backup. Send backup.
+6129800 6131370 Freeze!
+6133700 6138700 [ ♪ PROPELLERHEADS - "SPYBREAK" ♪ ]
+6255290 6256550 [ELEVATOR BELL]
+6265910 6268030 What were you doing?
+6268740 6270020 He doesn't know.
+6270290 6271780 Know what?
+6299860 6302350 I think they're trying to save him.
+6317210 6318950 There is no spoon.
+6348580 6350730 Find them and destroy them!
+6352370 6354240 I repeat. We're under attack!
+6386370 6387470 Trinity!
+6388390 6389240 Help!
+6411100 6412300 Only human.
+6413390 6415270 Dodge this.
+6427570 6429110 How did you do that?<br />- Do what?
+6429490 6433400 You moved like they do. I've never seen anyone move that fast.
+6434540 6435910 It wasn't fast enough.
+6438670 6439950 Can you fly that thing?
+6441290 6443090 Not yet.
+6445770 6449520 Operator.<br />- <i>Tank, I need a pilot program for a B-212 helicopter.</i>
+6450260 6451540 <i>Hurry.</i>
+6459480 6461100 Let's go.
+6476200 6477280 No.
+6528880 6531500 Morpheus, get up. Get up, get up.
+6569550 6571290 He's not going to make it.
+6580390 6581420 Got you.
+6690340 6691750 I knew it.
+6692260 6693580 He's the One.
+6709570 6711770 Do you believe it now, Trinity?
+6714720 6715770 Morpheus...
+6717700 6719050 The Oracle.
+6719830 6722020 She told me...<br />- She told you...
+6722580 6724360 exactly what you needed to hear.
+6724460 6725780 That's all.
+6726830 6729930 Neo, sooner or later you're going to realize, just as I did...
+6730280 6732570 there's a difference between knowing the path...
+6733170 6734650 and walking the path.
+6737510 6739190 Operator.<br />- MORPHEUS: <i>Tank...</i>
+6739640 6742519 Goddamn, it's good to hear your voice, sir.<br />- <i>We need an exit.</i>
+6742520 6745430 Got one ready. Subway station, State and Balboa.
+6757660 6759230 Damn it!
+6759490 6760690 The trace was completed.
+6760950 6764530 We have their position.<br />- Sentinels are standing by.
+6766250 6767739 Order the strike.
+6767740 6770050 [SIRENS IN THE BACKGROUND]
+6774300 6776340 They're not out yet.
+6777150 6779590 [TELEPHONE RINGING]
+6783170 6785250 [RINGING]
+6787480 6788810 You first, Morpheus.
+6789180 6790140 [RING]
+6809500 6811790 Neo, I want to tell you something...
+6815050 6819000 but I'm afraid of what it could mean if I do.
+6819170 6821390 [RINGING]
+6822600 6827410 Everything the Oracle told me has come true.<br />- [RINGING]
+6828650 6830190 Everything, but this.
+6831100 6832720 [RINGING]<br />- But what?
+6837170 6839230 [RINGING]
+6843260 6844370 [RINGING]
+6850020 6850790 [RING]
+6858090 6858860 Neo.
+6859050 6860840 What the hell just happened?<br />- An Agent.
+6860850 6862900 You have to send me back.<br />- I can't.
+6864890 6866880 Mr. Anderson.
+6869060 6870440 Run, Neo. Run.
+6875730 6877600 What is he doing?
+6877610 6878860 He's beginning to believe.
+6905850 6907220 You're empty.
+6907810 6909090 So are you.
+6942260 6945260 I'm going to enjoy watching you die...
+6946390 6947420 Mr. Anderson.
+6988390 6990470 Jesus, he's killing him.
+7076650 7078770 You hear that, Mr. Anderson?
+7079520 7082520 That is the sound of inevitability.
+7085110 7088450 It is the sound of your death.
+7089370 7091690 Goodbye, Mr. Anderson.
+7091950 7093580 My name...
+7096580 7098620 is Neo.
+7130870 7132990 What happened?<br />- I don't know. I lost him.
+7133140 7135150 [ALARM BLARING]
+7135580 7136930 Holy shit.
+7149010 7150470 Sentinels.
+7151220 7153460 How long?<br />- 5, maybe 6 minutes.
+7155520 7157680 Tank, charge the EMP.
+7157940 7161300 We can't use that until he's out.<br />- I know, Trinity. Don't worry.
+7162060 7163470 He's gonna make it.
+7163480 7165600 Flat or pumps? No, just...
+7165610 7168480 What the shit? That's my phone!
+7168910 7170480 That guy took my phone!
+7173140 7175020 Got him! He's on the run.
+7175350 7176570 NEO: <i>Mr. Wizard...</i>
+7176710 7178320 get me the hell outta here!
+7178330 7179409 <i>I got a patch on an old exit.</i>
+7179410 7180620 Wabash and Lake.
+7184250 7185910 Oh, shit!
+7206740 7208730 Help! Need a little help!
+7210360 7211560 <i>The door.</i>
+7227550 7229040 <i>The door on your left.</i>
+7229970 7231210 <i>Your other left!</i>
+7237930 7239180 <i>The back door.</i>
+7259960 7261070 Oh, no.
+7262750 7264240 Here they come.
+7293030 7294280 He's going to make it.
+7304500 7307620 <i>The fire escape at the end of the alley, room 303.</i>
+7342540 7343820 They're inside.
+7346080 7347200 Hurry, Neo.
+7350460 7352210 [TELEPHONE RINGING]
+7355540 7357290 [RINGING]
+7359410 7361420 [MUFFLED GUNSHOT]
+7369440 7371570 [RINGING]
+7376040 7377450 [RINGING]
+7392070 7393670 [RINGING]
+7398240 7400070 [FLATLINE]
+7403270 7404550 It can't be.
+7412360 7413730 Check him.
+7417740 7419280 He's gone.
+7426000 7428410 Goodbye, Mr. Anderson.
+7436330 7437290 Neo...
+7438510 7440470 I'm not afraid anymore.
+7441980 7446190 The Oracle told me that I'd fall in love with that man.
+7447210 7449480 The man that I love would be the One.
+7452150 7454110 So you see...
+7454820 7456810 you can't be dead.
+7458410 7460230 You can't be...
+7461790 7463940 because I love you.
+7465790 7467500 You hear me?
+7468630 7470290 I love you.
+7494230 7495310 Now, get up.
+7504080 7505160 No.
+7531650 7532930 How?
+7533820 7534850 He is the One.
+7621820 7622990 Neo!
+7624990 7626360 [RINGING]
+7634350 7635750 Now!
+7673160 7674559 [TELEPHONE RINGING]
+7674560 7676560 [BEEPING]
+7677200 7678610 [RINGING]
+7679340 7681290 NEO: <i>I know you're out there.</i>
+7681300 7683120 <i>I can feel you now.</i>
+7683550 7685580 <i>I know that you're afraid.</i>
+7685590 7687170 <i>You're afraid of us.</i>
+7687510 7689340 <i>You're afraid of change.</i>
+7690560 7692050 <i>I don't know the future.</i>
+7692310 7694880 <i>I didn't come here to tell you how this is going to end.</i>
+7695150 7698100 <i>I came here to tell you how it's going to begin.</i>
+7699070 7700640 <i>I'm gonna hang up this phone.</i>
+7700900 7704230 <i>And then I'm gonna show these people what you don't want them to see.</i>
+7704240 7706110 <i>I'm going to show them a world...</i>
+7706370 7708110 <i>without you.</i>
+7708410 7712030 <i>A world without rules and controls, without borders or boundaries.</i>
+7712290 7715990 <i>A world where anything is possible.</i>
+7718630 7720200 <i>Where we go from there...</i>
+7720210 7722170 is a choice I leave to you.
+7726330 7731330 [ ♪ RAGE AGAINST THE MACHINE - "WAKE UP" ♪ ]
+7764970 8178677 <font color="#c8b281" face="The Matrix I" size="155">#</font><font color="#ff0000" face="The Matrix I" size="155">$</font><font color="#c8b281" face="The Matrix I" size="155">%</font><font color="#286dfd" face="The Matrix I" size="155">&</font>
+7764970 7766170 {\an8}<font face="The Matrix I" size="17">♪ COME ON! ♪</font>
+7774770 7778029 {\an8}<font face="The Matrix I" size="17">♪ COME ON, ALTHOUGH YA TRY TO DISCREDIT ♪</font>
+7778030 7779469 {\an8}<font face="The Matrix I" size="17">♪ YA STILL NEVER EDIT ♪</font>
+7779470 7781060 {\an8}<font face="The Matrix I" size="17">♪ THE NEEDLE, I’LL THREAD IT ♪</font>
+7781070 7782319 {\an8}<font face="The Matrix I" size="17">♪ RADICALLY POETIC ♪</font>
+7782320 7785539 {\an8}<font face="The Matrix I" size="17">♪ STANDIN’ WITH THE FURY THAT THEY HAD IN ’66 ♪</font>
+7785540 7786959 {\an8}<font face="The Matrix I" size="17">♪ AND LIKE E-DOUBLE I’M MAD ♪</font>
+7786960 7789259 {\an8}<font face="The Matrix I" size="17">♪ STILL KNEE-DEEP IN THE SYSTEM’S SHIT ♪</font>
+7789260 7791400 {\an8}<font face="The Matrix I" size="17">♪ HOOVER, HE WAS A BODY REMOVER ♪</font>
+7791410 7792659 {\an8}<font face="The Matrix I" size="17">♪ I’LL GIVE YA A DOSE ♪</font>
+7792660 7794079 {\an8}<font face="The Matrix I" size="17">♪ BUT IT’LL NEVER COME CLOSE ♪</font>
+7794080 7796940 {\an8}<font face="The Matrix I" size="17">♪ TO THE RAGE BUILT UP INSIDE OF ME ♪</font>
+7797460 7800259 {\an8}<font face="The Matrix I" size="17">♪ FIST IN THE AIR, IN THE LAND OF HYPOCRISY ♪</font>
+7800260 7802729 {\an8}<font face="The Matrix I" size="17">♪ MOVEMENTS COME AND MOVEMENTS GO ♪</font>
+7802730 7804149 {\an8}<font face="The Matrix I" size="17">♪ LEADERS SPEAK, MOVEMENTS CEASE ♪</font>
+7804150 7805570 {\an8}<font face="The Matrix I" size="17">♪ WHEN THEIR HEADS ARE FLOWN ♪</font>
+7806030 7806959 {\an8}<font face="The Matrix I" size="17">♪ ‘CAUSE ALL THESE PUNKS ♪</font>
+7806960 7808500 {\an8}<font face="The Matrix I" size="17">♪ GOT BULLETS IN THEIR HEADS ♪</font>
+7808510 7811559 {\an8}<font face="The Matrix I" size="17">♪ DEPARTMENTS OF POLICE ♪<br />♪ THE JUDGES, THE FEDS ♪</font>
+7811560 7813889 {\an8}<font face="The Matrix I" size="17">♪ NETWORKS AT WORK, KEEPIN’ PEOPLE CALM ♪</font>
+7813890 7815469 {\an8}<font face="The Matrix I" size="17">♪ YOU KNOW THEY WENT AFTER KING ♪</font>
+7815470 7817210 {\an8}<font face="The Matrix I" size="17">♪ WHEN HE SPOKE OUT ON VIETNAM ♪</font>
+7817400 7819680 {\an8}<font face="The Matrix I" size="17">♪ HE TURNED THE POWER TO THE HAVE-NOTS ♪</font>
+7820550 7822480 {\an8}<font face="The Matrix I" size="17">♪ AND THEN CAME THE SHOT ♪</font>
+7843800 7844770 {\an8}<font face="The Matrix I" size="17">♪ YEAH! ♪</font>
+7848600 7859600 {\an8}<font face="The Matrix I" size="17">♪ WAKE UP! WAKE UP! WAKE UP! WAKE UP! ♪</font>
+7860100 7863330 {\an8}<font face="The Matrix I" size="17">♪ WAKE UP! ♪</font>
+7875340 7881190 {\an8}<font face="The Matrix I" size="17">♪ HOW LONG? NOT LONG ♪<br />♪ CAUSE WHAT YOU REAP IS WHAT YOU SOW ♪</font>
+7884090 7889090 {\an8}<font face="The Matrix I" size="17">[ ♪ MARILYN MANSON - "ROCK IS DEAD" ♪ ]</font>
+7898380 7901930 {\an8}<font face="The Matrix I" size="17">♪ ALL SIMPLE MONKEYS WITH ALIEN BABIES ♪</font>
+7901940 7905529 {\an8}<font face="The Matrix I" size="17">♪ AMPHETAMINES FOR BOYS ♪<br />♪ CRUCIFIXES FOR LADIES ♪</font>
+7905530 7908889 {\an8}<font face="The Matrix I" size="17">♪ SAMPLED AND SOULLESS ♪<br />♪ WORLDWIDE AND REAL WEBBED ♪</font>
+7908890 7912440 {\an8}<font face="The Matrix I" size="17">♪ YOU SELL ALL THE LIVING ♪<br />♪ FOR MORE SAFER DEAD ♪</font>
+7912450 7916020 {\an8}<font face="The Matrix I" size="17">♪ ANYTHING TO BELONG ♪</font>
+7916740 7919719 {\an8}<font face="The Matrix I" size="17">♪ ANYTHING TO BELONG ♪</font>
+7919720 7923159 {\an8}<font face="The Matrix I" size="17">♪ ROCK IS DEADER THAN DEAD ♪</font>
+7923160 7926449 {\an8}<font face="The Matrix I" size="17">♪ SHOCK IS ALL IN YOUR HEAD ♪</font>
+7926450 7930199 {\an8}<font face="The Matrix I" size="17">♪ YOUR SEX AND YOUR DOPE ♪<br />♪ IS ALL THAT WE'RE FED ♪</font>
+7930200 7934470 {\an8}<font face="The Matrix I" size="17">♪ SO FUCK ALL YOUR PROTESTS ♪<br />♪ AND PUT THEM TO BED ♪</font>
+7937460 7941080 {\an8}<font face="The Matrix I" size="17">♪ GOD IS IN THE TV ♪</font>
+7941090 7944689 {\an8}<font face="The Matrix I" size="17">♪ ROCK! LA, LA, LA, LA, LA, LA ♪</font>
+7944690 7948099 {\an8}<font face="The Matrix I" size="17">♪ ROCK! LA, LA, LA, LA, LA ♪</font>
+7948100 7951809 {\an8}<font face="The Matrix I" size="17">♪ ROCK! LA, LA, LA, LA, LA, LA ♪</font>
+7951810 7955490 {\an8}<font face="The Matrix I" size="17">♪ ROCK! LA, LA, LA, LA, LA ♪</font>
+7962350 7965869 {\an8}<font face="The Matrix I" size="17">♪ ONE THOUSAND MOTHERS ARE PRAYING FOR IT ♪</font>
+7965870 7969419 {\an8}<font face="The Matrix I" size="17">♪ WE'RE SO FULL OF HOPE AND SO FULL OF SHIT ♪</font>
+7969420 7973169 {\an8}<font face="The Matrix I" size="17">♪ BUILD A NEW GOD TO MEDICATE AND TO APE ♪</font>
+7973170 7977929 {\an8}<font face="The Matrix I" size="17">♪ SELL US ERSATZ DRESSED UP AND REAL FAKE ♪</font>
+7977930 7980090 {\an8}<font face="The Matrix I" size="17">♪ ANYTHING TO BELONG ♪</font>
+7980900 7983590 {\an8}<font face="The Matrix I" size="17">♪ ANYTHING TO BELONG ♪</font>
+7983820 7987249 {\an8}<font face="The Matrix I" size="17">♪ ROCK IS DEADER THAN DEAD ♪</font>
+7987250 7990699 {\an8}<font face="The Matrix I" size="17">♪ SHOCK IS ALL IN YOUR HEAD ♪</font>
+7990700 7994099 {\an8}<font face="The Matrix I" size="17">♪ YOUR SEX AND YOUR DOPE ♪<br />♪ IS ALL THAT WE'RE FED ♪</font>
+7994100 7998620 {\an8}<font face="The Matrix I" size="17">♪ SO FUCK ALL YOUR PROTESTS ♪<br />♪ AND PUT THEM TO BED ♪</font>
+8001570 8005079 {\an8}<font face="The Matrix I" size="17">♪ GOD IS IN THE TV ♪</font>
+8005080 8008769 {\an8}<font face="The Matrix I" size="17">♪ ROCK! LA, LA, LA, LA, LA, LA ♪</font>
+8008770 8011930 {\an8}<font face="The Matrix I" size="17">♪ ROCK! LA, LA, LA, LA, LA ♪</font>
+8012260 8015759 {\an8}<font face="The Matrix I" size="17">♪ ROCK! LA, LA, LA, LA, LA, LA ♪</font>
+8015760 8019300 {\an8}<font face="The Matrix I" size="17">♪ ROCK! LA, LA, LA, LA, LA ♪</font>
+8020380 8023050 {\an8}<font face="The Matrix I" size="17">♪ LA, LA, LA, LA, LA ♪</font>
+8023920 8027000 {\an8}<font face="The Matrix I" size="17">♪ LA, LA, LA, LA, LA, LA ♪</font>
+8027510 8030630 {\an8}<font face="The Matrix I" size="17">♪ LA, LA, LA, LA, LA ♪</font>
+8031050 8033880 {\an8}<font face="The Matrix I" size="17">♪ LA, LA, LA, LA, LA, LA ♪</font>
+8040820 8044289 {\an8}<font face="The Matrix I" size="17">♪ ROCK IS DEADER THAN DEAD ♪</font>
+8044290 8047829 {\an8}<font face="The Matrix I" size="17">♪ SHOCK IS ALL IN YOUR HEAD ♪</font>
+8047830 8051279 {\an8}<font face="The Matrix I" size="17">♪ YOUR SEX AND YOUR DOPE ♪<br />♪ IS ALL THAT WE'RE FED ♪</font>
+8051280 8054929 {\an8}<font face="The Matrix I" size="17">♪ SO FUCK ALL YOUR PROTESTS ♪<br />♪ AND PUT THEM TO BED ♪</font>
+8054930 8058629 {\an8}<font face="The Matrix I" size="17">♪ ROCK (ROCK) IS DEADER THAN DEAD ♪</font>
+8058630 8061979 {\an8}<font face="The Matrix I" size="17">♪ SHOCK (SHOCK) IS ALL IN YOUR HEAD ♪</font>
+8061980 8065559 {\an8}<font face="The Matrix I" size="17">♪ YOUR SEX AND YOUR DOPE ♪<br />♪ IS ALL THAT WE'RE FED ♪</font>
+8065560 8069550 {\an8}<font face="The Matrix I" size="17">♪ SO FUCK ALL YOUR PROTESTS ♪<br />♪ AND PUT THEM TO BED ♪</font>
