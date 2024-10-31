@@ -1,0 +1,42 @@
+{
+  "imdbId": "tt10838180",
+  "title": "The Matrix Resurrections",
+  "releaseDate": "2021-12-22T00:00:00.000Z",
+  "releaseYear": 2021,
+  "posterFileName": "poster.jpg",
+  "rated": "R",
+  "genres": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "directors": [
+    "Lana Wachowski"
+  ],
+  "writers": [
+    "Lana Wachowski",
+    "David Mitchell",
+    "Aleksandar Hemon"
+  ],
+  "actors": [
+    "Keanu Reeves",
+    "Carrie-Anne Moss",
+    "Yahya Abdul-Mateen II"
+  ],
+  "runTime": 148,
+  "plot": "Return to a world of two realities: one, everyday life; the other, what lies behind it. To find out if his reality is a construct, to truly know himself, Mr. Anderson will have to choose to follow the white rabbit once more.",
+  "subtitleIds": [
+    "65d270ea",
+    "767ed895",
+    "c8525855",
+    "f60e455d",
+    "b7159324",
+    "7a852f94",
+    "c2599a81",
+    "b5973338",
+    "673417f",
+    "1a477cf",
+    "8d68254f",
+    "a01be39c"
+  ],
+  "isAvailable": true
+}
