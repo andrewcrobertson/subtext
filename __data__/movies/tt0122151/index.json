@@ -1,0 +1,42 @@
+{
+  "imdbId": "tt0122151",
+  "title": "Lethal Weapon 4",
+  "releaseDate": "1998-07-10T00:00:00.000Z",
+  "releaseYear": 1998,
+  "posterFileName": "poster.jpg",
+  "rated": "R",
+  "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "directors": [
+    "Richard Donner"
+  ],
+  "writers": [
+    "Shane Black",
+    "Jonathan Lemkin",
+    "Alfred Gough"
+  ],
+  "actors": [
+    "Mel Gibson",
+    "Danny Glover",
+    "Joe Pesci"
+  ],
+  "runTime": 127,
+  "plot": "With personal crises and age weighing in on them, LAPD officers Riggs and Murtaugh must contend with deadly Chinese triads that are trying to free their former leaders out of prison and onto American soil.",
+  "subtitleIds": [
+    "261082d0",
+    "31efe2de",
+    "b5161ee6",
+    "6e710900",
+    "60a3f4ce",
+    "31efe2de",
+    "f9bae7b6",
+    "46eefd6a",
+    "8816319d",
+    "ab205d3a",
+    "881d133b"
+  ],
+  "isAvailable": true
+}
