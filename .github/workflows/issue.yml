@@ -41,7 +41,7 @@ jobs:
         run: pnpm run process-new-issue -i ${{ github.event.issue.number }}
 
       - name: Pull
-        run: git pull origin main --rebase
+        run: git pull origin main
 
       - name: Commit
         uses: stefanzweifel/git-auto-commit-action@v5
