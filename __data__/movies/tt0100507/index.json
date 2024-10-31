@@ -1,0 +1,36 @@
+{
+  "imdbId": "tt0100507",
+  "title": "Rocky V",
+  "releaseDate": "1990-11-16T00:00:00.000Z",
+  "releaseYear": 1990,
+  "posterFileName": "poster.jpg",
+  "rated": "PG-13",
+  "genres": [
+    "Drama",
+    "Sport"
+  ],
+  "directors": [
+    "John G. Avildsen"
+  ],
+  "writers": [
+    "Sylvester Stallone"
+  ],
+  "actors": [
+    "Sylvester Stallone",
+    "Talia Shire",
+    "Burt Young"
+  ],
+  "runTime": 104,
+  "plot": "Reluctantly retired from fighting, Rocky takes charge of Mickey's gym and agrees to train a young protégé who's hungry for success.",
+  "subtitleIds": [
+    "35dc5435",
+    "d521b6fb",
+    "ec142999",
+    "d1777b96",
+    "868df772",
+    "88ab5134",
+    "ec142999",
+    "f48349dc"
+  ],
+  "isAvailable": true
+}

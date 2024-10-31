@@ -1,0 +1,42 @@
+{
+  "imdbId": "tt0084602",
+  "title": "Rocky III",
+  "releaseDate": "1982-05-28T00:00:00.000Z",
+  "releaseYear": 1982,
+  "posterFileName": "poster.jpg",
+  "rated": "PG",
+  "genres": [
+    "Drama",
+    "Sport"
+  ],
+  "directors": [
+    "Sylvester Stallone"
+  ],
+  "writers": [
+    "Sylvester Stallone"
+  ],
+  "actors": [
+    "Sylvester Stallone",
+    "Talia Shire",
+    "Burt Young"
+  ],
+  "runTime": 99,
+  "plot": "Rocky faces the ultimate challenge from a powerful new contender, and must turn to a former rival to help regain his throne as the undisputed fighting champion.",
+  "subtitleIds": [
+    "a4109a24",
+    "d450ea55",
+    "5433cdb9",
+    "e8ed2682",
+    "97ed3e67",
+    "83aeeea8",
+    "a4109a24",
+    "5f091172",
+    "1a513db0",
+    "1f3be5c2",
+    "76f7bc37",
+    "a0d45c27",
+    "9edc614",
+    "380660a3"
+  ],
+  "isAvailable": true
+}
