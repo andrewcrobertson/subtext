@@ -1,0 +1,46 @@
+{
+  "imdbId": "tt0088247",
+  "title": "The Terminator",
+  "releaseDate": "1984-10-26T00:00:00.000Z",
+  "releaseYear": 1984,
+  "posterFileName": "poster.jpg",
+  "rated": "R",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "directors": [
+    "James Cameron"
+  ],
+  "writers": [
+    "James Cameron",
+    "Gale Anne Hurd",
+    "William Wisher"
+  ],
+  "actors": [
+    "Arnold Schwarzenegger",
+    "Linda Hamilton",
+    "Michael Biehn"
+  ],
+  "runTime": 107,
+  "plot": "A cyborg assassin from the future attempts to find and kill a young woman who is destined to give birth to a warrior who will lead a resistance to save humankind from extinction.",
+  "subtitleIds": [
+    "f00340da",
+    "67707e6d",
+    "922be9e7",
+    "9b5850cd",
+    "3ba5ddaa",
+    "2a005e81",
+    "75575e75",
+    "d955e4aa",
+    "a771fedc",
+    "2f84abb5",
+    "2231f74e",
+    "4e2399c5",
+    "468dec8f",
+    "cefdcd85",
+    "89928169"
+  ],
+  "isAvailable": true
+}
