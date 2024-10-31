@@ -1,0 +1,1247 @@
+31520 33476 <i>(crowd cheering)</i>
+34360 36749 <i>(commentator) It's blind instinct.</i>
+37520 40717 <i>But now it is Creed coming back</i><br /><i>with the left hand!</i>
+40840 44799 <i>What's keeping these two guys up?</i><br /><i>A tremendous closing moment!</i>
+48000 51913 <i>Here comes Balboa back, but</i><br /><i>the champion's back with another left.</i>
+57760 62436 <i>A right hand! It's Creed.</i><br /><i>Now it's Balboa! Now it's Creed.</i>
+62560 66394 <i>A tremendous left by Rocky.</i><br /><i>They're dead in the centre, toe to toe!</i>
+68480 70436 <i>(cheering)</i>
+80880 81949 <i>(woman screams)</i>
+83800 85711 One!
+87960 88915 Two!
+89040 94672 <i>Creed will retain the title.</i><br /><i>If neither gets up, Creed will win the title.</i>
+95000 97275 - Four!<br />- Get up, my man.
+97400 98958 God!
+100160 101115 Six.
+101240 103834 <i>Each fighter is trying to beat the count!</i>
+103960 105518 Get up there!
+106000 107911 Eight!
+108640 111074 - Nine!<br /><i>- The champ is down.</i>
+111200 113839 Ten!
+115400 118278 <i>He's done it at the last second!</i>
+118400 121517 <i>He made it!</i><br /><i>Rocky Balboa has shocked the world!</i>
+121640 124552 <i>He is the new heavyweight</i><br /><i>champion of the world!</i>
+125720 127790 Ladies and gentlemen...
+127920 132596 ...in a stunning upset,<br />scoring a win by knockout...
+132720 135871 ...the new heavyweight<br />champion of the world...
+137320 140790 ...Rocky Balboa!
+142040 144031 <i>(Rocky)</i> Excuse me. Excuse me.
+145040 148874 I just wanna say one thing...<br />to my wife, who's home.
+151480 154153 Yo, Adrian. I did it!
+154280 157511 I love you. I love you.
+168040 169996 <i>(</i># <i>"Eye of the Tiger" by Survivor)</i>
+215120 218237 # <i>Risin' up, back on the street</i>
+219400 221960 # <i>Did my time, took my chances</i>
+223640 226598 # <i>Went the distance</i><br /><i>Now I'm back on my feet</i>
+226720 230156 # <i>Just a man and his will to survive</i>
+231760 234877 # <i>So many times, it happens too fast</i>
+236040 239157 # <i>You change your passion for glory</i>
+240000 243515 # <i>Don't lose your grip</i><br /><i>On the dreams of the past</i>
+243640 247792 # <i>You must fight just to keep them alive</i>
+247920 251799 # <i>It's the eye of the tiger</i><br /><i>It's the thrill of the fight</i>
+251920 256198 # <i>Risin' up to the challenge of our rival</i>
+256320 260438 # <i>And the last known survivor</i><br /><i>Stalks his prey in the night</i>
+260560 264712 # <i>And he's watching us all with the eye</i>
+264840 266796 # <i>Of the tiger</i>
+270280 273556 # <i>Face to face, out in the heat</i>
+274480 277358 # <i>Hangin' tough, stayin' hungry</i>
+278440 281796 # <i>They stack the odds</i><br /><i>Still we take to the street</i>
+281920 285833 # <i>For the kill, with the skill to survive</i>
+286000 289788 # <i>It's the eye of the tiger</i><br /><i>It's the thrill of the fight</i>
+289920 294311 # <i>Risin' up to the challenge of our rival</i>
+294440 298274 # <i>And the last known survivor</i><br /><i>Stalks his prey in the night</i>
+298560 302792 # <i>And he's watching us all with the eye...</i>
+302920 305275 # <i>Of the tiger</i>
+312400 315836 # <i>Risin' up, straight to the top</i>
+316800 319598 # <i>Had the guts, got the glory</i>
+320920 324037 # <i>Went the distance</i><br /><i>Now I'm not gonna stop</i>
+324160 327550 # <i>Just a man and his will to survive</i>
+328280 332193 # <i>It's the eye of the tiger</i><br /><i>It's the thrill of the fight</i>
+332320 336313 # <i>Risin' up to the challenge of our rival</i>
+336440 340752 # <i>And the last known survivor</i><br /><i>Stalks his prey in the night</i>
+340880 345908 # <i>And he's watching us all with the eye...</i>
+347400 350392 # <i>Of the tiger</i>
+359480 361675 # <i>The eye of the tiger</i>
+367840 369990 # <i>The eye of the tiger</i>
+371920 374832 I want Balboa. I want Balboa.
+374960 379670 You hear that, old man? You tell Balboa.<br />Nobody can beat me. Tell him what I said.
+379800 382758 And he's next. I'm gonna kill him.<br />Nobody can stop me.
+382880 385917 You tell Balboa that. I'm comin' after him.
+386520 390638 <i>I want a shot at the title if Balboa's</i><br /><i>got the guts to meet me in the ring.</i>
+390760 393797 <i>My whole life's been directed</i><br /><i>towards this title.</i>
+393920 397879 <i>I live alone. I train alone.</i><br /><i>I'll win the title alone. I want him.</i>
+398160 401914 <i>He can't duck me forever.</i><br /><i>He can run, but he can't hide.</i>
+402040 404600 <i>Another southpaw,</i><br /><i>champion Rocky Balboa...</i>
+404800 406950 <i>... isn't worried about much these days.</i>
+407080 409389 <i>He's defended his title for the tenth time...</i>
+409520 413877 <i>... and will face the world heavyweight</i><br /><i>wrestling champion in a charity benefit...</i>
+414000 416912 <i>... with all the proceeds</i><br /><i>to go to a local youth foundation.</i>
+417040 421511 <i>I'll have to give him credit. Mr Balboa</i><br /><i>stays busy. He's a true sportsman.</i>
+421640 426156 <i>It looks like the no. 1 contender, Clubber</i><br /><i>Lang, will have to play the waiting game.</i>
+426280 428589 <i>But that should be a great match-up.</i>
+428720 431029 <i>(man)</i> Paulie, take it easy, OK?
+433800 435711 <i>(barman)</i> Hey, you goin'?
+435840 438718 Hey,<br />don't forget to give Rocky my best, huh?
+439440 442318 You know, I've been comin' here years.
+442440 446513 How 'bout you give me,<br />Paulie, your best once?
+447200 449839 Take it easy, Paulie.
+449960 453509 <i>(man #2)</i> Hey, Paulie, you heard me?
+453640 457235 When you see the Rock,<br />tell him the boys all said "Hey"!
+536080 538230 <i>(alarm rings)</i>
+559640 561596 Paulie.
+565400 568233 You wanna hear I owe ya?<br />You, I owe nothin'.
+568360 570510 Nah, you don't owe me nothin'.
+570640 572835 So, what do ya want I should do?
+572960 575679 - My sister ain't here?<br />- She's home.
+575800 578872 Me and her were tight until you come in.
+579000 581309 I raised her. She don't come down.
+581440 583715 She don't know about this.
+583840 585990 You and her can go to hell,<br />you know that?
+586120 588076 Watch your mouth, Paulie.
+588200 591954 You gonna whack me?<br />I don't sweat you. Come on.
+592080 594116 Come on, Paul. Screw your head on right.
+594240 597949 Nah, your freakin' head<br />is the one on wrong.
+598080 602073 - Yeah? What did I do?<br />- What'd ya do? Nothin'.
+602200 607035 For yourself? Oh, nice! You fixed<br />your face up handsome. Nice clothes.
+607160 610675 What'd ya do for Paulie?<br />Three years - did ya get me a job?
+610800 615396 Look at this! You gave me<br />a lousy stinkin' Ex-Lax watch. This!
+616440 619512 - Paulie...<br />- What? What?
+619640 621790 That's right. No, leave it down!
+621920 624388 It never kept good time anyway.
+625200 628875 You forget when you were a punk<br />and those guys used to laugh at you.
+629000 632549 - Who used to whack them bums out?<br />- They laughed at both of us.
+632680 634989 No-one laughed at me.
+635120 639033 Tell me. Who fixed you up<br />with your first woman? Me, Paulie!
+639160 644314 - She was pregnant.<br />- So what? You was no prize either.
+644440 646749 You know, I always give ya. I give ya.
+646880 650509 What do you do?<br />You buy a new house. You move Mick in.
+650640 654394 Did you ask me?<br />Is there somethin' the matter with me?
+655040 657679 I got feelings. This ain't cardboard.
+657800 659756 Everybody's got 'em, Paulie.
+660280 663716 - The hell with everybody.<br />- Maybe it's the hell with you.
+664640 668952 - I don't wanna listen to this crap.<br />- You talk like everyone owes you a living.
+669080 672197 Nobody owes nobody nothin'.<br />You owe yourself.
+672320 676996 - You're wrong! Friends owe.<br />- No! Friends do because they wanna do.
+677120 679588 Shut your freakin' mouth.<br />You keep me down.
+679720 684874 Down? You're like a crazy brother<br />to me. You really are.
+685000 689073 So I wanna tell you somethin'.<br />This is comin' straight from the heart.
+689560 692791 You ain't down. And you ain't a loser.
+693280 696556 You're just a jealous... lazy... bum.
+697840 700479 OK. I'm gonna break your mouth.
+700760 702910 I'm gonna bust your mouth up!
+713560 716154 Can I have a job?
+718200 720760 All you had to do was ask.
+725440 727874 - You punch pretty good.<br />- Think so?
+728000 729956 Oh, superb!
+731800 734678 - It cost a lot, huh?<br />- Yeah, a few bucks.
+734800 736995 Got an extra one?
+739480 743359 - Any trouble with Paulie tonight?<br />- Nah, nothin' unusual.
+743480 745948 Are you really gonna fight that wrestler?
+746080 748833 That's all right. It'll be fun.
+748960 751315 Mind if I serenade you awhile?
+751440 753954 # Doo doo doo-doo...<br />Come on, it's your part.
+754080 756389 - What are you doing?<br />- Come on, you can do it.
+756520 758397 # Doo doo doo-doo
+758520 762195 - Come on. You're gonna wake the baby.<br />- Adrian, let's do a duet.
+762320 764356 # Doo doo doo-doo
+765120 767270 - # Doe doe doe-doe...<br />- No, no.
+767400 771518 That's good, but it's not "doe doe".<br />It's # doo doo doo-doo.
+772320 775039 - # Doo doo doe-doo...<br />- That's good, darlin'.
+775160 779836 - # I been told<br />- # Doo doo doo-doo...
+779960 784511 - # By people, and they all<br />- # Doo doo doo-doo...
+784640 789111 # They said to take you back<br />Take you back like before
+792480 794072 What's the matter?
+794200 797510 I don't know any more of the composition.
+797640 801155 - Maybe we're lucky.<br />- Yeah, maybe we're very lucky.
+802600 806354 - # Doo doo doo-doo...<br />- # Hm hm mm-mm
+808720 813032 <i>Howdy, sports fans. This is Dennis James</i><br /><i>with Jim Healy down here at ringside.</i>
+813160 816994 Tonight we have a most unlikely match,<br />the boxer against the wrestler...
+817120 819475 ...with all the proceeds going to charity.
+819760 822354 What do you think about<br />a boxer against a wrestler?
+822480 827600 You know the theory. Once the wrestler<br />grabs the boxer, that's all she wrote.
+827720 831508 What the hell goes on inside your head?<br />Anything normal functions?
+831640 833949 - Yeah, there's a few.<br />- I don't think so.
+834080 838119 To fight a creature like this,<br />you gotta have 100lb of brain damage.
+838280 842478 I seen wrestlers that was bigger than<br />dinosaurs. You ever fight a dinosaur?
+842600 846718 - No, not lately.<br />- They can cause a variety of damage.
+847080 849594 The wrestling champion<br />of the world is here...
+849720 852871 ...and he is quite a sight,<br />all decked out in red.
+853400 856437 - Why are they carryin' him?<br />- He's walkin'.
+862360 865193 I'm comin' after you, Balboa.
+865320 867834 - Let's call it off.<br />- Aw, come on. It's for charity.
+867960 872192 You're wearin' your anatomy out.<br />Nobody else does this much for charity.
+872320 875153 - Bob Hope would.<br />- That's true.
+880680 883069 Rocky, you better call Bob Hope.
+886440 889000 <i>(booing)</i>
+890320 893517 To all my love slaves out there...
+893640 897155 ...Thunderlips is here... in the flesh, baby.
+897680 899398 Oh, my God.
+899520 904355 The Ultimate Male,<br />versus the ultimate meatball.
+905720 908518 Boy, he is a monster!<br />How much would you take...
+908640 912235 ...even to get in the ring with him?<br />- Would you like to start at Fort Knox?
+912360 916069 In the white corner, an incredible sight.
+916800 919553 Standing nearly seven feet...
+920240 922993 ...weighing 390lb...
+924160 927038 - Large, ain't he?<br />...the undisputed wrestling champion...
+927160 929833 That's the biggest arm in the world!
+930640 934838 A man who calls himself<br />the ultimate object of desire...
+935880 938314 ...the mountain of molten lust...
+938440 941989 ...the one, the only... Thunderlips!
+942120 944395 <i>(cheering and jeering)</i>
+946680 951356 You're all trash! You're all trash!<br />You're all trash!
+952200 954430 <i>(booing and jeering)</i>
+954560 958678 - The slugger from Philadelphia...<br /><i>- (cheering)</i>
+959040 961110 You better shut up.
+961920 964036 I'll break him in half!
+964160 967948 - How much do you think he eats?<br />- About 202lb.
+968080 970150 Weighing 202lb...
+970720 975794 ...the reigning heavyweight champion<br />of the world, Rocky Balboa.
+975920 977876 <i>(cheering)</i>
+982640 986189 - <i>(referee)</i> Come to the centre of the ring.<br />- OK, come on, Mick.
+993680 998276 All right, you guys. This is for fun,<br />so take it easy and give 'em a good show.
+999800 1003509 Listen, after the match, how about<br />we get a Polaroid together, OK?
+1004160 1006515 <i>(growls)</i> You're in trouble, buster.
+1007680 1010558 He got me mad! I'm gonna<br />break him in half like this!
+1011720 1014075 Lately, everybody wants to beat me up.
+1014200 1016475 <i>(Mick)</i><br />This is entertainment. Fun and games.
+1016600 1019956 Stay awake, make faces.<br />Move around the ring.
+1020080 1022355 <i>(Paulie)</i> He <i>is</i> the ring.
+1023560 1025869 <i>(Mick)</i><br />I get nervous every time he does that.
+1026000 1028753 <i>- (bell rings)</i><br /><i>- (yells)</i>
+1030760 1034196 Whoa! You move fast for a big guy.
+1034320 1037517 Why don't we just move around?<br />Give 'em a good show first.
+1037640 1040598 I'll chase you, and you chase me.<br />How's that? All right?
+1040720 1043757 I'll go easy. Here you go. Is that OK?
+1043880 1045950 Does that hurt? All right?
+1046080 1048196 How's that? OK? Not bad, huh?
+1051080 1053036 - Come on, meatball.<br />- <i>(groans)</i>
+1057160 1059549 Think it's all fake, meatball?
+1059680 1062478 Thunderlips has gone absolutely berserk.
+1064120 1067999 - Run for your life.<br />- Life's tough, meatball!
+1075000 1079551 Get up, boy. Come on, meatball.<br />Get some of this right here.
+1083800 1086872 Rocko, remember the neighbourhood!
+1087320 1088958 Get out of his way!
+1089080 1092914 No, no. I'm not yet - not for the meatball.<br />I'm not throwing in yet, boy!
+1093040 1097989 If I can't break your spirit,<br />I sure enough can break your back.
+1099400 1102233 - Is Daddy having fun?<br />- Of course.
+1107480 1110392 Somebody get me a hatchet.
+1110840 1115595 - Holy smoke.<br />- Here we go, baby! Nice drop, meatball.
+1119800 1122394 Oh, my God. Balboa is really in pain.
+1122520 1128038 No one can believe the superhuman<br />strength of Thunderlips. I am the man!
+1128160 1131311 - Stop him, will ya?<br />- You want this punching bag?
+1131440 1134238 - Adrian!<br />- Rocky!
+1134360 1136191 Catch me!
+1136320 1141030 <i>(Dennis) Incredible!</i><br /><i>Balboa was just heaved into the fifth row!</i>
+1141160 1144277 <i>Now the fans are outraged too!</i>
+1144480 1147916 He's got me mad!<br />I'm gonna drag him down like a dirty rag!
+1148040 1150679 You weakling, Balboa.
+1151320 1153993 Take it easy, take it easy.
+1154600 1156636 - Mickey, you OK?<br />- It's my heart.
+1156760 1160150 The security guards are rushing in,<br />trying to stop this slaughter.
+1160280 1163397 - Teeth are flying all around.<br />- Cut my gloves off.
+1165040 1167634 Cut my gloves off!
+1168480 1171677 The place is a zoo.<br />This place has turned into a zoo!
+1173240 1175595 You want me to get a doctor?<br />You're sure?
+1175720 1179952 <i>(Dennis)</i> The girls have gotten<br />into it now. They're getting beat up.
+1182560 1185438 - I'll be right back.<br />- You're a maniac! Come back here!
+1185560 1188518 - What are you doing?<br />- <i>(Mickey)</i> Come back here!
+1188640 1193191 - Come on!<br />- Out of the way, worms! I'm comin' up.
+1195920 1197751 Come on, come on!
+1202400 1204755 All right, Thunderlips. Break it up!
+1204880 1207394 No choking. No choking.
+1208800 1210950 Paulie, don't!
+1214320 1216276 I don't sweat you.
+1218360 1220316 <i>(booing)</i>
+1223760 1226115 Hang on there, kid.
+1227080 1228718 How d'you like it?
+1230960 1233235 I don't need this.
+1234600 1239754 Rocky hanging on like a bull terrier.<br />Now he's going for the stranglehold.
+1239880 1242189 <i>(chanting)</i> Rocky! Rocky!
+1247720 1249756 The body!
+1249880 1252269 <i>(cheering)</i>
+1253880 1256440 Knock his block off!
+1264320 1266276 No-o-o-o!
+1267640 1270712 <i>(Dennis)</i> It's unbelievable!<br />Rocky actually did it!
+1270840 1274469 - The human skyscraper is out of the ring!<br /><i>- (bell rings)</i>
+1274600 1277160 Right. That's it! Time is up.
+1280400 1284154 Ladies and gentlemen... we have a draw.
+1285840 1288559 Thank you for attending<br />the annual charity match...
+1288680 1291353 ...between the Italian Stallion,<br />Rocky Balboa...
+1291480 1293755 ...and Thunderlips, the Ultimate Male.
+1293880 1296110 See you next year. Thank God.
+1296240 1298276 - Are you all right?<br />- Yeah, pretty good.
+1298640 1300278 Good match.
+1300400 1303995 - Why'd you get so crazy on me out there?<br />- That's the name of the game.
+1304120 1307669 While you're still calm,<br />can we get that Polaroid together?
+1307800 1310678 - Yeah, sure.<br />- Adrian, come on over here.
+1310800 1315112 - My wife Adrian, my kid... Thunderlips.<br />- Ow! That hurt!
+1315240 1317276 That's all right.
+1317400 1320870 You know, sometimes charity really hurts.
+1324240 1328313 And Pinocchio told a lie, you see,<br />and his nose started growing real big.
+1328440 1333116 - Why didn't his ears grow?<br />- I don't know. I didn't write the story.
+1333240 1336994 - Are you fighting again?<br />- No, I don't plan on fighting today.
+1337120 1340032 - Promise?<br />- Promise. Definitely. I promise.
+1340160 1342879 - Good, I like you here.<br />- Yeah? I like being here.
+1343000 1345719 Are you gettin' hungry?<br />You want some breakfast?
+1345840 1348752 - Some Wheaties? What are Wheaties?<br />- Champions.
+1348880 1351838 - Breakfast of what? Champions!<br /><i>- (honks horn)</i>
+1351960 1355077 <i>(Rocky) The father bear says</i><br /><i>"Somebody's been sleepin' in my bed."</i>
+1355200 1359990 The little bear said "Somebody's been<br />sleepin' in my bed, and there she is."
+1360120 1365672 He pulls back the covers, exposing her<br />to the, you know, public. See?
+1365800 1367756 Eat your cereal before it sinks.
+1367880 1371509 - What happened to Goldilocks?<br />- I'm not exactly sure.
+1371640 1375679 - Busted for trespassing and got 30 days.<br />- That's real nice, Paulie.
+1377440 1380273 Rocky. Rocky, the car is waiting.
+1380400 1383233 - Go ahead. You guys better go.<br />- Be a good boy now.
+1383360 1385954 We'll have a fun time, me and the kid.
+1386080 1388878 <i>(Paulie)</i> Mrs Stallion,<br />you almost look pretty good.
+1389000 1391150 Oh. Thank you, Paulie.
+1391280 1396229 Don't give the kid any beer.<br />And, Paulie, don't take him to the track.
+1396360 1399033 - How you doin', Mick?<br />- Pretty good.
+1400480 1403074 Now we got a problem in the seventh.
+1403200 1405156 <i>(</i># <i>Rocky theme)</i>
+1422640 1426713 Whatever happened to them<br />quiet, tender moments?
+1433960 1435951 <i>(cheering and whistling)</i>
+1442600 1444556 Thank you. Thank you, one and all.
+1445440 1449513 Every once in a while, a person<br />comes along who defies the odds...
+1449960 1455478 ...who defies logic...<br />and fulfils an incredible dream.
+1455720 1458792 On behalf of all the citizens of<br />Philadelphia...
+1458920 1461559 ...and those touched<br />by your accomplishments...
+1461920 1466516 ...and your untiring participation<br />in this city's many charity functions...
+1466880 1469997 ...it is with great honour<br />that we present this memorial...
+1470360 1476151 ...which will stand always as a celebration<br />to the indomitable spirit of man.
+1476280 1479955 Philadelphia salutes<br />its favourite son... Rocky Balboa!
+1480080 1482071 <i>(cheering)</i>
+1491880 1495759 - It's beautiful.<br />- Definitely a thing of beauty.
+1496120 1498554 <i>(chanting)</i> Rocky! Rocky!
+1510440 1512396 Thank you.
+1515840 1517796 Thank you very much.
+1522200 1526318 I don't know, what... what do you say<br />to something like this?
+1528160 1530993 About three years ago...
+1531120 1536069 ...this city...<br />really took me inside, you know?
+1538920 1543550 And I wanna thank you very much<br />for that. I really do.
+1544320 1549519 And I been thinking... I wasn't gonna<br />bring this up, but I might as well now.
+1550080 1554039 I would never do anything<br />to hurt this sport...
+1554160 1558392 ...that has been... so really good to me.
+1558920 1563357 I been talkin' it over<br />with my wife and my manager.
+1564760 1567035 We think that...
+1567160 1571199 It's really hard to do this. I feel like, uh...
+1571320 1574949 I'm thinkin' maybe it's time<br />that I should, uh...
+1575080 1579790 ...step down maybe and... retire.
+1579920 1581638 <i>(shouts of protest)</i>
+1585200 1589113 Gettin' out while you can? Don't give<br />this sucker no statue. Give him guts!
+1589240 1592630 I told you I wasn't goin' away.<br />You got your shot. Now gimme mine.
+1592760 1596036 - Why don't you get the hell outta there?<br />- Shut up, old man!
+1596160 1598310 Tell these folks why you've ducked me.
+1598440 1601193 Politics, man!<br />This country wants to keep me down.
+1601320 1605677 They don't want a man like me to have<br />the title because I'm not a puppet like you.
+1605800 1610749 - You know, you've got a big mouth.<br />- Why don't you close it, Balboa?
+1610880 1613952 - Any time.<br />- The guy's crazy. Don't listen to him.
+1614080 1617390 The little man don't wanna come to me,<br />so I'll lay out the truth.
+1617520 1620398 I am ranked number one. One!<br />That means I'm the best.
+1620520 1623398 But this bum takes the easy matches,<br />fights other bums.
+1623520 1628355 I'm tellin' you and everybody here. I'll<br />fight him anywhere, any time... for nothin'.
+1628480 1630789 <i>(heckling)</i>
+1631160 1634197 But you people ain't gonna see that,<br />cos he's gonna retire.
+1634400 1637710 You see, he don't fight no real man.<br />He fight them set-ups.
+1637840 1640195 - What?<br />- You're a disgrace to this sport.
+1640320 1643039 Shut up, old man!<br />You don't know where I came from.
+1643160 1647073 Balboa, your family doin' real nice.<br />You call yourself a fighter, prove it.
+1647280 1650795 Give me the same chance.<br />The way you been duckin' is a disgrace.
+1651120 1653429 If he ain't no coward,<br />why don't he fight me?
+1653560 1656791 - I can't listen to this...<br />- I don't care what you're ranked.
+1656920 1661869 - You don't get no shot, and I mean that!<br />- What are you doin'? I wanna fight him.
+1662000 1665037 Well, you got him.<br />But you fight him without me.
+1666000 1669879 - What are you sayin'?<br />- It's finished. I don't want no more of this.
+1670000 1673310 I don't want no more of it.<br />You understand? None of it!
+1673600 1676239 It's over with!
+1676360 1679352 Hey, woman! Hey, woman. Listen here.
+1679480 1682916 Since your old man ain't got no heart,<br />maybe you wanna see a real man?
+1683040 1686157 I bet you stay up every night<br />dreaming you had a real man, huh?
+1686280 1691354 Bring your pretty little self over to my<br />apartment and I'll show you a real man.
+1691480 1693675 You want it, you got it! You got it, man!
+1697880 1700110 I'll see you in the ring! You got it!
+1706480 1709756 Rocky, don't! Come on.<br />Rocky, please. Let's go talk.
+1709880 1711950 OK, Adrian.
+1712080 1714435 <i>(Adrian)</i> Rocky! Let's talk.
+1719120 1721554 Why'd you leave?<br />Why'd you walk away like that?
+1721680 1724274 Life's too short, kid.
+1724400 1728996 - Where you goin'?<br />- I'm goin' on a permanent vacation.
+1729440 1731795 What do you mean?<br />We got one more fight.
+1731920 1734878 No, no. Not "we". You.
+1735480 1737789 Why are you doin' this?
+1741800 1745349 - I said, why you doin' this?<br />- Because you can't win, Rock.
+1745480 1748472 This guy'll kill you to death<br />inside of three rounds.
+1748600 1750830 - You're crazy.<br />- What else is new?
+1750960 1754032 - He's just another fighter.<br />- No, he ain't.
+1754160 1756355 This guy is a wreckin' machine.
+1756480 1760314 And he's hungry. You ain't been<br />hungry since you won that belt.
+1760440 1763398 - What? I had ten title defences.<br />- That was easy.
+1763520 1767149 - What do you mean, easy?<br />- They was hand-picked!
+1769520 1772080 - Set-ups?<br />- No, they weren't set-ups!
+1772200 1775829 They was good fighters.<br />But they wasn't killers, like this guy.
+1775960 1778713 He'll knock ya into tomorrow, Rock.
+1797320 1799515 Jeez, Mick.
+1801040 1803076 Why'd you do it?
+1805000 1810552 Because the beating that you got from<br />Apollo shoulda killed you, kid. It didn't.
+1810680 1815629 It was my job to keep you winning,<br />and to keep you healthy.
+1820560 1823597 You really don't think<br />I got nothin' left, do you?
+1824400 1828109 Well, Rock, let's... let's put it this way.
+1829400 1832517 Now, three years ago,<br />you was supernatural.
+1833400 1837439 You was...<br />You was hard, and you was nasty...
+1837560 1839915 ...and you had this cast-iron jaw.
+1840640 1846590 But then, the worst thing happened to you<br />that could happen to any fighter.
+1847920 1850150 You got civilised.
+1855400 1857311 But don't worry, kid.
+1857440 1863390 You know, presidents retire,<br />generals retire, horses retire.
+1863880 1867793 Man o' War retired.<br />They put him out to stud.
+1869080 1871958 That's what you shoulda done - retire.
+1875400 1878198 I can't retire knowin' all this, Mick.
+1878320 1881118 - Aw, don't push it.<br />- You been carrying me.
+1881240 1884710 - We don't need it.<br />- You been carrying me, though.
+1884840 1887957 I haven't been carryin' you,<br />I've been protectin' ya.
+1888080 1891072 No, I want this fight. Just one more.
+1891200 1894272 - No, we don't need it.<br />- I'll live in the gym.
+1894400 1896789 - We don't need it.<br />- Mick, I do.
+1898120 1902193 - I'm askin' you to train me one last time.<br />- No, no. I can't.
+1902320 1904470 If you don't, uh...
+1904600 1909628 ...l'm gonna tell everybody you ain't<br />bought new underwear in ten years.
+1909760 1913389 - You would, wouldn't ya?<br />- Yeah. Absolutely.
+1915720 1917392 No, no.
+1917520 1919476 Come on.
+1920400 1924439 One more time - it's over. It's a deal?
+1924560 1928235 - Go on, go on.<br />- It's your head, kid. It's your head.
+1931280 1934192 Yeah, it is. Thanks, man.
+1935560 1939075 # <i>Pushin', gettin' ready for the fight</i>
+1939280 1942431 # <i>Pushin', every day and night</i>
+1944080 1947675 # Pushin', gettin' ready for the fight
+1947800 1950678 # Pushin', every day and night
+1951240 1953629 # Pushin', gettin' ready for the fight...
+1953760 1956593 Rocky robes here!<br />Get your Rocky robes here!
+1956720 1960793 Rocky robes, hot off the truck!<br />Clean stuff. Get your robes!
+1968040 1970600 # On the night of the fight
+1970720 1972392 # I will survive
+1972520 1975910 # There's nowhere to run,<br />there's nowhere to hide
+1976040 1978156 # On the night of the fight
+1978280 1979713 # It's just you and I
+1979840 1983594 # There's nowhere to run,<br />there's nowhere to hide...
+1983720 1986678 Collectors' item! Get your buttons here!
+1987320 1992110 <i>(Mickey)</i> You can't stand toe to toe with<br />this guy or he'll deposit you up on Mars.
+1992240 1994959 He's too tough. He's too strong.
+1996200 2000432 Listen, how the hell can we<br />train in this creep joint here?
+2000560 2003597 This is kind of a house of ill repute,<br />or somethin', is it?
+2003800 2007952 - Why did you rent this joint?<br />- Aw, come on. Let's go out in style.
+2008200 2010589 You wanna go out in style,<br />go out in one piece.
+2010720 2013712 Now, come on, let's get outta here,<br />back to the old gym.
+2013840 2016479 Let's get some blood<br />and sweat and tears around here.
+2016600 2020559 - Can we do that?<br />- Hey, will you just relax and enjoy it, OK?
+2024560 2026312 They love it, Mick.
+2033320 2036517 Go on, fight.<br />Fight now, go ahead. Fight it, fight it.
+2036640 2039791 Get rough. Get tough. Get brutal. That's it.
+2039920 2042036 Excuse me. Can I get a kiss?
+2042160 2044913 - Yeah, sure.<br />- Get outta here, will ya?
+2045040 2048350 This is like fightin' in a zoo.
+2048480 2054032 Is that the way you train for Clubber?<br />He ain't gonna kiss ya. He's gonna kill ya.
+2054160 2056116 Get outta here!
+2059880 2063634 - Hey, Rock. How about a picture?<br />- Yeah, sure.
+2116960 2120509 This'll tell us a story.<br />That's it, side to side.
+2120640 2122596 Side to side, Rock.
+2123440 2126750 Shut up back there, can't you?<br />Change your tune.
+2126880 2130919 That's it. Pull front punches. That's it, kid.<br />You're a deadly weapon.
+2131040 2134396 Time! Time, time, time. Quit it.
+2134520 2136476 You're OK. Come on.
+2137480 2141393 Put this on before you catch pneumonia.<br />I'll give you a rubdown too.
+2141520 2146878 Listen, I don't like to hear much<br />of what comes out of people's mouths...
+2147000 2149468 ...and I don't like soft-talkin' moments.
+2149600 2152876 - That's for sure.<br />- But I just wanna tell ya one thing.
+2153000 2156879 - That I'm proud of ya.<br />- Well, thanks a lot.
+2157000 2159468 That's all right, kid. Let's get outta here.
+2159600 2162990 Hey, Mick. What do you think<br />we're gonna do when it's all over?
+2163120 2165429 I don't know. Maybe join up with a circus.
+2165560 2167516 <i>(laughs)</i> Yeah, maybe.
+2167640 2169870 All right, let's get out.
+2171800 2173756 <i>(Rocky hums circus music)</i>
+2175480 2177948 Good evening.<br />With Bill Baldwin, I'm Stu Nahan.
+2178080 2182835 Welcome to this heavyweight title fight,<br />which may be the most memorable of all.
+2182960 2186919 Tonight is the champion's final<br />and perhaps most difficult defence.
+2187040 2190669 - Rocky, are you in your best shape?<br />- Absolutely. I feel real good.
+2190920 2194037 He's a deadly weapon.<br />He's one of a kind and he's gonna do it.
+2194160 2198233 - Clubber, are you as fast as Balboa?<br />- No talkin'. I do my talkin' in the ring.
+2198560 2200551 <i>(barrage of questions)</i>
+2200680 2203478 I told you, you better get outta here.<br />I wanna be alone.
+2203600 2207593 - Will you retire after this fight?<br />- Yeah. This is the last one for sure.
+2207720 2209915 This is definitely the last one.
+2210600 2212955 You're parasites and leeches.<br />Get outta here.
+2213080 2215833 What will you do after tonight?
+2215960 2217916 I'm not sure.
+2218040 2221715 - Maybe join the circus. Huh, Mick?<br />- Yeah, have some fun.
+2221840 2225549 - Come on, take your robe off.<br />- Take off your robe!
+2225680 2227910 I told you to get outta my face!
+2228040 2232079 With us is the former heavyweight<br />champion of the world, Apollo Creed.
+2232200 2235715 Do you have any predictions on this fight?<br />How do you see it going?
+2235840 2238400 Strength would have<br />to go to the challenger...
+2238520 2243150 ...while experience and the world's<br />hardest head would have to go to Balboa.
+2243560 2248076 Remember, Rock, don't trade with this<br />guy. Take your time. Wear him down.
+2248200 2253513 But don't stand toe to toe.<br />This punk's never been 15 rounds before.
+2253640 2256598 - Take him good.<br />- OK. I will.
+2258520 2263435 - I predict the champ's gonna take it.<br />- Do you really think he can hit that hard?
+2263560 2266120 Why do you think I'm here with you?
+2272240 2274151 <i>(cheering and shouting)</i>
+2282800 2287316 Hey, sucker! You're finished!<br />You're through! You're washed up!
+2287440 2289590 - I'm the baddest in the world!<br />- Not to me.
+2289960 2293111 What you say, paper champion?<br />I'm gonna beat you like a dog.
+2293240 2295276 Get that ape back in the ring.
+2295400 2299234 - You made me wait too long! You'll pay!<br />- Come on, mouth.
+2299560 2301915 <i>(Mick)</i> Get him outta there!
+2310680 2313717 <i>(Clubber)</i><br />Do you know who I am? I'm the man!
+2315400 2320554 - I'll get you, sucker! You're dead meat!<br />- Let me go!
+2320680 2324070 <i>(Adrian screams)</i> Rocky! Rocky!
+2324880 2327474 - What's wrong?<br />- It's his heart.
+2327600 2330990 Get a doctor!<br />Somebody get a doctor! Come on!
+2331120 2333076 <i>(reporters shouting)</i>
+2337720 2340188 Get 'em outta here!
+2340320 2342959 - Mick, will you sit on the table?<br />- I'm all right.
+2343080 2346197 Take a deep breath.<br />Get those guys outta here! Move!
+2347280 2350477 Paulie, tell 'em the fight's off.<br />Go on. Go on!
+2350600 2353751 The fight's not off.<br />Are you outta your mind? The fight's on.
+2353880 2357190 - Mick, we can't tonight. I ain't fightin'.<br />- We're gonna fight.
+2357320 2360437 Just let me get my breath.<br />Is that against the rules?
+2361160 2364038 - Will you please get a doctor?<br />- He's on his way.
+2364160 2366993 Mick, I can't go out and fight like this.
+2367120 2372114 Get outta there. Get goin', will ya? Take<br />him. Take him good - get it over with.
+2375360 2377555 Adrian, what am I supposed to do?
+2377680 2382754 What do ya mean? After all these years<br />together, you don't know what to do?
+2382880 2386429 You oughta be ashamed of yourself.<br />Now get out there and do it.
+2387640 2389596 Do it.
+2390320 2392151 Do it.
+2392280 2396193 - You're the best.<br />- OK. OK.
+2396320 2398880 <i>(crowd chants)</i> Rocky! Rocky! Rocky!
+2399000 2401116 Oh, my God.
+2404360 2407397 Adrian, take care of him.<br />Take care of him.
+2412160 2414310 <i>(MC)</i> Ladies and gentlemen...
+2414440 2419434 ...welcome to the heavyweight<br />championship of the world.
+2419560 2423951 And fans, with us tonight,<br />truly one of the fistic greats.
+2424120 2429672 He's coming up from ringside,<br />the Master of Disaster, the King of Sting...
+2429800 2432837 ...the one and only Apollo Creed.
+2432960 2434109 <i>(cheering)</i>
+2434240 2437516 <i>(Bill)</i> There's the former heavyweight<br />champion, Apollo Creed.
+2437640 2439835 He looks like $9 million.
+2440280 2445434 Get outta my face! I don't need<br />no has-been messin' in my corner.
+2445560 2448279 Get that bad look off your face<br />before I knock it off!
+2448400 2452632 Come on. Wanna jump me? Jump!<br />Come on. Come on, Creed.
+2453080 2456231 Come on. Yeah, come on.
+2456360 2459750 Yeah. Just like a chicken. You better run.
+2463080 2468154 Give everybody a present and drop this<br />chump, all right? Good luck to you, man.
+2468280 2469599 <i>(cheering and applause)</i>
+2469720 2471676 <i>(bell rings)</i>
+2472680 2476992 All right, fans, here we go.<br />On my left, out of the blue corner...
+2477120 2481955 ...hailing from Chicago,<br />weighing in at an even 235lb...
+2482240 2485038 ...the world's no.1 challenger...
+2485160 2488152 - Wonder how Mick's doin'.<br />...Clubber Lang.
+2488280 2490475 <i>(cheering and booing)</i>
+2490800 2492791 I'm the best! I'm the best!
+2493440 2496079 You and Clubber exchanged words.<br />Any comment?
+2496200 2497269 No comment.
+2497400 2503316 His opponent in the opposite corner,<br />really needing no introduction...
+2503440 2506989 ...he weighs in at a trim 201 lb.
+2507120 2511398 The pride of Philadelphia,<br />the Italian Stallion...
+2511520 2517470 ...and the reigning heavyweight champion<br />of the world, Rocky Balboa.
+2518400 2520550 <i>(wild cheering)</i>
+2522160 2524276 <i>(Stu)</i> Listen to this crowd.
+2529640 2534634 Now to give instructions in the middle<br />of the ring, your referee, Marty Denkin.
+2536600 2539433 Clubber, Rocky. I want a good, clean fight.
+2539560 2542313 When I tell you to break,<br />step back and break.
+2542440 2546274 Now go back to the corner<br />and come out fighting at the bell.
+2546720 2549598 Dead meat.
+2553400 2555834 <i>(Bill)</i><br />This is not gonna be a fight of finesse.
+2555960 2558997 These are two guys<br />that really throw punches.
+2559120 2562032 - The chump is scared.<br />- Yeah. Tear him up, champ.
+2562160 2564594 He's scared. See the look in his eyes?
+2565800 2569554 I'm no trainer. Just go out<br />and kill the guy. Kill him, Rock.
+2570600 2573034 He's scared.
+2573160 2576357 I'm the new champion!<br />I'm the new champ as of tonight.
+2576480 2581156 ...ltalian Stallion, a rugged champion,<br />in the final fight of his colourful career.
+2583440 2585351 <i>(bell rings)</i>
+2585760 2589230 <i>(Stu)</i> Here we go. Oh boy,<br />the champion came out swinging.
+2590920 2595277 Balboa's off to an incredible start,<br />determined to destroy the challenger.
+2600120 2602190 Move him back! Move him back!
+2606200 2608156 Defence.
+2609760 2612399 They're goin' at each other.
+2613760 2615955 You got him.
+2616080 2618355 Double up! Double up!
+2620160 2623869 Come on! Come on now, boy! Come on.
+2625800 2628917 The challenger is hitting him<br />with everything he's got.
+2633240 2635595 Come on, Balboa. Make me weak!
+2636160 2638594 Come on, Balboa. Come on, weakling.
+2638720 2640711 <i>(bell rings)</i>
+2641720 2643358 <i>(audience gasps)</i>
+2644640 2647950 <i>(Stu)</i> Clubber away.<br />Trying to get him to his corner.
+2648080 2650071 Grab him, Paulie.
+2650920 2653195 - Where's Mick? Where's Mick?<br />- He's OK.
+2653320 2654992 I need him.
+2655160 2657674 He ain't nothin'! I told you he ain't nothin'.
+2657800 2661270 - He's too strong.<br />- Don't talk like that, Rock.
+2661400 2664039 I'm gonna smoke him.<br />I'm gonna smoke him.
+2664480 2666630 I can't keep him off.
+2667160 2669549 He's mine! I'm gonna get him!
+2670120 2672111 I'm losin' it, Paulie.
+2674160 2675957 - What have you got?<br />- 200 over 50.
+2676080 2678150 All right, let's start CPR.
+2679200 2681589 - Rock, you can do it.<br />- I'll try.
+2681720 2685349 <i>(Stu)</i> Round two.<br />Rocky appears to be staggering.
+2685480 2689632 - Yeah, I'll get him.<br />- Out of the corner, here comes Clubber!
+2692520 2696035 Come on, Balboa, come on. Give it to me.
+2699920 2702036 Move on the inside.
+2702920 2706595 The champion is nearly helpless.<br />Gosh, what a beating he's taking.
+2711960 2714918 Don't stand toe to toe with him.
+2727960 2729916 <i>(crowd roars)</i>
+2732920 2736799 - Man, get up.<br />- <i>(Clubber)</i> Get up! Get up!
+2736920 2739434 I told you I'm gonna get you.<br />Come on, get up!
+2739560 2742438 <i>(referee)</i> Seven, eight, nine...
+2742760 2744557 ...ten. You're out.
+2745000 2747673 <i>(Stu)</i> The champion is finished<br />in the second round!
+2747800 2750872 It's unbelievable. Incredible upset.
+2751000 2754595 Balboa, in the corner,<br />is out on his feet, out of the fight.
+2759520 2761556 <i>(MC)</i> We have the time.
+2761680 2766708 The winner by knockout, the new<br />heavyweight champion of the world...
+2766840 2769434 ...Clubber Lang!
+2769560 2772120 <i>(Clubber)</i> I told you! I told you I'd do it!
+2774040 2777112 I'm the new champion of the world!
+2781560 2783516 <i>(barrage of questions)</i>
+2784200 2786156 Come on, get outta here!
+2791360 2793715 - What happened?<br />- I'm all right. How's Mick?
+2793840 2795910 He wouldn't go to the hospital.
+2796040 2799430 Mr Balboa, we must get him<br />to hospital immediately.
+2799560 2801118 OK.
+2813920 2816718 - Mick?<br />- What?
+2816840 2822517 - Mick?<br />- Wh... what? Wh-wh-what?
+2822640 2826758 - Is it over?<br />- Yeah. Yeah, it's all over.
+2827840 2831515 Hey... listen. What happened?
+2832320 2834595 It was a knockout.
+2835640 2839155 - What round? What round?<br />- Second round.
+2842200 2844873 Yeah, I knew it. That's good.
+2845000 2848436 - We did it, huh?<br />- We did it. We did it.
+2848560 2853190 You don't have to worry about nothin'<br />no more. Everything's gonna be OK, Mick.
+2853320 2857393 - Yeah. Rocky, we did it.<br />- You gotta get to hospital.
+2858160 2860196 You ain't as young as you used to be, OK?
+2860320 2862550 You know what?
+2862680 2865752 We did everything right.<br />I did everything right?
+2865880 2867950 Listen, you done everything right.
+2868080 2872949 Listen, we got more to do. Mick,<br />whatever you wanna do, we'll do it, OK?
+2873560 2875755 I love ya, kid. I love ya.
+2877160 2879116 Mick.
+2879240 2881196 It hurts me.
+2881320 2883038 <i>(breathing stops)</i>
+2883160 2885071 Mick?
+2888560 2890516 Mick!
+2898000 2899956 Mick!
+2903000 2905639 Mick... Christ.
+2915320 2917276 <i>(sobs)</i>
+2919480 2922313 Don't go away. Please don't.
+2922440 2927639 We got more to do...<br />We got more to do. We got...
+2929440 2934434 Oh, God. Oh, Jesus.
+2935600 2937556 <i>(yells)</i>
+2951400 2953356 <i>(rabbi) Ve-al kol Yisrael...</i>
+2954400 2955879 <i>(Rocky) Ve-al kol Yisrael...</i>
+2956000 2959436 <i>...ve-imroo...</i><br /><i>...ve-imroo...</i>
+2959560 2962632 <i>...amen.</i><br /><i>...amen.</i>
+2962760 2965877 <i>- Oseh shalom...</i><br /><i>- Oseh shalom...</i>
+2966000 2969436 <i>...bim-romov...</i><br /><i>...bim-romov...</i>
+2969560 2972279 <i>...hoo yaseh...</i><br /><i>...hoo yaseh...</i>
+2972400 2975915 <i>...shalom...</i><br /><i>...shalom...</i>
+2976040 2978838 <i>...aleynu...</i><br /><i>...aleynu...</i>
+2978960 2981269 <i>... ve-al kol Yisrael...</i>
+2981400 2983197 <i>... ve-al kol Yisrael...</i>
+2983320 2985788 <i>...ve-imroo...</i><br /><i>...ve-imroo...</i>
+2985920 2987876 <i>... amen.</i>
+2988120 2989838 <i>... amen.</i>
+2990600 2992795 This concludes our service.
+3160120 3162395 <i>(man)</i> That's not the way to do it.
+3162520 3164431 Who's that?
+3165080 3168231 Why don't you hit it straight?<br />Step into it.
+3170160 3173118 - Apollo?<br />- Right.
+3173240 3177438 I waited at your house for an hour.<br />Your wife said you might be here.
+3177560 3180836 - What are you doin' here?<br />- Business.
+3182360 3187957 If the papers knew we were talkin' like<br />this, they'd think we was crazy. Why you?
+3188080 3191117 Cos I'm the best and you need<br />somebody to teach you different.
+3191240 3195472 - Why?<br />- You can't pull it off without me.
+3195600 3198910 You still didn't give me the answer.<br />What's the real reason?
+3200080 3202435 Listen. It's quiet, isn't it?
+3203640 3206074 When you retire, it's too quiet.
+3206200 3208236 We too young to retire, anyway.
+3208360 3214230 Besides, I could promote this thing into<br />the biggest gate ever. Bigger than ours.
+3214520 3218877 Heaven knows, I don't mind being<br />involved with large numbers, right?
+3220200 3224113 I don't need this no more.<br />I... I don't want this no more.
+3225360 3228511 Look, man. When you beat me...
+3229400 3233916 ...I hurt all over. I didn't wanna know<br />from nobody, not even my kids.
+3234680 3236636 Every fighter knows that hurt.
+3236760 3239877 We get sick inside trying to live<br />with it, so don't back off now.
+3240000 3243515 Make it right for yourself<br />or you'll be sorry you didn't.
+3243640 3247553 We held the greatest title<br />in the whole world, babe.
+3248680 3252912 You lost that fight for all<br />the wrong reasons. You lost your edge.
+3253680 3258629 All right. I know your manager dying<br />had you all messed up inside.
+3259360 3262193 But the truth is you didn't look hungry.
+3262320 3264436 Now when we fought...
+3265280 3268078 ...you had that eye of the tiger, man,<br />the edge.
+3268240 3273234 Now you gotta get it back, and the way<br />to do it is to go back to the beginning.
+3274920 3277150 Maybe we could win it back together.
+3279120 3281475 Eye of the tiger, man.
+3284600 3286556 Why'd you have to come here?
+3287560 3290870 I have the plan. Get back, man.
+3292680 3294716 You got me curious.
+3296440 3298670 You got me curious, Rock.
+3303040 3306794 <i>Clubber, do you accept the challenge</i><br /><i>for a rematch with Balboa?</i>
+3306920 3310117 <i>I reject the challenge</i><br /><i>because Balboa is no challenge.</i>
+3310240 3314199 <i>But I'd be happy to beat up on him</i><br /><i>some more. I always said he was nothin'.</i>
+3314320 3316276 I can't wait to see this bum fall.
+3316400 3319233 <i>What do you think of him</i><br /><i>being trained by Apollo Creed?</i>
+3319360 3322477 <i>Apollo who? That old fool Apollo Creed?</i>
+3322600 3326036 <i>- Shucks. One has-been...</i><br />- Just keep talkin', pal.
+3326160 3329516 <i>Been runnin' off at the mouth.</i><br /><i>When I see him, I'm gonna close it.</i>
+3329640 3333394 <i>- When will the match take place?</i><br /><i>- The sooner, the better.</i>
+3333520 3338230 <i>I'm the champion of the world.</i><br /><i>I can't be beat and I won't be beat.</i>
+3338360 3341750 <i>This time I'll train harder.</i><br /><i>There won't be no quick knockdowns.</i>
+3341880 3345156 <i>I'm gonna torture him.</i><br /><i>I'm gonna crucify him - real bad.</i>
+3345280 3347316 <i>Hard words from a hard man.</i>
+3347440 3352878 <i>The odds against Balboa making</i><br /><i>a comeback at 34 are very long indeed.</i>
+3353000 3356117 <i>Can he do it? Most experts doubt it.</i>
+3356240 3361314 <i>Balboa was a fine champion, but his</i><br /><i>time has passed. I wish him luck.</i>
+3362480 3366758 - Don't listen to it, Rocky.<br />- No, do listen to it, Rock.
+3366880 3371317 When this is over, a lot of folks are<br />gonna owe you an engraved apology.
+3372600 3376434 - And you're gonna owe me a big favour.<br />- What favour?
+3376560 3378755 When it's over. Hm?
+3383480 3388349 <i>(Paulie)</i> Rocko, come on! We're gonna<br />be late at the airport. Let's go!
+3388480 3391870 - Think we forgot anything?<br />- I think we have it all.
+3392000 3395879 - Maybe another sweater.<br />- No. California's not that cold, is it?
+3396000 3399276 OK, listen.<br />I want you to be a good boy, OK?
+3399400 3401675 - Don't give anybody a hard time.<br />- OK.
+3402440 3404556 Gimme a kiss.
+3411240 3414152 - We'll call when we land.<br />- Yeah, we'll call.
+3432000 3433991 # <i>I been told by</i>
+3435480 3438438 # <i>Some people, and they all</i>
+3439000 3441150 # <i>Say to take you back</i>
+3443360 3446079 # <i>Take you back like before</i>
+3447240 3450357 # <i>I don't call that a reason</i>
+3451320 3456758 # <i>I just call it believin' in myself</i>
+3457480 3459755 # <i>Believin' in myself</i>
+3461680 3464831 - What the hell are we doin' in LA?<br />- This is where I started.
+3464960 3467190 - So?<br />- So this is where he's startin'.
+3467320 3469914 This place is disgusting.<br />Let's stay at your place.
+3470040 3473555 You're missin' the point.<br />Let's check in and get over to the gym.
+3473680 3477798 Rock, we don't need this.<br />It's below your standards.
+3477920 3480957 We gotta give it a try, Paulie.<br />Come on, Adrian.
+3489640 3491835 # <i>I don't call that a reason</i>
+3491960 3493837 I don't even have a gun.
+3493960 3498192 # <i>I just call it believin' in myself</i>
+3499640 3500789 # <i>Believin' in myself...</i>
+3500920 3504549 <i>(Paulie)</i> Fun is fun. I like those<br />kind of things, but this, I don't like.
+3504680 3509913 Look at this place. Rats even have<br />more pride than to be caught dead here.
+3510040 3513350 I mean, look at the dump.<br />I just don't like it.
+3513480 3516278 - Think of Adrian's health.<br />- <i>(Adrian)</i> I'm fine, Paulie.
+3532080 3534196 Check this out.
+3542280 3544999 <i>(Apollo)</i> Yeah. Yeah...
+3546320 3550393 - This is where I started.<br />- That's your problem.
+3550520 3553717 Rocko, let's leave<br />before they leave us for dead.
+3555600 3559479 Yeah. You see that look<br />in their eyes, Rock?
+3559800 3562837 When we fought, I trained hard<br />but I didn't have that look.
+3562960 3564996 You had it and you won.
+3566560 3568516 Gotta get that look back, Rock.
+3568880 3572031 Eye of the tiger, man.<br />Eye of the tiger. Come on.
+3572160 3574071 Come on, let's go.
+3574200 3576953 Look at this place. No class in here.
+3577080 3579548 - Is he always so cheerful?<br />- I don't sweat you.
+3579680 3583116 - Hey, Paulie. Don't get mentally irregular.<br />- It's a free country.
+3583240 3587279 - Just don't get irregular.<br />- I don't need no philosophy lesson.
+3587400 3591632 - It takes six years to get to know him.<br />- I ain't got six years.
+3591760 3594035 Come on, Paulie, just relax. Come on.
+3595320 3597276 We're on business.
+3599640 3603428 - Hey! Hey, champ!<br />- Hey, Duke, my man!
+3603560 3606677 - Hey, everything's set up.<br />- Good. I know you know this man.
+3606800 3610236 Yeah. It's gonna be good workin'<br />with you and not against you.
+3610360 3612032 - How you feel?<br />- Pretty good, thanks.
+3612160 3614833 We've been livin' modern.<br />Now we're gonna train old.
+3614960 3616951 I'm goin' over here to talk to the guys.
+3617080 3619036 Hey! The champ is home.
+3621320 3625154 - We gotta leave. I got a reputation.<br />- What do you mean, reputation?
+3625280 3628750 - You heard. I don't like these people.<br />- You don't like 'em?
+3630720 3633439 Well, maybe they don't<br />like you either, Paulie.
+3633560 3636199 What'd I do to them?
+3636320 3638276 And they call me punchy.
+3638400 3642791 - Stallion. Come over and meet the fellas.<br />- I'll be right back.
+3642920 3644876 How you doin', guys?
+3649920 3651956 <i>(</i># <i>"Eye of the Tiger" by Survivor)</i>
+3655440 3658113 That's it, that's it.<br />Come on, on the toes. On the toes!
+3658240 3661915 On the toes. On the toes. On the toes.
+3663400 3665356 Come on, Rock.
+3665480 3669268 - He ain't too graceful.<br />- That's why we're here, Paulie.
+3669480 3672040 Waste of time. He's got heavy feet.
+3672160 3675038 Get on the balls of your feet.<br />Come on, relax, Rock.
+3675520 3679399 - Come on, get those feet outta concrete.<br />- It'll take time but it'll come.
+3679520 3682592 He can't train to the jungle junk music.
+3683280 3687592 <i>(Duke)</i> Come on, relax, Rock. On the<br />balls of your feet. Find the rhythm.
+3687720 3690188 We'll start a new dance called the crawl.
+3690320 3694393 You can't train him like a coloured<br />fighter. He ain't got no rhythm.
+3694680 3695635 Come on.
+3695760 3697796 - How stupid do I look!<br />- You look great.
+3698000 3700389 Everything we do<br />works out the jab. Good.
+3703640 3706712 - Can he swim?<br />- With a name like Rock?
+3706840 3710469 No time to waste. Let's go!<br />Another lap. Move it.
+3710600 3714229 - Another lap.<br />- He ain't no tuna. We belong in the gym.
+3714360 3716351 He's usin' muscles he never knew he had.
+3716480 3720678 Come on, Rock. Stretch now.<br />Move it, Rock. Move it.
+3720880 3724156 Nobody can change that much.<br />He's a bruiser. He ain't no boxer.
+3724280 3727431 You keep tellin' him that<br />and he'll be nothin'.
+3727560 3730916 Another lap. Come on now!<br />Move it. Move it!
+3731040 3734635 Come on. Move it, Rock.<br />Come on! Let's go. Let's go.
+3735040 3736792 That's it, stretch it out.
+3736920 3739798 That's it. You gotta pull. Hard, now. Hard.
+3740120 3741951 <i>(shouting)</i>
+3742080 3744116 <i>(glass breaks)</i>
+3744240 3747437 <i>(police siren)</i>
+3747560 3750916 Shut up, ya Sterno bums! I'll squash ya.
+3751040 3753190 There's decent people tryin' to sleep!
+3753320 3755959 Shut up, you honky scum bastard mother!
+3756080 3759390 Who needs this sick place? I don't.
+3761080 3763036 No class.
+3765960 3768190 Damn, that Clubber's strong.
+3768320 3771278 15 rounds is a long time.
+3771960 3773916 We gotta put him away early.
+3775480 3780190 I figure with the pace we gotta set, Rock<br />can last maybe seven or eight rounds.
+3781600 3783875 Then we'll be out of steam, man.
+3784400 3786550 <i>(Apollo)</i> We got to put him away early.
+3787320 3789276 <i>(running water)</i>
+3790080 3792913 <i>(Adrian)</i> At least the water's hot.
+3794960 3797315 Well, we never really had a honeymoon.
+3799600 3801556 It's not so bad.
+3803600 3806160 You've been in worse places.
+3806840 3809070 <i>(Stu) Rocky's in trouble in round two.</i>
+3809200 3812715 <i>He takes a right.</i><br /><i>He's been cut! Rocky's been cut!</i>
+3814560 3816516 Come on, Rock. Come on, now.
+3817640 3819870 Let's go. You gotta get tougher.
+3820000 3822912 Think smooth. Bounce. Bounce. Bounce.
+3823520 3826717 On your toes, Rock.<br />On your toes. On your toes!
+3827960 3830235 Push yourself, Rock! Concentrate.
+3830480 3834189 Let's move it, Rock.<br />Move it now. Come on!
+3834320 3836390 Have fun with it.
+3836520 3839080 That's it. Easy, easy, easy.
+3841600 3843670 Don't push it. Let it come.
+3843800 3847395 It'll come. It just takes time, baby.
+3847640 3850837 Move your head, move your head.<br />Up and down.
+3850960 3853269 Come on, come on.
+3853400 3856870 In and out. Inside. Inside. Inside, baby.
+3857400 3861678 - Side to side. Move your head.<br />- Watch him. He's got two hands, right?
+3866360 3871115 Damn, man! What the hell are you doin'?<br />This guy will knock you on your ass!
+3872760 3874830 Come on, Rock, it's not a game.
+3874960 3878589 You wanna live in a hospital<br />for five weeks this time?
+3878720 3882110 - You thought I was tough. He'll kill ya!<br />- All right.
+3882240 3886597 Come on. Get your head on your<br />shoulders, man. Think about the fight.
+3886720 3889678 Clubber Lang's in here.<br />He's tryin' to hurt you, Rock.
+3889800 3892473 Here it comes. Jab! He's jabbin'.
+3892760 3896594 He's tryin' to hurt you.<br />You gotta fight him. You gotta move.
+3897680 3901559 <i>(Stu) He's up against the ropes.</i><br /><i>He can't get out of the corner!</i>
+3905200 3907509 He's hookin'! He's hookin'! He's hookin'!
+3907640 3909596 Damn, Rock! Come on!
+3910480 3913870 - What's the matter with you?<br />- Tomorrow. We'll do it tomorrow.
+3914000 3916434 There is no tomorrow!
+3917080 3919036 There is no tomorrow!
+3919520 3921476 <i>There is no tomorrow!</i>
+3927000 3930072 There's one thing you gotta remember.<br />We gotta get some speed.
+3930160 3934153 You gotta get some flexibility. You<br />gotta get some quickness. Understand?
+3934280 3938478 Quickness, endurance. That's all we<br />gotta concern ourselves with, Rock.
+3938600 3940909 Mickey never had me do this.
+3941960 3944315 Yeah. OK, here we go.
+3945920 3947512 Ready.
+3951080 3953036 Set... Go!
+3956400 3958595 Come on. Come on.
+3965440 3967396 Come on.
+3968400 3970516 <i>(Mickey) You can't win, Rock.</i>
+3971720 3974678 <i>You ain't been hungry</i><br /><i>since you won that belt.</i>
+3975560 3977915 <i>He'll knock ya into tomorrow!</i>
+3980600 3984991 <i>(groans of anguish)</i>
+4020080 4022230 What's the matter?
+4022800 4025633 It's over. It's all over.
+4036560 4038915 What's the matter with you?
+4072640 4074551 Can I talk to you?
+4078800 4082554 I wanna ask you something important,<br />and I want you to tell me the truth.
+4082680 4086593 - What?<br />- Why'd you come here?
+4087920 4090229 I just don't want it no more.
+4090520 4095719 - If it's over cos you want it to be, I'm glad.<br />- I do.
+4096840 4100833 It's just... you've never quit<br />anything since I've known you.
+4104600 4108593 I don't know what you want me to say.<br />I mean, what happened?
+4108720 4111188 How did everything<br />that was so good get so bad?
+4112480 4114596 What's so bad? Tell me. What?
+4114720 4117712 I wrecked everything<br />by not thinking for myself.
+4117840 4121150 Why couldn't Mickey tell me<br />where it was really at from the start?
+4121280 4125796 He didn't have to carry me and lie and<br />make me think I was better than I was.
+4125920 4129196 - He never lied.<br />- Those fights weren't right.
+4129320 4131356 I never fought anybody in their prime.
+4131480 4135359 There was always some angle to keep<br />the title longer than I shoulda had it.
+4135480 4137277 Do you understand?
+4137400 4141632 You've gotta understand, he loved you!<br />That was his job, protecting you.
+4141760 4144957 Protectin' don't help nothin'.<br />It makes things worse.
+4145080 4150074 You wake up one day thinking you're<br />a winner, but you're not. You're a loser.
+4150200 4152873 So we wouldn't have had<br />the title as long. So what?
+4153000 4155798 - At least it would have been real.<br />- It was real!
+4155920 4158480 Nothing is real<br />if you don't believe in who you are.
+4158640 4160835 I don't believe in myself no more!
+4160960 4164191 When a fighter don't believe,<br />he's finished. That's it.
+4164320 4167278 That's not it.<br />Why don't you tell me the truth?
+4167400 4170472 What are you puttin' me through?<br />You wanna know the truth?
+4170600 4172556 I don't wanna lose what I got.
+4172680 4176912 At first, I didn't care about what happened.<br />I'd go in the ring, get bust up.
+4177040 4180032 But now there's you and the kid.<br />I don't wanna lose what I got!
+4180160 4185598 What do we have that can't be replaced?<br />What? A house. We got cars, money.
+4185720 4189235 We got everything but the truth.<br />What's the truth, dammit?!
+4189360 4191430 I'm afraid! All right?
+4191560 4194757 You wanna hear me say it?<br />You wanna break me down? I'm afraid.
+4194880 4196791 For the first time, I'm afraid.
+4196920 4199832 I'm afraid too.<br />There's nothin' wrong with that.
+4199960 4202713 - There is. For me, there is.<br />- Why? You're human.
+4202840 4207118 I don't know what I am. I know I'm a liar,<br />and because of that, Mickey ain't here.
+4207240 4211756 You didn't push him into anything. He was<br />a grown man. He did what he had to do.
+4211880 4214474 And you have no right to feel guilty.<br />You don't!
+4215080 4217958 You were a champion.<br />You did what you were expected to do.
+4218080 4220469 You did what everybody<br />thought you should do.
+4220600 4224639 And you wanna tell me that those fights<br />weren't real? I don't believe it!
+4225160 4229278 It doesn't matter what I believe.<br />You've got to carry that fear inside you...
+4229400 4234269 ...afraid everybody'll take things away,<br />that you'll be remembered as a coward...
+4234400 4237995 ...that you're not a man any more.<br />Well, none of it's true.
+4238120 4242636 It doesn't matter if I tell you because<br />you're the one that's got to settle it.
+4242760 4247788 Get rid of it! Cos when the smoke clears,<br />and they stop chanting your name...
+4247920 4249558 ...it's just gonna be us.
+4249680 4252956 And you can't live like this.<br />We can't live like this.
+4253080 4258108 Cos it's gonna bother you for the rest of<br />your life. Look what it's doing to you now.
+4263080 4266356 Apollo thinks you can do it. So do I.
+4267040 4271238 But you gotta wanna do it for the right<br />reasons. Not for the guilt over Mickey.
+4271360 4276593 Not for the people, not for the title,<br />not for money, or me - but for you.
+4277400 4279356 Just you. Just you alone.
+4283160 4286550 - And if I lose?<br />- Then you lose.
+4286680 4291276 But at least you lose<br />with no excuses. No fear.
+4291400 4294676 And I know you could live with that.
+4301360 4304033 How'd you get so tough?
+4305200 4307555 I live with a fighter.
+4313440 4315670 I really love you.
+4321960 4323916 I love you.
+4330720 4332676 <i>(</i># <i>Rocky theme)</i>
+4345880 4349077 No, no, no. Rock, no.<br />Just flick it. Just flick it.
+4354200 4356156 Faster! Faster!
+4368760 4370990 Good. Five more laps.
+4372960 4374439 Punch it!
+4375480 4376754 On your toes!
+4379400 4383075 # <i>Gonna fly now</i>
+4384280 4388592 # <i>It's all right now</i>
+4389040 4393431 # <i>Flying high now...</i>
+4403560 4405516 Jab out! Get him!
+4407520 4409476 Gotta move it faster.
+4414920 4417229 Faster! Faster! Kick it!
+4418040 4419632 <i>(Apollo laughs)</i>
+4419760 4421193 Very nice!
+4436320 4438550 Move your head. Beautiful!
+4438960 4442032 That's right. Under! Under and over.
+4442160 4444628 Send him out!
+4451400 4455951 # <i>Feeling strong now</i>
+4456080 4458833 # <i>Nothing wrong now</i>
+4458960 4461554 Faster. Faster. Yeah!
+4466360 4468828 Now! Yeah!
+4470960 4473633 Hey, Rocky the fish!
+4473760 4475352 Yeah! Yeah!
+4503160 4507756 # <i>Gonna fly now</i>
+4507880 4512351 # <i>Nothin' wrong now</i>
+4512480 4517474 # <i>Gonna fly</i>
+4517920 4522357 # <i>Fly, fly</i>
+4522480 4525836 # <i>Fly</i>
+4527560 4529755 <i>Good evening.</i><br /><i>I'm Stu Nahan, with Bill Baldwin.</i>
+4529880 4532519 <i>We welcome you</i><br /><i>to Madison Square Garden.</i>
+4532640 4535154 It's the anxiously awaited rematch...
+4535280 4540070 ...between former champion Rocky Balboa<br />and the reigning champion Clubber Lang.
+4540240 4544358 We now switch to our remote<br />cameras inside the dressing rooms.
+4544480 4548155 Would you comment on how you plan<br />to fight Balboa? What's your strategy?
+4548280 4551158 Don't need any.<br />Balboa's so predictable and stupid.
+4551280 4555319 The man comes straight ahead. He's<br />tailor-made for me. He's gonna get hurt.
+4556560 4559757 - That's good.<br />- Turn 'em over. Good?
+4559880 4562235 How does that look? OK?
+4562360 4564874 No, I don't hate Balboa. But I pity the fool.
+4565000 4568879 And I will destroy<br />any man who tries to take what I got.
+4572080 4574799 Remember where you came from.
+4574920 4578151 Remember what it took to get you here.
+4578280 4580953 And remember what<br />he did to you last time, right?
+4581120 4584669 Both are brawlers, with the edge<br />and power going to Clubber Lang...
+4584800 4588839 ...so I would say the odds are very long<br />against Balboa regaining his title.
+4589280 4592511 Now it's your turn. It's your turn, huh?
+4594240 4596196 What's your prediction for the fight?
+4596320 4600438 - Prediction?<br />- Yes. Prediction.
+4600560 4602278 Pain.
+4602400 4605278 Lang likes to hurt a man to the body.
+4605400 4608437 And Balboa may never have<br />psychologically recovered...
+4608560 4611358 ...from that vicious knockout<br />that Clubber laid on him.
+4613040 4614996 It's time.
+4616200 4618156 - Here.<br />- What?
+4620760 4623149 I want you to wear these.
+4624800 4629476 Come on, Apollo. These are the colours<br />that you wore in our first fight together.
+4629600 4632068 I... I can't wear your colours.
+4632200 4634634 Just wear 'em.
+4634760 4636716 - Yeah?<br />- Yeah.
+4637680 4639193 Thanks, Apollo.
+4639320 4642198 Just make sure you wash 'em<br />before you bring 'em back.
+4642320 4644436 Will do. Will do.
+4645120 4647839 - Thanks, Apollo.<br />- Hey, and remember...
+4647960 4649951 ...after this you owe me a favour.
+4650520 4652078 What favour?
+4652200 4656671 I'd have to agree. Toe to toe, Lang is<br />devastating, and he's much too strong.
+4656800 4659155 <i>(crowd chants)</i> Rocky! Rocky!
+4659280 4661714 Listen. I wanna tell you<br />that I'm proud of you.
+4661840 4665355 It takes a helluva man to change,<br />and you did it. Prove it to 'em, right?
+4665480 4667516 - You did good, Apollo.<br />- Thanks, Paulie.
+4667640 4669596 Let's do it, Paulie.
+4670680 4674798 <i>(Stu)</i> Here come Rocky and Apollo,<br />the two former champions.
+4681400 4684119 Look at the tenseness in his face,<br />that taut body.
+4684240 4686708 - Boy, does he look serious right now.<br />- He does.
+4686840 4691595 You know, Stu, the word is that this is<br />Rocky's last fight - win, lose or draw.
+4691720 4696111 <i>(Stu)</i> There he is, the Italian Stallion,<br />Rocky Balboa, climbing into the ring.
+4696240 4700597 Boy, he looks incredibly thin.<br />I'd say he's gotta be about 20lb lighter.
+4700720 4703393 <i>(Bill)</i> Rocky Balboa,<br />the iron man from Philadelphia.
+4703520 4706353 This crowd is with him tonight. Listen.
+4708200 4710509 <i>(Stu)</i> Balboa doesn't really have<br />any boxing skills.
+4710640 4713234 But I've never seen as much<br />raw determination...
+4713360 4715191 Hold it, Stu.
+4715320 4718790 Here comes the champion now,<br />Clubber Lang. Look at this crowd.
+4720840 4726278 <i>(Stu)</i> Look at those eyes. I've never seen<br />a guy with such sullen eyes. He is tough.
+4726400 4729392 Clubber, go back where you came from!
+4730760 4734116 He even belted a spectator.<br />Did you see that? Look at that man.
+4734240 4737994 Boy, awesome. Man, he's tough.
+4738120 4741999 <i>(Bill)</i> Clubber Lang,<br />the heavyweight champion of the world!
+4742400 4744595 Hey, fool! You ready for another beatin'?
+4744720 4746836 You should've never came back!
+4746960 4749235 - Don't look at him.<br />- Let's just be cool.
+4749480 4751357 Hey, boy.
+4751480 4755268 Hey, boy. After I crucify him, you're next.
+4755440 4758671 - Just stay outta my face, chump.<br />- Don't turn your back on me.
+4758800 4761633 <i>(Stu)</i> We got a brawl before the bell.
+4761760 4764433 <i>- (bell rings)</i><br />- This ring is ready to explode!
+4764560 4767597 With the fight about to officially begin...
+4769080 4772470 - I'm gonna get you! Let him go!<br />- Come on!
+4772600 4774670 Let him go! I want him!
+4774800 4776756 - You said be cool.<br />- That was cool.
+4776880 4779713 I'm the champ!<br />I'll beat ya like I did last time.
+4779840 4782718 You won't have to look to find me.<br />I'm here.
+4782840 4785877 Boxing fans around the world...
+4786000 4788514 ...welcome to Madison Square Garden...
+4788640 4792474 ...and tonight's heavyweight<br />championship of the world!
+4794640 4796596 Out of the red corner...
+4796720 4801555 ...the challenger, weighing 191 lb...
+4801680 4804956 ...from the fighting city of Philadelphia...
+4805080 4808197 ...the former heavyweight<br />champion of the world...
+4808320 4810390 ...the Italian Stallion...
+4810520 4815833 ...Rocky Balboa!
+4815960 4818474 <i>(cheering)</i>
+4820960 4824350 I tell ya, he has so slimmed down,<br />he looks like a middleweight.
+4824960 4830159 Out of the blue corner, weighing 237lb...
+4830280 4833352 ...the hard-punching pedlar<br />from Chicago...
+4833520 4837479 ...the reigning heavyweight<br />champion of the world...
+4837600 4840512 ...Clubber Lang!<br /><i>- (booing)</i>
+4841480 4843755 Referee... Lou Filippo.
+4844400 4846436 OK, boys. Let's go.
+4847080 4850516 We went over the rules yesterday.<br />I'm gonna repeat a few of 'em.
+4850640 4852756 Watch your low blows<br />and rabbit punches.
+4852880 4855599 In case of a knockdown,<br />go to the corner I tell you to...
+4855720 4858359 ...and you stay there<br />until I tell you to come out.
+4858480 4861199 Is that understood? Any questions?
+4861320 4863470 Let's go back to your corner now.<br />Let's go.
+4864640 4868076 - I'm gonna bust you up.<br />- Go for it.
+4870320 4874677 <i>(Stu)</i> Here we go. The war is on!<br />We're just waiting for the bell.
+4874800 4876995 Take my belt off. I'll get that chump.
+4877120 4880396 Don't let this bum let you fight his fight.<br />You're the best!
+4881400 4883038 Hell.
+4883200 4886590 Rhythm and power. Then jab him.
+4886720 4888676 <i>(chanting)</i> Rocky! Rocky!
+4891840 4894354 <i>(Stu)</i> It should be a great fight!
+4894480 4895435 <i>(bell rings)</i>
+4895560 4899599 Balboa goes right out of his corner<br />and right after Clubber Lang.
+4899720 4903508 He's going right to left, into Clubber's<br />face. What a start to the fight!
+4903640 4906473 <i>(Bill)</i> Another jab. Another jab.
+4907000 4910037 And another!<br />This is not the Rocky we expected!
+4910320 4912356 Looks fantastic.
+4915520 4919832 <i>(Stu)</i> Another right. And a right.<br />Look at that! A right and left to the head!
+4919960 4924272 <i>(Bill)</i> Clubber Lang doesn't know what's<br />happening. He's being stung by this style.
+4924400 4927153 Look at the shots he's taking.
+4929120 4933750 - He can't corner the fleet-footed fighter.<br />- It's absolutely unbelievable!
+4935360 4938079 Come on, you oversized hick!<br />Bring it to me! Hit me!
+4938200 4940873 <i>(Stu)</i> That right hand is like a triphammer!
+4944240 4946515 - Rock, tie him up!<br />- Bring it to me! Hit me!
+4947000 4949434 Come on, get back. Get back!
+4949560 4952358 <i>(Stu)</i> Tough first round!
+4952480 4955040 There's Rocky with<br />a couple of rights and lefts.
+4955160 4957276 Get off! Get off!
+4958080 4960799 <i>(Bill)</i> This crowd is going absolutely wild.
+4980960 4982109 <i>(bell rings)</i>
+4986160 4990392 <i>(Bill)</i> We got pandemonium in the ring<br />at the end of round one.
+4990520 4994274 Lang wants more.<br />He can't realise that the round is over!
+4994400 4996277 <i>(Clubber yells)</i>
+4996400 5000473 All right, you looked great.<br />Just don't get crazy and we're home.
+5000600 5003319 - I'll kill you, man<br />- The man is strong.
+5003440 5006591 I'm gonna kill him. I'm gonna kill him.
+5008240 5010196 Now he's gonna come hard, right?
+5010320 5015235 - Don't give him a chance to settle.<br />- Counter and move. Counter and move.
+5015360 5018352 <i>(Stu)</i> He had Lang at his mercy!
+5019360 5021316 <i>(bell rings)</i>
+5022560 5026269 <i>(Bill)</i> Now it's Lang coming out for Rocky.
+5027240 5032109 Rocky has him in his corner<br />and is still landing rights and lefts.
+5032800 5034916 A right to the head. Another.
+5035040 5038635 He's really setting him up.<br /><i>Five</i> unanswered shots!
+5039920 5042559 Kill him! Kill him!
+5045920 5047831 - Get outta there!<br />- Get back!
+5052920 5055480 All right!
+5057440 5059476 Break it up. Break it up.
+5059600 5062672 - What are you doin'?<br />- Come on, Balboa.
+5064480 5066675 Get your hands up. Come on, Rock!
+5068080 5070640 That right hand hurt Rocky again!
+5072160 5075232 <i>(Bill)</i> Balboa's in trouble now.
+5079320 5081754 Hold him, dammit!
+5082960 5087158 - Come on, Rocky!<br />- <i>(Bill)</i> This is Clubber's round.
+5092840 5094796 And Balboa is down.
+5096000 5098389 - Get up, dammit!<br />- Come on.
+5099000 5101150 - Five!<br />- <i>(Stu)</i> He's in trouble.
+5101280 5103430 Six!
+5103560 5105391 Seven!
+5106480 5110473 <i>(Bill)</i> It's Clubber again. Lang with<br />the left hand. Another left and a right!
+5113000 5115150 And down goes Balboa again.
+5116560 5118073 Stop the fight.
+5118480 5121597 - Six!<br />- I got some more, so get up.
+5122040 5123996 I got a lotta moves. Come on!
+5124120 5126918 <i>(Bill)</i> Here we go again.<br />Clubber coming into him!
+5131680 5134672 - You ain't so bad. You ain't so bad.<br /><i>- (bell rings)</i>
+5135480 5137550 You ain't so bad. You ain't nothin!
+5137680 5140638 You must be crazy.<br />You're just a stupid fool.
+5140760 5144389 - But I ain't breathin' heavy.<br />- He's a fool. He's stupid.
+5144520 5146556 How could he come back<br />from that beating?
+5146680 5148796 What the hell are you doin'?
+5148920 5152629 - It's a strategy. I know what I'm doin'.<br />- You don't know.
+5152760 5156309 - He's gotta come to you.<br />- He's nothin'. He's mine.
+5156440 5160638 Stand toe to toe with this bum and<br />he'll kill you. He'll beat your head off.
+5160760 5162591 He's gettin' tired.
+5163480 5167598 Don't go wasting your punches.<br />Don't try to take him out with one punch.
+5167760 5170911 Use your head. You wear him down.<br />He's all ours.
+5171280 5172872 I know what I'm doin'.
+5173000 5177232 Don't tell me what you think!<br />Go out there and do it. Eye of the tiger.
+5177360 5178679 <i>(buzzer)</i>
+5178800 5182031 Knock his head off. He's just a man.
+5182760 5186435 Be more man than him.<br />Go get him. Eye of the tiger.
+5187640 5189073 <i>(bell rings)</i>
+5189200 5193910 <i>(Bill)</i> Round three - tough round to call.<br />This is a little slower...
+5194040 5196031 It's my round.
+5196160 5198958 I'm gonna take ya this time.
+5199080 5201275 You're mine. You're mine.
+5201400 5204073 - Come on. Come on.<br />- I'm gonna get ya.
+5216200 5218714 Get outta there.
+5222360 5224351 Get outta there!
+5224480 5226914 - Come on.<br />- Stick him.
+5230200 5232156 Come on!
+5233560 5235118 Again, again!
+5235320 5238915 - He's gettin' killed<br />- No, no, no, he's not. He's gettin' mad.
+5239040 5241634 The whole world's watching.<br />Knock me out.
+5243200 5245794 Harder! Can you hit hard? Hit me harder!
+5252640 5254471 Get outta there!
+5256360 5258715 Rocky!
+5263160 5264593 Yeah!
+5265400 5267595 My mother hits harder than that. Come on!
+5267720 5269836 A little harder. Hit me on the face.
+5271480 5273516 Come on, champ. You ain't so bad.
+5274080 5276116 You ain't nothin'.
+5278480 5279879 Rocky!
+5280000 5282753 <i>(chanting)</i> Rocky! Rocky!
+5295240 5298835 <i>(Stu)</i> I might believe the strategy now.<br />He's making Clubber miss!
+5298960 5303238 He drew him in. Now Rocky's throwing<br />the punches. Look at the punches.
+5305240 5309597 He's lifting him right off<br />the canvas with those punches!
+5314120 5316076 He's completely psyched out!
+5317680 5320274 Lang is confused by all of this!
+5345440 5347396 <i>(cheering)</i>
+5348960 5350916 <i>(cheering)</i>
+5352480 5353754 Come on!
+5356800 5358756 <i>(wild cheering)</i>
+5364120 5367396 The place is going bananas!
+5368040 5370270 - Get up!<br />- Five!
+5370400 5371469 Six!
+5371920 5373512 Seven!
+5373640 5375596 Eight! Nine!
+5375840 5378274 Ten. You're out.
+5381280 5384033 <i>(cheering)</i>
+5386960 5392717 <i>(Stu)</i> There he is, the new heavyweight<br />champion of the world, Rocky Balboa!
+5394960 5396916 Rocky is exhausted.
+5402080 5405755 <i>(MC)</i> Ladies and gentlemen,<br />the winner by knockout...
+5405880 5409919 - Are you all right?<br />- Never better. Never better.
+5411080 5415358 ...the heavyweight champion of the world,<br />the Italian Stallion...
+5415480 5418199 ...Rocky Balboa!
+5418320 5420276 <i>(cheering)</i>
+5428040 5430873 <i>- (Apollo)</i> We made a deal.<br />- I know, but this is extremely crazy.
+5431000 5432956 Yeah. Mentally irregular, right?
+5433080 5435719 But it makes sense. You owe me a favour.
+5435840 5438593 I know, but, uh...<br />When did you think of this?
+5438720 5442269 - About three years ago.<br />- This is very crazy, Apollo.
+5442400 5447349 Stallion, when you won that last fight,<br />you beat me by one second.
+5447480 5449869 That's hard for<br />an intelligent man to handle.
+5450000 5453879 - Didn't you say you learnt to live with it?<br />- I lied.
+5454000 5456389 - Oh, you lied!<br /><i>- (Apollo laughs)</i>
+5456600 5461628 - So now you gotta prove it to yourself?<br />- No TV, no newspapers. Just you and me.
+5461760 5464672 Nothin'. Just you and me.<br />Age before beauty.
+5464800 5467872 - Anything you say.<br />- I'll do all the work, OK?
+5468000 5471959 You better go slow cos you ain't<br />as young as springtime any more.
+5472080 5474548 I'm still young enough<br />to whip your butt.
+5474680 5478036 Yeah? How you gonna do that?<br />You taught me everything you know.
+5478360 5483514 Almost everything. You gotta remember,<br />you fight great, but I'm a great fighter.
+5483640 5486234 - You ready?<br />- Absolutely.
+5487400 5490756 You know, Stallion,<br />it's too bad we gotta get old.
+5490880 5492233 <i>(laughs)</i>
+5492360 5494316 Ah, just keep punchin', Apollo.
+5496400 5498356 You wanna ring the bell?
+5498480 5499629 All right.
+5499760 5501716 Ding-ding.
+5502800 5504756 Come on, Stallion.
+5505240 5507037 <i>(laughing)</i> Come on, come on.
+5507640 5510074 Boy, you really move good<br />for an older guy.
+5511560 5514154 You're lookin' good. I taught you well.
+5514720 5517792 I think you taught me too good.<br />Look at him fly.
+5517920 5521117 Look out now. No, no, you don't<br />want any of this. Come on.
+5522480 5526598 - Maybe I'm in here with the wrong guy.<br />- Watch yourself. Ready?
+5526720 5530429 # <i>It's the eye of the tiger</i><br /><i>It's the thrill of the fight</i>
+5530560 5533950 # <i>Risin' up to the challenge of our rival</i>
+5534840 5538879 # <i>And the last known survivor</i><br /><i>Stalks his prey in the night</i>
+5539000 5543437 # <i>And he's watching us all with the eye</i>
+5543560 5546028 # <i>Of the tiger</i>
+5548720 5550119 # <i>Risin' up</i>
+5550240 5552708 # <i>Back on the street</i>
+5552840 5556913 # <i>Did my time, took my chances</i>
+5557040 5560191 # <i>Went the distance</i><br /><i>Now I'm back on my feet</i>
+5560320 5564359 # <i>Just a man, and his will to survive</i>
+5565440 5569194 # <i>So many times, it happens too fast</i>
+5569640 5572950 # <i>You change your passion for glory</i>
+5573840 5574909 # <i>Don't lose your grip</i>
+5575040 5577031 # <i>On the dreams of the past</i>
+5577160 5581392 # <i>You must fight just to keep them alive</i>
+5581640 5585679 # <i>It's the eye of the tiger</i><br /><i>It's the thrill of the fight</i>
+5585800 5589634 # <i>Risin' up to the challenge of our rival</i>
+5589760 5594038 # <i>And the last known survivor</i><br /><i>Stalks his prey in the night</i>
+5594160 5598358 # <i>And he's watchin' us all with the eye</i>
+5598640 5600949 # <i>Of the tiger</i>
+5604000 5605433 # <i>Face to face</i>
+5605560 5607516 # <i>Out in the heat</i>
+5608200 5611033 # <i>Hangin' tough, stayin' hungry</i>
+5612160 5615550 # <i>They stack the odds</i><br /><i>Still we take to the street</i>
+5615680 5619673 # <i>For the kill with the skill to survive</i>
+5619800 5621756 # <i>It's the eye of the tiger</i>
+5621880 5623871 # <i>It's the thrill of the fight</i>
+5624000 5627993 # <i>Risin' up to the challenge of our rival</i>
+5628120 5632193 # <i>And the last known survivor</i><br /><i>Stalks his prey in the night</i>
+5632320 5636438 # <i>And he's watchin' us all with the eye</i>
+5636560 5639597 # <i>Of the tiger</i>
+5646240 5649516 # <i>Risin' up, straight to the top</i>
+5650240 5653312 # <i>Had the guts, got the glory</i>
+5654440 5657716 # <i>Went the distance</i><br /><i>Now I'm not gonna stop</i>
+5657840 5661719 # <i>Just a man and his will to survive</i>
+5661840 5664195 # <i>It's the eye of the tiger</i>
+5664320 5665833 # <i>It's the thrill of the fight</i>
+5665960 5670078 # <i>Risin' up to the challenge of our rival</i>
+5670200 5674398 # <i>And the last known survivor</i><br /><i>Stalks his prey in the night</i>
+5674520 5679435 # <i>And he's watchin' us all with the eye</i>
+5680920 5684276 # <i>Of the tiger</i>
+5693200 5695156 # <i>The eye of the tiger</i>
+5696280 5698236 Subtitles by Visiontext
