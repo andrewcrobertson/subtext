@@ -1,0 +1,30 @@
+{
+  "imdbId": "tt0112864",
+  "title": "Die Hard with a Vengeance",
+  "releaseDate": "1995-05-19T00:00:00.000Z",
+  "releaseYear": 1995,
+  "posterFileName": "poster.jpg",
+  "rated": "R",
+  "genres": ["Action", "Adventure", "Thriller"],
+  "directors": ["John McTiernan"],
+  "writers": ["Jonathan Hensleigh", "Roderick Thorp"],
+  "actors": ["Bruce Willis", "Jeremy Irons", "Samuel L. Jackson"],
+  "runTime": 128,
+  "plot": "John McClane and a Harlem store owner are targeted by German terrorist Simon in New York City, where he plans to rob the Federal Reserve Building.",
+  "subtitleIds": [
+    "dfeaa73",
+    "fb976d5a",
+    "13c28e4b",
+    "cb437c17",
+    "8bc1b15a",
+    "7b57c889",
+    "b02ac4f4",
+    "6097b23c",
+    "848368a2",
+    "9e0eadf8",
+    "b8bf91a6",
+    "859674a4",
+    "89bfe3d8"
+  ],
+  "isAvailable": true
+}

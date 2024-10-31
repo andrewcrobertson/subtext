@@ -1,0 +1,1310 @@
+36870 41583 False alarm. Hold it! It's OK,<br />I'm here. It's all right.
+43460 45420 - Set it down nice and easy.
+45462 48131 - At the impound. Next<br />time, read the sign.
+48173 50133 You don't understand. I'm here<br />to meet my wife's plane.
+50175 52093 Let me have this car.
+52135 55221 Sure. Tomorrow, 8.00 to 4.00.<br />Pay $40, we give it back.
+55263 57182 Don't write it up!
+57223 59184 This is my mother-in-law's car.
+59225 61770 She's already mad at me<br />cos I'm not a dentist.
+61811 65815 - Look, I'm a cop. LAPD.<br />- I was in LA once. Hated it.
+66858 69235 I can understand. I don't like<br />it much...
+69277 72405 That's a plastic fender up<br />there. Take it easy!
+72447 75367 Cut me some slack, will you?<br />I was a cop in New York City.
+75408 78745 I only moved to LA cos my wife<br />took a job there.
+78787 79871 What do you say?
+79913 83166 Here we are, Washington, DC, the<br />heart of democracy.
+83208 85043 One hand<br />washes the other.
+85085 86378 Come on, man. It's Christmas.
+86419 89339 So ask Santa Claus to give you<br />another car.
+89381 91174 Merry Christmas, pal.
+92801 94803 It's all yours, Murray.
+98390 99933 Son of a bitch.
+141766 144019 - Hi. Where are the telephones?<br />- Over there.
+144060 145937 Thank you very much.
+145979 149733 <i>Leonard Adkins has a story<br />that grows hotter by the minute.</i>
+149774 153486 <i>Security was tight today<br />at Escalan airport in Valverde,</i>
+153528 156281 <i>where it is reported<br />that deposed general,</i>
+156322 159284 <i>Ramón Esperanza, will be<br />delivered for extradition</i>
+159325 160618 <i>to the United States.</i>
+161369 164372 <i>Two years ago, the general led<br />his country's army</i>
+164414 166958 <i>against communist insurgents</i>
+167000 170170 <i>in a campaign fought with<br />American money and advisers.</i>
+170211 172630 <i>Esperanza's fall from power<br />caused ripples</i>
+172672 174632 <i>in his country's recent<br />election,</i>
+174674 176968 <i>and closer to home as well,</i>
+177010 179137 <i>when Pentagon officials<br />were charged with</i>
+179179 182098 <i>supplying him with weapons,<br />despite the Congressional ban.</i>
+182807 185560 <i>Evidence that Esperanza's forces<br />violated the</i>
+185602 187437 <i>neutrality of<br />neighbouring countries</i>
+187479 189564 <i>made Congress withhold funds.</i>
+189606 192942 <i>Funds which Esperanza is accused<br />of replacing</i>
+192984 195362 <i>by going into<br />cocaine smuggling.</i>
+195403 199449 <i>Although Esperanza was removed<br />as commander in chief this year,</i>
+199491 202744 <i>the agreement to extradite him<br />was only reached yesterday.</i>
+202786 206790 <i>Washington insiders say a phone<br />call made it happen,</i>
+209459 213129 <i>a phone<br />call from a...</i>
+213171 214506 All right!
+218426 221554 If I could find a phone,<br />I'd call you, whoever you are.
+254004 255797 Excuse me. Thank you.
+264723 267475 <i>This is Lieutenant McClane.<br />Somebody beep me?</i>
+267517 269811 - I'd like to think I'm<br />somebody.
+269853 272814 - Honey! Where are<br />you? Did you land yet?
+272856 274816 It's the nineties, remember?
+274858 278319 Microchips, microwaves, faxes,<br />air phones.
+279612 281614 As far as I'm concerned,
+281656 283700 progress peaked with frozen<br />pizza.
+283742 287078 Listen, we're gonna be<br />about half an hour late landing.
+287120 290457 I just wanted to let you know.<br />The kids OK?
+290498 293460 They're about to lose their<br />minds from all the sugar
+293501 294961 your<br />parents are giving them.
+295003 297797 Did Mom give you a hard<br />time about borrowing her car?
+297839 300008 No. Not yet.
+300508 304846 Listen, honey, when you land,<br />can we just rent a car,
+304888 308141 check into a hotel, leave the<br />kids with your parents?
+308183 311644 Order some room service, a<br />bottle of champagne?
+311686 313438 What do you<br />say?
+313480 315482 You're on, Lieutenant.
+315523 318735 I'll see you in half an hour,<br />honey. I love you. Bye.
+323656 326076 Isn't technology wonderful?
+327660 330455 - My husband doesn't think so.<br />- I do.
+331581 334542 I used to carry around<br />those awful Mace things.
+334584 335877 Now...
+338171 341549 I zap any bastard that screws<br />with me.
+343968 346179 I tried it on my little dog.
+347514 349891 Poor thing limped for a week.
+357399 358692 Excuse me.
+360568 362487 You look really familiar to me.
+362529 364989 I get that a lot. I've been on<br />TV.
+365031 366825 Yeah. Me too.
+391766 394060 - Grab the tools.<br />- You got it.
+394644 397939 <i>This is Amy Nichole,<br />live from Escalan airport,</i>
+397981 400025 <i>where deposed general, Ramón<br />Esperanza,</i>
+400066 402569 <i>has just arrived<br />under heavy guard.</i>
+402610 405655 <i>The deposed dictator's mood<br />seems jubilant.</i>
+405697 408742 <i>He is smiling and waving to the<br />crowd,</i>
+408783 411453 <i>like a man running for<br />political office.</i>
+411494 413705 <i>..thousands of political<br />prisoners,</i>
+413747 415999 <i>including the new<br />president.</i>
+416041 419836 <i>There's no doubt he still has<br />some ardent supporters,</i>
+419878 421588 <i>both<br />here and abroad.</i>
+421629 424299 <i>Rumours abound on Capitol Hill<br />that there were...</i>
+427510 430180 - Yeah? - Sir, we're checking<br />our equipment.
+430221 432307 - Any problems with the conduit<br />line?
+432349 434434 - I don't know anything<br />about that.
+434476 437604 - Would you mind if we take a<br />look? - Help yourself.
+449366 452535 It don't seem right somehow,<br />closing down this church.
+452577 454954 The parish is gonna keep on<br />using it,
+454996 456831 but it won't be the<br />same.
+456873 460293 Been here a lot of years, and<br />I've been right here with it.
+460335 463213 Yeah, I kind of feel like a<br />piece of me
+463254 464714 is dying with this<br />church.
+464756 466633 You're right about that.
+472389 476309 <i>..cocaine smuggling and bribing<br />government officials.</i>
+476351 478311 <i>He certainly doesn't show it,</i>
+478353 480563 <i>but no matter how high his<br />spirits,</i>
+480605 484609 <i>they can't hide the fact that<br />the US war on drugs</i>
+486236 488780 <i>has taken<br />its first prisoner.</i>
+488822 491783 This is Buckwheat. The clubhouse<br />is open.
+494661 497539 <i>Here at Dulles, the men from the<br />Justice Department</i>
+497580 500000 <i>wait to handcuff the man who<br />symbolises</i>
+500041 502627 <i>the enemy in America's fight<br />against cocaine.</i>
+502669 506047 <i>That battle may be almost won,<br />but the war is still in doubt.</i>
+506089 509426 <i>Samantha Coleman, WNTW,<br />for Night-Time News.</i>
+509467 511553 Roger that, Colonel. Out.
+527110 528903 That was the Colonel.
+529821 532657 Everyone's in position. How's<br />the weather?
+532699 535744 We got flurries all along the<br />Virginia coast.
+535785 538747 New storm front coming in<br />from the northeast.
+539664 542334 - God loves the infantry.<br />- Amen.
+543918 546046 Carry out your assignments.
+548965 551718 - 15.51. Mark.<br />- Check.
+553094 554429 Later.
+577535 580538 It's cold out there, man!
+583166 586169 I stomped my feet<br />for five minutes.
+591132 593551 Two cappuccinos. Make it fast.
+614739 619119 Excuse me, officers. This may<br />sound like a wild-goose chase,
+619160 621371 but I think I saw...
+621413 622914 Saw what?
+623998 626793 Elvis. Elvis Presley.
+629754 631881 Fucking tourists. Ought to be a<br />law.
+632757 634801 There's a lot of you from<br />the Justice Department here.
+634843 638763 - Is there any particular reason<br />for that? - Just routine.
+639055 641599 - Any comment, sir?<br />- Not now.
+642726 644436 Thank you, sir.
+649441 651735 That's Colonel Stuart over<br />there.
+652235 655363 Got a little problem with<br />personnel.
+655405 656448 Last-minute<br />replacement.
+656489 660035 - How's the security here?<br />- Like we figured... a joke.
+660910 662829 Colonel Stuart,<br />could we have a few words?
+662871 665123 You can have two: "fuck" and<br />"you".
+665165 667584 No pictures, you pinko bitch.
+669836 671129 Old news.
+710794 712295 Hey, man.
+714964 717175 - What is it?<br />- You got a key for this door?
+717217 719052 Yeah. Why?
+719094 722013 Because I want you to open it<br />up, that's why.
+724641 727977 - Is there a cop on duty around<br />here? - The airport police.
+728019 729562 Go get 'em.
+767976 772313 All right. Perfect. Good to go.
+775900 778987 It's a restricted area. What's<br />the matter?
+779029 781990 - Couldn't wait for a skycap?<br />- We work here.
+782198 784284 Let's see some ID.
+784325 786411 Sure. No problem.
+827660 829829 Jeez. Fuck!
+877127 879045 This is a tag team?
+912120 914039 He came in here and flashed a<br />badge?
+914080 917000 Yeah. He said to bring you guys<br />back here.
+944152 945737 Christ.
+962921 964255 Fucker!
+965340 966800 Freeze!
+968093 971638 Nice guess, asshole.<br />I'm a cop. That was the bad guy.
+972305 974140 Where's your ID?
+978269 980313 On its way to Cleveland?
+986194 988154 You did not explain anything.
+988196 990990 You just shoved me back here<br />into this cattle car.
+991032 993535 - Sir, you were told we were<br />overbooked.
+993576 995161 - Fine. I accept<br />that.
+995203 997288 But why can't I get the<br />first-class meal
+997330 998373 my network paid<br />for?
+998415 1000375 - Do you know who I am?<br />- Yes.
+1000417 1001459 We've seen your programme.
+1001501 1004754 Your episode "Flying Junkyards"<br />was an objective look
+1004796 1006006 at<br />air-traffic safety.
+1006047 1009259 It wasn't nearly as edifying<br />as "Bimbos of the Sky",
+1009300 1010260 wasn't it, Connie?
+1010301 1013138 You think you're funny.
+1013430 1016474 Fine. I've got your number.
+1016516 1019602 And I've got yours. So park it,<br />sir.
+1022105 1023356 Fine.
+1033116 1035869 - Stewardess.<br />- Mr Thornberg.
+1035910 1038079 You cannot monopolise my time.
+1038121 1041332 - You cannot put me near that<br />woman. - Excuse me?
+1042834 1046338 He means he's filed<br />a restraining order against me.
+1046629 1049174 I'm not allowed within 50 feet<br />of him.
+1049215 1052677 50 yards. So by keeping me in<br />this section,
+1052719 1055055 you are violating<br />a court order.
+1055096 1057307 I can sue you and this airline.
+1058224 1062020 That woman assaulted me,<br />and she humiliated me in public.
+1070070 1071654 What did you do?
+1073365 1075784 Knocked out two of his teeth.
+1076326 1078328 Would you like some champagne?
+1082248 1084918 Sorry, Officer McClane. I had to<br />check.
+1084959 1087337 Here's your piece and shield<br />back.
+1088213 1089631 Thanks.
+1097222 1099599 Jesus! Christ!
+1100517 1103228 What the fuck are you people...<br />What are you doing?
+1103269 1106272 This is a crime scene.<br />You gotta seal this area off.
+1106314 1107440 That's up to the captain.
+1107482 1110735 Maybe you better take me up<br />to the captain.
+1121871 1124582 - Where's Cochrane?<br />- He didn't make it.
+1133717 1138304 - You're late.<br />- We ran into trouble, Colonel.
+1138888 1142892 Some cop killed Cochrane.<br />I barely got away, sir.
+1143977 1146229 Did you accomplish your mission?
+1147272 1149399 Yes, sir, but... Cochrane, sir.
+1149441 1153194 Then the damage is minimal.<br />The penalty could be severe.
+1162120 1165248 You fail me again,<br />and the chamber won't be empty.
+1166458 1168043 Dismissed.
+1184809 1186978 Who is it? Come in.
+1187979 1190440 - Captain Lorenzo?<br />- Yeah.
+1190482 1193109 - I'm John McClane...<br />- I know who you are.
+1193151 1195612 You're the asshole<br />that just broke seven FAA
+1195653 1197906 and five District of Columbia<br />regulations
+1197947 1201326 running around my airport<br />with a gun, shooting at people.
+1201368 1204704 - What do you call that shit?<br />- Self-defence.
+1205288 1209292 You think that LA badge is gonna<br />get you a free lunch or
+1209334 1210335 something around here?
+1210377 1213713 No. Maybe a little professional<br />courtesy.
+1213755 1217217 In an airport on Christmas week?<br />You gotta be kidding.
+1217258 1220178 OK, fuck courtesy.<br />How about being professional?
+1220220 1223181 Your boys just walked away<br />from a crime scene.
+1223223 1225392 You can't wrap this up in ten<br />minutes.
+1225433 1227644 You got to seal the area off,<br />dust for prints...
+1227686 1229562 Don't lecture me, hotshot.
+1229604 1232899 I know what I'm doing.<br />We're gonna dust it down.
+1232941 1235985 We'll take all the pictures.<br />We'll sweep for fibres.
+1236027 1238947 After 400 people go through<br />there?
+1238988 1240990 You'd be lucky to get a print<br />from one of your people.
+1241032 1244160 - Just shut down that area...<br />- Shut the area down?
+1244202 1247288 It's that simple? Just shut the<br />area down?
+1247330 1250166 I got everybody<br />from the Shriners' convention
+1250208 1252919 to the goddamn Boy Scouts in<br />here.
+1252961 1256381 I got lost kids, lost dogs...<br />Not now. Later!
+1256423 1258591 I got international diplomats.
+1258633 1261261 I got a fuckin' reindeer flying<br />in here
+1261302 1262971 from the fuckin' petting<br />zoo.
+1263013 1266391 But John McClane,<br />he's got a little problem.
+1266433 1268601 Let's shut down the whole<br />fuckin' airport.
+1268643 1273064 - What do you think they'll say<br />upstairs? - Phone and find out.
+1273106 1276067 I don't need fuckin' forensics<br />to tell me
+1276109 1278361 this was some punk<br />stealing luggage!
+1278403 1280905 Luggage? That punk pulled a<br />Glock 7 on me.
+1280947 1283658 That's a porcelain gun made in<br />Germany.
+1283700 1285618 It doesn't show up on X-ray<br />machines
+1285660 1287746 and it costs more than you make<br />in a month.
+1287787 1290373 You'd be surprised<br />what I make in a month.
+1290415 1291916 If it's more than $1.98...
+1291958 1295337 Hey, McClane, don't start<br />believing your own press.
+1295378 1299299 Yeah, I know all about you<br />and that Nakatomi thing in LA.
+1299341 1301718 But just cos the TV thinks<br />you're hot shit,
+1301760 1303094 that don't make<br />it so.
+1303136 1306014 Look, you are in my little pond<br />now,
+1306056 1308516 and I am the big fish that runs<br />it.
+1309642 1312354 So you capped some lowlife.<br />Fine.
+1312395 1316775 I'll send your fuckin' captain<br />in LA a fuckin' commendation.
+1316816 1319194 Now, get the hell out of my<br />office
+1319235 1322405 before I have you thrown out<br />of my goddamn airport.
+1332749 1335168 Carmine, let me ask you<br />something.
+1335210 1337671 What sets off the metal<br />detectors first?
+1337712 1340507 The lead in your ass<br />or the shit in your brains?
+1340548 1342133 Fat fuck.
+1351643 1355355 - Any ID on this guy? - That's<br />somebody else's problem.
+1357857 1360360 Okay, your car is ready.<br />You could just sign right here.
+1360402 1364197 I need to borrow this and this.<br />I'll bring it right back.
+1366866 1368368 Hold up!
+1372455 1374958 Hold up, boys. We gotta check<br />something.
+1375000 1378461 - What are you doing?<br />- Pretty gruesome fuckin' job.
+1378503 1382173 All the confusion in there,
+1382215 1386636 forgot to get this<br />clown's prints.
+1386678 1388013 Christ.
+1388054 1389514 You're supposed to do that at<br />the morgue.
+1389556 1393309 Not any more. Got a new SOP<br />for DOAs from the FAA.
+1397480 1400942 I don't think this one's gonna<br />make it. Thanks a lot.
+1514514 1516474 - Powell here.
+1516516 1519185 - Take that Twinkie<br />out of your mouth.
+1519227 1521771 - John, how ya doing?<br />- Holly stood me up a day
+1521813 1525191 and I'm here alone in DC with my<br />in-laws.
+1526192 1528153 The old in-laws?
+1528194 1530780 Man, they do love their<br />policemen son-in-laws.
+1530822 1533575 Listen, Al, what is the fax<br />machine telephone number
+1533616 1534909 there at the station?
+1539664 1541624 555 3212.
+1541666 1544336 3212. Hold on a second, all<br />right?
+1544377 1546296 I wanna send you<br />something.
+1546338 1547630 Excuse me.
+1547672 1550717 <i>You and faxes? This is a first.</i>
+1550759 1554095 Holly told me I should wake up<br />and smell the nineties.
+1554137 1556264 - This way?<br />- No. That way.
+1556639 1559100 - It's upside down.<br />- It doesn't matter.
+1559142 1560810 Here it comes.
+1563480 1567275 - I'm sending you something now.<br />- Hold on a second, cowboy.
+1582749 1584709 - Fingerprints?
+1584751 1585794 <i>- We've got an<br />unidentified stiff.</i>
+1585835 1588922 I've circled the whorls in case<br />the transmission's fuzzy.
+1588963 1592008 Run it through State and<br />Federal, and maybe Interpol.
+1592050 1595804 - Will do. What's this about?<br />- Just a feeling I have.
+1596638 1598682 Ouch. When you get those<br />feelings,
+1598723 1600767 insurance companies<br />start to go bankrupt.
+1600809 1602644 The fax number is...
+1602686 1604813 On the top of the transmission<br />you just got.
+1604854 1607982 On the top of the transmission<br />you just got.
+1610944 1615198 An airport? You're not<br />pissing in somebody's pool?
+1616616 1619119 Yeah, and I'm fresh out of<br />chlorine.
+1619869 1622122 - Thank you.<br />- You're welcome.
+1625375 1627544 Just as this storm starts<br />breaking,
+1627585 1630964 the satellite-feed up<br />and drops the other shoe on us.
+1631006 1632632 Look at this new front moving<br />in.
+1632674 1635760 Makes its baby brother<br />look like chickenshit.
+1637053 1640974 I can sand down the runways and<br />run the ploughs between landings
+1641016 1643643 but you gotta downshift them,<br />give me time to work.
+1643685 1645228 You got it.
+1646396 1650400 All right, everyone.<br />Let's slow down our birds
+1650442 1652736 before we get a parking lot over<br />our heads.
+1652777 1654029 The line starts at the<br />Mississippi,
+1659784 1661786 and they better<br />start taking numbers.
+1666833 1668752 Can I get you another?
+1671838 1673798 No, thank you.
+1673840 1677719 I only have to look at his<br />face for another 20 minutes.
+1677761 1679721 <i>This is the captain speaking.</i>
+1679763 1682807 <i>I've just been informed by<br />Dulles traffic control</i>
+1682849 1685852 <i>that there's a weather front<br />ahead of us.</i>
+1685894 1688855 <i>We may be up here a little while<br />longer.</i>
+1688897 1691608 - Thank you.<br />- On second thought...
+1700200 1702827 I'm right here, partner.
+1702869 1707499 Your stiff's dossier<br />is coming through now.
+1707540 1708667 <i>- What can you tell me about<br />him?</i>
+1708708 1709876 <i>- He's dead.</i>
+1709918 1711795 You needed a computer to figure<br />that out?
+1711836 1714005 No, you don't follow me.
+1714464 1716424 According to the Department of<br />Defense,
+1716466 1718259 he's been dead for two<br />years.
+1718301 1720261 - What?
+1720303 1722430 <i>- That's right. Sergeant<br />Oswald Cochrane.</i>
+1722472 1724891 American adviser in Honduras.
+1725308 1727811 Killed in a helicopter accident,<br />5-11-88.
+1727852 1729270 Officer.
+1730605 1732774 <i>Read between the lines and it<br />looks like</i>
+1732816 1734192 <i>a lot of black-bag<br />stuff.</i>
+1734234 1737028 I see it. All right, Al. Thanks<br />a lot.
+1737070 1739197 - Any time.<br />- OK.
+1741658 1745495 I close in about an hour.<br />Maybe we can go get a drink?
+1747997 1750834 Just the fax, ma'am.
+1756089 1759426 Wait a second, I see somebody.<br />I'll call you back.
+1765557 1767183 The ghost of Christmas past.
+1767225 1769769 Nakatomi? LA?<br />You're John McClane, right?
+1769811 1772897 - Who are you?<br />- Sam Coleman. WNTW News.
+1773773 1775734 - Excuse me.
+1775775 1777235 - Give me a break.<br />I saw the stiff.
+1777277 1779237 Word is, that was your<br />handiwork.
+1779279 1781698 No. I only do needlepoint.
+1787412 1791332 Great. National just shut down.<br />Totally iced.
+1791374 1794210 - They'll send us their planes.<br />- Happy holiday.
+1794252 1796755 The worst part, Mr Trudeau, is<br />the press.
+1796796 1799758 They were here for the Esperanza<br />story,
+1799799 1802844 so they got it right on the<br />news, bloodstains and all.
+1802886 1806431 I'd like to lock every damn<br />reporter out of the airport,
+1806473 1809017 but they'd pull that<br />freedom-of-speech crap on us,
+1809059 1811603 then the ACLU would be all<br />over us.
+1811644 1815273 Murder on television. Hell of a<br />start for Christmas week.
+1817025 1819110 What is it? A gang thing like<br />last time?
+1819152 1822572 Only if your gangs get<br />their training at Fort Bragg.
+1823531 1825867 - Who the hell is this?<br />- I'm a police officer...
+1825909 1830163 In an unauthorised area.<br />LA, Mr Trudeau, don't mean shit.
+1830497 1833792 That's what I said about<br />my last cholesterol test.
+1834250 1837170 So what's your problem,<br />Lieutenant McClane?
+1838213 1840465 I'm sure Captain Lorenzo has<br />explained to you
+1840507 1843176 the minor fracas with the minor<br />thieves.
+1843218 1845428 Maybe he can explain this.
+1864197 1867200 <i>- All systems tapped, Colonel.<br />- Fire it up.</i>
+1882132 1884926 H minus five minutes. Stand by.
+1887178 1890849 We've got a body in the morgue<br />that seems to have died twice.
+1890890 1893685 Assuming it's not an error,<br />what do we assume?
+1893727 1895979 Somebody's about to fuck<br />with this airport.
+1896021 1898064 What the hell does that mean?
+1898106 1902152 I know we're dummies up here, so<br />give us a taste of your genius.
+1902193 1904154 A hijacking, a robbery or what?
+1904195 1906740 - I'm not sure...<br />- He's not sure.
+1906781 1909200 I'm stunned. I gotta lie down.
+1909242 1911578 Only professionals go to this<br />much trouble.
+1911619 1913329 Not luggage<br />thieves or punks.
+1913371 1915331 - Professional at what?
+1915373 1916666 - What the fuck do<br />you think this is?
+1916708 1919002 The safety patrol? This is the<br />résumé
+1919044 1920378 of a professional<br />mercenary.
+1920420 1922380 A major drug dealer is due here.
+1922422 1924007 You need a slide rule to solve<br />this,
+1924049 1927135 or another body in a bag<br />before you ask questions?
+1927177 1930764 You're the one that gave us that<br />fucking body. Remember that.
+1930805 1932724 Yeah, I remember that.
+1939147 1942776 Lorenzo, have all your<br />shift commanders report in. Now.
+1942817 1944778 - What? You're not buying into<br />this?
+1944819 1946780 - They're to report anything<br />unusual,
+1946821 1948615 - no matter how trivial. Got<br />that?
+1948656 1949616 - I got it.
+1949657 1952118 - My God.<br />- What?
+1952160 1954996 - The runways. Look.<br />- What the hell?
+1955038 1958083 - They're shutting down.<br />- Jesus Christ.
+1964172 1966841 Go to emergency lighting. Now.
+1966883 1969260 - Emergency. We are in a code<br />yellow.
+1969302 1971096 - Backup systems won't<br />come up.
+1971137 1973014 - Shunt to another terminal.<br />- Bobby, what have you got?
+1973056 1974182 <i>Please respond. Please respond.</i>
+1974224 1978061 - The network is down. - Should<br />we call the power company?
+1978103 1980105 We're on the same grid and we're<br />hot.
+1980146 1982065 <i>Dulles, I'm on approach.</i>
+1982107 1985276 - Maintain position. Repeat.<br /><i>- What's going on down there?</i>
+1985318 1988029 - We're on it.<br />- We're unable right now. Delay.
+1988071 1991533 Fuji 604. Execute published<br />missed-approach procedure
+1991574 1992742 and<br />hold.
+1992784 1995870 TWA 23, unable to clear you<br />for approach at this time.
+1995912 1998081 Climb to and maintain one zero<br />thousand.
+1998123 2001126 I've checked all systems.<br />It ain't happening.
+2016975 2019728 - What's it look like?<br />- Approach control is gone.
+2019769 2022689 Jesus. Instrument landing system<br />is down.
+2024107 2026276 Confirmed. ILS is dead.
+2026317 2030238 Every goddamn system's dead.<br />And Inmac monitors are down.
+2035577 2039039 Attention all controllers.<br />We have a code-red alert.
+2039789 2041750 Every aircraft approaching our<br />sector,
+2041791 2044210 and not already in our<br />landing pattern,
+2044252 2047047 gets diverted to their alternate<br />airport.
+2047088 2051468 Everyone already on approach,<br />or inside our pattern,
+2051509 2054095 holds at the outer markers.
+2054137 2057223 Stack 'em, pack 'em and rack<br />'em. Move.
+2063229 2065899 Not a word of this leaves this<br />room.
+2065940 2068985 There must be 15,000 people in<br />this airport,
+2069027 2070945 and we don't need<br />panic.
+2070987 2073656 We just bought ourselves<br />maybe two hours.
+2074157 2077118 After that, planes low on fuel<br />won't be circling.
+2077160 2080372 They'll be dropping<br />on the White House lawn.
+2081956 2084834 McClane, this what you expected?
+2086753 2088129 No.
+2089089 2091341 This is just the beginning.
+2094969 2098139 - FAA hot line.<br />- How could they know already?
+2098181 2099724 They can't.
+2101226 2104104 Maybe it's the boys<br />who pulled your plugs.
+2104145 2105814 Put it on speaker.
+2106690 2109442 <i>Attention, Dulles tower.<br />Attention.</i>
+2109484 2111861 <i>They say blind men become very<br />attentive</i>
+2111903 2113279 <i>by way of<br />compensation.</i>
+2113321 2117575 <i>Now that you're blind and deaf,<br />I think I've got your attention.</i>
+2117617 2121246 <i>I'm aware your recorders are<br />active, so I'll be quick.</i>
+2121287 2124040 <i>You can play me back<br />to your heart's content.</i>
+2124082 2127002 How did you get on this line?<br />Who is this?
+2127419 2130213 Who I am is unimportant. What I<br />want...
+2131756 2134175 If you don't want planes to<br />splash into the Potomac
+2134217 2135677 as they<br />run out of fuel,
+2135719 2138179 what I want is very important.
+2138221 2141307 <i>A plane will be landing<br />at this airport in 58 minutes.</i>
+2141349 2144436 It is FM-1: Foreign Military<br />One.
+2144686 2147105 <i>- I'm sure you are aware of the<br />nature of this flight...</i>
+2147147 2148106 <i>- Esperanza?</i>
+2148148 2151067 <i>...the importance of its cargo.</i>
+2151317 2154362 This plane will not be met by<br />anyone.
+2155238 2157824 It will land on a runway of my<br />designation,
+2157866 2160952 where it will remain isolated<br />and unapproached.
+2161327 2164080 That will conclude my interest<br />in this aircraft
+2164122 2165874 and your<br />responsibility for it.
+2165915 2169919 At the same time, I want a 747<br />cargo conversion fully fuelled
+2171796 2174299 <i>and placed at my disposal.</i>
+2174341 2177302 <i>You have two minutes to advise<br />inbound aircraft to hold</i>
+2177344 2178845 <i>at their outer radio marker.</i>
+2178887 2181931 <i>After that, you will be able to<br />receive only.</i>
+2182182 2184559 Any attempt to restore your<br />systems,
+2184601 2186978 will be met by severe<br />penalties.
+2187020 2188480 He's bluffing.
+2189356 2192650 - Damn it, you can't do this.<br />- I am doing this.
+2201117 2204412 I need you to punch up a code<br />15. I got an idea,
+2204454 2205705 and I need<br />your help.
+2205747 2209000 If Esperanza gets to a country<br />with no extradition treaties,
+2209042 2210168 we're fucked.
+2210210 2213213 They're talking to us on our<br />system. They gotta be close.
+2213254 2215215 - My men will tear this airport<br />apart.
+2215256 2216841 - Just in the nick of<br />time.
+2216883 2220011 I got a first-class unit, SWAT<br />team and all.
+2220053 2222055 We don't need<br />Monday morning quarterbacks.
+2222097 2225266 My wife's on one of the planes<br />they're fucking with!
+2225308 2227227 So I'm on<br />the playing field.
+2227268 2230271 If you'd have moved before,<br />we wouldn't be deep in shit.
+2230313 2232607 That's it. Security. You're<br />outta here.
+2232649 2235735 Mr Trudeau, there are FAA<br />regulations
+2235777 2238780 regarding unauthorised personnel<br />in the control tower!
+2238822 2240907 We just have to find a way to<br />transmit.
+2240949 2243576 Run down to Radio Shack<br />for a transmitter.
+2243618 2246287 We have one - the terminal wing<br />they're building.
+2246329 2249416 20 airlines when it's done,<br />all with reservation computers
+2249457 2251543 in a nice antenna arrangement.
+2251584 2253545 - See Mr McClane out.
+2253586 2255505 - You got no business<br />being up here.
+2255547 2258299 Everything we need<br />is by the annexe skywalk,
+2258341 2261011 just sitting there, waiting to<br />go on line.
+2261052 2264097 Goddamn it, Trudeau,<br />you're dealing with pros.
+2264139 2266349 You can't fuck with these<br />people.
+2266391 2268351 Sam Coleman. WNTW News.
+2268393 2270145 There are a lot of<br />rumours flying around...
+2270186 2272647 No way, lady. Hell, no.
+2272689 2274899 This is off limits, Coleman.
+2276443 2279362 Anything you can think of,<br />they'll think of, too!
+2279404 2283158 - Get your fucking hands off me.<br />- Just get 'em out of here.
+2284576 2287620 - Lobby security, come in.<br />- Tomalson here.
+2287662 2289622 This is Captain Lorenzo.
+2289664 2291541 We've two unauthorised<br />personnel in the tower.
+2291583 2294544 Get your thumb out of your ass.<br />Get 'em out of the elevator,
+2294586 2297339 or you'll get a pink slip for<br />Christmas.
+2297380 2298965 10-4. Let's go.
+2300467 2301885 Goddamn!
+2302677 2306431 - Anything who can think of?<br />- Shit. Hang on over there.
+2306473 2309225 - What for?<br />- Just hang on!
+2310101 2313313 Big drug dealer on his way to<br />prison. Gunfight at airport.
+2313355 2315982 Every controller in the coffee<br />shop getting beeped,
+2316024 2317650 and you<br />rocking the boat.
+2317692 2320070 - Connection? Come on, just a<br />few words.
+2320111 2322530 - OK, just a few<br />words. Fuck off.
+2322572 2326076 Thanks, but I already got<br />that from Colonel Stuart.
+2327077 2331539 Stuart. The guy that got canned<br />by Congress. That's who he was.
+2331581 2333875 Who he who? What?
+2333917 2336378 It's OK, I've done this before.
+2347305 2349307 - Hey.<br />- Hi.
+2349349 2352477 - Where's the other one?<br />- Claustrophobic, I guess.
+2354354 2357607 It's a VHF system, but the<br />planes are so close, it's OK.
+2357649 2359943 I can rig our frequency in 30<br />minutes,
+2359984 2361444 and wire in a<br />crossover.
+2361486 2363446 - You wouldn't know the<br />difference.
+2363488 2365532 - Get what you need.<br />Borrow. Steal. Kill.
+2365573 2367867 I want my SWAT team<br />to go with him as cover.
+2367909 2371162 Whatever we can think of,<br />they can think of, too.
+2376710 2379170 Man, I can't fucking believe<br />this.
+2379212 2382048 Another basement. Another<br />elevator.
+2382090 2385468 How can the same shit happen<br />to the same guy twice?
+2406614 2408199 What the fuck?
+2443443 2444819 Who are you?
+2446571 2448865 I'm Marvin.
+2450367 2453370 I thought you was trying<br />to steal my records.
+2453411 2455288 I'm just the janitor.
+2462462 2465298 This is Dulles approach to all<br />aircraft holding
+2465340 2466383 at Potomac<br />vortex.
+2466424 2469052 <i>We are experiencing<br />some technical problems.</i>
+2469094 2471888 <i>Weather conditions,<br />which have deteriorated,</i>
+2471930 2475809 <i>have now been complicated<br />by an unforeseen human factor.</i>
+2477185 2480730 <i>This has affected all of our<br />electronic equipment</i>
+2480772 2482524 <i>and their<br />redundant backups.</i>
+2482565 2485568 <i>As a result, our nav<br />and approach systems are down.</i>
+2485610 2488738 <i>We expect to lose voice in<br />another minute.</i>
+2488988 2492617 <i>Continue holding at the outer<br />marker as directed,</i>
+2492659 2494953 <i>and wait for<br />further instructions.</i>
+2494994 2498081 <i>As soon as we're back on line,<br />we'll expedite your landings</i>
+2498123 2500041 <i>on a fuel-emergency basis.</i>
+2501793 2503253 Good luck.
+2505547 2507132 God bless.
+2512762 2514055 Change the boards.
+2544294 2547130 - The skywalk annexe.<br />- No! The annexe skywalk.
+2547172 2550675 It's the last thing I heard<br />before they kicked me out.
+2550717 2553011 Let me see here.
+2553053 2555680 This must be it right there.<br />See?
+2556181 2560143 That's the raised platform and<br />there's the new terminal.
+2560185 2561478 There's your skywalk.
+2561519 2564814 Goddamn bottleneck.<br />Nice place for an ambush.
+2566858 2568818 What's the fastest way<br />you can get me out to that spot?
+2572364 2575033 This kind of thing wasn't<br />in my job description.
+2575075 2578078 - Mr Barnes, we'll watch your<br />back.
+2584167 2587170 - Yeah? Who watches yours?
+2590715 2592634 Main ventilation duct.
+2593009 2596971 Ventilation duct... and bingo.
+2597514 2601643 Just once, I'd like<br />a regular, normal Christmas.
+2603687 2607107 Eggnog, a fucking Christmas<br />tree,
+2608775 2610527 a little turkey.
+2611653 2615949 But, no. I gotta crawl around<br />in this motherfuckin' tin can.
+2621162 2624040 We're in the annexe skywalk.<br />I can see the array.
+2624082 2627460 I'll give you a call for a<br />protocol test when it's hot.
+2627502 2628628 That's all for now.
+2628670 2631840 Sergeant, we need more<br />equipment.
+2631881 2634884 I'd like to send one<br />of your guys for it.
+2638304 2641683 - What the hell's going on?<br />- Put that back on!
+2644436 2648440 - Hey, asshole, what do I look<br />like to you?
+2650984 2653570 - A sitting duck.
+2653611 2654988 Shit!
+2656781 2659409 Damn it. I hate it when I'm<br />right.
+2766016 2767767 Stay down!
+2781990 2783158 Fuck.
+2814731 2816608 Fucking son of a bitch.
+2833124 2834542 Shit.
+2844969 2847430 I'm gonna kick your fuckin' ass.
+2880964 2883591 - Jeez.<br />- You all right?
+2884300 2888304 Yeah. But the antenna array,<br />I gotta get to it and set it up.
+2892851 2894310 Get down!
+2913413 2914914 Goddamn.
+2917834 2919002 Bait.
+2921046 2922630 Jerk us off.
+2924090 2926634 Make Lorenzo sacrifice his best<br />men.
+2930347 2932390 Make you waste your time.
+2935894 2937312 Time we don't have.
+2951993 2954496 I think you're closer than 50<br />yards.
+2954537 2957749 So's that airplane. Practically.
+2957791 2959834 Yeah. There's quite a few of<br />them.
+2959876 2961961 It looks like a regular<br />traffic jam.
+2962003 2964589 There's nothing regular about<br />it.
+2965215 2967008 See? You're intrigued.
+2967050 2970136 That's my gift, Mrs McClane.<br />I notice things.
+2970178 2972389 Things other people wouldn't<br />see.
+2972430 2975100 That's how I make people<br />curious.
+2975141 2977394 Don't you mean nauseous?
+2977435 2981064 The people have a right to know<br />everything about everybody.
+2981564 2983024 You got in the way of that.
+2983066 2985777 Listen, buster.<br />You endangered my children.
+2985819 2989447 You didn't do it for anything as<br />noble as "the people".
+2989489 2990990 The only time you see the people
+2991032 2994619 is when you look down to see<br />what you're stepping on.
+2998748 3002877 Me? I'll live,<br />but Lorenzo's SWAT team is dead
+3003211 3005547 and the antenna array is gone.
+3006047 3007966 Didn't you see it?
+3009509 3011970 Start looking for a new miracle.
+3016266 3019185 Hold for a second. Something's<br />going on.
+3021146 3024065 I say again, annexe team, give<br />us a sit rep.
+3025817 3028111 Annexe team, come in. Do you<br />copy?
+3029779 3033241 It's got a scrambler on it.<br />Can you do anything with it?
+3035160 3038788 No. This scramble mode must<br />activate on this code panel.
+3038830 3041916 Even if we scan their frequency,<br />we can't listen in.
+3041958 3043209 These guys<br />are pros.
+3043251 3046212 So are you. Break the code.<br />I wanna hear these bastards.
+3046254 3049591 This is a ten-digit control<br />panel. Six-digit read-out.
+3049632 3052135 Hell, there could be<br />a million combinations.
+3052177 3055764 Next time you kill one of these<br />guys,
+3055805 3058975 get him to enter the code<br />first.
+3059017 3062020 Sir, we monitored a call from<br />their chief engineer.
+3062062 3064105 We took<br />out their SWAT team.
+3064147 3067275 So they did go for the antenna<br />array. We're on schedule.
+3067317 3070278 Losing our team wasn't part of<br />the plan.
+3076785 3079996 Attention, Dulles control tower.
+3080413 3082749 <i>Mr Trudeau, I know you're<br />listening.</i>
+3082791 3084751 <i>- Unfortunately, you're not<br />obeying.</i>
+3084793 3086419 <i>- Try me face to face.</i>
+3086461 3088880 You were warned<br />not to restore your systems.
+3088922 3091132 <i>You've wasted lives and precious<br />time</i>
+3091174 3093385 <i>on a futile and obvious<br />target.</i>
+3093426 3095470 Now you're gonna pay the<br />penalty.
+3095512 3098348 I got five dead officers,<br />Colonel Stuart.
+3098390 3100016 Isn't that<br />penalty enough?
+3100058 3103228 McClane, keep out of this.<br />You've been a pain...
+3104771 3108400 McClane. John McClane.
+3109401 3113530 The policeman hero who saved<br />the Nakatomi hostages.
+3113571 3115365 <i>I read about you in People<br />magazine.</i>
+3115407 3118118 <i>You seemed out of<br />your league on Nightline.</i>
+3118159 3121996 Colonel, blow me. How much drug<br />money is Esperanza paying you
+3122038 3123081 to turn traitor?
+3123123 3125375 Cardinal Richelieu said it best:
+3125417 3128628 "Treason is merely a matter of<br />dates."
+3128670 3132132 <i>This country's got to learn it<br />can't keep cutting the legs off</i>
+3132173 3133299 <i>of men like Esperanza.</i>
+3133341 3137220 Men who have the guts to stand<br />up against communist aggression.
+3138555 3141850 Lesson one starts with killing<br />policemen?
+3141891 3145228 What's lesson two,<br />the neutron bomb?
+3145270 3148356 No. I think we can find<br />something in-between.
+3150358 3151985 Watch this.
+3152944 3156114 Give me a flight number.<br />One that's low on fuel.
+3157240 3159576 Windsor 114. Transatlantic from<br />London.
+3159617 3162454 Fuel tank's dry as a<br />martini.
+3162495 3166499 Activate the ILS landing system,<br />but recalibrate sea level...
+3186061 3188063 minus 200 feet.
+3193943 3197989 Jesus. They've reset<br />ground level, minus 200 feet.
+3198615 3202911 Windsor flight 114. This is<br />Dulles approach. Do you copy?
+3204204 3206164 Dulles approach, this is Windsor<br />114.
+3206206 3207665 Where the devil have you<br />been?
+3207707 3211836 <i>Windsor 114. We've been right<br />here all along, old buddy.</i>
+3212379 3215006 <i>Our systems only came back on<br />line just now.</i>
+3216049 3221054 <i>Windsor 114, you are cleared for<br />ILS approach, runway two-niner.</i>
+3221846 3223848 <i>- Contact Dulles at the outer<br />marker.</i>
+3223890 3226226 <i>- Jesus Christ, he's<br />gonna crash the plane.</i>
+3226267 3228228 Roger, approach, and about time.
+3228269 3231606 I've got 230 people up here<br />flying on petrol fumes.
+3231648 3234401 <i>Roger, 114. Understand.<br />Calibrate Dulles...</i>
+3234442 3235819 - Jesus.
+3235860 3237112 - They'll fly right into the<br />concrete.
+3237153 3238571 Son of a bitch!
+3239406 3242784 - Why are they listening to him?<br />- It's our frequency.
+3243326 3244744 Damn.
+3244786 3246913 - Barnes.<br /><i>- This is Dulles tower.</i>
+3246955 3249082 <i>We have radar contact...</i>
+3249666 3251459 Give me your coat.
+3252335 3256506 - What are you gonna do?<br />- Whatever I can.
+3260301 3263805 Ladies and gentlemen,<br />we've started our descent.
+3263847 3265807 <i>Sorry for the inconvenience,</i>
+3265849 3267559 <i>but we'll all be on<br />the ground shortly.</i>
+3267600 3270812 Please keep your seat belts on.
+3270854 3273481 We've made arrangements for your<br />next flight,
+3273523 3275442 so you won't miss it.
+3275483 3277402 In your seat, please.
+3281072 3283033 We're just like British Rail,<br />love.
+3283074 3284701 We may be late, but we get<br />you there.
+3284743 3286286 Don't worry.
+3303053 3304763 Good luck, McClane!
+3327452 3331039 Dulles, this is Windsor 114<br />inside the outer marker.
+3331623 3334542 Roger, 114. This is Dulles<br />tower.
+3334584 3336795 We have radar contact<br />and show you on ILS.
+3336836 3339673 You're in the glide path and<br />looking good.
+3349015 3351267 There's somebody out there!
+3355313 3358108 It's McClane. Christ.
+3362570 3364406 Approach flaps.
+3366449 3368159 Approach speed 140.
+3369619 3371162 130.
+3371788 3373748 - Altitude 1,000 feet.
+3373790 3375458 - 800, guys. You're<br />only at 800 feet.
+3375500 3379587 <i>Fire and rescue. Roll everything<br />onto runway two-niner.</i>
+3380296 3384009 <i>Ref speed plus 20. 600 feet.</i>
+3385510 3387846 Looking good, Windsor. Watch it.
+3387887 3391224 30-knot crosswinds and the<br />runway is icy.
+3391266 3393309 Attaboy. We've gotcha.
+3394436 3395895 We've gotcha.
+3409242 3410618 Pull it up!
+3411619 3412704 Jesus!
+3427594 3428928 We've gotcha.
+3455955 3457290 God.
+3462128 3463630 Motherfucker.
+3485402 3488530 That concludes our object lesson<br />for this evening.
+3488571 3491116 If the 747 we requested is ready<br />on time
+3491157 3494536 and General Esperanza's plane<br />arrives unmolested,
+3494577 3496830 further lessons can be avoided.
+3496871 3498206 Out.
+3544169 3548089 We got no sign of survivors.<br />It's a goddamn nightmare.
+3563104 3566024 Barnes! We've got to warn those<br />planes
+3566066 3568610 there's a lunatic pretending<br />he's the tower.
+3568651 3570487 Get me on the<br />air.
+3570528 3572739 - How?<br />- You figure it out!
+3573239 3575075 Here's the manifest.
+3595220 3597764 I know how you must feel.
+3602686 3605522 I wanted to help those people<br />tonight.
+3606606 3608983 I was pretty goddamn useless.
+3613029 3615657 We called the government for<br />help.
+3615699 3619285 They're gonna send in a<br />Special army unit.
+3619327 3621454 A counterterrorist team.
+3628837 3630630 Your wife's plane...
+3631673 3635510 They're still broadcasting,<br />even though we can't answer.
+3637637 3640557 They're gonna run out of fuel<br />in 90 minutes.
+3652235 3654863 Listen, Dick. That is your name?
+3655530 3659534 Dick. If you're gonna continue<br />to get this close,
+3660869 3663246 could you<br />switch aftershaves?
+3663288 3664748 Anything else?
+3665582 3667959 Stronger mouthwash might be<br />nice.
+3668752 3671463 <i>Sam Coleman is reporting<br />live from the accident.</i>
+3671504 3675717 Colonel, they've done everything<br />we've anticipated... so far.
+3675759 3678887 <i>But still there has been no<br />official word.</i>
+3678928 3681931 <i>Despite the fact that only one<br />runway has been closed</i>
+3681973 3683183 <i>due to<br />the tragedy,</i>
+3683224 3685894 <i>several dozen airliners are<br />visible,</i>
+3685935 3688063 <i>endlessly circling the<br />field.</i>
+3688104 3691399 <i>Other reports say there<br />had been trouble in the tower,</i>
+3691441 3693818 <i>and that may have contributed to<br />it.</i>
+3693860 3696279 <i>With weather conditions<br />worsening,</i>
+3696321 3699699 <i>the problem here and in<br />the sky above us will grow.</i>
+3699741 3702827 <i>I'm Samantha Coleman<br />at Dulles International Airport.</i>
+3710377 3713463 - Victor.<br />- Yeah, what's up?
+3713505 3716383 Did you pack the radio mikes<br />from the shoot or are they here?
+3716424 3718843 I wouldn't let those assholes<br />check 'em in!
+3718885 3720387 I love you.
+3720428 3722764 Give me one of the receivers.
+3726851 3729729 Can you tune into the cockpit<br />frequency?
+3730063 3733024 - Yeah. Why?<br />- I wanna hear what's going on.
+3735819 3738196 Should be right here on our<br />band.
+3738947 3741741 - Nothing. - You said it would<br />work. Is it working?
+3741783 3744411 It is working, but all I'm<br />getting is
+3744452 3746079 some kind of airport<br />beacon.
+3746121 3749124 It's weird. It's like the tower<br />isn't there.
+3752127 3753795 Stay on it.
+3755046 3759050 Let me know<br />when there is something there.
+3796880 3798214 - Major Grant.
+3798256 3799215 - Rollins, Department<br />of Justice.
+3799257 3801426 Trudeau, Chief of Air<br />Operations.
+3801468 3805722 Lorenzo, Terminal Police.<br />You want something, you got it.
+3805764 3808683 This is it? One fucking platoon?
+3808725 3811394 - One crisis, one platoon. Who<br />are you?
+3811436 3812437 - John McClane.
+3812479 3815523 - You showed some balls out<br />there.
+3815565 3816566 - Yeah.
+3816608 3820528 Now show some good sense.<br />Let the pros handle this.
+3820570 3823698 Looks like the pros<br />are on the wrong team tonight.
+3823740 3825867 - Isn't Colonel Stuart one of<br />your men?
+3825909 3826993 - Not any more.
+3827035 3829120 We're here to take Colonel<br />Stuart down.
+3829162 3830997 And we will take<br />him down.
+3831039 3834918 I served with him. I taught him<br />everything he knows.
+3834959 3837962 Maybe he's learned<br />a few more things since then.
+3840090 3842509 Let's hustle. The command post<br />will be set up
+3842550 3843927 in the airport<br />police station.
+3843968 3846971 I wanna be tied in to the tower<br />in 15 minutes.
+3847013 3848765 Let's do it!
+3854312 3856815 Things just get better or worse?
+3860694 3862654 - Lights. Big, portable lights.
+3862696 3864698 - We set up the field, and then<br />we...
+3864739 3866408 Wait for those lunatics to shoot<br />'em out?
+3866449 3869244 Where do we get the lights?<br />From Batman?
+3869285 3871287 - What about the air phone idea?
+3871329 3873915 - 18 planes are up there. Five<br />have phones.
+3873957 3876334 We got through to three.<br />We're trying the others.
+3876376 3878044 That's 13 accidents waiting to<br />happen.
+3878086 3879170 -Are they still bucking<br />headwinds?
+3879212 3880213 -I just checked the<br />weather.
+3880255 3882590 Headwinds are slamming everybody<br />over the outer marker.
+3883008 3885010 The planes with enough fuel<br />have been shunted to Atlanta,
+3885051 3886052 Memphis and Nashville.
+3887637 3890056 Outer marker. Damn!
+3890932 3892767 The outer marker!
+3893351 3896146 It's a beacon. It sends out this<br />"beep beep beep"
+3896187 3897856 so they know<br />they're over it.
+3897897 3899858 - So?
+3899899 3900900 - Who says that signal<br />has to just beep?
+3900942 3902986 Right. Switch the frequency from<br />the tower
+3903028 3904779 to the one in the<br />beacon.
+3904821 3906072 Pump up the wattage.
+3906114 3908742 We can talk to our planes,
+3908783 3912787 and those bastards who did<br />this will never know!
+3912829 3916041 Traced the signal.<br />Found it in the luggage area.
+3916082 3918835 They've been tapped into<br />your tower chatter all night.
+3918877 3921296 Punks stealing luggage, Carmine?
+3924549 3927177 - How you doin', Telford?<br />- No good.
+3927218 3929471 I called Lang. They'll have a<br />portable decoder here
+3929512 3930513 in two hours.
+3930680 3932640 - My wife doesn't have two<br />hours.
+3932682 3934642 - I was put on Grant's<br />team yesterday.
+3934684 3936978 The regular guy got<br />appendicitis.
+3937645 3941024 Word is, nobody's better<br />at this than Major Grant.
+3941066 3943276 Except maybe Colonel Stuart.
+3944903 3947864 I wanna hear about the plane<br />those bastards asked for.
+3947906 3950158 Then I'll fill you in on my<br />orders.
+3950200 3951618 Pilots' briefing room -<br />now!
+3951659 3954704 - Keep working.<br />- Albertson. With me!
+3959459 3961127 No civilians.
+3972013 3974808 - What the fuck...<br />- What is it?
+3976059 3979813 The outer marker beeper isn't<br />beeping. It's talking.
+3980605 3982941 <i>All aircraft in Dulles landing<br />pattern.</i>
+3982982 3985318 <i>This is chief engineer,<br />Leslie Barnes.</i>
+3985360 3988571 I have been authorised to brief<br />you in full.
+3988613 3992033 At this time, this is the only<br />channel available to us.
+3993159 3997205 Here is the situation.<br />Approximately two hours ago...
+4001042 4004170 <i>- Get a load of this. -<br />..claiming to be from our tower</i>
+4004212 4007716 <i>unless you hear your flight<br />recorder access code.</i>
+4007757 4010635 <i>- The terrorists have got all...<br />- Holy shit! Get this on tape.</i>
+4010677 4013471 <i>..control of everything except<br />this channel.</i>
+4013513 4015890 Give us a second here, please.
+4018018 4021396 <i>Do not attempt to reply on your</i>
+4021438 4023857 <i>own frequencies to this<br />broadcast.</i>
+4023898 4026067 <i>They have already caused one<br />crash</i>
+4026109 4029029 <i>- by impersonating our tower.<br />- Jesus.</i>
+4039372 4042292 <i>Repeat. The terrorists have cut<br />off the two systems</i>
+4042334 4043960 <i>that allow<br />you to land,</i>
+4044002 4046212 <i>field lights for a visual<br />landing</i>
+4046254 4048465 <i>and the ILS for an<br />instrument.</i>
+4048506 4050925 <i>A Special US army unit is here,</i>
+4050967 4053053 <i>preparing to take out the<br />terrorists.</i>
+4053094 4054554 My God.
+4056222 4058433 - Hey, you interested in a nice<br />coat?
+4058475 4060685 - It never looked good on<br />me anyway.
+4060727 4063897 You gotta get me up<br />to the pilots' briefing room.
+4063938 4065899 I gotta hear what they're<br />saying.
+4065940 4067442 Which map gets me in<br />there?
+4067484 4069402 - Don't touch it.<br />- Find the map.
+4069444 4072864 I'll find it. You'll mess up<br />my whole damn filing system.
+4072906 4076117 Pilots' briefing room, I think<br />that's in the main terminal.
+4076159 4079662 So would that be under P<br />for "pilots' briefing room"?
+4079704 4080872 - Now, Marvin!
+4080914 4084042 - Or maybe under M<br />for "miscellaneous".
+4088922 4091633 <i>Request permission to reduce<br />sentry duty</i>
+4091675 4093009 <i>to 30-minute<br />rotation.</i>
+4093051 4095053 <i>My men are getting cold and<br />antsy. Over.</i>
+4095095 4098056 <i>This is Colonel Stuart. Have the<br />men not on watch</i>
+4098098 4099599 <i>assemble for a<br />briefing. Over.</i>
+4099641 4100809 <i>Roger, Colonel. Over and out.</i>
+4100850 4102519 What's the matter?
+4105105 4108191 Gentlemen, tonight the pattern<br />ends.
+4109693 4111861 The dominoes will fall no more
+4111903 4114114 and the ramparts will remain<br />upright.
+4114155 4117534 Sir, General Esperanza's plane<br />just came on the scope.
+4124124 4127877 Attention, Dulles tower.<br />We will be lighting up a runway.
+4127919 4131673 <i>Do not, repeat, do not attempt<br />to land any planes.</i>
+4131715 4134259 Remember, we're monitoring you.
+4137303 4140724 - What do we do?<br />- Obey.
+4147230 4150233 Dulles tower to Foxtrot Michael<br />One.
+4152360 4156156 This is Foxtrot Michael One,<br />Dulles. We read you. Over.
+4156197 4161202 Foxtrot Michael One, you are<br />to come in on runway 1-5.
+4175550 4179596 I found it on the floor, by the<br />coat, next to the luggage belt.
+4179637 4182140 What the hell you so excited<br />for?
+4182182 4184392 - The code's still punched into<br />this one.
+4184434 4185518 - You like it.
+4185560 4188646 How about you give me 20 bucks<br />for it?
+4188688 4193318 - How about I let you live?<br />- The man knows how to bargain.
+4193985 4196196 This is contrary to our<br />instructions.
+4196237 4198782 We are to land at runway 1-0,
+4198823 4201576 where we are to be met by
+4201618 4203203 representatives of your<br />Justice...
+4203244 4207624 Captain, please tell the tower<br />you will proceed as ordered.
+4218593 4223390 Roger, Dulles. Proceeding to<br />runway 1-5.
+4239823 4242409 Foxtrot Michael One. Come in,<br />please.
+4242659 4245912 What are you gonna do now?<br />Are you gonna shoot me?
+4245954 4247330 So who will fly the plane?
+4247372 4250458 Don't worry about it. It's not<br />your problem.
+4257132 4258508 Michael One. Do you copy?
+4263346 4265598 Foxtrot Michael One, come in.
+4274816 4277277 Eagle Nest. This is Falcon.<br />Mayday.
+4282365 4283950 Go ahead, Falcon.
+4283992 4287162 I've lost cabin pressure.<br />Near-zero visibility.
+4287662 4290749 I must drop out of this weather<br />and land now,
+4290790 4292334 on the first<br />accessible runway.
+4292375 4296796 <i>Repeat. I've lost cabin<br />pressure. Near-zero visibility.</i>
+4296838 4298631 <i>I must drop out of the storm.</i>
+4298673 4302927 <i>I can land, but I must land now,<br />on the first outgoing runway.</i>
+4303345 4306556 <i>Repeat. I cannot circle around<br />to runway 1-5.</i>
+4311144 4313146 I'll make you a deal.
+4313188 4315148 Show me out to those runways and
+4315190 4316232 I'll get you a liner for that<br />coat.
+4316274 4319736 Repeat. I cannot circle around<br />to runway 1-5.
+4319778 4321154 Shit!
+4321196 4322781 Stand by, Falcon.
+4324574 4326701 He's coming in from the ocean,<br />sir.
+4329204 4331581 <i>A bullet damaged my instruments.</i>
+4331623 4333750 I'm not sure of my bearings and
+4333792 4335960 <i>I must make a visual landing<br />immediately.</i>
+4336002 4338713 <i>- Do you copy, Eagle Nest?<br />- Roger, Falcon.</i>
+4338755 4341174 <i>That would be 2-5 right.</i>
+4343551 4345387 Make up your fucking mind.
+4346471 4349307 We are just up to our ass<br />in terrorists again, John.
+4349349 4351226 2-5 left.
+4351810 4353311 2-5 right.
+4354771 4357399 I gotta quit smoking cigarettes.
+4357440 4360026 Thank you for telling me, Eagle<br />Nest.
+4360068 4363738 But if you could show it to me<br />as well, I would be grateful.
+4374624 4378169 <i>I see the lights. They are<br />directly in front of me.</i>
+4379295 4382382 <i>Reducing airspeed. Approaching<br />runway.</i>
+4382424 4384884 <i>- Wish me luck.<br />- Roger, Falcon.</i>
+4387178 4389472 We copy. We'll have you in five<br />minutes.
+4389514 4392934 That's right, asshole.<br />We'll have you in five minutes.
+4416458 4419669 <i>I see your lights. ETA 90<br />seconds.</i>
+4428803 4430930 Come to papa, scumbag.
+4486736 4488029 Shit!
+4548506 4549674 Freedom.
+4550800 4552302 Not yet.
+4554137 4556097 You should stay in your seat
+4556139 4557515 until the plane reaches the<br />terminal.
+4557557 4559893 No frequent-flier mileage for<br />you.
+4559934 4562103 - Who are you?<br />- A cop.
+4562145 4564272 - A cop?<br />- Yeah, one of the good guys.
+4564314 4567609 And you're a bad guy. Now I've<br />got your sorry ass,
+4567650 4570653 I'm gonna<br />trade it for my wife.
+4577994 4579537 Sit down!
+4590423 4592717 - Where'd he go?<br />- In there.
+4602143 4603478 I don't believe this.
+4603520 4605480 Two months of planning,
+4605522 4607148 and you can't anticipate<br />one pendejo of a cop.
+4607190 4610235 - Come on, General.<br />- Where is Colonel Stuart?
+4613863 4616282 - General!<br />- I'm all right.
+4616324 4618284 He said he was a policeman.
+4618326 4620120 I thought you had<br />this place secured.
+4620161 4623331 - He went in the cockpit.<br />- He's going to hell.
+4626626 4628586 I assume it's you, McClane.
+4629504 4632090 You're quite a little soldier.
+4632132 4634884 You can consider this a military<br />funeral!
+4660368 4663079 - How many grenades we got?<br />- Three each!
+4663413 4664581 Use 'em!
+4675383 4676801 Fuck.
+4690648 4691983 Go!
+4719636 4721513 You lucky fuck.
+4724557 4727852 - Fire trucks, sir.<br />- Fall back to the church. Now!
+4750792 4752711 Where's the fuckin' door?
+4767684 4771354 They're getting a little nervous<br />back there. In fact, so am I.
+4771396 4773356 We're over Washington.
+4773398 4775483 See if you can get any<br />TV to settle 'em down.
+4775525 4777402 Works for me. I'll...
+4801051 4805138 Writing your acceptance speech<br />for the video sleaze awards?
+4805180 4807932 - Try Pulitzer.<br /><i>- While waiting to land,</i>
+4807974 4810602 <i>we are turning on local<br />Washington TV.</i>
+4810643 4812103 <i>The sound is on<br />channel three.</i>
+4831414 4833750 Please, sir, we may land at any<br />moment.
+4833792 4835251 If you'll take your<br />seat...
+4835293 4836836 - I'm gonna be sick.
+4836878 4840882 - Sir, the seat-belt<br />light is on.
+4843968 4845053 Moron.
+4845095 4847555 <i>- WZDC.<br />- This is Richard Thornberg.</i>
+4847597 4850308 - Put me through to Ruben.<br /><i>- He's about to go live.</i>
+4850350 4852477 - I know he is. That's why I<br />need him.
+4852519 4853812 <i>- You'll have to hold<br />on...</i>
+4853853 4857315 Put me through, Celia,<br />or start typing your résumé.
+4858233 4862070 Esperanza's down... but he's<br />hurt.
+4863446 4865407 He took a round in his shoulder.
+4865448 4867867 I got one more of their guys.<br />That's six they lost.
+4867909 4871204 If we knew how many they had,<br />we could get excited,
+4871246 4873206 but if they got 50 guys,
+4873248 4875041 it's a little early to<br />open the champagne.
+4875083 4877043 We appreciate your effort,
+4877085 4878795 but we don't need a<br />loose cannon here.
+4878837 4882257 What if they crash another plane<br />in retaliation for your stunt?
+4882298 4884926 They can't do that now, right,<br />Barnes?
+4884968 4887929 And if I'd grabbed Esperanza,<br />this'd be over now.
+4887971 4890515 Maybe they're more creative<br />than you think.
+4890557 4892934 At least I'm thinking, goddamn<br />it.
+4893810 4895770 We're here to jerk off that<br />cocksucker
+4895812 4897731 until he tries to<br />take off. Period!
+4897772 4901401 You're the wrong guy in the<br />wrong place at the wrong time.
+4903445 4905238 The story of my life.
+4906489 4909451 Major. Pentagon situation room,<br />sir.
+4909492 4912996 Pentagon. I'll take it in here.<br />Thank you, Telford.
+4913038 4914914 You men come with me.
+4917500 4919377 - McClane.<br />- Yeah, Barnes.
+4919419 4921129 You said those guys<br />showed up right away?
+4921171 4922172 Yeah.
+4922213 4925675 So that must mean they're<br />on the field or close.
+4925717 4929512 I think I know where. Come here,<br />let me show you something.
+4931931 4935060 These are the old plans with the<br />longer runways.
+4935101 4936519 That's 12 years<br />ago.
+4936561 4940982 Looks like they've modified the<br />site, moved Tra-Con phones, ILS,
+4941024 4944319 all the underground stuff,<br />so they could handle drainage.
+4944361 4947781 If I'm right, all of it would<br />run along the airport property
+4947822 4950533 and go right past this<br />neighbourhood.
+4961419 4965048 Somebody ought to get their ass<br />kicked for this mess.
+4965840 4967801 Unfortunately, there isn't<br />anyone
+4967842 4968968 we can blame for the<br />weather.
+4969010 4971971 Yeah? What about that porker,<br />Willard Scott?
+4972597 4974557 I should have taken the bus.
+4974599 4977102 At least they can pull<br />over for food and gas.
+4977143 4979521 - Excuse me.<br />- Yes?
+4980855 4984484 I was just wondering. This<br />flight originally was supposed
+4984526 4987404 to be<br />five and a half hours.
+4987445 4990365 Do we have enough fuel to keep<br />circling?
+4990407 4993910 Of course. They anticipate<br />little problems like this.
+5012095 5015056 We looked at 12 fucking houses,<br />and we're nowhere.
+5015098 5017225 This is our last possibility.
+5018018 5021021 - Over here there's an old<br />church.
+5023440 5025775 - Let's go.
+5025817 5027068 Wait.
+5034409 5036828 There's the church over there.
+5044627 5046588 - Could be a sentry.
+5046629 5048089 - He could just be<br />out for a walk.
+5048131 5051092 Then why is he going over<br />his own footsteps?
+5053386 5054763 Come on.
+5056765 5060435 All right. Just stay here and<br />get ready to call the marines.
+5060477 5061811 - I thought they were the army.
+5061853 5063605 - Who gives a fuck? Just be<br />ready.
+5081331 5085085 Shit. Not now.
+5099474 5101559 Lorenzo, it's Barnes.
+5101601 5103812 <i>Where the hell are you? Where's<br />McClane?</i>
+5103853 5105814 With me, at the community<br />church,
+5105855 5107190 to the west of the<br />airport.
+5107232 5110193 Where? Goddamn it.<br />You crazy idiot, why didn't...
+5110235 5112195 This must be their operations<br />base.
+5112237 5113822 <i>Shut up and get your ass<br />here!</i>
+5113863 5115573 Code red. Sit rep.
+5116116 5119452 We got positive ID on Stuart's<br />location. Let's move.
+5131506 5135176 Our escape plane will be ready<br />within 30 minutes, General.
+5136511 5139014 If there are no more surprises.
+5153278 5156239 Gentlemen, we have a situation<br />here.
+5233608 5235443 They're over here.
+5247872 5250166 Jeez, you all right? You want a<br />medic?
+5250208 5253670 What the hell you think you're<br />doin'? Playing John Wayne?
+5253712 5255797 How'd you like to spend the<br />night in a cell?
+5255839 5258299 Shut the fuck up and do<br />something useful.
+5258341 5259551 Seal off the<br />street.
+5259592 5261678 - Hey, you can't talk to me like<br />that.
+5261720 5263221 - No, Carmine?
+5263263 5267100 Sergeant, get this bureaucrat<br />out of Mr McClane's face - now!
+5267142 5269102 With pleasure, sir.
+5271271 5274607 Major, the men are in position,<br />sir.
+5274649 5277736 Close up the back, then we go<br />in. Fire only on my order.
+5277777 5279237 Roger that, sir.
+5279279 5281448 Guess I was wrong about you.
+5281489 5284034 You're not such an asshole<br />after all.
+5284075 5287328 No, you were right.<br />I'm just your kind of asshole.
+5296379 5298882 Garber, sit rep!
+5298923 5302302 Army Special Forces<br />on three sides, closing in fast!
+5302344 5305305 - Another problem, Colonel?<br />- No problem, General.
+5306056 5308350 Gentlemen, you know what to do.
+5319778 5321696 - Down!<br />- Get down!
+5350517 5353228 General... it's time.
+5360276 5362445 Come on, let's move it.
+5377043 5382048 - They're pulling out... at the<br />back.
+5388138 5389431 Move it!
+5399399 5401860 Albertson, your men around the<br />back.
+5427635 5430055 This equipment could land our<br />planes.
+5430096 5432849 Don't touch anything.<br />If it's booby-trapped...
+5432891 5433892 It is.
+5433933 5437270 Got one here. Looks like C-4.<br />The motherfucker is armed.
+5437312 5439564 Clear the area. Everybody, now!
+5443276 5445945 They booby-trapped the<br />equipment. Seal it off.
+5445987 5447280 Shit!
+5451034 5452744 Where the fuck is McClane?
+5502419 5504212 Miller, take him.
+5505630 5507424 I'll cover you.
+5553970 5556639 So much for the element of<br />chance.
+5557640 5559267 Let's move out.
+5576451 5579454 I had the bastard in my sights.<br />I know I did.
+5590298 5592300 Jesus Christ.
+5598014 5599724 <i>Attention, Dulles tower.</i>
+5599766 5602644 <i>This is Colonel Stuart.<br />Is our plane prepared?</i>
+5602686 5604979 It is. It's in hangar 11.
+5605021 5607774 It's the most remote<br />building we've got.
+5607816 5610985 We're on our way. Have a ground<br />crew there
+5611027 5613530 to confirm the<br />condition of the plane.
+5613571 5616533 Do you believe the balls<br />on this son of a bitch?
+5616574 5619661 Colonel, you're capable<br />of confirming it yourself.
+5619703 5623039 <i>Don't ask us to gift-wrap<br />potential hostages for you.</i>
+5623081 5626584 - Major Grant, isn't it?<br /><i>- If you remember me, Colonel,</i>
+5626626 5629671 <i>then you remember I know the<br />drill as well as you do.</i>
+5630422 5632757 Check out your own fuckin'<br />plane.
+5632799 5636886 We move out in five minutes.<br />Flak jackets for everybody.
+5636928 5639222 Body armour for the assault<br />team.
+5639264 5641182 Night scopes for the<br />snipers.
+5641224 5642559 We go to the hangar.
+5642600 5646146 I will pull that detonator out<br />of Stuart's
+5646187 5647939 dead fuckin' hand<br />myself.
+5647981 5650525 Lorenzo, take all your men back<br />to the airport.
+5650567 5654112 Seal off every exit in case<br />they try to slip past us
+5654154 5655905 to break out onto the ground.
+5655947 5657449 You got it.
+5659492 5661411 All right, here we go.
+5662287 5664706 This is nuts! Every station has<br />people at the airport.
+5664748 5666791 <i>No one has heard a whisper of<br />this!</i>
+5666833 5670462 None of them is me.<br />You want proof, try this.
+5670754 5673673 <i>Terrorists have murdered<br />civilians</i>
+5673715 5676760 <i>and cut off the two systems<br />that allow you to land.</i>
+5676801 5678845 <i>A Special US army unit is here,</i>
+5678887 5680638 <i>preparing to take out the<br />terrorists.</i>
+5680680 5683308 - Jesus Christ.<br /><i>- I want you to go live now.</i>
+5683350 5685727 Key me in from the files, a<br />publicity shot.
+5685769 5687103 Steal a map from<br />weather.
+5687145 5690231 We're on it. We're cutting in<br />five minutes.
+5690273 5692484 Tell the affiliates, if they<br />want in,
+5692525 5695445 they got three minutes<br />to shout. Let's do this.
+5695487 5697072 Network, here I come.
+5700408 5704245 Telford, what was your<br />chickenshit outfit doing
+5704287 5707040 while<br />we were taking Grenada?
+5707082 5710126 Grenada. Five minutes of<br />firefight,
+5710168 5712629 five weeks of<br />surfing.
+5712671 5715632 - I wish I was with you guys for<br />that.
+5715674 5717175 - Yeah. Me too, kid.
+5717217 5719344 - Really, sir?<br />- Sure.
+5720720 5723348 Then we wouldn't have to do<br />this.
+5738071 5740448 Eagle Nest, this is Hatchling.
+5741449 5744411 On schedule... and in position.
+5744452 5746788 Roger, Hatchling. We are secure<br />here.
+5746830 5751251 <i>You have a green light.</i>
+5762762 5766558 Jesus, officer, where'd<br />you come from, Pearl Harbor?
+5771730 5773940 Let's clear it out, please.
+5777694 5779779 Five, four, three...
+5780905 5783783 <i>This is a special bulletin<br />from WZDC News.</i>
+5783825 5786578 <i>There has been a plane crash at<br />Dulles,</i>
+5786619 5788329 <i>where other aircraft<br />still circle,</i>
+5788371 5791791 <i>with no explanation<br />from airport or FAA officials.</i>
+5791833 5794878 <i>And now, with an exclusive WZDC<br />report,</i>
+5794919 5798631 <i>here's Dick Thornberg reporting<br />from the skies over Washington.</i>
+5798673 5801926 <i>I'm one of the people circling<br />our capital</i>
+5801968 5803845 <i>under the assumption<br />that whatever problem</i>
+5803887 5806848 <i>there was below was a normal<br />one.</i>
+5807223 5810894 <i>But the truth is far from<br />normal. The truth is terrifying.</i>
+5819527 5821738 Get out of the way, lady!
+5823948 5825992 This is a recording of a<br />conversation
+5826034 5829704 between Dulles tower<br />and a captive aircraft overhead.
+5835669 5837420 - Lorenzo!
+5837462 5838463 - Are you out of<br />your fuckin' mind?
+5838505 5840465 - Where's the Blue Light team?
+5840507 5842342 - Stuart's rigged<br />explosives to a remote.
+5842384 5843510 Where's Grant?
+5843551 5845845 His boys are gonna kill that son<br />of a bitch.
+5845887 5847972 - No, they're gonna take off<br />with him.
+5848014 5849599 - Get the fuck outta<br />here.
+5849641 5852727 When the army canned Stuart,<br />he put his men in that unit.
+5852769 5854729 - Are you nuts? That<br />firefight...
+5854771 5856773 - Sideshow to buy<br />him some time.
+5856815 5859401 You are completely<br />around the fuckin' bend.
+5859442 5861945 You're under arrest,<br />motherfucker.
+5868993 5872789 These are the bullets they<br />used out there tonight. Blanks!
+5875250 5876918 Jesus Christ.
+5885010 5888430 This is Chief Lorenzo.<br />I want every officer recalled
+5888471 5891599 and in body armour and full<br />weaponry
+5891641 5894769 in the motor pool in<br />five minutes.
+5894811 5896896 It's time to kick ass.
+5899107 5901443 Just like Iwo Jima.
+5901484 5904612 <i>We have learned that the<br />terrorists</i>
+5904654 5907282 <i>have control of the<br />airport,</i>
+5907323 5910243 <i>a fact that the authorities have<br />repressed.</i>
+5910285 5912120 <i>The terrorists promise more<br />bloodshed</i>
+5912162 5913830 <i>unless their demands<br />are met.</i>
+5914330 5916291 Now that the Special army<br />commandos
+5916332 5917917 have arrived at the<br />airport,
+5917959 5922297 the likelihood of a full-scale<br />battle is dangerously close.
+5943943 5947197 That stupid, arrogant son of a<br />bitch.
+5947238 5949616 It's all over the<br />airport.
+5949657 5951576 <i>300 people have died</i>
+5954079 5956998 <i>and, unfortunately,<br />they may not be the last.</i>
+5957040 5960210 <i>The horrifying fact is that<br />no one is safe,</i>
+5960251 5964047 <i>either in the planes above<br />Dulles or in the terminal below.</i>
+5964089 5967801 <i>The threat of a higher body<br />count at the airport hangs over</i>
+5967842 5969052 <i>the heads of everyone,</i>
+5969094 5973098 <i>and the holiday season of peace<br />and love has become a nightmare.</i>
+5979938 5981898 Listen up, all units.
+5981940 5985735 I want you to converge on<br />hangar 11, all sides.
+5985777 5987904 This car, McClane. Get in!
+5987946 5990615 When the city blue show up<br />with their backup,
+5990657 5993952 they'll pick up the pieces. Move<br />out!
+5994953 5998790 - McClane, say hi to my brother<br />Vito.
+5998832 6000250 - Merry Christmas.
+6000291 6001793 Hi.
+6007382 6011594 Goddamn it to hell!<br />Move that piece of shit.
+6013138 6016016 Will you move that goddamn<br />piece of shit out of here?
+6016057 6017642 Vito, get the fuck out of the<br />car and
+6017684 6019686 get your ass in gear and<br />help me!
+6025775 6028111 Hey, Coleman!
+6032991 6034909 - Hey, Coleman!<br />- Hi.
+6038038 6041916 ..but at least the truth<br />is not among the hostages
+6041958 6046171 because I, Richard Thornberg,<br />just happened to be here
+6047130 6051509 to put his life and talent on<br />the line
+6051551 6053511 for humanity and<br />country.
+6053553 6056264 If this should be my final<br />broadcast...
+6058516 6060977 Amen to that, Dick.
+6062103 6066066 <i>Dick? We're live, Dick.<br />Where are you now?</i>
+6070195 6074157 Truck lights approaching, sir.<br />They're here, right on schedule.
+6074699 6076826 The hangar door, open it.
+6077118 6078578 Clockwork.
+6102018 6105397 Jeez, you give me this story,<br />and I'll have your baby.
+6105980 6108066 Not the kind of ride I'm looking<br />for.
+6119869 6123039 Colonel, if I may say so,<br />you are some piece of work.
+6123081 6126167 Thank you, Major. You're not<br />so bad yourself.
+6126584 6128586 - Congratulations on your<br />escape, sir.
+6128628 6129963 - Thank you, Major.
+6130005 6131214 You should save them<br />until we are all safe.
+6131256 6133049 Sir.
+6133091 6135051 My congratulations, gentlemen.
+6135093 6137512 You've won a victory for our<br />way of life,
+6137554 6141474 my pride, my admiration,<br />and a kick-ass vacation.
+6141516 6143184 Now, get on board.
+6173757 6176301 - Ride too rough, cowboy?<br />- I don't like to fly.
+6176343 6178803 - So why are you here?<br />- I don't like to lose.
+6191107 6193068 I don't know about you,
+6193109 6194986 but I've seen enough snow<br />to last me a lifetime.
+6195028 6199366 - You don't get much of that in<br />the tropics.
+6199407 6202452 - For you<br />gentlemen, we'll import it.
+6202494 6204704 Shit. They left the hangar.
+6208249 6210043 Right there. Get that.
+6210085 6212170 - Now what?<br />- Get in front.
+6212212 6214381 Block their path so they can't<br />get out.
+6214422 6216549 I'm not playing chicken<br />with a 200-ton plane!
+6216591 6218677 I'm crazy, but not that crazy.
+6218718 6222722 <i>- Dulles, this is Northeast 140.<br />- That's Holly's plane.</i>
+6222764 6225183 <i>Request emergency clearance.</i>
+6225225 6228269 <i>I know you won't answer<br />but you better listen.</i>
+6228311 6230980 We're down to fumes and we have<br />to land.
+6231022 6232816 In five minutes, we're<br />coming in.
+6232857 6235527 That's my wife's plane.<br />Take it fuckin' down!
+6235568 6238279 I'm not getting in front of that<br />plane.
+6242659 6244494 How about gettin' over top of<br />it?
+6244869 6247455 This is the captain. Your<br />attention.
+6247497 6250959 We have no choice but to attempt<br />an emergency landing.
+6251001 6254170 Fasten your seat belts<br />and assume crash positions,
+6254212 6256381 - as instructed by your cabin<br />attendants.
+6256423 6258591 - Let's have the<br />emergency check list.
+6258633 6261219 Attention, all air traffic in<br />Dulles area.
+6261261 6262721 This is Northeast<br />140.
+6262762 6265265 We are attempting an emergency<br />landing.
+6270270 6272147 I don't wanna die.
+6273231 6274524 I'm sorry.
+6278194 6279571 God!
+6289372 6291875 Thy rod and thy staff they<br />comfort me.
+6298715 6301217 - Hang on!<br />- What are you doing?
+6301259 6305263 You wanted a story. Nice and<br />easy, boys. Get me in low.
+6310226 6313688 - Bring me down.<br />- You'll get yourself killed.
+6321196 6323907 Bring it in low. Keep over the<br />wing.
+6331664 6333124 Lower.
+6342801 6344678 John, what the fuck are you<br />doin'
+6344719 6346221 out on the wing of this<br />plane?
+6354145 6355355 Damn!
+6362362 6364364 There's something wrong.
+6364739 6367409 The ailerons. We can't take off.
+6373373 6375333 It's McClane again.
+6375917 6377502 Son of a bitch!
+6379170 6382549 - I'll do him.<br />- This time, do it right.
+6382590 6384551 Just get us in the air, General.
+6384592 6385885 You're the only man who can do<br />it.
+6385927 6388722 Don't shoot. That wing is fully<br />fuelled.
+6440774 6443777 Too bad, McClane. I kinda liked<br />you.
+6451534 6453370 I got enough friends.
+6491825 6493785 Time for the main event.
+6529112 6531531 You motherfucker!
+6543626 6545420 How's it goin'?
+6556723 6558767 Happy landings, asshole!
+6610568 6612821 Yippee-ki-yay, motherfucker.
+6664247 6665915 Holly!
+6666499 6668918 Here's your fuckin' landing<br />light.
+6681306 6684768 Look! I see it.
+6710335 6713296 They used the fuckin' fire to<br />see.
+6713338 6715757 They can all do that. Let's tell<br />'em.
+6715799 6719469 They already know. Listen.
+6719511 6721513 <i>They're using the fire trail as<br />a guide.</i>
+6721554 6722972 <i>If they can do it, so<br />can we.</i>
+6741741 6745120 Any landing you can walk<br />away from is a good one.
+6816316 6818735 Holly!
+6854771 6856481 Hi!
+6866408 6869494 Oh, God. Oh, baby.
+6869536 6871871 I thought I was never gonna see<br />you again.
+6871913 6874040 That's what I thought about you.
+6874082 6876001 I love you so much.
+6879838 6882924 They told me there were<br />terrorists at the airport.
+6882966 6884926 Yeah. I heard that, too.
+6893601 6895520 God, that's beautiful.
+6898732 6900817 Yup. It sure is.
+6903069 6905030 I love you so much.
+6907323 6911828 John, why does this keep<br />happening to us?
+6917917 6919794 Let's go home.
+6924549 6926760 Somebody help me, please.
+6926801 6929262 Honey, help me up here, please.
+6929304 6930764 Asshole!
+6933767 6936102 Hey, officer, come on!
+6938229 6941191 Hop on in here. Get your missus<br />in.
+6941232 6943193 What do you say, Marv?
+6943234 6946654 I'll be damned if<br />I'm gonna clean up this mess.
+6956873 6960126 You get this parking ticket<br />in front of my airport?
+6961002 6962545 Yeah.
+6963588 6967008 What the hell. It's Christmas.
+6971971 6973848 Take off, Marv!

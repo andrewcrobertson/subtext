@@ -1,0 +1,1038 @@
+10984 20069 <font face="Orator Std" color="#06cdf8">(JMG subs)</font>
+38600 43600 <font face="Comic Sans MS" color="#ffff80"><b>False alarm. Hold it!<br />It's OK, I'm here. It's all right.</b></font>
+43800 48000 <font face="Comic Sans MS" color="#ffff80"><b>- Set it down nice and easy.<br />- At the impound. Next time, read the sign.</b></font>
+48200 52100 <font face="Comic Sans MS" color="#ffff80"><b>You don't understand. I'm here to meet<br />my wife's plane. Let me have this car.</b></font>
+52300 55200 <font face="Comic Sans MS" color="#ffff80"><b>Sure. Tomorrow, 8.00 to 4.00.<br />Pay $40, we give it back.</b></font>
+55400 57400 <font face="Comic Sans MS" color="#ffff80"><b>Don't write it up!</b></font>
+57600 61800 <font face="Comic Sans MS" color="#ffff80"><b>This is my mother-in-law's car.<br />She's already mad at me cos I'm not a dentist.</b></font>
+62100 66900 <font face="Comic Sans MS" color="#ffff80"><b>- Look, I'm a cop. LAPD.<br />- I was in LA once. Hated it.</b></font>
+67200 69400 <font face="Comic Sans MS" color="#ffff80"><b>I can understand. I don't like it much...</b></font>
+69800 72500 <font face="Comic Sans MS" color="#ffff80"><b>That's a plastic fender up there. Take it easy!</b></font>
+72800 75700 <font face="Comic Sans MS" color="#ffff80"><b>Cut me some slack, will you?<br />I was a cop in New York City.</b></font>
+75900 79700 <font face="Comic Sans MS" color="#ffff80"><b>I only moved to LA cos my wife<br />took ajob there. What do you say?</b></font>
+80100 84900 <font face="Comic Sans MS" color="#ffff80"><b>Here we are, Washington, DC, the heart<br />of democracy. One hand washes the other.</b></font>
+85300 89300 <font face="Comic Sans MS" color="#ffff80"><b>- Come on, man. It's Christmas.<br />- So ask Santa Claus to give you another car.</b></font>
+89500 91500 <font face="Comic Sans MS" color="#ffff80"><b>Merry Christmas, pal.</b></font>
+93000 95000 <font face="Comic Sans MS" color="#ffff80"><b>It's all yours, Murray.</b></font>
+98500 101000 <font face="Comic Sans MS" color="#ffff80"><b>Son of a bitch.</b></font>
+142000 145000 <font face="Comic Sans MS" color="#ffff80"><b>- Hi. Where are the telephones?<br />- Over there.</b></font>
+146300 149900 <font face="Comic Sans MS" color="#ffff80"><b>Leonard Adkins has a story<br />that grows hotter by the minute.</b></font>
+150100 153900 <font face="Comic Sans MS" color="#ffff80"><b>Security was tight today<br />at Escalan airport in Valverde,</b></font>
+154100 157800 <font face="Comic Sans MS" color="#ffff80"><b>where it is reported that deposed general,<br />Ramón Esperanza,</b></font>
+158100 161400 <font face="Comic Sans MS" color="#ffff80"><b>will be delivered for extradition<br />to the United States.</b></font>
+161600 167000 <font face="Comic Sans MS" color="#ffff80"><b>Two years ago, the general led his country's<br />army against communist insurgents</b></font>
+167200 170200 <font face="Comic Sans MS" color="#ffff80"><b>in a campaign fought with<br />American money and advisers.</b></font>
+170500 173000 <font face="Comic Sans MS" color="#ffff80"><b>Esperanza's fall from power caused ripples</b></font>
+173200 176900 <font face="Comic Sans MS" color="#ffff80"><b>in his country's recent election,<br />and closer to home as well,</b></font>
+177000 180800 <font face="Comic Sans MS" color="#ffff80"><b>when Pentagon officials were charged<br />with supplying him with weapons,</b></font>
+181000 183000 <font face="Comic Sans MS" color="#ffff80"><b>despite the Congressional ban.</b></font>
+183100 187600 <font face="Comic Sans MS" color="#ffff80"><b>Evidence that Esperanza's forces violated<br />the neutrality of neighbouring countries</b></font>
+187900 189900 <font face="Comic Sans MS" color="#ffff80"><b>made Congress withhold funds.</b></font>
+190100 195300 <font face="Comic Sans MS" color="#ffff80"><b>Funds which Esperanza is accused of<br />replacing by going into cocaine smuggling.</b></font>
+195800 199400 <font face="Comic Sans MS" color="#ffff80"><b>Although Esperanza was removed<br />as commander in chief this year,</b></font>
+199700 203000 <font face="Comic Sans MS" color="#ffff80"><b>the agreement to extradite him<br />was only reached yesterday.</b></font>
+203100 208100 <font face="Comic Sans MS" color="#ffff80"><b>Washington insiders say a phone call<br />made it happen, a phone call from a...</b></font>
+213400 215400 <font face="Comic Sans MS" color="#ffff80"><b>All right!</b></font>
+218800 221700 <font face="Comic Sans MS" color="#ffff80"><b>If I could find a phone,<br />I'd call you, whoever you are.</b></font>
+254300 256300 <font face="Comic Sans MS" color="#ffff80"><b>Excuse me. Thank you.</b></font>
+265000 267500 <font face="Comic Sans MS" color="#ffff80"><b>This is Lieutenant McClane.<br />Somebody beep me?</b></font>
+267800 272900 <font face="Comic Sans MS" color="#ffff80"><b>- I'd like to think I'm somebody.<br />- Honey! Where are you? Did you land yet?</b></font>
+273200 275200 <font face="Comic Sans MS" color="#ffff80"><b>It's the nineties, remember?</b></font>
+275400 278700 <font face="Comic Sans MS" color="#ffff80"><b>Microchips, microwaves, faxes, air phones.</b></font>
+280100 283700 <font face="Comic Sans MS" color="#ffff80"><b>As far as I'm concerned,<br />progress peaked with frozen pizza.</b></font>
+284200 287300 <font face="Comic Sans MS" color="#ffff80"><b>Listen, we're gonna be<br />about half an hour late landing.</b></font>
+287600 290600 <font face="Comic Sans MS" color="#ffff80"><b>I just wanted to let you know. The kids OK?</b></font>
+290900 295100 <font face="Comic Sans MS" color="#ffff80"><b>They're about to lose their minds from all<br />the sugar your parents are giving them.</b></font>
+295400 298100 <font face="Comic Sans MS" color="#ffff80"><b>Did Mom give you a hard<br />time about borrowing her car?</b></font>
+298200 300700 <font face="Comic Sans MS" color="#ffff80"><b>No. Not yet.</b></font>
+300900 304900 <font face="Comic Sans MS" color="#ffff80"><b>Listen, honey, when you land,<br />can we just rent a car,</b></font>
+305200 308300 <font face="Comic Sans MS" color="#ffff80"><b>check into a hotel,<br />leave the kids with your parents?</b></font>
+308400 313400 <font face="Comic Sans MS" color="#ffff80"><b>Order some room service, a bottle<br />of champagne? What do you say?</b></font>
+313600 315500 <font face="Comic Sans MS" color="#ffff80"><b>You're on, Lieutenant.</b></font>
+315700 318700 <font face="Comic Sans MS" color="#ffff80"><b>I'll see you in half an hour, honey.<br />I love you. Bye.</b></font>
+324100 326300 <font face="Comic Sans MS" color="#ffff80"><b>Isn't technology wonderful?</b></font>
+327700 330800 <font face="Comic Sans MS" color="#ffff80"><b>- My husband doesn't think so.<br />- I do.</b></font>
+331600 334800 <font face="Comic Sans MS" color="#ffff80"><b>I used to carry around<br />those awful Mace things.</b></font>
+335000 337000 <font face="Comic Sans MS" color="#ffff80"><b>Now...</b></font>
+338500 341700 <font face="Comic Sans MS" color="#ffff80"><b>I zap any bastard that screws with me.</b></font>
+344300 346300 <font face="Comic Sans MS" color="#ffff80"><b>I tried it on my little dog.</b></font>
+347600 351000 <font face="Comic Sans MS" color="#ffff80"><b>Poor thing limped for a week.</b></font>
+357600 359700 <font face="Comic Sans MS" color="#ffff80"><b>Excuse me.</b></font>
+360800 362800 <font face="Comic Sans MS" color="#ffff80"><b>You look really familiar to me.</b></font>
+363000 365200 <font face="Comic Sans MS" color="#ffff80"><b>I get that a lot. I've been on TV.</b></font>
+365400 367400 <font face="Comic Sans MS" color="#ffff80"><b>Yeah. Me too.</b></font>
+392200 394600 <font face="Comic Sans MS" color="#ffff80"><b>- Grab the tools.<br />- You got it.</b></font>
+394900 398200 <font face="Comic Sans MS" color="#ffff80"><b>This is Amy Nichole,<br />live from Escalan airport,</b></font>
+398300 402500 <font face="Comic Sans MS" color="#ffff80"><b>where deposed general, Ramón Esperanza,<br />has just arrived under heavy guard.</b></font>
+402800 405500 <font face="Comic Sans MS" color="#ffff80"><b>The deposed dictator's mood seems jubilant.</b></font>
+406100 410100 <font face="Comic Sans MS" color="#ffff80"><b>He is smiling and waving to the crowd,<br />like a man running for political office.</b></font>
+412000 416200 <font face="Comic Sans MS" color="#ffff80"><b>...thousands of political prisoners,<br />including the new president.</b></font>
+416500 421600 <font face="Comic Sans MS" color="#ffff80"><b>There's no doubt he still has some<br />ardent supporters, both here and abroad.</b></font>
+421900 424500 <font face="Comic Sans MS" color="#ffff80"><b>Rumours abound on Capitol Hill<br />that there were...</b></font>
+427900 430400 <font face="Comic Sans MS" color="#ffff80"><b>- Yeah?<br />- Sir, we're checking our equipment.</b></font>
+430700 434400 <font face="Comic Sans MS" color="#ffff80"><b>- Any problems with the conduit line?<br />- I don't know anything about that.</b></font>
+434700 437900 <font face="Comic Sans MS" color="#ffff80"><b>- Would you mind if we take a look?<br />- Help yourself.</b></font>
+449600 452800 <font face="Comic Sans MS" color="#ffff80"><b>It don't seem right somehow,<br />closing down this church.</b></font>
+453000 457000 <font face="Comic Sans MS" color="#ffff80"><b>The parish is gonna keep on using it,<br />but it won't be the same.</b></font>
+457200 460400 <font face="Comic Sans MS" color="#ffff80"><b>Been here a lot of years,<br />and I've been right here with it.</b></font>
+460700 464700 <font face="Comic Sans MS" color="#ffff80"><b>Yeah, I kind of feel like<br />a piece of me is dying with this church.</b></font>
+464900 466900 <font face="Comic Sans MS" color="#ffff80"><b>You're right about that.</b></font>
+472900 476200 <font face="Comic Sans MS" color="#ffff80"><b>...cocaine smuggling<br />and bribing government officials.</b></font>
+476700 480700 <font face="Comic Sans MS" color="#ffff80"><b>He certainly doesn't show it,<br />but no matter how high his spirits,</b></font>
+481000 486500 <font face="Comic Sans MS" color="#ffff80"><b>they can't hide the fact that the US war<br />on drugs has taken its first prisoner.</b></font>
+489200 491800 <font face="Comic Sans MS" color="#ffff80"><b>This is Buckwheat. The clubhouse is open.</b></font>
+495100 497800 <font face="Comic Sans MS" color="#ffff80"><b>Here at Dulles,<br />the men from the Justice Department</b></font>
+498000 502600 <font face="Comic Sans MS" color="#ffff80"><b>wait to handcuff the man who symbolises<br />the enemy in America's fight against cocaine.</b></font>
+502900 506200 <font face="Comic Sans MS" color="#ffff80"><b>That battle may be almost won,<br />but the war is still in doubt.</b></font>
+506400 509500 <font face="Comic Sans MS" color="#ffff80"><b>Samantha Coleman, WNTW,<br />for Night-Time News.</b></font>
+509700 511700 <font face="Comic Sans MS" color="#ffff80"><b>Roger that, Colonel. Out.</b></font>
+527500 529800 <font face="Comic Sans MS" color="#ffff80"><b>That was the Colonel.</b></font>
+530000 532900 <font face="Comic Sans MS" color="#ffff80"><b>Everyone's in position. How's the weather?</b></font>
+533100 535800 <font face="Comic Sans MS" color="#ffff80"><b>We got flurries all along the Virginia coast.</b></font>
+536100 539100 <font face="Comic Sans MS" color="#ffff80"><b>New storm front coming in<br />from the northeast.</b></font>
+540000 542900 <font face="Comic Sans MS" color="#ffff80"><b>- God loves the infantry.<br />- Amen.</b></font>
+544300 546500 <font face="Comic Sans MS" color="#ffff80"><b>Carry out your assignments.</b></font>
+549300 552000 <font face="Comic Sans MS" color="#ffff80"><b>- 15.51. Mark.<br />- Check.</b></font>
+553500 554500 <font face="Comic Sans MS" color="#ffff80"><b>Later.</b></font>
+578400 581900 <font face="Comic Sans MS" color="#ffff80"><b>It's cold out there, man!<br />I stomped my feet for five minutes.</b></font>
+591400 594400 <font face="Comic Sans MS" color="#ffff80"><b>Two cappuccinos. Make it fast.</b></font>
+615000 619800 <font face="Comic Sans MS" color="#ffff80"><b>Excuse me, officers. This may sound like<br />a wild-goose chase, but I think I saw...</b></font>
+621800 624300 <font face="Comic Sans MS" color="#ffff80"><b>Saw what?</b></font>
+624400 627000 <font face="Comic Sans MS" color="#ffff80"><b>Elvis. Elvis Presley.</b></font>
+629900 632200 <font face="Comic Sans MS" color="#ffff80"><b>Fucking tourists. Ought to be a law.</b></font>
+632400 635100 <font face="Comic Sans MS" color="#ffff80"><b>There's a lot of you from<br />the Justice Department here.</b></font>
+635300 639200 <font face="Comic Sans MS" color="#ffff80"><b>- Is there any particular reason for that?<br />- Just routine.</b></font>
+639400 642200 <font face="Comic Sans MS" color="#ffff80"><b>- Any comment, sir?<br />- Not now.</b></font>
+642900 644900 <font face="Comic Sans MS" color="#ffff80"><b>Thank you, sir.</b></font>
+650000 652400 <font face="Comic Sans MS" color="#ffff80"><b>That's Colonel Stuart over there.</b></font>
+652600 656200 <font face="Comic Sans MS" color="#ffff80"><b>Got a little problem with personnel.<br />Last-minute replacement.</b></font>
+656800 660300 <font face="Comic Sans MS" color="#ffff80"><b>- How's the security here?<br />- Like we figured... ajoke.</b></font>
+661200 665500 <font face="Comic Sans MS" color="#ffff80"><b>- Colonel Stuart, could we have a few words?<br />- You can have two: "fuck" and "you".</b></font>
+665800 667800 <font face="Comic Sans MS" color="#ffff80"><b>No pictures, you pinko bitch.</b></font>
+670100 672100 <font face="Comic Sans MS" color="#ffff80"><b>Old news.</b></font>
+711100 712500 <font face="Comic Sans MS" color="#ffff80"><b>Hey, man.</b></font>
+715200 717400 <font face="Comic Sans MS" color="#ffff80"><b>- What is it?<br />- You got a key for this door?</b></font>
+717600 719300 <font face="Comic Sans MS" color="#ffff80"><b>Yeah. Why?</b></font>
+719500 722000 <font face="Comic Sans MS" color="#ffff80"><b>Because I want you to open it up, that's why.</b></font>
+724900 728200 <font face="Comic Sans MS" color="#ffff80"><b>- Is there a cop on duty around here?<br />- The airport police.</b></font>
+728500 730600 <font face="Comic Sans MS" color="#ffff80"><b>Go get 'em.</b></font>
+768500 772700 <font face="Comic Sans MS" color="#ffff80"><b>All right. Perfect. Good to go.</b></font>
+776200 778800 <font face="Comic Sans MS" color="#ffff80"><b>It's a restricted area. What's the matter?</b></font>
+779200 782400 <font face="Comic Sans MS" color="#ffff80"><b>- Couldn't wait for a skycap?<br />- We work here.</b></font>
+782700 784500 <font face="Comic Sans MS" color="#ffff80"><b>Let's see some ID.</b></font>
+784700 787600 <font face="Comic Sans MS" color="#ffff80"><b>Sure. No problem.</b></font>
+828000 830000 <font face="Comic Sans MS" color="#ffff80"><b>Jeez. Fuck!</b></font>
+877400 879600 <font face="Comic Sans MS" color="#ffff80"><b>This is a tag team?</b></font>
+912600 917400 <font face="Comic Sans MS" color="#ffff80"><b>- He came in here and flashed a badge?<br />- Yeah. He said to bring you guys back here.</b></font>
+944600 946600 <font face="Comic Sans MS" color="#ffff80"><b>Christ.</b></font>
+963300 964900 <font face="Comic Sans MS" color="#ffff80"><b>Fucker!</b></font>
+965800 968100 <font face="Comic Sans MS" color="#ffff80"><b>Freeze!</b></font>
+968600 971800 <font face="Comic Sans MS" color="#ffff80"><b>Nice guess, asshole.<br />I'm a cop. That was the bad guy.</b></font>
+972700 975100 <font face="Comic Sans MS" color="#ffff80"><b>Where's your ID?</b></font>
+978900 980800 <font face="Comic Sans MS" color="#ffff80"><b>On its way to Cleveland?</b></font>
+986600 991000 <font face="Comic Sans MS" color="#ffff80"><b>You did not explain anything. You just<br />shoved me back here into this cattle car.</b></font>
+991300 995200 <font face="Comic Sans MS" color="#ffff80"><b>- Sir, you were told we were overbooked.<br />- Fine. I accept that.</b></font>
+995400 998600 <font face="Comic Sans MS" color="#ffff80"><b>But why can't I get the first-class<br />meal my network paid for?</b></font>
+998800 1001700 <font face="Comic Sans MS" color="#ffff80"><b>- Do you know who I am?<br />- Yes. We've seen your programme.</b></font>
+1001900 1006000 <font face="Comic Sans MS" color="#ffff80"><b>Your episode "Flying Junkyards" was<br />an objective look at air-traffic safety.</b></font>
+1006300 1010300 <font face="Comic Sans MS" color="#ffff80"><b>It wasn't nearly as edifying as<br />"Bimbos of the Sky", was it, Connie?</b></font>
+1010500 1013400 <font face="Comic Sans MS" color="#ffff80"><b>You think you're funny.</b></font>
+1013900 1016800 <font face="Comic Sans MS" color="#ffff80"><b>Fine. I've got your number.</b></font>
+1016900 1020400 <font face="Comic Sans MS" color="#ffff80"><b>And I've got yours. So park it, sir.</b></font>
+1022400 1024800 <font face="Comic Sans MS" color="#ffff80"><b>Fine.</b></font>
+1033600 1036000 <font face="Comic Sans MS" color="#ffff80"><b>- Stewardess.<br />- Mr Thornberg.</b></font>
+1036100 1038200 <font face="Comic Sans MS" color="#ffff80"><b>You cannot monopolise my time.</b></font>
+1038400 1041200 <font face="Comic Sans MS" color="#ffff80"><b>- You cannot put me near that woman.<br />- Excuse me?</b></font>
+1043200 1046800 <font face="Comic Sans MS" color="#ffff80"><b>He means he's filed<br />a restraining order against me.</b></font>
+1047000 1049300 <font face="Comic Sans MS" color="#ffff80"><b>I'm not allowed within 50 feet of him.</b></font>
+1049600 1055100 <font face="Comic Sans MS" color="#ffff80"><b>50 yards. So by keeping me in this<br />section, you are violating a court order.</b></font>
+1055500 1058500 <font face="Comic Sans MS" color="#ffff80"><b>I can sue you and this airline.</b></font>
+1058700 1062200 <font face="Comic Sans MS" color="#ffff80"><b>That woman assaulted me,<br />and she humiliated me in public.</b></font>
+1070400 1072500 <font face="Comic Sans MS" color="#ffff80"><b>What did you do?</b></font>
+1073800 1075800 <font face="Comic Sans MS" color="#ffff80"><b>Knocked out two of his teeth.</b></font>
+1076800 1078900 <font face="Comic Sans MS" color="#ffff80"><b>Would you like some champagne?</b></font>
+1082800 1085300 <font face="Comic Sans MS" color="#ffff80"><b>Sorry, Officer McClane. I had to check.</b></font>
+1085500 1087500 <font face="Comic Sans MS" color="#ffff80"><b>Here's your piece and shield back.</b></font>
+1088700 1090000 <font face="Comic Sans MS" color="#ffff80"><b>Thanks.</b></font>
+1097500 1099900 <font face="Comic Sans MS" color="#ffff80"><b>Jesus! Christ!</b></font>
+1100900 1103600 <font face="Comic Sans MS" color="#ffff80"><b>What the fuck are you people...<br />What are you doing?</b></font>
+1103900 1106700 <font face="Comic Sans MS" color="#ffff80"><b>This is a crime scene.<br />You gotta seal this area off.</b></font>
+1106800 1111200 <font face="Comic Sans MS" color="#ffff80"><b>- That's up to the captain.<br />- Maybe you better take me up to the captain.</b></font>
+1122300 1125100 <font face="Comic Sans MS" color="#ffff80"><b>- Where's Cochrane?<br />- He didn't make it.</b></font>
+1134100 1138600 <font face="Comic Sans MS" color="#ffff80"><b>- You're late.<br />- We ran into trouble, Colonel.</b></font>
+1139300 1144100 <font face="Comic Sans MS" color="#ffff80"><b>Some cop killed Cochrane.<br />I barely got away, sir.</b></font>
+1144300 1146300 <font face="Comic Sans MS" color="#ffff80"><b>Did you accomplish your mission?</b></font>
+1147500 1149800 <font face="Comic Sans MS" color="#ffff80"><b>Yes, sir, but... Cochrane, sir.</b></font>
+1150100 1153400 <font face="Comic Sans MS" color="#ffff80"><b>Then the damage is minimal.<br />The penalty could be severe.</b></font>
+1162500 1165300 <font face="Comic Sans MS" color="#ffff80"><b>You fail me again,<br />and the chamber won't be empty.</b></font>
+1166900 1169100 <font face="Comic Sans MS" color="#ffff80"><b>Dismissed.</b></font>
+1185200 1187300 <font face="Comic Sans MS" color="#ffff80"><b>Who is it? Come in.</b></font>
+1188300 1190500 <font face="Comic Sans MS" color="#ffff80"><b>- Captain Lorenzo?<br />- Yeah.</b></font>
+1190700 1193200 <font face="Comic Sans MS" color="#ffff80"><b>- I'm John McClane...<br />- I know who you are.</b></font>
+1193500 1198000 <font face="Comic Sans MS" color="#ffff80"><b>You're the asshole thatjust broke seven FAA<br />and five District of Columbia regulations</b></font>
+1198300 1201600 <font face="Comic Sans MS" color="#ffff80"><b>running around my airport<br />with a gun, shooting at people.</b></font>
+1201900 1204600 <font face="Comic Sans MS" color="#ffff80"><b>- What do you call that shit?<br />- Self-defence.</b></font>
+1205600 1209800 <font face="Comic Sans MS" color="#ffff80"><b>You think that LA badge is gonna get you<br />a free lunch or something around here?</b></font>
+1211000 1213700 <font face="Comic Sans MS" color="#ffff80"><b>No. Maybe a little professional courtesy.</b></font>
+1214200 1217400 <font face="Comic Sans MS" color="#ffff80"><b>In an airport on Christmas week?<br />You gotta be kidding.</b></font>
+1217500 1220300 <font face="Comic Sans MS" color="#ffff80"><b>OK, fuck courtesy.<br />How about being professional?</b></font>
+1220500 1223300 <font face="Comic Sans MS" color="#ffff80"><b>Your boys just walked away<br />from a crime scene.</b></font>
+1223600 1225600 <font face="Comic Sans MS" color="#ffff80"><b>You can't wrap this up in ten minutes.</b></font>
+1225800 1229800 <font face="Comic Sans MS" color="#ffff80"><b>- You got to seal the area off, dust for prints...<br />- Don't lecture me, hotshot.</b></font>
+1230000 1233100 <font face="Comic Sans MS" color="#ffff80"><b>I know what I'm doing.<br />We're gonna dust it down.</b></font>
+1233400 1236200 <font face="Comic Sans MS" color="#ffff80"><b>We'll take all the pictures.<br />We'll sweep for fibres.</b></font>
+1236400 1241000 <font face="Comic Sans MS" color="#ffff80"><b>After 400 people go through there? You'd be<br />lucky to get a print from one of your people.</b></font>
+1241400 1244300 <font face="Comic Sans MS" color="#ffff80"><b>- Just shut down that area...<br />- Shut the area down?</b></font>
+1244500 1246800 <font face="Comic Sans MS" color="#ffff80"><b>It's that simple? Just shut the area down?</b></font>
+1247100 1250300 <font face="Comic Sans MS" color="#ffff80"><b>I got everybody<br />from the Shriners' convention</b></font>
+1250600 1253200 <font face="Comic Sans MS" color="#ffff80"><b>to the goddamn Boy Scouts in here.</b></font>
+1253400 1256700 <font face="Comic Sans MS" color="#ffff80"><b>I got lost kids, lost dogs...<br />Not now. Later!</b></font>
+1256900 1258900 <font face="Comic Sans MS" color="#ffff80"><b>I got international diplomats.</b></font>
+1259100 1263100 <font face="Comic Sans MS" color="#ffff80"><b>I got a fuckin' reindeer flying in here<br />from the fuckin' petting zoo.</b></font>
+1263400 1266500 <font face="Comic Sans MS" color="#ffff80"><b>But John McClane, he's got a little problem.</b></font>
+1266700 1268900 <font face="Comic Sans MS" color="#ffff80"><b>Let's shut down the whole fuckin' airport.</b></font>
+1269100 1273300 <font face="Comic Sans MS" color="#ffff80"><b>- What do you think they'll say upstairs?<br />- Phone and find out.</b></font>
+1273600 1278800 <font face="Comic Sans MS" color="#ffff80"><b>I don't need fuckin' forensics to tell me<br />this was some punk stealing luggage!</b></font>
+1279000 1283800 <font face="Comic Sans MS" color="#ffff80"><b>Luggage? That punk pulled a Glock 7 on me.<br />That's a porcelain gun made in Germany.</b></font>
+1284000 1287900 <font face="Comic Sans MS" color="#ffff80"><b>It doesn't show up on X-ray machines<br />and it costs more than you make in a month.</b></font>
+1288200 1292100 <font face="Comic Sans MS" color="#ffff80"><b>- You'd be surprised what I make in a month.<br />- If it's more than $1.98...</b></font>
+1292400 1295700 <font face="Comic Sans MS" color="#ffff80"><b>Hey, McClane, don't start<br />believing your own press.</b></font>
+1295900 1298900 <font face="Comic Sans MS" color="#ffff80"><b>Yeah, I know all about you<br />and that Nakatomi thing in LA.</b></font>
+1299700 1303300 <font face="Comic Sans MS" color="#ffff80"><b>Butjust cos the TV thinks<br />you're hot shit, that don't make it so.</b></font>
+1303500 1306100 <font face="Comic Sans MS" color="#ffff80"><b>Look, you are in my little pond now,</b></font>
+1306400 1309200 <font face="Comic Sans MS" color="#ffff80"><b>and I am the big fish that runs it.</b></font>
+1310000 1312900 <font face="Comic Sans MS" color="#ffff80"><b>So you capped some lowlife. Fine.</b></font>
+1313000 1317000 <font face="Comic Sans MS" color="#ffff80"><b>I'll send your fuckin' captain in LA<br />a fuckin' commendation.</b></font>
+1317200 1321900 <font face="Comic Sans MS" color="#ffff80"><b>Now, get the hell out of my office before I<br />have you thrown out of my goddamn airport.</b></font>
+1333300 1335500 <font face="Comic Sans MS" color="#ffff80"><b>Carmine, let me ask you something.</b></font>
+1335600 1340200 <font face="Comic Sans MS" color="#ffff80"><b>What sets off the metal detectors first? The<br />lead in your ass or the shit in your brains?</b></font>
+1341100 1343400 <font face="Comic Sans MS" color="#ffff80"><b>Fat fuck.</b></font>
+1352100 1355500 <font face="Comic Sans MS" color="#ffff80"><b>- Any ID on this guy?<br />- That's somebody else's problem.</b></font>
+1361000 1364200 <font face="Comic Sans MS" color="#ffff80"><b>I need to borrow this and this.<br />I'll bring it right back.</b></font>
+1367300 1369300 <font face="Comic Sans MS" color="#ffff80"><b>Hold up!</b></font>
+1373000 1375200 <font face="Comic Sans MS" color="#ffff80"><b>Hold up, boys. We gotta check something.</b></font>
+1375400 1378600 <font face="Comic Sans MS" color="#ffff80"><b>- What are you doing?<br />- Pretty gruesome fuckin' job.</b></font>
+1378800 1384300 <font face="Comic Sans MS" color="#ffff80"><b>All the confusion in there,<br />forgot to get this clown's prints.</b></font>
+1387300 1389900 <font face="Comic Sans MS" color="#ffff80"><b>- Christ.<br />- You're supposed to do that at the morgue.</b></font>
+1390100 1393500 <font face="Comic Sans MS" color="#ffff80"><b>Not any more. Got a new SOP<br />for DOAs from the FAA.</b></font>
+1398000 1400800 <font face="Comic Sans MS" color="#ffff80"><b>I don't think this one's gonna make it.<br />Thanks a lot.</b></font>
+1514900 1518100 <font face="Comic Sans MS" color="#ffff80"><b>- Powell here.<br />- Take that Twinkie out of your mouth.</b></font>
+1519500 1522100 <font face="Comic Sans MS" color="#ffff80"><b>- John, how ya doing?<br />- Holly stood me up a day</b></font>
+1522200 1525400 <font face="Comic Sans MS" color="#ffff80"><b>and I'm here alone in DC with my in-laws.</b></font>
+1526600 1531000 <font face="Comic Sans MS" color="#ffff80"><b>The old in-laws? Man, they do love<br />their policemen son-in-laws.</b></font>
+1531300 1535600 <font face="Comic Sans MS" color="#ffff80"><b>Listen, Al, what is the fax machine<br />telephone number there at the station?</b></font>
+1540100 1541900 <font face="Comic Sans MS" color="#ffff80"><b>5553212.</b></font>
+1542000 1546500 <font face="Comic Sans MS" color="#ffff80"><b>3212. Hold on a second, all right?<br />I wanna send you something.</b></font>
+1546800 1548000 <font face="Comic Sans MS" color="#ffff80"><b>Excuse me.</b></font>
+1548200 1550900 <font face="Comic Sans MS" color="#ffff80"><b>You and faxes? This is a first.</b></font>
+1551100 1554400 <font face="Comic Sans MS" color="#ffff80"><b>Holly told me I should wake up<br />and smell the nineties.</b></font>
+1554700 1557000 <font face="Comic Sans MS" color="#ffff80"><b>- This way?<br />- No. That way.</b></font>
+1557200 1559500 <font face="Comic Sans MS" color="#ffff80"><b>- It's upside down.<br />- It doesn't matter.</b></font>
+1559600 1561600 <font face="Comic Sans MS" color="#ffff80"><b>Here it comes.</b></font>
+1563900 1567100 <font face="Comic Sans MS" color="#ffff80"><b>- I'm sending you something now.<br />- Hold on a second, cowboy.</b></font>
+1583300 1586100 <font face="Comic Sans MS" color="#ffff80"><b>- Fingerprints?<br />- We've got an unidentified stiff.</b></font>
+1586200 1589200 <font face="Comic Sans MS" color="#ffff80"><b>I've circled the whorls<br />in case the transmission's fuzzy.</b></font>
+1589500 1592200 <font face="Comic Sans MS" color="#ffff80"><b>Run it through State and Federal,<br />and maybe Interpol.</b></font>
+1592400 1596100 <font face="Comic Sans MS" color="#ffff80"><b>- Will do. What's this about?<br />- Just a feeling I have.</b></font>
+1597000 1601000 <font face="Comic Sans MS" color="#ffff80"><b>Ouch. When you get those feelings,<br />insurance companies start to go bankrupt.</b></font>
+1601300 1605200 <font face="Comic Sans MS" color="#ffff80"><b>- The fax number is...<br />- On the top of the transmission you just got.</b></font>
+1605400 1608000 <font face="Comic Sans MS" color="#ffff80"><b>On the top of the transmission you just got.</b></font>
+1611500 1615500 <font face="Comic Sans MS" color="#ffff80"><b>An airport? You're not<br />pissing in somebody's pool?</b></font>
+1617000 1619000 <font face="Comic Sans MS" color="#ffff80"><b>Yeah, and I'm fresh out of chlorine.</b></font>
+1620200 1622600 <font face="Comic Sans MS" color="#ffff80"><b>- Thank you.<br />- You're welcome.</b></font>
+1625800 1627800 <font face="Comic Sans MS" color="#ffff80"><b>Just as this storm starts breaking,</b></font>
+1628000 1631300 <font face="Comic Sans MS" color="#ffff80"><b>the satellite-feed up<br />and drops the other shoe on us.</b></font>
+1631500 1636200 <font face="Comic Sans MS" color="#ffff80"><b>Look at this new front moving in.<br />Makes its baby brother look like chickenshit.</b></font>
+1637600 1641300 <font face="Comic Sans MS" color="#ffff80"><b>I can sand down the runways<br />and run the ploughs between landings</b></font>
+1641500 1644100 <font face="Comic Sans MS" color="#ffff80"><b>but you gotta downshift them,<br />give me time to work.</b></font>
+1644200 1646300 <font face="Comic Sans MS" color="#ffff80"><b>You got it.</b></font>
+1646800 1652700 <font face="Comic Sans MS" color="#ffff80"><b>All right, everyone. Let's slow down our birds<br />before we get a parking lot over our heads.</b></font>
+1653100 1657600 <font face="Comic Sans MS" color="#ffff80"><b>The line starts at the Mississippi,<br />and they better start taking numbers.</b></font>
+1667400 1669800 <font face="Comic Sans MS" color="#ffff80"><b>Can I get you another?</b></font>
+1672400 1676100 <font face="Comic Sans MS" color="#ffff80"><b>No, thank you. I only have to look<br />at his face for another 20 minutes.</b></font>
+1678300 1682900 <font face="Comic Sans MS" color="#ffff80"><b>This is the captain speaking. I've just<br />been informed by Dulles traffic control</b></font>
+1683200 1686000 <font face="Comic Sans MS" color="#ffff80"><b>that there's a weather front ahead of us.</b></font>
+1686300 1689100 <font face="Comic Sans MS" color="#ffff80"><b>We may be up here a little while longer.</b></font>
+1689300 1691900 <font face="Comic Sans MS" color="#ffff80"><b>- Thank you.<br />- On second thought...</b></font>
+1700600 1705200 <font face="Comic Sans MS" color="#ffff80"><b>I'm right here, partner.<br />Your stiff's dossier is coming through now.</b></font>
+1707900 1710200 <font face="Comic Sans MS" color="#ffff80"><b>- What can you tell me about him?<br />- He's dead.</b></font>
+1710400 1714600 <font face="Comic Sans MS" color="#ffff80"><b>- You needed a computer to figure that out?<br />- No, you don't follow me.</b></font>
+1714900 1718500 <font face="Comic Sans MS" color="#ffff80"><b>According to the Department of Defense,<br />he's been dead for two years.</b></font>
+1718800 1722600 <font face="Comic Sans MS" color="#ffff80"><b>- What?<br />- That's right. Sergeant Oswald Cochrane.</b></font>
+1722900 1725600 <font face="Comic Sans MS" color="#ffff80"><b>American adviser in Honduras.</b></font>
+1725800 1728100 <font face="Comic Sans MS" color="#ffff80"><b>Killed in a helicopter accident, 5-11-88.</b></font>
+1728500 1730900 <font face="Comic Sans MS" color="#ffff80"><b>Officer.</b></font>
+1731000 1734500 <font face="Comic Sans MS" color="#ffff80"><b>Read between the lines<br />and it looks like a lot of black-bag stuff.</b></font>
+1734700 1737300 <font face="Comic Sans MS" color="#ffff80"><b>I see it. All right, Al. Thanks a lot.</b></font>
+1737700 1739700 <font face="Comic Sans MS" color="#ffff80"><b>- Any time.<br />- OK.</b></font>
+1741900 1745600 <font face="Comic Sans MS" color="#ffff80"><b>I close in about an hour.<br />Maybe we can go get a drink?</b></font>
+1748500 1751300 <font face="Comic Sans MS" color="#ffff80"><b>Just the fax, ma'am.</b></font>
+1756600 1759500 <font face="Comic Sans MS" color="#ffff80"><b>Wait a second, I see somebody.<br />I'll call you back.</b></font>
+1766000 1770100 <font face="Comic Sans MS" color="#ffff80"><b>The ghost of Christmas past.<br />Nakatomi? LA? You're John McClane, right?</b></font>
+1770400 1773800 <font face="Comic Sans MS" color="#ffff80"><b>- Who are you?<br />- Sam Coleman. WNTW News.</b></font>
+1774100 1777400 <font face="Comic Sans MS" color="#ffff80"><b>- Excuse me.<br />- Give me a break. I saw the stiff.</b></font>
+1777700 1779700 <font face="Comic Sans MS" color="#ffff80"><b>Word is, that was your handiwork.</b></font>
+1779900 1782500 <font face="Comic Sans MS" color="#ffff80"><b>No. I only do needlepoint.</b></font>
+1787900 1791400 <font face="Comic Sans MS" color="#ffff80"><b>Great. National just shut down. Totally iced.</b></font>
+1791900 1794600 <font face="Comic Sans MS" color="#ffff80"><b>- They'll send us their planes.<br />- Happy holiday.</b></font>
+1794800 1797000 <font face="Comic Sans MS" color="#ffff80"><b>The worst part, Mr Trudeau, is the press.</b></font>
+1797200 1800000 <font face="Comic Sans MS" color="#ffff80"><b>They were here for the Esperanza story,</b></font>
+1800200 1803200 <font face="Comic Sans MS" color="#ffff80"><b>so they got it right on the news,<br />bloodstains and all.</b></font>
+1803500 1806800 <font face="Comic Sans MS" color="#ffff80"><b>I'd like to lock every damn reporter<br />out of the airport,</b></font>
+1806900 1811500 <font face="Comic Sans MS" color="#ffff80"><b>but they'd pull that freedom-of-speech crap<br />on us, then the ACLU would be all over us.</b></font>
+1812000 1815700 <font face="Comic Sans MS" color="#ffff80"><b>Murder on television.<br />Hell of a start for Christmas week.</b></font>
+1817300 1819500 <font face="Comic Sans MS" color="#ffff80"><b>What is it? A gang thing like last time?</b></font>
+1819600 1822400 <font face="Comic Sans MS" color="#ffff80"><b>Only if your gangs get<br />their training at Fort Bragg.</b></font>
+1824000 1826300 <font face="Comic Sans MS" color="#ffff80"><b>- Who the hell is this?<br />- I'm a police officer...</b></font>
+1826500 1830500 <font face="Comic Sans MS" color="#ffff80"><b>In an unauthorised area.<br />LA, Mr Trudeau, don't mean shit.</b></font>
+1831000 1834500 <font face="Comic Sans MS" color="#ffff80"><b>That's what I said about<br />my last cholesterol test.</b></font>
+1834700 1837100 <font face="Comic Sans MS" color="#ffff80"><b>So what's your problem,<br />Lieutenant McClane?</b></font>
+1838800 1843500 <font face="Comic Sans MS" color="#ffff80"><b>I'm sure Captain Lorenzo has explained to<br />you the minor fracas with the minor thieves.</b></font>
+1843800 1846100 <font face="Comic Sans MS" color="#ffff80"><b>Maybe he can explain this.</b></font>
+1864800 1867300 <font face="Comic Sans MS" color="#ffff80"><b>- All systems tapped, Colonel.<br />- Fire it up.</b></font>
+1882500 1885200 <font face="Comic Sans MS" color="#ffff80"><b>H minus five minutes. Stand by.</b></font>
+1887400 1891100 <font face="Comic Sans MS" color="#ffff80"><b>We've got a body in the morgue<br />that seems to have died twice.</b></font>
+1891400 1894000 <font face="Comic Sans MS" color="#ffff80"><b>Assuming it's not an error,<br />what do we assume?</b></font>
+1894200 1898400 <font face="Comic Sans MS" color="#ffff80"><b>- Somebody's about to fuck with this airport.<br />- What the hell does that mean?</b></font>
+1898700 1902300 <font face="Comic Sans MS" color="#ffff80"><b>I know we're dummies up here,<br />so give us a taste of your genius.</b></font>
+1902500 1904500 <font face="Comic Sans MS" color="#ffff80"><b>A hijacking, a robbery or what?</b></font>
+1904700 1906900 <font face="Comic Sans MS" color="#ffff80"><b>- I'm not sure...<br />- He's not sure.</b></font>
+1907100 1909600 <font face="Comic Sans MS" color="#ffff80"><b>I'm stunned. I gotta lie down.</b></font>
+1909700 1913600 <font face="Comic Sans MS" color="#ffff80"><b>Only professionals go to this much trouble.<br />Not luggage thieves or punks.</b></font>
+1913900 1916900 <font face="Comic Sans MS" color="#ffff80"><b>- Professional at what?<br />- What the fuck do you think this is?</b></font>
+1917100 1920600 <font face="Comic Sans MS" color="#ffff80"><b>The safety patrol? This is the résumé<br />of a professional mercenary.</b></font>
+1920900 1924400 <font face="Comic Sans MS" color="#ffff80"><b>A major drug dealer is due here.<br />You need a slide rule to solve this,</b></font>
+1924600 1927300 <font face="Comic Sans MS" color="#ffff80"><b>or another body in a bag<br />before you ask questions?</b></font>
+1927600 1930800 <font face="Comic Sans MS" color="#ffff80"><b>You're the one that gave us<br />that fucking body. Remember that.</b></font>
+1931200 1933400 <font face="Comic Sans MS" color="#ffff80"><b>Yeah, I remember that.</b></font>
+1939600 1942900 <font face="Comic Sans MS" color="#ffff80"><b>Lorenzo, have all your<br />shift commanders report in. Now.</b></font>
+1943200 1946500 <font face="Comic Sans MS" color="#ffff80"><b>- What?<br />- They're to report anything unusual,</b></font>
+1946700 1949600 <font face="Comic Sans MS" color="#ffff80"><b>- no matter how trivial. Got that?<br />- I got it.</b></font>
+1950200 1952400 <font face="Comic Sans MS" color="#ffff80"><b>- My God.<br />- What?</b></font>
+1952600 1955500 <font face="Comic Sans MS" color="#ffff80"><b>- The runways. Look.<br />- What the hell?</b></font>
+1955700 1958200 <font face="Comic Sans MS" color="#ffff80"><b>- They're shutting down.<br />- Jesus Christ.</b></font>
+1964600 1966600 <font face="Comic Sans MS" color="#ffff80"><b>Go to emergency lighting. Now.</b></font>
+1967300 1971500 <font face="Comic Sans MS" color="#ffff80"><b>- Emergency. We are in a code yellow.<br />- Backup systems won't come up.</b></font>
+1971800 1974800 <font face="Comic Sans MS" color="#ffff80"><b>- Shunt to another terminal.<br />- Bobby, what have you got?</b></font>
+1975000 1978200 <font face="Comic Sans MS" color="#ffff80"><b>- The network is down.<br />- Should we call the power company?</b></font>
+1978400 1980500 <font face="Comic Sans MS" color="#ffff80"><b>We're on the same grid and we're hot.</b></font>
+1980600 1982400 <font face="Comic Sans MS" color="#ffff80"><b>Dulles, I'm on approach.</b></font>
+1982600 1985700 <font face="Comic Sans MS" color="#ffff80"><b>- Maintain position. Repeat.<br />- What's going on down there?</b></font>
+1985800 1988400 <font face="Comic Sans MS" color="#ffff80"><b>- We're on it.<br />- We're unable right now. Delay.</b></font>
+1988700 1993000 <font face="Comic Sans MS" color="#ffff80"><b>Fuji 604. Execute published<br />missed-approach procedure and hold.</b></font>
+1993200 1996000 <font face="Comic Sans MS" color="#ffff80"><b>TWA 23, unable to clear you<br />for approach at this time.</b></font>
+1996300 1998500 <font face="Comic Sans MS" color="#ffff80"><b>Climb to and maintain one zero thousand.</b></font>
+1999000 2001700 <font face="Comic Sans MS" color="#ffff80"><b>I've checked all systems. It ain't happening.</b></font>
+2017400 2020000 <font face="Comic Sans MS" color="#ffff80"><b>- What's it look like?<br />- Approach control is gone.</b></font>
+2020300 2022900 <font face="Comic Sans MS" color="#ffff80"><b>Jesus. Instrument landing system is down.</b></font>
+2024500 2026700 <font face="Comic Sans MS" color="#ffff80"><b>Confirmed. ILS is dead.</b></font>
+2026900 2030200 <font face="Comic Sans MS" color="#ffff80"><b>Every goddamn system's dead.<br />And Inmac monitors are down.</b></font>
+2036100 2039300 <font face="Comic Sans MS" color="#ffff80"><b>Attention all controllers.<br />We have a code-red alert.</b></font>
+2040300 2044400 <font face="Comic Sans MS" color="#ffff80"><b>Every aircraft approaching our sector,<br />and not already in our landing pattern,</b></font>
+2044700 2047500 <font face="Comic Sans MS" color="#ffff80"><b>gets diverted to their alternate airport.</b></font>
+2047700 2051800 <font face="Comic Sans MS" color="#ffff80"><b>Everyone already on approach,<br />or inside our pattern,</b></font>
+2052000 2054500 <font face="Comic Sans MS" color="#ffff80"><b>holds at the outer markers.</b></font>
+2054700 2057400 <font face="Comic Sans MS" color="#ffff80"><b>Stack 'em, pack 'em and rack 'em. Move.</b></font>
+2063800 2066200 <font face="Comic Sans MS" color="#ffff80"><b>Not a word of this leaves this room.</b></font>
+2066300 2070200 <font face="Comic Sans MS" color="#ffff80"><b>There must be 15,000 people in<br />this airport, and we don't need panic.</b></font>
+2071500 2074400 <font face="Comic Sans MS" color="#ffff80"><b>We just bought ourselves maybe two hours.</b></font>
+2074600 2077500 <font face="Comic Sans MS" color="#ffff80"><b>After that, planes low on fuel<br />won't be circling.</b></font>
+2077700 2080200 <font face="Comic Sans MS" color="#ffff80"><b>They'll be dropping on the White House lawn.</b></font>
+2082400 2085300 <font face="Comic Sans MS" color="#ffff80"><b>McClane, this what you expected?</b></font>
+2087200 2089400 <font face="Comic Sans MS" color="#ffff80"><b>No.</b></font>
+2089500 2092000 <font face="Comic Sans MS" color="#ffff80"><b>This is just the beginning.</b></font>
+2095400 2098100 <font face="Comic Sans MS" color="#ffff80"><b>- FAA hot line.<br />- How could they know already?</b></font>
+2098800 2100400 <font face="Comic Sans MS" color="#ffff80"><b>They can't.</b></font>
+2101800 2105800 <font face="Comic Sans MS" color="#ffff80"><b>- Maybe it's the boys who pulled your plugs.<br />- Put it on speaker.</b></font>
+2107200 2109800 <font face="Comic Sans MS" color="#ffff80"><b>Attention, Dulles tower. Attention.</b></font>
+2110000 2113500 <font face="Comic Sans MS" color="#ffff80"><b>They say blind men become very<br />attentive by way of compensation.</b></font>
+2113800 2117900 <font face="Comic Sans MS" color="#ffff80"><b>Now that you're blind and deaf,<br />I think I've got your attention.</b></font>
+2118100 2121600 <font face="Comic Sans MS" color="#ffff80"><b>I'm aware your recorders are active,<br />so I'll be quick.</b></font>
+2121800 2124100 <font face="Comic Sans MS" color="#ffff80"><b>You can play me back<br />to your heart's content.</b></font>
+2124500 2126700 <font face="Comic Sans MS" color="#ffff80"><b>How did you get on this line? Who is this?</b></font>
+2128000 2130700 <font face="Comic Sans MS" color="#ffff80"><b>Who I am is unimportant. What I want...</b></font>
+2132000 2135900 <font face="Comic Sans MS" color="#ffff80"><b>If you don't want planes to splash into<br />the Potomac as they run out of fuel,</b></font>
+2136200 2138400 <font face="Comic Sans MS" color="#ffff80"><b>what I want is very important.</b></font>
+2138600 2141500 <font face="Comic Sans MS" color="#ffff80"><b>A plane will be landing<br />at this airport in 58 minutes.</b></font>
+2141900 2144800 <font face="Comic Sans MS" color="#ffff80"><b>It is FM-1: Foreign Military One.</b></font>
+2145200 2148300 <font face="Comic Sans MS" color="#ffff80"><b>- I'm sure you are aware of the nature<br />- Esperanza?</b></font>
+2148500 2151300 <font face="Comic Sans MS" color="#ffff80"><b>of this flight, the importance of its cargo.</b></font>
+2152000 2154700 <font face="Comic Sans MS" color="#ffff80"><b>This plane will not be met by anyone.</b></font>
+2155800 2158100 <font face="Comic Sans MS" color="#ffff80"><b>It will land on a runway of my designation,</b></font>
+2158300 2161300 <font face="Comic Sans MS" color="#ffff80"><b>where it will remain isolated<br />and unapproached.</b></font>
+2161800 2166100 <font face="Comic Sans MS" color="#ffff80"><b>That will conclude my interest in this<br />aircraft and your responsibility for it.</b></font>
+2166300 2171800 <font face="Comic Sans MS" color="#ffff80"><b>At the same time, I want a 747 cargo<br />conversion fully fuelled</b></font>
+2172300 2174600 <font face="Comic Sans MS" color="#ffff80"><b>and placed at my disposal.</b></font>
+2174800 2179100 <font face="Comic Sans MS" color="#ffff80"><b>You have two minutes to advise inbound<br />aircraft to hold at their outer radio marker.</b></font>
+2179400 2182400 <font face="Comic Sans MS" color="#ffff80"><b>After that, you will be able to receive only.</b></font>
+2182800 2187000 <font face="Comic Sans MS" color="#ffff80"><b>Any attempt to restore your systems,<br />will be met by severe penalties.</b></font>
+2187400 2189600 <font face="Comic Sans MS" color="#ffff80"><b>He's bluffing.</b></font>
+2189800 2193000 <font face="Comic Sans MS" color="#ffff80"><b>- Damn it, you can't do this.<br />- I am doing this.</b></font>
+2201600 2205700 <font face="Comic Sans MS" color="#ffff80"><b>I need you to punch up a code 15.<br />I got an idea, and I need your help.</b></font>
+2206300 2210200 <font face="Comic Sans MS" color="#ffff80"><b>If Esperanza gets to a country with<br />no extradition treaties, we're fucked.</b></font>
+2210600 2213500 <font face="Comic Sans MS" color="#ffff80"><b>They're talking to us on our system.<br />They gotta be close.</b></font>
+2213700 2217200 <font face="Comic Sans MS" color="#ffff80"><b>- My men will tear this airport apart.<br />- Just in the nick of time.</b></font>
+2217400 2222200 <font face="Comic Sans MS" color="#ffff80"><b>I got a first-class unit, SWAT team and all. We<br />don't need Monday morning quarterbacks.</b></font>
+2222600 2227400 <font face="Comic Sans MS" color="#ffff80"><b>My wife's on one of the planes they're<br />fucking with! So I'm on the playing field.</b></font>
+2227600 2230600 <font face="Comic Sans MS" color="#ffff80"><b>If you'd have moved before,<br />we wouldn't be deep in shit.</b></font>
+2230700 2233100 <font face="Comic Sans MS" color="#ffff80"><b>That's it. Security. You're outta here.</b></font>
+2233200 2235800 <font face="Comic Sans MS" color="#ffff80"><b>Mr Trudeau, there are FAA regulations</b></font>
+2235900 2239100 <font face="Comic Sans MS" color="#ffff80"><b>regarding unauthorised personnel<br />in the control tower!</b></font>
+2239300 2243900 <font face="Comic Sans MS" color="#ffff80"><b>- We just have to find a way to transmit.<br />- Run down to Radio Shack for a transmitter.</b></font>
+2244200 2246700 <font face="Comic Sans MS" color="#ffff80"><b>We have one - the terminal wing<br />they're building.</b></font>
+2247000 2251900 <font face="Comic Sans MS" color="#ffff80"><b>20 airlines when it's done, all with reservation<br />computers in a nice antenna arrangement.</b></font>
+2252200 2255800 <font face="Comic Sans MS" color="#ffff80"><b>- See Mr McClane out.<br />- You got no business being up here.</b></font>
+2256100 2258700 <font face="Comic Sans MS" color="#ffff80"><b>Everything we need<br />is by the annexe skywalk,</b></font>
+2258900 2261300 <font face="Comic Sans MS" color="#ffff80"><b>just sitting there, waiting to go on line.</b></font>
+2261600 2264400 <font face="Comic Sans MS" color="#ffff80"><b>Goddamn it, Trudeau,<br />you're dealing with pros.</b></font>
+2264600 2266700 <font face="Comic Sans MS" color="#ffff80"><b>You can't fuck with these people.</b></font>
+2266800 2270400 <font face="Comic Sans MS" color="#ffff80"><b>Sam Coleman. WNTW News.<br />There are a lot of rumours flying around...</b></font>
+2270600 2272900 <font face="Comic Sans MS" color="#ffff80"><b>No way, lady. Hell, no.</b></font>
+2273200 2275200 <font face="Comic Sans MS" color="#ffff80"><b>This is off limits, Coleman.</b></font>
+2277100 2279800 <font face="Comic Sans MS" color="#ffff80"><b>Anything you can think of,<br />they'll think of, too!</b></font>
+2280000 2283500 <font face="Comic Sans MS" color="#ffff80"><b>- Get your fucking hands off me.<br />- Just get 'em out of here.</b></font>
+2285100 2288000 <font face="Comic Sans MS" color="#ffff80"><b>- Lobby security, come in.<br />- Tomalson here.</b></font>
+2288200 2291900 <font face="Comic Sans MS" color="#ffff80"><b>This is Captain Lorenzo. We've two<br />unauthorised personnel in the tower.</b></font>
+2292200 2295200 <font face="Comic Sans MS" color="#ffff80"><b>Get your thumb out of your ass.<br />Get 'em out of the elevator,</b></font>
+2295300 2297700 <font face="Comic Sans MS" color="#ffff80"><b>or you'll get a pink slip for Christmas.</b></font>
+2297900 2299900 <font face="Comic Sans MS" color="#ffff80"><b>10-4. Let's go.</b></font>
+2300900 2302900 <font face="Comic Sans MS" color="#ffff80"><b>Goddamn!</b></font>
+2303300 2306900 <font face="Comic Sans MS" color="#ffff80"><b>- Anything who can think of?<br />- Shit. Hang on over there.</b></font>
+2307000 2309800 <font face="Comic Sans MS" color="#ffff80"><b>- What for?<br />- Just hang on!</b></font>
+2310600 2313800 <font face="Comic Sans MS" color="#ffff80"><b>Big drug dealer on his way to prison.<br />Gunfight at airport.</b></font>
+2313900 2318000 <font face="Comic Sans MS" color="#ffff80"><b>Every controller in the coffee shop<br />getting beeped, and you rocking the boat.</b></font>
+2318300 2322500 <font face="Comic Sans MS" color="#ffff80"><b>- Connection? Come on, just a few words.<br />- OK, just a few words. Fuck off.</b></font>
+2323100 2325900 <font face="Comic Sans MS" color="#ffff80"><b>Thanks, but I already got<br />that from Colonel Stuart.</b></font>
+2327600 2331700 <font face="Comic Sans MS" color="#ffff80"><b>Stuart. The guy that got canned<br />by Congress. That's who he was.</b></font>
+2331900 2334200 <font face="Comic Sans MS" color="#ffff80"><b>Who he who? What?</b></font>
+2334400 2336400 <font face="Comic Sans MS" color="#ffff80"><b>It's OK, I've done this before.</b></font>
+2347800 2349700 <font face="Comic Sans MS" color="#ffff80"><b>- Hey.<br />- Hi.</b></font>
+2349800 2353000 <font face="Comic Sans MS" color="#ffff80"><b>- Where's the other one?<br />- Claustrophobic, I guess.</b></font>
+2354800 2357700 <font face="Comic Sans MS" color="#ffff80"><b>It's a VHF system,<br />but the planes are so close, it's OK.</b></font>
+2357900 2361700 <font face="Comic Sans MS" color="#ffff80"><b>I can rig our frequency in 30 minutes,<br />and wire in a crossover.</b></font>
+2361900 2365900 <font face="Comic Sans MS" color="#ffff80"><b>- You wouldn't know the difference.<br />- Get what you need. Borrow. Steal. Kill.</b></font>
+2366100 2368200 <font face="Comic Sans MS" color="#ffff80"><b>I want my SWAT team<br />to go with him as cover.</b></font>
+2368400 2371400 <font face="Comic Sans MS" color="#ffff80"><b>Whatever we can think of,<br />they can think of, too.</b></font>
+2377300 2379500 <font face="Comic Sans MS" color="#ffff80"><b>Man, I can't fucking believe this.</b></font>
+2379700 2382400 <font face="Comic Sans MS" color="#ffff80"><b>Another basement. Another elevator.</b></font>
+2382500 2385300 <font face="Comic Sans MS" color="#ffff80"><b>How can the same shit happen<br />to the same guy twice?</b></font>
+2407000 2408800 <font face="Comic Sans MS" color="#ffff80"><b>What the fuck?</b></font>
+2443900 2446000 <font face="Comic Sans MS" color="#ffff80"><b>Who are you?</b></font>
+2447200 2450300 <font face="Comic Sans MS" color="#ffff80"><b>I'm Marvin.</b></font>
+2450900 2453700 <font face="Comic Sans MS" color="#ffff80"><b>I thought you was trying to steal my records.</b></font>
+2453800 2455800 <font face="Comic Sans MS" color="#ffff80"><b>I'm just the janitor.</b></font>
+2462900 2466600 <font face="Comic Sans MS" color="#ffff80"><b>This is Dulles approach to all aircraft<br />holding at Potomac vortex.</b></font>
+2466900 2469500 <font face="Comic Sans MS" color="#ffff80"><b>We are experiencing<br />some technical problems.</b></font>
+2469700 2472300 <font face="Comic Sans MS" color="#ffff80"><b>Weather conditions, which have deteriorated,</b></font>
+2472500 2476200 <font face="Comic Sans MS" color="#ffff80"><b>have now been complicated<br />by an unforeseen human factor.</b></font>
+2477700 2482200 <font face="Comic Sans MS" color="#ffff80"><b>This has affected all of our electronic<br />equipment and their redundant backups.</b></font>
+2483000 2486000 <font face="Comic Sans MS" color="#ffff80"><b>As a result, our nav<br />and approach systems are down.</b></font>
+2486300 2488600 <font face="Comic Sans MS" color="#ffff80"><b>We expect to lose voice in another minute.</b></font>
+2489500 2494900 <font face="Comic Sans MS" color="#ffff80"><b>Continue holding at the outer marker as<br />directed, and wait for further instructions.</b></font>
+2495600 2500400 <font face="Comic Sans MS" color="#ffff80"><b>As soon as we're back on line, we'll expedite<br />your landings on a fuel-emergency basis.</b></font>
+2502400 2504400 <font face="Comic Sans MS" color="#ffff80"><b>Good luck.</b></font>
+2506000 2508000 <font face="Comic Sans MS" color="#ffff80"><b>God bless.</b></font>
+2513300 2515500 <font face="Comic Sans MS" color="#ffff80"><b>Change the boards.</b></font>
+2545000 2547500 <font face="Comic Sans MS" color="#ffff80"><b>- The skywalk annexe.<br />- No! The annexe skywalk.</b></font>
+2547700 2550700 <font face="Comic Sans MS" color="#ffff80"><b>It's the last thing I heard<br />before they kicked me out.</b></font>
+2551300 2553400 <font face="Comic Sans MS" color="#ffff80"><b>Let me see here.</b></font>
+2553600 2556500 <font face="Comic Sans MS" color="#ffff80"><b>This must be it right there. See?</b></font>
+2556900 2561200 <font face="Comic Sans MS" color="#ffff80"><b>That's the raised platform and there's<br />the new terminal. There's your skywalk.</b></font>
+2562100 2564700 <font face="Comic Sans MS" color="#ffff80"><b>Goddamn bottleneck.<br />Nice place for an ambush.</b></font>
+2567500 2570400 <font face="Comic Sans MS" color="#ffff80"><b>What's the fastest way<br />you can get me out to that spot?</b></font>
+2572800 2575400 <font face="Comic Sans MS" color="#ffff80"><b>This kind of thing wasn't<br />in my job description.</b></font>
+2575600 2579400 <font face="Comic Sans MS" color="#ffff80"><b>- Mr Barnes, we'll watch your back.<br />- Yeah? Who watches yours?</b></font>
+2591400 2593600 <font face="Comic Sans MS" color="#ffff80"><b>Main ventilation duct.</b></font>
+2593800 2597800 <font face="Comic Sans MS" color="#ffff80"><b>Ventilation duct... and bingo.</b></font>
+2598000 2602000 <font face="Comic Sans MS" color="#ffff80"><b>Just once, I'd like<br />a regular, normal Christmas.</b></font>
+2604300 2607700 <font face="Comic Sans MS" color="#ffff80"><b>Eggnog, a fucking Christmas tree,</b></font>
+2609400 2611400 <font face="Comic Sans MS" color="#ffff80"><b>a little turkey.</b></font>
+2612300 2616500 <font face="Comic Sans MS" color="#ffff80"><b>But, no. I gotta crawl around<br />in this motherfuckin' tin can.</b></font>
+2621700 2624500 <font face="Comic Sans MS" color="#ffff80"><b>We're in the annexe skywalk.<br />I can see the array.</b></font>
+2624700 2628600 <font face="Comic Sans MS" color="#ffff80"><b>I'll give you a call for a protocol test<br />when it's hot. That's all for now.</b></font>
+2629300 2633900 <font face="Comic Sans MS" color="#ffff80"><b>Sergeant, we need more equipment.<br />I'd like to send one of your guys for it.</b></font>
+2638800 2642200 <font face="Comic Sans MS" color="#ffff80"><b>- What the hell's going on?<br />- Put that back on!</b></font>
+2645000 2649500 <font face="Comic Sans MS" color="#ffff80"><b>- Hey, asshole, what do I look like to you?<br />- A sitting duck.</b></font>
+2654200 2656200 <font face="Comic Sans MS" color="#ffff80"><b>Shit!</b></font>
+2657500 2660000 <font face="Comic Sans MS" color="#ffff80"><b>Damn it. I hate it when I'm right.</b></font>
+2766700 2768600 <font face="Comic Sans MS" color="#ffff80"><b>Stay down!</b></font>
+2782400 2784900 <font face="Comic Sans MS" color="#ffff80"><b>Fuck.</b></font>
+2815300 2818200 <font face="Comic Sans MS" color="#ffff80"><b>Fucking son of a bitch.</b></font>
+2833700 2834700 <font face="Comic Sans MS" color="#ffff80"><b>Shit.</b></font>
+2845500 2848100 <font face="Comic Sans MS" color="#ffff80"><b>I'm gonna kick your fuckin' ass.</b></font>
+2881400 2884400 <font face="Comic Sans MS" color="#ffff80"><b>- Jeez.<br />- You all right?</b></font>
+2884900 2888300 <font face="Comic Sans MS" color="#ffff80"><b>Yeah. But the antenna array,<br />I gotta get to it and set it up.</b></font>
+2893400 2895600 <font face="Comic Sans MS" color="#ffff80"><b>Get down!</b></font>
+2914000 2916000 <font face="Comic Sans MS" color="#ffff80"><b>Goddamn.</b></font>
+2918200 2920100 <font face="Comic Sans MS" color="#ffff80"><b>Bait.</b></font>
+2921700 2924300 <font face="Comic Sans MS" color="#ffff80"><b>Jerk us off.</b></font>
+2924600 2926800 <font face="Comic Sans MS" color="#ffff80"><b>Make Lorenzo sacrifice his best men.</b></font>
+2931000 2934400 <font face="Comic Sans MS" color="#ffff80"><b>Make you waste your time.</b></font>
+2936400 2937900 <font face="Comic Sans MS" color="#ffff80"><b>Time we don't have.</b></font>
+2952500 2954900 <font face="Comic Sans MS" color="#ffff80"><b>I think you're closer than 50 yards.</b></font>
+2955100 2958200 <font face="Comic Sans MS" color="#ffff80"><b>So's that airplane. Practically.</b></font>
+2958400 2962400 <font face="Comic Sans MS" color="#ffff80"><b>Yeah. There's quite a few of them.<br />It looks like a regular traffic jam.</b></font>
+2962700 2964700 <font face="Comic Sans MS" color="#ffff80"><b>There's nothing regular about it.</b></font>
+2965800 2970000 <font face="Comic Sans MS" color="#ffff80"><b>See? You're intrigued.<br />That's my gift, Mrs McClane. I notice things.</b></font>
+2970900 2974900 <font face="Comic Sans MS" color="#ffff80"><b>Things other people wouldn't see.<br />That's how I make people curious.</b></font>
+2975700 2977900 <font face="Comic Sans MS" color="#ffff80"><b>Don't you mean nauseous?</b></font>
+2978000 2983300 <font face="Comic Sans MS" color="#ffff80"><b>The people have a right to know everything<br />about everybody. You got in the way of that.</b></font>
+2983800 2986300 <font face="Comic Sans MS" color="#ffff80"><b>Listen, buster. You endangered my children.</b></font>
+2986500 2989900 <font face="Comic Sans MS" color="#ffff80"><b>You didn't do it<br />for anything as noble as "the people".</b></font>
+2990100 2995000 <font face="Comic Sans MS" color="#ffff80"><b>The only time you see the people is when you<br />look down to see what you're stepping on.</b></font>
+2999300 3003500 <font face="Comic Sans MS" color="#ffff80"><b>Me? I'll live,<br />but Lorenzo's SWAT team is dead</b></font>
+3003800 3005800 <font face="Comic Sans MS" color="#ffff80"><b>and the antenna array is gone.</b></font>
+3006700 3009100 <font face="Comic Sans MS" color="#ffff80"><b>Didn't you see it?</b></font>
+3010100 3013100 <font face="Comic Sans MS" color="#ffff80"><b>Start looking for a new miracle.</b></font>
+3016900 3021400 <font face="Comic Sans MS" color="#ffff80"><b>Hold for a second. Something's going on.</b></font>
+3021800 3025600 <font face="Comic Sans MS" color="#ffff80"><b>I say again, annexe team, give us a sit rep.</b></font>
+3026300 3028300 <font face="Comic Sans MS" color="#ffff80"><b>Annexe team, come in. Do you copy?</b></font>
+3030300 3033700 <font face="Comic Sans MS" color="#ffff80"><b>It's got a scrambler on it.<br />Can you do anything with it?</b></font>
+3035600 3039100 <font face="Comic Sans MS" color="#ffff80"><b>No. This scramble mode<br />must activate on this code panel.</b></font>
+3039400 3043500 <font face="Comic Sans MS" color="#ffff80"><b>Even if we scan their frequency,<br />we can't listen in. These guys are pros.</b></font>
+3043700 3046500 <font face="Comic Sans MS" color="#ffff80"><b>So are you. Break the code.<br />I wanna hear these bastards.</b></font>
+3046800 3049700 <font face="Comic Sans MS" color="#ffff80"><b>This is a ten-digit control panel.<br />Six-digit read-out.</b></font>
+3050100 3052700 <font face="Comic Sans MS" color="#ffff80"><b>Hell, there could be a million combinations.</b></font>
+3052800 3056400 <font face="Comic Sans MS" color="#ffff80"><b>Next time you kill one of these guys,<br />get him to enter the code first.</b></font>
+3059600 3064600 <font face="Comic Sans MS" color="#ffff80"><b>Sir, we monitored a call from their chief<br />engineer. We took out their SWAT team.</b></font>
+3064900 3067800 <font face="Comic Sans MS" color="#ffff80"><b>So they did go for the antenna array.<br />We're on schedule.</b></font>
+3068000 3070200 <font face="Comic Sans MS" color="#ffff80"><b>Losing our team wasn't part of the plan.</b></font>
+3077200 3080200 <font face="Comic Sans MS" color="#ffff80"><b>Attention, Dulles control tower.</b></font>
+3081100 3083100 <font face="Comic Sans MS" color="#ffff80"><b>Mr Trudeau, I know you're listening.</b></font>
+3083300 3086800 <font face="Comic Sans MS" color="#ffff80"><b>- Unfortunately, you're not obeying.<br />- Try me face to face.</b></font>
+3087000 3089300 <font face="Comic Sans MS" color="#ffff80"><b>You were warned<br />not to restore your systems.</b></font>
+3089500 3093100 <font face="Comic Sans MS" color="#ffff80"><b>You've wasted lives and precious time<br />on a futile and obvious target.</b></font>
+3094000 3096000 <font face="Comic Sans MS" color="#ffff80"><b>Now you're gonna pay the penalty.</b></font>
+3096200 3100100 <font face="Comic Sans MS" color="#ffff80"><b>I got five dead officers, Colonel Stuart.<br />Isn't that penalty enough?</b></font>
+3100700 3103300 <font face="Comic Sans MS" color="#ffff80"><b>McClane, keep out of this.<br />You've been a pain...</b></font>
+3105400 3108800 <font face="Comic Sans MS" color="#ffff80"><b>McClane. John McClane.</b></font>
+3110100 3114000 <font face="Comic Sans MS" color="#ffff80"><b>The policeman hero who saved<br />the Nakatomi hostages.</b></font>
+3114200 3118300 <font face="Comic Sans MS" color="#ffff80"><b>I read about you in People magazine.<br />You seemed out of your league on Nightline.</b></font>
+3118700 3123300 <font face="Comic Sans MS" color="#ffff80"><b>Colonel, blow me. How much drug money<br />is Esperanza paying you to turn traitor?</b></font>
+3123600 3128800 <font face="Comic Sans MS" color="#ffff80"><b>Cardinal Richelieu said it best:<br />"Treason is merely a matter of dates."</b></font>
+3129100 3133700 <font face="Comic Sans MS" color="#ffff80"><b>This country's got to learn it can't keep<br />cutting the legs off of men like Esperanza.</b></font>
+3134100 3137800 <font face="Comic Sans MS" color="#ffff80"><b>Men who have the guts to stand up<br />against communist aggression.</b></font>
+3139100 3143500 <font face="Comic Sans MS" color="#ffff80"><b>Lesson one starts with killing policemen?<br />What's lesson two, the neutron bomb?</b></font>
+3145600 3149100 <font face="Comic Sans MS" color="#ffff80"><b>No. I think we can find something in-between.</b></font>
+3150800 3152800 <font face="Comic Sans MS" color="#ffff80"><b>Watch this.</b></font>
+3153600 3157000 <font face="Comic Sans MS" color="#ffff80"><b>Give me a flight number.<br />One that's low on fuel.</b></font>
+3157800 3162100 <font face="Comic Sans MS" color="#ffff80"><b>Windsor 114. Transatlantic from London.<br />Fuel tank's dry as a martini.</b></font>
+3163100 3169900 <font face="Comic Sans MS" color="#ffff80"><b>Activate the ILS landing system, but<br />recalibrate sea level... minus 200 feet.</b></font>
+3194500 3198000 <font face="Comic Sans MS" color="#ffff80"><b>Jesus. They've reset<br />ground level, minus 200 feet.</b></font>
+3199200 3203800 <font face="Comic Sans MS" color="#ffff80"><b>Windsor flight 114. This is<br />Dulles approach. Do you copy?</b></font>
+3204600 3208000 <font face="Comic Sans MS" color="#ffff80"><b>Dulles approach, this is Windsor 114.<br />Where the devil have you been?</b></font>
+3208300 3212400 <font face="Comic Sans MS" color="#ffff80"><b>Windsor 114.<br />We've been right here all along, old buddy.</b></font>
+3212700 3215400 <font face="Comic Sans MS" color="#ffff80"><b>Our systems only came back on line just now.</b></font>
+3216300 3221800 <font face="Comic Sans MS" color="#ffff80"><b>Windsor 114, you are cleared<br />for ILS approach, runway two-niner.</b></font>
+3222200 3226300 <font face="Comic Sans MS" color="#ffff80"><b>- Contact Dulles at the outer marker.<br />- Jesus Christ, he's gonna crash the plane.</b></font>
+3226500 3231300 <font face="Comic Sans MS" color="#ffff80"><b>Roger, approach, and about time. I've got<br />230 people up here flying on petrol fumes.</b></font>
+3232200 3234700 <font face="Comic Sans MS" color="#ffff80"><b>Roger, 114. Understand. Calibrate Dulles...</b></font>
+3234900 3237500 <font face="Comic Sans MS" color="#ffff80"><b>- Jesus.<br />- They'll fly right into the concrete.</b></font>
+3237700 3239600 <font face="Comic Sans MS" color="#ffff80"><b>Son of a bitch!</b></font>
+3239800 3242700 <font face="Comic Sans MS" color="#ffff80"><b>- Why are they listening to him?<br />- It's our frequency.</b></font>
+3243900 3245300 <font face="Comic Sans MS" color="#ffff80"><b>Damn.</b></font>
+3245400 3249900 <font face="Comic Sans MS" color="#ffff80"><b>- Barnes.<br />- This is Dulles tower. We have radar contact...</b></font>
+3250200 3252700 <font face="Comic Sans MS" color="#ffff80"><b>Give me your coat.</b></font>
+3253000 3256500 <font face="Comic Sans MS" color="#ffff80"><b>- What are you gonna do?<br />- Whatever I can.</b></font>
+3260700 3263500 <font face="Comic Sans MS" color="#ffff80"><b>Ladies and gentlemen,<br />we've started our descent.</b></font>
+3264200 3267900 <font face="Comic Sans MS" color="#ffff80"><b>Sorry for the inconvenience,<br />but we'll all be on the ground shortly.</b></font>
+3268200 3270200 <font face="Comic Sans MS" color="#ffff80"><b>Please keep your seat belts on.</b></font>
+3271300 3275200 <font face="Comic Sans MS" color="#ffff80"><b>We've made arrangements for your<br />next flight, so you won't miss it.</b></font>
+3276000 3278400 <font face="Comic Sans MS" color="#ffff80"><b>In your seat, please.</b></font>
+3281600 3285200 <font face="Comic Sans MS" color="#ffff80"><b>We're just like British Rail, love.<br />We may be late, but we get you there.</b></font>
+3285400 3287400 <font face="Comic Sans MS" color="#ffff80"><b>Don't worry.</b></font>
+3303500 3305500 <font face="Comic Sans MS" color="#ffff80"><b>Good luck, McClane!</b></font>
+3328000 3331300 <font face="Comic Sans MS" color="#ffff80"><b>Dulles, this is Windsor 114<br />inside the outer marker.</b></font>
+3332300 3334800 <font face="Comic Sans MS" color="#ffff80"><b>Roger, 114. This is Dulles tower.</b></font>
+3335000 3337200 <font face="Comic Sans MS" color="#ffff80"><b>We have radar contact and show you on ILS.</b></font>
+3337300 3339800 <font face="Comic Sans MS" color="#ffff80"><b>You're in the glide path and looking good.</b></font>
+3349500 3351500 <font face="Comic Sans MS" color="#ffff80"><b>There's somebody out there!</b></font>
+3355700 3358600 <font face="Comic Sans MS" color="#ffff80"><b>It's McClane. Christ.</b></font>
+3363100 3366000 <font face="Comic Sans MS" color="#ffff80"><b>Approach flaps.</b></font>
+3366700 3370000 <font face="Comic Sans MS" color="#ffff80"><b>Approach speed 140.</b></font>
+3370200 3371800 <font face="Comic Sans MS" color="#ffff80"><b>130.</b></font>
+3372400 3375900 <font face="Comic Sans MS" color="#ffff80"><b>- Altitude 1,000 feet.<br />- 800, guys. You're only at 800 feet.</b></font>
+3376100 3379800 <font face="Comic Sans MS" color="#ffff80"><b>Fire and rescue. Roll everything<br />onto runway two-niner.</b></font>
+3380800 3384400 <font face="Comic Sans MS" color="#ffff80"><b>Ref speed plus 20. 600 feet.</b></font>
+3385800 3390600 <font face="Comic Sans MS" color="#ffff80"><b>Looking good, Windsor. Watch it.<br />30-knot crosswinds and the runway is icy.</b></font>
+3391600 3394700 <font face="Comic Sans MS" color="#ffff80"><b>Attaboy. We've gotcha.</b></font>
+3395000 3397100 <font face="Comic Sans MS" color="#ffff80"><b>We've gotcha.</b></font>
+3409600 3410700 <font face="Comic Sans MS" color="#ffff80"><b>Pull it up!</b></font>
+3412000 3413800 <font face="Comic Sans MS" color="#ffff80"><b>Jesus!</b></font>
+3428100 3429700 <font face="Comic Sans MS" color="#ffff80"><b>We've gotcha.</b></font>
+3456600 3458600 <font face="Comic Sans MS" color="#ffff80"><b>God.</b></font>
+3462700 3464700 <font face="Comic Sans MS" color="#ffff80"><b>Motherfucker.</b></font>
+3485800 3488800 <font face="Comic Sans MS" color="#ffff80"><b>That concludes our object lesson<br />for this evening.</b></font>
+3489000 3491300 <font face="Comic Sans MS" color="#ffff80"><b>If the 747 we requested is ready on time</b></font>
+3491500 3494700 <font face="Comic Sans MS" color="#ffff80"><b>and General Esperanza's plane<br />arrives unmolested,</b></font>
+3495000 3497200 <font face="Comic Sans MS" color="#ffff80"><b>further lessons can be avoided.</b></font>
+3497400 3499300 <font face="Comic Sans MS" color="#ffff80"><b>Out.</b></font>
+3544800 3548600 <font face="Comic Sans MS" color="#ffff80"><b>We got no sign of survivors.<br />It's a goddamn nightmare.</b></font>
+3563800 3566300 <font face="Comic Sans MS" color="#ffff80"><b>Barnes! We've got to warn those planes</b></font>
+3566500 3570900 <font face="Comic Sans MS" color="#ffff80"><b>there's a lunatic pretending<br />he's the tower. Get me on the air.</b></font>
+3571100 3573200 <font face="Comic Sans MS" color="#ffff80"><b>- How?<br />- You figure it out!</b></font>
+3573900 3576000 <font face="Comic Sans MS" color="#ffff80"><b>Here's the manifest.</b></font>
+3595700 3597700 <font face="Comic Sans MS" color="#ffff80"><b>I know how you must feel.</b></font>
+3603200 3605800 <font face="Comic Sans MS" color="#ffff80"><b>I wanted to help those people tonight.</b></font>
+3607400 3609400 <font face="Comic Sans MS" color="#ffff80"><b>I was pretty goddamn useless.</b></font>
+3613400 3618300 <font face="Comic Sans MS" color="#ffff80"><b>We called the government for help.<br />They're gonna send in a Special army unit.</b></font>
+3619900 3621900 <font face="Comic Sans MS" color="#ffff80"><b>A counterterrorist team.</b></font>
+3629300 3632100 <font face="Comic Sans MS" color="#ffff80"><b>Your wife's plane...</b></font>
+3632200 3635500 <font face="Comic Sans MS" color="#ffff80"><b>They're still broadcasting,<br />even though we can't answer.</b></font>
+3638000 3640400 <font face="Comic Sans MS" color="#ffff80"><b>They're gonna run out of fuel in 90 minutes.</b></font>
+3652700 3655400 <font face="Comic Sans MS" color="#ffff80"><b>Listen, Dick. That is your name?</b></font>
+3656000 3661900 <font face="Comic Sans MS" color="#ffff80"><b>Dick. If you're gonna continue to get<br />this close, could you switch aftershaves?</b></font>
+3663800 3665900 <font face="Comic Sans MS" color="#ffff80"><b>Anything else?</b></font>
+3666100 3668500 <font face="Comic Sans MS" color="#ffff80"><b>Stronger mouthwash might be nice.</b></font>
+3669200 3671900 <font face="Comic Sans MS" color="#ffff80"><b>Sam Coleman is reporting<br />live from the accident.</b></font>
+3672100 3676000 <font face="Comic Sans MS" color="#ffff80"><b>Colonel, they've done<br />everything we've anticipated... so far.</b></font>
+3676300 3679100 <font face="Comic Sans MS" color="#ffff80"><b>But still there has been no official word.</b></font>
+3679300 3683400 <font face="Comic Sans MS" color="#ffff80"><b>Despite the fact that only one runway<br />has been closed due to the tragedy,</b></font>
+3683700 3687800 <font face="Comic Sans MS" color="#ffff80"><b>several dozen airliners are visible,<br />endlessly circling the field.</b></font>
+3688500 3693900 <font face="Comic Sans MS" color="#ffff80"><b>Other reports say there had been trouble in<br />the tower, and that may have contributed to it.</b></font>
+3694200 3696700 <font face="Comic Sans MS" color="#ffff80"><b>With weather conditions worsening,</b></font>
+3696900 3699800 <font face="Comic Sans MS" color="#ffff80"><b>the problem here and in<br />the sky above us will grow.</b></font>
+3700100 3703400 <font face="Comic Sans MS" color="#ffff80"><b>I'm Samantha Coleman<br />at Dulles International Airport.</b></font>
+3711000 3713500 <font face="Comic Sans MS" color="#ffff80"><b>- Victor.<br />- Yeah, what's up?</b></font>
+3713700 3716800 <font face="Comic Sans MS" color="#ffff80"><b>Did you pack the radio mikes<br />from the shoot or are they here?</b></font>
+3717100 3720700 <font face="Comic Sans MS" color="#ffff80"><b>- I wouldn't let those assholes check 'em in!<br />- I love you.</b></font>
+3720900 3722900 <font face="Comic Sans MS" color="#ffff80"><b>Give me one of the receivers.</b></font>
+3727200 3729500 <font face="Comic Sans MS" color="#ffff80"><b>Can you tune into the cockpit frequency?</b></font>
+3730600 3733200 <font face="Comic Sans MS" color="#ffff80"><b>- Yeah. Why?<br />- I wanna hear what's going on.</b></font>
+3736400 3738800 <font face="Comic Sans MS" color="#ffff80"><b>Should be right here on our band.</b></font>
+3739600 3742200 <font face="Comic Sans MS" color="#ffff80"><b>- Nothing.<br />- You said it would work. Is it working?</b></font>
+3742300 3746600 <font face="Comic Sans MS" color="#ffff80"><b>It is working, but all I'm getting<br />is some kind of airport beacon.</b></font>
+3746900 3749500 <font face="Comic Sans MS" color="#ffff80"><b>It's weird. It's like the tower isn't there.</b></font>
+3752700 3754700 <font face="Comic Sans MS" color="#ffff80"><b>Stay on it.</b></font>
+3755700 3758400 <font face="Comic Sans MS" color="#ffff80"><b>Let me know when there is something there.</b></font>
+3797300 3799800 <font face="Comic Sans MS" color="#ffff80"><b>- Major Grant.<br />- Rollins, Department of Justice.</b></font>
+3800000 3802000 <font face="Comic Sans MS" color="#ffff80"><b>Trudeau, Chief of Air Operations.</b></font>
+3802200 3805900 <font face="Comic Sans MS" color="#ffff80"><b>Lorenzo, Terminal Police.<br />You want something, you got it.</b></font>
+3806200 3809000 <font face="Comic Sans MS" color="#ffff80"><b>This is it? One fucking platoon?</b></font>
+3809400 3812700 <font face="Comic Sans MS" color="#ffff80"><b>- One crisis, one platoon. Who are you?<br />- John McClane.</b></font>
+3812800 3816800 <font face="Comic Sans MS" color="#ffff80"><b>- You showed some balls out there.<br />- Yeah.</b></font>
+3817100 3820800 <font face="Comic Sans MS" color="#ffff80"><b>Now show some good sense.<br />Let the pros handle this.</b></font>
+3821000 3823900 <font face="Comic Sans MS" color="#ffff80"><b>Looks like the pros<br />are on the wrong team tonight.</b></font>
+3824100 3827400 <font face="Comic Sans MS" color="#ffff80"><b>- Isn't Colonel Stuart one of your men?<br />- Not any more.</b></font>
+3827600 3831500 <font face="Comic Sans MS" color="#ffff80"><b>We're here to take Colonel Stuart down.<br />And we will take him down.</b></font>
+3831800 3834900 <font face="Comic Sans MS" color="#ffff80"><b>I served with him.<br />I taught him everything he knows.</b></font>
+3835400 3838700 <font face="Comic Sans MS" color="#ffff80"><b>Maybe he's learned<br />a few more things since then.</b></font>
+3840600 3844300 <font face="Comic Sans MS" color="#ffff80"><b>Let's hustle. The command post will be<br />set up in the airport police station.</b></font>
+3844600 3847400 <font face="Comic Sans MS" color="#ffff80"><b>I wanna be tied in to the tower in 15 minutes.</b></font>
+3847600 3849600 <font face="Comic Sans MS" color="#ffff80"><b>Let's do it!</b></font>
+3854900 3856900 <font face="Comic Sans MS" color="#ffff80"><b>Things just get better or worse?</b></font>
+3861300 3865200 <font face="Comic Sans MS" color="#ffff80"><b>- Lights. Big, portable lights.<br />- We set up the field, and then we...</b></font>
+3865400 3869600 <font face="Comic Sans MS" color="#ffff80"><b>Wait for those lunatics to shoot 'em out?<br />Where do we get the lights? From Batman?</b></font>
+3869700 3874000 <font face="Comic Sans MS" color="#ffff80"><b>- What about the air phone idea?<br />- 18 planes are up there. Five have phones.</b></font>
+3874300 3876900 <font face="Comic Sans MS" color="#ffff80"><b>We got through to three.<br />We're trying the others.</b></font>
+3877000 3879800 <font face="Comic Sans MS" color="#ffff80"><b>That's 13 accidents waiting to happen.</b></font>
+3880100 3883200 <font face="Comic Sans MS" color="#ffff80"><b>Headwinds are slamming everybody<br />over the outer marker.</b></font>
+3883300 3887900 <font face="Comic Sans MS" color="#ffff80"><b>The planes with enough fuel have been<br />shunted to Atlanta, Memphis and Nashville.</b></font>
+3888100 3890500 <font face="Comic Sans MS" color="#ffff80"><b>Outer marker. Damn!</b></font>
+3891500 3893600 <font face="Comic Sans MS" color="#ffff80"><b>The outer marker!</b></font>
+3893800 3898100 <font face="Comic Sans MS" color="#ffff80"><b>It's a beacon. It sends out this "beep<br />beep beep" so they know they're over it.</b></font>
+3898400 3901100 <font face="Comic Sans MS" color="#ffff80"><b>- So?<br />- Who says that signal has to just beep?</b></font>
+3901300 3906300 <font face="Comic Sans MS" color="#ffff80"><b>Right. Switch the frequency from the tower to<br />the one in the beacon. Pump up the wattage.</b></font>
+3906600 3910400 <font face="Comic Sans MS" color="#ffff80"><b>We can talk to our planes, and those<br />bastards who did this will never know!</b></font>
+3913400 3916100 <font face="Comic Sans MS" color="#ffff80"><b>Traced the signal.<br />Found it in the luggage area.</b></font>
+3916300 3919100 <font face="Comic Sans MS" color="#ffff80"><b>They've been tapped into<br />your tower chatter all night.</b></font>
+3919400 3921600 <font face="Comic Sans MS" color="#ffff80"><b>Punks stealing luggage, Carmine?</b></font>
+3925200 3927600 <font face="Comic Sans MS" color="#ffff80"><b>- How you doin', Telford?<br />- No good.</b></font>
+3927700 3931100 <font face="Comic Sans MS" color="#ffff80"><b>I called Lang. They'll have<br />a portable decoder here in two hours.</b></font>
+3931400 3935000 <font face="Comic Sans MS" color="#ffff80"><b>- My wife doesn't have two hours.<br />- I was put on Grant's team yesterday.</b></font>
+3935200 3937800 <font face="Comic Sans MS" color="#ffff80"><b>The regular guy got appendicitis.</b></font>
+3938000 3941400 <font face="Comic Sans MS" color="#ffff80"><b>Word is, nobody's better<br />at this than Major Grant.</b></font>
+3941700 3944100 <font face="Comic Sans MS" color="#ffff80"><b>Except maybe Colonel Stuart.</b></font>
+3945200 3948300 <font face="Comic Sans MS" color="#ffff80"><b>I wanna hear about<br />the plane those bastards asked for.</b></font>
+3948600 3952000 <font face="Comic Sans MS" color="#ffff80"><b>Then I'll fill you in on my orders.<br />Pilots' briefing room - now!</b></font>
+3952200 3955500 <font face="Comic Sans MS" color="#ffff80"><b>- Keep working.<br />- Albertson. With me!</b></font>
+3960000 3962000 <font face="Comic Sans MS" color="#ffff80"><b>No civilians.</b></font>
+3972900 3975000 <font face="Comic Sans MS" color="#ffff80"><b>- What the fuck...<br />- What is it?</b></font>
+3976900 3980100 <font face="Comic Sans MS" color="#ffff80"><b>The outer marker beeper isn't beeping.<br />It's talking.</b></font>
+3981100 3985600 <font face="Comic Sans MS" color="#ffff80"><b>All aircraft in Dulles landing pattern.<br />This is chief engineer, Leslie Barnes.</b></font>
+3985900 3989000 <font face="Comic Sans MS" color="#ffff80"><b>I have been authorised to brief you in full.</b></font>
+3989200 3992200 <font face="Comic Sans MS" color="#ffff80"><b>At this time, this is the only<br />channel available to us.</b></font>
+3993700 3997800 <font face="Comic Sans MS" color="#ffff80"><b>Here is the situation.<br />Approximately two hours ago...</b></font>
+4001600 4004700 <font face="Comic Sans MS" color="#ffff80"><b>- Get a load of this.<br />...claiming to be from our tower</b></font>
+4005000 4008200 <font face="Comic Sans MS" color="#ffff80"><b>unless you hear<br />your flight recorder access code.</b></font>
+4008400 4011400 <font face="Comic Sans MS" color="#ffff80"><b>- The terrorists have got all...<br />- Holy shit! Get this on tape.</b></font>
+4011700 4014000 <font face="Comic Sans MS" color="#ffff80"><b>...control of everything except this channel.</b></font>
+4014200 4016200 <font face="Comic Sans MS" color="#ffff80"><b>Give us a second here, please.</b></font>
+4018900 4024300 <font face="Comic Sans MS" color="#ffff80"><b>Do not attempt to reply on your<br />own frequencies to this broadcast.</b></font>
+4024600 4026600 <font face="Comic Sans MS" color="#ffff80"><b>They have already caused one crash</b></font>
+4026800 4029900 <font face="Comic Sans MS" color="#ffff80"><b>- by impersonating our tower.<br />- Jesus.</b></font>
+4040100 4044500 <font face="Comic Sans MS" color="#ffff80"><b>Repeat. The terrorists have cut off<br />the two systems that allow you to land,</b></font>
+4044800 4048900 <font face="Comic Sans MS" color="#ffff80"><b>field lights for a visual landing<br />and the ILS for an instrument.</b></font>
+4049100 4053400 <font face="Comic Sans MS" color="#ffff80"><b>A Special US army unit is here,<br />preparing to take out the terrorists.</b></font>
+4053700 4055400 <font face="Comic Sans MS" color="#ffff80"><b>My God.</b></font>
+4057000 4061000 <font face="Comic Sans MS" color="#ffff80"><b>- Hey, you interested in a nice coat?<br />- It never looked good on me anyway.</b></font>
+4061300 4064200 <font face="Comic Sans MS" color="#ffff80"><b>You gotta get me up<br />to the pilots' briefing room.</b></font>
+4064400 4067700 <font face="Comic Sans MS" color="#ffff80"><b>I gotta hear what they're saying.<br />Which map gets me in there?</b></font>
+4068000 4070100 <font face="Comic Sans MS" color="#ffff80"><b>- Don't touch it.<br />- Find the map.</b></font>
+4070200 4073400 <font face="Comic Sans MS" color="#ffff80"><b>I'll find it. You'll mess up<br />my whole damn filing system.</b></font>
+4073600 4076600 <font face="Comic Sans MS" color="#ffff80"><b>Pilots' briefing room,<br />I think that's in the main terminal.</b></font>
+4076800 4080300 <font face="Comic Sans MS" color="#ffff80"><b>So would that be under P<br />for "pilots' briefing room"?</b></font>
+4080600 4084300 <font face="Comic Sans MS" color="#ffff80"><b>- Now, Marvin!<br />- Or maybe under M for "miscellaneous".</b></font>
+4089600 4093400 <font face="Comic Sans MS" color="#ffff80"><b>Request permission<br />to reduce sentry duty to 30-minute rotation.</b></font>
+4093700 4095700 <font face="Comic Sans MS" color="#ffff80"><b>My men are getting cold and antsy. Over.</b></font>
+4095900 4101000 <font face="Comic Sans MS" color="#ffff80"><b>This is Colonel Stuart. Have the men not<br />on watch assemble for a briefing. Over.</b></font>
+4101300 4103500 <font face="Comic Sans MS" color="#ffff80"><b>What's the matter?</b></font>
+4107700 4110100 <font face="Comic Sans MS" color="#ffff80"><b>Gentlemen, tonight the pattern ends.</b></font>
+4110300 4114400 <font face="Comic Sans MS" color="#ffff80"><b>The dominoes will fall no more<br />and the ramparts will remain upright.</b></font>
+4114700 4118300 <font face="Comic Sans MS" color="#ffff80"><b>Sir, General Esperanza's plane<br />just came on the scope.</b></font>
+4125000 4128200 <font face="Comic Sans MS" color="#ffff80"><b>Attention, Dulles tower.<br />We will be lighting up a runway.</b></font>
+4128400 4131800 <font face="Comic Sans MS" color="#ffff80"><b>Do not, repeat,<br />do not attempt to land any planes.</b></font>
+4132500 4134900 <font face="Comic Sans MS" color="#ffff80"><b>Remember, we're monitoring you.</b></font>
+4137900 4141400 <font face="Comic Sans MS" color="#ffff80"><b>- What do we do?<br />- Obey.</b></font>
+4148200 4153000 <font face="Comic Sans MS" color="#ffff80"><b>Dulles tower to Foxtrot Michael One.</b></font>
+4153300 4156500 <font face="Comic Sans MS" color="#ffff80"><b>This is Foxtrot Michael One, Dulles.<br />We read you. Over.</b></font>
+4157100 4162300 <font face="Comic Sans MS" color="#ffff80"><b>Foxtrot Michael One, you are<br />to come in on runway 1-5.</b></font>
+4176400 4180000 <font face="Comic Sans MS" color="#ffff80"><b>I found it on the floor, by the coat,<br />next to the luggage belt.</b></font>
+4180300 4182900 <font face="Comic Sans MS" color="#ffff80"><b>What the hell you so excited for?</b></font>
+4183100 4186200 <font face="Comic Sans MS" color="#ffff80"><b>- The code's still punched into this one.<br />- You like it.</b></font>
+4186400 4189200 <font face="Comic Sans MS" color="#ffff80"><b>How about you give me 20 bucks for it?</b></font>
+4189500 4194000 <font face="Comic Sans MS" color="#ffff80"><b>- How about I let you live?<br />- The man knows how to bargain.</b></font>
+4194800 4197000 <font face="Comic Sans MS" color="#ffff80"><b>This is contrary to our instructions.</b></font>
+4197200 4199500 <font face="Comic Sans MS" color="#ffff80"><b>We are to land at runway 1-0,</b></font>
+4199700 4203400 <font face="Comic Sans MS" color="#ffff80"><b>where we are to be met<br />by representatives of your Justice...</b></font>
+4204200 4208000 <font face="Comic Sans MS" color="#ffff80"><b>Captain, please tell the tower<br />you will proceed as ordered.</b></font>
+4219400 4223800 <font face="Comic Sans MS" color="#ffff80"><b>Roger, Dulles. Proceeding to runway 1-5.</b></font>
+4240400 4242500 <font face="Comic Sans MS" color="#ffff80"><b>Foxtrot Michael One. Come in, please.</b></font>
+4243500 4247800 <font face="Comic Sans MS" color="#ffff80"><b>What are you gonna do now? Are you gonna<br />shoot me? So who will fly the plane?</b></font>
+4248200 4251200 <font face="Comic Sans MS" color="#ffff80"><b>Don't worry about it. It's not your problem.</b></font>
+4257900 4259400 <font face="Comic Sans MS" color="#ffff80"><b>Michael One. Do you copy?</b></font>
+4263900 4265800 <font face="Comic Sans MS" color="#ffff80"><b>Foxtrot Michael One, come in.</b></font>
+4275500 4277500 <font face="Comic Sans MS" color="#ffff80"><b>Eagle Nest. This is Falcon. Mayday.</b></font>
+4283100 4287500 <font face="Comic Sans MS" color="#ffff80"><b>- Go ahead, Falcon.<br />- I've lost cabin pressure. Near-zero visibility.</b></font>
+4288300 4292600 <font face="Comic Sans MS" color="#ffff80"><b>I must drop out of this weather and land<br />now, on the first accessible runway.</b></font>
+4292900 4297100 <font face="Comic Sans MS" color="#ffff80"><b>Repeat. I've lost cabin pressure.<br />Near-zero visibility.</b></font>
+4297400 4299300 <font face="Comic Sans MS" color="#ffff80"><b>I must drop out of the storm.</b></font>
+4299500 4303500 <font face="Comic Sans MS" color="#ffff80"><b>I can land, but I must land now,<br />on the first outgoing runway.</b></font>
+4304300 4307300 <font face="Comic Sans MS" color="#ffff80"><b>Repeat. I cannot circle around to runway 1-5.</b></font>
+4311700 4316700 <font face="Comic Sans MS" color="#ffff80"><b>I'll make you a deal. Show me out to those<br />runways and I'll get you a liner for that coat.</b></font>
+4317000 4320100 <font face="Comic Sans MS" color="#ffff80"><b>Repeat. I cannot circle around to runway 1-5.</b></font>
+4320600 4321700 <font face="Comic Sans MS" color="#ffff80"><b>Shit!</b></font>
+4321900 4323900 <font face="Comic Sans MS" color="#ffff80"><b>Stand by, Falcon.</b></font>
+4325200 4327100 <font face="Comic Sans MS" color="#ffff80"><b>He's coming in from the ocean, sir.</b></font>
+4329900 4332300 <font face="Comic Sans MS" color="#ffff80"><b>A bullet damaged my instruments.</b></font>
+4332500 4336200 <font face="Comic Sans MS" color="#ffff80"><b>I'm not sure of my bearings and I must<br />make a visual landing immediately.</b></font>
+4336600 4339300 <font face="Comic Sans MS" color="#ffff80"><b>- Do you copy, Eagle Nest?<br />- Roger, Falcon.</b></font>
+4340000 4343800 <font face="Comic Sans MS" color="#ffff80"><b>That would be 2-5 right.</b></font>
+4344100 4346100 <font face="Comic Sans MS" color="#ffff80"><b>Make up your fucking mind.</b></font>
+4347100 4349700 <font face="Comic Sans MS" color="#ffff80"><b>We are just up to our ass<br />in terrorists again, John.</b></font>
+4350200 4352300 <font face="Comic Sans MS" color="#ffff80"><b>2-5 left.</b></font>
+4352500 4355200 <font face="Comic Sans MS" color="#ffff80"><b>2-5 right.</b></font>
+4355700 4358000 <font face="Comic Sans MS" color="#ffff80"><b>I gotta quit smoking cigarettes.</b></font>
+4358200 4360700 <font face="Comic Sans MS" color="#ffff80"><b>Thank you for telling me, Eagle Nest.</b></font>
+4360900 4364000 <font face="Comic Sans MS" color="#ffff80"><b>But if you could show it to me as well,<br />I would be grateful.</b></font>
+4375400 4378200 <font face="Comic Sans MS" color="#ffff80"><b>I see the lights.<br />They are directly in front of me.</b></font>
+4380100 4382900 <font face="Comic Sans MS" color="#ffff80"><b>Reducing airspeed. Approaching runway.</b></font>
+4383100 4385600 <font face="Comic Sans MS" color="#ffff80"><b>- Wish me luck.<br />- Roger, Falcon.</b></font>
+4387700 4389700 <font face="Comic Sans MS" color="#ffff80"><b>We copy. We'll have you in five minutes.</b></font>
+4390300 4393400 <font face="Comic Sans MS" color="#ffff80"><b>That's right, asshole.<br />We'll have you in five minutes.</b></font>
+4417400 4420000 <font face="Comic Sans MS" color="#ffff80"><b>I see your lights. ETA 90 seconds.</b></font>
+4429500 4431500 <font face="Comic Sans MS" color="#ffff80"><b>Come to papa, scumbag.</b></font>
+4487400 4489400 <font face="Comic Sans MS" color="#ffff80"><b>Shit!</b></font>
+4549200 4551100 <font face="Comic Sans MS" color="#ffff80"><b>Freedom.</b></font>
+4551600 4553200 <font face="Comic Sans MS" color="#ffff80"><b>Not yet.</b></font>
+4554900 4558200 <font face="Comic Sans MS" color="#ffff80"><b>You should stay in your seat until<br />the plane reaches the terminal.</b></font>
+4558500 4560500 <font face="Comic Sans MS" color="#ffff80"><b>No frequent-flier mileage for you.</b></font>
+4560700 4562500 <font face="Comic Sans MS" color="#ffff80"><b>- Who are you?<br />- A cop.</b></font>
+4562700 4564800 <font face="Comic Sans MS" color="#ffff80"><b>- A cop?<br />- Yeah, one of the good guys.</b></font>
+4565000 4569100 <font face="Comic Sans MS" color="#ffff80"><b>And you're a bad guy. Now I've got your<br />sorry ass, I'm gonna trade it for my wife.</b></font>
+4578800 4580800 <font face="Comic Sans MS" color="#ffff80"><b>Sit down!</b></font>
+4591100 4593600 <font face="Comic Sans MS" color="#ffff80"><b>- Where'd he go?<br />- In there.</b></font>
+4603000 4607700 <font face="Comic Sans MS" color="#ffff80"><b>Two months of planning, and<br />you can't anticipate one pendejo of a cop.</b></font>
+4608000 4611000 <font face="Comic Sans MS" color="#ffff80"><b>- Come on, General.<br />- Where is Colonel Stuart?</b></font>
+4614600 4616800 <font face="Comic Sans MS" color="#ffff80"><b>- General!<br />- I'm all right.</b></font>
+4617000 4620300 <font face="Comic Sans MS" color="#ffff80"><b>He said he was a policeman.<br />I thought you had this place secured.</b></font>
+4620700 4623900 <font face="Comic Sans MS" color="#ffff80"><b>- He went in the cockpit.<br />- He's going to hell.</b></font>
+4627400 4629300 <font face="Comic Sans MS" color="#ffff80"><b>I assume it's you, McClane.</b></font>
+4630100 4632800 <font face="Comic Sans MS" color="#ffff80"><b>You're quite a little soldier.</b></font>
+4633100 4636200 <font face="Comic Sans MS" color="#ffff80"><b>You can consider this a military funeral!</b></font>
+4660900 4663700 <font face="Comic Sans MS" color="#ffff80"><b>- How many grenades we got?<br />- Three each!</b></font>
+4664100 4665800 <font face="Comic Sans MS" color="#ffff80"><b>Use 'em!</b></font>
+4676000 4677200 <font face="Comic Sans MS" color="#ffff80"><b>Fuck.</b></font>
+4691600 4692900 <font face="Comic Sans MS" color="#ffff80"><b>Go!</b></font>
+4720600 4722600 <font face="Comic Sans MS" color="#ffff80"><b>You lucky fuck.</b></font>
+4725300 4729100 <font face="Comic Sans MS" color="#ffff80"><b>- Fire trucks, sir.<br />- Fall back to the church. Now!</b></font>
+4751400 4753600 <font face="Comic Sans MS" color="#ffff80"><b>Where's the fuckin' door?</b></font>
+4768500 4771900 <font face="Comic Sans MS" color="#ffff80"><b>They're getting a little nervous back there.<br />In fact, so am I.</b></font>
+4772200 4775900 <font face="Comic Sans MS" color="#ffff80"><b>We're over Washington. See if you<br />can get any TV to settle 'em down.</b></font>
+4776100 4778200 <font face="Comic Sans MS" color="#ffff80"><b>Works for me. I'll...</b></font>
+4802000 4805800 <font face="Comic Sans MS" color="#ffff80"><b>Writing your acceptance speech<br />for the video sleaze awards?</b></font>
+4806000 4808700 <font face="Comic Sans MS" color="#ffff80"><b>- Try Pulitzer.<br />- While waiting to land,</b></font>
+4808900 4813100 <font face="Comic Sans MS" color="#ffff80"><b>we are turning on local Washington TV.<br />The sound is on channel three.</b></font>
+4832200 4835900 <font face="Comic Sans MS" color="#ffff80"><b>Please, sir, we may land at any moment.<br />If you'll take your seat...</b></font>
+4836200 4839400 <font face="Comic Sans MS" color="#ffff80"><b>- I'm gonna be sick.<br />- Sir, the seat-belt light is on.</b></font>
+4844700 4845800 <font face="Comic Sans MS" color="#ffff80"><b>Moron.</b></font>
+4846000 4848200 <font face="Comic Sans MS" color="#ffff80"><b>- WZDC.<br />- This is Richard Thornberg.</b></font>
+4848400 4851000 <font face="Comic Sans MS" color="#ffff80"><b>- Put me through to Ruben.<br />- He's about to go live.</b></font>
+4851200 4854600 <font face="Comic Sans MS" color="#ffff80"><b>- I know he is. That's why I need him.<br />- You'll have to hold on...</b></font>
+4854800 4857600 <font face="Comic Sans MS" color="#ffff80"><b>Put me through, Celia,<br />or start typing your résumé.</b></font>
+4859100 4862600 <font face="Comic Sans MS" color="#ffff80"><b>Esperanza's down... but he's hurt.</b></font>
+4864000 4868600 <font face="Comic Sans MS" color="#ffff80"><b>He took a round in his shoulder. I got one<br />more of their guys. That's six they lost.</b></font>
+4868900 4871700 <font face="Comic Sans MS" color="#ffff80"><b>If we knew how many they had,<br />we could get excited,</b></font>
+4872000 4875600 <font face="Comic Sans MS" color="#ffff80"><b>but if they got 50 guys,<br />it's a little early to open the champagne.</b></font>
+4876000 4879500 <font face="Comic Sans MS" color="#ffff80"><b>We appreciate your effort, but we<br />don't need a loose cannon here.</b></font>
+4879800 4883000 <font face="Comic Sans MS" color="#ffff80"><b>What if they crash another plane<br />in retaliation for your stunt?</b></font>
+4883200 4885400 <font face="Comic Sans MS" color="#ffff80"><b>They can't do that now, right, Barnes?</b></font>
+4885600 4888300 <font face="Comic Sans MS" color="#ffff80"><b>And if I'd grabbed Esperanza,<br />this'd be over now.</b></font>
+4888500 4892800 <font face="Comic Sans MS" color="#ffff80"><b>- Maybe they're more creative than you think.<br />- At least I'm thinking, goddamn it.</b></font>
+4893100 4898100 <font face="Comic Sans MS" color="#ffff80"><b>We're here to jerk off that cocksucker<br />until he tries to take off. Period!</b></font>
+4898400 4902300 <font face="Comic Sans MS" color="#ffff80"><b>You're the wrong guy<br />in the wrong place at the wrong time.</b></font>
+4904400 4906400 <font face="Comic Sans MS" color="#ffff80"><b>The story of my life.</b></font>
+4907200 4910100 <font face="Comic Sans MS" color="#ffff80"><b>Major. Pentagon situation room, sir.</b></font>
+4910300 4913100 <font face="Comic Sans MS" color="#ffff80"><b>Pentagon. I'll take it in here.<br />Thank you, Telford.</b></font>
+4913700 4916100 <font face="Comic Sans MS" color="#ffff80"><b>You men come with me.</b></font>
+4918400 4920100 <font face="Comic Sans MS" color="#ffff80"><b>- McClane.<br />- Yeah, Barnes.</b></font>
+4920200 4923100 <font face="Comic Sans MS" color="#ffff80"><b>- You said those guys showed up right away?<br />- Yeah.</b></font>
+4923400 4926300 <font face="Comic Sans MS" color="#ffff80"><b>So that must mean they're<br />on the field or close.</b></font>
+4926500 4930000 <font face="Comic Sans MS" color="#ffff80"><b>I think I know where.<br />Come here, let me show you something.</b></font>
+4932500 4936300 <font face="Comic Sans MS" color="#ffff80"><b>These are the old plans with the<br />longer runways. That's 12 years ago.</b></font>
+4937300 4941400 <font face="Comic Sans MS" color="#ffff80"><b>Looks like they've modified the site,<br />moved Tra-Con phones, ILS,</b></font>
+4941700 4945000 <font face="Comic Sans MS" color="#ffff80"><b>all the underground stuff,<br />so they could handle drainage.</b></font>
+4945300 4948400 <font face="Comic Sans MS" color="#ffff80"><b>If I'm right, all of it would run<br />along the airport property</b></font>
+4948600 4951700 <font face="Comic Sans MS" color="#ffff80"><b>and go right past this neighbourhood.</b></font>
+4962300 4965200 <font face="Comic Sans MS" color="#ffff80"><b>Somebody ought to get their ass<br />kicked for this mess.</b></font>
+4966400 4969800 <font face="Comic Sans MS" color="#ffff80"><b>Unfortunately, there isn't anyone<br />we can blame for the weather.</b></font>
+4970100 4973300 <font face="Comic Sans MS" color="#ffff80"><b>Yeah? What about that porker, Willard Scott?</b></font>
+4973500 4977800 <font face="Comic Sans MS" color="#ffff80"><b>I should have taken the bus. At least<br />they can pull over for food and gas.</b></font>
+4978100 4980700 <font face="Comic Sans MS" color="#ffff80"><b>- Excuse me.<br />- Yes?</b></font>
+4981500 4986900 <font face="Comic Sans MS" color="#ffff80"><b>I was just wondering. This flight originally<br />was supposed to be five and a half hours.</b></font>
+4988200 4991000 <font face="Comic Sans MS" color="#ffff80"><b>Do we have enough fuel to keep circling?</b></font>
+4991200 4994900 <font face="Comic Sans MS" color="#ffff80"><b>Of course. They anticipate<br />little problems like this.</b></font>
+5012700 5015500 <font face="Comic Sans MS" color="#ffff80"><b>We looked at 12 fucking houses,<br />and we're nowhere.</b></font>
+5015800 5018100 <font face="Comic Sans MS" color="#ffff80"><b>This is our last possibility.</b></font>
+5018800 5022000 <font face="Comic Sans MS" color="#ffff80"><b>- Over here there's an old church.<br />- Let's go.</b></font>
+5026500 5028500 <font face="Comic Sans MS" color="#ffff80"><b>Wait.</b></font>
+5035400 5037300 <font face="Comic Sans MS" color="#ffff80"><b>There's the church over there.</b></font>
+5045300 5048500 <font face="Comic Sans MS" color="#ffff80"><b>- Could be a sentry.<br />- He could just be out for a walk.</b></font>
+5048900 5051900 <font face="Comic Sans MS" color="#ffff80"><b>Then why is he going over<br />his own footsteps?</b></font>
+5054100 5056100 <font face="Comic Sans MS" color="#ffff80"><b>Come on.</b></font>
+5057600 5060900 <font face="Comic Sans MS" color="#ffff80"><b>All right. Just stay here<br />and get ready to call the marines.</b></font>
+5061200 5065200 <font face="Comic Sans MS" color="#ffff80"><b>- I thought they were the army.<br />- Who gives a fuck? Just be ready.</b></font>
+5082300 5085900 <font face="Comic Sans MS" color="#ffff80"><b>Shit. Not now.</b></font>
+5100400 5104400 <font face="Comic Sans MS" color="#ffff80"><b>- Lorenzo, it's Barnes.<br />- Where the hell are you? Where's McClane?</b></font>
+5104700 5107700 <font face="Comic Sans MS" color="#ffff80"><b>With me, at the community church,<br />to the west of the airport.</b></font>
+5108100 5111000 <font face="Comic Sans MS" color="#ffff80"><b>Where? Goddamn it.<br />You crazy idiot, why didn't...</b></font>
+5111300 5114500 <font face="Comic Sans MS" color="#ffff80"><b>This must be their operations base.<br />Shut up and get your ass here!</b></font>
+5114700 5116900 <font face="Comic Sans MS" color="#ffff80"><b>Code red. Sit rep.</b></font>
+5117100 5120000 <font face="Comic Sans MS" color="#ffff80"><b>We got positive ID on Stuart's location.<br />Let's move.</b></font>
+5132400 5136000 <font face="Comic Sans MS" color="#ffff80"><b>Our escape plane will be ready<br />within 30 minutes, General.</b></font>
+5137200 5139200 <font face="Comic Sans MS" color="#ffff80"><b>If there are no more surprises.</b></font>
+5154200 5156500 <font face="Comic Sans MS" color="#ffff80"><b>Gentlemen, we have a situation here.</b></font>
+5234700 5236800 <font face="Comic Sans MS" color="#ffff80"><b>They're over here.</b></font>
+5248700 5251000 <font face="Comic Sans MS" color="#ffff80"><b>Jeez, you all right? You want a medic?</b></font>
+5251200 5254200 <font face="Comic Sans MS" color="#ffff80"><b>What the hell you think you're doin'?<br />Playing John Wayne?</b></font>
+5254400 5256500 <font face="Comic Sans MS" color="#ffff80"><b>How'd you like to spend the night in a cell?</b></font>
+5256700 5260100 <font face="Comic Sans MS" color="#ffff80"><b>Shut the fuck up and do<br />something useful. Seal off the street.</b></font>
+5260400 5263700 <font face="Comic Sans MS" color="#ffff80"><b>- Hey, you can't talk to me like that.<br />- No, Carmine?</b></font>
+5263900 5267400 <font face="Comic Sans MS" color="#ffff80"><b>Sergeant, get this bureaucrat<br />out of Mr McClane's face - now!</b></font>
+5267800 5270200 <font face="Comic Sans MS" color="#ffff80"><b>With pleasure, sir.</b></font>
+5272100 5275200 <font face="Comic Sans MS" color="#ffff80"><b>Major, the men are in position, sir.</b></font>
+5275400 5278300 <font face="Comic Sans MS" color="#ffff80"><b>Close up the back, then we go in.<br />Fire only on my order.</b></font>
+5278500 5280100 <font face="Comic Sans MS" color="#ffff80"><b>Roger that, sir.</b></font>
+5280300 5284200 <font face="Comic Sans MS" color="#ffff80"><b>Guess I was wrong about you.<br />You're not such an asshole after all.</b></font>
+5284800 5287800 <font face="Comic Sans MS" color="#ffff80"><b>No, you were right.<br />I'm just your kind of asshole.</b></font>
+5297400 5299600 <font face="Comic Sans MS" color="#ffff80"><b>Garber, sit rep!</b></font>
+5299800 5302900 <font face="Comic Sans MS" color="#ffff80"><b>Army Special Forces<br />on three sides, closing in fast!</b></font>
+5303100 5306300 <font face="Comic Sans MS" color="#ffff80"><b>- Another problem, Colonel?<br />- No problem, General.</b></font>
+5306900 5309600 <font face="Comic Sans MS" color="#ffff80"><b>Gentlemen, you know what to do.</b></font>
+5320800 5322600 <font face="Comic Sans MS" color="#ffff80"><b>- Down!<br />- Get down!</b></font>
+5351300 5353700 <font face="Comic Sans MS" color="#ffff80"><b>General... it's time.</b></font>
+5361200 5363600 <font face="Comic Sans MS" color="#ffff80"><b>Come on, let's move it.</b></font>
+5377800 5380600 <font face="Comic Sans MS" color="#ffff80"><b>- They're pulling out... at the back.<br />- What?</b></font>
+5388900 5390800 <font face="Comic Sans MS" color="#ffff80"><b>Move it!</b></font>
+5400200 5402500 <font face="Comic Sans MS" color="#ffff80"><b>Albertson, your men around the back.</b></font>
+5428600 5430600 <font face="Comic Sans MS" color="#ffff80"><b>This equipment could land our planes.</b></font>
+5430800 5434300 <font face="Comic Sans MS" color="#ffff80"><b>- Don't touch anything. If it's booby-trapped...<br />- It is.</b></font>
+5434500 5437700 <font face="Comic Sans MS" color="#ffff80"><b>Got one here. Looks like C-4.<br />The motherfucker is armed.</b></font>
+5438000 5440700 <font face="Comic Sans MS" color="#ffff80"><b>Clear the area. Everybody, now!</b></font>
+5444100 5446700 <font face="Comic Sans MS" color="#ffff80"><b>They booby-trapped the equipment.<br />Seal it off.</b></font>
+5446900 5448900 <font face="Comic Sans MS" color="#ffff80"><b>Shit!</b></font>
+5451700 5453600 <font face="Comic Sans MS" color="#ffff80"><b>Where the fuck is McClane?</b></font>
+5503000 5505300 <font face="Comic Sans MS" color="#ffff80"><b>Miller, take him.</b></font>
+5506500 5508600 <font face="Comic Sans MS" color="#ffff80"><b>I'll cover you.</b></font>
+5554800 5557600 <font face="Comic Sans MS" color="#ffff80"><b>So much for the element of chance.</b></font>
+5558300 5560300 <font face="Comic Sans MS" color="#ffff80"><b>Let's move out.</b></font>
+5577400 5579900 <font face="Comic Sans MS" color="#ffff80"><b>I had the bastard in my sights. I know I did.</b></font>
+5591100 5593300 <font face="Comic Sans MS" color="#ffff80"><b>Jesus Christ.</b></font>
+5597600 5600400 <font face="Comic Sans MS" color="#ffff80"><b>Attention, Dulles tower.</b></font>
+5600600 5603300 <font face="Comic Sans MS" color="#ffff80"><b>This is Colonel Stuart. Is our plane prepared?</b></font>
+5603600 5607000 <font face="Comic Sans MS" color="#ffff80"><b>It is. It's in hangar 11.<br />It's the most remote building we've got.</b></font>
+5608700 5614200 <font face="Comic Sans MS" color="#ffff80"><b>We're on our way. Have a ground crew there<br />to confirm the condition of the plane.</b></font>
+5614500 5617400 <font face="Comic Sans MS" color="#ffff80"><b>Do you believe the balls<br />on this son of a bitch?</b></font>
+5617600 5620400 <font face="Comic Sans MS" color="#ffff80"><b>Colonel, you're capable<br />of confirming it yourself.</b></font>
+5620700 5623900 <font face="Comic Sans MS" color="#ffff80"><b>Don't ask us to gift-wrap<br />potential hostages for you.</b></font>
+5624100 5627200 <font face="Comic Sans MS" color="#ffff80"><b>- Major Grant, isn't it?<br />- If you remember me, Colonel,</b></font>
+5627400 5630500 <font face="Comic Sans MS" color="#ffff80"><b>then you remember<br />I know the drill as well as you do.</b></font>
+5631100 5633600 <font face="Comic Sans MS" color="#ffff80"><b>Check out your own fuckin' plane.</b></font>
+5633800 5637600 <font face="Comic Sans MS" color="#ffff80"><b>We move out in five minutes.<br />Flakjackets for everybody.</b></font>
+5637900 5641800 <font face="Comic Sans MS" color="#ffff80"><b>Body armour for the assault team.<br />Night scopes for the snipers.</b></font>
+5642000 5647500 <font face="Comic Sans MS" color="#ffff80"><b>We go to the hangar. I will pull that detonator<br />out of Stuart's dead fuckin' hand myself.</b></font>
+5648900 5651400 <font face="Comic Sans MS" color="#ffff80"><b>Lorenzo, take all your men back to the airport.</b></font>
+5651600 5656100 <font face="Comic Sans MS" color="#ffff80"><b>Seal off every exit in case they try to slip<br />past us to break out onto the ground.</b></font>
+5656600 5658800 <font face="Comic Sans MS" color="#ffff80"><b>You got it.</b></font>
+5660200 5662500 <font face="Comic Sans MS" color="#ffff80"><b>All right, here we go.</b></font>
+5663000 5667400 <font face="Comic Sans MS" color="#ffff80"><b>This is nuts! Every station has people at the<br />airport. No one has heard a whisper of this!</b></font>
+5667700 5671100 <font face="Comic Sans MS" color="#ffff80"><b>None of them is me. You want proof, try this.</b></font>
+5671800 5674400 <font face="Comic Sans MS" color="#ffff80"><b>Terrorists have murdered civilians</b></font>
+5674600 5677500 <font face="Comic Sans MS" color="#ffff80"><b>and cut off the two systems<br />that allow you to land.</b></font>
+5677700 5681100 <font face="Comic Sans MS" color="#ffff80"><b>A Special US army unit is here,<br />preparing to take out the terrorists.</b></font>
+5681400 5684100 <font face="Comic Sans MS" color="#ffff80"><b>- Jesus Christ.<br />- I want you to go live now.</b></font>
+5684300 5687900 <font face="Comic Sans MS" color="#ffff80"><b>Key me in from the files, a publicity shot.<br />Steal a map from weather.</b></font>
+5688100 5691000 <font face="Comic Sans MS" color="#ffff80"><b>We're on it. We're cutting in five minutes.</b></font>
+5691300 5695800 <font face="Comic Sans MS" color="#ffff80"><b>Tell the affiliates, if they want in, they got<br />three minutes to shout. Let's do this.</b></font>
+5696400 5697800 <font face="Comic Sans MS" color="#ffff80"><b>Network, here I come.</b></font>
+5701100 5706000 <font face="Comic Sans MS" color="#ffff80"><b>Telford, what was your chickenshit outfit<br />doing while we were taking Grenada?</b></font>
+5708100 5713100 <font face="Comic Sans MS" color="#ffff80"><b>Grenada. Five minutes of firefight,<br />five weeks of surfing.</b></font>
+5713400 5717400 <font face="Comic Sans MS" color="#ffff80"><b>- I wish I was with you guys for that.<br />- Yeah. Me too, kid.</b></font>
+5718000 5720000 <font face="Comic Sans MS" color="#ffff80"><b>- Really, sir?<br />- Sure.</b></font>
+5721600 5723700 <font face="Comic Sans MS" color="#ffff80"><b>Then we wouldn't have to do this.</b></font>
+5738900 5740900 <font face="Comic Sans MS" color="#ffff80"><b>Eagle Nest, this is Hatchling.</b></font>
+5742200 5744900 <font face="Comic Sans MS" color="#ffff80"><b>On schedule... and in position.</b></font>
+5745300 5747200 <font face="Comic Sans MS" color="#ffff80"><b>Roger, Hatchling. We are secure here.</b></font>
+5747900 5752200 <font face="Comic Sans MS" color="#ffff80"><b>You have a green light.</b></font>
+5763800 5767000 <font face="Comic Sans MS" color="#ffff80"><b>Jesus, officer, where'd<br />you come from, Pearl Harbor?</b></font>
+5772800 5775300 <font face="Comic Sans MS" color="#ffff80"><b>Let's clear it out, please.</b></font>
+5778700 5780900 <font face="Comic Sans MS" color="#ffff80"><b>Five, four, three...</b></font>
+5781700 5784500 <font face="Comic Sans MS" color="#ffff80"><b>This is a special bulletin<br />from WZDC News.</b></font>
+5784700 5788900 <font face="Comic Sans MS" color="#ffff80"><b>There has been a plane crash at Dulles,<br />where other aircraft still circle,</b></font>
+5789200 5792200 <font face="Comic Sans MS" color="#ffff80"><b>with no explanation<br />from airport or FAA officials.</b></font>
+5792400 5795200 <font face="Comic Sans MS" color="#ffff80"><b>And now, with an exclusive WZDC report,</b></font>
+5795400 5799200 <font face="Comic Sans MS" color="#ffff80"><b>here's Dick Thornberg reporting<br />from the skies over Washington.</b></font>
+5799500 5802800 <font face="Comic Sans MS" color="#ffff80"><b>I'm one of the people circling our capital</b></font>
+5803100 5807600 <font face="Comic Sans MS" color="#ffff80"><b>under the assumption that whatever<br />problem there was below was a normal one.</b></font>
+5808100 5811900 <font face="Comic Sans MS" color="#ffff80"><b>But the truth is far from normal.<br />The truth is terrifying.</b></font>
+5820900 5822900 <font face="Comic Sans MS" color="#ffff80"><b>Get out of the way, lady!</b></font>
+5825100 5830900 <font face="Comic Sans MS" color="#ffff80"><b>This is a recording of a conversation between<br />Dulles tower and a captive aircraft overhead.</b></font>
+5836400 5839300 <font face="Comic Sans MS" color="#ffff80"><b>- Lorenzo!<br />- Are you out of your fuckin' mind?</b></font>
+5839500 5843200 <font face="Comic Sans MS" color="#ffff80"><b>- Where's the Blue Light team?<br />- Stuart's rigged explosives to a remote.</b></font>
+5843500 5846500 <font face="Comic Sans MS" color="#ffff80"><b>- Where's Grant?<br />- His boys are gonna kill that son of a bitch.</b></font>
+5846700 5850200 <font face="Comic Sans MS" color="#ffff80"><b>- No, they're gonna take off with him.<br />- Get the fuck outta here.</b></font>
+5850500 5853300 <font face="Comic Sans MS" color="#ffff80"><b>When the army canned Stuart,<br />he put his men in that unit.</b></font>
+5853500 5857200 <font face="Comic Sans MS" color="#ffff80"><b>- Are you nuts? That firefight...<br />- Sideshow to buy him some time.</b></font>
+5857500 5862200 <font face="Comic Sans MS" color="#ffff80"><b>You are completely around the fuckin' bend.<br />You're under arrest, motherfucker.</b></font>
+5870000 5873400 <font face="Comic Sans MS" color="#ffff80"><b>These are the bullets they<br />used out there tonight. Blanks!</b></font>
+5876000 5878000 <font face="Comic Sans MS" color="#ffff80"><b>Jesus Christ.</b></font>
+5885600 5888900 <font face="Comic Sans MS" color="#ffff80"><b>This is Chief Lorenzo.<br />I want every officer recalled</b></font>
+5889200 5893000 <font face="Comic Sans MS" color="#ffff80"><b>and in body armour and full weaponry<br />in the motor pool in five minutes.</b></font>
+5895800 5898100 <font face="Comic Sans MS" color="#ffff80"><b>It's time to kick ass.</b></font>
+5899900 5902100 <font face="Comic Sans MS" color="#ffff80"><b>Just like lwo Jima.</b></font>
+5902300 5908000 <font face="Comic Sans MS" color="#ffff80"><b>We have learned that<br />the terrorists have control of the airport,</b></font>
+5908400 5910800 <font face="Comic Sans MS" color="#ffff80"><b>a fact that the authorities have repressed.</b></font>
+5911300 5915000 <font face="Comic Sans MS" color="#ffff80"><b>The terrorists promise more bloodshed<br />unless their demands are met.</b></font>
+5915300 5918600 <font face="Comic Sans MS" color="#ffff80"><b>Now that the Special army commandos<br />have arrived at the airport,</b></font>
+5918800 5923200 <font face="Comic Sans MS" color="#ffff80"><b>the likelihood of a full-scale<br />battle is dangerously close.</b></font>
+5944800 5949600 <font face="Comic Sans MS" color="#ffff80"><b>That stupid, arrogant son of a bitch.<br />It's all over the airport.</b></font>
+5950600 5952600 <font face="Comic Sans MS" color="#ffff80"><b>300 people have died</b></font>
+5954900 5957500 <font face="Comic Sans MS" color="#ffff80"><b>and, unfortunately, they may not be the last.</b></font>
+5957700 5960900 <font face="Comic Sans MS" color="#ffff80"><b>The horrifying fact is that no one is safe,</b></font>
+5961100 5964600 <font face="Comic Sans MS" color="#ffff80"><b>either in the planes above Dulles<br />or in the terminal below.</b></font>
+5964900 5969800 <font face="Comic Sans MS" color="#ffff80"><b>The threat of a higher body count at the<br />airport hangs over the heads of everyone,</b></font>
+5970100 5973800 <font face="Comic Sans MS" color="#ffff80"><b>and the holiday season of peace<br />and love has become a nightmare.</b></font>
+5980700 5986300 <font face="Comic Sans MS" color="#ffff80"><b>Listen up, all units. I want<br />you to converge on hangar 11, all sides.</b></font>
+5986700 5988700 <font face="Comic Sans MS" color="#ffff80"><b>This car, McClane. Get in!</b></font>
+5989000 5994500 <font face="Comic Sans MS" color="#ffff80"><b>When the city blue show up with their<br />backup, they'll pick up the pieces. Move out!</b></font>
+5995800 6000300 <font face="Comic Sans MS" color="#ffff80"><b>- McClane, say hi to my brother Vito.<br />- Merry Christmas.</b></font>
+6001300 6003200 <font face="Comic Sans MS" color="#ffff80"><b>Hi.</b></font>
+6008400 6012400 <font face="Comic Sans MS" color="#ffff80"><b>Goddamn it to hell! Move that piece of shit.</b></font>
+6014200 6016800 <font face="Comic Sans MS" color="#ffff80"><b>Will you move that goddamn<br />piece of shit out of here?</b></font>
+6017000 6022400 <font face="Comic Sans MS" color="#ffff80"><b>Vito, get the fuck out of the car<br />and get your ass in gear and help me!</b></font>
+6026700 6029400 <font face="Comic Sans MS" color="#ffff80"><b>Hey, Coleman!</b></font>
+6033900 6036300 <font face="Comic Sans MS" color="#ffff80"><b>- Hey, Coleman!<br />- Hi.</b></font>
+6039100 6042800 <font face="Comic Sans MS" color="#ffff80"><b>...but at least the truth<br />is not among the hostages</b></font>
+6043100 6047500 <font face="Comic Sans MS" color="#ffff80"><b>because I, Richard Thornberg,<br />just happened to be here</b></font>
+6047800 6054100 <font face="Comic Sans MS" color="#ffff80"><b>to put his life and talent<br />on the line for humanity and country.</b></font>
+6054500 6056600 <font face="Comic Sans MS" color="#ffff80"><b>If this should be my final broadcast...</b></font>
+6059400 6061800 <font face="Comic Sans MS" color="#ffff80"><b>Amen to that, Dick.</b></font>
+6063000 6066800 <font face="Comic Sans MS" color="#ffff80"><b>Dick? We're live, Dick. Where are you now?</b></font>
+6070800 6074500 <font face="Comic Sans MS" color="#ffff80"><b>Truck lights approaching, sir.<br />They're here, right on schedule.</b></font>
+6075600 6077600 <font face="Comic Sans MS" color="#ffff80"><b>The hangar door, open it.</b></font>
+6078200 6080200 <font face="Comic Sans MS" color="#ffff80"><b>Clockwork.</b></font>
+6102700 6105600 <font face="Comic Sans MS" color="#ffff80"><b>Jeez, you give me this story,<br />and I'll have your baby.</b></font>
+6106700 6108700 <font face="Comic Sans MS" color="#ffff80"><b>Not the kind of ride I'm looking for.</b></font>
+6120800 6123700 <font face="Comic Sans MS" color="#ffff80"><b>Colonel, if I may say so,<br />you are some piece of work.</b></font>
+6123900 6127300 <font face="Comic Sans MS" color="#ffff80"><b>Thank you, Major. You're not so bad yourself.</b></font>
+6127600 6130600 <font face="Comic Sans MS" color="#ffff80"><b>- Congratulations on your escape, sir.<br />- Thank you, Major.</b></font>
+6130800 6133800 <font face="Comic Sans MS" color="#ffff80"><b>- You should save them until we are all safe.<br />- Sir.</b></font>
+6134000 6138100 <font face="Comic Sans MS" color="#ffff80"><b>My congratulations, gentlemen.<br />You've won a victory for our way of life,</b></font>
+6138400 6142000 <font face="Comic Sans MS" color="#ffff80"><b>my pride, my admiration,<br />and a kick-ass vacation.</b></font>
+6142400 6144400 <font face="Comic Sans MS" color="#ffff80"><b>Now, get on board.</b></font>
+6174500 6177000 <font face="Comic Sans MS" color="#ffff80"><b>- Ride too rough, cowboy?<br />- I don't like to fly.</b></font>
+6177200 6179500 <font face="Comic Sans MS" color="#ffff80"><b>- So why are you here?<br />- I don't like to lose.</b></font>
+6191800 6195600 <font face="Comic Sans MS" color="#ffff80"><b>I don't know about you, but I've seen<br />enough snow to last me a lifetime.</b></font>
+6195900 6201100 <font face="Comic Sans MS" color="#ffff80"><b>- You don't get much of that in the tropics.<br />- For you gentlemen, we'll import it.</b></font>
+6203400 6205700 <font face="Comic Sans MS" color="#ffff80"><b>Shit. They left the hangar.</b></font>
+6208900 6210900 <font face="Comic Sans MS" color="#ffff80"><b>Right there. Get that.</b></font>
+6211200 6213200 <font face="Comic Sans MS" color="#ffff80"><b>- Now what?<br />- Get in front.</b></font>
+6213400 6215400 <font face="Comic Sans MS" color="#ffff80"><b>Block their path so they can't get out.</b></font>
+6215600 6219400 <font face="Comic Sans MS" color="#ffff80"><b>I'm not playing chicken with a 200-ton plane!<br />I'm crazy, but not that crazy.</b></font>
+6219600 6223400 <font face="Comic Sans MS" color="#ffff80"><b>- Dulles, this is Northeast 140.<br />- That's Holly's plane.</b></font>
+6223700 6226000 <font face="Comic Sans MS" color="#ffff80"><b>Request emergency clearance.</b></font>
+6226200 6228500 <font face="Comic Sans MS" color="#ffff80"><b>I know you won't answer but you better listen.</b></font>
+6228700 6233500 <font face="Comic Sans MS" color="#ffff80"><b>We're down to fumes and we have to land.<br />In five minutes, we're coming in.</b></font>
+6233800 6238800 <font face="Comic Sans MS" color="#ffff80"><b>- That's my wife's plane. Take it fuckin' down!<br />- I'm not getting in front of that plane.</b></font>
+6243400 6245300 <font face="Comic Sans MS" color="#ffff80"><b>How about gettin' over top of it?</b></font>
+6245800 6248100 <font face="Comic Sans MS" color="#ffff80"><b>This is the captain. Your attention.</b></font>
+6248300 6251500 <font face="Comic Sans MS" color="#ffff80"><b>We have no choice<br />but to attempt an emergency landing.</b></font>
+6251800 6254800 <font face="Comic Sans MS" color="#ffff80"><b>Fasten your seat belts<br />and assume crash positions,</b></font>
+6255000 6259300 <font face="Comic Sans MS" color="#ffff80"><b>- as instructed by your cabin attendants.<br />- Let's have the emergency check list.</b></font>
+6259600 6263400 <font face="Comic Sans MS" color="#ffff80"><b>Attention, all air traffic in Dulles area.<br />This is Northeast 140.</b></font>
+6263600 6266100 <font face="Comic Sans MS" color="#ffff80"><b>We are attempting an emergency landing.</b></font>
+6271400 6273600 <font face="Comic Sans MS" color="#ffff80"><b>I don't wanna die.</b></font>
+6274200 6276100 <font face="Comic Sans MS" color="#ffff80"><b>I'm sorry.</b></font>
+6279100 6281100 <font face="Comic Sans MS" color="#ffff80"><b>God!</b></font>
+6290100 6292500 <font face="Comic Sans MS" color="#ffff80"><b>Thy rod and thy staff they comfort me.</b></font>
+6299500 6302300 <font face="Comic Sans MS" color="#ffff80"><b>- Hang on!<br />- What are you doing?</b></font>
+6302500 6307300 <font face="Comic Sans MS" color="#ffff80"><b>You wanted a story.<br />Nice and easy, boys. Get me in low.</b></font>
+6311200 6315400 <font face="Comic Sans MS" color="#ffff80"><b>- Bring me down.<br />- You'll get yourself killed.</b></font>
+6322300 6324800 <font face="Comic Sans MS" color="#ffff80"><b>Bring it in low. Keep over the wing.</b></font>
+6332700 6334700 <font face="Comic Sans MS" color="#ffff80"><b>Lower.</b></font>
+6343500 6346900 <font face="Comic Sans MS" color="#ffff80"><b>John, what the fuck are you doin'<br />out on the wing of this plane?</b></font>
+6354900 6356500 <font face="Comic Sans MS" color="#ffff80"><b>Damn!</b></font>
+6363000 6365400 <font face="Comic Sans MS" color="#ffff80"><b>There's something wrong.</b></font>
+6365600 6368000 <font face="Comic Sans MS" color="#ffff80"><b>The ailerons. We can't take off.</b></font>
+6374300 6376400 <font face="Comic Sans MS" color="#ffff80"><b>It's McClane again.</b></font>
+6376600 6378800 <font face="Comic Sans MS" color="#ffff80"><b>Son of a bitch!</b></font>
+6380100 6383200 <font face="Comic Sans MS" color="#ffff80"><b>- I'll do him.<br />- This time, do it right.</b></font>
+6383500 6386700 <font face="Comic Sans MS" color="#ffff80"><b>Just get us in the air, General.<br />You're the only man who can do it.</b></font>
+6386900 6390200 <font face="Comic Sans MS" color="#ffff80"><b>Don't shoot. That wing is fully fuelled.</b></font>
+6441500 6444100 <font face="Comic Sans MS" color="#ffff80"><b>Too bad, McClane. I kinda liked you.</b></font>
+6452300 6454300 <font face="Comic Sans MS" color="#ffff80"><b>I got enough friends.</b></font>
+6493000 6495200 <font face="Comic Sans MS" color="#ffff80"><b>Time for the main event.</b></font>
+6530300 6532300 <font face="Comic Sans MS" color="#ffff80"><b>You motherfucker!</b></font>
+6544100 6546100 <font face="Comic Sans MS" color="#ffff80"><b>How's it goin'?</b></font>
+6557700 6560000 <font face="Comic Sans MS" color="#ffff80"><b>Happy landings, asshole!</b></font>
+6611200 6613100 <font face="Comic Sans MS" color="#ffff80"><b>Yippee-ki-yay, motherfucker.</b></font>
+6665100 6667200 <font face="Comic Sans MS" color="#ffff80"><b>Holly!</b></font>
+6667500 6669700 <font face="Comic Sans MS" color="#ffff80"><b>Here's your fuckin' landing light.</b></font>
+6682100 6685500 <font face="Comic Sans MS" color="#ffff80"><b>Look! I see it.</b></font>
+6711400 6713600 <font face="Comic Sans MS" color="#ffff80"><b>They used the fuckin' fire to see.</b></font>
+6713800 6716500 <font face="Comic Sans MS" color="#ffff80"><b>They can all do that. Let's tell 'em.</b></font>
+6716700 6719700 <font face="Comic Sans MS" color="#ffff80"><b>They already know. Listen.</b></font>
+6720000 6723600 <font face="Comic Sans MS" color="#ffff80"><b>They're using the fire trail as a guide.<br />If they can do it, so can we.</b></font>
+6742600 6745200 <font face="Comic Sans MS" color="#ffff80"><b>Any landing you can walk<br />away from is a good one.</b></font>
+6817300 6819800 <font face="Comic Sans MS" color="#ffff80"><b>Holly!</b></font>
+6867500 6869800 <font face="Comic Sans MS" color="#ffff80"><b>Oh, God. Oh, baby.</b></font>
+6870300 6874500 <font face="Comic Sans MS" color="#ffff80"><b>- I thought I was never gonna see you again.<br />- That's what I thought about you.</b></font>
+6875000 6877000 <font face="Comic Sans MS" color="#ffff80"><b>I love you so much.</b></font>
+6880800 6883600 <font face="Comic Sans MS" color="#ffff80"><b>They told me there were<br />terrorists at the airport.</b></font>
+6883800 6886500 <font face="Comic Sans MS" color="#ffff80"><b>Yeah. I heard that, too.</b></font>
+6894400 6896500 <font face="Comic Sans MS" color="#ffff80"><b>God, that's beautiful.</b></font>
+6899600 6901600 <font face="Comic Sans MS" color="#ffff80"><b>Yup. It sure is.</b></font>
+6904000 6905900 <font face="Comic Sans MS" color="#ffff80"><b>I love you so much.</b></font>
+6908300 6912500 <font face="Comic Sans MS" color="#ffff80"><b>John, why does this keep happening to us?</b></font>
+6918800 6920500 <font face="Comic Sans MS" color="#ffff80"><b>Let's go home.</b></font>
+6925300 6927400 <font face="Comic Sans MS" color="#ffff80"><b>Somebody help me, please.</b></font>
+6927800 6929900 <font face="Comic Sans MS" color="#ffff80"><b>Honey, help me up here, please.</b></font>
+6930100 6932100 <font face="Comic Sans MS" color="#ffff80"><b>Asshole!</b></font>
+6934700 6937600 <font face="Comic Sans MS" color="#ffff80"><b>Hey, officer, come on!</b></font>
+6939200 6942000 <font face="Comic Sans MS" color="#ffff80"><b>Hop on in here. Get your missus in.</b></font>
+6942200 6944000 <font face="Comic Sans MS" color="#ffff80"><b>What do you say, Marv?</b></font>
+6944200 6947100 <font face="Comic Sans MS" color="#ffff80"><b>I'll be damned if<br />I'm gonna clean up this mess.</b></font>
+6957600 6960600 <font face="Comic Sans MS" color="#ffff80"><b>You get this parking ticket<br />in front of my airport?</b></font>
+6962000 6963700 <font face="Comic Sans MS" color="#ffff80"><b>Yeah.</b></font>
+6964300 6967400 <font face="Comic Sans MS" color="#ffff80"><b>What the hell. It's Christmas.</b></font>
+6973000 6974700 <font face="Comic Sans MS" color="#ffff80"><b>Take off, Marv!</b></font>
