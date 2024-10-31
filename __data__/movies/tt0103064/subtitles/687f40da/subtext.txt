@@ -1,0 +1,1584 @@
+78327 80579 <i>Three billion human lives ended<br />on August 29, 1997.</i>
+80580 84208 <i>Three billion human lives ended<br />on August 29, 1997.</i>
+84292 85626 <i>The survivors of the nuclear fire...</i>
+85626 86418 <i>The survivors of the nuclear fire...</i>
+86502 89213 <i>called the war “Judgment Day.”</i>
+89297 90673 <i>They lived only to face<br />a new nightmare—</i>
+90673 92383 <i>They lived only to face<br />a new nightmare—</i>
+92466 94509 <i>the war against the machines.</i>
+172672 176258 <i>The computer which controlled<br />the machines, Skynet..</i>
+176258 176424 <i>The computer which controlled<br />the machines, Skynet..</i>
+176509 179512 <i>sent two Terminators<br />back through time.</i>
+179595 181305 <i>Their mission: to destroy the leader<br />of the human resistance.</i>
+181305 183640 <i>Their mission: to destroy the leader<br />of the human resistance.</i>
+183724 186351 <i>John Connor, my son.</i>
+186352 186560 <i>John Connor, my son.</i>
+190606 191398 <i>The first Terminator was programmed<br />to strike at me in the year 1984...</i>
+191399 194860 <i>The first Terminator was programmed<br />to strike at me in the year 1984...</i>
+194944 196403 <i>before John was born.</i>
+196404 197279 <i>before John was born.</i>
+197363 199198 <i>It failed.</i>
+199281 201449 <i>The second was set to strike<br />at John himself..</i>
+201450 202117 <i>The second was set to strike<br />at John himself..</i>
+202201 204661 <i>when he was still a child.</i>
+207915 211543 <i>As before, the resistance was able<br />to send a lone warrior...</i>
+211544 212086 <i>As before, the resistance was able<br />to send a lone warrior...</i>
+212169 214462 <i>a protector for John.</i>
+214547 216549 <i>It was just a question of which one<br />of them would reach him first.</i>
+216549 217967 <i>It was just a question of which one<br />of them would reach him first.</i>
+472721 473430 I need your clothes, your boots<br />and your motorcycle.
+473430 476099 I need your clothes, your boots<br />and your motorcycle.
+484608 487068 You forgot to say please.
+503419 503627 Get him off me!
+503627 505128 Get him off me!
+525983 527234 Pull it out!
+548130 548964 Take it.
+548964 549965 Take it.
+575783 578410 Can't let you take<br />the man's wheels, son.
+578494 579161 Now, get off<br />before I put you down.
+579161 581997 Now, get off<br />before I put you down.
+590881 593300 That's it, goddamn it.
+653610 654736 R-31 David, Sherman Code 6...
+654736 656112 R-31 David, Sherman Code 6...
+656196 659741 at the Sixth Street Bridge and Santa Fe<br />on electrical disturbance.
+659741 660908 At the Sixth Street Bridge and Santa Fe<br />on electrical disturbance.
+660993 663245 <i>Ten-four, R-31 David.</i>
+760300 760466 John, get in there and clean up<br />that pigsty of yours.
+760467 763094 John, get in there and clean up<br />that pigsty of yours.
+774648 775607 Your foster parents<br />are kind of dicks, huh?
+775607 777066 Your foster parents<br />are kind of dicks, huh?
+777150 780236 I swear, I have had it<br />with that goddamn kid.
+780320 780611 - He won't even answer me anymore.<br />- Honey, move.
+780612 782947 - He won't even answer me anymore.<br />- Honey, move.
+783031 785658 Would you get off your butt<br />and help me?
+785659 785950 Would you get off your butt<br />and help me?
+786034 788870 - Todd!<br />- What?
+788954 790705 He hasn't cleaned that room of his<br />in a month.
+790706 792290 He hasn't cleaned that room of his<br />in a month.
+792374 795543 Oh, it's an emergency.<br />Hang on. I'll get right on it.
+802592 804468 Come on.
+805304 805804 Get your ass inside.<br />Do what your mother tells you.
+805804 808598 Get your ass inside.<br />Do what your mother tells you.
+809599 810850 She's not my mother, Todd.
+810851 812561 She's not my mother, Todd.
+838754 840756 <i>This next patient is interesting.</i>
+840839 841047 I've been following the case<br />for years.
+841048 843300 I've been following the case<br />for years.
+843383 845468 A 29-year-old female...
+847804 850473 diagnosed as acute<br />schizo-affective disorder.
+850557 851140 The usual indicators: depression,<br />anxiety, violent acting out...
+851141 853810 The usual indicators: depression,<br />anxiety, violent acting out...
+853894 855604 delusions of persecution.
+862027 865405 <i>The delusional architecture<br />is fairly unique.</i>
+865489 866239 She believes that a machine<br />called the Terminator...
+866239 868324 She believes that a machine<br />called the Terminator...
+868408 871285 which looks human,<br />was sent back through time...
+871286 871744 which looks human,<br />was sent back through time...
+871828 873871 - to kill her.<br />- That's original.
+873955 876332 And also that the father<br />of her child...
+876333 877208 And also that the father<br />of her child...
+877292 880545 was a soldier sent back<br />to protect her.
+880629 881338 He was from the future too.
+881338 882547 He was from the future too.
+882631 886384 The year 2029,<br />if I remember correctly.
+886385 887260 The year 2029,<br />if I remember correctly.
+887344 889596 And here we are.
+890347 891431 <i>Morning, Sarah.</i>
+891431 891472 <i>Morning, Sarah.</i>
+895811 896478 Good morning, Dr. Silberman.<br />How's the knee?
+896478 899772 Good morning, Dr. Silberman.<br />How's the knee?
+901608 903526 <i>Fine, Sarah.</i>
+904653 906529 She stabbed me in the kneecap...
+906530 906905 She stabbed me in the kneecap...
+906988 910533 with my pen a few weeks ago.
+910617 911576 Repeated escape attempts.
+911576 912118 Repeated escape attempts.
+922421 924631 Let's move on, shall we?
+924714 926674 I don't like to see the patients<br />disrupting their rooms like this.
+926675 928051 I don't like to see the patients<br />disrupting their rooms like this.
+928135 931513 - See she takes her Thorazine.<br />- Sure. I'll take care of it.
+944234 947320 It's time to take your meds, Connor.
+947404 947821 You take it.
+947821 949155 You take it.
+949239 952575 Now you know you gotta be good.<br />You're up for review this afternoon.
+952659 953159 I'm not taking it, Dougie.
+953160 954578 I'm not taking it, Dougie.
+954661 957705 - I don't want any trouble.<br />- Ain't no trouble.
+963753 963878 Zap her.
+963879 965046 Zap her.
+975640 977642 Last call, sugar.
+983648 985316 Sweet dreams.
+985317 985650 Sweet dreams.
+1015263 1017265 Are you the legal guardian<br />of John Connor?
+1017557 1021018 That's right, Officer.<br />What's he done now?
+1021102 1022770 - Could I speak with him, please?<br />- You could if he were here.
+1022771 1024063 - Could I speak with him, please?<br />- You could if he were here.
+1024147 1027024 He took off on his bike this morning.<br />He could be anywhere.
+1027108 1028109 Do you have a photograph of John?
+1028109 1029401 Do you have a photograph of John?
+1029486 1030737 Yeah. Hold on.
+1033281 1033406 Gonna tell me what this is about?
+1033406 1035908 Gonna tell me what this is about?
+1035992 1038577 I just need to ask him<br />a few questions.
+1039746 1043541 He's a good-looking boy.<br />Do you mind if I keep this picture?
+1043625 1044042 No, go on. There was a guy here<br />this morning looking for him too.
+1044042 1047128 No, go on. There was a guy here<br />this morning looking for him too.
+1047212 1049339 Yeah, a big guy on a bike.
+1049339 1049380 Yeah, a big guy on a bike.
+1049464 1051924 Has that got something<br />to do with this?
+1055262 1058348 I wouldn't worry about him.
+1058431 1059932 Thanks for your cooperation.
+1059933 1061225 Thanks for your cooperation.
+1062269 1065272 Please insert your stolen card now.
+1072529 1074280 PIN number.
+1075490 1075865 Hurry up. This is taking too long.
+1075865 1077074 Hurry up. This is taking too long.
+1077158 1078659 Go, baby.
+1080245 1081204 All right.
+1081204 1081704 All right.
+1081788 1085500 - PIN number 9003.<br />- Where'd you learn this stuff from?
+1085584 1086501 From my mom.<br />My real mom, I mean.
+1086501 1088085 From my mom.<br />My real mom, I mean.
+1088169 1091797 Withdraw 300 bucks.
+1091798 1092423 Withdraw 300 bucks.
+1092507 1095259 Come on, baby. Come on!
+1095343 1097136 - Yes!<br />- Hey, it worked.
+1097137 1097595 - Yes!<br />- Hey, it worked.
+1097679 1101349 All right. Easy money.<br />Come on!
+1103852 1105979 Yes! Piece of cake.
+1111234 1113027 - Is that her?<br />- Yes.
+1113028 1114362 - Is that her?<br />- Yes.
+1114446 1116281 She's pretty cool, huh?
+1116364 1118366 No, she's a complete psycho.
+1118366 1118616 No, she's a complete psycho.
+1118700 1121452 That's why she's at Pescadero.<br />It's a mental institute.
+1123204 1123662 She tried to blow up a computer factory<br />but got shot and arrested.
+1123663 1126207 She tried to blow up a computer factory<br />but got shot and arrested.
+1126291 1128376 No shit.
+1129085 1131462 She's a total loser.
+1131546 1134298 Come on.<br />Let's go spend some money.
+1163078 1165288 Sarah, wake up.
+1172379 1174089 Kyle.
+1176841 1178133 You're dead.
+1178218 1180261 Where's our son, Sarah?
+1181262 1183514 They took him away from me.
+1183598 1186183 - He's the target now.<br />- I know.
+1186184 1186809 - He's the target now.<br />- I know.
+1186893 1188936 He's all alone.<br />You have to protect him.
+1189020 1191355 I know.
+1191356 1191481 I know.
+1191564 1194149 You tell me<br />how I’m supposed to do that.
+1194234 1196361 He doesn't even believe me anymore.
+1196444 1196527 - I've lost him.<br />- You're strong, Sarah.
+1196528 1200490 - I've lost him.<br />- You're strong, Sarah.
+1200573 1201699 Stronger than you ever thought<br />you could be,
+1201700 1202992 Stronger than you ever thought<br />you could be,
+1204035 1205453 On your feet, soldier!
+1207580 1210374 I love you, Sarah.<br />I always will.
+1212669 1215588 - I need you.<br />- I'll always be with you.
+1219467 1222386 Remember the message?
+1222387 1222970 Remember the message?
+1223054 1224847 The future is not set.
+1226015 1227558 There is no fate<br />but what we make for ourselves.
+1227559 1229602 There is no fate<br />but what we make for ourselves.
+1249581 1251499 Stay with me.
+1252459 1253418 There's not much time left<br />in the world, Sarah.
+1253418 1255336 There's not much time left<br />in the world, Sarah.
+1262510 1263802 Kyle, don't go!
+1263803 1264637 Kyle, don't go!
+1350306 1351765 <i>It's like a giant strobe light..</i>
+1351766 1354268 <i>It's like a giant strobe light..</i>
+1354352 1356687 <i>burning right through my eyes.</i>
+1360692 1362110 <i>Somehow I can still see.</i>
+1362110 1363194 <i>Somehow I can still see.</i>
+1369075 1370993 <i>Oh, God.</i>
+1374330 1377499 <i>We know the dream's the same<br />every night.</i>
+1377500 1377791 <i>We know the dream's the same<br />every night.</i>
+1377876 1381296 <i>- Why do I have to—<br />- Please continue.</i>
+1384966 1387635 <i>Children look like burnt paper.</i>
+1387635 1387718 <i>Children look like burnt paper.</i>
+1389345 1391472 <i>Black.</i>
+1391556 1392682 <i>Not moving.</i>
+1392682 1393474 <i>Not moving.</i>
+1395310 1397729 <i>And then the blast wave hits them.</i>
+1407030 1407864 <i>And they fly apart like leaves.</i>
+1407864 1409740 <i>And they fly apart like leaves.</i>
+1411492 1412910 <i>Dreams of cataclysm,<br />the end of the world..</i>
+1412911 1414871 <i>Dreams of cataclysm,<br />the end of the world..</i>
+1414954 1416872 <i>are very common.</i>
+1418583 1422837 <i>It's not a dream, you moron.<br />It's real.</i>
+1422921 1423046 <i>- I know the date it happens.<br />- I'm sure it feels real to you.</i>
+1423046 1426841 <i>- I know the date it happens.<br />- I'm sure it feels real to you.</i>
+1426925 1428092 <i>On August 29, 1997...</i>
+1428092 1429426 <i>On August 29, 1997...</i>
+1429510 1433013 <i>It's gonna feel<br />pretty fuckin' real to you too!</i>
+1433097 1433180 <i>Anybody not wearing two-million<br />sunblock is gonna have a real bad day.</i>
+1433181 1436767 <i>Anybody not wearing two-million<br />sunblock is gonna have a real bad day.</i>
+1436851 1438227 <i>Get it?</i>
+1438227 1438769 <i>Get it?</i>
+1438853 1441730 <i>God, you think<br />you're safe and alive.</i>
+1441814 1443273 <i>You're already dead. Everybody!</i>
+1443274 1444108 <i>You're already dead. Everybody!</i>
+1444192 1446694 <i>Him. You. You're dead already.</i>
+1446778 1448321 <i>This whole place,<br />everything you see is gone!</i>
+1448321 1449655 <i>This whole place,<br />everything you see is gone!</i>
+1449739 1453409 <i>You're the one living in the dream,<br />'cause I know it happens!</i>
+1453409 1453826 <i>You're the one living in the dream,<br />'cause I know it happens!</i>
+1453910 1455870 It happens!
+1466839 1468590 I feel much better now.
+1468591 1469842 I feel much better now.
+1469926 1471802 Clearer.
+1471886 1473637 Yes, your attitude has been...
+1473638 1474680 Yes, your attitude has been...
+1474764 1477057 much improved lately.
+1486401 1488820 It's helped me to have a goal...
+1488820 1488903 It's helped me to have a goal...
+1488987 1492156 something to look forward to.
+1492240 1493407 What is that?
+1493491 1493866 Well, you said...
+1493866 1495826 Well, you said...
+1495910 1498913 that if I showed improvement<br />after six months...
+1498913 1499747 that if I showed improvement<br />after six months...
+1499831 1502500 you would transfer me<br />to the minimum security wing...
+1502583 1504001 and I could have visitors.
+1504002 1505336 And I could have visitors.
+1506963 1509048 Well, it's been six months and...
+1509048 1511008 Well, it's been six months and...
+1512135 1514095 I was looking forward<br />to seeing my son.
+1514095 1514428 I was looking forward<br />to seeing my son.
+1515471 1516930 I see.
+1520184 1524229 Let's go back to what you were saying<br />about those Terminator machines.
+1524230 1524355 Let's go back to what you were saying<br />about those Terminator machines.
+1525523 1528901 Now you think they don't exist?
+1528985 1529276 They don't exist.<br />I know that now.
+1529277 1533114 They don't exist.<br />I know that now.
+1533197 1534364 But you've told me on many occasions<br />about how you crushed one...
+1534365 1536367 But you've told me on many occasions<br />about how you crushed one...
+1536451 1538536 in a hydraulic press.
+1539912 1543040 If I had, there would have<br />been some evidence.
+1543124 1544458 They would have found something<br />at the factory.
+1544459 1545543 They would have found something<br />at the factory.
+1545626 1547711 I see.
+1547795 1549505 <i>So you don't believe anymore<br />that the company covered it up?</i>
+1549505 1551215 <i>So you don't believe anymore<br />that the company covered it up?</i>
+1553509 1554593 <i>No. Why would they?</i>
+1554594 1556387 <i>No. Why would they?</i>
+1556596 1559640 Let's try a new position<br />right there.
+1559640 1559723 Let's try a new position<br />right there.
+1569650 1569775 Mr. Dyson?
+1569776 1571152 Mr. Dyson?
+1573029 1574822 The materials team<br />is running another—
+1574822 1575656 The materials team<br />is running another—
+1575740 1577408 - Mr. Dyson.<br />- Yes?
+1577492 1579869 The materials team is running<br />another series this afternoon.
+1579869 1580452 The materials team is running<br />another series this afternoon.
+1580536 1583497 You have to sign for the—it.
+1583581 1584915 - You have to sign it out.<br />- Okay. I'll get it.
+1584916 1586417 - You have to sign it out.<br />- Okay. I'll get it.
+1589378 1590003 I know I haven't been here long,<br />but I was wondering if you know—
+1590004 1592423 I know I haven't been here long,<br />but I was wondering if you know—
+1592507 1593883 Know what?
+1593966 1595050 If you know where “it” came from.
+1595051 1596594 If you know where “it” came from.
+1596677 1600097 I asked them the same question once.<br />You know what they told me?
+1600181 1602141 Don't ask.
+1608064 1610232 - Good morning, Mr. Dyson.<br />- How's it going?
+1610233 1611108 - Good morning, Mr. Dyson.<br />- How's it going?
+1611192 1614111 Insert key. Left on three.
+1614195 1615279 Two, one, turn.
+1615279 1616530 Two, one, turn.
+1619617 1620367 - How are the wife and kids?<br />- Great. Thanks.
+1620368 1622870 - How are the wife and kids?<br />- Great. Thanks.
+1650064 1650689 So what do you think, Doctor?
+1650690 1653109 So what do you think, Doctor?
+1653985 1655778 Haven't I shown improvement?
+1655778 1655944 Haven't I shown improvement?
+1657196 1659990 Well, Sarah, here's the problem.
+1661075 1663494 I know how smart you are.
+1663578 1665621 You're just telling me<br />what I want to hear.
+1666664 1669708 I don't think you really believe<br />what you're telling me today.
+1669792 1670959 If I put you in minimum security,<br />you'll just try to escape again.
+1670960 1673712 If I put you in minimum security,<br />you'll just try to escape again.
+1678551 1680844 You have to let me see my son.
+1682096 1683680 Please.
+1687643 1690854 He's in great danger.<br />He's naked without me.
+1692273 1693732 If I could make a phone call—
+1693816 1696235 I'm afraid not.<br />Not for a while.
+1696235 1696276 I'm afraid not.<br />Not for a while.
+1698487 1700947 I don't see any choice but to<br />recommend to the review board...
+1701032 1701282 that you stay here<br />for another six months.
+1701282 1703617 that you stay here<br />for another six months.
+1706787 1710081 I'll kill you,<br />you son of a bitch!
+1711125 1711416 You son of a bitch!
+1711417 1713794 You son of a bitch!
+1714587 1716463 Ten CCs of sodium amobarbital, stat!
+1716464 1718424 Ten CCs of sodium amobarbital, stat!
+1718507 1721426 - You don't know what you're doing!<br />- Get some restraints in here now!
+1723387 1726598 You don't know what you're doing!
+1726599 1726974 You don't know what you're doing!
+1730811 1731645 <i>Model citizen.</i>
+1731646 1733105 <i>Model citizen.</i>
+1772144 1774855 You just missed him.<br />He was here 15 minutes ago.
+1774939 1777191 - He was going to the galleria.<br />- Yeah.
+1777191 1778108 - He was going to the galleria.<br />- Yeah.
+1778192 1779985 The galleria?
+1825197 1827782 I'm gonna get some quarters.<br />I'll be back, all right?
+1827783 1828408 I'm gonna get some quarters.<br />I'll be back, all right?
+1843299 1846135 - Oh, no!<br />- Girls, do you know John Connor?
+1849889 1852641 Hey, do you know this guy?
+1852725 1853058 Nah, I don't know him.
+1853059 1854894 Nah, I don't know him.
+1860232 1862609 - John.<br />- Not now.
+1862693 1863193 There's this cop scoping for you.<br />Check it out.
+1863194 1865946 There's this cop scoping for you.<br />Check it out.
+1868491 1870409 - He's right over there.<br />- Split, man.
+1870493 1872953 - Just go.<br />- Yeah.
+1877666 1878375 I saw that kid—
+1878376 1878918 I saw that kid—
+1894266 1896184 You’re not supposed to<br />be in here!
+1921919 1923128 Get down.
+1993908 1994742 Mister, are you all right?
+1994742 1996076 Mister, are you all right?
+1997244 1998411 You all right?
+2013719 2014928 Come on!
+2054802 2055427 Goddamn!
+2055427 2056261 Goddamn!
+2335374 2338085 Okay, time-out.<br />Stop the bike.
+2338168 2340170 Time-out.<br />Come on, stop the bike.
+2340170 2340753 Time-out.<br />Come on, stop the bike.
+2353851 2355644 Holy shit.<br />Now, don't take this the wrong way.
+2355644 2356561 Holy shit.<br />Now, don't take this the wrong way.
+2356645 2359022 -You are a Terminator, right?<br />- Yes.
+2359106 2360774 Cyberdyne Systems, Model 101.
+2360774 2361941 Cyberdyne Systems, Model 101.
+2373537 2375455 Holy shit.
+2376957 2379542 You're really real.
+2379626 2381377 I mean—
+2381378 2381586 I mean—
+2384089 2386508 You're like a machine underneath,<br />right?
+2386508 2387050 You're like a machine underneath,<br />right?
+2387134 2388635 But alive outside?
+2388719 2390637 I'm a cybernetic organism.
+2390721 2391680 Living tissue<br />over metal endoskeleton.
+2391680 2393431 Living tissue<br />over metal endoskeleton.
+2408238 2410406 This is intense.
+2410490 2412283 Get a grip, John. Okay.
+2412284 2413285 Get a grip, John. Okay.
+2415871 2417414 You're not here to kill me.
+2417414 2417997 You're not here to kill me.
+2418081 2422043 I figured that part out for myself.<br />So what's the deal?
+2422127 2422585 - My mission is to protect you.<br />- Yeah? Who sent you?
+2422586 2427086 - My mission is to protect you.<br />- Yeah? Who sent you?
+2428759 2430886 You did.<br />Thirty-five years from now...
+2430969 2432887 you reprogrammed me to be<br />your protector here in this time.
+2432888 2434973 You reprogrammed me to be<br />your protector here in this time.
+2435057 2437809 Oh, this is deep.
+2460248 2463251 So this other guy,<br />he's a Terminator like you, right?
+2463543 2467046 Not like me.<br />A T-1000, advanced prototype.
+2468674 2470467 More advanced than you are?
+2470550 2473844 - Yes. A mimetic poly-alloy.<br />- What the hell does that mean?
+2473845 2475054 - Yes. A mimetic poly-alloy.<br />- What the hell does that mean?
+2475138 2479016 - Liquid metal.<br />- Where are we going?
+2479017 2479392 - Liquid metal.<br />- Where are we going?
+2479476 2482812 We have to get out of the city<br />immediately and avoid the authorities.
+2482896 2484188 I gotta stop by my house.<br />I wanna pick up some stuff.
+2484189 2485607 I gotta stop by my house.<br />I wanna pick up some stuff.
+2485691 2489403 Negative. The T-1000 would definitely<br />try to reacquire you there.
+2489403 2490487 Negative. The T-1000 would definitely<br />try to reacquire you there.
+2490570 2493322 -You sure?<br />- I would.
+2503917 2504959 Look, Todd and Janelle are dicks...
+2504960 2506586 Look, Todd and Janelle are dicks...
+2508880 2510131 but I gotta warn 'em.
+2510132 2510340 But I gotta warn 'em.
+2510424 2512801 Shit. You got a quarter?
+2521560 2524563 - Hello.<br /><i>- Janelle, it's me.</i>
+2524646 2525688 - John?<br /><i>- Is everything all right?</i>
+2525689 2527023 - John?<br /><i>- Is everything all right?</i>
+2527107 2529526 - Are you guys okay?<br /><i>- Sure, honey, everything's okay.</i>
+2529609 2530901 - Are you all right?<br /><i>- Yeah, I'm fine.</i>
+2530902 2532695 - Are you all right?<br /><i>- Yeah, I'm fine.</i>
+2532779 2536073 John, it's late.<br />I was beginning to worry about you.
+2536074 2536365 John, it's late.<br />I was beginning to worry about you.
+2536450 2539161 If you hurry home, we can sit down<br />and have dinner together.
+2539244 2540787 I'm making beef stew.
+2540871 2541288 Something's wrong.<br />She's never this nice.
+2541288 2543790 Something's wrong.<br />She's never this nice.
+2543874 2545667 Where are you?
+2545751 2546460 What the hell is<br />the goddamn dog barking at?
+2546460 2548628 What the hell is<br />the goddamn dog barking at?
+2548712 2551631 Hey, shut up,<br />you worthless piece of shit!
+2551631 2551964 Hey, shut up,<br />you worthless piece of shit!
+2552049 2553508 The dog's really barking.
+2553592 2555802 You were gonna tell the kid<br />to get rid of that mutt.
+2559723 2562016 John, it's late.<br />Please don't make me worry.
+2562017 2562475 John, it's late.<br />Please don't make me worry.
+2562559 2564269 Could he already be there?
+2565395 2566687 Are you okay?
+2566772 2567189 - I'm right here. I'm fine.<br /><i>- Are you sure you're all right?</i>
+2567189 2570775 - I'm right here. I'm fine.<br /><i>- Are you sure you're all right?</i>
+2570859 2572402 - What’s the dog’s name?<br />- Max.
+2572402 2574195 - What’s the dog’s name?<br />- Max.
+2574279 2576614 Hey, Janelle.<br />What's wrong with Wolfie?
+2576698 2577573 I can hear him barking.<br />Is he okay?
+2577574 2579284 I can hear him barking.<br />Is he okay?
+2579367 2582787 Wolfie's fine, honey.<br />Wolfie's just fine.
+2582788 2583246 Wolfie's fine, honey.<br />Wolfie's just fine.
+2583330 2584998 Where are you?
+2586583 2587667 Your foster parents are dead.
+2625539 2627541 I need a minute here.
+2627624 2629459 You're telling me that this thing<br />can imitate anything it touches?
+2629459 2631961 You're telling me that this thing<br />can imitate anything it touches?
+2632045 2634630 Anything it samples<br />by physical contact.
+2634631 2634964 Anything it samples<br />by physical contact.
+2635048 2636466 Get real.
+2636550 2639844 It could disguise itself<br />as a pack of cigarettes?
+2639845 2640303 It could disguise itself<br />as a pack of cigarettes?
+2640387 2642305 No, only an object<br />of equal size.
+2642389 2644766 Why not just become a bomb<br />or something to get me?
+2645225 2647060 It can't form complex machines.
+2647144 2649187 Guns and explosives<br />have chemicals, moving parts.
+2649271 2650355 It doesn't work that way.<br />But it can form solid metal shapes.
+2650355 2650396 It doesn't work that way.<br />But it can form solid metal shapes.
+2650397 2652899 It doesn't work that way.<br />But it can form solid metal shapes.
+2652983 2655735 - Like what?<br />- Knives and stabbing weapons.
+2655735 2655776 - Like what?<br />- Knives and stabbing weapons.
+2655777 2656027 - Like what?<br />- Knives and stabbing weapons.
+2756127 2757586 Messages from Mom.
+2772769 2774187 These were taken by<br />a video surveillance camera...
+2774187 2774228 These were taken by<br />a video surveillance camera...
+2774229 2775688 These were taken by<br />a video surveillance camera...
+2775772 2779317 at the West Highland Police Station<br />in 1984.
+2780735 2782820 He killed 17 police officers<br />that night.
+2785156 2787199 Men with families...
+2788785 2789619 children.
+2789619 2790202 Children.
+2791830 2794207 These were taken at a mall<br />in Reseda...
+2794291 2794666 today.
+2794666 2796501 Today.
+2797669 2799671 Miss Connor, we know you know<br />who this guy is.
+2799671 2800880 Miss Connor, we know you know<br />who this guy is.
+2804301 2804718 I just sat here and told you<br />that your son is missing...
+2804718 2808054 I just sat here and told you<br />that your son is missing...
+2808138 2809764 that the foster parents<br />have been murdered.
+2809764 2810973 That the foster parents<br />have been murdered.
+2811057 2812808 We know this guy's involved.
+2813852 2814769 Doesn't that mean anything to you?<br />Don't you care?
+2814769 2817188 Doesn't that mean anything to you?<br />Don't you care?
+2822068 2824862 We're wasting our time.<br />Let's go.
+2824863 2825738 We're wasting our time.<br />Let's go.
+2825822 2828366 Sorry, guys.
+2828450 2829868 She's grown more disconnected<br />from reality as time goes on.
+2829868 2832745 She's grown more disconnected<br />from reality as time goes on.
+2832829 2834914 I'm afraid she can't help us now.
+2834914 2835039 I'm afraid she can't help us now.
+2835123 2838334 If she clears at all and can<br />give us anything, I'll call you.
+2838418 2839919 Sure.
+2839919 2840044 Sure.
+2840128 2843089 Douglas, take her back to her room.
+2843173 2844340 Yes, sir.
+2845884 2848011 Come on, sweetheart. Let's go.
+2848219 2850012 You see...
+2850013 2850138 You see...
+2850221 2853432 we spent a lot of time in Nicaragua<br />and places like that.
+2854684 2855017 For a while there, she was with<br />this crazy ex-Green Beret guy...
+2855018 2859022 For a while there, she was with<br />this crazy ex-Green Beret guy...
+2859105 2860064 running guns.
+2860065 2860482 Running guns.
+2860565 2863484 Then there were some other guys.
+2863568 2865111 She'd shack up with anybody<br />she could learn from...
+2865111 2865569 She'd shack up with anybody<br />she could learn from...
+2865653 2868906 so she could teach me how to be<br />this great military leader.
+2870658 2872660 Then she gets busted.
+2872744 2875163 It's like, “Sorry, kid, your mom's<br />a psycho. Didn't you know?”
+2875163 2876372 It's like, “Sorry, kid, your mom's<br />a psycho. Didn't you know?”
+2878583 2880167 Like everything I've been brought up<br />to believe is all made-up bullshit.
+2880168 2882503 Like everything I've been brought up<br />to believe is all made-up bullshit.
+2882587 2884422 I hated her for that.
+2888593 2890261 But everything she said was true.
+2890261 2891136 But everything she said was true.
+2892430 2894390 She knew...
+2896559 2898644 and nobody believed her...
+2900397 2902315 not even me.
+2904275 2905359 Listen. We gotta get her<br />out of there.
+2905360 2906152 Listen. We gotta get her<br />out of there.
+2906236 2909614 Negative. The T-1000's highest<br />probability for success now...
+2909697 2910364 will be to copy Sarah Connor and wait<br />for you to make contact with her.
+2910365 2912742 Will be to copy Sarah Connor and wait<br />for you to make contact with her.
+2912826 2914911 Great. What happens to her?
+2914994 2915411 Typically, the subject being copied<br />is terminated.
+2915412 2917872 Typically, the subject being copied<br />is terminated.
+2917956 2920416 Shit! Why didn't you tell me?<br />We gotta go right now!
+2920417 2921209 Shit! Why didn't you tell me?<br />We gotta go right now!
+2921292 2923377 Negative.<br />It's not a mission priority.
+2923461 2925463 Fuck you!<br />She's a priority to me!
+2925463 2925629 Fuck you!<br />She's a priority to me!
+2927465 2930509 Goddamn it!<br />What's your problem? Help!
+2930510 2931469 Goddamn it!<br />What's your problem? Help!
+2931553 2933346 This does not help our mission.
+2933430 2935515 Get this psycho off of me!<br />Help!
+2935515 2935890 Get this psycho off of me!<br />Help!
+2935974 2939018 I'm being kidnapped!<br />Get this psycho off of me!
+2939102 2940144 Let me go!
+2944691 2945608 Why did you do that?
+2945608 2946483 Why did you do that?
+2946568 2948486 Because you told me to.
+2951322 2952740 What?
+2957787 2959747 You have to do what I say?
+2959831 2960665 That's one of my mission parameters.
+2960665 2962041 That's one of my mission parameters.
+2963334 2965711 Prove it.<br />Stand on one foot.
+2965712 2966462 Prove it.<br />Stand on one foot.
+2969340 2970382 Yes!
+2972594 2975763 Cool. My own Terminator. Wow.
+2975763 2976180 Cool. My own Terminator. Wow.
+2977682 2978933 You okay, kid?
+2979017 2980393 Take a hike, bozo.
+2980477 2980810 Let's get outta here, man.
+2980810 2983062 Let's get outta here, man.
+2983146 2985022 Fuck you, you little dipshit!
+2985815 2987233 Dipshit?
+2989402 2990861 Put your leg down.
+2990862 2991529 Put your leg down.
+2991613 2995908 - Did you call <i>moi</i> a dipshit?<br />- Just trying to help this punk.
+2995909 2996451 - Did you call <i>moi</i> a dipshit?<br />- Just trying to help this punk.
+2996534 2998869 Grab this guy.
+3000038 3000913 Get him off of me!
+3000914 3001664 Get him off of me!
+3001748 3003833 Now who's the dipshit...
+3003917 3005710 you jock douche bag?
+3014802 3016011 Put the gun down now!
+3016012 3017263 Put the gun down now!
+3017347 3020558 - Get outta here!<br />- Come on. Let's split!
+3027524 3029442 You were gonna kill that guy!
+3029526 3031110 Of course. I'm a Terminator.
+3031110 3031693 Of course. I'm a Terminator.
+3033905 3036157 Listen to me very carefully, okay?
+3036157 3036532 Listen to me very carefully, okay?
+3036616 3039952 You're not a Terminator anymore,<br />all right?
+3040036 3041162 You got that?
+3041162 3042454 You got that?
+3042539 3044791 You just can’t go around<br />killing people.
+3044874 3045916 Why?
+3046918 3049045 What do you mean, why?<br />"Cause you can't.
+3050129 3051255 Because you just can't.<br />Trust me on this.
+3051256 3052924 Because you just can't.<br />Trust me on this.
+3058972 3061307 Look. I’m gonna go get my mom.
+3061307 3062433 Look. I’m gonna go get my mom.
+3062517 3065353 I order you to help me.
+3212917 3215336 You have a Sarah Connor here?
+3215420 3217088 You're runnin' kind of late.
+3217171 3217254 They've been in there for an hour.
+3217255 3219548 They've been in there for an hour.
+3219632 3222051 Hold on a second.<br />I'll buzz you in.
+3223886 3227306 Oh, here come your friends now.
+3227306 3227764 Oh, here come your friends now.
+3289494 3292705 - Gwen, you want some coffee?<br />- No, thanks.
+3292705 3292913 - Gwen, you want some coffee?<br />- No, thanks.
+3292997 3296041 - How 'bout a beer?<br />- Yeah, right.
+3319857 3322901 - Hey, I got a full house.<br />- That's good, Louis.
+3322902 3323152 - Hey, I got a full house.<br />- That's good, Louis.
+3323236 3325488 Must be my lucky day.
+3468339 3468797 You're right about number 24.
+3468798 3470800 You're right about number 24.
+3470883 3473844 Increase the medication<br />to 250 milligrams.
+3473844 3473885 Increase the medication<br />to 250 milligrams.
+3473970 3476847 - Same kind?<br />- Mm-hmm.
+3491570 3493947 You!
+3493948 3493989 You!
+3496492 3498410 You broke my arm.
+3498494 3498994 There are 215 bones<br />in the human body.
+3498995 3501288 There are 215 bones<br />in the human body.
+3501372 3503957 That's one. Now, don't move.
+3509922 3511632 What are you going to do?
+3515136 3517221 Why do we stop now?
+3518514 3519097 You gotta promise me<br />you're not gonna kill anyone, right?
+3519098 3522309 You gotta promise me<br />you're not gonna kill anyone, right?
+3522393 3524144 - Right.<br />- Swear?
+3524145 3524979 - Right.<br />- Swear?
+3525062 3526563 What?
+3526647 3529191 Just put up your hand and say,<br />“I swear I won't kill anyone.”
+3529191 3529733 Just put up your hand and say,<br />“I swear I won't kill anyone.”
+3530860 3533654 I swear I will not kill anyone.
+3533738 3534196 All right. Let's go.
+3534196 3534905 All right. Let's go.
+3541912 3543914 Visiting hours is 10:00 to 4100...
+3543998 3544248 Monday through Friday.
+3544248 3546250 Monday through Friday.
+3549962 3551171 What are you doing?
+3551255 3553882 You son of a bitch!<br />You shot me!
+3555676 3556968 Crazy bastard!
+3561265 3563558 Don't shoot me again.<br />Don't kill me.
+3567104 3569064 He'll live.
+3583537 3584496 Son of a bitch!
+3584497 3585664 Son of a bitch!
+3587166 3588458 Let's try to remain calm.
+3588542 3589543 Open it, or he'll be dead<br />before he hits the floor.
+3589543 3590460 Open it, or he'll be dead<br />before he hits the floor.
+3590544 3592587 There's no way, Connor.<br />Let him go.
+3592671 3594589 - Open the door.<br />- It ain't gonna happen.
+3594590 3595215 - Open the door.<br />- It ain't gonna happen.
+3595299 3597134 Take it easy, Sarah.
+3597218 3599595 It won't work. You're no killer.<br />I don't believe you can do it.
+3599595 3600345 It won't work. You're no killer.<br />I don't believe you can do it.
+3600429 3603390 You're already dead. Everybody dies.<br />You know I believe it.
+3603474 3604641 So don't fuck with me!
+3604642 3605517 So don't fuck with me!
+3605601 3607311 Open the door!
+3614151 3614693 Back off!
+3614693 3615777 Back off!
+3615861 3617279 Get back!
+3617363 3619323 I'll pump him full of this shit.<br />I swear!
+3620658 3622701 Don't move!
+3623869 3624744 Drop the shit!
+3624745 3625036 Drop the shit!
+3625121 3626997 Do it!
+3627081 3628999 Get in the office.
+3629083 3629792 On the floor, face down.<br />Not you!
+3629792 3631126 On the floor, face down.<br />Not you!
+3631210 3632878 Open the door.
+3635756 3639176 On the floor. Hold it open.<br />Face the wall!
+3655192 3657027 Get her!
+3684722 3685139 Hurry up! Open the door!<br />The door's locked!
+3685139 3687724 Hurry up! Open the door!<br />The door's locked!
+3688809 3690143 Let's go! Open it!
+3690144 3690686 Let's go! Open it!
+3693147 3695107 - She broke it off.<br />- Open it!
+3700529 3702864 Let's go around! Come on!<br />Move it!
+3735022 3735439 Mom, wait!
+3735439 3736106 Mom, wait!
+3742947 3743948 Come back here!
+3748577 3750203 - Help her!<br />- Wait here.
+3750287 3750537 - Hurry up!<br />- He'll kill us all!
+3750537 3752872 - Hurry up!<br />- He'll kill us all!
+3754166 3755417 Hold her.
+3756961 3758128 He'll kill us all!
+3780317 3780734 Mom, are you okay? Mom!
+3780734 3782652 Mom, are you okay? Mom!
+3787116 3789535 Come with me<br />if you want to live.
+3789618 3790785 It's okay, Mom.<br />He's here to help.
+3790786 3792162 It's okay, Mom.<br />He's here to help.
+3816854 3817896 Go.
+3850262 3851137 What the fuck is it?<br />What the fuck is going on?
+3851138 3852764 What the fuck is it?<br />What the fuck is going on?
+3867571 3869406 Get down.
+3905359 3906485 Out of the car!
+3906485 3906902 Out of the car!
+3908278 3909445 Right now!
+3933929 3934971 Go!
+3946233 3946733 I’m out.
+3946733 3947442 I’m out.
+3954241 3956159 - Come on.<br />- Here.
+3958662 3960789 Reload.
+3969715 3971675 Last one!
+3978891 3980475 Hang on.
+4006668 4007126 Ready!
+4007127 4008211 Ready!
+4021934 4022184 Here, drive.
+4022184 4023852 Here, drive.
+4077072 4077530 He's not back there.<br />There's nobody behind us.
+4077531 4079282 He's not back there.<br />There's nobody behind us.
+4079366 4081451 - Are you all right?<br />- Yeah.
+4083787 4084954 Can you see anything?
+4086123 4087457 I see everything.
+4090335 4091961 Cool.
+4095549 4097425 Come here.
+4103223 4104974 I said I was okay.
+4105767 4107727 John, it was stupid of you<br />to go there.
+4107728 4108937 John, it was stupid of you<br />to go there.
+4109813 4112148 You have to be smarter<br />than that.
+4112232 4112774 You were almost killed.
+4112774 4113816 You were almost killed.
+4114985 4116820 What were you thinking?
+4117654 4117779 You cannot risk yourself,<br />even for me.
+4117779 4120239 You cannot risk yourself,<br />even for me.
+4120324 4122826 Do you understand?<br />You're too important.
+4122826 4123535 Do you understand?<br />You're too important.
+4123619 4126288 Do you understand?
+4129166 4130292 But...
+4132169 4132878 I had to get you out of that place.<br />I'm sorry.
+4132878 4135672 I had to get you out of that place.<br />I'm sorry.
+4136923 4137924 I didn't need your help.<br />I can take care of myself.
+4137924 4139300 I didn't need your help.<br />I can take care of myself.
+4146516 4147975 What's wrong with your eyes?
+4147976 4148142 What's wrong with your eyes?
+4150103 4151521 Nothing.
+4161448 4163074 So, what's your story?
+4163075 4163909 So, what's your story?
+4174461 4175545 You okay?
+4175629 4177047 Fine.
+4178882 4182218 Say, that's a nice bike.
+4204700 4206410 Watch it, lug nuts.
+4213917 4217337 Listen, do you know<br />what you're doing?
+4217421 4220215 I have detailed files<br />on human anatomy.
+4221133 4222342 I bet.
+4222342 4223092 I bet.
+4223176 4226179 Makes you a more efficient killer,<br />right?
+4226263 4227389 Correct.
+4233437 4233562 Does it hurt<br />when you get shot?
+4233562 4235438 Does it hurt<br />when you get shot?
+4236481 4238691 I sense injuries.<br />The data could be called “pain.”
+4238692 4239943 I sense injuries.<br />The data could be called “pain.”
+4242279 4243780 John, help me with the light.
+4243780 4244197 John, help me with the light.
+4244281 4246574 - Will these heal up?<br />- Yes.
+4246658 4248910 Good. If you can't pass for human,<br />you're not much good to us.
+4248910 4250870 Good. If you can't pass for human,<br />you're not much good to us.
+4250954 4253665 How long do you live?<br />I mean, last. Whatever.
+4253749 4253999 A hundred and twenty years<br />with my existing power cell.
+4253999 4257043 A hundred and twenty years<br />with my existing power cell.
+4257127 4259129 Can you learn stuff that you<br />haven't been programmed with...
+4259129 4260046 Can you learn stuff that you<br />haven't been programmed with...
+4260130 4261548 SO you can be...
+4262799 4264217 you know, more human...
+4264217 4265509 you know, more human...
+4265594 4268305 and not such a dork<br />all the time?
+4271475 4274436 My CPU is a neural net processor,<br />a learning computer.
+4274436 4275019 My CPU is a neural net processor,<br />a learning computer.
+4275103 4279440 But Skynet presets the switch<br />to read-only when we're sent out alone.
+4280817 4283236 Doesn't want you to do<br />too much thinking, huh?
+4283320 4284654 No.
+4286198 4288491 Can we reset the switch?
+4306510 4310180 Rotate the two locking cylinders<br />counterclockwise.
+4310180 4310972 Rotate the two locking cylinders<br />counterclockwise.
+4316853 4318354 Do it.
+4326655 4328990 Now open the port cover.
+4331535 4334079 Pull to break the seal.
+4337207 4340793 Good, now remove<br />the shock-damping assembly.
+4340794 4341211 Good, now remove<br />the shock-damping assembly.
+4344756 4345923 You can now access the CPU.
+4345924 4347926 You can now access the CPU.
+4348009 4350386 - Do you see it?<br />- Yes.
+4350470 4351012 Hold the CPU by its base tab.
+4351012 4354390 Hold the CPU by its base tab.
+4354474 4355892 Pull.
+4393263 4394973 Do you see the pin switch?
+4395056 4396932 No! No!
+4397934 4400561 - Out of my way, John.<br />- Don't kill him.
+4400645 4402104 It, John, not him.<br />It.
+4402105 4403940 It, John, not him.<br />It.
+4404024 4407193 Okay, it.<br />But we need it.
+4407193 4407484 Okay, it.<br />But we need it.
+4407569 4410196 Listen to me.<br />You listen.
+4410280 4412323 We're better off on our own.
+4412324 4412407 We're better off on our own.
+4412490 4414283 But he's the only proof we have...
+4414367 4416869 of the future and the war<br />and all that.
+4416953 4417411 Maybe.
+4417412 4418329 Maybe.
+4420957 4422500 I don't trust it.
+4422500 4423000 I don't trust it.
+4423084 4424794 But he's my friend, all right?
+4425629 4427631 You don't know what it's like<br />to try to kill one of these things...
+4427631 4428381 You don't know what it's like<br />to try to kill one of these things...
+4428465 4432051 and if something goes wrong<br />this could be our last chance, so move!
+4432135 4432718 If I'm ever supposed to be<br />this great military leader...
+4432719 4434220 If I'm ever supposed to be<br />this great military leader...
+4434304 4437849 maybe you should start listening<br />to my leadership ideas once in a while.
+4437849 4438140 Maybe you should start listening<br />to my leadership ideas once in a while.
+4441144 4442937 Because if my own mother won't,<br />how do you expect anyone else to?
+4442938 4445774 Because if my own mother won't,<br />how do you expect anyone else to?
+4459996 4463040 All right, play it your way.
+4470507 4472550 Was there a problem?
+4472634 4473593 No problem.
+4473593 4474135 No problem.
+4475845 4477054 None whatsoever.
+4510714 4512632 Are we learning yet?
+4525061 4525978 We have to get as far away<br />from the city as possible.
+4525979 4528022 We have to get as far away<br />from the city as possible.
+4531735 4533361 Just head south.
+4542120 4543704 Keep it under 65.
+4543788 4546791 - We don't want to be pulled over.<br />- Affirmative.
+4550003 4552463 You gotta listen to the way<br />people talk.
+4552464 4552505 You gotta listen to the way<br />people talk.
+4552589 4556092 You don't say “affirmative”<br />or some shit like that.
+4556176 4557760 You say, <i>“No problemo.”</i>
+4557761 4558511 You say, <i>“No problemo.”</i>
+4558595 4562515 If someone comes off to you<br />with an attitude, you say, “Eat me.”
+4562599 4563057 And if you want to shine them on,<br />it's “l-last a <i>la</i> vista, baby.”
+4563058 4566895 And if you want to shine them on,<br />it's <i>“Hasta la vista,</i> baby.”
+4570106 4572233 Yeah, or “Later, dick-wad.”
+4572317 4573651 If someone gets upset,<br />you say, “Chill out.”
+4573651 4575361 If someone gets upset,<br />you say, “Chill out.”
+4575445 4576821 Or you can do combinations.
+4577614 4578948 Chill out, dick-wad.
+4578948 4579907 Chill out, dick-wad.
+4580742 4582744 That's great.<br />See? You're getting it.
+4594964 4596840 You got any cash?
+4596925 4600178 I got a couple hundred bucks.<br />I'll give you half.
+4600178 4600469 I got a couple hundred bucks.<br />I'll give you half.
+4600553 4602221 Mom!
+4603389 4605391 Get some food.
+4607393 4609812 No sense of humor.
+4615235 4616152 That's another thing.<br />You can lighten up a bit yourself.
+4616152 4618821 That's another thing.<br />You can lighten up a bit yourself.
+4619739 4621490 This severe routine<br />is getting old, okay.
+4621491 4621908 This severe routine<br />is getting old, okay.
+4621991 4623826 I mean, you're acting<br />like such a geek.
+4623910 4625912 Smile once in a while.
+4625995 4626829 Smile?
+4626830 4627330 Smile?
+4627413 4631333 Yeah, you know, smile.<br />Watch.
+4632335 4636047 Hi. Nice place you got here.<br />How's business?
+4637006 4637464 Give me a break.
+4637465 4638841 Give me a break.
+4639759 4641761 Okay, bad example.
+4642887 4644555 See that guy over there?
+4644639 4646515 That's a smile.
+4665869 4667328 That's good.
+4667412 4669455 Maybe you could practice<br />in front of a mirror or something.
+4669455 4670372 Maybe you could practice<br />in front of a mirror or something.
+4677630 4679548 Want some of my fries?
+4689559 4690768 - Need any help?<br />- No.
+4690768 4692019 - Need any help?<br />- No.
+4693438 4695189 - I got you!<br />- No, you didn't!
+4703531 4706534 We're not gonna make it, are we?
+4708578 4709787 People, I mean.
+4712957 4714792 It's in your nature<br />to destroy yourselves.
+4715877 4717420 Yeah. Major drag, huh?
+4717420 4718796 Yeah. Major drag, huh?
+4718880 4722133 Break it up before I wring<br />both of your necks.
+4723927 4727013 I need to know<br />how Skynet gets built.
+4727096 4728055 Who's responsible?
+4728056 4728347 Who's responsible?
+4728431 4731976 The man most directly responsible<br />is Miles Bennett Dyson.
+4732060 4733394 Who is that?
+4733394 4733769 Who is that?
+4733853 4737773 He's the director of special projects<br />at Cyberdyne Systems Corporation.
+4740568 4742319 Why him?
+4742403 4744071 In a few months, he creates<br />a revolutionary type of microprocessor.
+4744072 4745782 In a few months, he creates<br />a revolutionary type of microprocessor.
+4746824 4748158 Go on. Then what?
+4749285 4749410 In three years Cyberdyne will become<br />the largest supplier...
+4749410 4752204 In three years Cyberdyne will become<br />the largest supplier...
+4752288 4753664 of military computer systems.
+4754749 4757668 All Stealth bombers are upgraded<br />with Cyberdyne computers...
+4757752 4759211 becoming fully unmanned.
+4759295 4760045 Afterwards they fly with<br />a perfect operational record.
+4760046 4762339 Afterwards they fly with<br />a perfect operational record.
+4762423 4765050 The Skynet funding bill is passed.
+4765134 4765384 The system goes on-line<br />on August 4, 1997.
+4765385 4768429 The system goes on-line<br />on August 4, 1997.
+4768513 4770723 Human decisions are removed<br />from strategic defense.
+4770723 4771682 Human decisions are removed<br />from strategic defense.
+4771766 4774477 Skynet begins to learn<br />at a geometric rate.
+4774560 4776061 It becomes self-aware<br />at 2:14 a.m. Eastern time, August 29.
+4776062 4778856 It becomes self-aware<br />at 2:14 a.m. Eastern time, August 29.
+4779941 4781400 In a panic,<br />they try to pull the plug.
+4781401 4782527 In a panic,<br />they try to pull the plug.
+4783653 4785905 - Skynet fights back.<br />- Yes.
+4785989 4786739 It launches its missiles<br />against the targets in Russia.
+4786739 4788741 It launches its missiles<br />against the targets in Russia.
+4788825 4791869 Why attack Russia?<br />Aren't they our friends now?
+4791953 4792036 Skynet knows the Russian counterattack<br />will eliminate its enemies over here.
+4792036 4796331 Skynet knows the Russian counterattack<br />will eliminate its enemies over here.
+4796416 4797375 Jesus.
+4797375 4798501 Jesus.
+4800670 4802505 How much do you know<br />about Dyson?
+4804757 4806675 I have detailed files.
+4807885 4809845 I want to know everything.
+4811055 4813015 What he looks like,<br />where he lives, everything.
+4813016 4815143 What he looks like,<br />where he lives, everything.
+4826779 4828197 Miles.
+4830616 4832576 <i>Miles.</i>
+4850470 4852221 Are you going to work all day?
+4852305 4854265 I’m sorry, baby.<br />But this thing is just kicking my ass.
+4854265 4856183 I’m sorry, baby.<br />But this thing is just kicking my ass.
+4856267 4857559 Miles, it's Sunday.
+4857643 4859436 You promised to take the kids<br />to Raging Waters today.
+4859437 4860396 You promised to take the kids<br />to Raging Waters today.
+4861981 4863482 I can't...
+4864150 4864608 I'm on a roll.
+4864609 4865860 I'm on a roll.
+4878706 4880040 Baby, this is going<br />to blow them all away.
+4880041 4880916 Baby, this is going<br />to blow them all away.
+4881000 4884086 - It's a neural net processor.<br />- I know. You told me.
+4884170 4885212 It's a neural net processor.<br />It thinks and learns like we do.
+4885213 4887340 It's a neural net processor.<br />It thinks and learns like we do.
+4887423 4890092 It's superconducting<br />at room temperature.
+4890176 4890384 Other computers are just<br />pocket calculators by comparison.
+4890385 4894430 Other computers are just<br />pocket calculators by comparison.
+4896349 4898601 But why is that<br />so goddamn important, Miles?
+4898684 4900018 I really need to know...
+4900103 4900686 because sometimes I feel<br />like I'm going crazy here.
+4900686 4903188 because sometimes I feel<br />like I'm going crazy here.
+4904857 4905858 Baby, I am this close.
+4905858 4906859 Baby, I am this close.
+4907944 4908986 Come here.
+4911614 4914116 Imagine a jet airliner...
+4914200 4916160 with a pilot that never gets tired,<br />never makes mistakes...
+4916160 4916869 with a pilot that never gets tired,<br />never makes mistakes...
+4916953 4918829 never shows up to work<br />with a hangover.
+4921207 4921290 Meet the pilot.
+4921290 4923625 Meet the pilot.
+4923709 4926461 Why did we get married, Miles?<br />Why did we have these children?
+4926462 4926795 Why did we get married, Miles?<br />Why did we have these children?
+4926879 4927921 You don't need us.
+4928005 4931425 Your heart and your mind<br />are in here.
+4931509 4931634 But it doesn't love you<br />like we do.
+4931634 4934386 But it doesn't love you<br />like we do.
+4942562 4945189 I'm sorry. Really.
+4945273 4947108 How about spending some time<br />with your other babies?
+4947108 4949527 How about spending some time<br />with your other babies?
+4952196 4952237 <i>Raging Waters!</i>
+4952238 4954031 <i>Raging Waters!</i>
+4983686 4985646 Wait in the car.
+5023851 5024726 You're pretty jumpy, Connor.
+5024727 5025686 You're pretty jumpy, Connor.
+5046457 5048208 Hey, big John.
+5048834 5049960 What's up?
+5051295 5053547 He's cool, Enrique.<br />He's with me.
+5053631 5055841 He's... Uncle Bob.
+5055841 5056800 He's... Uncle Bob.
+5056884 5059094 Uncle Bob, this is Enrique.
+5059178 5060929 Uncle Bob, huh?
+5062014 5063265 Okay.
+5070273 5071315 Drink?
+5076654 5078072 “Uncle Bob”?
+5080074 5081825 You're pretty famous,<br />all over the goddamn TV.
+5081826 5082868 You're pretty famous,<br />all over the goddamn TV.
+5082952 5085621 Pictures of you, John,<br />your big friend here.
+5085705 5086997 Cops are going nuts<br />looking for you.
+5086998 5087665 Cops are going nuts<br />looking for you.
+5091586 5092169 I just came for my stuff.<br />I need clothes, food and a truck.
+5092169 5095547 I just came for my stuff.<br />I need clothes, food and a truck.
+5095631 5097382 How about the fillings in my teeth?
+5097383 5097674 How about the fillings in my teeth?
+5097758 5099926 Now, Enrique.
+5101262 5102554 You two,<br />you're on weapons detail.
+5102555 5103472 You two,<br />you're on weapons detail.
+5103556 5105224 Let's go.
+5125828 5127746 One thing about my mom-—
+5130041 5132001 she always plans ahead.
+5142678 5143887 Excellent.
+5154523 5154606 This is my best truck,<br />but the starter motor's gone.
+5154607 5158193 This is my best truck,<br />but the starter motor's gone.
+5158277 5159861 You got time to change it out?
+5159862 5160195 You got time to change it out?
+5160279 5163615 Yeah. I'm gonna wait till dark<br />to cross the border.
+5163699 5165117 Enrique.
+5165117 5165200 Enrique.
+5165284 5168912 It's dangerous for you here.<br />You get out tonight too, okay?
+5168996 5170372 Sure.
+5170373 5171457 Sure.
+5171540 5175335 Just drop by anytime<br />and totally fuck up my life, all right?
+5179757 5180924 See, I grew up in places like this...
+5180925 5183218 See, I grew up in places like this...
+5183302 5185721 so I just thought<br />that's how people lived—
+5187056 5189767 Riding around in helicopters...
+5190851 5191434 learning how to blow shit up.
+5191435 5193061 learning how to blow shit up.
+5194563 5196690 But then when my mom got busted...
+5196691 5197233 But then when my mom got busted...
+5197316 5199693 I got put into a regular school.
+5200361 5201945 All the other kids<br />were into Nintendo.
+5201946 5203113 All the other kids<br />were into Nintendo.
+5217378 5217711 Are you ever afraid?
+5217712 5219505 Are you ever afraid?
+5219588 5220880 No.
+5224760 5226553 Not even of dying?
+5227096 5228222 No.
+5228222 5229056 No.
+5233394 5233477 You don't feel any emotion about it,<br />one way or another?
+5233477 5237647 You don't feel any emotion about it,<br />one way or another?
+5237732 5238733 No. I have to stay functional<br />until my mission is complete.
+5238733 5241694 No. I have to stay functional<br />until my mission is complete.
+5246699 5249243 Then it doesn't matter.
+5249243 5249826 Then it doesn't matter.
+5249910 5253622 I have to stay functional too.<br />“I'm too important.”
+5269889 5270306 That's definitely you.
+5270306 5271765 That's definitely you.
+5282318 5285779 Most of the guys my mom<br />hung around with were geeks...
+5286155 5289658 but there was this one guy,<br />he was kinda cool.
+5289742 5291160 He taught me engines.
+5291160 5291660 He taught me engines.
+5291744 5293912 Hold here.
+5293996 5296248 Mom screwed it up, of course.
+5296248 5296414 Mom screwed it up, of course.
+5296499 5298918 She'd always tell 'em<br />about Judgment Day...
+5299001 5301294 and me being this world leader.
+5301295 5301795 And me being this world leader.
+5301879 5303839 That'd be all she wrote.
+5305174 5306300 Torque wrench, please.
+5309845 5311471 I wish I could've met<br />my real dad.
+5311472 5313056 I wish I could've met<br />my real dad.
+5313140 5314891 You will.
+5314975 5316559 Yeah, I guess.
+5316560 5317143 Yeah, I guess.
+5317228 5321065 When I'm, like, 45, I think.
+5321148 5321648 They sent him back through time<br />to 1984.
+5321649 5324860 They sent him back through time<br />to 1984.
+5324944 5326362 Man.
+5327905 5330365 He hasn't even been born yet.
+5332159 5334077 It messes with your head.
+5336831 5336872 - The other bolt.<br />- Oh. Here.
+5336872 5339749 - The other bolt.<br />- Oh. Here.
+5346090 5347049 Mom and him were only together<br />for one night.
+5347049 5349634 Mom and him were only together<br />for one night.
+5349718 5352095 She still loves him, I guess.
+5352096 5352179 She still loves him, I guess.
+5352263 5355140 I see her crying sometimes.
+5355224 5357184 She denies it totally, of course,<br />like she got something stuck in her eye.
+5357184 5359227 She denies it totally, of course,<br />like she got something stuck in her eye.
+5364191 5365734 Why do you cry?
+5366819 5367361 - You mean people?<br />- Yeah.
+5367361 5368320 - You mean people?<br />- Yeah.
+5368404 5369780 I don't know.
+5369864 5371949 We just cry...
+5372032 5372449 you know, when it hurts.
+5372449 5374576 You know, when it hurts.
+5380666 5382417 Pain causes it?
+5383502 5385629 No. It's different.
+5385713 5387673 It's when there's nothing wrong<br />with you, but you hurt anyway.
+5387673 5389007 It's when there's nothing wrong<br />with you, but you hurt anyway.
+5389091 5390675 -You get it?<br />- No.
+5391927 5392761 All right, my man!
+5392761 5393636 All right, my man!
+5395472 5397098 Give me five.
+5399143 5401270 Just put out your hand<br />like this.
+5402605 5402896 All right! Now hit me.<br />Give me five. Do the same thing.
+5402897 5406942 All right! Now hit me.<br />Give me five. Do the same thing.
+5411655 5413073 Okay, that's good.<br />Up high.
+5413073 5414115 Okay, that's good.<br />Up high.
+5415117 5416368 Five low.
+5416452 5418120 Too slow.
+5421123 5423208 I'm just kidding.<br />One more time.
+5423208 5423374 I'm just kidding.<br />One more time.
+5423459 5425669 Good. Now try it.
+5425753 5427713 Now do me.<br />Give me five.
+5429173 5433385 <i>Watching John with the machine,<br />it was suddenly so clear.</i>
+5433385 5433718 <i>Watching John with the machine,<br />it was suddenly so clear.</i>
+5433802 5436721 <i>The Terminator would never stop.</i>
+5436805 5438473 <i>It would never leave him,<br />never hurt him...</i>
+5438474 5440767 <i>It would never leave him,<br />never hurt him...</i>
+5440851 5443562 <i>never shout at him<br />or get drunk and hit him...</i>
+5443562 5444271 <i>never shout at him<br />or get drunk and hit him...</i>
+5444355 5446940 <i>or be too busy<br />to spend time with him.</i>
+5447816 5448608 <i>It would always be there...</i>
+5448609 5449901 <i>It would always be there...</i>
+5449985 5452654 <i>and it would die<br />to protect him.</i>
+5454073 5457409 <i>Of all the would-be fathers<br />who came and went over the years...</i>
+5457493 5458785 <i>this thing, this machine...</i>
+5458786 5459536 <i>this thing, this machine...</i>
+5459620 5461997 <i>was the only one<br />who measured up.</i>
+5462748 5463874 <i>In an insane world...</i>
+5463874 5464583 <i>In an insane world...</i>
+5464667 5466627 <i>it was the sanest choice.</i>
+5564391 5565475 Hey, let's try this one.
+5565476 5566351 Hey, let's try this one.
+5571982 5574150 There we go.
+5680257 5682300 She said go south with him<br />like you planned.
+5682301 5682759 She said go south with him<br />like you planned.
+5682843 5685053 - She'll meet you tomorrow.<br />- Mom!
+5686847 5687389 Mom, wait!
+5687389 5688014 Mom, wait!
+5703280 5704739 “No fate.”
+5705949 5707700 No fate but what we make.
+5707701 5708410 No fate but what we make.
+5710537 5712539 My father told her this.
+5715083 5717877 I made him memorize it in the future<br />as a message to her.
+5717878 5719379 I made him memorize it in the future<br />as a message to her.
+5721048 5722924 Never mind.
+5722925 5722966 Never mind.
+5723050 5726386 Okay, the whole thing goes—
+5726470 5728013 The future's not set.
+5728013 5729180 The future's not set.
+5729264 5732767 There's no fate but what<br />we make for ourselves.
+5732851 5733101 She intends to change the future.
+5733101 5735853 She intends to change the future.
+5735938 5737397 Yeah, I guess.
+5738941 5740776 Oh, shit!
+5740859 5742777 - Dyson.<br />- Yeah.
+5742861 5743278 Gotta be. Miles Dyson.
+5743278 5746364 Gotta be. Miles Dyson.
+5746448 5748324 She's gonna blow him away.
+5748325 5748450 She's gonna blow him away.
+5748533 5750618 Come on! Let's go!
+5763006 5763589 This is tactically dangerous.
+5763590 5765049 This is tactically dangerous.
+5765133 5766259 Drive faster.
+5766343 5768678 The T-1000 has the same files<br />that I do.
+5768679 5768845 The T-1000 has the same files<br />that I do.
+5768929 5772349 It knows what I know.<br />It might anticipate this move.
+5772432 5773724 I don't care.<br />We gotta stop her.
+5773725 5774934 I don't care.<br />We gotta stop her.
+5775018 5776936 Killing Dyson<br />might prevent the war.
+5777020 5778813 I don't care!<br />Haven't you learned anything yet?
+5778814 5780524 I don't care!<br />Haven't you learned anything yet?
+5780607 5783693 Haven't you figured out<br />why you can't kill people?
+5786571 5789073 Look, maybe you don't care<br />if you live or die...
+5789157 5789490 but everybody's not like that.
+5789491 5791326 But everybody's not like that.
+5791410 5794996 We have feelings.<br />We hurt. We're afraid.
+5797499 5800710 You got to learn this stuff.<br />I'm not kidding. It's important.
+5800711 5801169 You got to learn this stuff.<br />I'm not kidding. It's important.
+5838832 5839916 Danny, I told you to go to bed,<br />like your sister.
+5839916 5841459 Danny, I told you to go to bed,<br />like your sister.
+5841543 5844921 Just a couple of minutes, Mom!
+5861063 5862355 Danny, your time is up!
+5862356 5863398 Danny, your time is up!
+5863482 5866401 Come brush your teeth<br />and get to bed.
+5908193 5908443 Daddy!
+5908443 5909527 Daddy!
+5909611 5912113 Danny, go! Go!
+5920080 5922499 - Tarissa, run!<br />- Oh, my God!
+5929589 5931632 Just take Danny and run!
+5931716 5932967 Run!
+5933051 5933760 Oh, Jesus! Miles!
+5933760 5934802 Oh, Jesus! Miles!
+5953697 5953988 Daddy!
+5953989 5954698 Daddy!
+5956408 5957867 Nobody fucking move!
+5958702 5959077 Don't hurt my daddy!
+5959077 5959952 Don't hurt my daddy!
+5960036 5961579 On the floor, bitch.
+5961663 5963831 Get down now!
+5964708 5965792 Get out of the way!
+5965876 5967335 Don't hurt him!
+5968837 5969170 Get on the floor now!
+5969171 5970839 Get on the floor now!
+5973884 5974259 Just let the boy go.
+5974259 5975593 Just let the boy go.
+5975677 5977261 Shut up. Shut up.
+5977345 5978637 Shut up!
+5978722 5979305 It's all your fault, motherfucker.
+5979306 5981308 It's all your fault, motherfucker.
+5981391 5983643 - It's all your fault!<br />- What?
+5983727 5984352 I'm not gonna let you do it.
+5984352 5985853 I'm not gonna let you do it.
+6037864 6039949 Shit! We're too late!
+6044454 6045121 Check them.
+6045121 6045579 Check them.
+6049251 6050168 Look at me, Mom.
+6050168 6051252 Look at me, Mom.
+6051336 6053546 Are you hurt?
+6057175 6059260 I almost—
+6070897 6073232 It'll be okay.
+6073316 6075276 We'll figure something out.<br />Okay?
+6076861 6078487 I promise.
+6081783 6084744 You came here to stop me.
+6085620 6087580 Yeah, I did.
+6090458 6090666 I love you, John.
+6090667 6092460 I love you, John.
+6094129 6095713 I always have.
+6097632 6099050 I know.
+6106057 6108267 Deep penetration.
+6109853 6110895 No shattered bone.
+6110895 6111770 No shattered bone.
+6111855 6114816 Hold here.<br />The pressure should stop the bleeding.
+6125577 6126119 Who are you people?
+6126119 6126994 Who are you people?
+6127954 6129372 Show him.
+6132042 6136212 Danny, I want you to come with me<br />right now. Show me your room.
+6176711 6177920 Oh, my God.
+6178004 6180673 Now listen to me<br />very carefully.
+6186554 6186845 <i>Dyson listened while the Terminator<br />laid it all down.</i>
+6186846 6190683 <i>Dyson listened while the Terminator<br />laid it all down.</i>
+6190767 6191893 <i>Skynet. Judgment Day.</i>
+6191893 6194645 <i>Skynet. Judgment Day.</i>
+6194729 6196981 <i>The history of things to come.</i>
+6196981 6197022 <i>The history of things to come.</i>
+6198441 6201193 <i>It's not every day that<br />you find out you're responsible...</i>
+6201277 6202027 <i>for three billion deaths.</i>
+6202028 6204113 <i>for three billion deaths.</i>
+6204197 6206115 <i>He took it pretty well.</i>
+6208118 6210578 I feel like I'm gonna throw up.
+6216584 6217209 You're judging me...
+6217210 6218711 You're judging me...
+6218795 6221255 on things I haven't even done yet.
+6225468 6227344 How were we supposed to know?
+6227345 6227595 How were we supposed to know?
+6230056 6232016 Yeah.
+6232100 6232391 Right.
+6232392 6234477 Right.
+6234561 6236688 How were you supposed to know?
+6237731 6241443 Fucking men like you<br />built the hydrogen bomb.
+6241526 6242527 Men like you...
+6242527 6244111 Men like you...
+6244195 6245613 thought it up.
+6249492 6251452 You think you're so creative.
+6252871 6255957 You don't know what it's like<br />to really create something...
+6256040 6257708 to create a life...
+6257709 6258167 to create a life...
+6258251 6259794 to feel it growing inside you.
+6259878 6262755 All you know how to create<br />is death and destruction.
+6262756 6262797 All you know how to create<br />is death and destruction.
+6262881 6264549 Mom!
+6264632 6267843 We need to be a little more<br />constructive here. Okay?
+6267844 6268386 We need to be a little more<br />constructive here. Okay?
+6268470 6270555 We still have to stop this<br />from happening, don't we?
+6270638 6272890 But I thought—
+6272891 6273474 But I thought—
+6273558 6277562 Aren't we changing things right now,<br />changing the way it goes?
+6277645 6277936 That's right. There's no way I'm going<br />to finish the new processor. Not now.
+6277937 6282437 That's right. There's no way I'm going<br />to finish the new processor. Not now.
+6282525 6283025 Forget it. I'm out of it.<br />I'll quit Cyberdyne tomorrow.
+6283026 6285987 Forget it. I'm out of it.<br />I'll quit Cyberdyne tomorrow.
+6286070 6287946 That's not good enough.
+6288031 6288072 No one must follow your work.
+6288072 6289948 No one must follow your work.
+6290033 6291909 Right.
+6291993 6293119 All right, then we have to destroy<br />all the stuff at the lab—
+6293119 6296330 All right, then we have to destroy<br />all the stuff at the lab—
+6296414 6297998 The files, the disk drives...
+6298082 6298207 everything here.
+6298208 6300710 everything here.
+6300794 6302879 Everything.
+6302962 6303253 I don't care.
+6303254 6304880 I don't care.
+6306174 6307175 The chip.
+6307258 6308342 - Do you know about the chip?<br />- What chip?
+6308343 6309344 - Do you know about the chip?<br />- What chip?
+6309427 6311846 It's at Cyberdyne.<br />It's from the other one like you.
+6311930 6313389 The CPU from the first Terminator.
+6313389 6314640 The CPU from the first Terminator.
+6314724 6317101 Son of a bitch!<br />I knew it!
+6317185 6318436 They told us not to ask<br />where they got it.
+6318436 6319895 They told us not to ask<br />where they got it.
+6319979 6322314 Those lying motherfuckers.
+6322398 6323524 It's scary stuff.<br />Radically advanced.
+6323525 6324192 It's scary stuff.<br />Radically advanced.
+6324275 6325401 It was smashed.
+6325485 6328571 It didn't work, but it gave us ideas,<br />took us in new directions.
+6328571 6329113 It didn't work, but it gave us ideas,<br />took us in new directions.
+6329197 6331199 Things we would've never—
+6333368 6333618 All my work was based on it.
+6333618 6335453 All my work was based on it.
+6335537 6337372 It must be destroyed.
+6339624 6342627 Can you get us in?<br />Past security?
+6342710 6343752 I think so, yeah. When?
+6343753 6344795 I think so, yeah. When?
+6349717 6350718 Now?
+6354639 6357683 <i>The future,<br />always so clear to me... </i>
+6357767 6358934 <i>had become like<br />a black highway at night.</i>
+6358935 6360770 <i>had become like<br />a black highway at night.</i>
+6360854 6363565 <i>We were in<br />uncharted territory now...</i>
+6363648 6364023 <i>making up history<br />as we went along.</i>
+6364023 6366567 <i>making up history<br />as we went along.</i>
+6404898 6406816 Carl, right?
+6408151 6409569 Friends from out of town.<br />I just thought I'd...
+6409569 6411571 Friends from out of town.<br />I just thought I'd...
+6411654 6413656 take 'em upstairs<br />and show 'em around.
+6413740 6414615 Mr. Dyson, you know the rules<br />concerning visitors in the lab.
+6414616 6417035 Mr. Dyson, you know the rules<br />concerning visitors in the lab.
+6417118 6419286 I need written authorization—
+6420330 6422332 I insist.
+6422415 6424166 Don't even think about it.
+6435136 6436595 It's okay.
+6438014 6439932 It takes two keys, turned<br />simultaneously, to open the vault.
+6439933 6441142 It takes two keys, turned<br />simultaneously, to open the vault.
+6441225 6444144 The other one is in a locker<br />at the security station.
+6445480 6446939 Gibbons?
+6449984 6450067 Gibbons! Come on, man!
+6450068 6451819 Gibbons! Come on, man!
+6451903 6454989 You can't leave the desk<br />like that!
+6459827 6460160 Oh, shit.
+6460161 6461328 Oh, shit.
+6478888 6480431 My card should access this.
+6480431 6480889 My card should access this.
+6485561 6487980 - What is it?<br />- Damnit.
+6488064 6490024 The silent alarm's been tripped.
+6496197 6498949 It's neutralized all the codes<br />in the entire building.
+6499033 6500659 Nothing will open anywhere now.
+6500660 6500951 Nothing will open anywhere now.
+6502036 6503871 We have to abort.
+6507083 6510503 We go all the way.<br />Okay?
+6512630 6515841 You guys get started on the lab.<br />I can open this.
+6515842 6516425 You guys get started on the lab.<br />I can open this.
+6516509 6518969 - I think it's that guy from the mall.<br />- It is.
+6519053 6520929 It's him and the woman.
+6520930 6520971 It's him and the woman.
+6522557 6525726 Just send everything<br />you got in the area right now.
+6527937 6531065 I have a personal entry code<br />for the lab. It may still work.
+6531065 6531398 I have a personal entry code<br />for the lab. It may still work.
+6535903 6536111 It's no good.
+6536112 6536946 It's no good.
+6537030 6538573 Let me try mine.
+6543536 6545621 John, fire in the hole!
+6557675 6561428 Wait! You can't go in there.<br />The fire set off the Halon system.
+6561429 6562471 Wait! You can't go in there.<br />The fire set off the Halon system.
+6569645 6571521 You have to wait<br />until the gas clears.
+6571522 6572105 You have to wait<br />until the gas clears.
+6574609 6575901 Put this on.
+6589874 6591792 All right, let's get to work.
+6591793 6592376 All right, let's get to work.
+6613564 6616858 <i>All units in the vicinity<br />and all units able to respond...</i>
+6616943 6618069 <i>a 211 in progress, 2144 Kramer Street,<br />the Cyberdyne building.</i>
+6618069 6621739 <i>a 211 in progress, 2144 Kramer Street,<br />the Cyberdyne building.</i>
+6621823 6623491 <i>Suspect one is white female...</i>
+6623574 6623615 <i>identified as last name Connor,<br />first name Sarah.</i>
+6623616 6627036 <i>identified as last name Connor,<br />first name Sarah.</i>
+6627120 6629163 <i>Escaped last night<br />from Pescadero State Hospital.</i>
+6629163 6630038 <i>Escaped last night<br />from Pescadero State Hospital.</i>
+6630123 6631999 <i>Suspect two: White male...</i>
+6635753 6637880 All the disks in my office...
+6637964 6640091 all the disks<br />in that office over there...
+6640174 6640257 everything behind my desk...
+6640258 6642176 everything behind my desk...
+6642260 6644512 and all the processors<br />on my left.
+6644595 6645804 <i>We'll blow those with the C4.</i>
+6645805 6647181 <i>We'll blow those with the C4.</i>
+6660778 6662488 Can I-
+6662488 6662821 Can I-
+6662905 6664698 Excuse me.
+6666367 6668035 Can I borrow that thing?
+6668035 6668994 Can I borrow that thing?
+6678129 6679130 I worked a lot of years on this thing.
+6679130 6680422 I worked a lot of years on this thing.
+6684594 6684677 <i>One-Mary-23,<br />give me that location again.</i>
+6684677 6686637 <i>One-Mary-23,<br />give me that location again.</i>
+6686721 6688472 <i>2111 Kramer.</i>
+6688556 6690224 <i>Suspects are armed and<br />considered extremely dangerous.</i>
+6690224 6691683 <i>Suspects are armed and<br />considered extremely dangerous.</i>
+6743945 6745738 All right.
+6745821 6746112 7-2-5-6.
+6746113 6747614 7-2-5-6.
+6754455 6755789 Easy money.
+6764882 6766258 Oh, shit. Not good.
+6766259 6767301 Oh, shit. Not good.
+6772390 6774016 How we doing?
+6774100 6775768 Primer cord is set.
+6775851 6776351 One more barrel,<br />two more minutes.
+6776352 6778312 One more barrel,<br />two more minutes.
+6782191 6785110 - How do we set them off?<br />- Remote control.
+6785194 6786403 Piece of cake.
+6786404 6787571 Piece of cake.
+6787655 6789198 - We got company.<br />- Police?
+6789282 6791450 - How many?<br />- All of 'em, I think.
+6791450 6792617 - How many?<br />- All of 'em, I think.
+6792702 6794120 Go. I'll finish here.
+6796080 6796497 Come on.
+6796497 6797498 Come on.
+6798582 6800500 I'll take care of the police.
+6800584 6801501 Wait! You swore!
+6801502 6801877 Wait! You swore!
+6804839 6806298 Trust me.
+6819562 6821188 <i>You at the window!</i>
+6821272 6821647 <i>Drop your weapon and place<br />your hands on top of your head!</i>
+6821647 6824733 <i>Drop your weapon and place<br />your hands on top of your head!</i>
+6826068 6826693 Holy shit!
+6826694 6827903 Holy shit!
+6827987 6829530 That's a mini-gun!
+6851761 6851886 - Come on!<br />- Oh, shit!
+6851886 6854096 - Come on!<br />- Oh, shit!
+6854180 6855723 Go! Go! Go!
+6903312 6904771 Fire!
+6922123 6922373 Same time, to the left.
+6922373 6923749 Same time, to the left.
+6923833 6926168 One, two, three, go.
+6938305 6941141 In order to get that out—
+6947940 6950692 We got Skynet by the balls now.
+6950776 6952486 Come on, let's book.
+6953404 6955322 Hold your fire!
+6980514 6982807 - Ready to rock?<br />- Ready.
+6982808 6983016 - Ready to rock?<br />- Ready.
+6985769 6987061 Time to go.
+6987146 6987855 Now.
+6987855 6988605 Now.
+6988689 6992234 - Take this. They'll use gas.<br />- Come on.
+6992318 6992860 Get started on the door.<br />Miles, hand me the detonator.
+6992860 6995404 Get started on the door.<br />Miles, hand me the detonator.
+7019678 7022430 Mom! Mom!
+7066809 7067935 Shit!
+7069353 7072272 She's in the clean room.<br />There's no way outta there.
+7081782 7082783 Get down!
+7090291 7091709 Here.
+7117234 7118777 I don't know how much longer<br />I can hold this.
+7118777 7120653 I don't know how much longer<br />I can hold this.
+7124825 7126326 Fall back!
+7126410 7127994 Everybody out!
+7128078 7128828 Fall back now!<br />Go! Go! Go!
+7128829 7129996 Fall back now!<br />Go! Go! Go!
+7165407 7167367 <i>We got a war zone here!</i>
+7199274 7199315 Shut your eyes.
+7199316 7200984 Shut your eyes.
+7207574 7209409 Stay here. I'll be back.
+7209410 7210744 Stay here. I'll be back.
+7218585 7219460 Get down on the floor!<br />Face down!
+7219461 7220920 Get down on the floor!<br />Face down!
+7223632 7224507 On the floor now!
+7224508 7225217 On the floor now!
+7227553 7229054 Okay, drop him!
+7308926 7310135 Here, hold this.
+7310135 7310343 Here, hold this.
+7343752 7344753 Go!
+7383709 7384626 Shit!
+7398223 7399933 Get out.
+7418952 7420244 Listen.
+7420329 7420912 No matter what happens,<br />stay under these vests.
+7420913 7423040 No matter what happens,<br />stay under these vests.
+7423123 7424374 -You got it?<br />- Yeah.
+7424458 7425917 All right.
+7440474 7441057 Chopper's coming in!
+7441058 7441725 Chopper's coming in!
+7441808 7442934 It's him.
+7500701 7501493 Shit!
+7501493 7502035 Shit!
+7504913 7506497 Stay down!
+7506498 7506706 Stay down!
+7580989 7582031 Goddamn! You all right?
+7582032 7583450 Goddamn! You all right?
+7590957 7592124 Come on, Mom,<br />we gotta get out.
+7592125 7593376 Come on, Mom,<br />we gotta get out.
+7595295 7596921 Take the shotgun.
+7600175 7601759 Are you hurt?
+7614940 7617275 Holy shit.<br />Come on, Mom. Come on!
+7617275 7617858 Holy shit.<br />Come on, Mom. Come on!
+7617943 7620654 - We need your truck.<br />- Hurry!
+7625659 7627369 - Come on. Hurry.<br />- Get In.
+7627369 7628161 - Come on. Hurry.<br />- Get In.
+7631164 7632373 Go!
+7638380 7640382 What the hell—
+7646263 7647514 - I'm bleeding bad.<br />- Keep pressure on it.
+7647514 7649015 - I'm bleeding bad.<br />- Keep pressure on it.
+7650684 7652352 Here. This'll work.
+7657941 7659651 He's gaining.
+7662195 7662612 Step on it!
+7662612 7663863 Step on it!
+7663947 7666741 - This is the vehicle's top speed.<br />- I can run faster than this!
+7677586 7677711 Coming up, to the right.
+7677711 7679045 Coming up, to the right.
+7681089 7682757 Watch it! Watch it!
+7682757 7683048 Watch it! Watch it!
+7705614 7707741 - Drive.<br />- Where are you going?
+7715207 7717125 Take the off-ramp.
+7726801 7727968 Shit!
+7731139 7732223 Hold on!
+7778061 7778436 Don't stop!
+7778436 7779687 Don't stop!
+7787529 7788488 Go straight!
+7788488 7788946 Go straight!
+7791574 7793534 - Look out!<br />- Duck!
+7793535 7793868 - Look out!<br />- Duck!
+7808008 7808633 Get the hell outta here!
+7808633 7809967 Get the hell outta here!
+7815473 7818517 Get outta here!<br />Let's go! Come on!
+7895512 7897972 <i>Hasta la vista,</i> baby.
+7947564 7948982 We don't have much time.
+7971588 7972839 Let's go.
+7973923 7974840 We gotta get outta here.
+7974841 7975716 We gotta get outta here.
+7975800 7977885 Come on! Get up!
+7991483 7993193 Hand me the shotgun.
+7998031 7999991 Put your weight on me, Mom.
+7999991 8000324 Put your weight on me, Mom.
+8001117 8003035 Hurry!
+8006581 8008207 Come on, Mom.
+8014714 8015089 Get up!
+8015089 8016048 Get up!
+8047580 8048872 This way. Come on.
+8048873 8049540 This way. Come on.
+8076568 8078236 No! Wait!
+8078528 8082448 Wait. No. No.<br />It's too hot. Go back.
+8090665 8092917 - Go. Run.<br />- No! We gotta stick together.
+8093001 8093960 John, you've got to go now.
+8093960 8095002 John, you've got to go now.
+8095086 8097254 I - John!<br />Go! Now!
+8171704 8173497 Get up the steps.
+8180880 8181839 Get up.
+8181839 8182381 Get up.
+8183174 8185342 Come on, Mom.<br />I got you.
+8219752 8222087 Grab the chain. Grab it.
+8223464 8226216 Grab it. Go. Go!
+8236561 8238729 Mom, come on! Mom!
+8238730 8239897 Mom, come on! Mom!
+8289030 8290448 Call to John.
+8290448 8290823 Call to John.
+8293618 8295494 I know this hurts.
+8297288 8298956 Call John.
+8315348 8316265 Call to John now.
+8316265 8318016 Call to John now.
+8320019 8321437 Fuck you.
+8321437 8321895 Fuck you.
+8519427 8520886 Help!
+8541532 8543116 Mom.
+8548330 8548496 - Help me.<br />- Get out of the way, John.
+8548497 8550707 - Help me.<br />- Get out of the way, John.
+8551667 8553627 - John! John!<br />- Shoot!
+8553627 8553918 - John! John!<br />- Shoot!
+8609934 8612353 Get down!
+8705654 8706529 Get up. Come on.
+8706530 8707822 Get up. Come on.
+8710075 8711618 Holy shit.
+8711619 8711869 Holy shit.
+8711952 8714412 I need a vacation.
+8727635 8730429 Is it dead?
+8730512 8731930 Terminated.
+8735434 8737102 Will this melt in there?
+8740064 8741940 Yes. Throw it in.
+8749031 8750949 And the chip.
+8766131 8767674 It's over.
+8767675 8767758 It's over.
+8774598 8776266 There's one more chip.
+8780938 8782940 And it must be destroyed also.
+8782940 8783190 And it must be destroyed also.
+8788654 8790238 Here.
+8790322 8793116 I cannot self-terminate.<br />You must lower me into the steel.
+8793117 8793700 I cannot self-terminate.<br />You must lower me into the steel.
+8806839 8808423 I'm sorry, John. I'm sorry.
+8808424 8809299 I'm sorry, John. I'm sorry.
+8809383 8811676 No, it'll be okay.<br />Stay with us.
+8811760 8813511 - It'll be okay.<br />- I have to go away.
+8813512 8813762 - It'll be okay.<br />- I have to go away.
+8813846 8816431 No, don’t do it.<br />Please, don’t go.
+8816515 8818600 I must go away, John.
+8818600 8819601 I must go away, John.
+8819685 8821144 No, wait.
+8821228 8823688 -You don’t have to do this.<br />- I’m sorry.
+8823689 8824147 -You don’t have to do this.<br />- I’m sorry.
+8825065 8827317 No, don't do it! Don't go!
+8827401 8828777 It has to end here.
+8828777 8829360 It has to end here.
+8830571 8833865 I order you not to go!
+8841832 8843875 I know now why you cry.
+8846253 8848713 But it's something<br />I can never do.
+8883040 8884833 Good-bye.
+8884833 8885250 Good-bye.
+8984475 8987352 <i>August 29, 1997, came and went.</i>
+8987352 8987393 <i>August 29, 1997, came and went.</i>
+8987394 8988728 <i>August 29, 1997, came and went.</i>
+8988812 8992607 <i>Nothing much happened.<br />Michael Jackson turned 40.</i>
+8992608 8992649 <i>Nothing much happened.<br />Michael Jackson turned 40.</i>
+8992649 8993149 <i>Nothing much happened.<br />Michael Jackson turned 40.</i>
+8993233 8995318 <i>There was no Judgment Day.</i>
+8995402 8997862 <i>People went to work<br />as they always do.</i>
+8997863 8997904 <i>People went to work<br />as they always do.</i>
+8997905 8998614 <i>People went to work<br />as they always do.</i>
+8998697 9003118 <i>Laughed, complained,<br />watched TV, made love.</i>
+9003118 9003159 <i>Laughed, complained,<br />watched TV, made love.</i>
+9003160 9004578 <i>Laughed, complained,<br />watched TV, made love.</i>
+9004661 9006621 <i>I wanted to run<br />through the street yelling...</i>
+9006705 9008373 <i>to grab them all and say,<br />“Every day from this day on is a gift.</i>
+9008373 9008414 <i>to grab them all and say,<br />“Every day from this day on is a gift.</i>
+9008415 9012001 <i>to grab them all and say,<br />“Every day from this day on is a gift.</i>
+9012085 9013669 <i>Use it well.”</i>
+9013670 9013711 <i>Use it well.”</i>
+9013712 9014379 <i>Use it well.”</i>
+9014463 9016965 <i>Instead, I got drunk.</i>
+9017049 9018925 <i>That was 30 years ago.</i>
+9018926 9018967 <i>That was 30 years ago.</i>
+9018967 9019842 <i>That was 30 years ago.</i>
+9019927 9024181 But the dark future which never came<br />still exists for me.
+9024181 9024222 But the dark future which never came<br />still exists for me.
+9024223 9024389 But the dark future which never came<br />still exists for me.
+9024473 9028185 And it always will,<br />like the traces of a dream.
+9030521 9034399 John fights the war differently<br />than it was foretold.
+9034483 9034691 Here, on the battlefield<br />of the Senate...
+9034691 9034732 Here, on the battlefield<br />of the Senate...
+9034733 9037318 Here, on the battlefield<br />of the Senate...
+9037402 9039987 his weapons are common sense...
+9039988 9040029 his weapons are common sense...
+9040781 9042949 and hope.
+9044034 9045243 Tie me, Grandma. Tie me!
+9045244 9045285 Tie me, Grandma. Tie me!
+9045285 9046160 Tie me, Grandma. Tie me!
+9054044 9055754 - How's that?<br />- Thank you, Grandma.
+9055754 9055795 - How's that?<br />- Thank you, Grandma.
+9055796 9056213 - How's that?<br />- Thank you, Grandma.
+9059967 9061009 <i>The luxury of hope...</i>
+9061009 9061050 <i>The luxury of hope...</i>
+9061051 9062052 <i>The luxury of hope...</i>
+9062135 9064846 <i>was given to me<br />by the Terminator.</i>
+9066056 9066264 <i>Because if a machine can learn<br />the value of human life...</i>
+9066265 9066306 <i>Because if a machine can learn<br />the value of human life...</i>
+9066306 9070806 <i>Because if a machine can learn<br />the value of human life...</i>
+9071979 9073772 <i>maybe we can too.</i>

@@ -1,0 +1,44 @@
+{
+  "imdbId": "tt0103064",
+  "title": "Terminator 2: Judgment Day",
+  "releaseDate": "1991-07-03T00:00:00.000Z",
+  "releaseYear": 1991,
+  "posterFileName": "poster.jpg",
+  "rated": "R",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "directors": [
+    "James Cameron"
+  ],
+  "writers": [
+    "James Cameron",
+    "William Wisher"
+  ],
+  "actors": [
+    "Arnold Schwarzenegger",
+    "Linda Hamilton",
+    "Edward Furlong"
+  ],
+  "runTime": 137,
+  "plot": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her ten year old son John from an even more advanced and powerful cyborg.",
+  "subtitleIds": [
+    "3b99b7d7",
+    "687f40da",
+    "66d502de",
+    "547e9272",
+    "29cbb4cd",
+    "6b51cdc6",
+    "ce48f460",
+    "60980ac8",
+    "60980ac8",
+    "ea75ade3",
+    "9f3c8ed7",
+    "5f344ed",
+    "b6353ed2",
+    "20c4b2ea"
+  ],
+  "isAvailable": true
+}
