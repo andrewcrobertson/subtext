@@ -1,0 +1,31 @@
+{
+  "imdbId": "tt8368406",
+  "title": "Vivarium",
+  "releaseDate": "2020-03-27T00:00:00.000Z",
+  "releaseYear": 2019,
+  "posterFileName": "poster.jpg",
+  "rated": "R",
+  "genres": [
+    "Horror",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "directors": [
+    "Lorcan Finnegan"
+  ],
+  "writers": [
+    "Garret Shanley",
+    "Lorcan Finnegan"
+  ],
+  "actors": [
+    "Imogen Poots",
+    "Danielle Ryan",
+    "Molly McCann"
+  ],
+  "runTime": 97,
+  "plot": "A young couple looking for the perfect home find themselves trapped in a mysterious labyrinth-like neighborhood of identical houses.",
+  "subtitleIds": [
+    "9b012df0"
+  ],
+  "isAvailable": true
+}
