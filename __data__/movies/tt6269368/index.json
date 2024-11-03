@@ -1,0 +1,39 @@
+{
+  "imdbId": "tt6269368",
+  "title": "The Clovehitch Killer",
+  "releaseDate": "2018-11-16T00:00:00.000Z",
+  "releaseYear": 2018,
+  "posterFileName": "poster.jpg",
+  "rated": "Unrated",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Horror"
+  ],
+  "directors": [
+    "Duncan Skiles"
+  ],
+  "writers": [
+    "Christopher Ford"
+  ],
+  "actors": [
+    "Dylan McDermott",
+    "Charlie Plummer",
+    "Samantha Mathis"
+  ],
+  "runTime": 109,
+  "plot": "A picture-perfect family is shattered when the work of a serial killer hits too close to home.",
+  "subtitleIds": [
+    "caaf398c",
+    "fe547b6b",
+    "56f04dc2",
+    "1eeacfdf",
+    "caaf398c",
+    "caaf398c",
+    "a062b8d1",
+    "1eeacfdf",
+    "fe547b6b",
+    "56f04dc2"
+  ],
+  "isAvailable": true
+}
