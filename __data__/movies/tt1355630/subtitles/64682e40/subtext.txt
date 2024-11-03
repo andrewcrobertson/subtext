@@ -1,0 +1,1862 @@
+11400 14882 <i>This is R. J. Cutler.<br />I am the director of If</i> I <i>Stay,</i>
+15000 16161 <i>and I'm here with...</i>
+16320 19449 <i>Alison Greenspan, the producer of If</i> I <i>Stay.</i>
+19560 22848 <i>CUTLER: We're going to be, uh,<br />watching the movie</i>
+22960 25611 <i>and talking about<br />the experience of making it,</i>
+26280 30490 <i>and all of the wonderful things<br />that went on in the making.</i>
+30640 33803 <i>I will begin by saying that</i>
+33880 38124 <i>I think, Alison, the very first time you<br />and I met and we talked about the movie,</i>
+38440 42365 <i>we talked about the fact<br />that, at the very beginning,</i>
+42440 47128 <i>we would have this sense of<br />a larger perspective of the world,</i>
+47200 51000 <i>that we would be seeing this,<br />in a way, from a God's-eye-view.</i>
+51320 55484 <i>That's the opening image<br />of the film that we settled on,</i>
+55800 57768 <i>that viewers can see<br />watching this right now.</i>
+57880 59245 <i>GREENSPAN: Well, you always talked about</i>
+59320 61561 <i>there being a spiritual component<br />to the movie,</i>
+61640 65406 <i>and that there would be<br />this larger presence looking down.</i>
+65480 67960 <i>That's why we come through the clouds</i>
+68800 71451 <i>and find our family here,<br />the Hall family house.</i>
+72160 77769 <i>CUTLER: And that spiritual component<br />is one of the things that</i>
+78120 79804 <i>I experienced in reading the book.</i>
+79880 82247 <i>I felt like every page was infused with that,</i>
+82320 84607 <i>and the setting in the Pacific Northwest,</i>
+84680 87331 <i>and the fact that we were<br />so much a part of nature.</i>
+87480 89960 <i>I wonder what it was like for you.</i>
+90040 93567 <i>When did you read the book first,<br />and what was your experience?</i>
+93880 96850 <i>How did you decide that this was<br />a movie that you wanted to make?</i>
+97600 99284 <i>GREENSPAN: Oddly enough, I read the book</i>
+99360 101283 <i>when I was shooting a movie in Vancouver,</i>
+101360 103362 <i>which we returned to for this film,</i>
+103520 108970 <i>and, um, fell in love with<br />the bigger choice that Mia has.</i>
+109040 115321 <i>The choice to live or die,<br />and the universal message of how people</i>
+115560 119531 <i>get through great grief<br />and adversity and death and loss,</i>
+119720 120846 <i>and come out the other side</i>
+120920 125164 <i>and triumph and love and play music<br />and do all that great stuff.</i>
+126920 129048 <i>Probably five years ago, six years ago.</i>
+129160 132448 <i>CUTLER: Wow. For me,<br />it was a few years later.</i>
+132640 135484 <i>You had been working on the movie<br />and getting it together,</i>
+135560 138040 <i>and this script came to me.</i>
+138200 140441 <i>Shauna Cross' script,<br />which I read and loved,</i>
+140600 144730 <i>and it made me feel,<br />as soon as I was done reading it,</i>
+144800 148122 <i>that the very next thing<br />I wanted to do was grab the book</i>
+148200 153570 <i>and see what book had given birth<br />to this screenplay.</i>
+153640 158646 <i>I read Gayle's book in one sitting,</i>
+158760 161001 <i>as so many people have done,</i>
+161080 163845 <i>and I couldn't believe the way it moved me.</i>
+163920 168130 <i>In fact, in one of the margins,<br />at a particularly moving moment,</i>
+168240 170163 <i>I wrote, "I think there is<br />something wrong with me."</i>
+170240 173767 <i>- Because I just found it so deeply moving.<br />-(GREENSPAN LAUGHING)</i>
+173920 178687 <i>CUTLER: It's really taken<br />the whole process of making the film</i>
+179000 182368 <i>for me to realize that<br />what it was that was so moving</i>
+182440 185728 <i>is that it's really a profoundly mythic tale.</i>
+185800 190089 <i>In a way, it's the classic Grimms' fairytale</i>
+190160 194404 <i>of the child who loses the parent<br />and is wandering in the woods,</i>
+194480 199088 <i>looking for things to connect to</i>
+199160 200161 that will help
+200520 202682 <i>find the way<br />through the darkness,</i>
+202760 206128 <i>and figure out what her identity is.</i>
+206200 209727 <i>It's this very deeply human,<br />very profound thing</i>
+209800 213043 <i>that involves the connections<br />we make in life,</i>
+213120 216567 <i>and the way our lives change<br />by virtue of who we love,</i>
+216640 219484 <i>and the way we go<br />from childhood to adulthood.</i>
+219560 223360 <i>It means leaving our family home,<br />and all of those things.</i>
+223440 227684 <i>I just found it so incredibly moving<br />that as soon as I was done,</i>
+228800 231565 <i>I told everybody I knew<br />that I had to meet you,</i>
+231640 233210 <i>so we could talk about making the film.</i>
+233280 235282 <i>GREENSPAN: I have to say that<br />very first time we met,</i>
+235360 238091 <i>- I fell in love with you...<br />- CUTLER: Aw.</i>
+238160 240640 <i>GREENSPAN: ...and was so excited to<br />see the movie that was in your head.</i>
+240920 243127 <i>But I loved how you encapsulated</i>
+243200 245202 <i>the message of<br />what you were just talking about,</i>
+245320 247527 <i>of that notion of,</i>
+248600 250170 <i>"We are who we love. "</i>
+250240 253608 <i>You said that line to me, and I thought<br />that summed up Mia's journey.</i>
+253680 256763 <i>That she's her parents,<br />and even when they're gone,</i>
+256920 259685 <i>they define who she is<br />because she loved them so much.</i>
+260040 262361 <i>And then Adam takes that baton.</i>
+262560 265609 <i>She is who she is because of his strength,</i>
+265680 267887 <i>and she will carry on<br />because of him and Kim.</i>
+268000 269240 <i>Here's Kim.</i>
+269360 271124 <i>And that kind of friendship love.</i>
+273360 276250 <i>CUTLER: All of that, of course,<br />is the thematic content of the movie,</i>
+276360 278124 <i>but then there is this great narrative story</i>
+278200 281966 <i>that is just an awesome story<br />of young love, on one hand.</i>
+282400 288760 <i>Mia, this outsider cellist, and Adam,</i>
+288840 291081 <i>this rock 'n' roll god,</i>
+291360 294569 <i>who come together,<br />and you don't expect that,</i>
+294880 299488 <i>um, they would fall in love.<br />They seem so different.</i>
+299840 303811 <i>And yet, as Adam says in this very scene,<br />"I see you."</i>
+303960 308841 <i>He does, and what he sees in her is<br />this profound connection to music.</i>
+308960 315286 <i>So, the film also has<br />this deep musical foundation</i>
+315600 318729 <i>that ties everybody in the film together,</i>
+319200 322727 <i>and it also makes it<br />such an emotional story.</i>
+323080 325970 <i>GREENSPAN: Well,<br />you always described music as</i>
+326240 329244 <i>-maybe the fifth character in the movie.<br />- CUTLER: Mmm.</i>
+329520 332569 <i>I think I used to say,<br />"it's the air that they breathe."</i>
+332640 335610 <i>Everything is about music in this film.</i>
+335680 339446 <i>In fact, later in the film, I was<br />doing an interview earlier this morning,</i>
+339720 344601 <i>and there is a scene with Mia's grandfather<br />that's a really powerful scene,</i>
+344760 347684 <i>and I think it's the one scene in the film<br />where there isn't any music.</i>
+347760 349842 <i>And, in an way,<br />it's the most powerful scene.</i>
+349920 354847 <i>But otherwise the film is<br />really wall-to-wall music.</i>
+354920 359005 <i>When you see at the end, the credits,<br />there is so much music in this film.</i>
+359240 362050 <i>There's Mia's music, and Adam's music,<br />and the parents' music.</i>
+362120 363804 GREENSPAN: And <i>their</i> theme.
+363960 365371 CUTLER: Say again?
+365440 367124 <i>GREENSPAN: Their theme.<br />-Yeah, and their theme.</i>
+367240 371040 <i>There's Heitor Pereira's beautiful music.</i>
+371200 374124 <i>There's so much that drives the film,</i>
+374200 377329 <i>so many different musical sensibilities.</i>
+378080 379206 Um...
+380160 383926 <i>I have also been struck recently,</i>
+384000 387083 <i>in thinking back on the experience,<br />that when you and I first met,</i>
+387160 389401 <i>in an effort to persuade you to hire me,</i>
+389680 391648 <i>I put together a visual palette.</i>
+391800 393768 <i>A series of images</i>
+393840 397367 <i>that would define<br />the way the film would look,</i>
+397480 402771 <i>and part of that were those big landscapes<br />of the Pacific Northwest.</i>
+402880 408171 <i>But part of it were images that,<br />as we're looking at the Hall house here,</i>
+408360 410806 <i>looked very much like<br />the interior of the Hall house.</i>
+410880 414487 <i>Very much influenced by photographers,</i>
+414840 418162 <i>this muted, primary-color palette.</i>
+420280 422408 <i>It's interesting, looking back on that...</i>
+422480 424164 <i>GREENSPAN: How true you were<br />to that initial vision.</i>
+424240 425810 <i>CUTLER: Yeah, how much<br />it remained consistent.</i>
+425880 429601 <i>It's a great lesson, in making films,</i>
+429680 431842 <i>about how much your first instincts</i>
+432720 436611 <i>end up being the most important instincts<br />that you have.</i>
+436720 440645 <i>Those first responses<br />that we both had to reading the novel.</i>
+440720 443724 <i>The first sense that we had<br />of Shauna's script,</i>
+446440 450729 <i>the first visual instincts, the first<br />musical instincts, are so important.</i>
+450800 454521 <i>GREENSPAN: You said initially that the<br />Hall house should be warm and full of life</i>
+454640 456324 <i>and full of music,</i>
+456400 460007 <i>and there's a rhythm in that house<br />and an energy.</i>
+460080 464244 <i>You always described the nature<br />as being very crisp and white</i>
+464560 466403 <i>and feeling the presence of God.</i>
+466480 469051 <i>As they drive through here,</i>
+469280 472250 <i>I think, A, how lucky we were<br />that it actually snowed</i>
+472320 474049 (COMMENTATORS LAUGHING)
+474160 476766 <i>the day we were going to shoot, and, B,</i>
+477520 479284 <i>how you do feel that here.</i>
+480680 485083 <i>CUTLER: So we have this great story,<br />this great raw material,</i>
+485160 489927 <i>a great book that led to a great script,<br />and we were working together.</i>
+490000 495291 <i>Of course, the next critical piece<br />in creating If</i> I <i>Stay was</i>
+495880 497689 <i>who would play Mia?</i>
+497880 502204 <i>What's your recollection<br />of Chloe's initial involvement?</i>
+503120 506966 <i>GREENSPAN: My partner and I,<br />Denise and I, met Chloé,</i>
+507040 510522 <i>and she felt like Mia.</i>
+510600 514889 <i>Kind of innocent<br />and mature beyond her years,</i>
+514960 519602 <i>and vulnerable, and yearning to fall in love.</i>
+519760 521603 <i>She read the script,</i>
+521920 524651 <i>and she told us that she loved you,<br />which was great.</i>
+524720 527246 <i>She read the script and fell in love with it,</i>
+527440 531161 <i>and, like you, went to the book<br />and really plugged into that journey.</i>
+531560 534882 <i>I can't imagine the movie<br />with anybody else in it.</i>
+534960 536883 <i>It's really quite amazing.</i>
+536960 541284 <i>She and I met to discuss this<br />and instantly connected.</i>
+541400 545962 <i>I think I told you afterwards it was<br />as if I had been meeting with myself.</i>
+546320 551451 <i>She would articulate things<br />that I had thought and felt and said</i>
+551520 553010 <i>in other settings.</i>
+555120 559728 <i>We connected to all of the same themes</i>
+559800 562326 <i>and the same aspects of the story.</i>
+562400 565404 <i>What really struck me</i>
+565480 568450 <i>was that here was Chloé Moretz,</i>
+569880 573771 <i>a 17-year-old child prodigy, really,</i>
+573840 577049 <i>who had been acting<br />with great accomplishment</i>
+577120 578690 <i>since...</i>
+579000 581446 <i>- How old? Five years old? Six years old?<br />-GREENSPAN: I think five, yeah.</i>
+581680 583045 <i>CUTLER: Um...</i>
+583120 588524 <i>And that she would be playing Mia Hall,<br />a child prodigy</i>
+588600 592366 <i>who had this gift as a young cellist.</i>
+592520 597367 <i>We spoke, Chloé and I,<br />at that very first meeting</i>
+597440 599363 <i>about the fact, um,</i>
+600720 604122 <i>that she and Mia were very much related</i>
+604200 606601 <i>because of that prodigious talent<br />that they have.</i>
+606680 607966 <i>And because, to some extent,</i>
+608040 610327 <i>neither of them fully understand<br />where it comes from.</i>
+610400 613529 <i>Both of them have had to<br />work so hard to develop it.</i>
+613600 618367 <i>But both of them are, in a way,<br />talented beyond their own comprehension,</i>
+618440 619930 <i>in a really exciting way.</i>
+620120 624125 <i>Also, both of them<br />are very down-to-earth, very real.</i>
+624320 627005 <i>Um, it's one of the things</i>
+627080 629481 <i>that everybody<br />who meets Chloé says about her,</i>
+629560 633201 <i>is that she's so real, she seems so normal,<br />and it's true.</i>
+633320 636403 <i>She's just a normal kid.</i>
+636480 639563 <i>She just happens to be<br />this remarkably talented actress.</i>
+639680 644208 <i>I knew that, that quality would be<br />something that she would bring to Mia,</i>
+644280 646248 <i>and it would be a really exciting thing.</i>
+646360 648966 <i>GREENSPAN: She got that.<br />She also got, I think,</i>
+649080 654291 <i>(EXHALES) that vulnerability that makes<br />Mia feel like an outsider in her family</i>
+654360 656249 <i>and in her world sometimes,</i>
+656440 660126 <i>and the joy that she felt<br />at the end of the movie, discovering,</i>
+660200 662771 <i>"Actually, I was very loved,</i>
+662880 665611 <i>"and I was at the center of it all, all along.</i>
+665920 667001 <i>"I just had to realize that."</i>
+667080 668570 <i>CUTLER". She has such a strong family bond</i>
+668640 670608 <i>with her mom and her brothers.</i>
+670720 672449 <i>It's such a part of her identity.</i>
+672520 676923 <i>So, here was an actress who was able<br />to bring all of those qualities</i>
+677080 680846 <i>to this performance and to creating Mia.</i>
+680960 683486 <i>As you see throughout the film,<br />she does that.</i>
+683640 684766 Um...
+684840 689209 <i>The next challenge, of course,<br />was finding an Adam.</i>
+689280 690441 G RE E N S PAN: Hoo-hoo-
+691760 695321 <i>CUTLER: That was particularly difficult<br />because I was insisting</i>
+695400 698768 <i>that he not only be<br />a perfect Adam as an actor...</i>
+699320 700890 <i>GREENSPAN: But a singer.<br />-...but a singer</i>
+700960 702928 <i>-and a guitar player.<br />-GREENSPAN: The real deal.</i>
+703000 704764 <i>CUTLER". Somebody who you would believe</i>
+704840 706763 <i>could be this budding rock star.</i>
+709040 711042 <i>Sometimes we would rassle about that,</i>
+711120 713930 <i>whether or not he really needed<br />to be able to play and sing.</i>
+714000 715001 <i>GREENSPAN: No.<br />You wanted it to be authentic.</i>
+715080 716161 <i>CUTLER". I was very insistent about it.</i>
+716240 717810 <i>GREENSPAN: You thought<br />people would read</i>
+717880 719962 <i>right through it if he were lip-synching,</i>
+720040 722691 <i>and you were totally right about that.</i>
+722760 726970 <i>'Cause those scenes play<br />so real and electric because of his gift.</i>
+727600 733164 <i>CUTLER: But finding a guy who was<br />all of those things and a heartthrob,</i>
+733240 736642 <i>who passed the Alison test of,<br />"Girls will love him."</i>
+737160 738924 <i>It wasn't easy.</i>
+739000 742925 <i>GREENSPAN: When he came in to sing,<br />you remember that,</i>
+743120 744724 <i>you couldn't take your eyes off him.</i>
+744800 746040 <i>And Chloé said the same thing.</i>
+746160 750290 <i>He left the room and she was like,<br />"it has to be him! No one else."</i>
+750360 753045 <i>CUTLER: Yes. She was very insistent.<br />Well, we searched high and low,</i>
+753200 758286 <i>and finally when we met Jamie<br />and brought him in</i>
+759560 763360 <i>to meet with Chloé, it was pretty electric.<br />It was awesome.</i>
+763520 765761 <i>We couldn't stop taking pictures of them</i>
+765840 767604 <i>because they were so adorable together.</i>
+767680 770126 <i>GREENSPAN: And you wanted to<br />see them kiss, too.</i>
+770560 772130 <i>- I think.<br />- CUTLER: Indeed. Yeah, absolutely.</i>
+772200 773247 <i>You just wanted to see them be together.</i>
+773320 774606 <i>GREENSPAN: There was<br />a heat between them.</i>
+774680 776284 <i>CUTLER: They were so real together.</i>
+776360 778681 <i>So, they had that chemistry,<br />which was so important.</i>
+781040 783327 <i>But they also had, individually,</i>
+783400 787485 <i>all the characteristics<br />that were so important to us</i>
+790240 792242 <i>in finding the right actors for those roles.</i>
+792360 793771 Um...
+793840 798448 <i>Rounding out the cast, of course,<br />was Mia's best friend.</i>
+798600 800489 <i>GREENSPAN: The great Liana Liberate.</i>
+800560 805202 <i>CUTLER: The great Liana Liberato,<br />who actually auditioned for this role</i>
+805280 806566 <i>and made me cry.</i>
+806680 808409 <i>GREENSPAN: She was the first person<br />we saw, I think.</i>
+808560 810050 <i>CUTLER". For Kim.</i>
+810160 811571 <i>GREENSPAN: And we cried.<br />And we thought,</i>
+811640 813529 <i>"Well, how do you top that?"</i>
+813600 816046 <i>CUTLER: it's very difficult.<br />It was difficult to imagine.</i>
+816160 817730 <i>She gave the perfect audition.</i>
+817800 819723 (CUTLER STAMMERING)
+822400 825643 <i>It was her bedside speech to Mia</i>
+826760 829286 <i>that she performed,</i>
+829360 832648 <i>and it was just so pure and true and real</i>
+832920 834604 <i>and honest.</i>
+834800 837565 <i>All of the things that I respond most to.</i>
+838640 840688 <i>I think everybody responds most to.</i>
+841640 844007 <i>And so we grabbed her immediately.</i>
+844600 845886 <i>GREENSPAN: Snapped her up.</i>
+845960 850682 <i>CUTLER: But I think the first person<br />after Chloé that we cast was Mireille.</i>
+850760 851921 <i>GREENSPAN'. Mireille. Yeah.</i>
+852000 854606 <i>CUTLER". And we met her,<br />and she loved the material so much,</i>
+854800 857804 <i>and she connected to it so much as a mom,</i>
+858680 863846 <i>that we couldn't pass up the opportunity.</i>
+863920 866571 <i>Of course, Mireille Enos is<br />one of the great actresses.</i>
+866640 872044 <i>The idea that we would have her<br />to work with was so thrilling.</i>
+872120 874282 <i>GREENSPAN: She's a groovy chick.</i>
+874360 878081 <i>When you meet her, she's...<br />We wanted a cat who was cool,</i>
+878160 882290 <i>and pretty, and the mom<br />that you long to have,</i>
+882480 883561 <i>'cause a lot of us are<br />embarrassed</i>
+883920 884921 of our moms.
+885000 887321 <i>And she is just so cool. Look at her.</i>
+888160 891084 <i>CUTLER: I would like to say for the record,<br />I am not embarrassed by my mom.</i>
+891200 893123 <i>GREENSPAN: Me neither. I'm just saying.<br />-Thank you.</i>
+893480 898611 <i>Um, and then there was Denny,<br />uh, Josh Leonard,</i>
+898960 902931 <i>who, again, I keep on going back to this,</i>
+903000 906561 <i>but the idea of initial response,<br />first instincts,</i>
+906640 909849 <i>when you think something is right.</i>
+909960 913601 <i>If you trust it, chances are<br />things will work out really well.</i>
+913680 916968 <i>I remember Josh came in,<br />and we were all like,</i>
+917040 919520 <i>"Whoa! That's Denny. There he is."</i>
+919600 922001 <i>He had that tattoo, he rolled up his sleeves.</i>
+922080 923081 <i>He had his tattoo.</i>
+923160 924810 <i>GREENSPAN: I looked at his arms,<br />and thought, "Mmm-hmm."</i>
+924880 927087 <i>CUTLER". He just had it. He nailed it.</i>
+927160 929447 <i>- He was Denny.<br />-GREENSPAN: And the beard.</i>
+929520 933684 <i>CUTLER". Yeah, and it was great.</i>
+933800 936804 <i>So, we put our cast together.<br />We had one more person.</i>
+936880 939565 <i>Obviously, it was a much bigger cast.</i>
+939640 944009 <i>We had to put together Adam's band<br />and we had to fill out the family.</i>
+944080 945844 <i>But then we also</i>
+946720 949690 <i>searched high and low<br />for the perfect Gramps,</i>
+949880 952884 <i>and found out<br />that Stacy Keach was available,</i>
+952960 956009 <i>which was a great coup for us.</i>
+956080 960927 <i>Of course, Gramps, in many ways,</i>
+961320 966008 <i>provides the heart and soul of this story,<br />his connection to Mia,</i>
+966080 968242 <i>and the way that he changes over the story,</i>
+968360 972126 <i>which is something that you don't<br />expect to see, and is so surprising</i>
+972240 977451 <i>and so moving<br />in the final portion of the film.</i>
+978360 981170 <i>It was great to have him.</i>
+981240 983242 <i>And he's a tough guy.</i>
+983440 985010 GREENSPAN: He <i>is</i> so macho.
+985080 987208 <i>CUTLER: He brought that energy.<br />It was amazing.</i>
+987520 990410 <i>GREENSPAN: When he cries and tells her,</i>
+991600 993409 <i>"if you have to go,</i>
+994240 995890 <i>"then go."</i>
+996120 999363 <i>I cry every time I see him say that</i>
+999440 1002728 <i>because you don't expect<br />this big bear of a guy</i>
+1003600 1004601 <i>to tear up.</i>
+1004760 1006728 <i>- It's so moving.<br />- CUTLER: So moving.</i>
+1007160 1011484 <i>So, there we were,<br />and we put our whole cast together,</i>
+1011560 1015087 <i>and built our production team,<br />and went up to Vancouver.</i>
+1015200 1016964 <i>GREENSPAN". The Great White North.<br />-The Great White North,</i>
+1017040 1021762 <i>which is doubling for Portland, Oregon.</i>
+1022920 1025400 <i>We were shooting<br />in November and December,</i>
+1025480 1029690 <i>and the thing about shooting in Vancouver<br />in November and December is,</i>
+1029760 1034482 <i>you have about three hours<br />of daylight a day, would you say?</i>
+1034560 1036369 <i>- Maybe four.<br />GREENSPAN: Four, and it usually rains.</i>
+1036440 1041128 <i>But we lucked out in that<br />it snowed when we needed it to,</i>
+1041200 1046491 <i>and it rained less than<br />most winter months there.</i>
+1046560 1048722 <i>It was pretty dry.</i>
+1049960 1052725 <i>- CUTLER: Yeah, it was kind of dry.<br />- We lucked out.</i>
+1052880 1054041 <i>That's how I remember it.</i>
+1054120 1056009 <i>CUTLER: I know, it's a beautiful thing,<br />the way you remember.</i>
+1056080 1057241 -(GREENSPAN CHUCKLING)<br />-CUTLER: <i>I</i> remember
+1057320 1060802 <i>darkness and rain and fog<br />so you couldn't see your own hand.</i>
+1060880 1062291 <i>GREENSPAN: Look at this beautiful night.</i>
+1062360 1064124 <i>CUTLER: I know, and yet,<br />I'm sure you're right,</i>
+1064200 1066043 <i>because every night was beautiful</i>
+1066160 1071007 <i>and dry and so many scenes<br />that are in this film were shot in the rain</i>
+1071080 1073401 <i>and yet, somehow you don't even know.</i>
+1073480 1077485 <i>Of course, this was a beautiful night,<br />the night of Adam and Mia's first date.</i>
+1079800 1082167 <i>We were able to shoot<br />those beautiful wide shots.</i>
+1082240 1086928 <i>Somehow, even though it's December,<br />it looks like</i>
+1088360 1090840 <i>a beautiful spring day, doesn't it?</i>
+1091840 1095208 <i>GREENSPAN: it does. I applaud you<br />for this specific scene,</i>
+1095320 1100406 <i>it just makes the movie feel so big<br />and like they've really gone somewhere</i>
+1101120 1103168 <i>romantic and special.</i>
+1106000 1109049 <i>CUTLER: Well, this is a great example<br />of every department</i>
+1109640 1110880 <i>working on all cylinders.</i>
+1111000 1113287 <i>You look at this image and you see</i>
+1113360 1118127 <i>Brent Thomas' beautiful production design,</i>
+1118400 1120050 <i>great locations.</i>
+1121360 1124330 <i>- You see John de Borman's shooting.<br />-GREENSPAN: Beautiful lighting.</i>
+1126560 1128608 <i>CUTLER: Which is amazing,<br />the way the camera</i>
+1128680 1132048 <i>moves down the steps with these guys,</i>
+1132120 1135203 <i>and you're just swept up<br />in a certain romanticism.</i>
+1135400 1137801 <i>You see Monique Prudhomme's<br />awesome costumes.</i>
+1137880 1140645 <i>They couldn't look better, more adorable,</i>
+1140880 1146808 <i>more appropriate,<br />these kids dressed up on a grown-up date.</i>
+1149440 1152330 <i>Every shot captures the emotion<br />that we were</i>
+1152880 1153881 seeking to find.
+1154080 1157084 <i>It worked out.</i>
+1157240 1158366 Um...
+1158760 1161730 <i>On the screen now we're seeing</i>
+1161800 1165407 <i>Adam and Mia<br />on their second date, which is</i>
+1165760 1168604 <i>when Adam invites Mia to<br />hear his band play for the first time.</i>
+1170160 1172288 <i>It bears us talking a little bit about the band.</i>
+1172400 1174880 <i>GREENSPAN: And how we put them<br />together, that kismet moment</i>
+1174960 1176689 <i>when we met these guys</i>
+1176960 1180487 <i>who described being in an awful accident.</i>
+1180600 1183524 <i>They played for us<br />and they were unbelievable,</i>
+1183600 1186206 <i>but we were really moved by their story,</i>
+1186280 1189921 <i>and just the sheer coincidence<br />of how similar it was</i>
+1190120 1192771 <i>to Mia being in an accident and surviving.</i>
+1194440 1197808 <i>And them going on<br />to continue with their music.</i>
+1198600 1200728 <i>CUTLER: So, these guys<br />were actually in a band,</i>
+1200800 1203849 <i>and we said, "Come be Adam's band."</i>
+1203960 1208443 <i>They had had an eerily similar experience,</i>
+1212560 1217361 <i>and we figured they'll provide<br />this great backup band.</i>
+1217440 1219807 <i>And then there was<br />a question of seeing, really,</i>
+1220280 1223045 <i>do they have chemistry with Jamie?</i>
+1223320 1228804 <i>Because just as important<br />as it was for Mia and Adam,</i>
+1228880 1231884 <i>for the actors playing Mia and Adam<br />to have a certain chemistry,</i>
+1232000 1235083 <i>it was almost equally important</i>
+1235240 1238403 <i>for Adam and the members of his band<br />to have a real chemistry.</i>
+1238480 1240847 <i>Because these guys, these are Adam's...</i>
+1240920 1243207 <i>Before he meets Mia,<br />these are Adam's soul mates.</i>
+1243280 1245408 <i>These are the people he creates with.</i>
+1245480 1247687 <i>These are the people who form his identity.</i>
+1249360 1252125 <i>We lucked out<br />because they really did connect.</i>
+1252200 1253247 GREENSPAN: You <i>buy</i> it.
+1253320 1258451 <i>CUTLER: But we also helped that process<br />by getting the band together</i>
+1258520 1260841 a <i>good two weeks<br />before we started production.</i>
+1260960 1263167 <i>GREENSPAN: Every day they hung out.<br />-They were together every day.</i>
+1263320 1266164 <i>We gave them studio time to record.</i>
+1266240 1268163 <i>They rehearsed together as a band.</i>
+1268240 1270971 <i>GREENSPAN: In fact, they went out<br />with Chloé and Liana.</i>
+1271080 1275130 <i>They would go out to the movies,<br />or go out to dinner and just chill.</i>
+1275200 1277885 <i>CUTLER". That two weeks, that bonding time</i>
+1277960 1279928 <i>paid off so much in production</i>
+1280040 1283044 <i>because you felt like these people<br />had been together a long time.</i>
+1283120 1284360 <i>GREENSPAN: They knew each other.<br />They were buds.</i>
+1284440 1285601 <i>CUTLER". And they had made music together</i>
+1285720 1287006 <i>for a long time, which was great.</i>
+1287200 1292286 <i>They also worked with John Carrafa,<br />who was our awesome musical stager.</i>
+1292360 1297924 <i>He worked with them on<br />how a band would carry itself on stage,</i>
+1298040 1300122 <i>and they really responded to that.</i>
+1300240 1303881 <i>They had formed this unified whole,<br />which was terrific.</i>
+1305360 1306930 We're cool, right?
+1307000 1308240 - You and me?<br />- Yeah.
+1308360 1310044 We're cool.
+1310200 1312521 - Hey, you finally got to meet Liz.<br />- Yeah.
+1313200 1314725 You two have a lot in common.
+1315360 1316407 You ever, like,
+1317080 1318445 hooked up, or...
+1319520 1324242 <i>CUTLER: I just remember the night<br />of that performance we just watched,</i>
+1324440 1326522 <i>which was the first performance we filmed.</i>
+1326960 1329770 <i>When we shot it, thinking, "Wow, he is..."</i>
+1329840 1331365 <i>GREENSPAN: A star.<br />-"He is the rock star</i>
+1331440 1333204 <i>"we knew he would be."</i>
+1333440 1335807 <i>You can know that<br />somebody is going to be that,</i>
+1335920 1339129 <i>you can have the instinct and think,</i>
+1339280 1341601 <i>"For sure, he's going to be a star<br />when he gets on stage."</i>
+1341760 1342841 <i>But until he gets on stage...</i>
+1342920 1344843 - GREENSPAN: You don't know.<br />-...and the camera's rolling,
+1344920 1348083 <i>and the audience is there,<br />you never know for sure.</i>
+1348200 1350646 <i>And, man, he so rose to the occasion.</i>
+1350720 1352404 <i>GREENSPAN: Do you remember<br />also sitting there,</i>
+1352480 1354687 <i>shooting that scene, and seeing the girls...</i>
+1354760 1358845 <i>'Cause we had to do it, what, 30? 40 times?</i>
+1358960 1361361 <i>And after hearing it five times,</i>
+1361480 1363960 <i>they were singing along<br />and singing the lyrics, (LAUGHS)</i>
+1364160 1366322 <i>jumping up and down. I'm going,<br />"That's a great sign, too.</i>
+1366400 1368368 <i>"They really like the song,<br />and they like him."</i>
+1368440 1369566 <i>CUTLER". Absolutely.</i>
+1370440 1374365 <i>Um, while we're talking about music,<br />there's, I mentioned before,</i>
+1374440 1376681 <i>wall-to-wall music in this film</i>
+1377760 1379922 <i>and all sorts of different kinds of music.</i>
+1380000 1383527 <i>But there is a defining concept<br />behind all of that,</i>
+1383600 1385409 <i>whether it's, uh,</i>
+1387760 1391162 <i>the punk-oriented music that you hear,</i>
+1391240 1393527 <i>the grunge-oriented music,<br />or the new wave,</i>
+1393600 1395682 <i>or the contemporary, more pop sound.</i>
+1396360 1399443 <i>The concept that I was working with</i>
+1399880 1400927 was that
+1403000 1407483 <i>kids today, people today,<br />you and I today, anybody,</i>
+1407800 1411282 <i>has at their disposal,<br />at their immediate access,</i>
+1411720 1414883 <i>pretty much every song<br />that's ever been recorded.</i>
+1414960 1417930 <i>We can get it online.<br />We can get it on YouTube.</i>
+1418120 1421442 <i>We can get it through a streaming service.<br />If you have satellite radio, you can get it.</i>
+1421520 1425684 <i>As a result, young artists like Adam and Mia</i>
+1425760 1428411 <i>are going to be influenced, really,</i>
+1428640 1432645 <i>by all of rock 'n' roll, all of popular music,</i>
+1432720 1436088 <i>and, if they have the taste for it,<br />music that pre-dates rock 'n' roll.</i>
+1436200 1439602 <i>So they are as likely to be influenced<br />by their parents' music</i>
+1439720 1441848 <i>as by music of their own time period.</i>
+1442040 1447046 <i>And that was something that really<br />informed the choices that we made</i>
+1447120 1450169 <i>in putting together<br />the soundtrack for the film.</i>
+1450240 1451287 <i>It was very important.</i>
+1451360 1455729 <i>Sometimes it led us to spirited debates<br />with our friends at the studio</i>
+1455800 1457609 <i>about including older songs.</i>
+1457680 1460001 <i>They said, "What's Blondie<br />doing on this soundtrack?"</i>
+1460080 1461650 <i>And we'd have</i> to...
+1461720 1462960 <i>GREENSPAN: No, you really<br />made the point that</i>
+1463040 1468331 <i>I think teenagers today,<br />I do, certainly, we all listen to Blondie.</i>
+1468440 1472286 <i>And why not? Why wouldn't it be<br />at a party that they go to?</i>
+1472360 1474601 <i>CUTLER: It's just as much<br />a part of who Adam is.</i>
+1474680 1476921 <i>In a way, just as much a part of who Mia is,</i>
+1477920 1482642 <i>music that's 30-40 years old<br />as music that is brand-new.</i>
+1482720 1485087 <i>And we have plenty of<br />contemporary music as well.</i>
+1485680 1488126 <i>Anyway, you talked earlier about</i>
+1488200 1491249 <i>the distinct looks that<br />we were going to achieve.</i>
+1493240 1497404 <i>There was the colorful,<br />the muted primaries,</i>
+1497600 1501082 <i>the look of the Hall family home,</i>
+1502240 1505005 <i>and then there is</i>
+1506040 1512685 <i>the cold, blue, monochromatic<br />look of the hospital.</i>
+1512760 1517846 <i>It's another place where our awesome</i>
+1519920 1521763 <i>production design team,</i>
+1521960 1526249 <i>costume design team, and DP</i>
+1527880 1531043 <i>were able to work together<br />in complete harmony</i>
+1531120 1532884 <i>to create this distinct look.</i>
+1533000 1535321 <i>And you see the jump<br />between those two looks.</i>
+1535440 1537727 GREENSPAN: Yeah. When you come in here<br /><i>with</i> that orange wall...
+1537800 1539131 <i>CUTLER: It's just a completely<br />different world.</i>
+1539200 1540440 <i>GREENSPAN'. ...and the livelihood...</i>
+1540600 1544286 <i>CUTLER: And that, I think, has a real strong<br />emotional impact on the viewer.</i>
+1544960 1548203 <i>GREENSPAN: It does. I think<br />also the other thing that you,</i>
+1548280 1551250 <i>um, were really smart about<br />is the memories</i>
+1551360 1554409 <i>that Mia has. When she flashes back,</i>
+1554480 1557563 <i>they look like these warm Kodachrome...</i>
+1557640 1560211 <i>That's a whole other look<br />that you shot in a different way.</i>
+1560280 1561361 <i>CUTLER: Yeah, there were distinct looks.</i>
+1561440 1562805 <i>We always talked about the distinct looks.</i>
+1562880 1567727 <i>The memory shots were meant to<br />feel like home movies of the mind.</i>
+1569680 1573605 <i>It's where my background<br />as a documentary filmmaker</i>
+1573680 1577571 <i>really came most into play<br />'cause I wanted it to be handheld.</i>
+1578520 1580682 <i>They were always improvised,<br />those moments,</i>
+1580760 1582728 <i>and we shot them on the fly.</i>
+1582840 1586162 <i>As you remember, there was<br />never much time to do them,</i>
+1586320 1589210 <i>so we were always just grabbing<br />a camera and running and gunning.</i>
+1589320 1592529 <i>But it had that feel of life,</i>
+1592680 1595206 <i>those moments that you remember<br />of your childhood,</i>
+1595360 1598443 <i>those moments that<br />you remember of your family, those...</i>
+1600040 1602407 <i>GREENSPAN: Snapshots of time, yeah.<br />-Exactly.</i>
+1603360 1605601 - We got to get the stinger out.<br />- No, we're not doing that.
+1606680 1608205 <i>CUTLER: What do you think<br />when you see this scene?</i>
+1609080 1613324 <i>GREENSPAN: I just love<br />Mireille's reaction right here.</i>
+1613400 1614526 (GREENSPAN CHUCKLES)
+1614600 1615886 <i>I think it's genius.</i>
+1616040 1617849 <i>- That's so what</i> a <i>mom does.<br />- CUTLER: It's something...</i>
+1617920 1621720 <i>This was a great thing, again,<br />about Josh and Mireille,</i>
+1621840 1624764 <i>-is that they brought that...<br />- GREENSPAN: They ad-Iibbed.</i>
+1625160 1628721 <i>...parental truth to it.</i>
+1629160 1632721 I'm sorry to say that's the furthest<br />we've gotten since our first date.
+1633040 1637443 <i>CUTLER: One of the things<br />I'm reminded of watching this is</i>
+1639240 1642449 <i>the way that Paul Barry,<br />our assistant director,</i>
+1642560 1646281 <i>and circumstance broke out our schedule,</i>
+1646880 1650089 <i>I think, was really critical<br />to the success of the film.</i>
+1650440 1653683 <i>We started shooting<br />in the Hall family home,</i>
+1654080 1657641 <i>and even though it was this tiny house</i>
+1657880 1659928 <i>that no film ever<br />should have been shooting in,</i>
+1660080 1663641 <i>because we were literally<br />hanging out the windows.</i>
+1665280 1667248 <i>The house couldn't contain all of us.</i>
+1667400 1670483 <i>Getting cameras up and down<br />that narrow staircase was impossible.</i>
+1670600 1674082 <i>GREENSPAN: Or up a balcony, yeah.<br />-It was nuts, what we had to do there.</i>
+1674720 1678520 <i>It was great that we were in the house<br />for about a week and a half</i>
+1678600 1681683 <i>because it allowed the family to bond.</i>
+1681760 1682921 GREENSPAN: We had no choice.
+1683000 1684570 <i>CUTLER: it allowed us to do<br />all those family scenes</i>
+1684640 1688167 <i>in a way that really solidified<br />this family unit.</i>
+1688280 1689441 GREENSPAN: They were <i>close.</i>
+1689920 1691888 <i>CUTLER: It made it real,</i>
+1692040 1695965 <i>and it also, of course, gave Chloé<br />that emotional foundation,</i>
+1696080 1698208 <i>so that when she lost them,</i>
+1699120 1702806 <i>she was playing off<br />something that was very, very real.</i>
+1703800 1706485 <i>We then shot everything else<br />in the movie except the hospital,</i>
+1706680 1709206 <i>and then we finished the film<br />in the hospital,</i>
+1709360 1713604 <i>so there was really a sense of loss<br />that informed all of that.</i>
+1713880 1715006 Um...
+1716080 1718890 <i>Here, of course, we have<br />their first love scene,</i>
+1719040 1721281 <i>which was so great</i>
+1721400 1724529 <i>and a little bit nerve-racking</i>
+1724640 1726881 <i>because we didn't know<br />they hadn't kissed before.</i>
+1727160 1730642 <i>We didn't know what that would be like<br />and how it would play.</i>
+1731080 1732286 Um...
+1733440 1735602 <i>But I think it quite worked out.</i>
+1736200 1738851 <i>GREENSPAN: Yeah, I think<br />they strode the line of being</i>
+1738920 1743801 <i>completely nervous and excited and into it.</i>
+1746320 1750689 <i>She brings me back to my first kiss.</i>
+1750840 1753002 <i>She plays it so real</i>
+1753840 1756571 <i>and just plugged into that grounded-ness.</i>
+1758440 1759851 <i>CUTLER". That was the thing, wasn't it?</i>
+1759960 1763009 <i>- When in doubt, be real and true.<br />-GREENSPAN: Be real.</i>
+1763440 1765090 <i>CUTLER: Always, always, always.</i>
+1766440 1769011 <i>I remember, I would say to them,</i>
+1769760 1772491 <i>"if you believe in it,<br />everybody else will believe in it,</i>
+1772600 1776321 <i>"and that's all that matters.<br />Just always be real."</i>
+1777200 1782366 <i>And they were. There's so much detail<br />in the performance and connection.</i>
+1782520 1784488 <i>You see in her eyes...</i>
+1787240 1790528 <i>There are</i> a <i>lot of great scenes in this<br />movie, but this is one of my favorites.</i>
+1795200 1799967 <i>GREENSPAN: I don't think Adam's ever<br />opened up to anyone before</i>
+1800480 1804724 <i>this moment, and<br />that's why it felt so exciting.</i>
+1804880 1807611 <i>Normally, you see the girl spill her guts,</i>
+1807760 1811401 <i>and he shares something that<br />really brings them close together.</i>
+1811800 1815725 <i>CUTLER: Now, this sequence we call<br />the "falling in love" montage</i>
+1815880 1819043 <i>was another part of the film</i>
+1819120 1822249 <i>that we filmed in this run-and-gun style.</i>
+1822360 1825443 <i>We had maybe 20 minutes<br />to shoot this sequence.</i>
+1825920 1828400 <i>No idea what was going to happen</i>
+1828520 1831285 <i>except that they were going<br />to be falling in love on a rainy day.</i>
+1831400 1833402 <i>That's all I think that I had ever written.</i>
+1833560 1835528 <i>Maybe that there was<br />a skateboard involved.</i>
+1835760 1838889 <i>We were running out of time in production.</i>
+1839040 1843125 <i>I think this was one of our last days<br />before we had to go to the hospital.</i>
+1843240 1845846 <i>We were running the risk</i>
+1846280 1847770 of not using that,
+1847880 1851521 <i>not being able to shoot that scene</i>
+1851640 1853369 <i>-in our schedule.<br />-GREENSPAN: It's so important, too.</i>
+1853440 1856887 <i>CUTLER: We just had 20 minutes<br />between locations</i>
+1857080 1860129 <i>and we said, "Just grab the camera, guys.<br />Go out in the rain."</i>
+1860200 1861486 <i>GREENSPAN: They were real good sports.</i>
+1861560 1863005 <i>CUTLER". You couldn't see it in the scene,<br />of course,</i>
+1863080 1865606 <i>but people were running around<br />with umbrellas, trying to do their best</i>
+1865800 1867484 <i>to keep the rain away from them.</i>
+1868240 1870925 <i>Of course, we ended up using<br />every single frame of that sequence.</i>
+1872120 1874441 <i>If we had had more,<br />we would have used more.</i>
+1874760 1875966 Kim, wait!
+1876440 1879125 <i>CUTLER: So, in the hospital,</i>
+1879240 1882084 <i>the scene you're seeing now,</i>
+1883040 1885361 <i>the big question was how will...</i>
+1885440 1889604 <i>Not only the visual style,<br />but the way the camera is used,</i>
+1889680 1892081 <i>how will it communicate</i>
+1893040 1894929 <i>that Mia is not real,</i>
+1895080 1897242 <i>that she has a spirit presence?</i>
+1897360 1899249 <i>I remember, again,</i>
+1900000 1903607 <i>my initial impulse, and something<br />you and I spoke about the day we met,</i>
+1903720 1906963 <i>was that it should always be grounded,<br />it should always be real.</i>
+1907320 1910005 Now, I haven't been able<br />to speak to anyone's doctors yet,
+1910080 1912731 but I do know that Mia and Dennis<br />are still in surgery.
+1912800 1914245 <i>CUTLER: There could be<br />a version of this story</i>
+1914320 1915924 <i>where it's about the visual effects.</i>
+1916040 1920170 <i>It's about what I would call<br />the ooh-iness of it.</i>
+1920240 1921969 (CUTLER STAMMERING)
+1926480 1929802 <i>In a way, to me, that would<br />make it more about death</i>
+1929920 1931126 <i>and less about life.</i>
+1931760 1933285 <i>And I wanted her to feel very, very alive.</i>
+1933400 1934925 <i>I didn't want her to be transparent.</i>
+1935360 1937442 G <i>RE</i> E N S <i>PAN: Or ugly, or ghost-like.</i>
+1937560 1939483 <i>CUTLER". Or ghost-like, any of those things.</i>
+1939680 1942365 <i>I wanted her to be as real as possible.</i>
+1942760 1944285 <i>So, we ended up</i>
+1945280 1947044 <i>really relying on the Steadicam</i>
+1947320 1950529 <i>to give a sense not only of her point of view,</i>
+1950680 1956005 <i>but also of the floating sense<br />of her presence.</i>
+1956120 1960330 <i>Between that and<br />the way Monique dressed her,</i>
+1960560 1966408 <i>it communicated that she was<br />this otherworldly spirit in these scenes.</i>
+1966560 1969166 <i>- And I think they work really well.<br />- GREENSPAN: Very well, yeah.</i>
+1971200 1976001 <i>CUTLER: So, the Liana-Chloé connection<br />was, of course, another important...</i>
+1977120 1978724 <i>They had to have a certain chemistry.</i>
+1978800 1981167 <i>They had known each other before.<br />They had worked together,</i>
+1981280 1985808 <i>or had met as young actresses<br />in Hollywood.</i>
+1986080 1988526 <i>So, they had a little bit of a friendship,</i>
+1988760 1991809 <i>but that friendship really blossomed<br />over the course of making the film.</i>
+1991920 1993081 <i>GREENSPAN". They became best friends.</i>
+1993200 1997285 <i>CUTLER: Their connection was just, again,<br />so real and so genuine,</i>
+1997560 2001201 <i>and they would spend pretty much<br />all of their down-time together.</i>
+2001760 2006607 <i>And this is something<br />that you can't make up.</i>
+2006760 2007761 <i>You can't fake it.</i>
+2007880 2010531 <i>And so, you get that sense<br />between the two of them.</i>
+2010720 2012085 <i>This is such a real scene.</i>
+2012320 2014926 <i>They were so relaxed and into it.</i>
+2015000 2016081 <i>Of course, the original scene</i>
+2016240 2020450 <i>is about five minutes longer<br />than this edited version.</i>
+2020520 2023842 <i>You kept on saying to me,<br />"it's a joke on a joke on a joke on a joke,"</i>
+2023920 2025365 <i>and I was like, "I know,<br />but I wanna see it end."</i>
+2025440 2027124 <i>- And eventually, we edited it down.<br />-(GREENSPAN LAUGHING)</i>
+2027360 2029169 <i>GREENSPAN: But I also said,<br />"Girls are gonna eat it up."</i>
+2029240 2031971 <i>Because it does feel like how we talk.</i>
+2032240 2037326 <i>CUTLER: Exactly. And that girlfriend<br />relationship is so important to who you are</i>
+2037720 2039290 <i>when you're 16 years old.</i>
+2041480 2042845 <i>Again, we're back in the house,</i>
+2042920 2046129 <i>and it's worth just looking<br />at the production design.</i>
+2047200 2051285 <i>You see how unique<br />and distinct this family is</i>
+2051640 2053563 <i>-and how successful...<br />-GREENSPAN: They've really lived.</i>
+2053720 2055370 <i>CUTLER". Yeah, and communicating that.</i>
+2055880 2059282 <i>It's a house that doesn't look like<br />anybody else's house in the world.</i>
+2059440 2063081 <i>And yet, it feels real.<br />It feels genuine to them.</i>
+2063160 2065367 ...to my closet in the morning<br />and go about your life.
+2065600 2066681 Baby, it's one night.
+2066760 2068569 <i>CUTLER". There isn't a lot in this film</i>
+2068640 2072486 <i>that we shot and didn't include<br />in the final cut.</i>
+2073120 2076647 <i>I think that Keith Henderson's editor's cut...</i>
+2076800 2078211 <i>Keith is our wonderful editor,</i>
+2078760 2084449 <i>and his cut didn't have much more in it</i>
+2084560 2085641 <i>than is in the film.</i>
+2085800 2088246 <i>When they called to say,</i>
+2088320 2090402 <i>-for the home video extras...<br />-GREENSPAN: "What are you extras?"</i>
+2090480 2093962 <i>CUTLER: "What are your outtakes?"<br />There are only really two scenes,</i>
+2094040 2095804 <i>one of which is</i>
+2095920 2100403 <i>a scene between Mia and Kim</i>
+2101000 2104891 <i>in the hospital chapel,<br />which is a beautiful scene,</i>
+2105040 2109728 <i>but it ended up not really fitting in.</i>
+2109800 2111086 Oh, I'm good.
+2111160 2112685 Okay. Well, it's there if you want it.
+2113640 2115642 LIZ: Yo, Adam. We're goin' on.
+2115840 2117490 Okay. I've gotta go do my set.
+2117640 2119768 No running off with some me wannabe.
+2119920 2121126 <i>I'll</i> try. (CHUCKLES)
+2123000 2124206 Have fun.
+2124400 2126368 Oh, my God, Mia.
+2126600 2129285 You look amazing.<br />Did you get this in Seattle?
+2129480 2131289 Hey. Wanna bone?
+2131480 2132641 MAN: You're frickin' embarrassing yourself.
+2132800 2134689 Come on,<br />at least give me your bone number.
+2134840 2136444 EMCEE: <i>Ladies and gentlemen,<br />Willamette Stone!</i>
+2136560 2138244 (CROWD CHEERING)
+2142880 2144405 <i>ADAM". Happy Halloween.</i>
+2144520 2145726 GIRL; Wh00!
+2146760 2148285 - Are you coming?<br />-(MOUTHING)
+2148680 2150205 (PLAYING ROCK MUSIC)
+2150280 2152248 <i>GREENSPAN: You had the great idea<br />during shooting</i>
+2152400 2155404 <i>that we should do a little intro here<br />that would be so much sexier</i>
+2155560 2157847 <i>if she were waiting for him,</i>
+2158480 2159970 <i>and I just got so excited about that.</i>
+2160160 2162925 <i>CUTLER: Well, that...<br />I almost forgot about that.</i>
+2163080 2167324 <i>We actually, initially shot Adam<br />coming to the house.</i>
+2167400 2168731 <i>GREENSPAN: Right.<br />To set up the whole thing.</i>
+2168800 2170689 <i>CUTLER: And he came to the house<br />in his Beethoven outfit,</i>
+2170760 2172967 <i>and he had this big Beethoven wig,</i>
+2173200 2176249 <i>-and it didn't look very sexy at all.<br />-GREENSPAN: No.</i>
+2176440 2179842 <i>CUTLER: it looked, in fact...<br />It was all wrong. It was all wrong.</i>
+2179920 2182207 <i>GREENSPAN: Also, her brother was there,<br />and the parents were there.</i>
+2182280 2184203 <i>- It was not</i> a <i>hot moment.<br />- CUTLER: We had Teddy there, saying,</i>
+2184280 2186044 <i>"Take me out." And her parents were there.</i>
+2186160 2188447 <i>At one point,<br />we looked at each other and said,</i>
+2188600 2190364 <i>"Why are her parents always around</i>
+2190440 2192807 <i>"when the two of these guys<br />are getting together?"</i>
+2194240 2196447 <i>So, it occurred to me, we could just jump</i>
+2196560 2200451 <i>from that scene with Mom<br />to outside the club.</i>
+2201640 2205326 <i>We were gonna do the montage,<br />and then go outside the club.</i>
+2205400 2208290 <i>But then we cut the montage and<br />ended up just going outside the club.</i>
+2208440 2210090 <i>You see them, and it's so much better.</i>
+2210200 2215047 <i>I remember the day I told<br />the costume and hair department</i>
+2215280 2217601 <i>that we were gonna lose Adam's wig,</i>
+2217680 2218920 <i>-and they were so happy.<br />-(GREENSPAN CHUCKLES)</i>
+2219000 2221002 <i>CUTLER: They were so grateful<br />because look how awesome he looks.</i>
+2221120 2225091 <i>Imagine him with<br />a two-foot high Beethoven wig.</i>
+2225200 2226326 <i>Not so sexy.</i>
+2226400 2228721 <i>GREENSPAN: The looks between them<br />here are so great.</i>
+2228800 2231485 <i>He sees her dancing and fitting in,</i>
+2231600 2236527 <i>and she's worshiping his music<br />and she's having fun.</i>
+2236640 2238051 <i>CUTLER: It's another<br />one of my favorite scenes</i>
+2238160 2241767 <i>because the whole story<br />is told without dialogue.</i>
+2242600 2244762 <i>The whole story is told<br />in those performance moments</i>
+2244840 2248765 <i>between the two of them,<br />and they do it beautifully.</i>
+2251040 2252041 So...
+2253320 2254606 Do you like me like this?
+2254680 2256250 <i>CUTLER: Now,<br />this is an interesting moment</i>
+2256320 2258482 <i>in the film because it's leading up to</i>
+2258760 2262526 <i>a well-known part of Gayle's book</i>
+2263440 2267684 <i>that we included in the script<br />and included in the production,</i>
+2268160 2272722 <i>but it's the only thing</i>
+2273200 2277205 <i>that we changed in the movie<br />after we test-screened the film.</i>
+2277280 2278281 GREENSPAN: Mmm-hmm.
+2278360 2283241 <i>CUTLER: And for fans of the book,<br />it's the night that</i>
+2284040 2288045 <i>Adam and Mia get together<br />for the first time.</i>
+2288280 2292171 <i>There is a scene in which they...</i>
+2293120 2296727 <i>They play each other like<br />the instruments that they love.</i>
+2297960 2302045 <i>He plays her like a guitar.</i>
+2302160 2304162 <i>She plays him like a cello.</i>
+2304320 2309360 <i>Even as I'm saying it, it sounds like<br />that must be awkward.</i>
+2309440 2312205 <i>Um, when you read it in Gayle's book,<br />it's quite beautiful.</i>
+2312320 2313651 GREENSPAN: Yeah. You imagine <i>it,</i>
+2313720 2316451 <i>and your brain takes you<br />to a place where it works.</i>
+2317240 2320244 <i>CUTLER". It's detailed, and it's gentle,</i>
+2320320 2325804 <i>but it has a romanticism and an eroticism</i>
+2325960 2329043 <i>that feels appropriate for first love.</i>
+2329160 2334929 <i>We shot it here in this barn,<br />where Adam says to Mia,</i>
+2336600 2338250 <i>"Play me like a cello."</i>
+2338440 2342240 <i>And they did a great job with it.</i>
+2342600 2346446 <i>But when it screened,</i>
+2347320 2348651 <i>the audience laughed.</i>
+2348760 2350524 <i>There were nervous titters.</i>
+2350600 2351726 <i>And we couldn't quite figure out what.</i>
+2351800 2354644 <i>If they were nervous, if it seemed cheesy.</i>
+2356840 2361687 <i>Somehow, it didn't quite have<br />the effect that we wanted it to have.</i>
+2361800 2363131 <i>It didn't...</i>
+2363680 2368811 <i>As a result, really,<br />it wasn't a successful moment.</i>
+2369080 2371287 <i>It was the only thing</i>
+2371920 2376289 <i>that really was impacted<br />by the test screening,</i>
+2376440 2378488 <i>other than the usual things</i> of...
+2378600 2381888 <i>Sure, you're going to find out pacing,<br />and tighten up here and there.</i>
+2382560 2384767 <i>Some joke might land better or something.</i>
+2385200 2386964 <i>Maybe you'll have a different music choice.</i>
+2387080 2390402 <i>But the real scene that we changed<br />became this scene,</i>
+2390600 2394730 <i>and as a result of the change,</i>
+2395680 2398729 <i>Adam no longer says to Mia,<br />"Play me like a cello."</i>
+2401760 2405924 <i>But the scene, the content, is still the same.</i>
+2406000 2409322 <i>It's the two of them getting together,<br />making love for the first time.</i>
+2409600 2413491 <i>GREENSPAN: And she's the right amount<br />of vulnerable and real.</i>
+2414320 2417403 <i>CUTLER: And it worked. It's one of<br />those things where you think,</i>
+2417480 2420882 <i>"Oh, how can we change this?"<br />We tried losing the scene.</i>
+2420960 2422962 <i>Of course, you couldn't do that.<br />That didn't work.</i>
+2423040 2425247 <i>GREENSPAN: You have the moment now,<br />just without that line.</i>
+2425480 2426925 <i>CUTLER". Exactly. Without that action,</i>
+2427000 2430004 <i>without that idea of<br />playing like an instrument,</i>
+2430240 2431446 <i>and yet, it still worked.</i>
+2432640 2434290 <i>Keith Henderson,</i>
+2434360 2437762 <i>our editor, is at his finest<br />in many, many sequences,</i>
+2438000 2441049 <i>but this is really one of<br />the great demonstrations of his work.</i>
+2443000 2444729 G RE E N S <i>PAN: The intercutting there</i><br /><i>is beautiful.</i>
+2444960 2446405 <i>CUTLER". Just beautifully, beautifully done.</i>
+2447680 2450445 <i>GREENSPAN: And then we come back to<br />the bleak hospital, after that.</i>
+2451920 2456244 <i>CUTLER: Again, you see the distinction<br />in the production design</i>
+2456400 2458801 <i>and the palette that...</i>
+2458920 2461400 <i>The way the whole film is designed.</i>
+2463200 2465680 <i>Transitions were a thing<br />we talked a lot about.</i>
+2465760 2468843 <i>Are we going to need<br />really direct transitions</i>
+2469040 2470963 <i>that answer the question,</i>
+2471040 2475523 <i>"Why does Mia go back and forth<br />in her memory?"</i>
+2476240 2479005 <i>I always felt that the emotion<br />would carry the moment,</i>
+2479120 2483523 <i>and if the design elements were</i>
+2484720 2489521 <i>as we've been discussing,<br />then that would tell the story.</i>
+2489680 2491091 <i>And they have.</i>
+2493360 2497081 <i>This is a very powerful sequence to me,</i>
+2499000 2503608 <i>in that it's the moment where Mia<br />finds out that she's lost her parents.</i>
+2506080 2511610 <i>And I've always described<br />this feeling of loss,</i>
+2513440 2516728 <i>those of us who have lost a parent<br />know this feeling,</i>
+2517080 2522211 <i>of just being lost in suspended space.</i>
+2523400 2525402 <i>Sometimes when you're<br />walking down a staircase</i>
+2525480 2529451 <i>and you think that there's another step,<br />but there isn't.</i>
+2529720 2532326 <i>For a moment, you're just floating in space</i>
+2532440 2535205 <i>and you don't know how long it'll go on.<br />If it'll go on forever,</i>
+2535800 2538849 <i>and you're just gonna fall, fall, fall.</i>
+2539120 2541009 <i>That's how Mia is feeling in this moment.</i>
+2541160 2545643 <i>That's what I found it was often like,</i>
+2545920 2551290 <i>in the days and weeks and months<br />after losing my dad.</i>
+2551440 2555968 <i>Just the sense that it's bottomless.</i>
+2558400 2561529 <i>And I said all of that to everybody,</i>
+2561600 2564126 <i>whether we were editing,<br />or whether it was Heitor's score,</i>
+2564280 2566726 <i>or whether it was the way<br />that John shot that scene,</i>
+2566840 2569161 <i>or the way that Chloe performed it.</i>
+2569400 2572847 <i>I think it really conveys</i>
+2573080 2578086 <i>that sense, only alleviated<br />when she arrives at Teddy's room</i>
+2578160 2579525 <i>and sees that he's still alive.</i>
+2579720 2581449 <i>GREENSPAN: She has one person left. Yeah.</i>
+2583520 2586808 <i>It's funny, I just realized<br />that I read the book for the first time</i>
+2586880 2588405 <i>right after I lost my father,</i>
+2588560 2592007 <i>and you started this movie<br />right after you lost yours.</i>
+2592080 2594208 <i>I'm just realizing that connection now.</i>
+2594320 2595685 (CUTLER STAMMERING)
+2598000 2600207 <i>CUTLER: It's a movie<br />about children and parents.</i>
+2600360 2601850 <i>It's a book about children and parents,</i>
+2601960 2606284 <i>in ways that we don't necessarily think of it.</i>
+2606440 2610206 <i>But certainly that experience,</i>
+2611800 2617443 <i>losing my dad, informed so much<br />of what the movie was about.</i>
+2617520 2619887 (WHISPERING) You're mine now, Teddy.
+2620360 2622806 <i>CUTLER: So, we get to dedicate this<br />to our dads.</i>
+2622880 2625281 <i>GREENSPAN: That's a good idea.<br />-Excellent.</i>
+2625360 2626600 We're gonna make it.
+2628760 2634210 <i>CUTLER: This is another scene<br />that changed in late script stage.</i>
+2634400 2636687 <i>- This was originally a moment...<br />-GREENSPAN: A big speech.</i>
+2636760 2639730 <i>...that flashes back in time, remember'?</i>
+2639840 2641649 <i>This was Teddy's birth scene.</i>
+2642720 2646088 <i>And then we realized,<br />rather than it being a scene where Mia,</i>
+2646200 2650888 <i>as a little girl, is watching her mom<br />give birth to her baby brother,</i>
+2651080 2652206 <i>it should be</i>
+2652360 2655250 <i>grown Mia talking to Teddy<br />in the hospital room,</i>
+2655400 2658324 <i>-saying the same things. Exactly.<br />-GREENSPAN: Telling him to live.</i>
+2658400 2659561 <i>CUTLER". That was a big change.</i>
+2659640 2662769 <i>Before we started shooting,<br />but late in the script process.</i>
+2664720 2666768 <i>GREENSPAN". A lot of running in the movie.</i>
+2667600 2669967 <i>CUTLER". Yeah. That's how</i>
+2670040 2672884 <i>we answered the question of<br />what's going on in the hospital.</i>
+2673640 2677964 <i>There's running.<br />There's going through the halls.</i>
+2678120 2681283 <i>There's Mia talking to herself.</i>
+2681400 2686247 <i>These are the things that<br />distinguish this level of existence,</i>
+2686360 2688840 <i>where she's between life and death.</i>
+2690080 2692970 <i>GREENSPAN: I think, also,<br />the way the movie is structured,</i>
+2693080 2695811 <i>and you did this so cleverly,</i> is...
+2697880 2701282 <i>There's a big reveal every so often,</i>
+2701400 2704244 <i>and we have these flashbacks,<br />and it keeps people wondering,</i>
+2704320 2706971 <i>"What's going to happen next<br />to her in the hospital?"</i>
+2707120 2709122 <i>and "What's going to<br />happen next in the love story?"</i>
+2709200 2713489 <i>So, it's not all just</i>
+2713880 2715484 <i>about her parents dying.</i>
+2715840 2718286 <i>Now, we're going to see what happens<br />next in their love story.</i>
+2718440 2719771 <i>They're just building,</i>
+2719880 2722850 <i>and falling in love,<br />and really coming together.</i>
+2723880 2727930 <i>CUTLER: Those still photographs you saw<br />were taken as production stills.</i>
+2728040 2730327 <i>No intention to use them in the film.</i>
+2730680 2733809 <i>GREENSPAN: Literally next to<br />a garbage can in an alley.</i>
+2734000 2736606 <i>CUTLER: Absolutely.<br />But when we were editing</i>
+2736680 2740651 <i>and we wanted to tell the story of Adam's<br />band getting more and more successful,</i>
+2743440 2747001 <i>Keith and I dug out those old photographs<br />and started using them,</i>
+2747160 2749288 <i>and what do you know?<br />They worked. It was great.</i>
+2749440 2751204 <i>You get very resourceful.</i>
+2751800 2756522 <i>Some things you use every frame of.</i>
+2756640 2758802 <i>In one of the memory montages,</i>
+2758880 2762202 <i>the footage when Mia is<br />having memories of her family,</i>
+2762560 2765086 <i>where they're playing football<br />and they're running around?</i>
+2765360 2767886 <i>All of that was taken during camera tests.</i>
+2768360 2770966 <i>GREENSPAN: During prep. There was<br />no hair and makeup. They just went for it.</i>
+2771080 2774448 <i>CUTLER: There was no intention, ever,<br />of using that footage,</i>
+2774520 2776204 <i>and we used every frame of it.</i>
+2776600 2778921 <i>Still photographs.<br />No intention, ever, of using it,</i>
+2779080 2780161 <i>and we used every photograph.</i>
+2780240 2783050 <i>Now, we haven't spoken<br />about Chloé Moretz</i>
+2783400 2784811 <i>-and the cello.<br />-GREENSPAN: And the cello.</i>
+2784880 2786006 (CUTLER LAUGHING)
+2786440 2790240 <i>CUTLER: So, I hope<br />we're not revealing any secrets,</i>
+2790360 2793409 <i>but Chloé Moretz is not a cello prodigy.</i>
+2793640 2795165 <i>GREENSPAN: She did take lessons before,</i>
+2795240 2799768 <i>but was so busy doing<br />four movies before ours,</i>
+2800160 2803607 <i>the cello followed her around<br />from Leipzig, Germany,</i>
+2803760 2805125 <i>to Switzerland, wherever she was.</i>
+2805200 2807646 <i>CUTLER". We just made it our business.<br />GREENSPAN: We would send the cello.</i>
+2807720 2809210 <i>CUTLER". Because I was always in a panic</i>
+2809280 2812045 <i>that she wasn't spending enough time<br />with a cello,</i>
+2812240 2817451 <i>so you approved the costs and we made it<br />our business that, wherever Chloe was,</i>
+2817560 2818721 <i>a cello was sure to follow.</i>
+2819480 2823246 <i>GREENSPAN: I think she thought there was<br />some stalker in every hotel room.</i>
+2823400 2825402 <i>(LAUGHING) Every hotel room,<br />there was</i> a <i>cello in there.</i>
+2825560 2831567 <i>CUTLER: We also had our cello teacher<br />available to her on Skype,</i>
+2831920 2835811 <i>so that if she would<br />have an extra few hours...</i>
+2835960 2838645 <i>This must be the busiest...</i>
+2838880 2840086 <i>Chloé was 16 at the time.</i>
+2840160 2844802 <i>Must be the most overscheduled,<br />busiest 16-year-old ever,</i>
+2845040 2848647 <i>so she rarely had a free couple of hours.</i>
+2848760 2851969 <i>But when she did,<br />she could Skype with her cello teacher,</i>
+2852080 2854208 <i>and she did start to pick it up.</i>
+2854440 2858764 <i>But, nevertheless,<br />it became necessary for us</i>
+2858840 2865610 <i>to have somebody else<br />play the cello on film,</i>
+2866240 2871724 <i>and for Chloé to also do</i>
+2871840 2874207 <i>the physical mannerisms<br />of playing the cello.</i>
+2874280 2876760 <i>We would shoot her in close-up,</i>
+2876960 2883286 <i>and then we composited Chloé's body<br />with Haigan Day, our cello double's body.</i>
+2883520 2888811 <i>Haigan, of course, is in her own right<br />an extraordinary cellist,</i>
+2888920 2893608 <i>so the performance of<br />the cello playing is fantastic.</i>
+2893800 2896280 <i>The visual effects ended up<br />working beautifully,</i>
+2896360 2898283 <i>though there was a fair<br />amount of trial and error.</i>
+2898640 2904966 <i>And the thing, I believe,<br />that sold it most of all</i>
+2905160 2911725 <i>was that Chloe spent a great deal of time<br />studying videotape of the great cellists.</i>
+2912240 2914004 - No. Why?<br />- I don't know.
+2914240 2919121 <i>CUTLER: And she communicates<br />the soul of the performance</i>
+2919560 2923281 <i>-in her face and her body language.<br />GREENSPAN". And her eyes.</i>
+2923360 2925169 <i>CUTLER". Yes. And her eyes.</i>
+2925680 2930686 <i>I've heard her speak,<br />while doing interviews about the film,</i>
+2930800 2935681 <i>about the feel of the body, the way<br />that you breathe through the cellists.</i>
+2935840 2939128 <i>The thing that she noticed most<br />about the great cellists that she studied</i>
+2939280 2941521 <i>was that they were breathing with the cello,</i>
+2941760 2945731 <i>and that their personalities opened up<br />and emerged as they were playing.</i>
+2945880 2947644 <i>She speaks beautifully<br />and articulately about this.</i>
+2948560 2951689 <i>But most of all,<br />she communicates it in her performance.</i>
+2951880 2954201 <i>This scene is a perfect example.</i>
+2954720 2957644 <i>GREENSPAN: She knew this part.<br />This part she could do.</i>
+2957720 2959768 <i>CUTLER: Well, this is Haigan.<br />GREENSPAN: Yes, but...</i>
+2959840 2961524 <i>CUTLER: And this is Chloé.</i>
+2962200 2966046 <i>And you see it, and she's<br />so connected in the moment.</i>
+2966880 2971920 <i>Of course, the great place<br />you see it is in the audition.</i>
+2972120 2973406 <i>GREENSPAN". The Juilliard audition.</i>
+2973480 2975482 <i>CUTLER". At what we called Jolari Hall.</i>
+2976400 2979324 <i>But this was not an easy thing to pull off.</i>
+2979440 2981761 <i>I was very nervous about it,<br />as you know, Alison,</i>
+2981880 2985282 <i>because I would call you<br />in the months before we shot</i>
+2985400 2986606 <i>pretty much every day, saying,</i>
+2986720 2990088 <i>"How is she gonna learn to play the cello?<br />How are we going to pull it off?"</i>
+2990200 2993090 <i>GREENSPAN: And I kept saying,<br />"Don't worry, it'll look great."</i>
+2993200 2994406 <i>CUTLER". But what did you really think?</i>
+2994480 2996005 - GREENSPAN: I'm not sure.<br />-(BOTH LAUGHING)
+2996080 3000847 <i>CUTLER: We pulled it off,<br />and it does work beautifully.</i>
+3000960 3004328 <i>And she has a physical relationship<br />with the cello,</i>
+3004480 3007211 <i>which is the most important thing<br />that we could've hoped for.</i>
+3008600 3012241 <i>Well, now is a perfect time<br />for us to discuss Jakob Davies.</i>
+3012400 3014004 <i>GREENSPAN: Teddy.<br />CUTLER". Our Teddy.</i>
+3014720 3016722 <i>Another person...<br />When we were talking about casting,</i>
+3016800 3019690 <i>we didn't mention Jakob</i>
+3019760 3023048 <i>and the importance<br />of finding the perfect Teddy.</i>
+3024560 3026164 <i>And I'm a redhead.</i>
+3028000 3032608 <i>I want to clarify that I did not insist</i>
+3033520 3037047 <i>that Mia's mom be a redhead, and I did not<br />insist that her brother be a redhead.</i>
+3037120 3038724 <i>GREENSPAN: It just so happens.<br />-But I'm delighted that</i>
+3038800 3040006 <i>it worked out that way.</i>
+3041880 3044281 <i>But, boy, Jakob came in to audition.</i>
+3044440 3048650 <i>He was adorable.<br />He was real. He was funny.</i>
+3048800 3049847 <i>He improv-ed.</i>
+3050720 3054725 <i>He had an instinct for the drums,<br />and then took some drumming lessons</i>
+3055040 3057725 <i>-'cause he had to...<br />- GREENSPAN: Very studious about that.</i>
+3057840 3059171 <i>CUTLER: He was very studious,</i>
+3059240 3063529 <i>and he was a great presence on the set.</i>
+3063840 3066650 <i>And then, on his final day of shooting,</i>
+3067000 3070322 <i>he made a little drum kit for everybody,</i>
+3070440 3072727 <i>and he gave them all to us<br />with a thank you note.</i>
+3072920 3074524 <i>He's just a great kid.</i>
+3074640 3077883 <i>But if your heart doesn't go out to Teddy,</i>
+3078080 3082688 <i>if you aren't in love with that kid,<br />then the movie isn't the movie.</i>
+3082840 3084683 If I Stay <i>isn't</i> If I Stay.
+3084800 3087326 <i>It's hard not to be in love</i>
+3087400 3089323 <i>with the Teddy<br />that Jakob Davies performed.</i>
+3089440 3091522 <i>GREENSPAN: He's a delicious kid.</i>
+3092000 3093001 <i>CUTLER". A delicious kid.</i>
+3093080 3094764 <i>- GREENSPAN: Delicious kid-<br />-(CUTLER CHUCKLES)</i>
+3094840 3096205 Speaking of the devil.
+3096840 3097841 Hello?
+3098000 3099411 - Hey, babe.<br />-(CROWD CLAMORING)
+3099480 3101881 <i>CUTLER: This is another scene that<br />there was some discussion about,</i>
+3101960 3104566 <i>some debate about whether<br />we should have this sequence.</i>
+3104880 3110171 <i>I felt very strongly that we should</i>
+3110840 3115448 <i>because I felt it was important<br />not only to see Adam having success</i>
+3116080 3118208 <i>outside of Mia, but to see them separate.</i>
+3118280 3121727 <i>This is actually the only time<br />the two of them are not together,</i>
+3121840 3124241 <i>once they become boyfriend and girlfriend.</i>
+3124640 3126165 <i>You need to have a moment</i>
+3126840 3131243 <i>where their relationship</i>
+3131360 3135046 <i>-is under stress prior to...<br />GREENSPAN: There's conflict. Yeah.</i>
+3135200 3137771 <i>CUTLER: Here, they're not together,<br />but she's just getting the letter</i>
+3137960 3141487 <i>that's gonna inform them.<br />But you need to see them apart</i>
+3141560 3142641 <i>in the same scene.</i>
+3142760 3145491 <i>You need to see that<br />something is threatening them.</i>
+3146280 3151650 <i>Not an infidelity or anything, except that<br />they're both having so much success.</i>
+3151720 3153848 <i>In this sequence now, you see that.</i>
+3153960 3156770 <i>He's succeeding by getting</i> a...
+3156880 3158848 <i>There's a record label<br />that wants to sign him.</i>
+3158920 3161207 <i>She's succeeding by getting into Juilliard.</i>
+3161280 3165171 <i>They are both just being themselves,<br />their truest selves.</i>
+3165240 3167481 <i>They're becoming their truest selves,</i>
+3167600 3170843 <i>and yet, there's immediately a sense<br />that this is going to tear them apart.</i>
+3170920 3173730 <i>So, that was a very important sequence<br />in the film.</i>
+3173800 3176849 <i>GREENSPAN: You always said<br />that music is tearing them apart.</i>
+3176920 3180367 <i>It's not anything they're doing.<br />He doesn't cheat on her.</i>
+3180440 3182249 <i>He doesn't become a jerk all of a sudden.</i>
+3182320 3185369 <i>It's that they are both having success<br />at what they love.</i>
+3185440 3190241 <i>CUTLER: Yeah, I think that's a really<br />distinguishing quality of this story,</i>
+3190320 3191401 <i>of Gayle's story,</i>
+3191480 3197089 <i>is that the heartbreak in this film<br />is not because either of them are...</i>
+3197160 3202246 <i>Do stupid things the way teenagers do,<br />or we all do.</i>
+3202320 3206370 <i>This relationship is being torn apart</i>
+3206440 3209967 <i>by the two of them being their truest selves.</i>
+3210040 3213123 <i>And that's the tragedy.<br />That's what's so difficult,</i>
+3213200 3217125 <i>because if they could find a way<br />to be themselves</i>
+3217200 3220363 <i>and be together, of course<br />that's what both of them would want.</i>
+3220680 3222330 I applied to Juilliard.
+3224480 3228565 <i>GREENSPAN: This was actually one of<br />those days where it was pouring rain.</i>
+3228960 3230086 (GREENSPAN LAUGHS)
+3230160 3232242 <i>CUTLER: And yet, you don't know. Right?<br />GREENSPAN: No.</i>
+3232320 3233321 <i>Very good sound mix.</i>
+3233400 3236449 <i>CUTLER: That's why you hear those crickets<br />in the background. That's covering rain.</i>
+3236520 3238488 <i>Isn't that amazing? That's a sound thing.</i>
+3239160 3241561 <i>Here... Just watch for a moment</i>
+3241640 3243085 <i>'cause this really is that beautiful scene</i>
+3243160 3245527 <i>where they're both realizing<br />what's going on.</i>
+3246000 3247809 In San Francisco.
+3249040 3250041 Wow.
+3251000 3252047 Wow.
+3252320 3254129 Juilliard. Mia, that's...
+3255000 3256684 Way to go. That's cool.
+3257640 3259563 Yeah, well, I won't get in.
+3259960 3263009 But it's kind of a big deal<br />that I even got an audition.
+3263640 3265608 Most people don't.
+3267520 3270285 Well, Yo Mama better<br />watch his back. Right?
+3270360 3273921 <i>GREENSPAN: He's trying so hard<br />to be supportive. You just love him.</i>
+3274400 3276971 <i>But his heart's breaking.</i>
+3279000 3281765 <i>CUTLER: One of the fun things<br />we got to do with Adam's band</i>
+3281880 3284565 <i>was show the arc of their growth,</i>
+3284640 3288690 <i>their success, over the year-and-a-half<br />that the film takes place.</i>
+3288760 3289841 <i>GREENSPAN: Here, they've made it.</i>
+3289920 3292287 <i>CUTLER: And here they are having... Yeah.<br />At the peak.</i>
+3292360 3295523 <i>And that's why we get<br />that beautiful spotlight shot</i>
+3296360 3297600 <i>of the marquee.</i>
+3297680 3299205 <i>GREENSPAN: We went to<br />a concert here, in prep.</i>
+3299280 3301806 <i>- CUTLER: We did.<br />- This is how you loved that location.</i>
+3301880 3303928 <i>CUTLER". That's right. We saw, uh...</i>
+3306560 3308244 <i>GREENSPAN: Kurt Vile.<br />CUTLER: Kurt Vile</i>
+3308320 3313884 <i>and, coincidentally,<br />the opening act was Johnny de Courcy,</i>
+3313960 3317407 <i>who was the young son</i>
+3319840 3324004 <i>of the homeowners of the house<br />that we shot. The Hall family.</i>
+3324080 3326128 <i>GREENSPAN". That was a weird coincidence.</i>
+3326200 3327964 <i>CUTLER". It was a remarkable coincidence.</i>
+3328920 3331127 <i>And this shot, I loved.</i>
+3331200 3335489 <i>Seeing the sea of people<br />and their hands up in the air. I just love it.</i>
+3335600 3338251 <i>And then this-<br />And that is pure John de Barman.</i>
+3339280 3342045 <i>Beautiful button on the performance.</i>
+3342400 3343401 <i>Just terrific.</i>
+3344760 3346444 ADAM: Thanks. Thanks for coming.
+3346600 3347647 Did you like the show?
+3347760 3348807 Good.
+3348880 3352521 <i>CUTLER: We're now getting towards<br />the scene that is their big fight scene.</i>
+3352600 3354250 <i>The big breakup scene.</i>
+3356680 3360127 <i>And this was, of course,</i>
+3360200 3363568 <i>the roughest scene<br />between them in the film.</i>
+3364000 3368050 <i>The scenes in the hospital are very,<br />very emotional and there is great loss,</i>
+3368120 3371602 <i>but in terms of the story</i>
+3371720 3375520 <i>that takes place in the past<br />about Mia and Adam's relationship,</i>
+3375640 3377244 <i>this fight scene is the raw scene.</i>
+3377320 3381484 <i>It's the only scene<br />that we shot fully handheld.</i>
+3381560 3386726 <i>- It's shot as if it were a vérité documentary.<br />-GREENSPAN: Raw and rough.</i>
+3386800 3390885 <i>CUTLER". It's raw and rough<br />and shot handheld,</i>
+3390960 3394726 <i>and you feel that rawness as a result.</i>
+3397680 3399728 <i>GREENSPAN: It's that scene,<br />or that moment in life,</i>
+3399800 3402644 <i>where you just say things and go too far.</i>
+3403800 3405290 <i>I don't know if you feel this way,</i>
+3405360 3409160 <i>but it seems like<br />they never really 100% recover</i>
+3409240 3411242 <i>from some of the stuff that was said.</i>
+3412280 3413441 <i>It's hard to take it back.</i>
+3413520 3415045 <i>CUTLER: It's always hard to<br />take things back.</i>
+3415120 3418363 <i>That's one of things you learn<br />as you get older, is that...</i>
+3418440 3422001 <i>Especially in moments like this,<br />you gotta be careful what you say</i>
+3422640 3425291 <i>because it's hard to put<br />the genie back in the bottle.</i>
+3427360 3431331 <i>In the same way<br />that Adam and Mia experience first love,</i>
+3431400 3437760 <i>they also are experiencing first cruelty<br />and that first raw fight.</i>
+3439840 3446610 <i>But, again, whenever I watch this,<br />I'm so thrilled with the performance,</i>
+3446680 3450844 <i>and the camerawork that gets inside here.</i>
+3450920 3453287 <i>And then, of course,<br />the way that Keith cut it.</i>
+3453360 3458082 <i>This is another example<br />of everybody operating.</i>
+3458160 3462210 <i>The full team operating on all cylinders.</i>
+3463720 3466963 <i>I can watch it over and I can watch it<br />a thousand times, this scene.</i>
+3467040 3468485 <i>GREENSPAN'. They both really let it rip.</i>
+3468560 3469891 We had plans.
+3469960 3471724 One minute, it's one thing.<br />The next minute, it's the other.
+3471880 3474850 I grew up with that shit, okay?<br />I don't need it.
+3476040 3479886 Even if I do go to Juilliard,<br />we can figure it out.
+3480000 3482082 Baby, we can text and we can Skype...
+3482240 3483526 Skype? Skype?
+3483680 3486524 Jesus, Mia! Have you ever even had<br />a long-distance relationship?
+3486600 3488090 It's bullshit.
+3488160 3491004 Okay? It's like dating a ghost.
+3491240 3496371 <i>GREENSPAN: if anything, this is Adam's<br />big crime in the film, is that</i>
+3498760 3501206 <i>he is shortsighted, as we all are.</i>
+3501280 3503647 <i>We don't think<br />that maybe the next moment,</i>
+3503720 3506929 <i>some accident is going to happen<br />and take the love of our life</i> away.
+3507880 3512044 <i>He comes to realize he should<br />not have let her go, in this instance.</i>
+3512120 3513121 <i>CUTLER". It's true.</i>
+3513200 3517524 <i>And yet, I feel that one of the great things<br />Jamie does in his performance</i>
+3517600 3522891 <i>is create an Adam, who you understand<br />when he says, "I had that shit growing up."</i>
+3522960 3528171 <i>And then, in the make-up scene<br />that's coming up in about three minutes,</i>
+3529640 3535522 <i>when he explains himself,<br />you really believe it, and you feel for him</i>
+3535600 3539764 <i>'cause he's feeling like the rug<br />is being pulled out from under him,</i>
+3539840 3541410 <i>and it's</i>
+3541800 3543165 heartbreaking.
+3543280 3546124 <i>Boy, did Beck come through for us.</i>
+3547120 3550841 <i>A principal collaborator is Beck.</i>
+3550920 3554720 <i>This song that covers the montage<br />is so important,</i>
+3554800 3557406 <i>and this shot, to me,</i>
+3557480 3563010 <i>if I have to pick a favorite shot<br />in the whole film, this is it.</i>
+3563120 3567967 <i>Because what we don't realize as we're<br />watching this is that the camera is Mia.</i>
+3568040 3570486 <i>We have no idea.<br />We haven't seen her in this scene.</i>
+3570560 3572210 <i>We're back in the hospital.</i>
+3573600 3576444 <i>Everybody is getting<br />an update on her status.</i>
+3576520 3580889 <i>Maybe she'll pull through.<br />She seems to be stable.</i>
+3581480 3584723 <i>We still don't know that it's Mia.<br />Adam has to leave.</i>
+3586360 3588089 <i>- And then we see that it's Mia.<br />-GREENSPAN: Revealed.</i>
+3588160 3593087 <i>CUTLER: And it's a reveal. I find it<br />so moving and beautifully done,</i>
+3593160 3597484 <i>and then it takes us back into her memory,<br />and here, again, is Beck,</i>
+3597560 3599608 <i>who guides us through this montage.</i>
+3599680 3602445 <i>And, boy, we were really fortunate.</i>
+3602520 3606764 <i>We got this song in post-production<br />before the album was released.</i>
+3606840 3608330 <i>GREENSPAN: We got it on the album.</i>
+3608400 3610846 <i>CUTLER: And then, of course,<br />it's on our soundtrack.</i>
+3610960 3614601 <i>But we received it<br />before Beck's album was released,</i>
+3614680 3621529 <i>and we tried a hundred different songs<br />at that moment in the film.</i>
+3621600 3624444 <i>And then Beck's album came in,<br />we put it there,</i>
+3624520 3627091 <i>and the moment we heard it,<br />we knew it</i> was...
+3627160 3629447 <i>If we could get the rights to it,<br />it would stay forever.</i>
+3629560 3632370 <i>And we got the rights to it,<br />which was terrific.</i>
+3634040 3635724 When are we gonna open presents?
+3635880 3637211 - Mia?<br />- KAT: That's gonna be fun!
+3637400 3639880 - Yeah, you wanna do that?<br />- Yeah, sure.
+3642520 3645729 <i>CUTLER". It's a heartbreak montage,</i>
+3645800 3648326 <i>but it also has to propel the story forward,</i>
+3648400 3651882 <i>so all of these little scenes<br />really made a difference.</i>
+3653040 3654201 <i>GREENSPAN: You love this shot.</i>
+3654280 3655691 <i>CUTLER: (LAUGHING) I do love this shot.</i>
+3656760 3659001 <i>I</i> do. (STAMMERING)
+3660600 3663171 <i>It was the first shot I saw in dailies</i>
+3663240 3665925 <i>where I thought, "Oh, yeah,<br />we're getting the look that we want."</i>
+3666000 3668765 <i>- Look at the color. It's just crazy.<br />-GREENSPAN: Beautiful.</i>
+3669920 3671763 <i>CUTLER: And Brent Thomas,<br />our production designer,</i>
+3671840 3675640 <i>would point out<br />that purple door at the center</i>
+3675720 3678564 <i>-indicates death and change.<br />- GREENSPAN: That's his death door.</i>
+3678640 3682008 <i>CUTLER: It was central<br />to his design of the house.</i>
+3685640 3688371 <i>See? This make-up scene is...</i>
+3688440 3691569 <i>The performance of this<br />is as important as the fight itself.</i>
+3692600 3695444 <i>When Adam explains himself, it's so critical.</i>
+3699480 3702882 <i>First time that this was put up,</i>
+3702960 3705611 <i>Adam's mosaic was put up on the ceiling,</i>
+3705720 3710806 <i>they did it very...<br />It was perfect, and I said to Brent,</i>
+3710880 3716728 <i>"What would it look like<br />if an 18-year-old guy had put it up there?"</i>
+3716800 3719531 <i>And that's when all of the<br />masking tape came in, and the thumbtacks,</i>
+3719600 3721364 <i>and it got all crooked.</i>
+3721440 3724091 <i>He was like,<br />"Oh, yeah, yeah, yeah, that's right."</i>
+3724800 3726609 What do you want, Adam?
+3728320 3729367 Mia, I'm sorry.
+3729520 3732171 - I know, I suck.<br />- No, no.
+3732320 3734607 You can't just disappear<br />from my life like that
+3734760 3736524 and pop back into it<br />whenever you feel like it.
+3736680 3738489 I know. It's just,
+3738640 3741883 the people in my life<br />have a habit of disappearing on me
+3742040 3743451 and when you started making plans...
+3743520 3744567 You're not gonna lose me.
+3744640 3745641 CUTLER: <i>There</i> you go.
+3747280 3750250 <i>So, that's what wins you over with Adam.<br />Which is beautiful.</i>
+3750320 3753642 <i>Now, we have another scene coming up,<br />which is their make-up...</i>
+3753720 3758089 <i>After they make up, it's the scene...</i>
+3759200 3762522 <i>They make up, they kiss, they go to bed,</i>
+3762600 3764887 <i>and we're with them after they went to bed.</i>
+3764960 3769568 <i>This was a scene that you're about to see,</i>
+3769640 3772246 <i>that we shot on the final day of production</i>
+3772320 3775449 <i>and was written<br />during the final days of production.</i>
+3775520 3780560 <i>It was written at the encouragement<br />of Jon Littman, our dear friend.</i>
+3782000 3784207 It's a cello and a guitar.
+3784880 3786405 Do you get it?
+3790200 3792726 <i>CUTLER". He kept on saying,</i>
+3792800 3795644 <i>"You need to see these guys getting deeper.</i>
+3795720 3797961 <i>"You need to see<br />that relationship getting deeper."</i>
+3798040 3801283 <i>And we shot it<br />not knowing where it would go.</i>
+3801400 3804324 <i>We all thought, and, in fact...</i>
+3804400 3806767 <i>When you make a movie,<br />you number the script</i>
+3806840 3810811 <i>and you number the scenes,<br />and we gave it a much earlier number</i>
+3810880 3814441 <i>because we all thought<br />it would come much closer to that scene</i>
+3814520 3820721 <i>where they first make love in the barn.</i>
+3823240 3824730 <i>Here's the scene.</i>
+3824840 3827844 <i>But it was Keith Henderson,<br />our editor, who said,</i>
+3827920 3830810 <i>"No, no, no. It's gotta go after they make up.</i>
+3830880 3832882 <i>"Because if it goes after they make up,</i>
+3832960 3835770 <i>"then you feel<br />they have really come back together,</i>
+3836080 3840688 <i>"and then you're really<br />deeply invested in the relationship."</i>
+3840760 3844048 <i>Because it's only here now,<br />it's only after they've been together,</i>
+3844120 3846361 <i>and they've broken up,<br />and they've come back together,</i>
+3846440 3848807 <i>that Adam can tell this story about his dad.</i>
+3850280 3852203 <i>GREENSPAN: This, actually,<br />we shot in the hospital.</i>
+3852280 3855682 <i>We built a little bedroom set<br />in the hospital. You would never know.</i>
+3855760 3857524 <i>CUTLER". On the final day.</i>
+3859040 3860963 And I realize it's him.
+3862520 3864249 It's my old man.
+3866120 3867531 And I just
+3867800 3869325 stop cold.
+3871840 3873888 And he just looks right at me
+3874480 3876005 and walks out.
+3877040 3878804 No idea who I was.
+3881640 3883005 Shit, Adam.
+3884120 3887727 Then that night, I played like I was on fire.
+3887800 3890644 I don't know if I thought I was good.
+3890720 3893326 I just knew that nothing else mattered.
+3894720 3896449 Till now.
+3896520 3897931 Till you.
+3901720 3903722 (BREATH ES DEEPLY)
+3909560 3911085 When I play...
+3912280 3915124 <i>CUTLER: This is equally important<br />to the scene,</i>
+3916680 3919047 <i>her opening up to him.</i>
+3919200 3921680 -It's like my little house.<br />- Really?
+3925680 3928889 Actually, no.<br />I'm totallyjust in it for the guys.
+3929720 3932564 <i>CUTLER: Then, of course,<br />because they're kids, they have to cover.</i>
+3932920 3934763 <i>GREENSPAN: Can't get too sappy.</i>
+3934840 3935841 Yeah.
+3937560 3939085 CUTLER: But really just beautiful,
+3939480 3941084 <i>and a beautiful addition, and Jon was right.</i>
+3941160 3942207 GREENSPAN: Jon was right.
+3942280 3946524 <i>CUTLER: We needed that scene,<br />and thank goodness, Shauna...</i>
+3946600 3949888 <i>There were many drafts of it. Many drafts.</i>
+3949960 3952088 <i>Back and forth, back and forth,<br />back and forth,</i>
+3952160 3955403 <i>and then finally, the day before,<br />we settled on the scene.</i>
+3955480 3959804 <i>It's a beautifully written scene,<br />a beautifully performed scene.</i>
+3963240 3966244 <i>In post-production,<br />we found the perfect place for it.</i>
+3966360 3968601 <i>GREENSPAN: It all worked out.<br />CUTLER". Yeah, really nice.</i>
+3968680 3970887 <i>Really nice, the way<br />sometimes that happens.</i>
+3971760 3976243 <i>We're now getting ready for Mia's audition.</i>
+3978520 3983481 <i>By the way, this voiceover here is actually...</i>
+3983560 3985847 <i>In the book, is the prologue.</i>
+3985960 3991205 <i>It's the very first page of the book,<br />is this interior monologue from Mia,</i>
+3993280 3998571 <i>where she says the decision<br />is so terrifying to her.</i>
+3999560 4002006 <i>GREENSPAN: It's her choice,<br />and she has the power to make it.</i>
+4002080 4004048 <i>She really struggles with that power.</i>
+4005120 4008442 <i>CUTLER: In the movie,<br />we decided to put it there,</i>
+4008520 4011524 <i>and have that lead us<br />right into her Juilliard audition.</i>
+4011600 4014410 <i>This is the place where I think, really,</i>
+4014480 4018007 <i>if Chloé hadn't spent<br />all that time with the cello,</i>
+4018080 4021129 <i>if she hadn't studied the great cellists,</i>
+4023680 4027890 <i>if she hadn't been able to<br />really communicate that,</i>
+4028000 4029809 <i>you wouldn't get the sense,</i>
+4029920 4032287 <i>and this is so important to this film,</i>
+4032960 4037045 <i>that young Mia is having,<br />for perhaps the first time in her life,</i>
+4037120 4040090 <i>a moment of artistic transcendence,</i>
+4040440 4042647 <i>where she is...</i>
+4043440 4044851 <i>The art she is creating</i>
+4044920 4048242 <i>is larger than anything<br />she can even comprehend,</i>
+4048320 4050971 <i>and it's a bit of magic.</i>
+4052000 4054048 <i>GREENSPAN: She says<br />she doesn't know she had it in her.</i>
+4054120 4057283 <i>That's what I always think of here.</i>
+4057760 4059649 (PLAYING CLASSICAL MUSIC)
+4085200 4087771 <i>CUTLER: This is, of course, also the moment</i>
+4087840 4089763 <i>where we really meet Gramps.</i>
+4090320 4091924 <i>We have seen him,</i>
+4092000 4096244 <i>but we're now meeting a man<br />who's going through a transformation,</i>
+4096360 4100684 <i>so affected is he<br />by the music his granddaughter is creating.</i>
+4112360 4114283 <i>We always say,</i>
+4114720 4117803 <i>"How do you know<br />the king has walked in the room?"</i>
+4117880 4120087 <i>The answer is, "Because everybody bows."</i>
+4120160 4122128 <i>How do you know Mia's this great?</i>
+4122840 4124171 <i>Because Gramps cries.</i>
+4126160 4127161 (some ENDS)
+4127760 4128761 (PANTING)
+4129640 4131244 <i>GREENSPAN". I love that look she gives.</i>
+4132360 4133441 <i>CUTLER: Can't believe it.</i>
+4135720 4140567 <i>So, that's an exciting moment in the film.</i>
+4140640 4142768 <i>With this shot, which is an unusual shot,</i>
+4142840 4146447 <i>'cause you don't see the reverse on Mia</i>
+4146520 4149330 <i>because we actually never got to shoot it.</i>
+4149400 4153485 <i>But we kept that shot in because<br />it's Mia's point of view of the house</i>
+4153560 4156131 <i>after that moment,<br />and she's seeing it differently.</i>
+4157440 4158805 <i>She's growing up now.</i>
+4159320 4161891 <i>GREENSPAN: You've been out in the world,<br />and you've done this great thing.</i>
+4161960 4164008 <i>CUTLER". She is Mia the great cellist now.</i>
+4164080 4168927 <i>Everything has changed, and that's why<br />it was important to have that shot,</i>
+4169000 4170923 <i>just that point of view,<br />and that was something</i>
+4171000 4173207 <i>that was in Shauna's script<br />from the very beginning.</i>
+4173280 4176329 <i>She sees the house in</i> a <i>different</i> way.
+4177400 4178401 Mia.
+4179240 4182687 <i>CUTLER: We talk a lot about<br />the scene of Gramps in the hospital,</i>
+4182760 4185366 <i>and we'll talk to it when we get to it<br />because it's such a powerful scene,</i>
+4185440 4187363 <i>but I am absolutely certain</i>
+4187440 4190967 <i>that the impact of that scene<br />comes because of this scene,</i>
+4191080 4194368 <i>because he opens up to her in this way</i>
+4194440 4199446 <i>and says, "I want to tell you<br />what I didn't tell your dad."</i>
+4201520 4203045 Thank you, Gramps.
+4206400 4209882 <i>CUTLER: This is something<br />he could not have done a day ago.</i>
+4210960 4212564 <i>GREENSPAN: Yeah, it's an interesting thing.</i>
+4212640 4216645 <i>It goes back to just carving real characters.</i>
+4216720 4220202 <i>He's not the perfect father or grandfather,</i>
+4220320 4223802 <i>and he has a change throughout<br />the movie that really wins you over.</i>
+4224000 4226844 <i>CUTLER". I did an interview earlier today.</i>
+4226920 4229446 <i>A journalist is doing a piece<br />on tearjerker films,</i>
+4229520 4231921 <i>and he was like...<br />He said, "So, what's the secret?</i>
+4232040 4237251 <i>"What's the sugar in the spaghetti sauce<br />of tearjerker films?"</i>
+4237320 4242167 <i>And we talked about several moments,<br />including that scene with Gramps.</i>
+4242240 4244641 <i>And I kept on saying,</i>
+4244760 4248242 <i>"I think the secret is that<br />you keep it as real as possible.</i>
+4248320 4251642 <i>"If the moments are authentic,<br />and the people are genuine,</i>
+4251720 4253404 <i>"and they're in that moment,</i>
+4253480 4256131 <i>"and they're being as real as possible,</i>
+4256200 4257770 <i>"it's going to be moving."</i>
+4257840 4260161 <i>Because a moment like that,</i>
+4260240 4263722 <i>where a grandfather<br />opens up to his granddaughter that way</i>
+4263800 4265962 <i>and says, "I don't want to<br />make the same mistake with you</i>
+4266040 4267963 <i>"that I made with your dad."</i>
+4268040 4271169 <i>If it's performed by somebody<br />as brilliant as Stacy,</i>
+4271240 4275131 <i>and as brilliant as Chloé, and it's real,</i>
+4275200 4276611 <i>-it's gonna be moving.<br />GREENSPAN". It really works.</i>
+4276680 4277806 <i>CUTLER". It's gonna jerk the tears.</i>
+4277880 4279609 That was a really beautiful song, Adam.
+4279680 4281205 It's gettin' there.
+4282200 4285124 <i>CUTLER: By the way, that song<br />that we just had Adam play,</i>
+4285200 4287726 <i>that was a late addition.</i>
+4287800 4293091 <i>Originally, we were going to<br />do that song as an electric song.</i>
+4293160 4295367 <i>- It was a slower, more of a ballad.<br />-GREENSPAN: In the club, yeah.</i>
+4295440 4297363 <i>CUTLER". We prepared as an electric song.</i>
+4297480 4300211 <i>Even in here, he was gonna play it electric,</i>
+4300280 4302601 <i>and when we got here that day,</i>
+4302680 4307447 <i>Jamie was just fooling around on the<br />acoustic guitar, and it sounded so great,</i>
+4307520 4310649 <i>and it was so different<br />than everything else he had done</i>
+4310720 4312529 <i>that we figured, let's do it that way.</i>
+4312600 4318004 <i>Let's hear a whole different song<br />from Adam Wilde,</i>
+4318080 4320048 <i>and a whole different tone.</i>
+4320120 4323727 <i>We ended up using that song<br />in the closing credits, we loved it so much.</i>
+4324840 4326330 Yeah, me too.
+4328320 4331005 You know, for once, I actually felt
+4331760 4333569 like I could do this.
+4335760 4339481 Why didn't you call me<br />after the audition to brag?
+4339600 4340840 I know...
+4340920 4342922 <i>CUTLER: Now, you and I<br />discussed this scene</i>
+4343000 4344206 -a <i>great deal.<br />- GREENSPAN: Many times.</i>
+4344280 4345611 (GREENSPAN CHUCKLING)
+4346880 4348848 <i>CUTLER". My feeling is less is more.</i>
+4348920 4350843 GREENSPAN: Yes. You were right.
+4351280 4352850 (COMMENTATORS LAUGHING)
+4352920 4358131 <i>CUTLER: It's not the only reason<br />I bring it up, but I do really love...</i>
+4359280 4360691 <i>GREENSPAN: How a look says so much.</i>
+4360760 4361807 - CUTLER: Yes.<br />- Yeah.
+4361880 4363120 <i>CUTLER". And this pause here.</i>
+4363960 4366884 <i>And how painful that is,<br />and then how later in the night,</i>
+4366960 4371284 <i>they just are trying and<br />trying to put a laugh on it.</i>
+4371360 4373124 <i>Trying to make the best out of it.</i>
+4373200 4378161 <i>GREENSPAN: You said and you pointed out<br />that Gayle had this great line in the book,</i>
+4378240 4380049 <i>"It's like we were breaking up<br />in slow-motion. "</i>
+4380120 4381326 <i>CUTLER: Mmm-hmm.<br />GREENSPAN: And so, you wanted to</i>
+4381400 4383164 <i>capture that rolling...</i>
+4384040 4386042 <i>How people really break up.</i>
+4386120 4387565 <i>You love someone.</i>
+4387640 4389881 <i>You know where it's headed,<br />but you can't let go,</i>
+4389960 4392361 <i>and you're trying to pretend.<br />This is that scene.</i>
+4392440 4394807 <i>CUTLER". Trying so hard. So hard.</i>
+4394880 4397884 <i>And she got it, too. Chloé got it.</i>
+4397960 4400611 <i>Again, talk about a look in a scene,</i>
+4401600 4405047 <i>the final moment of this scene,<br />right before she kisses him,</i>
+4405120 4407851 <i>and then when she runs out,<br />really captures that.</i>
+4409880 4412645 Okay? And I'm still crazy in love with you.
+4414680 4416409 Yeah, me too.
+4422160 4423400 <i>CUTLER". Just beautiful.</i>
+4430360 4433170 <i>And now we're in the final run of the film.</i>
+4434000 4435206 Um...
+4436000 4438844 <i>Because you see<br />where the relationship is going.</i>
+4440600 4443809 <i>We're about to find out<br />the real emotional blow,</i>
+4444720 4446290 <i>which is...</i>
+4446360 4450046 <i>We're building up to that of point<br />where we find out about Teddy.</i>
+4450120 4453010 <i>This is the hospital section that begins that.</i>
+4453080 4456129 <i>Now, I can't remember all of the places</i>
+4456200 4458646 <i>we thought about shooting this scene.</i>
+4458720 4460051 And finally...
+4460120 4461804 <i>GREENSPAN: I was just gonna say,<br />we found this</i>
+4461880 4463723 <i>(LAUGHING)</i> a <i>week<br />before we shot this scene.</i>
+4463800 4467850 <i>CUTLER: A week is much longer.<br />It may have been the day before.</i>
+4467920 4469922 <i>GREENSPAN: Was it that close?<br />CUTLER". Yes.</i>
+4471040 4473486 <i>But it was a space that Brent found<br />that worked perfectly</i>
+4473560 4476040 <i>-as the hospital roof.<br />- GREENSPAN: Totally worked. Beautiful.</i>
+4476800 4480122 <i>CUTLER: And gave us a different look<br />and a different feel.</i>
+4480200 4482362 <i>But it was another example<br />of a happy accident,</i>
+4483400 4487041 <i>where we were running out of options.</i>
+4487120 4490249 <i>I think we were looking at this<br />for the New Year's Eve party, in fact.</i>
+4490320 4491321 GREENSPAN: Yes.
+4491400 4493641 <i>CUTLER: It was scouted<br />for the New Year's Eve party,</i>
+4493720 4495609 <i>and it didn't work<br />for the New Year's Eve party</i>
+4495720 4501682 <i>'cause it didn't really feel like it would be<br />a twenty-something's apartment.</i>
+4502000 4505209 <i>But Brent came back one day<br />to production and he said,</i>
+4505280 4508363 <i>"I think I found the hospital roof.<br />We can do the scene there."</i>
+4511400 4514529 <i>When you have a happy accident,<br />it's a good idea to grab it.</i>
+4516400 4518084 <i>GREENSPAN: Speaking of happy accidents,</i>
+4518200 4522410 <i>we would not have<br />gotten through this crazy schedule,</i>
+4522480 4525484 <i>'cause there were basically<br />two Mias working every day,</i>
+4525560 4529724 <i>the Mia you see walking around as a ghost<br />and the Mia you see lying in bed.</i>
+4529800 4534203 <i>We were really lucky to find a girl<br />whose height and face</i>
+4534280 4537523 <i>and body looked exactly like Chloé,</i>
+4537600 4541161 <i>and that helped us get through<br />all of these hospital scenes</i>
+4541240 4545211 <i>without having to shoot the actual Chloé<br />twice in two locations.</i>
+4545280 4547328 We really need someone<br />down there right now!
+4547400 4548731 - Shi't!<br />-(WHISPERS) Go!
+4548960 4549961 <i>GREENSPAN". That's funny to me every time.</i>
+4550040 4551405 <i>CUTLER: (CHUCKLING)<br />I love Liana in the moment.</i>
+4551480 4553767 <i>It's so important in this film,</i>
+4553840 4556650 <i>it actually brings up an interesting thing,</i>
+4556720 4559724 <i>that we were able to find moments of levity.</i>
+4559800 4563043 <i>Moments that the audience could laugh,</i>
+4563160 4565640 <i>even in the middle<br />of the most intense moments.</i>
+4566680 4571527 <i>But this is what you're talking about,<br />where you see both Chloé and the double.</i>
+4571600 4574683 <i>Of course, we put Chloé's face<br />on the double using visual effects,</i>
+4574760 4578242 <i>but it was great to have<br />that body there to work with.</i>
+4579640 4582883 <i>GREENSPAN: That was your conceit<br />of being able to see</i>
+4582960 4584405 <i>two Chloés at the same time.</i>
+4584480 4585925 <i>CUTLER: So important. You gotta.</i>
+4586000 4590324 <i>Mia had to see herself,<br />and it's so powerful when she does.</i>
+4590720 4592006 ...handle it from here.
+4592080 4594765 <i>CUTLER: Again, here, you see<br />that floating camera that we used,</i>
+4594840 4597730 <i>that's Mia's point of view.</i>
+4597800 4599529 <i>This is actually the scene...</i>
+4599600 4602604 <i>Shooting this scene was<br />where we realized that,</i>
+4602680 4606651 <i>that floating camera<br />was going to be so helpful to us.</i>
+4606960 4609361 Well, she's gonna need you now<br />more than ever.
+4612080 4613570 Hey, what's going on?
+4614640 4616449 Willow, what's happening?
+4617000 4621722 <i>CUTLER: And this, of course,<br />is the most powerful emotional sequence,</i>
+4621800 4626044 <i>when Mia realizes<br />what's happened to Teddy.</i>
+4633040 4638046 <i>We've neglected to mention, of course,<br />Gabrielle Rose, who plays Gran.</i>
+4638120 4640885 <i>Another wonderful member<br />of this ensemble</i>
+4642880 4644848 <i>who had few words to work with,</i>
+4644920 4648686 <i>but delivered<br />just another knockout performance.</i>
+4651040 4653805 <i>Here is that memory footage<br />we were talking about before.</i>
+4655800 4657643 <i>MIA: And never learn to drive.</i>
+4658640 4662486 <i>CUTLER". The interaction<br />of editorial and narrative,</i>
+4662560 4664528 <i>the way this material was shot,</i>
+4666560 4671282 <i>performance, another example<br />of all of it working together</i>
+4673080 4679611 <i>at the same time, and you get<br />this feeling that Mia has given up.</i>
+4680080 4681570 ...to be over!
+4682200 4683850 (MACHINE BEEPING RAPIDLY)
+4696360 4699842 <i>CUTLER: Yeah, we haven't talked at all<br />about the facility where we shot.</i>
+4699920 4701524 <i>The hospital. It's not a hospital.</i>
+4701600 4704365 <i>There are no hospitals in Vancouver,<br />are there, where you're allowed to shoot?</i>
+4704440 4705726 <i>GREENSPAN". None that will let you shoot...</i>
+4705800 4707040 <i>CUTLER: There are plenty<br />of hospitals in Vancouver</i>
+4707120 4709487 <i>-if you need a gall bladder operation.<br />- GREENSPAN: ...for three weeks.</i>
+4709600 4711887 <i>CUTLER". But not if you're making a film.</i>
+4711960 4715043 <i>Which is amazing, because<br />they have so much production there.</i>
+4715120 4718124 <i>You would think somebody<br />would let you use their hospital.</i>
+4718200 4720931 <i>So, as a result, there is one place</i>
+4721000 4725483 <i>where everybody who shoots in Vancouver<br />shoots hospital scenes.</i>
+4725560 4727130 <i>What's it called?</i>
+4727240 4728844 - G <i>RE</i> E N S <i>PAN: Riverview.</i><br /><i>-Riverview.</i>
+4728920 4732811 <i>GREENSPAN: It's an abandoned<br />insane asylum,</i>
+4734880 4738965 <i>and this really is credit<br />to the great Brent Thomas,</i>
+4739040 4742567 <i>because it's just hallways,<br />and he built the set.</i>
+4742640 4744051 <i>CUTLER". Now, you say that it's abandoned,</i>
+4744120 4746487 <i>but it's abandoned by all living humans.</i>
+4747680 4750001 <i>Ghost spirits still occupy it.</i>
+4750080 4753084 <i>GREENSPAN: We think so.<br />We heard a weird clanking during shooting.</i>
+4753160 4755766 <i>CUTLER: Whenever the cameras would roll,</i>
+4755840 4757763 <i>-the pipes would clank.<br />-GREENSPAN: The pipes would clank.</i>
+4757840 4762402 <i>CUTLER: Some people were more sensitive<br />to ghost spirits than others,</i>
+4762480 4764687 <i>and more creeped out by it.</i>
+4766720 4769644 <i>So, it made for an eerie<br />couple of weeks of shooting,</i>
+4769720 4771051 <i>but we got through it.</i>
+4771160 4773083 <i>Thank goodness we had that space.</i>
+4773160 4777165 <i>And upstairs in that abandoned institution,</i>
+4777240 4778765 <i>-we found...<br />-GREENSPAN: Was our New Year's party.</i>
+4778840 4781605 <i>CUTLER: (CHUCKLING)</i> ...a <i>space to shoot<br />New Year's, and thank God we did,</i>
+4781680 4783603 <i>because we wouldn't have been<br />able to fit it into the schedule</i>
+4783680 4788242 <i>if we couldn't just run upstairs<br />and shoot New Year's.</i>
+4788320 4791403 <i>This is no twenty-something's apartment.</i>
+4791480 4795565 <i>It is a rooftop of an abandoned...</i>
+4795640 4797768 - GREENSPAN: Insane asylum.<br />-(BOTH LAUGHING)
+4798640 4802964 <i>CUTLER: But a place<br />where a great love story could be told.</i>
+4803520 4804885 I promise you.
+4805400 4806811 Wait, what am I promising?
+4808040 4810361 That we'll spend next New Year's together.
+4811280 4814409 <i>CUTLER: There was always this question<br />of, "When do they break up?</i>
+4814480 4817643 <i>"How do they break up?"<br />And, again, like life,</i>
+4817720 4822760 <i>sometimes it happens<br />not in a big, dramatic movie scene,</i>
+4822880 4824848 <i>but just in a realization.</i>
+4824920 4826206 I guess we both know<br />where this is heading.
+4826280 4827281 <i>CUTLER". And there it is.</i>
+4840920 4842365 Yeah, I guess so.
+4847520 4850888 <i>CUTLER: We talked at the very beginning of<br />this conversation about reading the book,</i>
+4850960 4853645 <i>and how certain emotional moments</i>
+4856960 4860362 <i>just blew me away. I know you had<br />a similar experience when you read it.</i>
+4861240 4863129 <i>One of them was the scene</i>
+4863200 4866568 <i>between Mia and Kat at the kitchen sink<br />on New Year's Day.</i>
+4866640 4867926 <i>And that is this scene.</i>
+4868000 4873245 <i>For me, this was a defining moment<br />in the very first experience</i>
+4873320 4875288 <i>I had with this story. Reading the book.</i>
+4875360 4878011 <i>And I always knew<br />it would be a defining moment in the film,</i>
+4878080 4882768 <i>because of the way that<br />mother and daughter connect.</i>
+4883280 4887444 <i>The way that mother<br />can't solve the problem</i>
+4887520 4890490 <i>her daughter is<br />begging her to help her solve,</i>
+4890560 4894326 <i>but the way that she loves her through it,<br />and embraces her through it,</i>
+4894400 4897643 <i>and promises her that she'll be there</i>
+4898800 4903408 <i>no matter what decision<br />her daughter makes.</i>
+4903480 4906882 <i>It's just very powerful to me.</i>
+4906960 4911409 <i>Consistent with that theme of seeing,<br />and being seen, and being understood.</i>
+4913160 4917529 <i>GREENSPAN: I love that she doesn't try<br />and whitewash it for her daughter.</i>
+4917640 4919608 <i>Say, "Oh, it's all gonna be okay."</i>
+4919680 4923002 <i>She basically says, "Life's a bitch,"<br />you know? It's messy.</i>
+4923080 4925560 <i>It's a great scene.</i>
+4925920 4927126 Oh, God.
+4927280 4929521 I'm such a mess.
+4929800 4934169 You know, we had this perfect<br />year and a half together.
+4936920 4941721 And now,<br />we're just moving in different directions.
+4941840 4943205 Is it over?
+4944360 4945521 Yeah.
+4950040 4951804 You're supposed to break up with someone
+4951880 4953325 because you're not in love with them.
+4953400 4955164 Not because you're completely<br />in love with them.
+4955240 4957481 <i>GREENSPAN: This was also<br />day three or four of shooting.</i>
+4957560 4959324 <i>- It was early...<br />- CUTLER: Very early.</i>
+4959400 4960526 <i>...for them to find</i>
+4960640 4961766 <i>-that rhythm and groove.<br />- CUTLER: Mmm-hmm.</i>
+4961840 4963888 <i>GREENSPAN: They both just snapped into it.</i>
+4966320 4970291 <i>CUTLER: Also, we shot this scene<br />for several hours</i>
+4970400 4973085 <i>because we couldn't complete a shot<br />without an airplane coming.</i>
+4973160 4977324 <i>It was like all of a sudden,<br />this house had become ground zero</i>
+4977400 4982008 <i>for all overhead flying<br />in the country of Canada.</i>
+4983560 4985369 <i>GREENSPAN: And Chloé kept on<br />bringing the tears.</i>
+4985440 4988410 <i>It's so hard to stay in the moment.</i>
+4988480 4991609 <i>CUTLER: But they did it,<br />and they did it so beautifully.</i>
+4991760 4994286 I am being completely torn in half.
+4996240 4999403 You're going to go to Juilliard<br />and play the hell out of your cello.
+5000760 5002603 Or you're not.
+5003680 5007321 You're gonna stay with Adam<br />and have lots of amazing adventures.
+5007520 5009090 Or you're not.
+5009240 5012130 Or maybe tomorrow,<br />the Earth's gonna smash into a meteor.
+5012280 5013645 Or it's not.
+5014360 5017682 Life is this big fat gigantic stinking mess.
+5017840 5019968 But that's the beauty of it too.
+5021600 5023762 Whatever you do, I support you.
+5023960 5025610 Either way, you win.
+5026600 5029046 And also either way<br />there's something that you lose.
+5031440 5033283 What can I say, baby?
+5034200 5036282 True love's a bitch.
+5045600 5048001 <i>CUTLER: And so, at the same exact moment</i>
+5048080 5053484 <i>that Mia in the past-tense story<br />has to be deciding what to do,</i>
+5054280 5058080 <i>Mia in the present<br />has to be deciding what to do.</i>
+5058160 5060811 <i>GREENSPAN: The two storylines<br />have caught up with each other here.</i>
+5061320 5062845 <i>CUTLER". That leads to the scene</i>
+5062920 5066367 <i>we've been referencing<br />throughout this conversation,</i>
+5066440 5067930 -which is...<br />- GREENSPAN: Gramps.
+5068040 5069769 <i>...the Gramps bedside scene.</i>
+5071480 5074848 <i>And there are so many things about this<br />that are wonderful.</i>
+5076000 5078606 <i>We should just<br />let the viewer watch the scene.</i>
+5081960 5083962 <i>These two remarkable performances.</i>
+5086480 5092931 <i>Except to add that<br />it is the one sequence in the film</i>
+5093000 5095571 <i>where Mia,</i>
+5097000 5102006 <i>her spirit, can be felt<br />by one of the other characters.</i>
+5108240 5110561 I've been trying to think
+5110720 5114691 of what Denny<br />would want me to say to you.
+5115520 5117204 The kid was a helluva of dad, wasn't he?
+5118440 5120442 He sure had me beat.
+5121600 5126049 I remember the day that he quit the band.
+5127760 5130411 He just up and said,
+5130560 5133291 "That's it. The time has come."
+5135040 5137042 I was surprised.
+5138720 5141929 I never really liked<br />the way the band sounded,
+5143080 5145048 but I knew how important it was to him.
+5145240 5148642 And so I asked him, I said,<br />"Why are you quitting?"
+5149560 5151847 And he said,
+5151920 5155527 "You make sacrifices for your kids.
+5155600 5157364 "For your kids."
+5158720 5160529 He said that without even blinking.
+5160600 5162568 That's why he quit the band.
+5162760 5164171 For Teddy.
+5164320 5165560 <i>For you.</i>
+5166760 5169843 It was when he heard you play so well.
+5170000 5172401 I think that's when it clicked for him.
+5173640 5176246 Your incredible talent, it...
+5176800 5180407 He just couldn't believe it.
+5180520 5184605 And all he wanted to do<br />was to give you more.
+5184760 5186808 So, he quit the band,
+5186920 5188684 he sold his drum kit
+5189800 5191450 and he bought you that cello.
+5193440 5194965 Sacrifice.
+5195840 5198491 That's what we do<br />for the people that we love.
+5200680 5202603 And here's mine, Mia.
+5203520 5205284 I want you to live.
+5205960 5208281 I want that more than anything<br />in this world.
+5208440 5211967 I want you to fight like hell to stay with us.
+5213320 5216290 But, with everybody else gone,
+5216480 5218482 I know it might not be what you want.
+5218640 5222804 It might be too hard for you<br />to keep fighting, so...
+5225800 5227529 If you wanna go,
+5228960 5231167 (VOICE BREAKING)<br />I want you to know it's okay.
+5232200 5233565 It's okay.
+5237160 5239003 I understand.
+5250520 5252010 Thank you.
+5260040 5261166 Gramps?
+5264640 5266130 <i>CUTLER". My feeling was somehow that,</i>
+5266200 5269010 <i>as we get closer to leaving</i>
+5269760 5271888 <i>the earthly realm,</i>
+5271960 5275282 <i>those whom we love</i>
+5276520 5278682 <i>can feel us most strongly,</i>
+5278760 5282810 <i>and that's why<br />that moment was so important.</i>
+5282920 5285924 <i>There's a moment, one moment, later on,</i>
+5286000 5289447 <i>as she's saying goodbye to Kim,<br />that she touches her,</i>
+5289520 5292171 <i>and Kim looks down at her hand<br />where she's touching her,</i>
+5293720 5297441 <i>and they both got it. They understood that.</i>
+5298920 5301048 <i>That's why that moment works so well.</i>
+5304160 5308324 <i>I love this scene. How she moves,<br />the spirit moves around the room.</i>
+5311800 5316567 <i>This brings us back to the first scene<br />we saw Liana do in audition.</i>
+5316640 5318210 <i>GREENSPAN: That made us cry then, yeah.</i>
+5318880 5320120 Hey-
+5323960 5325200 <i>CUTLER: But all of the things<br />we've talked about,</i>
+5325280 5328841 <i>the connection between these people,</i>
+5330800 5333371 <i>and the fact that we filmed this<br />at the end of the film,</i>
+5333440 5336728 <i>and that they were saying goodbye<br />after this powerful experience...</i>
+5336800 5339849 <i>GREENSPAN: It just worked.<br />-...it all contributes to it.</i>
+5339920 5342207 Some are related to you and some aren't,
+5343680 5345523 but we're your family.
+5348080 5350845 You still have a family, Mia.
+5360440 5361441 (CHUCKLES)
+5363000 5364331 Look. (SNIFFLES)
+5365000 5369085 <i>CUTLER: This is<br />an interesting narrative thing</i>
+5369160 5371527 <i>that comes straight from Gayle's book.</i>
+5371600 5376527 <i>At exactly the same moment in the book<br />comes the memory</i>
+5376640 5377766 <i>-of the family picnic.<br />-GREENSPAN: The best day.</i>
+5377840 5379126 <i>CUTLER". "The best day of my life."</i>
+5379200 5384047 <i>Usually, you would expect,<br />at this moment, for the scene to have</i>
+5384120 5387886 <i>some narrative propulsion,<br />something dramatic would happen.</i>
+5387960 5390008 <i>But really what happens is<br />an emotional moment.</i>
+5391120 5395489 <i>It's a moment where Mia realizes,</i>
+5396480 5399211 <i>as she says,<br />that she's part of something larger.</i>
+5400720 5404770 <i>We borrowed this realization she had<br />in another place in the book,</i>
+5404840 5408049 <i>that the cello, she always thought<br />of the cello as a solo instrument,</i>
+5408120 5410726 <i>but then she realized<br />it was part of something larger</i>
+5410840 5413764 <i>even as she realizes<br />that she's part of something larger.</i>
+5413840 5418243 <i>And that's the transformational moment.</i>
+5420080 5426690 <i>But a moment, as well, that her spirit<br />realizes can no longer exist.</i>
+5426760 5428649 <i>Or at least she thinks that,</i>
+5428720 5431929 <i>and that's what leads her<br />to make the decision</i> to...
+5433240 5434605 GREENSPAN: To go.<br />CUTLER: To go.
+5435520 5439491 <i>GREENSPAN: This was</i> a <i>tough song<br />to find, the Smashing Pumpkins' Today.</i>
+5439560 5441767 CUTLER: It was, <i>it</i> was.
+5441840 5444127 <i>There was a lot of discussion<br />about this, as well.</i>
+5444200 5448125 <i>There were a few different songs<br />that we that we considered.</i>
+5448200 5452091 <i>There was a song I love<br />that we couldn't get the rights to.</i>
+5453360 5456409 <i>We tried for a long time, and then<br />we tried a number of different songs,</i>
+5456480 5460451 <i>and it had to work not only as a song</i>
+5460520 5463922 <i>that a bunch of musicians with guitars and</i>
+5465880 5468565 <i>banjos would be able to play.</i>
+5468640 5470244 <i>GREENSPAN: And a cello.<br />CUTLER". But to work on a cello!</i>
+5470360 5474331 <i>And that it would have a great cello solo.</i>
+5475360 5480526 <i>And how did we arrive at this song?</i>
+5480600 5482807 <i>-(GREENSPAN LAUGHING)<br />- CUTLER: Somebody had the bright idea</i>
+5482880 5485167 <i>to use the Smashing Pumpkins' Today.</i>
+5485240 5487641 <i>I can't quite remember who it was, Alison.</i>
+5488320 5489810 <i>MIA: Just me and my cello.</i>
+5490000 5491570 (GREENSPAN LAUGHING)
+5492640 5495530 <i>GREENSPAN: John said we should look at<br />songs that had been done with cello,</i>
+5495600 5499844 <i>and in searching online for YouTube videos</i>
+5499920 5502241 <i>or videos from the '90s with cello in it,</i>
+5502320 5504766 <i>I stumbled across this song.</i>
+5506920 5508843 <i>I always loved Billy Corgan.</i>
+5508920 5512163 <i>And then, thankfully, you liked it, too.</i>
+5512800 5519570 <i>CUTLER: And thankfully<br />perhaps even more, Billy Corgan...</i>
+5519640 5522291 <i>GREENSPAN: Let us have it.<br />-...let us have it at a price.</i>
+5522360 5524931 <i>He gave it to us at a rock-bottom price</i>
+5525080 5528368 <i>because he really responded to the material.</i>
+5529480 5530970 <i>Here's a shout-out to him.</i>
+5531040 5536410 <i>And then, most of all, thankfully,<br />Adam Lasus, who produced this,</i>
+5536480 5541247 <i>and the whole team who performed it,<br />just crushed it.</i>
+5542200 5546967 <i>We'll let you listen. It's just a great,<br />great performance of Today.</i>
+5549600 5552968 <i>ALL: (SINGING) Today is the greatest</i>
+5553120 5555202 <i>Day I've never known</i>
+5555320 5558483 <i>Can't wait for tomorrow</i>
+5558920 5560809 <i>I might not have that long</i>
+5561120 5564966 <i>I'll tear my heart out</i>
+5566960 5571204 <i>Before I get out</i>
+5574000 5576844 <i>CUTLER: And here is Mia's<br />revelation coming up.</i>
+5580080 5583163 <i>MIA: The thing is,<br />Mom and Dad always had their scene.</i>
+5583320 5584924 <i>And Adam had his.</i>
+5585080 5588607 <i>And I was always jealous<br />because I didn't have mine.</i>
+5588760 5590842 <i>Until the night of the bonfire.</i>
+5591520 5593170 <i>That was my scene.</i>
+5593920 5595365 <i>That was where I belonged.</i>
+5595480 5597369 (ALL CONTINUE SINGING)
+5599520 5601682 <i>MIA: That's what happiness felt like.</i>
+5604440 5607842 <i>CUTLER: It's funny, I always knew<br />that I wanted to put, um,</i>
+5608680 5611490 <i>Mia's spirit in this memory.</i>
+5611560 5614040 <i>That's the only time<br />she appears in one of her memories.</i>
+5614120 5615645 <i>GREENSPAN: You felt<br />very strongly about that.</i>
+5615720 5616881 <i>CUTLER: That's something<br />we talked about a lot.</i>
+5618200 5621841 <i>I felt if she could see it<br />in the moment of decision,</i>
+5623880 5625689 <i>that it would have a certain power.</i>
+5625760 5630368 <i>I think it really quite works<br />and sets up this moment,</i>
+5630440 5634240 <i>where she says goodbye to her body<br />and is preparing to leave.</i>
+5650480 5653211 <i>This walk is one of the very first things<br />we shot in the hospital.</i>
+5653280 5658366 <i>We had time and we shot it<br />the very first day we were in the hospital,</i>
+5658440 5661489 <i>and I thought, "No way she's gonna nail it,"<br />and she did.</i>
+5661560 5664530 <i>This is the moment I was talking about<br />where she touches Kim.</i>
+5666400 5669882 <i>I love that Kim and Liz<br />have become friends over time,</i>
+5669960 5671928 <i>and then Kim looks down.</i>
+5675680 5678286 <i>What's very subtle on the soundtrack<br />is the sound of wind,</i>
+5678400 5681927 <i>which is something that Shauna<br />had written in at the very beginning,</i>
+5682000 5684162 <i>and I'm pretty sure was also in the book,</i>
+5684280 5688729 <i>the sense of wind.</i>
+5699040 5701520 <i>We wanted this to be beautiful.</i>
+5701600 5704683 <i>We wanted the world<br />that she was going towards</i>
+5704800 5711046 <i>to be as beautiful and compelling<br />as one could imagine.</i>
+5715560 5718962 <i>But there is only one thing<br />that could bring her back.</i>
+5720600 5722682 (CELLO PLAYING CLASSICAL MUSIC)
+5729160 5731401 Just after this piece.
+5733440 5737001 <i>CUTLER: Of course,<br />it's the same performance</i>
+5740480 5743563 <i>that Mia and Adam listened to<br />on their very first date,</i>
+5743640 5747326 <i>which is the remarkable Alisa Weilerstein,</i>
+5751920 5754571 <i>who came to Vancouver<br />and performed for us,</i>
+5754640 5756608 <i>took time out of her touring schedule<br />to do it</i>
+5756680 5759047 <i>because she wanted to be a part of this.</i>
+5759120 5761168 <i>GREENSPAN: I think it was<br />the day before Thanksgiving.</i>
+5761240 5766201 <i>She flew out on a red-eye, performed,<br />flew back that night.</i>
+5766320 5769290 <i>Really lovely, lovely woman.</i>
+5769360 5771408 <i>CUTLER: That defines their first date,</i>
+5771480 5776202 <i>but it also is the music<br />that compels Mia to come back...</i>
+5776400 5777526 Adam.
+5777720 5779848 <i>...at the very end of the film.</i>
+5793320 5794685 Mia.
+5794760 5795807 Don't.
+5795880 5797211 Sta)'-
+5799840 5802969 I know a huge part of your life<br />is forever ruined
+5803040 5805805 because of what happened today.
+5805880 5808531 I'm not dumb enough<br />to think that I can fix it.
+5808600 5810090 You can't.
+5811240 5812969 But I went to your house.
+5814240 5817562 And I had to climb up the balcony<br />to get in like I used to.
+5819680 5822411 And I found this in your mail slot.<br />(SNIFFLES)
+5824120 5826248 I totally broke and entered<br />and stole your mail,
+5826320 5828243 so the Feds might be comin' after me.
+5840960 5842246 "Dear Mia,
+5842600 5844887 "it gives me tremendous pleasure..."
+5848600 5850329 Mia, you got in.
+5851920 5853922 To Juilliard. Mia, you did it.
+5854440 5857364 <i>CUTLER: We always wondered<br />when we were prepping this...</i>
+5859600 5861568 And if you want me to come with you,<br />I will.
+5861640 5866806 <i>...if Mia getting into Juilliard,<br />Adam agreeing to come with her,</i>
+5867360 5870523 <i>Adam playing her a song,<br />if it would feel like too much.</i>
+5870600 5871681 <i>We always said,</i>
+5871800 5876010 <i>"Well, if it feels like too much,<br />we'll cut some of it out.</i>
+5876080 5877764 <i>"We'll cut back."</i>
+5878080 5880731 <i>And then when we put it together<br />and watched it,</i>
+5880800 5882165 <i>it all made sense.</i>
+5882240 5884641 <i>GREENSPAN: It worked, yeah.<br />CUTLER". It all fit together.</i>
+5884720 5887929 <i>GREENSPAN: It felt like he did<br />something heroic for her, I think.</i>
+5889120 5890645 I can't.
+5891640 5892801 You know I can't.
+5896960 5897961 (SIGHS)
+5899640 5901290 I'm still kinda working on this thing, but...
+5901360 5902361 <i>(CLEARS THROAT)</i>
+5907920 5909684 (ADAM PLAYING BALLAD)
+5911320 5913209 You wrote me a song.
+5919200 5922170 <i>(SINGING) Breathe deep, breathe clear</i>
+5922560 5927407 <i>Know that I'm here</i>
+5927640 5929449 <i>CUTLER: I know we're supposed to be<br />talking about the movie,</i>
+5929520 5932171 <i>but we're both caught up in just watching.</i>
+5932280 5936683 <i>GREENSPAN: I'm just remembering<br />watching this on set, crying. (CHUCKLING)</i>
+5938160 5940481 <i>CUTLER". It was a pretty powerful moment,</i>
+5941080 5945722 <i>when Jamie, who really<br />poured his heart into this,</i>
+5946680 5948284 <i>performed this song.</i>
+5948360 5951648 <i>We all had the same reaction.<br />The entire set.</i>
+5952680 5955126 <i>You could hear a pin drop,</i>
+5955200 5959125 <i>except for the sound of<br />people moved to tears.</i>
+5959520 5964208 <i>How could I live before?</i>
+5964560 5968360 <i>How could I have been so blind?</i>
+5968480 5970289 (AUDIO DISTORTING)
+5970400 5972687 <i>So blind</i>
+5974280 5976362 <i>CUTLER: And here, we rely on</i>
+5978400 5983884 <i>that handheld memory footage<br />that becomes increasingly de-saturated.</i>
+5984400 5987085 <i>Sounds of Mia's life, her memories,</i>
+5987720 5989768 <i>as she's struggling to make the choice.</i>
+5989840 5994243 <i>I always said there would be a sound of<br />something breaking, something cracking,</i>
+5995400 5999291 <i>and a real sense that, at the end of the day,</i>
+6000280 6003602 <i>she had chosen to go, after all.</i>
+6006080 6007411 (SILENCE)
+6019280 6020406 (GASPS)
+6023760 6024807 Mia.
+6025440 6026885 (BALLAD PLAYING)
+6027480 6029608 <i>CUTLER". Then she chooses life.</i>
+6033880 6036486 <i>And that is the end of If</i> I <i>Stay.</i>
+6036560 6037766 Um...
+6038720 6039926 <i>- I'll say this...<br />- GREENSPAN: Thank you, R.J.</i>
+6040000 6041047 <i>CUTLER". Thank you, Alison.</i>
+6041120 6044966 <i>I'll say this about<br />the song you're hearing by Tom Odell,</i>
+6045040 6046804 <i>which is called</i> Heal.
+6049080 6053324 <i>We knew so much more about<br />what this final song needed to be,</i>
+6053440 6054965 <i>the closing credits song,</i>
+6055040 6058886 <i>than we did<br />about how we would ever find it.</i>
+6059360 6062364 <i>What we knew about the song was<br />it had to be a beautiful song</i>
+6062440 6066286 <i>that somehow spoke to<br />the content of the movie.</i>
+6066640 6068881 <i>The name of this song is</i> Heal.
+6069800 6074408 <i>And would allow the audience<br />to transition down</i>
+6074480 6077848 <i>from this very emotional<br />roller-coaster experience</i>
+6077920 6080002 <i>that they had just been on.</i>
+6081800 6086488 <i>Again, this was a case where<br />we listened to hundreds of songs,</i>
+6087320 6092042 <i>and only when we heard this song</i>
+6092120 6095283 <i>did we feel that<br />we'd found what we were looking for.</i>
+6101320 6102606 <i>And then Tom went into the studio</i>
+6102680 6108449 <i>and did a special version of it just for us<br />that included this choir</i>
+6109760 6112684 <i>and elevated it to<br />an even more spiritual level,</i>
+6112880 6115963 <i>which is what we were looking for.</i>
+6116520 6120684 <i>So, thanks to him. Thanks to you, Alison.</i>
+6121680 6124604 <i>Thanks to our dear friends at MGM.</i>
+6124720 6127644 <i>GREENSPAN: The great Jon Glickman<br />and Matt Dines</i>
+6127720 6131884 <i>and Gary Barber,<br />who took a chance on our movie.</i>
+6132480 6136485 <i>CUTLER: Thanks to our good friends<br />at New Line Cinema.</i>
+6136560 6138528 <i>GREENSPAN: And Warner Brothers.<br />CUTLER". And Warner Brothers.</i>
+6138600 6140204 <i>GREENSPAN: For distributing the film.</i>
+6140320 6142129 <i>CUTLER: To Toby Emmerich.<br />GREENSPAN: We're so grateful.</i>
+6143880 6147043 <i>Richard Brener. Kevin Tsujihara.</i>
+6148000 6151163 CUTLER: <i>And</i> everyone else there. Sue Kroll.
+6152440 6156001 <i>Thanks, as well,<br />to everybody who worked on the film.</i>
+6156080 6158560 <i>You get to see their names here.</i>
+6159040 6162169 <i>Hopefully, we've spoken about all of them<br />a little bit,</i>
+6162240 6165562 <i>and given you a sense<br />of their contribution to this film.</i>
+6166800 6169690 <i>Certainly, one of the things<br />that becomes clear to me</i>
+6169760 6172445 <i>in having had this conversation</i>
+6175600 6178922 <i>is how much<br />this was a complete collaboration.</i>
+6179000 6184723 <i>How everybody's contribution is cause for</i>
+6186280 6187691 <i>whatever it is in the film</i>
+6187760 6193210 <i>that may have succeeded<br />as we hoped and dreamt it would.</i>
+6193280 6198320 <i>These names of these people are the ones...</i>
+6198400 6200129 <i>GREENSPAN: Made it happen.<br />-...who made that contribution.</i>
+6200200 6204762 <i>And, really, if everybody wasn't<br />rowing the boat in the same direction,</i>
+6204840 6208322 <i>and giving it their all, and working like dogs</i>
+6208400 6212450 <i>on rainy, dark days in Vancouver</i>
+6212560 6216804 <i>and through weeks and months<br />of post-production,</i>
+6219800 6221723 <i>none of it would have<br />come out the way it did.</i>
+6221800 6226647 <i>So, thanks to everybody<br />who contributed to the film.</i>
+6226720 6229200 <i>And once again, my friend, thanks to you.</i>
+6229280 6230406 <i>What a thrill, what a joy.</i>
+6230480 6231641 <i>GREENSPAN: Thanks to you,<br />for bringing it to life.</i>
+6231720 6232960 <i>CUTLER: And this was a blast.</i>
+6233080 6235162 <i>GREENSPAN: A true labor of love, this one.</i>
+6235240 6237641 <i>Couple of years, and you did it.</i>
+6238160 6241243 <i>I think everybody worked their butts off<br />on a shoestring,</i>
+6241320 6244642 <i>but you said it beautifully,<br />just really a labor of love.</i>
+6244720 6248964 <i>CUTLER: And thanks to you for watching.<br />We couldn't appreciate it more.</i>
+6249400 6252324 <i>- Okay, this is us high-fiving each other.<br />-(BOTH HIGH-FIVING)</i>
+6253040 6254087 GREENSPAN: (CHUCKLES) Ow.
+6254160 6256049 <i>CUTLER". And checking out.</i>
+6256120 6258930 <i>(SINGING) I played the odds</i>
+6263480 6266086 <i>Full of black and blues</i>
+6268600 6271206 <i>From all the nights with you</i>
+6271360 6273647 <i>I never wanted to go</i>
+6274000 6275889 <i>I don't want you anymore</i>
+6276520 6281447 <i>I don't want you to feel the same as me</i>
+6281640 6283927 <i>I never wanted to go</i>
+6284240 6286481 <i>But now I'm letting you know</i>
+6286680 6288967 <i>I just wanted to feel</i>
+6289200 6293728 <i>The life in me</i>
+6298360 6301204 <i>I went from solid steel</i>
+6301720 6304963 <i>To broken glass</i>
+6308600 6311331 <i>The darkest side in me</i>
+6311840 6314571 <i>You brought out fast</i>
+6319520 6322490 <i>The things I said were true</i>
+6324640 6327291 <i>I'm taking them back from you</i>
+6327560 6329927 <i>I never wanted to go</i>
+6330240 6332242 <i>I don't want you anymore</i>
+6332840 6337767 <i>I don't want you to feel the same as me</i>
+6337880 6340201 <i>I never wanted to go</i>
+6340440 6342841 <i>But now I'm letting you know</i>
+6343000 6345241 <i>I just wanted to feel</i>
+6345440 6349161 <i>The life in me</i>
+6349920 6352127 <i>I miss you</i>
+6352440 6354602 <i>I wish you</i>
+6355720 6357643 <i>Will let me be</i>
+6360080 6362287 <i>Just leave it</i>
+6362440 6364522 <i>We stopped breathing</i>
+6364600 6367570 <i>I</i> need to <i>be</i> free
+6368480 6370881 <i>I never wanted to go</i>
+6371040 6373168 <i>But now I'm letting you know</i>
+6373480 6375369 <i>I just wanted to feel</i>
+6375440 6381163 <i>The life in me</i>
