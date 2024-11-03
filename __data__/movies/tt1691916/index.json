@@ -1,0 +1,39 @@
+{
+  "imdbId": "tt1691916",
+  "title": "Before I Fall",
+  "releaseDate": "2017-03-03T00:00:00.000Z",
+  "releaseYear": 2017,
+  "posterFileName": "poster.jpg",
+  "rated": "PG-13",
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Mystery"
+  ],
+  "directors": [
+    "Ry Russo-Young"
+  ],
+  "writers": [
+    "Maria Maggenti",
+    "Lauren Oliver"
+  ],
+  "actors": [
+    "Zoey Deutch",
+    "Halston Sage",
+    "Cynthy Wu"
+  ],
+  "runTime": 98,
+  "plot": "February 12 is just another day in Sam's charmed life, until it turns out to be her last. Stuck reliving her last day over and over, Sam untangles the mystery around her death and discovers everything she's losing.",
+  "subtitleIds": [
+    "8d7cfabd",
+    "4bc293d9",
+    "6fd7cd63",
+    "c3d4495c",
+    "6cfeaa46",
+    "d44d818a",
+    "48e98d68",
+    "c27ac737",
+    "aed96447"
+  ],
+  "isAvailable": true
+}
